@@ -1,0 +1,47 @@
+name: Fetch and publish static snapshots
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch sources and regenerate docs
+        id: fetch
+        continue-on-error: true
+        run: python scripts/fetch_sources.py
+
+      - name: Commit and push updates
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/api docs/openapi.yaml
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh static weather/school snapshots"
+          git push
+
+      - name: Fail job when all upstream fetches fail
+        if: steps.fetch.outcome == 'failure'
+        run: exit 1

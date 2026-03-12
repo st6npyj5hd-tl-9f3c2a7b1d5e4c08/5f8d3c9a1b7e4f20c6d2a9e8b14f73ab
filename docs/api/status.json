@@ -1,0 +1,38 @@
+{
+  "generated_at_utc": "2026-03-11T06:46:10.276681Z",
+  "sources": [
+    {
+      "logical_name": "school-calendar",
+      "source_url": "https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27732394/File/Academics/Academic%20Calendars/Traditional/Final%202025-26%20Academic%20Calendar%202025-26.pdf",
+      "output_path": "/api/school-calendar.pdf",
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "logical_name": "area-forecast-discussion",
+      "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
+      "output_path": "/api/area-forecast-discussion.txt",
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+    },
+    {
+      "logical_name": "forecast-dwml",
+      "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
+      "output_path": "/api/forecast.dwml",
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+    }
+  ]
+}
