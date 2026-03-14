@@ -1,38 +1,38 @@
 {
-  "generated_at_utc": "2026-03-11T06:46:10.276681Z",
+  "generated_at_utc": "2026-03-14T16:40:44.093369Z",
   "sources": [
     {
       "logical_name": "school-calendar",
       "source_url": "https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27732394/File/Academics/Academic%20Calendars/Traditional/Final%202025-26%20Academic%20Calendar%202025-26.pdf",
       "output_path": "/api/school-calendar.pdf",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+      "success": true,
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes_written": 78475,
+      "sha256": "9d7dfe1d6c9e3effe3589b04aa5730e4a33de4f4a27a0e5ab97a889f9c595ea5",
+      "error": null
     },
     {
       "logical_name": "area-forecast-discussion",
       "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
       "output_path": "/api/area-forecast-discussion.txt",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_written": 29994,
+      "sha256": "d285be48445506895a77ead8bce34dfc0fcc272a1a61fb6253bd5e728d4cadb0",
+      "error": null
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "error": "URL error: Tunnel connection failed: 403 Forbidden"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/xml;charset=UTF-8",
+      "bytes_written": 11122,
+      "sha256": "bd70635d23799b713591bf74f38fd2dd43370873920e2be25a1be3eca5a460fa",
+      "error": null
     }
   ]
 }
