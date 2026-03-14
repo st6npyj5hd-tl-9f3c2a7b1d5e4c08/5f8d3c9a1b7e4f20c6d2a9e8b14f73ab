@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-14T16:40:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-14T18:28:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-767
-FXUS66 KSGX 140959
+736
+FXUS66 KSGX 141753
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-259 AM PDT Sat Mar 14 2026
+1053 AM PDT Sat Mar 14 2026
 
 .SYNOPSIS...
 Cooler this weekend with a return of the marine layer at the
@@ -421,21 +423,16 @@ details.
 &&
 
 .AVIATION...
-141200Z...VFR conditions with SCT high clouds expected today.
-Satellite shows patchy low clouds (near 300-500ft MSL) out over the
-waters, but quite offshore and south of the International Border.
-Aided by a developing coastal eddy, guidance suggests these clouds
-will gradually increase in coverage and spread northward over the
-next several hours. This brings a window (14-17z) for CIGs and
-reduced VIS (down to 2-4 SM), mainly at KSAN, but there is only
-about a 20-30% chance of this occurring. Next to 0% chance for any
-impacts at KCRQ or KSNA.
-
-Any clouds that may sneak ashore later this morning will retreat
-offshore by 17z, but the coastal eddy should continue to increase
-cloud cover over the waters into the afternoon. These clouds are
-expected to lift to around 400-800ft MSL this evening, pushing
-ashore after 02z Sunday.
+141800Z...Low clouds along the coast are lifting slightly and
+scattering out and should stay offshore through the afternoon. Low
+clouds out over the local waters with bases around 500-700 ft MSL
+will begin to push in after 02-03Z Sunday. Patchy fog with vis 4-5SM
+is expected to develop around KCRQ after 09z and KSAN after 12Z with
+a 45% of vis less than 4SM. Low clouds will begin to clear after 16-
+18Z. Otherwise, VFR conditions will prevail with stronger westerly
+winds this afternoon confined to the usual passes and canyons with
+peak gusts around 20-25 kts.
+.
 
 &&
 
@@ -444,34 +441,10 @@ Wednesday.
 
 &&
 
-.CLIMATE...
-
-The following are the existing highest temperature records for March
-for selected locations along with the highest daily NBM probability to
-set a new March record for next week. This is not a comprehensive
-list, but the most likely locations to tie or set new monthly
-record high temperatures for March are in the deserts, valleys,
-and mountains.
-
-
-Location      March Record        NBM Probability
-
-Palm Springs      104             95-100 percent (Wed,Thu,Fri)
-Indio             104             100 percent (Wed, Thu, Fri)
-Thermal           103             100 percent (Wed,Thu, Fri)
-Ramona             94             92-97 percent (Thu, Fri)
-Big Bear           80             100 percent (Thu, Fri)
-Santa Ana          98             40-50 percent (Thu, Fri)
-
-
-The existing highest 500 mb height for NKX for March is 590 DM. That
-could be exceeded for multiple days next week between Tuesday and Friday.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -488,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...SS
-AVIATION/MARINE...Munyan
+PUBLIC...SS
+AVIATION/MARINE...Villafane
 
 
 </pre>
