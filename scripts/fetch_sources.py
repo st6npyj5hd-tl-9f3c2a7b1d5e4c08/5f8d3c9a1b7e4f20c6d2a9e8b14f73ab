@@ -138,7 +138,61 @@ paths:
             application/json:
               schema:
                 type: object
-                additionalProperties: true
+                required:
+                  - generated_at_utc
+                  - sources
+                properties:
+                  generated_at_utc:
+                    type: string
+                    format: date-time
+                    description: UTC timestamp when the snapshot run completed.
+                  sources:
+                    type: array
+                    description: Per-source fetch and publish metadata.
+                    items:
+                      type: object
+                      required:
+                        - logical_name
+                        - source_url
+                        - output_path
+                        - success
+                        - http_status
+                        - content_type
+                        - bytes_written
+                        - sha256
+                        - error
+                      properties:
+                        logical_name:
+                          type: string
+                        source_url:
+                          type: string
+                          format: uri
+                        output_path:
+                          type: string
+                        success:
+                          type: boolean
+                        http_status:
+                          type:
+                            - integer
+                            - 'null'
+                        content_type:
+                          type:
+                            - string
+                            - 'null'
+                        bytes_written:
+                          type:
+                            - integer
+                            - 'null'
+                        sha256:
+                          type:
+                            - string
+                            - 'null'
+                        error:
+                          type:
+                            - string
+                            - 'null'
+                      additionalProperties: false
+                additionalProperties: false
 """
     OPENAPI_PATH.write_text(content, encoding="utf-8")
 
