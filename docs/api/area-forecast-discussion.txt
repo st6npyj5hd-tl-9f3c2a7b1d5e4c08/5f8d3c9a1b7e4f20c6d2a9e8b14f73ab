@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-15T02:36:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-15T07:00:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-708
-FXUS66 KSGX 150015
+190
+FXUS66 KSGX 150422
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-515 PM PDT Sat Mar 14 2026
+922 PM PDT Sat Mar 14 2026
 
 .SYNOPSIS...
 After a cooler day today, a great warming trend is expected for the
@@ -372,6 +374,37 @@ will peak later next week, with a gradual cooling trend thereafter.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...AVIATION AND MARINE SECTIONS UPDATED...
+
+Update: At this hour, low clouds are continuing to form along the
+coastal areas of San Diego County. These will intermittently stretch
+into some of the coastal basins and inland areas within 10 miles
+from the coast throughout the night. The ridge is going to further
+strengthen into next week and bring about unprecedented heat for
+this time of year. This will also help to weaken onshore flow and
+keep the marine layer quite depleted beginning tomorrow night.
+Temperatures will gradually continue to get hotter. Probabilities of
+temperatures exceeding 100F within the IE will jump up to 90% for a
+few of the lower-lying areas, as well as the possibility of a few
+temperatures exceeding 110F within the Coachella Valley. Other
+inland areas will likely be over 90F, with even slightly hotter
+temperatures on Friday. There will likely be most locations breaking
+daily records, with many breaking monthly records, and possibly a
+few flirting with all-time records. The duration of this extreme
+heat event is what makes it so significant. There will also likely
+need to be heat advisories (possible heat warnings) for the
+mountains and lower deserts by later in the week during the peak
+heating as a very strong ridge (nearly exceptional for this time of
+year) remains parked over the region, with heights aloft at the 500
+mb level approaching 600 dm. There will finally be some relief to
+this intense heat beginning the following weekend as the ridge
+finally begins to break down. Throughout this long duration of very
+hot temperatures, it is important to say hydrated and check up on
+loved ones vulnerable to heat (or without AC). Stay tuned for the
+latest updates to our Heat products at weather.gov/sgx/
+
+Previous discussion submitted at 109 PM:
 
 A weak trough to the north and weaker area of high pressure to the
 south has the led the marine layer to deepen. A coastal eddy over
@@ -438,17 +471,15 @@ the mountains by next Saturday, then across all areas thereafter.
 &&
 
 .AVIATION...
-150000Z...Low clouds developing just offshore locally into beaches
-this afternoon with bases around 500-700 ft MSL and visibility 2-5 SM
-for higher coastal terrain will begin to push in after 02Z. Vis and
-cigs likely to drop slightly for coastal sites 09-12Z, with a 45% of
-vis less than 4SM at KSAN after 12Z. Low clouds clear 16-18Z.
+150500Z...Patchy low clouds based 800-1200 ft MSL will move inland
+to about 15 miles overnight, with vis 2-5 SM over coastal highlands.
+Both cigs and vis likely lower slightly towards 09Z, with MVFR vis
+possible at coastal sites. Low clouds clear to coast 15-17Z.
+Patchier low clouds 400-800 ft MSL develop and move inland after 06Z
+Mon.
 
-Elsewhere, VFR conditions will prevail with breezy westerly winds
-through this evening in wind-prone passes and canyons with peak
-gusts around 20-25 kts. Breezy offshore winds develop Sun 18Z-03Z in
-west foothills locally into eastern valleys, with gusts to 20-25
-kts.
+Elsewhere, breezy offshore winds develop Sun 18Z-03Z in west
+foothills locally into eastern valleys, with gusts to 20-25 kts.
 
 &&
 
@@ -470,7 +501,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...Stewey
 AVIATION/MARINE...CSP
 
 
