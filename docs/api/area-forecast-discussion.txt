@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-15T12:57:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-15T18:41:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-061
-FXUS66 KSGX 150957
+825
+FXUS66 KSGX 151818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-257 AM PDT Sun Mar 15 2026
+1118 AM PDT Sun Mar 15 2026
 
 .SYNOPSIS...
 Marine layer low clouds over the coastal areas this morning will
@@ -374,6 +376,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...AVIATION AND MARINE SECTIONS UPDATED...
 
 Marine layer low clouds have spread into the western valleys this
 morning with mostly clear skies elsewhere. Low clouds will clear
@@ -424,39 +428,24 @@ down Saturday and Sunday, allowing for gradual cooling.
 &&
 
 .AVIATION...
-151200Z...Coasts/Western Valleys...Largely uniform low clouds (based
-800-1100ft MSL) have filled in through 15 miles in across coastal
-San Diego County, but remain somewhat patchy across Orange County.
-The cloud bases may sink a few hundred feet after 12-15z as the
-coastal eddy weakens, which could bring VIS reductions down to 4-6
-SM, largely across coastal mesas and inland valleys. CIGs expected
-to scatter for the coastal TAF sites by 17-18z this morning, with
-clouds retreating offshore for the afternoon. Patchier low clouds
-closer to 400-800ft MSL look to spread back ashore after 06z Monday,
-spreading up to 10-15 miles inland.
+151800Z...Coasts/Western Valleys...Low clouds have cleared the
+coastal areas and have given way to VFR conditions through this
+evening. Expecting patchier low clouds around 300-800ft MSL to move
+in after 06z Monday, spreading up to 10-15 miles inland. Vis
+restrictions 4-6SM will be possible mainly across coastal mesas and
+inland valleys. Low clouds will scatter 15-18Z.
 
-Patchier low clouds 400-800 ft MSL develop and move inland after 06Z
-Mon.
-
-Inland Valleys/Mountains/Deserts... Breezy offshore winds develop
-this afternoon after 18z on the coastal mountain slopes, through
-mountain passes, and locally stretching into eastern valleys. North
-to northeast wind gusts of 20-25 kts expected, locally up
-to 35 kts in mountain passes. Gusts weaken after 03z Monday.
+Inland Valleys/Mountains/Deserts... Breezy offshore winds are
+developing on the coastal mountain slopes, through mountain passes,
+and locally stretching into eastern valleys. North to northeast wind
+gusts of 20-25 kts expected, locally up to 35 kts in mountain
+passes. Gusts weaken after 03z Monday, increasing again towards the
+end of the TAF period.
 
 &&
 
-.MARINE...
-No hazardous marine conditions are expected through Thursday.
-
-&&
-
-.BEACHES...
-A long period (17-19 second) south-southwesterly swell (190-200
-degrees) builds to 2-4 feet Monday afternoon into Tuesday. Breaking
-waves of 4-6 feet are expected, with sets up to 7 feet possible on
-south-facing beaches. This swell is expected to persist into
-Wednesday, waning Wednesday night.
+.MARINE...No hazardous marine conditions are expected through
+Thursday.
 
 &&
 
@@ -486,7 +475,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE...Villafane
 
 
 </pre>
