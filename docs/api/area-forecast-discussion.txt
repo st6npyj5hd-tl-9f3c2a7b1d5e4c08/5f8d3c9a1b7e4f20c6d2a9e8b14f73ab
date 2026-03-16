@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T07:21:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T13:17:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -351,27 +351,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-984
-FXUS66 KSGX 160426
+726
+FXUS66 KSGX 161246
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-926 PM PDT Sun Mar 15 2026
+500 AM PDT Mon Mar 16 2026
 
 .SYNOPSIS...
-High pressure off the coast will continue to pass over the region
-and strengthen through the week, bringing a long-duration and early
-season heat wave. Patchy low clouds and fog will occur once again
-near the coast on Monday morning before mostly clear skies take hold
-thereafter. This heat event will encompass temperatures up to 30
-degrees above normal for this time of year, leading to moderate to
-high heat risk and record breaking temperatures. The area of high
-pressure will begin to weaken by next weekend, allowing for a
-gradual cooling trend.
+High pressure will strengthen this week with all-time record heat
+for March for some inland locations for the latter half of this
+week. There will be weak offshore lower-level flow for today with
+northerly gusts to 25 to 35 mph along and below the coastal slopes
+of the mountains and on Tuesday with east to northeast gusts to
+30 to 40 mph. Some cooling is expected for next Sunday and
+Monday, but with high temperatures for inland areas still 10 to 15
+degrees above average for Monday of next week.
 
 &&
 
@@ -379,121 +380,88 @@ gradual cooling trend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...AVIATION SECTION UPDATED...
+.SHORT TERM (Today through Wednesday)...
+High pressure aloft off the California coast will move slowly
+eastward this week and slowly strengthen with the strongest high
+pressure aloft over southern California centered around Thursday.
+The current record for highest 500 mb height for San Diego for
+March is around 590 DM. The previous earliest the 500 mb height
+for San Diego has reached 594 DM is May 22nd. The earliest for 595
+DM is early June.
 
-Update: With weak offshore winds returning to the region, it is
-going to help to suppress marine layer development along to coast
-tonight, with mostly clear skies prevailing. The ridge will continue
-to strengthen throughout the week, with the ridge peaking out in
-intensity by Thursday into Friday. Not only are temperatures
-exceptionally warm, given the time of year, but the duration of
-prolonged heat for widespread locations is what is making this an
-unprecedented heat wave, especially for this time of year. By
-Thursday, it is possible that there will be a few locations possibly
-breaking monthly records, and then again on Friday as temperatures
-will be at their hottest. There could even be a few locations
-flirting with all-time records, with projected temperatures reaching
-into the mid to upper 100s within the IE for the later part of the
-work week. We will finally begin to see relief from this immense
-heat beginning the following weekend; cooling from west to east.
-This will occur as the ridge begins to finally weaken with more
-troughing influencing the region. Be sure to stay alert to any
-updates to our Heat Watches and Advisories at weather.gov/sgx/
+There will also be weak offshore lower-level flow for today with
+north winds gusts to 25 to 35 mph below the Cajon Pass and near
+the coastal foothills of the Santa Ana Mountains. Offshore flow
+will be slightly stronger on Tuesday with east to northeast gusts
+to 30 to 40 mph.
 
-Previous discussion submitted at 1251 PM:
+The marine layer is around 1200 feet deep early this morning with
+satellite imagery showing coastal low clouds extending inland into
+northwestern Orange County.
 
-Marine layer clouds have cleared out from this morning as the marine
-layer reached its max depth of the week near 1500-1800 feet. An area
-of high pressure off the coast will continue to strengthen,
-suppressing the marine layer into tonight and Monday morning. This
-will leave the chance for low clouds and fog to return closer to the
-immediate coast by Monday morning. The area of high pressure will
-strengthen into the upcoming week, with mostly clear skies expected
-across SoCal Tuesday onward.
+The greatest warming of high temperatures for today, of around 8
+to 12 degrees, will be for inland coastal areas with most areas
+warming another 4 to 8 degrees on Tuesday. On Wednesday, a weak
+coastal eddy could bring a few degrees of cooling for inland
+coastal areas into the western valleys with the mountains and
+deserts warming another few to around 5 degrees.
 
-High temperatures today will be fairly similar to yesterday across
-the region with the greatest warming of 3-5 degrees expected across
-the Inland Empire and Orange County. Upper level winds will be
-offshore on Monday and Tuesday as the high strengthens, which will
-contribute to a warming trend and long-duration heat wave across the
-region. The high will be centered over our area by Tuesday and
-Wednesday, becoming a very strong and hot air mass as models depict
-a ~594 dm high over the region. This will bring temperatures near 20
-to 30 degrees above normal by this time period. Tuesday will be the
-first day of triple digit heat for some parts of the Inland Empire
-and lower deserts. Temperatures increase slightly on Wednesday, most
-notably over the mountains and deserts by another 3-5 degrees. 80s
-will be common across the mountains of RIV/SD Counties with 70s and
-lower 80s in the SBD mountains. The mountains will not be escaping
-the heat this week, so please limit outdoor recreation each
-afternoon in these areas.
-
-Models continue to show the timing of the high peaking in strength on
-Thursday and Friday. This will bring the hottest temperatures of the
-week across the area as models show an unusual summer-like 595-597
-dm high over our region as we enter the first days of spring. Our
-confidence is moderate on the exact strength of the high, which will
-dictate exactly how hot we get later this week. The average high in
-Julian in the SD County mts this time of year is 57 degrees but has
-around a 60-75% chance of seeing highs reach 90 by Thursday and
-especially Friday. Not only record temperatures for the month of
-March are expected to break, but also even for April. The record
-highs for the month of April at Indio and Thermal are 110 for both
-sites, where NBM indicates a ~70% chance of breaking this record.
-Triple digit heat has around a 50-50 chance of occurring across the
-inland San Diego valleys (Alpine, El Cajon, Poway, etc.) and
-northern Orange County (Lake Forest, Anaheim, etc.). Temperatures
-will likely surpass the 100 degree mark across the Inland Empire on
-Thursday and Friday, with areas around San Bernardino and Riverside
-seeing a 50-70% chance of temperatures reaching 105 degrees. March
-record highs for Big Bear (80 degrees) and Idyllwild (82 degrees)
-will likely be broken during this time period as well.
-
-With moderate to high heat risk in the forecast, please check on
-family, friends, and neighbors this coming week! Make sure you have
-plenty of water and fans to cool off if there is no cooling system
-or cooling centers available near you. Outdoor activities should be
-limited as the duration of this early season heat wave will lead to
-increased risk of heat illness.
-
-Models show fair agreement on the ridge slowly breaking down by next
-weekend. This will help spread onshore flow and subtle cooling first
-from the coast to the mountains on Saturday, then all areas by next
-Sunday. Models become more varied by early next week, but the warmer
-than average and dry weather pattern looks to continue as we head
-toward the end of March.
-
+High temperature records for today are most likely to be tied or
+broken in portions of the valleys and lower deserts. On Tuesday,
+high temperatures near or exceeding daily records are most likely
+for the mountains, deserts, and valleys with widespread record
+high temperatures on Wednesday. Some of those could exceed the
+existing daily record by more than 5 degrees with some exceeding
+the existing monthly record for March.
 
 &&
 
-.AVIATION...
-160500Z...Coasts/Western Valleys...Patchy low clouds 300-800ft MSL
-reform and move in coastal areas after 08Z, moving 10-15 miles
-inland overnight. Vis restrictions 3-5SM will be possible mainly
-across coastal mesas and inland valleys. Clouds will be more
-patchwork than last night, leading to low to mod confidence in
-initial timing of cigs, and intermittent scatter out overnight is
-likely. Low clouds clear in most areas 14-16Z, followed by
-widespread VFR.
+.LONG TERM (Thursday through Sunday)...
+The heat is expected to peak for most areas on Thursday or Friday
+with record high 500 mb heights for March over southern
+California. Widespread record heat will continue through Saturday.
+Weakening high pressure aloft and onshore flow will begin to
+spread cooling inland on Sunday and Monday, but with high
+temperatures for inland areas for Monday of next week still 10 to
+15 degrees above average.
 
-Inland Valleys/Mountains/Deserts... Another period of N/NE offshore
-winds over coastal mountain slopes, through mountain passes, and
-locally stretching into eastern valleys areas 18Z Mon to 02Z Tue.
-Winds gusting 20-25 kts.
+The currently forecast low temperatures for Idyllwild of 64 for
+both Friday and Saturday would be the earliest for such a warm low
+temperature at Idyllwild by almost three months, the current
+earliest date for such a warm low temperature being June 16th
+(2021).
+
+&
+
+.AVIATION...
+161100Z...Coasts...Patchy low clouds and fog mainly in northwest
+Orange County this morning. Bases around 400-800 feet MSL and vis 3-
+6SM. Scatter out should occur by 15-16Z. Extremely isolated low
+clouds tonight into Tuesday.
+
+Valleys/Mountains/Deserts...Locally gusty north-northeast winds
+gusting to 25 knots in foothills and locally into valleys through
+22Z today.
 
 &&
 
 .MARINE...No hazardous marine conditions are expected through
-Thursday.
+Friday.
 
 &&
 
 .BEACHES...
 A long period (17-19 second) south-southwesterly swell (190-200
-degrees) builds to 2-4 feet Monday afternoon into Tuesday. This will
-lead to breaking waves of 4-6 feet, with sets up to 7 feet possible
-on south-facing beaches. This swell is expected to persist into
-Wednesday, waning Wednesday night.
+degrees) builds to 2-4 feet with sets to 5 feet this afternoon into
+Tuesday, then decreasing Wednesday. Locally hazardous swimming
+conditions are expected. A Beach Hazards Statement contains the
+details.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -501,8 +469,8 @@ Wednesday, waning Wednesday night.
 CA...Beach Hazards Statement through Wednesday evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM Monday to 8 PM PDT Friday for Orange
-     County Coastal Areas-Orange County Inland Areas-San
+     Heat Advisory from 10 AM this morning to 8 PM PDT Friday for
+     Orange County Coastal Areas-Orange County Inland Areas-San
      Bernardino and Riverside County Valleys-The Inland Empire-
      San Diego County Coastal Areas-San Diego County Valleys-
      Santa Ana Mountains and Foothills.
@@ -518,7 +486,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
+PUBLIC...17
 AVIATION/MARINE/BEACHES...CSP
 
 
