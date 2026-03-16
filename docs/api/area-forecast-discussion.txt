@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T02:24:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T07:21:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-303
-FXUS66 KSGX 160004
+984
+FXUS66 KSGX 160426
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-504 PM PDT Sun Mar 15 2026
+926 PM PDT Sun Mar 15 2026
 
 .SYNOPSIS...
 High pressure off the coast will continue to pass over the region
@@ -377,7 +379,28 @@ gradual cooling trend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...AVIATION AND MARINE SECTIONS UPDATED...
+...AVIATION SECTION UPDATED...
+
+Update: With weak offshore winds returning to the region, it is
+going to help to suppress marine layer development along to coast
+tonight, with mostly clear skies prevailing. The ridge will continue
+to strengthen throughout the week, with the ridge peaking out in
+intensity by Thursday into Friday. Not only are temperatures
+exceptionally warm, given the time of year, but the duration of
+prolonged heat for widespread locations is what is making this an
+unprecedented heat wave, especially for this time of year. By
+Thursday, it is possible that there will be a few locations possibly
+breaking monthly records, and then again on Friday as temperatures
+will be at their hottest. There could even be a few locations
+flirting with all-time records, with projected temperatures reaching
+into the mid to upper 100s within the IE for the later part of the
+work week. We will finally begin to see relief from this immense
+heat beginning the following weekend; cooling from west to east.
+This will occur as the ridge begins to finally weaken with more
+troughing influencing the region. Be sure to stay alert to any
+updates to our Heat Watches and Advisories at weather.gov/sgx/
+
+Previous discussion submitted at 1251 PM:
 
 Marine layer clouds have cleared out from this morning as the marine
 layer reached its max depth of the week near 1500-1800 feet. An area
@@ -440,11 +463,12 @@ Sunday. Models become more varied by early next week, but the warmer
 than average and dry weather pattern looks to continue as we head
 toward the end of March.
 
+
 &&
 
 .AVIATION...
-160000Z...Coasts/Western Valleys...Patchy low clouds 300-800ft MSL
-reform and move in coastal areas after 05Z, moving 10-15 miles
+160500Z...Coasts/Western Valleys...Patchy low clouds 300-800ft MSL
+reform and move in coastal areas after 08Z, moving 10-15 miles
 inland overnight. Vis restrictions 3-5SM will be possible mainly
 across coastal mesas and inland valleys. Clouds will be more
 patchwork than last night, leading to low to mod confidence in
@@ -452,12 +476,10 @@ initial timing of cigs, and intermittent scatter out overnight is
 likely. Low clouds clear in most areas 14-16Z, followed by
 widespread VFR.
 
-Inland Valleys/Mountains/Deserts... Breezy offshore winds over
-coastal mountain slopes, through mountain passes, and locally
-stretching into eastern valleys through 03Z. North to northeast wind
-gusts of 20-25 kts expected, locally up to 35 kts in mountain
-passes. Another period of slightly lighter offshore winds in similar
-areas will begin after 18Z Mon.
+Inland Valleys/Mountains/Deserts... Another period of N/NE offshore
+winds over coastal mountain slopes, through mountain passes, and
+locally stretching into eastern valleys areas 18Z Mon to 02Z Tue.
+Winds gusting 20-25 kts.
 
 &&
 
@@ -496,7 +518,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...Stewey
 AVIATION/MARINE/BEACHES...CSP
 
 
