@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T13:17:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T19:05:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -356,23 +356,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-726
-FXUS66 KSGX 161246
+482
+FXUS66 KSGX 161816
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-500 AM PDT Mon Mar 16 2026
+1116 AM PDT Mon Mar 16 2026
 
 .SYNOPSIS...
-High pressure will strengthen this week with all-time record heat
-for March for some inland locations for the latter half of this
-week. There will be weak offshore lower-level flow for today with
-northerly gusts to 25 to 35 mph along and below the coastal slopes
-of the mountains and on Tuesday with east to northeast gusts to
-30 to 40 mph. Some cooling is expected for next Sunday and
-Monday, but with high temperatures for inland areas still 10 to 15
-degrees above average for Monday of next week.
+Hot conditions with well above average temperatures expected this
+week. Weak offshore flow is expected today and tomorrow, with east
+to northeast wind gusts 25 to 40 mph along and below the coastal
+slopes of the mountains. Some cooling is expected through the
+weekend into early next week. Even with the cooling high
+temperatures for inland areas still 10 to 15 degrees above average.
+Marine layer low clouds and fog will be largely absent from the
+coast this week.
 
 &&
 
@@ -380,68 +380,62 @@ degrees above average for Monday of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Wednesday)...
-High pressure aloft off the California coast will move slowly
-eastward this week and slowly strengthen with the strongest high
-pressure aloft over southern California centered around Thursday.
-The current record for highest 500 mb height for San Diego for
-March is around 590 DM. The previous earliest the 500 mb height
-for San Diego has reached 594 DM is May 22nd. The earliest for 595
-DM is early June.
+A persistent anomalously strong upper level area of high pressure is
+expected over Southern California this week. The high is expected to
+be at its strongest Thursday and Friday, with the potential for 500
+mb height records to be broken for the month of March. Most days
+this week have the potential for daily temperature records to be
+broken or tied, with the potential for monthly temperature records
+to be broken or tied Wednesday through Friday. See the climate
+section below for more information.
 
-There will also be weak offshore lower-level flow for today with
-north winds gusts to 25 to 35 mph below the Cajon Pass and near
-the coastal foothills of the Santa Ana Mountains. Offshore flow
-will be slightly stronger on Tuesday with east to northeast gusts
-to 30 to 40 mph.
+For today and Tuesday, weak east to northeasterly winds are
+expected. Peak gusts of 25 to 40 mph are expected on the coastal
+mountain foothills and below passes. Strongest winds are expected on
+Tuesday. Weak offshore flow, combined with the building ridge aloft
+will result in warmer conditions for the coast and valleys. High
+temperatures at the coast and western valleys will peak on Tuesday.
+Widespread moderate to locally major HeatRisk are expected. Reduce
+outdoor activities if possible between 10 AM and 5 PM, seek shade,
+and stay hydrated. On Wednesday, a weak coastal eddy could bring a
+few degrees of cooling for inland coastal areas into the western
+valleys with the mountains and deserts warming another 3 to 5
+degrees.
 
-The marine layer is around 1200 feet deep early this morning with
-satellite imagery showing coastal low clouds extending inland into
-northwestern Orange County.
+The heat is expected to peak for most inland areas on Thursday or
+Friday. Widespread moderate to areas of major HeatRisk are expected.
+High temperatures will be 20 to 30 degrees above average for this
+time of year. Daily and monthly temperature records are expected to
+be broken or tied for locations like Ramona, Big Bear Lake,
+Idyllwild, Palm Springs, and Borrego Springs. Overnight lows will
+also be elevated, which will limit overnight relief from the heat.
+The currently forecast low temperatures for Idyllwild of 64 for both
+Friday and Saturday would be the earliest for such a warm low
+temperature at Idyllwild by almost three months, the current
+earliest date for such a warm low temperature being June 16th (2021).
 
-The greatest warming of high temperatures for today, of around 8
-to 12 degrees, will be for inland coastal areas with most areas
-warming another 4 to 8 degrees on Tuesday. On Wednesday, a weak
-coastal eddy could bring a few degrees of cooling for inland
-coastal areas into the western valleys with the mountains and
-deserts warming another few to around 5 degrees.
+Weakening high pressure aloft and onshore flow will begin to spread
+cooling inland as early as Saturday for place west of the mountains,
+with cooling spreading inland Sunday and Monday. Even with the
+cooling high temperatures for inland areas for Monday of next week
+still 10 to 15 degrees above average. Much of this week will see an
+absence of marine layer low clouds and fog, with the potential for
+clouds and fog to return late in the weekend or early next week.
 
-High temperature records for today are most likely to be tied or
-broken in portions of the valleys and lower deserts. On Tuesday,
-high temperatures near or exceeding daily records are most likely
-for the mountains, deserts, and valleys with widespread record
-high temperatures on Wednesday. Some of those could exceed the
-existing daily record by more than 5 degrees with some exceeding
-the existing monthly record for March.
 
 &&
 
-.LONG TERM (Thursday through Sunday)...
-The heat is expected to peak for most areas on Thursday or Friday
-with record high 500 mb heights for March over southern
-California. Widespread record heat will continue through Saturday.
-Weakening high pressure aloft and onshore flow will begin to
-spread cooling inland on Sunday and Monday, but with high
-temperatures for inland areas for Monday of next week still 10 to
-15 degrees above average.
+.AVIATION... 161800Z...Coasts...Low clouds have pulled out of KSNA
+and are still lingering around 700 ft MSL along OCs immediate coast.
+VFR conditions are expected to last through the TAF period. Any low
+cloud formation tonight into Tuesday morning will be extremely
+isolated.
 
-The currently forecast low temperatures for Idyllwild of 64 for
-both Friday and Saturday would be the earliest for such a warm low
-temperature at Idyllwild by almost three months, the current
-earliest date for such a warm low temperature being June 16th
-(2021).
-
-&
-
-.AVIATION...
-161100Z...Coasts...Patchy low clouds and fog mainly in northwest
-Orange County this morning. Bases around 400-800 feet MSL and vis 3-
-6SM. Scatter out should occur by 15-16Z. Extremely isolated low
-clouds tonight into Tuesday.
-
-Valleys/Mountains/Deserts...Locally gusty north-northeast winds
-gusting to 25 knots in foothills and locally into valleys through
-22Z today.
+Valleys/Mountains/Deserts...Gusty winds up to 20-25 knots out of the
+north-northeast continue in the coastal mountain slopes, through
+mountain passes, and locally into the valleys through 02Z Tuesday.
+Winds out of the north-northest will increase after 11Z-13Z Tuesday
+in those same areas with gusts up to 25-30 knots.
 
 &&
 
@@ -452,10 +446,64 @@ Friday.
 
 .BEACHES...
 A long period (17-19 second) south-southwesterly swell (190-200
-degrees) builds to 2-4 feet with sets to 5 feet this afternoon into
+degrees) builds to 3-5 feet with sets to 6 feet this afternoon into
 Tuesday, then decreasing Wednesday. Locally hazardous swimming
 conditions are expected. A Beach Hazards Statement contains the
 details.
+
+&&
+
+.CLIMATE...
+
+Here are a list of locations currently forecast to break/tie
+monthly high temperature records Wednesday through Friday:
+
+Wednesday:
+
+
+                      HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             95    89 IN 1997      68    26  Monthly Record: 94
+    IDYLLWILD          85    75 IN 2004      60    25  Monthly Record: 82
+    PALOMAR MOUNTAIN   83    74 IN 2004      57    25  Monthly Record: 82
+    LAKE CUYAMACA      84    76 IN 2007      56    30  Monthly Record: 82
+    CAMPO              94    89 IN 2004      68    26  Monthly Record: 92
+    PALM SPRINGS      104    95 IN 1990      79    28  Monthly Record: 104
+    INDIO             104    99 IN 2007      81    26  Monthly Record: 104
+    THERMAL           105    97 IN 1997      82    27  Monthly Record: 103
+    BORREGO           102    97 IN 1972      80    24  Monthly Record: 101
+
+
+Thursday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      80    70 IN 1997      52    28   Monthly Record: 80
+    IDYLLWILD          87    77 IN 1997      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   85    76 IN 2007      57    28   Monthly Record: 82
+    LAKE CUYAMACA      86    79 IN 1956      56    30   Monthly Record: 82
+    CAMPO              95    87 IN 1997      69    26   Monthly Record: 92
+    PALM SPRINGS      109    97 IN 1997      80    29   Monthly Record: 104
+    INDIO             109    98 IN 1997      81    28   Monthly Record: 104
+    THERMAL           111   101 IN 1997      82    29   Monthly Record: 103
+    BORREGO           104    95 IN 2017      80    24   Monthly Record: 101
+
+Friday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      81    72 IN 2004      52    29   Monthly Record: 80
+    IDYLLWILD          87    79 IN 2004      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   86    76 IN 1972      57    29   Monthly Record: 82
+    LAKE CUYAMACA      88    75 IN 2004      56    32   Monthly Record: 82
+    CAMPO              96    92 IN 1997      69    27   Monthly Record: 92
+    PALM SPRINGS      107    98 IN 2004      80    31   Monthly Record: 104
+    INDIO             107   100 IN 2004      81    31   Monthly Record: 104
+    THERMAL           108   101 IN 2004      82    32   Monthly Record: 103
+    BORREGO           106    97 IN 1997      80    26   Monthly Record: 101
+
+
 
 &&
 
@@ -463,22 +511,26 @@ details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Beach Hazards Statement through Wednesday evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM this morning to 8 PM PDT Friday for
-     Orange County Coastal Areas-Orange County Inland Areas-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Coastal Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
+     Heat Advisory until 8 PM PDT Friday for Orange County Coastal
+     Areas-Orange County Inland Areas-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Coastal Areas-San Diego County Valleys-Santa Ana Mountains
+     and Foothills.
 
-     Extreme Heat Watch from Thursday morning through Friday evening
-     for Coachella Valley-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
+     Heat Advisory from 10 AM Wednesday to 8 PM PDT Friday for
+     Riverside County Mountains-San Bernardino County Mountains-
+     San Diego County Mountains.
+
+     Extreme Heat Warning from 10 AM Wednesday to 8 PM PDT Saturday
+     for Coachella Valley-San Diego County Deserts-San Gorgonio
+     Pass near Banning.
 
 PZ...None.
 
@@ -486,8 +538,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC/CLIMATE...CO
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
