@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-17T02:22:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-17T07:07:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,18 +349,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-438
-FXUS66 KSGX 170041
+659
+FXUS66 KSGX 170403
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-541 PM PDT Mon Mar 16 2026
+903 PM PDT Mon Mar 16 2026
 
 .SYNOPSIS...
 Hot conditions with well above average temperatures expected this
@@ -377,6 +375,29 @@ coast this week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+Update: Weak offshore winds are slowly starting to return to the
+coast at this hour, which has helped to push out the low cloud
+deck/fog bank along portions of the San Diego coastline this
+evening. These weak offshore winds should help to keep the marine
+layer mostly confined to just the coastal areas, with minimal
+coverage over land within 5 miles from the coast. Other than some
+passing high clouds, the rest of the region should observe mostly
+clear skies. The ridge overhead will continue to strengthen
+throughout the week, with the ridge peaking out in intensity by
+Thursday into Friday. Not only are temperatures exceptionally warm,
+given the time of year, but the duration of prolonged heat for
+widespread locations is what is making this an unprecedented heat
+wave, especially for this time of year. By Thursday, it is possible
+that there will be a few locations possibly breaking monthly
+records, and then again on Friday. We will finally begin to see some
+relief from this heat beginning this upcoming weekend; gradually
+cooling from west to east. This will occur as the ridge begins to
+finally weaken with more troughing influencing the region. Be sure
+to stay alert to any updates to our Heat Watches and Advisories
+at weather.gov/sgx/
+
+Previous discussion submitted at 1116 AM:
 
 A persistent anomalously strong upper level area of high pressure is
 expected over Southern California this week. The high is expected to
@@ -423,15 +444,17 @@ clouds and fog to return late in the weekend or early next week.
 &&
 
 .AVIATION...
-170000Z...Coasts...Deck of low clouds around 200-300ft MSL lingering
-along the beaches and nearshore waters across north-central San
-Diego County this evening. These clouds, and any clouds, are
-expected to be very patchy overnight, remaining largely offshore
-with little to no impact to any TAF sites.
+170600Z...Coasts...Deck of low clouds around 200-300ft MSL lingering
+offshore of San Diego County this evening. Patchy low clouds remains
+possible out over the waters and just offshore through the overnight
+hours, with a low chance (<10%) of impacting any TAF sites.
+Similarly patchy low clouds are possible again along the coasts
+after 02z Wednesday.
 
-Valleys/Mountains/Deserts...Gusty winds up to 20-25 knots out of the
-north-northeast seen this afternoon should gradually decrease this
-evening. Offshore winds turn more easterly on Tuesday, with gusts to
+Valleys/Mountains/Deserts...Offshore winds have largely waned this
+evening for the valleys, though north-northeasterly gusts 15-20 kts
+remain possible through the overnight hours for the mountains and
+passes. Offshore winds turn more easterly on Tuesday, with gusts to
 20-25 kts possible after 12z Tuesday, mostly in and just below
 mountain passes.
 
@@ -444,10 +467,17 @@ Friday.
 
 .BEACHES...
 A long period (17-19 second) south-southwesterly swell (190-200
-degrees) builds to 3-5 feet with sets to 6 feet this afternoon into
-Tuesday, then decreasing Wednesday. Locally hazardous swimming
-conditions are expected. A Beach Hazards Statement contains the
-details.
+degrees) builds overnight, bringing breaking waves of 3-6 feet, with
+sets up to 7 feet on south-facing beaches. Swell and associated surf
+decreases on Wednesday. Locally hazardous swimming conditions are
+expected. A Beach Hazards Statement contains more details.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
