@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-17T13:16:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-17T19:05:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,29 +347,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-679
-FXUS66 KSGX 170925
+963
+FXUS66 KSGX 171818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-225 AM PDT Tue Mar 17 2026
+1118 AM PDT Tue Mar 17 2026
 
 .SYNOPSIS...
-High pressure will strengthen this week with all-time record
-strong high pressure for March for most of the southwest states
-and surrounding areas for the latter half of the week will all-
-time record heat for March for inland areas. There will be weak
-offshore flow today with east to northeast winds gusting to 30 to
-40 mph along and below the coastal slopes of the mountains. For
-Sunday into early next week, weakening high pressure aloft and
-onshore flow will allow cooling to spread inland, but with high
-temperatures remaining well above average, as much as 10 to 15
-degrees above average through Tuesday of next week for inland
-areas.
+Hot conditions with record breaking temperatures this week. Weak
+offshore flow is expected today, with east to northeast wind gusts
+25 to 45 mph along and below the coastal slopes of the mountains.
+Some cooling is expected through the weekend into early next week.
+Even with the cooling high temperatures will remain above average.
+Marine layer low clouds and fog will be largely absent from the
+coast this week, potentially returning by late this weekend.
 
 &&
 
@@ -377,46 +375,51 @@ areas.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Thursday)...
-High pressure will continue to strengthen the next few days with
-the strongest high pressure on record for March expected during
-the latter part of this week for large area centered on the
-southwest states. A shallow marine layer is expected to moderate
-the heat near the coast. However, record heat will continue for
-inland areas into next week. A large number of daily heat records
-are expected to be tied of broken for inland areas, both for high
-temperatures and for record warm low temperatures. For some
-locations, records for the month of March will be broke and not
-necessarily by small margins. Widespread moderate or greater Heat
-Risk will continue into the weekend except near the coast and for
-high elevations of the mountains, mostly above 6500 feet.
+Weak offshore flow is being observed across the area as of 11 AM.
+The strongest northeast to east winds are being observed on the
+coastal mountain slopes and below passes with peak gusts 30 to 45
+mph. These offshore winds combined with building high pressure aloft
+will make for a toasty day, especially for the coast and western
+valleys. Temperatures in both coastal and inland Orange County are
+running 15 to 25 degrees warmer than this time yesterday. Further
+south in San Diego County, temperatures are running 7 to 15 degrees
+warmer than yesterday. A few daily high and low temperature records
+were broken yesterday with more expected to be broken today.
+Widespread moderate to locally major HeatRisk is expected each day
+this week. Reduce outdoor activities if possible between 10 AM and 5
+PM, seek shade, and stay hydrated.
 
-On Thursday, high temperatures for the inland valleys and lower
-elevations of the mountains will be as much as 30 to 35 degrees
-above average. Thursday high temperatures will range from around
-80 near the coast to the upper 90s to 103 for the inland valleys
-with the lower deserts reaching 105 to 110.
+Places along the immediate coast will see some relief from the heat
+Wednesday onward, as weak onshore flow returns. That won`t be the
+case for inland locations, with an addition 3 to 5 degrees of
+warming on Wednesday and even further warming for Thursday and
+Friday. The high pressure aloft will peak in strength on Thursday or
+Friday with high temperatures 20 to 30 degrees above average for
+this time of year. Daily and monthly temperature records are
+expected to be broken or tied for locations like Ramona, Big Bear
+Lake, Idyllwild, Palm Springs, and Borrego Springs. More information
+on monthly temperature records can be found in the climate section
+below. Overnight lows will also be elevated, which will limit
+overnight relief from the heat for most locations.
 
-&&
-
-.LONG TERM (Friday through Monday)...
-Record heat will continue into the weekend with all-time record
-heat for March for inland areas continuing through at least Friday.
-For Sunday into early next week, onshore flow and weakening high
-pressure will begin to spread cooling inland, but with high
-temperatures for inland areas still 10 to 15 degrees above average
-for early next week. For early next week, far fewer records for
-heat will be tied or broken, mostly just daily records and by
-smaller margins.
+Weakening high pressure aloft and strengthening onshore flow will
+bring 5 to 7 degrees of cooling to place west of the mountains
+Saturday, with cooling spreading to the mountains and deserts Sunday
+and Monday. Weak ridging aloft will maintain highs 10 to 20 degrees
+above average across the area through at least next Tuesday. Much of
+this week will see an absence of marine layer low clouds and fog,
+with the potential for clouds and fog to return to coastal areas
+late in the weekend or early next week.
 
 &&
 
 .AVIATION...
-170930Z...Mostly clear skies today and tonight. Isolated low clouds
-and fog near the coast through 16Z and again after 05Z tonight into
-Wednesday, most likely near KSAN. Low confidence of cigs and reduced
-vis at coastal airports. East to northeast winds gusting 25-30 knots
-in foothills through 20Z.
+171800Z...VFR conditions expected through the TAF period. Gusty
+winds around 25-30 kts out of the northeast are beginning to
+decrease and will continue to do so through 21Z. Isolated low clouds
+along the coast beginning near KSAN after 05Z and stretching north
+near KCRQ after 06Z. Not expecting any impacts to cigs or vis at
+coastal airports.
 
 &&
 
@@ -427,26 +430,102 @@ Saturday.
 
 .BEACHES...
 A long period (17-19 second) south-southwesterly swell (190-200
-degrees) will continue today, bringing occasional surf sets up to 6
-feet in Orange County, before gradually decreasing Wednesday.
-Locally hazardous swimming conditions are expected. A Beach Hazards
-Statement contains more details.
+degrees) to 3-5 feet will continue today, bringing occasional surf
+sets up to 6 feet on south-facing beaches, before decreasing
+Wednesday evening. Locally hazardous swimming conditions are
+expected. A Beach Hazards Statement contains more details.
 
 &&
 
 .CLIMATE...
-High pressure will continue to strengthen into Thursday or Friday
-with the southwest states and a large surrounding area having the
-strongest high pressure on record for March for data that goes
-back to the early 1950s. Climatologically, the strongest high
-pressure aloft for southern California as measured by 500 mb
-heights occurs during late July. The high pressure aloft expected
-over San Diego County late this week would be comparable to the 8
-to 10 percent of highest 500 mb heights during late July.
 
-Several inland locations are expected to break records for March
-and for January through March for both high temperatures and for
-record warm low temperatures.
+Here are a list of locations currently forecast to break/tie
+monthly high temperature records Wednesday through Friday:
+
+Wednesday:
+
+                      HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             94    89 IN 1997      68    26  Monthly Record: 94
+    IDYLLWILD          85    75 IN 2004      60    25  Monthly Record: 82
+    PALOMAR MOUNTAIN   83    74 IN 2004      57    25  Monthly Record: 82
+    LAKE CUYAMACA      85    76 IN 2007      56    30  Monthly Record: 82
+    CAMPO              94    89 IN 2004      68    26  Monthly Record: 92
+    PALM SPRINGS      106    95 IN 1990      79    28  Monthly Record: 104
+    INDIO             105    99 IN 2007      81    26  Monthly Record: 104
+    THERMAL           106    97 IN 1997      82    27  Monthly Record: 103
+    BORREGO           103    97 IN 1972      80    24  Monthly Record: 101
+
+
+Thursday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+    RAMONA             97    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      80    70 IN 1997      52    28   Monthly Record: 80
+    IDYLLWILD          87    77 IN 1997      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   85    76 IN 2007      57    28   Monthly Record: 82
+    LAKE CUYAMACA      87    79 IN 1956      56    30   Monthly Record: 82
+    CAMPO              95    87 IN 1997      69    26   Monthly Record: 92
+    PALM SPRINGS      107    97 IN 1997      80    29   Monthly Record: 104
+    INDIO             106    98 IN 1997      81    28   Monthly Record: 104
+    THERMAL           108   101 IN 1997      82    29   Monthly Record: 103
+    BORREGO           105    95 IN 2017      80    24   Monthly Record: 101
+
+Friday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             95    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      81    72 IN 2004      52    29   Monthly Record: 80
+    IDYLLWILD          87    79 IN 2004      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   85    76 IN 1972      57    29   Monthly Record: 82
+    LAKE CUYAMACA      87    75 IN 2004      56    32   Monthly Record: 82
+    CAMPO              96    92 IN 1997      69    27   Monthly Record: 92
+    PALM SPRINGS      108    98 IN 2004      80    31   Monthly Record: 104
+    INDIO             108   100 IN 2004      81    31   Monthly Record: 104
+    THERMAL           108   101 IN 2004      82    32   Monthly Record: 103
+    BORREGO           106    97 IN 1997      80    26   Monthly Record: 101
+
+Here are a list of locations currently forecast to break/tie
+monthly highest low temperature records Wednesday through Friday:
+
+Wednesday:
+
+              FORECAST LOW   RECORD  YEAR
+
+    RIVERSIDE          67     57 IN 1995  Monthly Record: 66
+    LAKE ELSINORE      63     55 IN 2015  Monthly Record: 61
+    ESCONDIDO          63     59 IN 2015  Monthly Record: 63
+    ALPINE             69     58 IN 1978  Monthly Record: 63
+    LAKE CUYAMACA      62     51 IN 2015  Monthly Record: 55
+    PALM SPRINGS       73     68 IN 2004  Monthly Record: 70
+
+Thursday:
+
+             FORECAST LOW   RECORD  YEAR
+
+    RIVERSIDE          67     57 IN 1995 Monthly Record: 66
+    LAKE ELSINORE      62     56 IN 1986 Monthly Record: 61
+    ALPINE             69     55 IN 1990 Monthly Record: 63
+    IDYLLWILD          64     43 IN 2017 Monthly Record: 50
+    LAKE CUYAMACA      64     53 IN 2017 Monthly Record: 55
+    CAMPO              58     51 IN 1951 Monthly Record: 58
+    PALM SPRINGS       74     64 IN 2017 Monthly Record: 70
+    BORREGO            70     64 IN 2013 Monthly Record: 70
+
+Friday:
+
+
+             FORECAST LOW   RECORD  YEAR
+
+    RIVERSIDE          67     58 IN 1995 Monthly Record: 66
+    LAKE ELSINORE      64     57 IN 1940 Monthly Record: 61
+    ALPINE             70     58 IN 2001 Monthly Record: 63
+    IDYLLWILD          66     45 IN 2017 Monthly Record: 50
+    LAKE CUYAMACA      64     51 IN 2017 Monthly Record: 55
+    PALM SPRINGS       75     69 IN 1932 Monthly Record: 70
+    THERMAL            69     68 IN 1989 Monthly Record: 69
+    BORREGO            71     65 IN 2017 Monthly Record: 70
 
 &&
 
@@ -481,8 +560,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
