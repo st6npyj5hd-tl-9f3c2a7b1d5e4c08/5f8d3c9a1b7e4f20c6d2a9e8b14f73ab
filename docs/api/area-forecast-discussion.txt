@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-16T19:05:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-17T02:22:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -351,18 +351,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-482
-FXUS66 KSGX 161816
+438
+FXUS66 KSGX 170041
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1116 AM PDT Mon Mar 16 2026
+541 PM PDT Mon Mar 16 2026
 
 .SYNOPSIS...
 Hot conditions with well above average temperatures expected this
@@ -422,20 +420,20 @@ still 10 to 15 degrees above average. Much of this week will see an
 absence of marine layer low clouds and fog, with the potential for
 clouds and fog to return late in the weekend or early next week.
 
-
 &&
 
-.AVIATION... 161800Z...Coasts...Low clouds have pulled out of KSNA
-and are still lingering around 700 ft MSL along OCs immediate coast.
-VFR conditions are expected to last through the TAF period. Any low
-cloud formation tonight into Tuesday morning will be extremely
-isolated.
+.AVIATION...
+170000Z...Coasts...Deck of low clouds around 200-300ft MSL lingering
+along the beaches and nearshore waters across north-central San
+Diego County this evening. These clouds, and any clouds, are
+expected to be very patchy overnight, remaining largely offshore
+with little to no impact to any TAF sites.
 
 Valleys/Mountains/Deserts...Gusty winds up to 20-25 knots out of the
-north-northeast continue in the coastal mountain slopes, through
-mountain passes, and locally into the valleys through 02Z Tuesday.
-Winds out of the north-northest will increase after 11Z-13Z Tuesday
-in those same areas with gusts up to 25-30 knots.
+north-northeast seen this afternoon should gradually decrease this
+evening. Offshore winds turn more easterly on Tuesday, with gusts to
+20-25 kts possible after 12z Tuesday, mostly in and just below
+mountain passes.
 
 &&
 
@@ -450,67 +448,6 @@ degrees) builds to 3-5 feet with sets to 6 feet this afternoon into
 Tuesday, then decreasing Wednesday. Locally hazardous swimming
 conditions are expected. A Beach Hazards Statement contains the
 details.
-
-&&
-
-.CLIMATE...
-
-Here are a list of locations currently forecast to break/tie
-monthly high temperature records Wednesday through Friday:
-
-Wednesday:
-
-
-                      HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             95    89 IN 1997      68    26  Monthly Record: 94
-    IDYLLWILD          85    75 IN 2004      60    25  Monthly Record: 82
-    PALOMAR MOUNTAIN   83    74 IN 2004      57    25  Monthly Record: 82
-    LAKE CUYAMACA      84    76 IN 2007      56    30  Monthly Record: 82
-    CAMPO              94    89 IN 2004      68    26  Monthly Record: 92
-    PALM SPRINGS      104    95 IN 1990      79    28  Monthly Record: 104
-    INDIO             104    99 IN 2007      81    26  Monthly Record: 104
-    THERMAL           105    97 IN 1997      82    27  Monthly Record: 103
-    BORREGO           102    97 IN 1972      80    24  Monthly Record: 101
-
-
-Thursday:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      80    70 IN 1997      52    28   Monthly Record: 80
-    IDYLLWILD          87    77 IN 1997      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   85    76 IN 2007      57    28   Monthly Record: 82
-    LAKE CUYAMACA      86    79 IN 1956      56    30   Monthly Record: 82
-    CAMPO              95    87 IN 1997      69    26   Monthly Record: 92
-    PALM SPRINGS      109    97 IN 1997      80    29   Monthly Record: 104
-    INDIO             109    98 IN 1997      81    28   Monthly Record: 104
-    THERMAL           111   101 IN 1997      82    29   Monthly Record: 103
-    BORREGO           104    95 IN 2017      80    24   Monthly Record: 101
-
-Friday:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      81    72 IN 2004      52    29   Monthly Record: 80
-    IDYLLWILD          87    79 IN 2004      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   86    76 IN 1972      57    29   Monthly Record: 82
-    LAKE CUYAMACA      88    75 IN 2004      56    32   Monthly Record: 82
-    CAMPO              96    92 IN 1997      69    27   Monthly Record: 92
-    PALM SPRINGS      107    98 IN 2004      80    31   Monthly Record: 104
-    INDIO             107   100 IN 2004      81    31   Monthly Record: 104
-    THERMAL           108   101 IN 2004      82    32   Monthly Record: 103
-    BORREGO           106    97 IN 1997      80    26   Monthly Record: 101
-
-
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -538,8 +475,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...CO
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
