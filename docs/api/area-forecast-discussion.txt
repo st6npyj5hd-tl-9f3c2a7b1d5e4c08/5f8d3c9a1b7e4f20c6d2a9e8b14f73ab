@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-18T13:18:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-18T19:03:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,32 +341,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-984
-FXUS66 KSGX 181004
+660
+FXUS66 KSGX 181818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-304 AM PDT Wed Mar 18 2026
+1118 AM PDT Wed Mar 18 2026
 
 .SYNOPSIS...
-Record strong high pressure for March over a broad area will
-continue to warm southwestern California the next few days with
-widespread record heat for March continuing into the weekend for
-inland areas. Through Friday, lowest daytime humidity for inland
-areas will range from around 10 percent for the deserts to 10 to
-15 percent for the inland valleys. For the weekend into early next
-week, high pressure aloft will slowly weaken and weak onshore
-lower-level flow will return with cooling and higher coastal
-humidity spreading inland. Even with the cooling, high
-temperatures for next Tuesday will range from around 5 to 10
-degrees above average near the coast to 12 to 18 degrees above
-average for inland areas. Widespread moderate or greater Heat Risk
-will continue into the weekend except near the immediate coast and
-in the higher elevations in the mountains.
+Well above average conditions will continue through the end of the
+week. Some cooling is expected through the weekend into early next
+week, but temperatures will remain above average. Marine layer low
+clouds and fog will be largely absent from the coast this week,
+potentially returning by late this weekend.
 
 &&
 
@@ -374,56 +367,48 @@ in the higher elevations in the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Friday)...
-Widespread Moderate or greater Heat Risk will continue into the
-weekend except near the immediate coast and in the higher
-elevations in the mountains. For Thursday and Friday, some
-portions of the lower deserts, inland valleys, and inland Orange
-County will reach Major Heat Risk which can be dangerous to anyone
-without proper hydration or adequate cooling.
+Temperatures at 11 AM were running 5 to 10 degrees cooler than
+yesterday for the coast and parts of the western valleys. The
+mountains and deserts were running 5 to 10 degrees warmer than
+yesterday. A daily and monthly high and low temperature records were
+broken yesterday with more expected to be broken each day through
+Friday. A climate section can be found below with more information.
+Widespread moderate to locally major HeatRisk is expected through
+Friday for most locations and Saturday in the low desert. Reduce
+outdoor activities if possible between 10 AM and 5 PM, seek shade,
+and stay hydrated.
 
-High pressure continues to strengthen across southwest California
-with record high pressure for March for a large area covering the
-southwest states and surrounding areas. There will continue to be
-widespread records tied or broken for record high temperatures and
-record warm low temperatures except near the beaches. There will
-also be a growing number of monthly records for heat for March
-that will also be tied or broken.
+The high pressure aloft will peak in strength Friday with high
+temperatures 20 to 30 degrees above average for this time of year.
+Overnight lows will also be elevated, which will limit overnight
+relief from the heat for most locations. Through Friday Widespread
+temperatures in the 90s to low 100s expected for the inland valleys,
+with highs in the mid-80s to low 90s for coastal areas away from the
+immediate coast and the lower elevations of the mountains. In the
+low deserts, highs will likely exceed 105 degrees in most locations
+through Saturday. Chances for exceeding 110 degrees on Friday are 70
+percent for Indio, 30 percent for Palm Springs, and 20 percent for
+Borrego Springs. In the High Desert, temperatures will be in the mid-
+90s.
 
-Outside of the immediate coast, Thursday and Friday are likely to
-be the hottest days depending on location with high temperatures
-as much as 30 to 35 degrees above average for the inland valleys
-and lower elevations of the mountains. High temperatures will
-range from the 80s near the coast to the upper 90s to 104 for the
-Inland Empire with 108 to 112 for the lower deserts. The existing
-record highest temperature for the United States for March appears
-to be 108, reached three different times across two locations in
-south Texas.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High pressure aloft and weak onshore flow will return for the
-weekend into early next week with cooling spread inland. Even with
-the cooling, high temperatures for next Tuesday will still be well
-above average, ranging from 5 to 10 degrees above average near the
-coast to 12 to 18 degrees above average for inland areas. High
-temperatures for next Tuesday will range from the lower to mid 70s
-near the coast to the mid 80s to lower 90s for the Inland Empire
-with the lower deserts around 100. Daily records for heat will
-likely continue be set early next week for some locations in the
-mounains, deserts, and inland valleys.
-
-Night and morning low clouds will most likely return over the
-weekend for some coastal areas, possibly extending inland into the
-far western valleys at times during the weekend.
+Weakening high pressure aloft and strengthening onshore flow will
+bring 4 to 8 degrees of cooling Saturday. That will be most
+noticeable for locations west of the mountains, but even the deserts
+will cool 3 to 5 degrees. A weak low pressure system aloft will move
+east through Southern California into the Great Basin sometime
+Sunday or Monday. that will bring an uptick in westerly winds
+Saturday, which have the potential to turn weakly offshore by Sunday
+or Monday. Weak ridging aloft will return sometime next Tuesday or
+Wednesday, maintaining above average temperatures. Low clouds will
+remain absent from the coast through the work week. Patchy low
+clouds may return with the return of onshore flow over the weekend.
 
 &&
 
 .AVIATION...
-180930Z...Mostly clear skies and VFR conditions today and tonight.
-Patchy fog over coastal waters tonight into Thursday, but unlikely
-to impact coastal airports.
+181800Z...Mostly clear skies and VFR conditions through Thursday
+morning. Patchy fog over coastal waters tonight into Thursday, but
+unlikely to impact coastal airports.
 
 &&
 
@@ -433,22 +418,82 @@ Sunday.
 &&
 
 .CLIMATE...
-For Tuesday, there were 13 daily records for record warm high
-temperatures that were broken with one tied, while 10 locations
-set daily records for warmest low temperature. The 100 degree high
-temperatures for Anaheim and Santa Ana were records for March with
-the prior earliest 100+ degree temperature for both locations in
-early April. The low temperature of 75 at Palm Springs was a
-March record with the prior earliest date for a low temperature so
-warm being April 21st.
+Here are a list of locations currently forecast to break/tie
+monthly high temperature records through Friday:
 
-The 500 mb height of 592 DM at NKX late Tuesday afternoon is a
-new record for March with records going back to 1956. The prior
-record of 590 DM occurred on March 21st. The prior earliest date
-for a 500 mb height of 592 DM or greater for NKX was on May 11th.
+Today:
 
-An increasing number of monthly heat records for March will be
-broken or tied the next few days for inland areas.
+                      HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             95    89 IN 1997      68    26  Monthly Record: 94
+    IDYLLWILD          87    75 IN 2004      60    25  Monthly Record: 82
+    LAKE CUYAMACA      85    76 IN 2007      56    30  Monthly Record: 82
+    CAMPO              94    89 IN 2004      68    26  Monthly Record: 92
+    PALM SPRINGS      106    95 IN 1990      79    28  Monthly Record: 104
+    INDIO             105    99 IN 2007      81    26  Monthly Record: 104
+    THERMAL           107    97 IN 1997      82    27  Monthly Record: 103
+    BORREGO           104    97 IN 1972      80    24  Monthly Record: 101
+
+
+Thursday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      81    70 IN 1997      52    28   Monthly Record: 80
+    IDYLLWILD          88    77 IN 1997      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   86    76 IN 2007      57    28   Monthly Record: 82
+    LAKE CUYAMACA      88    79 IN 1956      56    30   Monthly Record: 82
+    CAMPO              97    87 IN 1997      69    26   Monthly Record: 92
+    PALM SPRINGS      108    97 IN 1997      80    29   Monthly Record: 104
+    INDIO             108    98 IN 1997      81    28   Monthly Record: 104
+    THERMAL           108   101 IN 1997      82    29   Monthly Record: 103
+    BORREGO           106    95 IN 2017      80    24   Monthly Record: 101
+
+Friday:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+
+    RAMONA             97    92 IN 1997      68    28   Monthly Record: 94
+    BIG BEAR LAKE      81    72 IN 2004      52    29   Monthly Record: 80
+    IDYLLWILD          88    79 IN 2004      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   87    76 IN 1972      57    29   Monthly Record: 82
+    LAKE CUYAMACA      88    75 IN 2004      56    32   Monthly Record: 82
+    CAMPO              97    92 IN 1997      69    27   Monthly Record: 92
+    PALM SPRINGS      108    98 IN 2004      80    31   Monthly Record: 104
+    INDIO             109   100 IN 2004      81    31   Monthly Record: 104
+    THERMAL           111   101 IN 2004      82    32   Monthly Record: 103
+    BORREGO           107    97 IN 1997      80    26   Monthly Record: 101
+
+Here are a list of locations currently forecast to break/tie
+monthly highest low temperature records Wednesday through Friday:
+
+Thursday:
+
+             FORECAST LOW   RECORD  YEAR
+
+    RIVERSIDE          67     57 IN 1995 Monthly Record: 66
+    LAKE ELSINORE      62     56 IN 1986 Monthly Record: 61
+    ALPINE             69     55 IN 1990 Monthly Record: 63
+    IDYLLWILD          64     43 IN 2017 Monthly Record: 50
+    LAKE CUYAMACA      64     53 IN 2017 Monthly Record: 55
+    CAMPO              58     51 IN 1951 Monthly Record: 58
+    PALM SPRINGS       74     64 IN 2017 Monthly Record: 70
+    BORREGO            70     64 IN 2013 Monthly Record: 70
+
+Friday:
+
+
+             FORECAST LOW   RECORD  YEAR
+
+    RIVERSIDE          68     58 IN 1995 Monthly Record: 66
+    LAKE ELSINORE      64     57 IN 1940 Monthly Record: 61
+    ALPINE             72     58 IN 2001 Monthly Record: 63
+    IDYLLWILD          67     45 IN 2017 Monthly Record: 50
+    LAKE CUYAMACA      66     51 IN 2017 Monthly Record: 55
+    PALM SPRINGS       75     69 IN 1932 Monthly Record: 70
+    THERMAL            70     68 IN 1989 Monthly Record: 69
+    BORREGO            71     65 IN 2017 Monthly Record: 70
+
 
 &&
 
@@ -456,22 +501,20 @@ broken or tied the next few days for inland areas.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
-     Areas-Orange County Inland Areas-San Bernardino and
+     Areas-Orange County Inland Areas-Riverside County Mountains-
+     San Bernardino County Mountains-San Bernardino and
      Riverside County Valleys-The Inland Empire-San Diego County
-     Coastal Areas-San Diego County Valleys-Santa Ana Mountains
-     and Foothills.
+     Coastal Areas-San Diego County Mountains-San Diego County
+     Valleys-Santa Ana Mountains and Foothills.
 
-     Heat Advisory from 10 AM this morning to 8 PM PDT Friday for
-     Riverside County Mountains-San Bernardino County Mountains-
-     San Diego County Mountains.
-
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT
-     Saturday for Coachella Valley-San Diego County Deserts-San
-     Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Saturday for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...None.
 
@@ -479,8 +522,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...17
-AVIATION/MARINE...MM
+PUBLIC/CLIMATE...CO
+AVIATION/MARINE...Westerink
 
 
 </pre>
