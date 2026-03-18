@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-18T02:27:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-18T07:04:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,27 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-963
-FXUS66 KSGX 171818
+655
+FXUS66 KSGX 180431
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1118 AM PDT Tue Mar 17 2026
+931 PM PDT Tue Mar 17 2026
 
 .SYNOPSIS...
 Hot conditions with record breaking temperatures this week. Weak
-offshore flow is expected today, with east to northeast wind gusts
-25 to 45 mph along and below the coastal slopes of the mountains.
-Some cooling is expected through the weekend into early next week.
-Even with the cooling high temperatures will remain above average.
-Marine layer low clouds and fog will be largely absent from the
-coast this week, potentially returning by late this weekend.
+offshore flow today will gradually transition to onshore flow by
+Thursday. Some cooling is expected through the weekend into early
+next week. Even with the cooling, high temperatures will remain
+above average. Marine layer low clouds and fog will be largely
+absent from the coast this week, potentially returning for this
+weekend.
 
 &&
 
@@ -371,35 +369,35 @@ coast this week, potentially returning by late this weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Weak offshore flow is being observed across the area as of 11 AM.
-The strongest northeast to east winds are being observed on the
-coastal mountain slopes and below passes with peak gusts 30 to 45
-mph. These offshore winds combined with building high pressure aloft
-will make for a toasty day, especially for the coast and western
-valleys. Temperatures in both coastal and inland Orange County are
-running 15 to 25 degrees warmer than this time yesterday. Further
-south in San Diego County, temperatures are running 7 to 15 degrees
-warmer than yesterday. A few daily high and low temperature records
-were broken yesterday with more expected to be broken today.
-Widespread moderate to locally major HeatRisk is expected each day
-this week. Reduce outdoor activities if possible between 10 AM and 5
-PM, seek shade, and stay hydrated.
+Weak offshore flow continues this evening and several coastal and
+inland locations are still reporting temperatures in the 90-100
+degree range. The offshore pressure gradients are being supported
+by easterly flow aloft, mainly due to the position of the upper
+level high centered to our north. This has allowed temperatures
+to reach the 90s as far west as San Clemente Island! Many daily
+maximum temperature records were broken or tied today. See our
+Record Event Report. Widespread moderate to locally major
+HeatRisk is expected each day this week. Reduce outdoor activities
+if possible between 10 AM and 5 PM, seek shade, and stay
+hydrated.
 
-Places along the immediate coast will see some relief from the heat
-Wednesday onward, as weak onshore flow returns. That won`t be the
-case for inland locations, with an addition 3 to 5 degrees of
-warming on Wednesday and even further warming for Thursday and
-Friday. The high pressure aloft will peak in strength on Thursday or
-Friday with high temperatures 20 to 30 degrees above average for
-this time of year. Daily and monthly temperature records are
-expected to be broken or tied for locations like Ramona, Big Bear
-Lake, Idyllwild, Palm Springs, and Borrego Springs. More information
-on monthly temperature records can be found in the climate section
+Places along the immediate coast will see some relief from the
+heat from Wednesday onward, as weak onshore flow returns. That
+won`t be the case for inland locations where marine air is
+unlikely to reach, with an addition 3 to 5 degrees of warming on
+Wednesday and even further warming for Thursday and Friday. The
+high pressure aloft will peak in strength on Thursday or Friday
+with high temperatures 20 to 30 degrees above average for this
+time of year. Daily and monthly temperature records are expected
+to be broken or tied for locations like Ramona, Big Bear Lake,
+Idyllwild, Palm Springs, and Borrego Springs. More information on
+monthly temperature records can be found in the climate section
 below. Overnight lows will also be elevated, which will limit
-overnight relief from the heat for most locations.
+overnight relief from the heat for most locations...at least for
+the next 2-3 days.
 
 Weakening high pressure aloft and strengthening onshore flow will
-bring 5 to 7 degrees of cooling to place west of the mountains
+bring 5 to 7 degrees of cooling to places west of the mountains
 Saturday, with cooling spreading to the mountains and deserts Sunday
 and Monday. Weak ridging aloft will maintain highs 10 to 20 degrees
 above average across the area through at least next Tuesday. Much of
@@ -410,12 +408,10 @@ late in the weekend or early next week.
 &&
 
 .AVIATION...
-171800Z...VFR conditions expected through the TAF period. Gusty
-winds around 25-30 kts out of the northeast are beginning to
-decrease and will continue to do so through 21Z. Isolated low clouds
-along the coast beginning near KSAN after 05Z and stretching north
-near KCRQ after 06Z. Not expecting any impacts to cigs or vis at
-coastal airports.
+180400Z...VFR conditions expected through the TAF period. Patchy low
+clouds will develop along the coast beginning near KSAN after 05Z
+and stretching north near KCRQ after 06Z. Not expecting any impacts
+to cigs or vis at coastal airports.
 
 &&
 
@@ -434,7 +430,6 @@ expected. A Beach Hazards Statement contains more details.
 &&
 
 .CLIMATE...
-
 Here are a list of locations currently forecast to break/tie
 monthly high temperature records Wednesday through Friday:
 
@@ -529,7 +524,6 @@ Friday:
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -556,8 +550,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
