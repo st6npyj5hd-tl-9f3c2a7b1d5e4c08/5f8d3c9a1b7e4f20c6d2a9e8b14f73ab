@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T02:28:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T07:01:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-857
-FXUS66 KSGX 190125 CCA
+614
+FXUS66 KSGX 190433
 AFDSGX
 
-Area Forecast Discussion...CORRECTED
+Area Forecast Discussion
 National Weather Service San Diego CA
-625 PM PDT Wed Mar 18 2026
+933 PM PDT Wed Mar 18 2026
 
 .SYNOPSIS...
 Well above average conditions will continue through the end of the
@@ -369,12 +369,27 @@ COUNTIES...
 
 ...NEW AVIATION DISCUSSION BELOW...
 
-Temperatures at 11 AM were running 5 to 10 degrees cooler than
-yesterday for the coast and parts of the western valleys. The
-mountains and deserts were running 5 to 10 degrees warmer than
-yesterday. A daily and monthly high and low temperature records were
-broken yesterday with more expected to be broken each day through
-Friday. A climate section can be found below with more information.
+Evening update...
+A weak coastal eddy is developing this evening, bringing a fog
+bank to the far southern San Diego County coast. Visibility may be
+reduced to a few hundred feet at times at the beaches generally from
+La Jolla southward this evening. The land breeze should push this
+fog back out to sea tonight. Forecast was updated to reflect this
+brief period of dense fog.
+
+Otherwise the big story remains to be the heat. Numerous daily
+record high temperatures were broken again today, along with a few
+monthly record highs including Thermal and Indio with a high of
+107 degrees. The complete Record Event Report is headlined on our
+website. Expect record breaking heat to continue through Friday,
+especially for the mountains and deserts, as the upper level high
+strengthens and shifts eastward. With at least a weak sea breeze
+developing each afternoon, temperatures will moderate a bit near
+the coast but still be well above normal - just not in monthly
+record territory. See the Climate section below for more details
+on forecasted temperatures and records.
+
+Previous discussion...
 Widespread moderate to locally major HeatRisk is expected through
 Friday for most locations and Saturday in the low desert. Reduce
 outdoor activities if possible between 10 AM and 5 PM, seek shade,
@@ -409,16 +424,18 @@ weekend.
 &&
 
 .AVIATION...
-190000Z...Mostly clear skies and VFR conditions through Thursday
-afternoon. Patchy fog over coastal waters tonight into Thursday, but
-unlikely to impact coastal airports.
+190600Z...Low CIGs/FG are currently moving up along the southern
+coast of San Diego County, which will intermittently move over KSAN
+through the morning with reduced visibilities down to 1/2 SM and
+CIGs typically around 100-300 ft AGL, especially through 07Z.
+Otherwise, mostly clear skies and VFR conditions through Thursday
+evening elsewhere. Patchy fog over coastal waters tonight into
+Thursday morning.
 
 &&
 
 .MARINE...No hazardous marine conditions are expected through
 Sunday.
-
-&&
 
 &&
 
@@ -509,9 +526,16 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Friday for Riverside County
-     Mountains-San Bernardino County Mountains-San Diego County
-     Mountains.
+CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
+     Areas-Orange County Inland Areas-Riverside County Mountains-
+     San Bernardino County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Coastal Areas-San Diego County Mountains-San Diego County
+     Valleys-Santa Ana Mountains and Foothills.
+
+     Extreme Heat Warning until 8 PM PDT Saturday for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...None.
 
@@ -519,7 +543,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...SS
 AVIATION/MARINE...Stewey
 
 
