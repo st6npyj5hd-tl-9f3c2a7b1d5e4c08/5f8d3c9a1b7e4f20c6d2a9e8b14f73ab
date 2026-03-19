@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T07:01:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T13:09:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -341,25 +341,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-614
-FXUS66 KSGX 190433
+286
+FXUS66 KSGX 190943
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-933 PM PDT Wed Mar 18 2026
+243 AM PDT Thu Mar 19 2026
 
 .SYNOPSIS...
-Well above average conditions will continue through the end of the
-week. Some cooling is expected through the weekend into early next
-week, but temperatures will remain above average. Marine layer low
-clouds and fog will be largely absent from the coast this week,
-potentially returning by late this weekend.
+Record heat for March will continue for inland areas into the
+weekend while the marine layer with patchy night and morning low
+clouds and locally dense fog keeps the beaches cooler. Cooling
+will begin to spread inland over the weekend into early next
+week, but with high temperatures for some inland areas remaining
+more than 20 degrees above average with daily rather than monthly
+records for heat continuing to fall.
 
 &&
 
@@ -367,154 +367,78 @@ potentially returning by late this weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...NEW AVIATION DISCUSSION BELOW...
+.SHORT TERM (Today through Saturday)...
+High pressure aloft continues to strengthen over southern
+California with the heat for inland areas of southwestern
+California expected to peak on Friday. Weakening of high pressure
+aloft and onshore flow will begin to spread cooling inland over
+the weekend into early next week.
 
-Evening update...
-A weak coastal eddy is developing this evening, bringing a fog
-bank to the far southern San Diego County coast. Visibility may be
-reduced to a few hundred feet at times at the beaches generally from
-La Jolla southward this evening. The land breeze should push this
-fog back out to sea tonight. Forecast was updated to reflect this
-brief period of dense fog.
+There is a weak coastal eddy early this morning with low clouds
+and fog over the inner coastal waters extending locally inland
+along the coast with fog locally dense. A little less coverage
+over land areas is expected for tonight into Friday morning with
+increasing coverage of night and morning low clouds and fog for
+coastal areas during the weekend.
 
-Otherwise the big story remains to be the heat. Numerous daily
-record high temperatures were broken again today, along with a few
-monthly record highs including Thermal and Indio with a high of
-107 degrees. The complete Record Event Report is headlined on our
-website. Expect record breaking heat to continue through Friday,
-especially for the mountains and deserts, as the upper level high
-strengthens and shifts eastward. With at least a weak sea breeze
-developing each afternoon, temperatures will moderate a bit near
-the coast but still be well above normal - just not in monthly
-record territory. See the Climate section below for more details
-on forecasted temperatures and records.
+High temperatures on Friday are expected to be around 30 degrees
+above average for the inland valleys and lower elevations of the
+mountains with high temperatures ranging from around 80 at the
+beaches to the upper 90s to 104 for the Inland Empire with 105 to
+110 for the lower deserts. Cooling of high temperatures on
+Saturday of around 4 to 8 degrees is expected for all but the
+lower deserts.
 
-Previous discussion...
-Widespread moderate to locally major HeatRisk is expected through
-Friday for most locations and Saturday in the low desert. Reduce
-outdoor activities if possible between 10 AM and 5 PM, seek shade,
-and stay hydrated.
+&&
 
-The high pressure aloft will peak in strength Friday with high
-temperatures 20 to 30 degrees above average for this time of year.
-Overnight lows will also be elevated, which will limit overnight
-relief from the heat for most locations. Through Friday Widespread
-temperatures in the 90s to low 100s expected for the inland valleys,
-with highs in the mid-80s to low 90s for coastal areas away from the
-immediate coast and the lower elevations of the mountains. In the
-low deserts, highs will likely exceed 105 degrees in most locations
-through Saturday. Chances for exceeding 110 degrees on Friday are 70
-percent for Indio, 30 percent for Palm Springs, and 20 percent for
-Borrego Springs. In the High Desert, temperatures will be in the mid-
-90s.
+.LONG TERM (Sunday through Wednesday)...
+High temperatures on Sunday will cool a few degrees for most
+areas with high temperatures still around 20 degrees above average
+for the mountains, deserts, and inland valleys. High temperatures
+on Sunday are expected to range from the mid to upper 70s near the
+coast to the upper 80s to mid 90s for the Inland Empire with 100
+to 105 for the lower deserts. High temperatures for early next
+week will fluctuate within a few degrees of Sunday high
+temperatures each day.
 
-Weakening high pressure aloft and strengthening onshore flow will
-bring 4 to 8 degrees of cooling Saturday. That will be most
-noticeable for locations west of the mountains, but even the deserts
-will cool 3 to 5 degrees. A weak low pressure system aloft will move
-east through Southern California into the Great Basin sometime
-Sunday or Monday. that will bring an uptick in westerly winds
-Saturday, which have the potential to turn weakly offshore by Sunday
-or Monday. Weak ridging aloft will return sometime next Tuesday or
-Wednesday, maintaining above average temperatures. Low clouds will
-remain absent from the coast through the work week. Patchy low
-clouds may return with the return of onshore flow over the
-weekend.
+Except near the coast, widespread daily records for heat will
+continue to be tied or broken, but with few or no new monthly
+records for March after Friday or Saturday.
 
 &&
 
 .AVIATION...
-190600Z...Low CIGs/FG are currently moving up along the southern
-coast of San Diego County, which will intermittently move over KSAN
-through the morning with reduced visibilities down to 1/2 SM and
-CIGs typically around 100-300 ft AGL, especially through 07Z.
-Otherwise, mostly clear skies and VFR conditions through Thursday
-evening elsewhere. Patchy fog over coastal waters tonight into
-Thursday morning.
+190900Z...Low clouds and fog VCNTY KSAN with CIGs 200-300 ft MSL and
+VIS 0.25-1 mile likely to continue through 15Z. Elsewhere, mostly
+clear skies and unrestricted VIS through this evening. Patchy low
+clouds and fog returning to the immediate coast after 03Z Friday.
 
 &&
 
-.MARINE...No hazardous marine conditions are expected through
-Sunday.
+.MARINE...
+Patches of fog with visibility 1 nautical mile within 20 miles of
+the coast this morning. Otherwise, no hazardous marine conditions
+are expected through Monday.
 
 &&
 
 .CLIMATE...
-Here are a list of locations currently forecast to break/tie
-monthly high temperature records through Friday:
+Prior to 2026, the highest 500 mb height for San Diego for March
+had been 590 DM. In the prior three soundings for NKX, new records
+for the month have been set at 592 DM, 594 DM, and now 595 DM for
+late Wednesday afternoon. Prior to this year, the earliest a 500
+mb height of 595 DM had occurred at San Diego had been June 4th.
+The 500 mb height for the next sounding early this morning will
+likely be higher than that. The earliest a height of 596 DM has
+occurred is June 5th and the earliest a 500 height of 597 DM has
+occurred is June 20th.
 
-Today:
-
-                      HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             95    89 IN 1997      68    26  Monthly Record: 94
-    IDYLLWILD          87    75 IN 2004      60    25  Monthly Record: 82
-    LAKE CUYAMACA      85    76 IN 2007      56    30  Monthly Record: 82
-    CAMPO              94    89 IN 2004      68    26  Monthly Record: 92
-    PALM SPRINGS      106    95 IN 1990      79    28  Monthly Record: 104
-    INDIO             105    99 IN 2007      81    26  Monthly Record: 104
-    THERMAL           107    97 IN 1997      82    27  Monthly Record: 103
-    BORREGO           104    97 IN 1972      80    24  Monthly Record: 101
-
-
-Thursday:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      81    70 IN 1997      52    28   Monthly Record: 80
-    IDYLLWILD          88    77 IN 1997      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   86    76 IN 2007      57    28   Monthly Record: 82
-    LAKE CUYAMACA      88    79 IN 1956      56    30   Monthly Record: 82
-    CAMPO              97    87 IN 1997      69    26   Monthly Record: 92
-    PALM SPRINGS      108    97 IN 1997      80    29   Monthly Record: 104
-    INDIO             108    98 IN 1997      81    28   Monthly Record: 104
-    THERMAL           108   101 IN 1997      82    29   Monthly Record: 103
-    BORREGO           106    95 IN 2017      80    24   Monthly Record: 101
-
-Friday:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             97    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      81    72 IN 2004      52    29   Monthly Record: 80
-    IDYLLWILD          88    79 IN 2004      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   87    76 IN 1972      57    29   Monthly Record: 82
-    LAKE CUYAMACA      88    75 IN 2004      56    32   Monthly Record: 82
-    CAMPO              97    92 IN 1997      69    27   Monthly Record: 92
-    PALM SPRINGS      108    98 IN 2004      80    31   Monthly Record: 104
-    INDIO             109   100 IN 2004      81    31   Monthly Record: 104
-    THERMAL           111   101 IN 2004      82    32   Monthly Record: 103
-    BORREGO           107    97 IN 1997      80    26   Monthly Record: 101
-
-Here are a list of locations currently forecast to break/tie
-monthly highest low temperature records Wednesday through Friday:
-
-Thursday:
-
-             FORECAST LOW   RECORD  YEAR
-
-    RIVERSIDE          67     57 IN 1995 Monthly Record: 66
-    LAKE ELSINORE      62     56 IN 1986 Monthly Record: 61
-    ALPINE             69     55 IN 1990 Monthly Record: 63
-    IDYLLWILD          64     43 IN 2017 Monthly Record: 50
-    LAKE CUYAMACA      64     53 IN 2017 Monthly Record: 55
-    CAMPO              58     51 IN 1951 Monthly Record: 58
-    PALM SPRINGS       74     64 IN 2017 Monthly Record: 70
-    BORREGO            70     64 IN 2013 Monthly Record: 70
-
-Friday:
-
-
-             FORECAST LOW   RECORD  YEAR
-
-    RIVERSIDE          68     58 IN 1995 Monthly Record: 66
-    LAKE ELSINORE      64     57 IN 1940 Monthly Record: 61
-    ALPINE             72     58 IN 2001 Monthly Record: 63
-    IDYLLWILD          67     45 IN 2017 Monthly Record: 50
-    LAKE CUYAMACA      66     51 IN 2017 Monthly Record: 55
-    PALM SPRINGS       75     69 IN 1932 Monthly Record: 70
-    THERMAL            70     68 IN 1989 Monthly Record: 69
-    BORREGO            71     65 IN 2017 Monthly Record: 70
+The high temperature of 108 on Wednesday at North Shore,
+CA, to the east of the Salton Sea, appears to have tied to the
+existing highest temperature ever recorded in March in the United
+States. There are locations in the Coachella Valley and San Diego
+County deserts that could equal or exceed that temperature for
+today and especially on Friday.
 
 &&
 
@@ -543,8 +467,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Stewey
+PUBLIC/CLIMATE...17
+AVIATION/MARINE...PG
 
 
 </pre>
