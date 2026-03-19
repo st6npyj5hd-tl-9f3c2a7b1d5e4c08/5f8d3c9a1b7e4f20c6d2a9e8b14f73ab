@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-18T19:03:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T02:28:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-660
-FXUS66 KSGX 181818
+857
+FXUS66 KSGX 190125 CCA
 AFDSGX
 
-Area Forecast Discussion
+Area Forecast Discussion...CORRECTED
 National Weather Service San Diego CA
-1118 AM PDT Wed Mar 18 2026
+625 PM PDT Wed Mar 18 2026
 
 .SYNOPSIS...
 Well above average conditions will continue through the end of the
@@ -366,6 +366,8 @@ potentially returning by late this weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...NEW AVIATION DISCUSSION BELOW...
 
 Temperatures at 11 AM were running 5 to 10 degrees cooler than
 yesterday for the coast and parts of the western valleys. The
@@ -401,19 +403,22 @@ Saturday, which have the potential to turn weakly offshore by Sunday
 or Monday. Weak ridging aloft will return sometime next Tuesday or
 Wednesday, maintaining above average temperatures. Low clouds will
 remain absent from the coast through the work week. Patchy low
-clouds may return with the return of onshore flow over the weekend.
+clouds may return with the return of onshore flow over the
+weekend.
 
 &&
 
 .AVIATION...
-181800Z...Mostly clear skies and VFR conditions through Thursday
-morning. Patchy fog over coastal waters tonight into Thursday, but
+190000Z...Mostly clear skies and VFR conditions through Thursday
+afternoon. Patchy fog over coastal waters tonight into Thursday, but
 unlikely to impact coastal airports.
 
 &&
 
 .MARINE...No hazardous marine conditions are expected through
 Sunday.
+
+&&
 
 &&
 
@@ -494,7 +499,6 @@ Friday:
     THERMAL            70     68 IN 1989 Monthly Record: 69
     BORREGO            71     65 IN 2017 Monthly Record: 70
 
-
 &&
 
 .SKYWARN...
@@ -505,16 +509,9 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
-     Areas-Orange County Inland Areas-Riverside County Mountains-
-     San Bernardino County Mountains-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Coastal Areas-San Diego County Mountains-San Diego County
-     Valleys-Santa Ana Mountains and Foothills.
-
-     Extreme Heat Warning until 8 PM PDT Saturday for Coachella
-     Valley-San Diego County Deserts-San Gorgonio Pass near
-     Banning.
+CA...Heat Advisory until 8 PM PDT Friday for Riverside County
+     Mountains-San Bernardino County Mountains-San Diego County
+     Mountains.
 
 PZ...None.
 
@@ -522,8 +519,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...CO
-AVIATION/MARINE...Westerink
+PUBLIC...CO
+AVIATION/MARINE...Stewey
 
 
 </pre>
