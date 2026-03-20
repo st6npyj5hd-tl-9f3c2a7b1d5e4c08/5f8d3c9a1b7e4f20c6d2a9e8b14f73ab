@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T02:21:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T06:58:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-118
-FXUS66 KSGX 200047
+047
+FXUS66 KSGX 200642
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-547 PM PDT Thu Mar 19 2026
+1142 PM PDT Thu Mar 19 2026
 
 .SYNOPSIS...
 Widespread moderate with areas of major HeatRisk will continue
@@ -364,25 +366,31 @@ immediate coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Multiple daily and monthly high and low temperature records were
-broken yesterday with more expected to be broken today and Friday.
-The latest record report is headlined on our weather.gov/sandiego
-homepage. A climate section can be found below listing locations
-that are currently forecast to tie or break their monthly records.
-Widespread moderate to locally major HeatRisk is expected through
-Friday for most locations and Saturday in the low desert. Reduce
-outdoor activities if possible between 10 AM and 5 PM, seek shade,
-and stay hydrated.
+...NEW AVIATION AND MARINE DISCUSSION BELOW...
 
-The high pressure aloft will peak in strength over the
-California/Arizona border today with temperatures 20 to 30 degrees
-above average for this time of year. Overnight lows will also be
-elevated, which will limit overnight relief from the heat for most
-inland locations. Through Friday widespread temperatures in the 90s
-to low 100s expected for the inland valleys, with highs in the mid-
-80s to low 90s for coastal areas away from the immediate coast and
-the lower elevations of the mountains. In the low deserts, highs
-will likely exceed 105 degrees in most locations through Saturday.
+Evening update...
+Numerous daily and monthly high temperature records were broken or
+tied again today, including Idyllwild which broke their monthly
+high temperature for the third day in a row with a high of 90
+degrees. Indio and Thermal tied the national high temperature
+record for March with a high of 108 degrees.
+
+Patchy low clouds and fog have developed just off the coast of far
+southern San Diego County again this evening but have yet to make
+it over land, though satellite imagery is showing it nearing
+Point Loma. Occasional dense fog is possible at the beaches from
+about Solana Beach southward tonight into early Friday morning.
+The large upper level high currently centered over the lower
+Colorado River Valley will shift eastward and weaken slightly on
+Friday, allowing for very minor (1 to 2 degrees) cooling west of
+the mountains with little change in the deserts.
+
+Previous discussion...
+Through Friday widespread temperatures in the 90s to low 100s
+expected for the inland valleys, with highs in the mid- 80s to low
+90s for coastal areas away from the immediate coast and the lower
+elevations of the mountains. In the low deserts, highs will
+likely exceed 105 degrees in most locations through Saturday.
 Chances for exceeding 110 degrees on Friday are 60 percent for
 Indio, 20 percent for Palm Springs, and 10 percent for Borrego
 Springs. In the High Desert, temperatures will be in the mid-90s.
@@ -416,25 +424,25 @@ confined to the immediate coast again.
 &&
 
 .AVIATION...
-200030Z...Patchy low clouds based less than 500 ft MSL are expected
-to surge over the waters of southern SD County 02-04z this evening
-and slowly develop off of the rest of the coastline in patchy
-fashion after 04z. Likely timing VCFG for KSAN around 03z and KCRQ
-around 05z, bringing slight chance for intermittent impacts. FG
-starts moving into coastal areas 06-08z, bringing higher chance for
-patchy cigs below 500 ft MSL and vis < 1 SM. 60% for VIS below 1SM
-at times at KSAN and 40% for KCRQ. Greater uncertainty for KSNA with
-a slight (30%) chance for VIS/cig reductions mainly after 13z Fri.
-Clearing 15Z-17Z. Everywhere else, VFR conditions expected through
-the TAF period.
+200630Z...SKC across the area currently except for two small patches
+of FG just offshore. Chances of patchy FG invading coastal areas
+slowly increase overnight. 50% for VIS below 1/2SM after 09Z at KSAN
+and 30% for KCRQ. Greater uncertainty for KSNA with a slight (20%)
+chance for VIS/cig reductions. Clearing 15Z-17Z. Similar story for
+Friday evening and overnight with patchy FG expected to
+intermittently reduce vis for coastal areas starting 03-06Z.
+Everywhere else, VFR conditions expected through the TAF period.
 
 &&
 
-.MARINE...Patchy fog is expected to surge from the south this
-evening, lowering visibility to less than 1 NM locally. Visibility
-improvements expected mid-morning Friday. Otherwise, no hazardous
-marine conditions are expected through Tuesday.
-
+.MARINE...Chances for fog tonight over coastal waters have lowered
+some (30-40 percent for most areas). However, patchy fog is still
+expected near the coastline. Vis locally below 1 nautical mile where
+fog develops. Vis improvements expected by late morning Friday.
+There is greater confidence for areas of fog Friday evening and
+overnight with highest chances hear the coastline once again.
+Otherwise, no hazardous marine conditions are expected through
+Tuesday.
 
 &&
 
@@ -463,8 +471,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Westerink
+PUBLIC...SS
+AVIATION/MARINE...KW
 
 
 </pre>
