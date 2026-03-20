@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T06:58:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T13:04:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,24 +341,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-047
-FXUS66 KSGX 200642
+406
+FXUS66 KSGX 201049
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1142 PM PDT Thu Mar 19 2026
+349 AM PDT Fri Mar 20 2026
 
 .SYNOPSIS...
-Widespread moderate with areas of major HeatRisk will continue
-through Friday. HeatRisk will decrease for the weekend, with minor
-cooling. Even with the cooling, temperatures will remain above
-average into next week. Patchy marine layer low clouds and fog will
-be present at times, most likely to impact the coastal waters and
-immediate coast.
+Widespread moderate Heat Risk with areas of major Heat Risk will
+continue through today. Heat Risk will decrease for the weekend,
+with minor cooling. Even with the cooling, temperatures will
+remain above average into next week. Patchy marine layer low
+clouds and fog will be present at times, most likely to impact the
+coastal waters and immediate coast. Stronger onshore flow will
+likely spread marine layer low clouds and fog farther inland for
+the weekend.
 
 &&
 
@@ -368,81 +372,113 @@ COUNTIES...
 
 ...NEW AVIATION AND MARINE DISCUSSION BELOW...
 
-Evening update...
-Numerous daily and monthly high temperature records were broken or
-tied again today, including Idyllwild which broke their monthly
-high temperature for the third day in a row with a high of 90
-degrees. Indio and Thermal tied the national high temperature
-record for March with a high of 108 degrees.
+Low clouds and fog are developing over the coastal waters this
+morning but are being kept offshore by drainage winds enhanced by
+weak offshore pressure gradients. The low clouds and fog could
+move onto the beaches late this morning as a weak sea breeze
+develops. Otherwise, skies are clear under the extensive dome of
+high pressure now centered over southwestern AZ.
 
-Patchy low clouds and fog have developed just off the coast of far
-southern San Diego County again this evening but have yet to make
-it over land, though satellite imagery is showing it nearing
-Point Loma. Occasional dense fog is possible at the beaches from
-about Solana Beach southward tonight into early Friday morning.
-The large upper level high currently centered over the lower
-Colorado River Valley will shift eastward and weaken slightly on
-Friday, allowing for very minor (1 to 2 degrees) cooling west of
-the mountains with little change in the deserts.
+Today will be another day of record-setting temperatures with
+daytime highs in the 90s to low triple digits in the inland
+valleys, the 70s to low 90s in the coastal areas, the mid 90s in
+the upper deserts and near 110 in the low deserts. The mountains
+below 6000 ft will see temperatures in the 80s.
 
-Previous discussion...
-Through Friday widespread temperatures in the 90s to low 100s
-expected for the inland valleys, with highs in the mid- 80s to low
-90s for coastal areas away from the immediate coast and the lower
-elevations of the mountains. In the low deserts, highs will
-likely exceed 105 degrees in most locations through Saturday.
-Chances for exceeding 110 degrees on Friday are 60 percent for
-Indio, 20 percent for Palm Springs, and 10 percent for Borrego
-Springs. In the High Desert, temperatures will be in the mid-90s.
+Temperatures begin to trend downward on Saturday as the upper
+level high weakens and gets displaced southeast while onshore flow
+strengthens. The temperature change will be most noticeable in the
+coastal areas a the onshore flow spreads cooler marine air, with
+low clouds and fog, a little farther inland. However, daytime
+temperatures will still be 10-25 degrees above seasonal averages.
 
-Weakening high pressure aloft and strengthening onshore flow will
-bring 4 to 8 degrees of cooling Saturday. That will be most
-noticeable for locations west of the mountains, but even the deserts
-will cool 3 to 5 degrees. A weak low pressure system aloft will move
-east through Southern California into the Great Basin sometime
-Sunday or Monday. that will bring an uptick in westerly winds
-Saturday, which have the potential to turn weakly offshore by Sunday
-afternoon into Monday morning. Ridging aloft looks to rebuild Monday
-and strengthen into the middle of the week. This ridge isn`t expected
-to be as strong as the one over Southern California this week, but
-it will be enough to maintain above average temperatures through
-next Thursday. Widespread minor with areas of moderate HeatRisk will
-be present in the valleys and low desert for much of next week.
+Sunday will likely be cooler still as the ridge is replaced by
+weak troughing over SoCal and the onshore flow continues.
+Temperatures in the coastal areas will likely be in the 70s while
+the inland valleys will be in the 80s to low 90s. The lower
+deserts will be in the low triple digits and the high deserts will
+be in the low 90s. These temperatures are still 9-20 degrees
+above seasonal averages. Marine layer influence will likely spread
+even farther inland.
 
-With the ridge axis shifted further east today, weak onshore flow
-has returned to coastal areas. The weak onshore flow was enough to
-allow patchy dense fog along the immediate coast this morning. Areas
-of patchy dense fog over the water and at the coast is possible each
-morning through Saturday. With the aforementioned passing weak low
-pressure onshore flow will briefly increase, making chances of dense
-fog less likely for Sunday morning. Low cloud and fog coverage on
-Sunday morning may reach into the western valleys. Weak offshore
-flow early next week may keep low clouds and fog patchy and more
-confined to the immediate coast again.
+The ridge rebuilds over the western states for next Monday
+through Thursday, with a corresponding upward trend in
+temperatures. Current solutions indicate the ridge won`t be as
+strong as it`s been the last few days but we can expect several
+more days of unseasonably high temperatures.
+
+A percentage of model solutions show the ridge weakening again
+next Friday, with stronger onshore flow combining to bring us some
+relief from the heat.
 
 
 &&
 
 .AVIATION...
-200630Z...SKC across the area currently except for two small patches
-of FG just offshore. Chances of patchy FG invading coastal areas
-slowly increase overnight. 50% for VIS below 1/2SM after 09Z at KSAN
-and 30% for KCRQ. Greater uncertainty for KSNA with a slight (20%)
-chance for VIS/cig reductions. Clearing 15Z-17Z. Similar story for
+201100Z...SKC across the area currently except for patchy FG
+lingering just offshore. FG may intermittently creep into coastal
+areas this morning. 30% chance for vis less than 1SM at KSAN and
+less than 20% at KCRQ, KSNA. Clearing 15Z-17Z. Similar story for
 Friday evening and overnight with patchy FG expected to
 intermittently reduce vis for coastal areas starting 03-06Z.
 Everywhere else, VFR conditions expected through the TAF period.
 
 &&
 
-.MARINE...Chances for fog tonight over coastal waters have lowered
-some (30-40 percent for most areas). However, patchy fog is still
-expected near the coastline. Vis locally below 1 nautical mile where
-fog develops. Vis improvements expected by late morning Friday.
+.MARINE...Very patchy fog over nearshore waters will continue to
+locally reduce vis to near 1 nautical mile through mid morning.
 There is greater confidence for areas of fog Friday evening and
 overnight with highest chances hear the coastline once again.
 Otherwise, no hazardous marine conditions are expected through
 Tuesday.
+
+&&
+
+.CLIMATE...
+Here are a list of locations currently forecast to break/tie
+monthly high temperature records today March 20th:
+
+Today:
+
+             FORECAST HIGH  RECORD YEAR     AVG    +/-
+
+    RIVERSIDE         100    98 IN 1997      73    27   Monthly Record: 102
+    RAMONA             94    92 IN 1997      68    27   Monthly Record: 95
+    ALPINE             94    86 IN 2001      68    25   Monthly Record: 96
+    BIG BEAR LAKE      79    70 IN 1997      52    27   Monthly Record: 80
+    IDYLLWILD          86    77 IN 1997      60    25   Monthly Record: 90
+    PALOMAR MOUNTAIN   84    76 IN 1972      57    28   Monthly Record: 83
+    LAKE CUYAMACA      86    79 IN 1956      56    31   Monthly Record: 84
+    CAMPO              96    87 IN 1997      69    26   Monthly Record: 96
+    PALM SPRINGS      107    97 IN 1997      80    27   Monthly Record: 107
+    INDIO             108    98 IN 1997      81    27   Monthly Record: 108
+    THERMAL           108   101 IN 1997      82    26   Monthly Record: 108
+    BORREGO           108    95 IN 2017      80    26   Monthly Record: 105
+
+Here are a list of locations currently forecast to break/tie
+monthly highest low temperature records on Friday:
+
+Today:
+
+
+             FORECAST LOW   RECORD  YEAR
+
+    ANAHEIM            63     59 IN 2015 Monthly Record: 69
+    VISTA              62     59 IN 2015 Monthly Record: 67
+    RIVERSIDE          66     58 IN 2015 Monthly Record: 66
+    LAKE ELSINORE      61     57 IN 1986 Monthly Record: 61
+    ESCONDIDO          61     59 IN 2015 Monthly Record: 63
+    RAMONA             56     50 IN 2023 Monthly Record: 63
+    ALPINE             71     55 IN 1990 Monthly Record: 63
+    BIG BEAR LAKE      42     38 IN 2017 Monthly Record: 48
+    IDYLLWILD          63     43 IN 2017 Monthly Record: 53
+    PALOMAR MOUNTAIN   64     56 IN 1997 Monthly Record: 64
+    LAKE CUYAMACA      65     53 IN 2017 Monthly Record: 55
+    CAMPO              57     51 IN 1951 Monthly Record: 58
+    PALM SPRINGS       75     64 IN 2017 Monthly Record: 78
+    INDIO              72     69 IN 2010 Monthly Record: 76
+    THERMAL            69     64 IN 2013 Monthly Record: 69
+    BORREGO            69     64 IN 2013 Monthly Record: 73
 
 &&
 
@@ -454,12 +490,12 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
-     Areas-Orange County Inland Areas-Riverside County Mountains-
-     San Bernardino County Mountains-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Coastal Areas-San Diego County Mountains-San Diego County
-     Valleys-Santa Ana Mountains and Foothills.
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Coastal Areas-Orange County Inland Areas-Riverside County
+     Mountains-San Bernardino County Mountains-San Bernardino
+     and Riverside County Valleys-The Inland Empire-San Diego
+     County Coastal Areas-San Diego County Mountains-San Diego
+     County Valleys-Santa Ana Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Saturday for Coachella
      Valley-San Diego County Deserts-San Gorgonio Pass near
@@ -471,7 +507,7 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
+PUBLIC...PG
 AVIATION/MARINE...KW
 
 
