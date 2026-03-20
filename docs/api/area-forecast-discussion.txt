@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-19T19:01:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T02:21:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-616
-FXUS66 KSGX 191727
+118
+FXUS66 KSGX 200047
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1027 AM PDT Thu Mar 19 2026
+547 PM PDT Thu Mar 19 2026
 
 .SYNOPSIS...
 Widespread moderate with areas of major HeatRisk will continue
@@ -414,75 +412,29 @@ Sunday morning may reach into the western valleys. Weak offshore
 flow early next week may keep low clouds and fog patchy and more
 confined to the immediate coast again.
 
+
 &&
 
 .AVIATION...
-191800Z...Low clouds and fog have moved offshore with VFR conditions
-expected through 03Z Friday. low clouds and patchy fog will make its
-return along the coast beginning after 03Z Friday near KSAN, touching
-into other coastal TAF sites after 06Z-07Z. Highest impacts are
-expected at KSAN at this time with clearing 16Z-17Z. Everywhere
-else, VFR conditions expected through the TAF period.
+200030Z...Patchy low clouds based less than 500 ft MSL are expected
+to surge over the waters of southern SD County 02-04z this evening
+and slowly develop off of the rest of the coastline in patchy
+fashion after 04z. Likely timing VCFG for KSAN around 03z and KCRQ
+around 05z, bringing slight chance for intermittent impacts. FG
+starts moving into coastal areas 06-08z, bringing higher chance for
+patchy cigs below 500 ft MSL and vis < 1 SM. 60% for VIS below 1SM
+at times at KSAN and 40% for KCRQ. Greater uncertainty for KSNA with
+a slight (30%) chance for VIS/cig reductions mainly after 13z Fri.
+Clearing 15Z-17Z. Everywhere else, VFR conditions expected through
+the TAF period.
 
 &&
 
-.MARINE...Still some patchy fog out over the local waters this
-morning, but is making a slow retreat to the outer waters. Expect
-patchy fog development in the late afternoon to early evening hours
-but not expecting it to be dense at this time. Otherwise, no
-hazardous marine conditions are expected through Tuesday.
+.MARINE...Patchy fog is expected to surge from the south this
+evening, lowering visibility to less than 1 NM locally. Visibility
+improvements expected mid-morning Friday. Otherwise, no hazardous
+marine conditions are expected through Tuesday.
 
-&&
-
-.CLIMATE...
-Here are a list of locations currently forecast to break/tie
-monthly high temperature records Wednesday through Friday:
-
-Today:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-    RAMONA             95    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      82    70 IN 1997      52    28   Monthly Record: 80
-    IDYLLWILD          91    77 IN 1997      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   88    76 IN 2007      57    28   Monthly Record: 82
-    LAKE CUYAMACA      88    79 IN 1956      56    30   Monthly Record: 82
-    CAMPO              97    87 IN 1997      69    26   Monthly Record: 92
-    PALM SPRINGS      107    97 IN 1997      80    29   Monthly Record: 104
-    INDIO             108    98 IN 1997      81    28   Monthly Record: 104
-    THERMAL           108   101 IN 1997      82    29   Monthly Record: 103
-    BORREGO           107    95 IN 2017      80    24   Monthly Record: 101
-
-Friday:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             96    92 IN 1997      68    28   Monthly Record: 94
-    BIG BEAR LAKE      80    72 IN 2004      52    29   Monthly Record: 80
-    IDYLLWILD          88    79 IN 2004      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   87    76 IN 1972      57    29   Monthly Record: 82
-    LAKE CUYAMACA      88    75 IN 2004      56    32   Monthly Record: 82
-    CAMPO              97    92 IN 1997      69    27   Monthly Record: 92
-    PALM SPRINGS      109    98 IN 2004      80    31   Monthly Record: 104
-    INDIO             109   100 IN 2004      81    31   Monthly Record: 104
-    THERMAL           110   101 IN 2004      82    32   Monthly Record: 103
-    BORREGO           108    97 IN 1997      80    26   Monthly Record: 101
-
-Here are a list of locations currently forecast to break/tie
-monthly highest low temperature records Wednesday through Friday:
-
-Friday:
-
-
-             FORECAST LOW   RECORD  YEAR
-
-    RIVERSIDE          68     58 IN 1995 Monthly Record: 66
-    LAKE ELSINORE      63     57 IN 1940 Monthly Record: 61
-    ALPINE             71     58 IN 2001 Monthly Record: 63
-    IDYLLWILD          64     45 IN 2017 Monthly Record: 50
-    LAKE CUYAMACA      65     51 IN 2017 Monthly Record: 55
-    PALM SPRINGS       76     69 IN 1932 Monthly Record: 70
-    THERMAL            71     68 IN 1989 Monthly Record: 69
-    BORREGO            72     65 IN 2017 Monthly Record: 70
 
 &&
 
@@ -511,8 +463,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...CO
-AVIATION/MARINE...Villafane
+PUBLIC...CO
+AVIATION/MARINE...Westerink
 
 
 </pre>
