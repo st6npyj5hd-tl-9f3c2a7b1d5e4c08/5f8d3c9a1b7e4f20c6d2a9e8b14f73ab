@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T13:04:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T18:53:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,23 +346,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-406
-FXUS66 KSGX 201049
+751
+FXUS66 KSGX 201813
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-349 AM PDT Fri Mar 20 2026
+1113 AM PDT Fri Mar 20 2026
 
 .SYNOPSIS...
-Widespread moderate Heat Risk with areas of major Heat Risk will
-continue through today. Heat Risk will decrease for the weekend,
-with minor cooling. Even with the cooling, temperatures will
-remain above average into next week. Patchy marine layer low
-clouds and fog will be present at times, most likely to impact the
-coastal waters and immediate coast. Stronger onshore flow will
-likely spread marine layer low clouds and fog farther inland for
-the weekend.
+HeatRisk will decrease for the weekend, with minor cooling. Even
+with the cooling, temperatures will remain above average into next
+week. Patchy marine layer low clouds and fog will be present at
+times, most likely to impact the coastal waters and immediate coast.
+Areas of dense fog are possible Saturday morning.
 
 &&
 
@@ -370,115 +367,72 @@ the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...NEW AVIATION AND MARINE DISCUSSION BELOW...
+Multiple daily and monthly high and low temperature records were
+broken yesterday. The latest record report is headlined on our
+weather.gov/sandiego homepage. A climate section can be found below
+listing locations that are currently forecast to tie or break their
+monthly high temperature records today. Multiple locations have the
+potential to continue to hit daily temperature records through next
+week as well above average temperatures continue.
 
-Low clouds and fog are developing over the coastal waters this
-morning but are being kept offshore by drainage winds enhanced by
-weak offshore pressure gradients. The low clouds and fog could
-move onto the beaches late this morning as a weak sea breeze
-develops. Otherwise, skies are clear under the extensive dome of
-high pressure now centered over southwestern AZ.
+Weakening high pressure aloft and strengthening onshore flow will
+bring 4 to 8 degrees of cooling Saturday. That will be most
+noticeable for locations west of the mountains, but even the deserts
+will cool 3 to 5 degrees. A weak low pressure system aloft will move
+east through Southern California into the Great Basin Sunday into
+Monday. That will bring an uptick in westerly winds Saturday and
+Sunday afternoon and evening over the mountains and into the
+deserts. Ridging aloft looks to rebuild early next week and
+strengthen into the middle of the week. This ridge isn`t expected to
+be as strong as the one over Southern California this week, but it
+will be enough to maintain above average temperatures through next
+Friday. Widespread minor with areas of moderate HeatRisk will be
+present in the valleys and low desert for much of next week.
 
-Today will be another day of record-setting temperatures with
-daytime highs in the 90s to low triple digits in the inland
-valleys, the 70s to low 90s in the coastal areas, the mid 90s in
-the upper deserts and near 110 in the low deserts. The mountains
-below 6000 ft will see temperatures in the 80s.
-
-Temperatures begin to trend downward on Saturday as the upper
-level high weakens and gets displaced southeast while onshore flow
-strengthens. The temperature change will be most noticeable in the
-coastal areas a the onshore flow spreads cooler marine air, with
-low clouds and fog, a little farther inland. However, daytime
-temperatures will still be 10-25 degrees above seasonal averages.
-
-Sunday will likely be cooler still as the ridge is replaced by
-weak troughing over SoCal and the onshore flow continues.
-Temperatures in the coastal areas will likely be in the 70s while
-the inland valleys will be in the 80s to low 90s. The lower
-deserts will be in the low triple digits and the high deserts will
-be in the low 90s. These temperatures are still 9-20 degrees
-above seasonal averages. Marine layer influence will likely spread
-even farther inland.
-
-The ridge rebuilds over the western states for next Monday
-through Thursday, with a corresponding upward trend in
-temperatures. Current solutions indicate the ridge won`t be as
-strong as it`s been the last few days but we can expect several
-more days of unseasonably high temperatures.
-
-A percentage of model solutions show the ridge weakening again
-next Friday, with stronger onshore flow combining to bring us some
-relief from the heat.
-
+As the ridge begins to break down today onshore flow will strengthen
+enough to bring patchy dense fog to the coastal waters and at the
+immediate coast Saturday morning. With the aforementioned passing
+weak low pressure onshore flow will increase further, making chances
+of dense fog less likely for Sunday morning. Low cloud and fog
+coverage on Sunday morning may reach into the western valleys. Weak
+offshore flow early next week may keep low clouds and fog patchy and
+more confined to the immediate coast again for early next week.
 
 &&
 
 .AVIATION...
-201100Z...SKC across the area currently except for patchy FG
-lingering just offshore. FG may intermittently creep into coastal
-areas this morning. 30% chance for vis less than 1SM at KSAN and
-less than 20% at KCRQ, KSNA. Clearing 15Z-17Z. Similar story for
-Friday evening and overnight with patchy FG expected to
-intermittently reduce vis for coastal areas starting 03-06Z.
-Everywhere else, VFR conditions expected through the TAF period.
+201800Z...Clear skies and VFR conditions expected through 06Z
+Saturday. Patchy fog and low clouds around 100-500 ft MSL are
+expected to begin moving in along the SD coast after 06Z. 30-40%
+chance for vis less than 1SM at KSAN and KCRQ. Fog is expected to
+clear 15-17Z. Everywhere else, VFR conditions through the TAF period.
 
 &&
 
-.MARINE...Very patchy fog over nearshore waters will continue to
-locally reduce vis to near 1 nautical mile through mid morning.
-There is greater confidence for areas of fog Friday evening and
-overnight with highest chances hear the coastline once again.
-Otherwise, no hazardous marine conditions are expected through
-Tuesday.
+.MARINE...Patchy fog this evening and overnight with highest chances
+near the coastline once again. Patches of fog with visibility near 1
+NM will be possible. Otherwise, no hazardous marine conditions are
+expected through Wednesday.
 
 &&
 
 .CLIMATE...
 Here are a list of locations currently forecast to break/tie
-monthly high temperature records today March 20th:
+monthly high temperature records:
 
 Today:
 
              FORECAST HIGH  RECORD YEAR     AVG    +/-
 
-    RIVERSIDE         100    98 IN 1997      73    27   Monthly Record: 102
-    RAMONA             94    92 IN 1997      68    27   Monthly Record: 95
-    ALPINE             94    86 IN 2001      68    25   Monthly Record: 96
-    BIG BEAR LAKE      79    70 IN 1997      52    27   Monthly Record: 80
-    IDYLLWILD          86    77 IN 1997      60    25   Monthly Record: 90
-    PALOMAR MOUNTAIN   84    76 IN 1972      57    28   Monthly Record: 83
-    LAKE CUYAMACA      86    79 IN 1956      56    31   Monthly Record: 84
-    CAMPO              96    87 IN 1997      69    26   Monthly Record: 96
-    PALM SPRINGS      107    97 IN 1997      80    27   Monthly Record: 107
-    INDIO             108    98 IN 1997      81    27   Monthly Record: 108
-    THERMAL           108   101 IN 1997      82    26   Monthly Record: 108
-    BORREGO           108    95 IN 2017      80    26   Monthly Record: 105
-
-Here are a list of locations currently forecast to break/tie
-monthly highest low temperature records on Friday:
-
-Today:
-
-
-             FORECAST LOW   RECORD  YEAR
-
-    ANAHEIM            63     59 IN 2015 Monthly Record: 69
-    VISTA              62     59 IN 2015 Monthly Record: 67
-    RIVERSIDE          66     58 IN 2015 Monthly Record: 66
-    LAKE ELSINORE      61     57 IN 1986 Monthly Record: 61
-    ESCONDIDO          61     59 IN 2015 Monthly Record: 63
-    RAMONA             56     50 IN 2023 Monthly Record: 63
-    ALPINE             71     55 IN 1990 Monthly Record: 63
-    BIG BEAR LAKE      42     38 IN 2017 Monthly Record: 48
-    IDYLLWILD          63     43 IN 2017 Monthly Record: 53
-    PALOMAR MOUNTAIN   64     56 IN 1997 Monthly Record: 64
-    LAKE CUYAMACA      65     53 IN 2017 Monthly Record: 55
-    CAMPO              57     51 IN 1951 Monthly Record: 58
-    PALM SPRINGS       75     64 IN 2017 Monthly Record: 78
-    INDIO              72     69 IN 2010 Monthly Record: 76
-    THERMAL            69     64 IN 2013 Monthly Record: 69
-    BORREGO            69     64 IN 2013 Monthly Record: 73
+    RAMONA             94    92 IN 1997      68    28   Monthly Record: 94
+    IDYLLWILD          86    79 IN 2004      60    27   Monthly Record: 82
+    PALOMAR MOUNTAIN   84    76 IN 1972      57    29   Monthly Record: 82
+    LAKE CUYAMACA      86    75 IN 2004      56    32   Monthly Record: 82
+    CAMPO              96    92 IN 1997      69    27   Monthly Record: 92
+    PALM SPRINGS      107    98 IN 2004      80    31   Monthly Record: 104
+    INDIO             108   100 IN 2004      81    31   Monthly Record: 104
+    THERMAL           108   101 IN 2004      82    32   Monthly Record: 103
+    BORREGO           108    97 IN 1997      80    26   Monthly Record: 101
 
 &&
 
@@ -507,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...KW
+PUBLIC/CLIMATE...CO
+AVIATION/MARINE...Villafane
 
 
 </pre>
