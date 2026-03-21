@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-21T12:54:09.607412Z",
+  "generated_at_utc": "2026-03-21T18:39:07.934499Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -19,8 +19,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "text/html; charset=UTF-8",
-      "bytes_written": 28388,
-      "sha256": "5735dca31e601dfddbc2c62efa35c1e90be233b829335d6e0989bde89e2679dc",
+      "bytes_written": 28395,
+      "sha256": "3eb7ddd7e791db4eafa245e119bebe0ffd467e6da05322739853966456ad5aa0",
       "error": null
     },
     {
@@ -30,8 +30,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "text/xml;charset=UTF-8",
-      "bytes_written": 10497,
-      "sha256": "70f9ec709f5006dec2cbc78e34f1e34326c80a7885cab288873d1130fc9fab1a",
+      "bytes_written": 10468,
+      "sha256": "9955c9bd2666f3a26c162e167595aaec8597b56c8f4546e251bfd42dd00a2b5f",
       "error": null
     }
   ]

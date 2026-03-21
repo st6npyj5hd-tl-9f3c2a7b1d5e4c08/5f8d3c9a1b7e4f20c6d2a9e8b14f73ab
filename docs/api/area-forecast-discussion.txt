@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-21T12:54:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-21T18:39:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-670
-FXUS66 KSGX 211052
+503
+FXUS66 KSGX 211809
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-352 AM PDT Sat Mar 21 2026
+1109 AM PDT Sat Mar 21 2026
 
 .SYNOPSIS...
 Gradual cooling through the weekend with a return of marine layer
@@ -365,6 +365,8 @@ week, highest on Wednesday during the next peak in the heat.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...NEW AVIATION DISCUSSION...
 
 Today through tomorrow night...
 
@@ -409,27 +411,25 @@ beyond the forecast shows that there could begin a pattern shift
 going beginning the following weekend, although this is still too
 far out in the forecast to be reliable at this time.
 
-
 &&
 
 .AVIATION...
-211100Z...Mostly clear skies and VFR conditions across the region
-currently. Patchy fog may develop near the coastline after 12Z,
-though coverage looks to be less than previously anticipated. Any FG
-that develops will stay mostly within 5 miles of the coastline. 40%
-chance for vis below 1SM at KSAN, 20% at KCRQ and KSNA. Scattering
-out of land areas 15-17Z, but may linger at the beaches through 20Z.
-Low clouds return to coastal areas tonight with slightly higher
-bases. Minor vis reductions (2-5SM) for coastal areas with FG along
-elevated coastal terrain.
+211800Z...Currently a patch of low clouds around 300 ft MSL are
+hanging out just off the southern San Diego coast. Higher chances
+for fog and low clouds for coastal sites this evening beginning
+after 02Z Sunday. Cloud bases are expected to be around 300-800 ft
+MSL, increasing in coverage 6Z-9Z. Vis restrictions around 2-5SM
+with fog along elevated coastal terrain are expected to develop 7Z-
+10Z.  Low clouds and fog will begin to clear 16-18Z Sunday.
+Otherwise, VFR conditions expected through the period.
 
 &&
 
-.MARINE...Chance for patchy fog (30-40%) near the coastline after
-12Z this morning, locally reducing visibility under 1 nautical mile.
-If any FG develops, local vis reductions will improve by late this
-morning. Otherwise, no hazardous marine conditions expected through
-Wednesday night.
+.MARINE...Patchy, but not dense, fog out over the local waters
+currently. Fog is expected to increase in coverage this evening with
+locally reduced visibility under 1 nautical mile possible.
+Visibility will improve by late morning Sunday. Otherwise, no
+hazardous marine conditions expected through Thursday.
 
 &&
 
@@ -452,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
