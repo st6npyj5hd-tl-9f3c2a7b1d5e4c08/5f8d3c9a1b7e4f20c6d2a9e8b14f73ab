@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-20T18:53:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-21T02:08:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,18 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-751
-FXUS66 KSGX 201813
+227
+FXUS66 KSGX 210057
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1113 AM PDT Fri Mar 20 2026
+557 PM PDT Fri Mar 20 2026
 
 .SYNOPSIS...
 HeatRisk will decrease for the weekend, with minor cooling. Even
@@ -366,6 +364,8 @@ Areas of dense fog are possible Saturday morning.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...AVIATION/MARINE SECTIONS UPDATED...
 
 Multiple daily and monthly high and low temperature records were
 broken yesterday. The latest record report is headlined on our
@@ -398,48 +398,24 @@ coverage on Sunday morning may reach into the western valleys. Weak
 offshore flow early next week may keep low clouds and fog patchy and
 more confined to the immediate coast again for early next week.
 
+
 &&
 
 .AVIATION...
-201800Z...Clear skies and VFR conditions expected through 06Z
-Saturday. Patchy fog and low clouds around 100-500 ft MSL are
-expected to begin moving in along the SD coast after 06Z. 30-40%
-chance for vis less than 1SM at KSAN and KCRQ. Fog is expected to
-clear 15-17Z. Everywhere else, VFR conditions through the TAF period.
+210000Z...Mostly clear skies and VFR conditions expected through
+06Z. Patchy fog based 100-400 ft MSL with vis 1/2-3 SM expected to
+begin moving into the SD coast after 06Z, then into the OC coast
+after 09Z. Low clouds likely won`t move any further than about 5
+miles inland overnight. 30-40% chance for vis less than 1/2SM at
+coastal sites overnight. Fog clears to beaches 15-17Z. Elsewhere,
+VFR conditions through the TAF period.
 
 &&
 
-.MARINE...Patchy fog this evening and overnight with highest chances
-near the coastline once again. Patches of fog with visibility near 1
-NM will be possible. Otherwise, no hazardous marine conditions are
-expected through Wednesday.
-
-&&
-
-.CLIMATE...
-Here are a list of locations currently forecast to break/tie
-monthly high temperature records:
-
-Today:
-
-             FORECAST HIGH  RECORD YEAR     AVG    +/-
-
-    RAMONA             94    92 IN 1997      68    28   Monthly Record: 94
-    IDYLLWILD          86    79 IN 2004      60    27   Monthly Record: 82
-    PALOMAR MOUNTAIN   84    76 IN 1972      57    29   Monthly Record: 82
-    LAKE CUYAMACA      86    75 IN 2004      56    32   Monthly Record: 82
-    CAMPO              96    92 IN 1997      69    27   Monthly Record: 92
-    PALM SPRINGS      107    98 IN 2004      80    31   Monthly Record: 104
-    INDIO             108   100 IN 2004      81    31   Monthly Record: 104
-    THERMAL           108   101 IN 2004      82    32   Monthly Record: 103
-    BORREGO           108    97 IN 1997      80    26   Monthly Record: 101
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+.MARINE...Patchy fog with visibility under 1 nautical mile is
+expected to move over the coastal waters this evening and overnight,
+highest chances near the coastline. Otherwise, no hazardous marine
+conditions expected through Wednesday.
 
 &&
 
@@ -461,8 +437,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...CO
-AVIATION/MARINE...Villafane
+PUBLIC...CO
+AVIATION/MARINE...CSP
 
 
 </pre>
