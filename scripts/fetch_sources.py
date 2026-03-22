@@ -56,6 +56,14 @@ SOURCES = [
         ),
         output_path=API_DIR / "forecast.dwml",
     ),
+    Source(
+        logical_name="hourly-forecast-dwml",
+        source_url=(
+            "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497"
+            "&FcstType=digitalDWML"
+        ),
+        output_path=API_DIR / "hourly-forecast.dwml",
+    ),
 ]
 
 
@@ -120,6 +128,20 @@ paths:
       responses:
         '200':
           description: DWML XML forecast snapshot.
+          content:
+            application/xml:
+              schema:
+                type: string
+  /api/hourly-forecast.dwml:
+    get:
+      operationId: getHourlyDwmlForecast
+      summary: Get the NWS hourly DWML XML forecast snapshot for San Diego
+      description: >-
+        Returns the latest fetched hourly DWML forecast XML for the configured
+        San Diego latitude/longitude point.
+      responses:
+        '200':
+          description: Hourly DWML XML forecast snapshot.
           content:
             application/xml:
               schema:

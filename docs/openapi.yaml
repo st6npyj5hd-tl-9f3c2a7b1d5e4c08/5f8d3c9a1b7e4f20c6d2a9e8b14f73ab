@@ -52,6 +52,20 @@ paths:
             application/xml:
               schema:
                 type: string
+  /api/hourly-forecast.dwml:
+    get:
+      operationId: getHourlyDwmlForecast
+      summary: Get the NWS hourly DWML XML forecast snapshot for San Diego
+      description: >-
+        Returns the latest fetched hourly DWML forecast XML for the configured
+        San Diego latitude/longitude point.
+      responses:
+        '200':
+          description: Hourly DWML XML forecast snapshot.
+          content:
+            application/xml:
+              schema:
+                type: string
   /api/status.json:
     get:
       operationId: getSnapshotStatus
