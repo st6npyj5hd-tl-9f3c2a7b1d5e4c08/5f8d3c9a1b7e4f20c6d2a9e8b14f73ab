@@ -15,6 +15,8 @@ After enabling GitHub Pages (see below), these files are available under your Pa
 - `/api/status.json`
 - `/openapi.yaml`
 
+The two DWML endpoints serve different snapshot cadences: `/api/forecast.dwml` exposes the standard point forecast feed, while `/api/hourly-forecast.dwml` publishes the higher-resolution hourly feed for the same San Diego coordinates.
+
 ## Enable GitHub Pages
 
 1. Go to **Settings → Pages** in your repository.
