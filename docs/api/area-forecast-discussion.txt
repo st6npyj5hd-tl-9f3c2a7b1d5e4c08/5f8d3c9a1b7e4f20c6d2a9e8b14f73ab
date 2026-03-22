@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T12:56:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T18:40:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,16 +343,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-211
-FXUS66 KSGX 221048
+528
+FXUS66 KSGX 221747
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-348 AM PDT Sun Mar 22 2026
+1047 AM PDT Sun Mar 22 2026
 
 .SYNOPSIS...
 Minor cooling continues tomorrow, though above normal
@@ -366,6 +368,8 @@ and fog will spread into the coastal areas each night and morning.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...NEW AVIATION AND MARINE DISCUSSION...
 
 Today through tomorrow night...
 
@@ -425,24 +429,23 @@ region is expected to remain dry through then.
 &&
 
 .AVIATION...
-221100Z...Low clouds based 400-700 ft MSL currently over San
-Diego/Orange Counties up to 15 miles inland. This will allow
-for areas of minor vis reductions (4-6SM) down to sea level (i.e.
-KSAN, KSNA). Greater vis reductions (1-4SM) for elevated coastal
-terrain and western valleys. Patchy dense FG where clouds intersect
-terrain. Clouds scatter to the coastline 15-17Z, but may linger at
-the beaches through 20Z. Low clouds with similar to slightly higher
-bases return to coastal areas staring 03-06Z Mon. Vis reductions
-likely again for elevated coastal terrain and western valleys.
-
-Elsewhere, VFR conditions expected through the period.
+221745Z...Low clouds are slowly lifting and beginning to scatter
+out along coastal sites with bases currently 700-1,200 ft MSL and
+VFR visibilities. Low clouds will make a full retreat by 19Z-20Z.
+Low clouds will start to move in after 02Z-04Z, increasing in
+coverage and lowering 06Z-07Z to around 300-600 ft MSL. Expect vis
+restrictions for elevated coastal terrain and western valleys of
+1- 4SM and coastal sites 4-6SM. everywhere else, VFR conditions
+through the TAF period.
 
 &&
 
-.MARINE...Very patchy fog out over the local waters through this
-morning. Most of the clouds are elevated off the water surface,
-though local minor visibility reductions remains possible.
-Otherwise, no hazardous marine conditions expected through Thursday.
+.MARINE...Patchy fog out over the local waters this morning should
+clear slightly closer to the coast, lingering through the day in the
+offshore waters. Most of the clouds are elevated off the water
+surface, though locally minor restrictions in visibility will remain
+possible. Otherwise, no hazardous marine conditions expected through
+Friday.
 
 &&
 
@@ -462,7 +465,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
