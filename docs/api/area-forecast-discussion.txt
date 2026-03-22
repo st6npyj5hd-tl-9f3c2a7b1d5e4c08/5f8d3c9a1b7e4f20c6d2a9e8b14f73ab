@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-21T18:39:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T02:29:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,19 +346,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-503
-FXUS66 KSGX 211809
+553
+FXUS66 KSGX 220036
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1109 AM PDT Sat Mar 21 2026
+536 PM PDT Sat Mar 21 2026
 
 .SYNOPSIS...
-Gradual cooling through the weekend with a return of marine layer
-low clouds and fog at the coast. Even with the cooling,
-temperatures will remain 15-25 degrees above normal into next
-week, highest on Wednesday during the next peak in the heat.
+Slight cooling through Sunday, though warm, above average
+temperatures persist, with a return of marine layer low clouds and
+fog at the coast during the mornings. Slight warming next week as
+weaker high pressure builds back into the region, with
+temperatures 10-25 degrees above average through at least Friday.
 
 &&
 
@@ -366,69 +367,74 @@ week, highest on Wednesday during the next peak in the heat.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...NEW AVIATION DISCUSSION...
 
-Today through tomorrow night...
+Intense, early season high pressure that brought unseasonal,
+multiple-record breaking heat has finally weakened and shifted
+eastward as a low pressure system in the Gulf of Alaska finally
+flattens the persistent ridge that covered the western half of the
+U.S. for the last week. Compared to temperatures at noon
+yesterday, today`s noon temperatures are anywhere from a degree
+to twelve degrees cooler. Sunday`s high temperatures will be
+another 2-6 degrees cooler as a small, transient low moves through
+the region. Despite this, we`re not close to being out of the
+woods in terms of unusually warm temperatures, with even Sunday`s
+high temperatures remaining 5-20 degrees above average.
 
-Currently, low clouds are still nearly absent within the inner
-waters of the SoCal bight, and will likely continue to struggle to
-develop throughout the morning, with likely just some patchy low
-clouds and fog being possible along some of the coastal areas, with
-higher confidence along the southern coast of San Diego County.
+As heights aloft drop and pressure gradients turn onshore, our
+long-absent marine layer will make a return to coastal regions
+mornings over the weekend into early next week, though a somewhat
+patchy one at points. Persistent high pressure will keep clouds to
+within 10-15 miles of the coast or so, and low enough that patchy
+mist and fog are likely over coastal highlands. Onshore flow will
+also lead to breezier afternoon and evening winds today through
+Monday for the mountains and deserts, with areas locally gusting
+20-35 mph this evening.
 
-The very strong ridge overhead that has resulted in record-breaking
-heat is finally going to begin to weaken and allow for some relief
-in the intense heat, although temperatures will still be well above
-average for this time of year. The low deserts still have an Extreme
-Heat Warning in place for today as temperatures still look to
-approach 110 for some areas. There will be an enhancement in onshore
-flow, bringing a slight cooling trend from west to east through
-tomorrow. This will help to knock down high temperatures nearly 10
-degrees cooler from where they were yesterday for some of the inland
-areas by Sunday. This will also help to some of the lower level
-moisture to surge in from the west as there is some weak troughing
-upstream which will help to influence the marine layer with better
-coverage expected overnight Saturday into Sunday morning. There
-could also be some patchy fog, which may even be locally dense along
-some of the coastal slopes. Winds will become stronger and gusty out
-of the west by later this afternoon and through the early evening,
-especially across the higher terrain and within the mountains passes
-and canyons which are more vulnerable to gusty winds. These winds
-look to primarily remain below criteria, and will be gusty again
-during the afternoon hours on Sunday, although even slightly weaker.
+Ridging moves back over the region Monday-Tuesday, then amplifies
+through mid-week as it moves eastwards into the desert southwest.
+As a result, temperatures will increase again Monday-Wednesday by
+a degree or two each day, but not to the extent of this previous
+week. Temperatures Wednesday will be 10-25 degrees above average
+for this time of year. Coastal areas will remain in the mid to
+high 70s, with 80s to low 90s in the valleys, low to mid 90s in
+the IE and high desert, 70s in the mountains, and mid 90s to about
+101 in the low deserts. Several daily temperature records are
+likely to be tied or broken over the next week for inland sites,
+but monthly records at least are very unlikely to be challenged.
 
-Monday through Friday...
-
-As the ridge continues to break down, the longwave flow will become
-more zonal, then followed by more ridging (although not as strong as
-the ridge in place this past week) going into the latter part of the
-week, which will bring back a gradual warmup and keep temperatures
-still some 15 to 20 degrees above the seasonal average for this time
-of year, especially within the inland valleys and IE. There is
-pretty good agreement with the ensemble solutions showing slight
-ridging becoming the dominant feature again, and then a little
-beyond the forecast shows that there could begin a pattern shift
-going beginning the following weekend, although this is still too
-far out in the forecast to be reliable at this time.
-
+Little change day to day from mid-week to late week as high
+pressure remains over the area and temperatures remain well above
+average. A pattern shift does appear to be in our future, however,
+with the majority of long range models showing some form of low
+pressure trough near the end of the month. High uncertainty
+remains as there are some significant model differences, but at
+least some cooling is very likely.
 &&
 
 .AVIATION...
-211800Z...Currently a patch of low clouds around 300 ft MSL are
-hanging out just off the southern San Diego coast. Higher chances
-for fog and low clouds for coastal sites this evening beginning
-after 02Z Sunday. Cloud bases are expected to be around 300-800 ft
-MSL, increasing in coverage 6Z-9Z. Vis restrictions around 2-5SM
-with fog along elevated coastal terrain are expected to develop 7Z-
-10Z.  Low clouds and fog will begin to clear 16-18Z Sunday.
-Otherwise, VFR conditions expected through the period.
+220015Z...A pulse of low clouds based 300-800 ft MSL just passed
+through the immediate coast and is now scattering out. A more
+widespread patch of low clouds is passing over the waters and is
+expected to bring intermittent cigs at the immediate coast over the
+next few hours (00-03z). Patchy low clouds and localized vis
+reductions 2-5SM begin to form for coastal areas up to 15 miles
+inland after 03z. More consistent VIS reductions 1-3SM and patchy FG
+(0-1SM) for inland valleys directly east of the I-5 corridor and
+elevated coastal terrain around 08-14z Sun. 40% chance for vis below
+1/2SM at KCRQ during this window; KSNA ~ 30% chance, although
+KSNA/KSAN are most likely remaining below main cloud deck with vis
+down to 4-6SM at times. Clouds/fog scatter out 15-17z Sun, yielding
+to VFR conditions besides some patchy low clouds developing at the
+immediate coast.
+
+Elsewhere, VFR conditions expected through the period.
 
 &&
 
 .MARINE...Patchy, but not dense, fog out over the local waters
 currently. Fog is expected to increase in coverage this evening with
 locally reduced visibility under 1 nautical mile possible.
-Visibility will improve by late morning Sunday. Otherwise, no
+Visibility will improve by mid-morning Sunday. Otherwise, no
 hazardous marine conditions expected through Thursday.
 
 &&
@@ -451,8 +457,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...Villafane
+PUBLIC...CSP
+AVIATION/MARINE...Westerink
 
 
 </pre>
