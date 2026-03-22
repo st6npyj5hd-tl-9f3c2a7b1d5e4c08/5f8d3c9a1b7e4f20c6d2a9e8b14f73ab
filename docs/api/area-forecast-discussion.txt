@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T06:55:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T12:56:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-925
-FXUS66 KSGX 220447
+211
+FXUS66 KSGX 221048
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-947 PM PDT Sat Mar 21 2026
+348 AM PDT Sun Mar 22 2026
 
 .SYNOPSIS...
 Minor cooling continues tomorrow, though above normal
@@ -367,67 +367,82 @@ and fog will spread into the coastal areas each night and morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-Several daily high temperatures were broken once again today, and
-this streak will likely continue over the next several days as
-well above normal temperatures persist. Thermal and Indio tied
-their monthly record once again with a high of 108, but
-fortunately that should be the last of the monthly records as the
-upper high weakens. High temperatures tomorrow will be a few
-degrees lower than today. Otherwise widespread marine layer clouds
-have quickly redeveloped over the California Bight today and
-spread into the coastal areas this evening. Pathcy dense fog is
-possible over the higher coastal terrain and coastal mesas late
-tonight into Sunday morning as the marine layer spreads several
-miles inland. Night and morning low clouds and fog will continue
-through much of the week across the coastal areas.
+Today through tomorrow night...
 
-Previous discussion...
-Ridging moves back over the region Monday-Tuesday, then amplifies
-through mid-week as it moves eastwards into the desert southwest.
-As a result, temperatures will increase again Monday-Wednesday by
-a degree or two each day, but not to the extent of this previous
-week. Temperatures Wednesday will be 10-25 degrees above average
-for this time of year. Coastal areas will remain in the mid to
-high 70s, with 80s to low 90s in the valleys, low to mid 90s in
-the IE and high desert, 70s in the mountains, and mid 90s to about
-101 in the low deserts. Several daily temperature records are
-likely to be tied or broken over the next week for inland sites,
-but monthly records at least are very unlikely to be challenged.
+At this time, there are some areas of patchy fog along the coastal
+slopes and within a few of the inland valleys. There are only a few
+remote locations reporting visibilities of less than a quarter of a
+statue mile. Be advised if you are commuting this morning along the
+coast and up to around 10 to 15 miles inland, and especially along
+the I-15 corridor stretching from Mira Mesa and northward to
+Fallbrook, as there could be significant visibility restrictions on
+occasion due to these isolated areas of dense fog.
 
-Little change day to day from mid-week to late week as high
-pressure remains over the area and temperatures remain well above
-average. A pattern shift does appear to be in our future, however,
-with the majority of long range models showing some form of low
-pressure trough near the end of the month. High uncertainty
-remains as there are some significant model differences, but at
-least some cooling is very likely.
+High pressure conditions remain over SoCal, although the ridge is
+finally beginning to weaken and shift a little further east as there
+is troughing upstream propagating towards the region. This is
+allowing for the return of better onshore flow, which has also
+brought in more lower level moisture, and therefore has allowed for
+the marine layer to redevelop over the inner waters and move over
+with areas of patchy fog this morning. This is relatively shallow
+and should mix out/dissipate fairly quickly after sunrise over most
+of the inland areas, and then just perhaps remain right off the
+coast throughout most of the afternoon, with occasional moments of
+clouds becoming broken to overcast immediately along portions of the
+coastline. Elsewhere, temperatures will warm up relatively quickly,
+although temperatures will be notably cooler in comparison to
+yesterday west of the mountains with better onshore flow. With
+passage of the weak troughing to north north and some ridging moving
+in behind, temperatures will begin to gradually warm tomorrow, with
+readings being a few degrees warmer for locations west of the
+mountains, although slightly cooler within the lower deserts.
+
+For tomorrow night, the marine layer will likely be similar in
+coverage, although since heights are dropping slightly, the low
+clouds ceiling will lift slightly, which may result in some of the
+inland areas a little further east being impacted by low clouds/fog
+through Tuesday morning.
+
+Tuesday through next weekend...
+
+From Tuesday through the end of the work week, temperatures will
+continue to gradually warm back up with values not as hot as this
+past week, though still very warm for this time of year, with some
+locations still having max temperatures at 20 to 25 degrees above
+the seasonal temperature for this time of year as a negatively
+tilted ridge axis remains locked in place over the western states.
+There is still consistency within the ensembles that does reveal
+that this ridge will begin to break down and weaken as it finally
+propagates eastward, with weak troughing becoming the dominant
+feature going into the following weekend, and this should help to
+bring about some much needed relief for temperatures and hopefully
+bring them back down to where they should be for this time of year.
+There is also going to be some mid level moisture that gets advected
+up ahead of this trough and may provide a slight chance of a shower
+over the mountains during the afternoon on Saturday, otherwise the
+region is expected to remain dry through then.
 
 &&
 
 .AVIATION...
-220500Z...Low clouds based 200-600 ft MSL and FG are surging past I-
-5 currently into SD County as well as coastal areas of Orange
-County. VIS reductions 1-3SM directly east of the I-5 corridor in SD
-County and east of the 73/405 corridors in Orange County. Vis below
-1SM (down to 1/4SM) at times in these areas (especially elevated
-coastal terrain). SD Co. sites near sea level (i.e. KSAN) are less
-likely (30% chance) to see periods of vis below 1SM than sites up to
-15 miles inland (60%) and OC coastal sites (40%).
-
-Clouds/fog scatter out 15-17z Sun, yielding to VFR conditions
-besides some patchy low clouds developing at the immediate coast.
-Low clouds based 700-1200 ft return to the coast 03-06z Mon.
+221100Z...Low clouds based 400-700 ft MSL currently over San
+Diego/Orange Counties up to 15 miles inland. This will allow
+for areas of minor vis reductions (4-6SM) down to sea level (i.e.
+KSAN, KSNA). Greater vis reductions (1-4SM) for elevated coastal
+terrain and western valleys. Patchy dense FG where clouds intersect
+terrain. Clouds scatter to the coastline 15-17Z, but may linger at
+the beaches through 20Z. Low clouds with similar to slightly higher
+bases return to coastal areas staring 03-06Z Mon. Vis reductions
+likely again for elevated coastal terrain and western valleys.
 
 Elsewhere, VFR conditions expected through the period.
 
 &&
 
-.MARINE...Patchy fog out over the local waters tonight. Most of the
-fog is elevated off the water surface and not dense, though areas of
-visibility under 1 nautical mile remain possible locally. Visibility
-will improve by mid-morning Sunday. Otherwise, no hazardous marine
-conditions expected through Thursday.
+.MARINE...Very patchy fog out over the local waters through this
+morning. Most of the clouds are elevated off the water surface,
+though local minor visibility reductions remains possible.
+Otherwise, no hazardous marine conditions expected through Thursday.
 
 &&
 
@@ -446,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Westerink
+PUBLIC...Stewey
+AVIATION/MARINE...KW
 
 
 </pre>
