@@ -1,6 +1,6 @@
 # San Diego Static Snapshot Publisher
 
-This repository publishes static snapshots of three public San Diego weather/school resources to GitHub Pages.
+This repository publishes static snapshots of four public San Diego weather/school resources to GitHub Pages.
 
 It is **not** a live proxy. Upstream data is fetched on a schedule, written to files in `docs/api`, and then served as static assets.
 
@@ -11,6 +11,7 @@ After enabling GitHub Pages (see below), these files are available under your Pa
 - `/api/school-calendar.pdf`
 - `/api/area-forecast-discussion.txt`
 - `/api/forecast.dwml`
+- `/api/hourly-forecast.dwml`
 - `/api/status.json`
 - `/openapi.yaml`
 
@@ -33,7 +34,7 @@ The workflow at `.github/workflows/fetch-and-deploy.yml`:
 - supports manual runs via **Actions → Fetch and publish static snapshots → Run workflow**
 - fetches all sources, updates `docs/api/*` and `docs/openapi.yaml`, and commits changes when needed
 
-If one source fails, the previous published file is kept. The run fails only when all three sources fail.
+If one source fails, the previous published file is kept. The run fails only when all four sources fail.
 
 ## OpenAPI base URL replacement
 
