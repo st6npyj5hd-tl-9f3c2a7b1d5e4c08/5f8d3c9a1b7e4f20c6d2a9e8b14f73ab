@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T02:29:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T07:13:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,20 +346,19 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-641
-FXUS66 KSGX 230043
+387
+FXUS66 KSGX 230542
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-543 PM PDT Sun Mar 22 2026
+1042 PM PDT Sun Mar 22 2026
 
 .SYNOPSIS...
-Today will be the coolest day of the week, with temperatures
-10-25 degrees above average Monday through at least Saturday as
-high pressure builds back into the area. Areas of low clouds and
-fog will spread into the coastal areas each night and morning
-early this week.
+Temperatures will be 10-25 degrees above normal Monday through at
+least Saturday as high pressure builds back into the area. Areas
+of low clouds and fog will spread into the coastal areas each
+night and morning.
 
 &&
 
@@ -367,19 +366,23 @@ early this week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-A transient short wave trough moving through the region has
-resulted in cooler (relative) temperatures, and today`s
-temperatures are 1-10 degrees lower than yesterday`s at the same
-time. The trough will also bring low level marine layer clouds,
-currently offshore, into coastal regions and western valleys this
-evening a little earlier than yesterday. The marine layer will be
-low enough tonight to result in more fog for higher elevation
-coastal regions, generally for areas approximately along the I-15
-corridor in San Diego County and the I-5 corridor in Orange
-County; similar areas to this morning. Marine layer clouds will
-return to coastal areas each evening/morning through at least
-mid-week, moving inland to a fairly similar extent each night.
+Evening update...
+Low clouds have returned to parts of the coast this evening, and
+will continue to fill in and spread into the coastal mesas and far
+western valleys overnight. Patchy dense fog is possible on the
+higher coastal terrain late tonight into Monday morning. Otherwise
+a few high clouds associated with a weak upper level low just to
+our southwest are begging to push out of the region. Marine layer
+low clouds will return to the coastal areas each night and
+morning, but not extending quite as far inland beginning Monday
+night as the marine layer becomes more shallow.
 
+And as we`ve seen for the past week, more daily high temperature
+records were broken or tied today, with several more days of
+record breaking heat ahead. A list of the records is headlined on
+our homepage at weather.gov/sandiego.
+
+Previous discussion...
 Our little weak low moves off to the south early Monday, and broad
 ridging will settle back over the area through mid-week, resulting
 in another warm-up. Temperatures tick up slightly each day through
@@ -397,25 +400,28 @@ next. Though differences in ensemble position/strength/timing of
 the trough remain, this will result in cooling Sunday likely
 continuing into next week.
 
+
 &&
 
 .AVIATION...
-230000Z...Low clouds are developing off the coast, expected to move
-onshore 03-05z with widespread ceilings around 300-800 ft MSL
-throughout the coast. Clouds fill in inland - up to the valleys
-around the I-15 corridor in SD Co. and throughout inland OC - between
-06-08z. Expect vis restrictions for elevated coastal terrain and
+230530Z...Low clouds based 500-1000 ft MSL are moving inland
+throughout the coast. Clouds reach their furthest inland extent
+around 09z - to the valleys around I-15 in SD Co. and throughout
+inland OC. Expect vis restrictions for elevated coastal terrain and
 inland valleys of 1-4SM (with localized FG, 0-1SM vis) and coastal
-sites 4-6SM. Scatter out 16-18z Mon. Everywhere else, VFR conditions
-through the TAF period.
+sites 4-6SM. Scatter out and vis improves 16-18z Mon. Low clouds
+based 400-800 ft MSL return to the coastal sites Monday evening,
+around 03-05z Tue.
+
+Everywhere else, VFR conditions through the TAF period.
 
 &&
 
-.MARINE...Low clouds are developing over the waters this
-evening. Areas of mist and patchy fog are expected under the main
-cloud deck, although sparse in coverage. Greater confidence in
-higher fog coverage Monday night and Tuesday night. Otherwise, no
-hazardous marine conditions expected through Friday.
+.MARINE...Low clouds are covering the waters tonight. Fog and
+mist are possible under the main cloud deck, although very sparse
+in coverage. Greater confidence in higher fog coverage Monday
+night and Tuesday night. Otherwise, no hazardous marine conditions
+expected through Friday.
 
 &&
 
@@ -434,7 +440,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CSP
+PUBLIC...SS
 AVIATION/MARINE...Westerink
 
 
