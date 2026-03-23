@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T07:13:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T13:12:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,24 +341,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-387
-FXUS66 KSGX 230542
+675
+FXUS66 KSGX 231000
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1042 PM PDT Sun Mar 22 2026
+300 AM PDT Mon Mar 23 2026
 
 .SYNOPSIS...
-Temperatures will be 10-25 degrees above normal Monday through at
-least Saturday as high pressure builds back into the area. Areas
-of low clouds and fog will spread into the coastal areas each
-night and morning.
+High pressure aloft will maintain high temperatures through Friday
+from around 10 degrees above average near the coast to 15 to 20
+degrees above average for inland areas. Night and morning coastal
+low clouds and fog will spread into the western valleys at times.
+Cooling will begin to spread inland next weekend, but with high
+temperatures for next Sunday still 10 to 15 degrees above average.
 
 &&
 
@@ -366,69 +366,57 @@ night and morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-Low clouds have returned to parts of the coast this evening, and
-will continue to fill in and spread into the coastal mesas and far
-western valleys overnight. Patchy dense fog is possible on the
-higher coastal terrain late tonight into Monday morning. Otherwise
-a few high clouds associated with a weak upper level low just to
-our southwest are begging to push out of the region. Marine layer
-low clouds will return to the coastal areas each night and
-morning, but not extending quite as far inland beginning Monday
-night as the marine layer becomes more shallow.
+.SHORT TERM (Today through Wednesday)...
+High pressure aloft will strengthen across southern California
+through Tuesday, then weaken slightly and briefly on Wednesday.
+There will be slight day-to-day temperature differences. High
+temperatures will remain around 10 degrees above average near the
+coast to 15 to 20 degrees for inland areas.
 
-And as we`ve seen for the past week, more daily high temperature
-records were broken or tied today, with several more days of
-record breaking heat ahead. A list of the records is headlined on
-our homepage at weather.gov/sandiego.
+High temperatures will range from the 70s near the coast to the
+upper 80s to mid 90s for the Inland Empire with the lower deserts
+in the upper 90s to around 100. Several locations in the
+mountains, deserts, valleys, and inland Orange County will
+continue to tie or break daily high temperature records and
+records for warmest low temperatures.
 
-Previous discussion...
-Our little weak low moves off to the south early Monday, and broad
-ridging will settle back over the area through mid-week, resulting
-in another warm-up. Temperatures tick up slightly each day through
-Wednesday, remaining a warm 15-25 degrees above daily averages
-through the rest of the week, with little day to day change in
-temperatures through Saturday. While temperatures this week won`t
-rival monthly records, as in the last week, multiple daily
-temperature records (both high and morning lows) are likely to be
-broken throughout inland Southern California most if not all days
-through Saturday under anomalously strong, early-season high
-pressure.
+The marine layer is around 1500 feet deep. Night and morning
+coastal low clous and fog will spread into the far western alleys
+at times through the middle of the week.
 
-A broad trough will move over the western U.S. late this week into
-next. Though differences in ensemble position/strength/timing of
-the trough remain, this will result in cooling Sunday likely
-continuing into next week.
+&&
 
+.LONG TERM (Thursday through Sunday)...
+Dry weather will continue through next weekend. For next weekend,
+high pressure aloft will begin to weaken and onshore flow will
+begin to strengthen as a low pressure system over the eastern
+Pacific moves toward the West Coast. Cooling will begin to spread
+inland next weekend. However, high temperatures for next Sunday
+will still be a around 10 to 15 degrees above average. High
+temperatures on Sunday will range from the 70s near the coast to
+mid 80s to lower 90s for the Inland Empire with the lower deserts
+in the mid 90s to around 100.
 
 &&
 
 .AVIATION...
-230530Z...Low clouds based 500-1000 ft MSL are moving inland
-throughout the coast. Clouds reach their furthest inland extent
-around 09z - to the valleys around I-15 in SD Co. and throughout
-inland OC. Expect vis restrictions for elevated coastal terrain and
-inland valleys of 1-4SM (with localized FG, 0-1SM vis) and coastal
-sites 4-6SM. Scatter out and vis improves 16-18z Mon. Low clouds
-based 400-800 ft MSL return to the coastal sites Monday evening,
-around 03-05z Tue.
-
-Everywhere else, VFR conditions through the TAF period.
+230930Z...Low clouds based 700-1000 feet MSL, tops 1500 feet, and
+local vis reduced 1-5SM over higher coastal terrain will continue
+over coastal areas and western valleys this morning. Scatter out
+should occur 16-17Z. Low clouds based 600-900 feet MSL return to the
+coastal areas after 04Z into Tuesday morning. Otherwise, mostly
+clear and VFR conditions will prevail into Tuesday.
 
 &&
 
-.MARINE...Low clouds are covering the waters tonight. Fog and
-mist are possible under the main cloud deck, although very sparse
-in coverage. Greater confidence in higher fog coverage Monday
-night and Tuesday night. Otherwise, no hazardous marine conditions
-expected through Friday.
+.MARINE...
+No hazardous marine conditions expected through Friday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -440,8 +428,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
