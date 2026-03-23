@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-22T22:54:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T02:29:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-579
-FXUS66 KSGX 222118
+641
+FXUS66 KSGX 230043
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-218 PM PDT Sun Mar 22 2026
+543 PM PDT Sun Mar 22 2026
 
 .SYNOPSIS...
 Today will be the coolest day of the week, with temperatures
@@ -400,23 +400,29 @@ continuing into next week.
 &&
 
 .AVIATION...
-221800Z...Low clouds are slowly lifting and beginning to scatter out
-along coastal sites with bases currently 700-1,200 ft MSL and VFR
-visibilities. Low clouds will make a full retreat by 19Z-20Z. Low
-clouds will start to move in after 02Z-04Z, increasing in coverage
-and lowering 06Z-07Z to around 300-600 ft MSL. Expect vis
-restrictions for elevated coastal terrain and western valleys of 1-
-4SM and coastal sites 4-6SM. everywhere else, VFR conditions through
-the TAF period.
+230000Z...Low clouds are developing off the coast, expected to move
+onshore 03-05z with widespread ceilings around 300-800 ft MSL
+throughout the coast. Clouds fill in inland - up to the valleys
+around the I-15 corridor in SD Co. and throughout inland OC - between
+06-08z. Expect vis restrictions for elevated coastal terrain and
+inland valleys of 1-4SM (with localized FG, 0-1SM vis) and coastal
+sites 4-6SM. Scatter out 16-18z Mon. Everywhere else, VFR conditions
+through the TAF period.
 
 &&
 
-.MARINE...Patchy fog out over the local waters this morning should
-clear slightly closer to the coast, lingering through the day in the
-offshore waters. Most of the clouds are elevated off the water
-surface, though locally minor restrictions in visibility will remain
-possible. Otherwise, no hazardous marine conditions expected through
-Friday.
+.MARINE...Low clouds are developing over the waters this
+evening. Areas of mist and patchy fog are expected under the main
+cloud deck, although sparse in coverage. Greater confidence in
+higher fog coverage Monday night and Tuesday night. Otherwise, no
+hazardous marine conditions expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -429,7 +435,7 @@ PZ...None.
 $$
 
 PUBLIC...CSP
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...Westerink
 
 
 </pre>
