@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T07:07:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T13:16:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,25 +343,31 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-709
-FXUS66 KSGX 240431
+270
+FXUS66 KSGX 241007 RRA
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-931 PM PDT Mon Mar 23 2026
+307 AM PDT Tue Mar 24 2026
 
 .SYNOPSIS...
-High pressure aloft will maintain high temperatures through Friday
-from around 10 degrees above average near the coast to 15 to 20
-degrees above average for inland areas. Night and morning coastal
-low clouds and fog will spread into the western valleys at times.
-Cooling will begin to spread farther inland next weekend, but
-with high temperatures for next Sunday still 10 to 15 degrees
-above average in the coastal areas and inland valleys.
+Temperatures will remain well above average this week with night
+and morning coastal low clouds spreading into the far western
+valleys at times. High temperatures for inland areas will remain
+around 15 to 20 degrees above average with some record daily
+temperatures for heat continuing to be tied or broken, mainly for
+the mountains and deserts and occasionally also for the inland
+valleys. Cooling will spread inland for the weekend into early
+next week, but with high temperatures for next Tuesday still
+around 5 to 10 degrees above average.
 
 &&
 
@@ -369,75 +375,116 @@ above average in the coastal areas and inland valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-The string of record breaking heat continued today with seven
-locations breaking their daily high temperature records, in most
-cases by 5 degrees or more.
+.SHORT TERM (Today through Thursday)...
+Well-above average temperatures will continue into next weekend.
+High temperatures for today will range from around 5 degrees above
+average near the coast to around 20 degrees above average for the
+mountains and high desert. High temperatures for today will range
+from around 70 near the coast to the mid 80s to lower 90s for the
+Inland Empire with the lower deserts in the 90s. With gradual
+warming, high temperatures on Thursday will range from around 10
+degrees above average near the coast to 15 to 20 degrees above
+average for mountains, valleys, and deserts. Coastal low clouds
+will spread inland into portions of the western valleys this
+morning, then not quite as far inland for tonight and Wednesday
+night as the marine layer becomes a little shallower.
 
-Marine layer low clouds have returned to parts of the coast this
-evening but remain patchy off the San Diego County coast. These
-clouds will fill in overnight, spreading into the far western
-valleys by sunrise. Even far northwest parts of the Inland Empire
-have high enough dew points for some light radiation fog to
-develop early Tuesday morning. Otherwise scattered high clouds
-will continue to move across the region tonight.
+&&
 
-Previous discussion...
-High pressure ridging over SoCal with a closed upper low off the
-coast of northern Baja will control our weather through the
-workweek. The ridge will build over the region through Tuesday as
-the closed upper low moves to the southwest but by Wednesday the
-low will move northeastward over SoCal. It will have little impact
-on conditions at the surface, although there will be minor day-to-
-day differences in temperature. The ridge will rebuild for
-Thursday and Friday. The marine layer will play a role in
-affecting temperatures depending on how far inland the low
-clouds/fog spread during the nights and mornings and how long it
-takes for them to lift each morning. The subsidence from the high
-pressure ridge will keep the marine layer inversion fairly strong
-so clearing is unlikely to be very early each morning. Daytime
-high temperatures will range from around 10 degrees above average
-near the coast to 15 to 20 degrees above average for inland
-areas. Daily maximum records may be broken or tied in the inland
-areas but the monthly records are unlikely to be challenged.
-
-For the weekend into early next week, temperatures will trend
-lower and marine layer clouds and fog will spread farther inland
-as the high pressure ridge weakens and gets displaced to the
-southeast as a low pressure trough approaches the coast from the
-west. Next Monday will likely be the coolest day, with high
-temperatures mostly 5-10 degrees above seasonal averages.
+.LONG TERM (Friday through Monday)...
+High temperatures will warm slightly on Friday, then cool slightly
+during the weekend with greater cooling of around 5 degrees per
+day for Monday and Tuesday of next week. High temperatures on
+Friday will range from the 70s near the coast to the lower to mid
+90s for the Inland Empire with 100 to 105 for the lower deserts.
+With cooling for Sunday through Tuesday, high temperatures for
+next Tuesday will still be 5 to 10 degrees above average with high
+temperatures ranging from the lower to mid 70s near the coast to
+the mid 70s to lower 80s for the valleys with the lower deserts
+in the upper 80s and lower 90s. In addition to night and morning
+coastal low clouds, there will also be periods of mid and high
+clouds for the weekend into early next week.
 
 &&
 
 .AVIATION...
-240430Z...Low clouds based 900-1300 feet MSL are developing in
-coastal areas. Clouds gradually fill into inland valleys and OC 05-
-08z, up to 15 miles inland. From 08-16z, patchy FG/BR and vis 0-4SM
-over coastal mesas and inland OC; 5-6SM (from BR/HZ) for lower
-coastal areas. Patchy cigs down to 400 ft MSL (and VIS 3-5SM) for
-coastal TAF sites at times. Bases lift to 800-1500 ft MSL after 13z
-as vis improves starting around 16z. Low clouds clear to beaches 17-
-18Z Tue.
+240930Z...Low clouds based 600-1000 feet MSL and tops to 1300 feet
+will continue to fill coastal areas and western valleys this
+morning. Vis reduced 0-5SM mainly over higher coastal terrain and
+valleys. Scatter out to occur 16-18Z. Patchy and intermittent low
+clouds could linger along immediate coast thereafter. Low clouds
+with similar bases increase and spread inland after 02Z. Coverage,
+bases and vis should be very similar into Wednesday morning.
 
-Low clouds with similar bases begin to redevelop at the coast around
-23z Tue, filing into coastal areas 02-04z, then to inland areas
-thereafter (similar extent as tonight).
-
-Otherwise, mostly clear and VFR conditions will prevail into late
-Tuesday.
+Otherwise, mostly clear and VFR conditions will prevail today and
+tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions expected through Friday.
+No hazardous marine conditions expected through Saturday.
+
+&&
+
+.CLIMATE...
+
+...For locations with a new highest temperature for March in 2026...
+
+Location       Old Record/Date   New Record/Date   Days above old record
+
+Anaheim          90  3/14/2015    100 3/17/2026            3
+Santa Ana        90  3/25/1988    100 3/17/2026            4
+
+San Jacinto      99  3/26/1988    102 3/19/2026            3
+Escondido        98  3/26/1988    101 3/20/2026            1
+Ramona           94  3/26/1988     98 3/20/2026            3
+Alpine           95  3/23/1953     99 3/20/2026            2
+El Cajon         98  3/19/1997    101 3/20/2026            1
+
+Idyllwild        82  3/22/2004     90 3/19/2026            6
+Lake Cuyamaca    82  3/22/1931     88 3/20/2026            3
+
+Palm Springs    104  3/31/1966    108 3/20/2026            4
+Indio           104  3/10/1916    108 3/19&21/2026         4
+Thermal         103  3/21/2004    108 3/19-21/2026         4
+Borrego Springs 101  3/27/1988    106 3/20/2026            4
+Campo            92  3/20/1997    100 3/20/2026            4
+
+-"Old record" refers to the March record prior to 2026.
+-"Days above old record" refers to days in March 2026 with a high
+temperature exceeding any March high temperature prior to 2026.
+
+
+
+Locations with a new highest minimum temperature for March in 2026...
+
+Location       Old Record/Date   New Record/Date   Days above old record
+
+Idyllwild        50  3/26/1988     53 3/17/2026            1
+Lake Cuyamaca    55  3/08/2004     57 3/22/2026            1
+
+Palm Springs     70  3/14/2017     78 3/19/2026            4
+Indio            75  3/16/2013     83 3/21/2026            3
+Borrego Springs  70  3/07/1967     73 3/19&20/2026         2
+
+
+-"Old record" refers to the March record prior to 2026.
+-"Days above old record" refers to days in March 2026 with a low
+temperature warmer than any March low temperature prior to 2026.
+
+++For Indio, the prior earliest date in a year for a low temperature
+of 80 or higher was 81 on 05/01/2015.
+
+--This data is preliminary. There are some locations this week that
+could exceed the March record prior to 2026. This would add to the
+days exceeding the pre-2026 March record. However, it is unlikely any
+new monthly March temperature records will be set this week.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -449,8 +496,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Westerink
+PUBLIC/CLIMATE...17
+AVIATION/MARINE...MM
 
 
 </pre>
