@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-23T18:57:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T02:21:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,21 +346,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-745
-FXUS66 KSGX 231828
+285
+FXUS66 KSGX 240013
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1128 AM PDT Mon Mar 23 2026
+513 PM PDT Mon Mar 23 2026
 
 .SYNOPSIS...
 High pressure aloft will maintain high temperatures through Friday
 from around 10 degrees above average near the coast to 15 to 20
 degrees above average for inland areas. Night and morning coastal
 low clouds and fog will spread into the western valleys at times.
-Cooling will begin to spread inland next weekend, but with high
-temperatures for next Sunday still 10 to 15 degrees above average.
+Cooling will begin to spread farther inland next weekend, but
+with high temperatures for next Sunday still 10 to 15 degrees
+above average in the coastal areas and inland valleys.
 
 &&
 
@@ -368,52 +369,64 @@ temperatures for next Sunday still 10 to 15 degrees above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Wednesday)...
-High pressure aloft will strengthen across southern California
-through Tuesday, then weaken slightly and briefly on Wednesday.
-There will be slight day-to-day temperature differences. High
-temperatures will remain around 10 degrees above average near the
-coast to 15 to 20 degrees for inland areas.
+This afternoon...Temperatures are near or a little higher than at
+this time yesterday except in the low deserts and portions of the
+inland valleys. Overnight, marine layer low clouds and fog had
+spread into the western portions of the inland valleys likely
+moderating temperatures.
 
-High temperatures will range from the 70s near the coast to the
-upper 80s to mid 90s for the Inland Empire with the lower deserts
-in the upper 90s to around 100. Several locations in the
-mountains, deserts, valleys, and inland Orange County will
-continue to tie or break daily high temperature records and
-records for warmest low temperatures.
+High pressure ridging over SoCal with a closed upper low off the
+coast of northern Baja will control our weather through the
+workweek. The ridge will build over the region through Tuesday as
+the closed upper low moves to the southwest but by Wednesday the
+low will move northeastward over SoCal. It will have little impact
+on conditions at the surface, although there will be minor day-to-
+day differences in temperature. The ridge will rebuild for
+Thursday and Friday. The marine layer will play a role in
+affecting temperatures depending on how far inland the low
+clouds/fog spread during the nights and mornings and how long it
+takes for them to lift each morning. The subsidence from the high
+pressure ridge will keep the marine layer inversion fairly strong
+so clearing is unlikely to be very early each morning. Daytime
+high temperatures will range from around 10 degrees above average
+near the coast to 15 to 20 degrees above average for inland
+areas. Daily maximum records may be broken or tied in the inland
+areas but the monthly records are unlikely to be challenged.
 
-The marine layer is around 1500 feet deep. Night and morning
-coastal low clouds and fog will spread into the far western
-alleys at times through the middle of the week.
+For the weekend into early next week...Temperatures will trend
+lower and marine layer clouds and fog will spread farther inland
+as the high pressure ridge weakens and gets displaced to the
+southeast as a low pressure trough approaches the coast from the
+west. Next Monday will likely be the coolest day, with high
+temperatures mostly 5-10 degrees above seasonal averages.
 
-&&
-
-.LONG TERM (Thursday through Sunday)...
-Dry weather will continue through next weekend. For next weekend,
-high pressure aloft will begin to weaken and onshore flow will
-begin to strengthen as a low pressure system over the eastern
-Pacific moves toward the West Coast. Cooling will begin to spread
-inland next weekend. However, high temperatures for next Sunday
-will still be a around 10 to 15 degrees above average. High
-temperatures on Sunday will range from the 70s near the coast to
-mid 80s to lower 90s for the Inland Empire with the lower deserts
-in the mid 90s to around 100.
 
 
 &&
 
 .AVIATION...
-231800Z...Low clouds based 500-800 feet MSL return to the coastal
-areas after 04Z, moving 15 miles inland overnight. Vis 2-4 SM over
-coastal highlands, patchy areas of 5-6 SM for the general coast. Low
-clouds clear to beaches 17-18Z Tue. Otherwise, mostly clear and VFR
-conditions will prevail into Tuesday.
+240000Z...Low clouds based 800-1200 feet MSL are forming off the SD
+Co. coast, filling into the I-5 corridor by 03z. Clouds gradually
+fill into inland valleys and OC 03-06z, up to 15 miles inland. From
+08-16z, patchy FG and vis 0-3SM over coastal mesas and inland OC; 4-
+6SM (from BR/HZ) for lower coastal areas. Patchy cigs down to 400 ft
+MSL at times after 03z. Bases lift to 800-1500 ft MSL after 13z as
+vis improves. Low clouds clear to beaches 17-18Z Tue. Otherwise,
+mostly clear and VFR conditions will prevail into Tuesday. FEW-SCT
+low clouds with similar bases begin to redevelop at the coast around
+23z Tue.
 
 &&
 
 .MARINE...No hazardous marine conditions expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -425,8 +438,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
