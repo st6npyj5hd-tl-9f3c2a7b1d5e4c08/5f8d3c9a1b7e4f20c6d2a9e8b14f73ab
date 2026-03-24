@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T02:21:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T07:07:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-285
-FXUS66 KSGX 240013
+709
+FXUS66 KSGX 240431
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-513 PM PDT Mon Mar 23 2026
+931 PM PDT Mon Mar 23 2026
 
 .SYNOPSIS...
 High pressure aloft will maintain high temperatures through Friday
@@ -369,13 +369,20 @@ above average in the coastal areas and inland valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Evening update...
+The string of record breaking heat continued today with seven
+locations breaking their daily high temperature records, in most
+cases by 5 degrees or more.
 
-This afternoon...Temperatures are near or a little higher than at
-this time yesterday except in the low deserts and portions of the
-inland valleys. Overnight, marine layer low clouds and fog had
-spread into the western portions of the inland valleys likely
-moderating temperatures.
+Marine layer low clouds have returned to parts of the coast this
+evening but remain patchy off the San Diego County coast. These
+clouds will fill in overnight, spreading into the far western
+valleys by sunrise. Even far northwest parts of the Inland Empire
+have high enough dew points for some light radiation fog to
+develop early Tuesday morning. Otherwise scattered high clouds
+will continue to move across the region tonight.
 
+Previous discussion...
 High pressure ridging over SoCal with a closed upper low off the
 coast of northern Baja will control our weather through the
 workweek. The ridge will build over the region through Tuesday as
@@ -394,32 +401,36 @@ near the coast to 15 to 20 degrees above average for inland
 areas. Daily maximum records may be broken or tied in the inland
 areas but the monthly records are unlikely to be challenged.
 
-For the weekend into early next week...Temperatures will trend
+For the weekend into early next week, temperatures will trend
 lower and marine layer clouds and fog will spread farther inland
 as the high pressure ridge weakens and gets displaced to the
 southeast as a low pressure trough approaches the coast from the
 west. Next Monday will likely be the coolest day, with high
 temperatures mostly 5-10 degrees above seasonal averages.
 
-
-
 &&
 
 .AVIATION...
-240000Z...Low clouds based 800-1200 feet MSL are forming off the SD
-Co. coast, filling into the I-5 corridor by 03z. Clouds gradually
-fill into inland valleys and OC 03-06z, up to 15 miles inland. From
-08-16z, patchy FG and vis 0-3SM over coastal mesas and inland OC; 4-
-6SM (from BR/HZ) for lower coastal areas. Patchy cigs down to 400 ft
-MSL at times after 03z. Bases lift to 800-1500 ft MSL after 13z as
-vis improves. Low clouds clear to beaches 17-18Z Tue. Otherwise,
-mostly clear and VFR conditions will prevail into Tuesday. FEW-SCT
-low clouds with similar bases begin to redevelop at the coast around
-23z Tue.
+240430Z...Low clouds based 900-1300 feet MSL are developing in
+coastal areas. Clouds gradually fill into inland valleys and OC 05-
+08z, up to 15 miles inland. From 08-16z, patchy FG/BR and vis 0-4SM
+over coastal mesas and inland OC; 5-6SM (from BR/HZ) for lower
+coastal areas. Patchy cigs down to 400 ft MSL (and VIS 3-5SM) for
+coastal TAF sites at times. Bases lift to 800-1500 ft MSL after 13z
+as vis improves starting around 16z. Low clouds clear to beaches 17-
+18Z Tue.
+
+Low clouds with similar bases begin to redevelop at the coast around
+23z Tue, filing into coastal areas 02-04z, then to inland areas
+thereafter (similar extent as tonight).
+
+Otherwise, mostly clear and VFR conditions will prevail into late
+Tuesday.
 
 &&
 
-.MARINE...No hazardous marine conditions expected through Friday.
+.MARINE...
+No hazardous marine conditions expected through Friday.
 
 &&
 
@@ -438,7 +449,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
+PUBLIC...SS
 AVIATION/MARINE...Westerink
 
 
