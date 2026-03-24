@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T13:16:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T19:05:55+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,24 +350,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-270
-FXUS66 KSGX 241007 RRA
+010
+FXUS66 KSGX 241749
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-307 AM PDT Tue Mar 24 2026
+1049 AM PDT Tue Mar 24 2026
 
 .SYNOPSIS...
-Temperatures will remain well above average this week with night
-and morning coastal low clouds spreading into the far western
-valleys at times. High temperatures for inland areas will remain
-around 15 to 20 degrees above average with some record daily
-temperatures for heat continuing to be tied or broken, mainly for
-the mountains and deserts and occasionally also for the inland
-valleys. Cooling will spread inland for the weekend into early
-next week, but with high temperatures for next Tuesday still
-around 5 to 10 degrees above average.
+Temperatures will remain well above average this week. High temperatures
+for inland areas will remain around 15 to 20 degrees above average
+with some record daily temperatures for heat continuing to be
+tied or broken, mainly for the mountains and deserts but occasionally
+for the inland valleys as well. Night and morning coastal low
+clouds spreading into the far western valleys at times. Cooling
+will spread inland for the weekend into early next week, but with
+high temperatures for next Tuesday still around 5 to 10 degrees
+above average.
 
 &&
 
@@ -375,54 +375,59 @@ around 5 to 10 degrees above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Thursday)...
-Well-above average temperatures will continue into next weekend.
-High temperatures for today will range from around 5 degrees above
-average near the coast to around 20 degrees above average for the
-mountains and high desert. High temperatures for today will range
+...Aviation discussion updated for 18Z TAFs...
+
+This morning...The marine layer is similar to yesterday at about
+1500 ft deep with low clouds spreading up to 15 miles inland and
+fog on the higher coastal terrain. Clearing has begun along the
+inland edges of the cloud field and the clouds/fog should clear to
+the coast by noon. A fairly strong inversion will likely keep some
+low clouds at the beaches into the afternoon.
+
+Daytime temperatures will continue to be well above seasonal
+averages into next weekend as an upper ridge persists over the
+region. An upper level low currently off the Baja coast will move
+over SoCal Wed/Thu but will have little effect on our weather. High
+temperatures today will range from around 5 degrees above average
+near the coast to around 20 degrees above average in the
+mountains and high desert. High temperatures today will range
 from around 70 near the coast to the mid 80s to lower 90s for the
 Inland Empire with the lower deserts in the 90s. With gradual
 warming, high temperatures on Thursday will range from around 10
 degrees above average near the coast to 15 to 20 degrees above
-average for mountains, valleys, and deserts. Coastal low clouds
-will spread inland into portions of the western valleys this
-morning, then not quite as far inland for tonight and Wednesday
-night as the marine layer becomes a little shallower.
+average for mountains, valleys, and deserts. Marine layer low
+clouds and fog will spread inland again tonight and Wednesday
+night but likely won`t reach as far inland as last night as the
+marine layer will be a little shallower.
 
-&&
-
-.LONG TERM (Friday through Monday)...
-High temperatures will warm slightly on Friday, then cool slightly
-during the weekend with greater cooling of around 5 degrees per
-day for Monday and Tuesday of next week. High temperatures on
-Friday will range from the 70s near the coast to the lower to mid
-90s for the Inland Empire with 100 to 105 for the lower deserts.
-With cooling for Sunday through Tuesday, high temperatures for
-next Tuesday will still be 5 to 10 degrees above average with high
-temperatures ranging from the lower to mid 70s near the coast to
-the mid 70s to lower 80s for the valleys with the lower deserts
-in the upper 80s and lower 90s. In addition to night and morning
-coastal low clouds, there will also be periods of mid and high
-clouds for the weekend into early next week.
+A noticeable cooling trend will begin Sunday and continue into
+next Tuesday as the upper high pressure ridge gets displaced to
+the southeast by a low pressure trough moving in from the
+northwest. The marine layer clouds and fog will spread
+progressively farther inland each night and morning. Next
+Tuesday, high temperatures will generally be less than 10 degrees
+above seasonal averages in all areas. Temps will be in the upper
+60s to mid 70s near the coast, the mid to upper 70s in the inland
+valleys, the 70s in the high deserts, the 50s and 60s in the mtns
+and the mid 80s to low 90s in the low deserts.
 
 &&
 
 .AVIATION...
-240930Z...Low clouds based 600-1000 feet MSL and tops to 1300 feet
-will continue to fill coastal areas and western valleys this
-morning. Vis reduced 0-5SM mainly over higher coastal terrain and
-valleys. Scatter out to occur 16-18Z. Patchy and intermittent low
-clouds could linger along immediate coast thereafter. Low clouds
-with similar bases increase and spread inland after 02Z. Coverage,
-bases and vis should be very similar into Wednesday morning.
+241800Z...Low clouds based 600-1000 feet MSL have mostly cleared to
+the beaches this morning, but patchy and intermittent low clouds
+could linger along immediate coast over the day. Low clouds with
+similar to slightly lower bases increase and spread inland to
+similar extent to this morning after 02Z. Vis reduced 0-5SM mainly
+over higher coastal terrain and valleys. Low clouds clearing 16-18Z
+Wed morning.
 
 Otherwise, mostly clear and VFR conditions will prevail today and
 tonight.
 
 &&
 
-.MARINE...
-No hazardous marine conditions expected through Saturday.
+.MARINE...No hazardous marine conditions expected through Saturday.
 
 &&
 
@@ -455,7 +460,6 @@ Campo            92  3/20/1997    100 3/20/2026            4
 temperature exceeding any March high temperature prior to 2026.
 
 
-
 Locations with a new highest minimum temperature for March in 2026...
 
 Location       Old Record/Date   New Record/Date   Days above old record
@@ -475,16 +479,11 @@ temperature warmer than any March low temperature prior to 2026.
 ++For Indio, the prior earliest date in a year for a low temperature
 of 80 or higher was 81 on 05/01/2015.
 
---This data is preliminary. There are some locations this week that
-could exceed the March record prior to 2026. This would add to the
-days exceeding the pre-2026 March record. However, it is unlikely any
-new monthly March temperature records will be set this week.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+--This data is preliminary. There are some locations this week
+ that could exceed the March record prior to 2026. This would add
+ to the days exceeding the pre-2026 March record. However, it is
+ unlikely any new monthly March temperature records will be set
+ this week.
 
 &&
 
@@ -496,8 +495,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...17
-AVIATION/MARINE...MM
+PUBLIC...PG
+AVIATION/MARINE...CSP
 
 
 </pre>
