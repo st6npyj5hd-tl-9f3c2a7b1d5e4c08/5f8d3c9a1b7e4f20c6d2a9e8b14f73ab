@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-24T19:05:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-25T02:27:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,16 +347,20 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-010
-FXUS66 KSGX 241749
+868
+FXUS66 KSGX 250032
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1049 AM PDT Tue Mar 24 2026
+532 PM PDT Tue Mar 24 2026
 
 .SYNOPSIS...
 Temperatures will remain well above average this week. High temperatures
@@ -375,14 +379,10 @@ above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Aviation discussion updated for 18Z TAFs...
-
-This morning...The marine layer is similar to yesterday at about
-1500 ft deep with low clouds spreading up to 15 miles inland and
-fog on the higher coastal terrain. Clearing has begun along the
-inland edges of the cloud field and the clouds/fog should clear to
-the coast by noon. A fairly strong inversion will likely keep some
-low clouds at the beaches into the afternoon.
+Mostly clear this afternoon, although there are a few high clouds
+and some marine layer low clouds still linger at the beaches
+while a coastal eddy continues. Temperatures are mostly within a
+few degrees of where they were at this time yesterday.
 
 Daytime temperatures will continue to be well above seasonal
 averages into next weekend as an upper ridge persists over the
@@ -398,7 +398,9 @@ degrees above average near the coast to 15 to 20 degrees above
 average for mountains, valleys, and deserts. Marine layer low
 clouds and fog will spread inland again tonight and Wednesday
 night but likely won`t reach as far inland as last night as the
-marine layer will be a little shallower.
+marine layer will be a little shallower. A coastal eddy is likely
+to continue at least into Thursday and will help to maintain the
+marine layer presence.
 
 A noticeable cooling trend will begin Sunday and continue into
 next Tuesday as the upper high pressure ridge gets displaced to
@@ -411,19 +413,21 @@ above seasonal averages in all areas. Temps will be in the upper
 valleys, the 70s in the high deserts, the 50s and 60s in the mtns
 and the mid 80s to low 90s in the low deserts.
 
+
 &&
 
 .AVIATION...
-241800Z...Low clouds based 600-1000 feet MSL have mostly cleared to
-the beaches this morning, but patchy and intermittent low clouds
-could linger along immediate coast over the day. Low clouds with
-similar to slightly lower bases increase and spread inland to
-similar extent to this morning after 02Z. Vis reduced 0-5SM mainly
-over higher coastal terrain and valleys. Low clouds clearing 16-18Z
-Wed morning.
+250000Z...Low clouds based 900-1400 ft MSL move onshore to the coast
+around 03-05z this evening, filling into inland valleys by 06-08z.
+With cigs, BR/FG to reduce vis 0-3SM mainly in eastern inland
+valleys (i.e. KRNM) and inland foothills, vis 3-6SM in BR along I-15
+corridor (in SD co.) and 5-6SM in BR/HZ at times for coastal sites.
+Before sunrise, 12-14z, bases lower to 500-1000 ft, reducing vis to
+0-3SM along I-15 corridor and 4-6SM at the coast until bases rise
+again and clouds scatter out 16-18z Wed morning.
 
-Otherwise, mostly clear and VFR conditions will prevail today and
-tonight.
+Elsewhere, mostly clear and VFR conditions will prevail through
+Wednesday afternoon.
 
 &&
 
@@ -485,6 +489,14 @@ of 80 or higher was 81 on 05/01/2015.
  unlikely any new monthly March temperature records will be set
  this week.
 
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -496,7 +508,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...CSP
+AVIATION/MARINE...Westerink
 
 
 </pre>
