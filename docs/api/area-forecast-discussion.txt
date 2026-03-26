@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-25T18:58:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-26T02:33:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -351,18 +351,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-019
-FXUS66 KSGX 251728
+411
+FXUS66 KSGX 260020
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1028 AM PDT Wed Mar 25 2026
+520 PM PDT Wed Mar 25 2026
 
 .SYNOPSIS...
 High temperatures for inland areas will remain around 15 to 20
@@ -383,13 +381,13 @@ system moves toward the California coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-The morning sounding shows the marine layer marginally shallower
-than yesterday, however the low clouds and fog had spread about
-as far inland. At this hour, the low clouds have cleared to the
-coast but will likely linger at the beaches into the afternoon due
-to the strength of the inversion. Temperatures this morning are
-near or a little lower than at this time yesterday, mainly in the
-low elevations west of the mountains.
+
+Mostly clear this afternoon except for some low clouds over the
+coastal waters. Temperatures are within a few degrees of where
+they were at this time yesterday. The marine layer influence will
+persist through the weekend, with day-to-day variations on the
+depth and the inland extent of the low clouds and fog during the
+nights and mornings.
 
 Daytime high temperatures will gradually trend higher through Saturday
 as the high pressure ridge persists over the Southwest. High
@@ -427,17 +425,22 @@ the spread among the model solutions.
 &&
 
 .AVIATION...
-250930Z...Low clouds based 800-1200 feet MSL and tops to 1500 feet
-will continue to fill coastal areas and western valleys this
-morning. Vis reduced 3-5SM mainly over higher coastal terrain and
-valleys. Scatter out to occur 16-18Z. Patchy and intermittent low
-clouds could linger along immediate coast thereafter. Low clouds
-with slightly lower bases will increase and spread inland after 02Z.
-Coverage a little less extensive. Cloud bases and vis should be
-a little lower tonight into Thursday morning.
+260000Z...Coast/Valleys...Low clouds based 800-1300 ft MSL are
+developing along the coast, pushing inland 01-03z up to the
+mountain foothills. Vis reduced 0-3SM in mountain foothills and
+3-5 SM mainly over higher coastal terrain and valleys. Bases may
+lower a few hundred feet after 11z, yielding to patchy IFR cigs
+for coastal areas (higher confidence for SD County). There is a
+30% chance for cigs to spread into the northwest IE vcnty KONT
+after 10Z, but higher confidence in misty conditions with MVFR vis
+but no cigs. Clouds scatter out Thu 15-17Z.
 
-Otherwise, mostly clear and VFR conditions will prevail today and
-tonight.
+Mountains/Deserts...Breezy W/SW winds over desert slopes and
+mountain passes, gusting 25-35 kts (up to 45 kts locally) through
+12z Thu.
+
+Otherwise, mostly clear and VFR conditions will prevail through
+Thursday afternoon.
 
 &&
 
@@ -448,6 +451,7 @@ tonight.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -460,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...CSP/MM
+AVIATION/MARINE...Westerink
 
 
 </pre>
