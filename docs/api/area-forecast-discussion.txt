@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-26T13:21:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-26T19:10:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -364,18 +364,18 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-993
-FXUS66 KSGX 261009
+602
+FXUS66 KSGX 261724
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-309 AM PDT Thu Mar 26 2026
+1024 AM PDT Thu Mar 26 2026
 
 .SYNOPSIS...
 Record setting heat will continue for some inland areas into the
 weekend. Mid and high clouds will spread across the area during the
-weekend. A low pressure sytem moving inland through California
+weekend. A low pressure system moving inland through California
 around the middle of next week will spread cooling inland for Monday
 through Wednesday of next week with inland high temperatures falling
 to a few to around 5 degrees below average on Wednesday. There is a
@@ -387,6 +387,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...NEW AVIATION...
 
 .SHORT TERM (Today through Saturday)...
 The marine layer is slightly shallower than 24 hours ago, around
@@ -432,26 +434,26 @@ low pressure centered along the California coast.
 &&
 
 .AVIATION...
-260930Z...Low clouds will continue to gradually fill coastal areas
-and western valleys. Bases range between 800-1200 feet MSL with tops
-to 1300 feet. Vis reduced 0-5SM in FG on higher coastal terrain and
-western valleys. Scatter out 15-17Z. Low clouds with bases around
-500-900 feet MSL to develop and cover most coastal areas eventually
-after 04Z tonight into Friday.
+261720Z...Low clouds have cleared the coast with some minor vis
+restrictions lingering at KONT. Low clouds will return along the
+coast this evening after 02Z-03Z Friday and gradually increase in
+coverage (07Z-09Z) with bases 300-800ft MSL. Reduced vis 0-5SM will
+be possible in fog on higher coastal terrain and western valleys.
+Vis restrictions expected 4-6SM for coastal TAF sites. Conditions
+will improve after 16Z-19Z Friday.
 
-Otherwise, mostly clear and VFR conditions will prevail today and
-tonight.
+Otherwise, mostly clear skies and VFR conditions will prevail.
 
 &&
 
-.MARINE...
-No hazardous marine conditions expected through Monday.
+.MARINE...No hazardous marine conditions expected through Tuesday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -463,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Martin
+AVIATION/MARINE...Villafane
 
 
 </pre>
