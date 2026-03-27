@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-27T07:11:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-27T13:11:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -359,25 +359,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=47&glossary=0">47</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=48&glossary=0">48</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=49&glossary=0">49</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-812
-FXUS66 KSGX 270459
+471
+FXUS66 KSGX 270941
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-959 PM PDT Thu Mar 26 2026
+241 AM PDT Fri Mar 27 2026
 
 .SYNOPSIS...
 Well above average temperatures will continue through the weekend.
-Low clouds with areas of fog will be present tonight into Friday
-morning, with low clouds and fog less likely over the weekend due to
-widespread high clouds. Cooler, windier, and potentially wetter
-conditions possible for the middle of next week.
+Widespread marine layer low clouds this morning will become
+patchier over the weekend with increasing high clouds. Cooler
+Monday through Wednesday with high temperatures returning to
+normal. Breezy onshore winds and a chance of showers for the
+mountains westward Tuesday and Wednesday. Minor warming Thursday
+then more significant warming on Friday.
 
 &&
 
@@ -385,55 +385,70 @@ conditions possible for the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...NEW 06Z AVIATION DISCUSSION BELOW...
+Low clouds have spread into the coastal areas and have started to
+move into the far western valleys in San Diego County this
+evening. Otherwise skies are clear. Low clouds will clear back to
+the beaches by late morning. Another warm day is in store as upper
+level high pressure over the Southwest US expands slightly further
+west over So Cal. High temperatures will be as much as 15-20
+degrees above normal inland, and around 5-10 degrees above normal
+near the coast. Several high temperature records are at risk of
+being broken, mainly in the mountains and low deserts. On
+Saturday, the marine layer will become more shallow, allowing for
+more warming in the inland coastal areas and valleys where high
+temperatures could be close to 25 degrees above normal. The
+shallower marine layer will also increase the risk of fog,
+potentially dense, in the coastal areas tonight into Saturday
+morning.
 
-High temperatures today are expected to be similar to yesterday`s
-with multiple inland locations forecast to break or tie their daily
-high temperature records. The list of locations that broke or tied
-their daily high or low temperature records yesterday is on our
-weather.gov/sandiego homepage. Record breaking temperatures for
-inland locations will continue through Sunday.
+The upper level ridge begins to break down on Sunday, bringing
+minor cooling though highs will remain around 15-20 degrees above
+normal inland. Increasing high clouds late Saturday into Sunday
+may disrupt marine layer low clouds from redeveloping Saturday
+night. A weak upper level trough moves inland across the Pac NW on
+Monday with mostly zonal flow and continued cooling in So Cal.
+Monday is the first day in over two weeks that no record high
+temperatures are forecast to be broken.
 
-High temperatures for inland locations will peak Friday through
-Sunday with areas of moderate HeatRisk in the valleys and deserts.
-On Saturday, high temperatures are expected to run 20 to 25 degrees
-above average for inland areas. Areas of low clouds and fog are
-expected along the coast tonight into Friday morning, with coverage
-of low clouds becoming patchier Saturday and Sunday.
+Global ensembles are still struggling with the progression of an
+upper trough in the southern stream of the jet towards the middle
+of next week. Around 55% of the members are slower and keep the
+trough offshore into Tuesday, meaning less cooling and dry
+weather. The other 45% are more progressive for greater cooling
+and an earlier onset of precipitation. Uncertainty in the position
+and amplitude of the trough persists into Wednesday. All clusters
+show some form of troughing near the west coast with cluster means
+containing some precipitation. The most amplified and wettest
+cluster accounts for about 28% of the ensemble space, while 43%
+are lower amplitude/less wet and the remaining 29% is somewhere in
+between. While current forecast calls for at least a slight
+chance (15%) of precipitation Tuesday morning through Wednesday
+evening, this window will likely be narrowed and possibly shifted
+once the timing becomes more clear. Over a larger window (Tue
+morning through Thu morning) there is around a 50% chance of at
+least 0.01" for the mountains westward, and a 25-45% chance of at
+least 0.10", with the highest probabilities along the coastal
+mountain slopes. Ensembles have been trending drier overall the
+past couple days with means below 0.10", so not expecting much at
+this point. What is more certain is that it will be cooler and
+cloudier with breezy onshore winds in the mountains and deserts.
 
-A pattern change is expected next week as an area of low pressure
-approaches the US West Coast. We have high confidence that the
-incoming area of low pressure temperatures will cool conditions back
-to near average for this time of year by next Wednesday.
-Additionally, winds should increase over the mountains and deserts
-although how windy it gets will be largely dependent on the track
-of the low. There remains some uncertainty in the timing of the
-low`s passage, with most solutions showing the low passing
-sometime Wednesday or Thursday. About 50 percent of solutions keep
-the West Coast under the low`s influence into Friday.
+Whenever the trough decides to progress eastward later in the
+week (Thu-Fri), warmer and drier weather will follow with highs
+returning to slightly above normal.
 
-The track of the low will also have implications on our
-precipitation chances. ECMWF and GFS ensemble guidance has trended
-drier on the most recent runs compared to previous runs. This is
-likely due to trends in the guidance that are keeping the low
-further north with more of an inside track by the time it reaches
-Southern California. There are still some solutions showing the
-potential for at least light precipitation as early as Tuesday night
-continuing through as late as Friday. Current forecast has the
-highest chances of rain Wednesday. Probability of 72-hr rainfall
-totals exceeding 0.25" are highest in the San Bernardino County
-mountains at 30 to 40 percent and 15 to 25 percent elsewhere. &&
+
+&&
 
 .AVIATION...
-270000Z...Low clouds will return along the coast this evening after
-02Z-03Z Friday and gradually increase in coverage (07Z-09Z) with
-bases 300-800ft MSL. Reduced vis 0-5SM will be possible in fog on
-higher coastal terrain and western valleys. Vis restrictions
-expected 3-6SM for coastal TAF sites, and locally lower. Conditions
-will improve after 16Z-19Z Friday. Low clouds will reform and fill
-back in by around 03-04Z Saturday.
+270930Z...Low clouds and fog will continue to cover coastal areas
+this morning. Cigs will be 400-800 feet MSL with tops to 1100 feet,
+and vis reduced 0-5SM, lowest on mesas and higher coastal terrain.
+Scatter out 15-17Z. Low clouds will redevelop mainly near the coast,
+but will be more patchy and later after 06Z into Saturday morning.
+Random and intermittent cigs around 300-700 feet MSL.
 
-Otherwise, mostly clear skies and VFR conditions will prevail.
+Otherwise, mostly clear skies and VFR conditions today and tonight.
 
 &&
 
@@ -456,8 +471,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Stewey
+PUBLIC...SS
+AVIATION/MARINE...MM
 
 
 </pre>
