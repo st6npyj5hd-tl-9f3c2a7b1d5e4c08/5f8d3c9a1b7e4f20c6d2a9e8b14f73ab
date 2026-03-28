@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-28T07:01:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-28T12:59:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -362,21 +362,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-347
-FXUS66 KSGX 280459
+885
+FXUS66 KSGX 280957
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-959 PM PDT Fri Mar 27 2026
+257 AM PDT Sat Mar 28 2026
 
 .SYNOPSIS...
 Well above average temperatures will continue through the weekend.
-Low clouds with areas of dense fog along the coast tonight into
-Saturday morning, with low clouds and fog less likely late in the
-weekend and early next week due to widespread high cloud
-coverage. Cooler, windier, and potentially wetter conditions
-possible for the middle of next week.
+Patchy low clouds continue to develop early this morning, clearing
+by mid-morning and less likely to return through early next week
+due to widespread high cloud coverage. Cooler and breezier
+conditions are likely by the middle of next week, although
+precipiation chances continue to decrease.
 
 &&
 
@@ -384,68 +384,67 @@ possible for the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 06Z AVIATION DISCUSSION BELOW...
+Satellite depicts low clouds slowly filling into the coastal plain
+of Orange County and struggling to develop in San Diego County.
+Patchy low clouds should eventually develop up to the I-15 corridor
+before sunrise, yielding to patchy fog on the coastal mesas and
+western valleys. These low clouds are expected to completely scatter
+out by mid morning.
 
-Highs today are on track to be a few degrees warmer than yesterday
-for most inland locations, with continued warming for the coast and
-valleys into Saturday. The heat will continue to be record breaking
-for this time of year, with additional inland locations again
-forecast to break or tie temperature records through Sunday. The
-list of locations that broke or tied their daily high or low
-temperature records yesterday is on our weather.gov/sandiego
-homepage. High temperatures will be 10 to 25 degrees above average
-across the area through Sunday.
+Daily high and low temperature records continue to break (listed on
+our weather.gov/sandiego homepage) and are expected to continue to
+break through Sunday, especially in the mountains and deserts. The
+ridge is expected to have a peak 500 mb height around 590 dam this
+afternoon, centered over west Texas, yielding another day of
+temperature anomalies of 15-25 degrees above average. Onshore flow
+will limit those anomalies along the coast with highs remaining in
+the 70s where the sea breeze kicks up in the late morning. The
+marine layer will be very shallow Saturday night and clouds/fog will
+be almost non-existant (even over the waters), yielding to another
+mild night across the region. Lows will struggle to drop up below
+the mid-60s in the mountain foothills and north of the SR-210
+corridor. While high temperatures Sunday will be very similar to
+today`s highs, the broad ridge over Texas is expected to weaken and
+slide eastward, allowing for the marine layer to deepen and bring
+noticeably cooler nighttime temperatures in the 50s across the
+coastal basin. By Monday, highs drop noticeably inland - about 6 to
+10 degrees - as upper level flow over the Western US turns more
+zonal. A relatively shallow trough is then expected to dig into the
+Pacific Northwest mid-week, weakening significantly as it makes it
+southward trek, though setting the stage for cooler, cloudier and
+breezier conditions for mid-week.
 
-Marine layer low clouds will be present tonight into Saturday. Areas
-of dense fog are possible along the coast and over the coastal
-waters. Chances of dense fog decrease for the latter half of the
-weekend into early next week.
+Precipitation chances continue to dwindle, however, for Southern
+California as the majority of model ensemble runs remain
+completely dry, and the remaining others showing no more than a
+trace for the entire coastal basin. The window for any light
+showers appears to be focused on early Wednesday, with the highest
+chances (15-25%) in the mountains, where guidance shows
+increasing confidence for no more than 0.10" total. Confidence is
+much higher that temperatures return close to average Wednesday
+and Thursday.
 
-A pattern change is expected next week as an area of low pressure
-approaches the US West Coast. Cooler, cloudier, and windier
-conditions are expected for the middle of the week. There
-remains some uncertainty in the timing of the low`s passage, with
-most solutions showing the low passing sometime Wednesday or
-Thursday. By Friday about 50 percent of solutions keep the West
-Coast under the low`s influence. The latest forecast has the
-coolest and windiest conditions Wednesday and Thursday.
 
-The track of the low continues to trend north of Southern
-California, which continues to limit how much precipitation will
-fall. Additionally if the track continues to trend north, chances of
-rain for San Diego county will become more limited. There are still
-some solutions showing the potential for at least light
-precipitation as early as Tuesday night continuing through as late
-as Friday. Current forecast has the highest chances (15-25 percent)
-of rain Tuesday night into Wednesday. With the more northerly track,
-forecast rainfall amounts have decreased. NBM chances of rainfall
-totals reaching or exceeding 0.10" are 30 to 40 percent for the
-coastal slopes of the mountains and portions of the Inland Empire
-and Orange County. Elsewhere west of the mountains chances are 20 to
-30 percent with 15 percent or less chance in the deserts. Whenever
-the trough decides to progress eastward later in the week (Thu-Fri),
-warmer and drier weather will follow with highs returning to
-slightly above normal.
 &&
 
 .AVIATION...
-280000Z...Low clouds will return by later this evening around 06Z-
-07Z Saturday. Bases will be slightly lower and patchy in nature with
-intermittent heights around 100-700ft MSL and reduced vis 0-5SM.
-Lower visibilities will be located on higher coastal terrain, with
-the highest probability of occurrence at and in vicinity of KCRQ.
-Low clouds and visibilities will begin clearing inland to the coast
-after 16Z-18Z Saturday. Low clouds will likely struggle to form and
-return to the coastal areas by 06Z Sunday, with the increase and
-passage of mid to high level clouds tomorrow evening.
+281000Z...Low clouds based 400-800 feet MSL are filling into the
+coastal plain in Orange County, but struggle to develop over SD
+County. Patchy cigs may eventually (after 11z) develop over SD
+County up to the I-15 corridor yielding to very patchy FG on the
+coastal mesas and western valleys and BR for the coastal sites with
+VIS 1-5SM. Scatter out 16-17z this morning. Low clouds will be very
+patchy Saturday evening with the increase and passage of mid to high
+level clouds this evening. Over 75% chance to remain VFR Saturday
+night for the coastal sites.
 
-Otherwise, mostly clear skies and VFR conditions through the TAF
-period.
+Otherwise, VFR conditions through the TAF period.
 
 &&
 
-.MARINE...No hazardous marine conditions expected through
-Wednesday.
+.MARINE...Breezy northwest winds this afternoon with gusts near 20
+kts near San Clemente Island. Otherwise, no hazardous marine
+conditions expected through Wednesday.
 
 &&
 
@@ -464,8 +463,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Stewey
+PUBLIC...Westerink
+AVIATION/MARINE...Westerink
 
 
 </pre>
