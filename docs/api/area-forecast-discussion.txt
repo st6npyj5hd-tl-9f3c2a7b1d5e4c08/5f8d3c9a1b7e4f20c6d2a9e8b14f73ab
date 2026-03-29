@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-29T13:00:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-29T18:46:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -357,24 +357,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=46&glossary=0">46</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=47&glossary=0">47</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=48&glossary=0">48</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-599
-FXUS66 KSGX 290954
+195
+FXUS66 KSGX 291820
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-254 AM PDT Sun Mar 29 2026
+1120 AM PDT Sun Mar 29 2026
 
 .SYNOPSIS...
-Continued hot weather today with high temperatures 15-20 degrees
-above normal inland. Cooler, windier, and cloudier conditions
-expected for the middle of next week. Slight chance (15-20
-percent) of light precipitation on Wednesday for areas along and
-west of the mountains. Drier and warmer conditions for the end of
-next week with potential for Santa Ana winds.
+One more day of widespread record breaking temperatures today with
+highs 15 to 20 degrees above average for inland locations. Cooler,
+windier, and cloudier conditions expected for the middle of week.
+Slight chance (15-20 percent) of light precipitation on Wednesday
+for areas along and west of the mountains. Drier and warmer
+conditions for the end of the week with potential for Santa Ana
+winds.
 
 &&
 
@@ -382,72 +385,67 @@ next week with potential for Santa Ana winds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Marine layer low clouds and fog are very patchy this morning. Fog
-may become locally dense where sufficient radiational cooling
-occurs, but this will be limited given the high cloud coverage.
-The upper level ridge across the southern tier of the US weakens
-slightly today, though this results in minimal changes to high
-temperatures. Highs will once again be around 15-20 degrees above
-normal across the region, with the greatest departure from normal
-in the valleys and lower elevation mountains. A coastal eddy
-develops tonight for more organized low clouds and fog, though the
-marine layer remains fairly shallow, limiting low clouds and fog
-to the coastal areas. Convection over the Sonoran Desert this
-afternoon and evening could produce a very early season gulf surge
-into the low deserts. The REFS has a 70-80% chance of dew points
-of 60F or higher over the southeastern Coachella Valley. If this
-occurs we could see some low clouds and light fog in this area
-Monday morning, or at a minimum some muggy conditions until the
-moisture mixes out in the afternoon.
+Visible satellite at 10 AM was showing a fog bank along the
+southern Orange County beaches, extending south towards Mission
+Beach in San Diego County. Lifeguards have reported visibility of
+1/8 to 2 miles where the clouds are reaching land. Visibility
+should improve by later this afternoon but areas of low clouds and
+fog are expected redevelop overnight into Monday morning. One
+last day of record breaking temperatures for inland locations can
+be expected today. By Monday the high pressure aloft will weaken
+enough to kick off a cooling trend through mid-week. Highs Monday
+will be 5 to 10 degrees cooler than Sunday for inland locations.
 
-The upper level high shifts much further east on Monday with
-weakly cyclonic flow developing across California. This brings
-greater cooling with highs closer to 10-15 degrees above normal
-inland and around 5-10 degrees above normal near the coast. Monday
-could be the first time in two weeks that no record high
-temperatures are broken. Greater cooling occurs Tuesday and
-Wednesday as a weak trough moves through, and high temperatures
-will finally return to normal. The marine layer deepens through
-this period with low clouds extending into the valleys Tuesday and
-Wednesday morning. Ensembles continue to trend drier with this
-system, especially over the southern part of the forecast area.
-For Wednesday, there is around a 15% chance of 0.10" or more for
-the coastal areas and valleys, and a 20-25% chance over the
-mountains. At this rate, the coastal areas and valleys will be
-lucky to see a few hundredths. West winds strengthen Tuesday and
-Wednesday across the mountains and deserts with gusts around 40-55
-mph on the wind-prone desert mountain slopes and passes.
+Weak troughing over the US West Coast will continue to cool
+conditions back to near seasonal average by Wednesday. A few
+additional degrees of cooling on Thursday will make it the coolest
+day of the week for most locations. Widespread cloud coverage can be
+expected for the middle of the week. Westerly winds will increase
+over the mountains and into the deserts in the afternoons and
+evenings Tuesday through Thursday. Strongest winds are expected
+Wednesday and Thursday with peak gusts of 40 to 55 mph.
 
-On Thursday, an upper level closed low moves east across the Pac
-NW with troughing continuing over So Cal. This will maintain
-cooler weather with a deep marine layer and breezy onshore winds.
-The trough associated with this low digs through the Great Basin
-into the Rockies on Friday with surface high pressure developing
-in its wake. While there is good ensemble agreement with the
-general pattern, the depth of the trough varies between members
-which results in some uncertainty in the strength of the Santa Ana
-winds. The CW3E wrf ensemble has around a 20% chance of a weak
-event on Friday. Surface pressure gradients remain offshore into
-Saturday and an upper level ridge builds in from the west,
-resulting in much warmer and drier weather.
+Precipitation chances on Wednesday are holding steady at around 15
+to 25 percent chance of measurable rain, with the highest chances on
+the coastal slopes of the mountains. The track of the trough will
+keep the bulk of the moisture to our north. Rainfall totals for the
+coast and valleys will be 0.10" or less, with the coastal slopes of
+the mountains having a 20 to 25 percent chance of rainfall totals
+exceeding 0.10".
+
+Once the aforementioned low is to our east, the majority of global
+model ensemble solutions show it digging south into the Great Basin
+Friday and Saturday. This would turn the pressure gradient offshore,
+bringing chances of Santa Ana winds, dry air, and another uptick in
+temperatures west of the mountains. While most guidance is in
+agreement on this general pattern, there remain differences in how
+far south the low will dig and how fast it will continue to move
+east. Both of those factors will have an impact on the strength and
+duration of Santa Ana winds that develop. Latest guidance from the
+CW3E WRF ensemble has a 60 to 80 percent chance of a weak Santa Ana
+wind event Friday and Saturday, with a 40 to 60 percent chance of a
+weak to moderate Santa Ana wind event.
 
 &&
 
 .AVIATION...
-290945Z...Patchy fog is developing in SD Co. coastal areas,
-including elevated coastal mesas up to 600 ft elevation. VIS down to
-1/4SM in FG and 4-6SM in VCFG/BR. Around 50% chance for periods of
-VIS below 1SM and FG at KSAN/KCRQ. Lower confidence in FG
-development in OC coastal areas; timing likely after 12z. Clearing
-expected 16-18Z. Low clouds return to the coast with higher bases,
-5000-1000 ft MSL, around 06-10z Mon.
+291640Z...Areas of clouds and fog off the coast will continue to
+push over coastal areas through this morning. There is low to
+moderate confidence that VCTY KSAN/KCRQ see low clouds near 200-400
+ft MSL and vis 3-5 sm. Low clouds scattering out completely between
+18-19Z. Low clouds expected to return 04-06Z Mon and push further
+inland overnight within 5-10 miles of the coastline. Bases will be
+higher near 600-1000 ft MSL with higher coastal terrain obscured in
+fog; clouds scattering near 16-18Z Mon.
 
-Otherwise, partly cloudy skies with clouds AOA 20K ft MSL through
-the TAF period.
+Otherwise, partly cloudy skies for with clouds AOA 20K ft MSL
+through the TAF period.
 
 &&
 
 .MARINE...No hazardous marine conditions expected through Wednesday.
+Breezy northwest winds near 20 kts across all marine areas on
+Thursday.
 
 &&
 
@@ -466,8 +464,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Westerink
+PUBLIC...CO
+AVIATION/MARINE...APR
 
 
 </pre>
