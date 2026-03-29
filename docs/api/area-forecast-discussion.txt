@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-29T02:37:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-29T07:07:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -357,18 +357,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=46&glossary=0">46</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=47&glossary=0">47</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=48&glossary=0">48</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-448
-FXUS66 KSGX 282334
+031
+FXUS66 KSGX 290447
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-434 PM PDT Sat Mar 28 2026
+947 PM PDT Sat Mar 28 2026
 
 .SYNOPSIS...
 Hot conditions continue through the weekend for inland locations.
@@ -430,19 +428,19 @@ any Santa Ana winds that develop.
 &&
 
 .AVIATION...
-282330Z...Expecting patchy low clouds with bases 200-800ft MSL after
-07Z with the highest chances along the SD County coastal TAF sites.
-Visibilities of 3-5 SM will be possible with Lower visibilities in
-fog on higher coastal terrain. Clearing expected after 16-18Z.
+290445Z...Patchy low clouds are developing offshore with a few of
+them making there way in over coastal SD County around 700ft MSL.
+Still expecting patchy low clouds with bases around 200-800ft MSL,
+increasing in coverage after 10Z-12Z. Visibilities of 3-5 SM will be
+possible with lower visibilities in fog on higher coastal terrain.
+Clearing expected after 16-18Z.
 
 Otherwise, partly to mostly clear skies with clouds AOA 20K ft MSL
 through the TAF period.
 
 &&
 
-.MARINE...Breezy northwest winds with gusts near 20 kts near San
-Clemente Island will ease after sunset. Otherwise, no hazardous
-marine conditions expected through Wednesday.
+.MARINE...No hazardous marine conditions expected through Wednesday.
 
 &&
 
