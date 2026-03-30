@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T13:25:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T19:02:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -358,25 +358,26 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-209
-FXUS66 KSGX 300932
+563
+FXUS66 KSGX 301739
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-232 AM PDT Mon Mar 30 2026
+1039 AM PDT Mon Mar 30 2026
 
 .SYNOPSIS...
 Onshore flow will strengthen through Wednesday with stronger and
 gusty southwest to west winds for the mountains and deserts each
-afternoon and evening with gusts to 35 to 45 mph into Tuesday
+afternoon and evening. Wind gusts to 35 to 45 mph into Tuesday
 evening, and to 45 to 55 mph for late Tuesday night into
-Wednesday. Onshore flow will also spread cooling inland through
-Wednesday with high temperatures for Wednesday and Thursday within
-a few degrees of average. There is a chance of light showers for
-late Tuesday into Wednesday morning. Friday through next weekend
-will be warmer and drier with high temperatures warming to 10 to
-15 degrees above average for inland areas next Sunday.
+Wednesday are likely. Onshore flow will also spread cooling
+farther inland through Wednesday, with high temperatures on
+Wednesday and Thursday within a few degrees of average. There is a
+chance of light showers late Tuesday into Wednesday morning.
+Friday through next weekend will be warmer and drier with high
+temperatures warming to 10 to 15 degrees above average for inland
+areas next Sunday.
 
 &&
 
@@ -384,21 +385,24 @@ will be warmer and drier with high temperatures warming to 10 to
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Wednesday)...
-Early this morning the marine layer is around 1200 feet deep with
-satellite imagery showing areas of low clouds and along portions
-of the coast of Orange and San Diego Counties extending locally
-inland into coastal areas. The most likely locations for dense fog
-will be near higher coastal terrain.
+This morning...The marine layer is about 1500 ft deep and there
+was locally dense fog on portions of the coastal mesas. Low clouds
+and fog had extended about 10 miles inland earlier this morning
+but is now clearing and will likely clear to the beaches by noon
+but could linger there into this afternoon. High temperatures
+today will likely be noticeably lower than yesterday especially
+west of the mountains in those areas influenced by the marine
+layer.
 
+From previous discussion...
 A low pressure system moving across the eastern Pacific will move
-inland through southern California late Tuesday. Onshore flow will
-strengthen into Wednesday. Southwest to west winds will be
+inland through southern California late Tuesday. Onshore flow
+will strengthen into Wednesday. Southwest to west winds will be
 strongest for the mountains and deserts during the afternoons and
-evenings with gusts to 35 to 45 mph for today and Tuesday and with
-gusts to 45 to 55 mph for late Tuesday night and Wednesday.
+evenings with gusts 35 to 45 mph for today and Tuesday, and gusts
+to 45 to 55 mph for late Tuesday night and Wednesday.
 
-Cooling will spread inland through Wednesday with Wednesday high
+Cooling will spread inland through Wednesday, with Wednesday high
 temperatures falling to within a few degrees of average, ranging
 from the upper 60s to around 70 near the coast to the lower to mid
 70s for the valleys and inland Orange County with the lower
@@ -415,26 +419,23 @@ expected. The snow level will be mostly above 8000 to 8500 feet
 through Tuesday night, lowering to around 7500 feet Wednesday
 morning.
 
-&&
-
-.LONG TERM (Friday through Thursday)...
-There will be drying with warming for Friday through next
-weekend. High temperatures will warm to 10 to 15 degrees above
-average for inland areas next Sunday. High temperatures for next
-Sunday will range from the lower to mid 70s near the coast to the
-mid to upper 80s for the Inland Empire with the lower deserts in
-the 90s.
+Friday through Monday... There will be drying with warming for
+Friday through next weekend. High temperatures will warm to 10 to
+15 degrees above average for inland areas next Sunday. High
+temperatures for next Sunday will range from the lower to mid 70s
+near the coast to the mid to upper 80s for the Inland Empire with
+the lower deserts in the 90s.
 
 &&
 
 .AVIATION...
-300930Z...Low clouds are gradually covering all coastal areas this
-morning. Cigs will be around 300-600 feet MSL with tops to 700 feet.
-Vis reduced 3-5SM, but 0-2SM on coastal mesas and hills. Scatter out
-expected 16-18Z. Patchy low clouds could persist at the immediate
-coast thereafter. More uniform low clouds will push ashore after 00Z
-and farther inland into some inland valleys overnight. Bases would
-be higher around 800-1200 feet MSL with vis reductions inland.
+301730Z...Low clouds near 1000-1500 ft MSL will slowly clear coastal
+areas 18-20Z, though some low clouds may stick around within 5 miles
+of the coastline the entire afternoon with moderate confidence on
+coverage. Low clouds will push much further inland tonight after 00Z
+Tue, reaching parts of the Inland Empire after 06Z Tue. Bases will
+be higher around 800-1200 feet MSL with vis reductions for higher
+inland terrain.
 
 Above and beyond the marine layer, VFR conditions will prevail today
 and tonight. High clouds will increase and lower to about 150000
@@ -461,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...JGM/PG
+AVIATION/MARINE...APR
 
 
 </pre>
