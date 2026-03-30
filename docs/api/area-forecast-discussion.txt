@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T02:40:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T07:45:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -355,18 +355,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=46&glossary=0">46</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=47&glossary=0">47</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-476
-FXUS66 KSGX 292332
+456
+FXUS66 KSGX 300452
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-432 PM PDT Sun Mar 29 2026
+952 PM PDT Sun Mar 29 2026
 
 .SYNOPSIS...
 One more day of widespread record breaking temperatures today with
@@ -383,7 +381,7 @@ winds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 00Z AVIATION/MARINE DISCUSSION BELOW...
+...UPDATED 06Z AVIATION/MARINE DISCUSSION BELOW...
 
 Visible satellite at 10 AM was showing a fog bank along the
 southern Orange County beaches, extending south towards Mission
@@ -426,18 +424,17 @@ CW3E WRF ensemble has a 60 to 80 percent chance of a weak Santa Ana
 wind event Friday and Saturday, with a 40 to 60 percent chance of a
 weak to moderate Santa Ana wind event.
 
-
 &&
 
 .AVIATION...
-292330Z...A few low clouds around 200ft MSL have been making their
-way in and out over south coast of SD. Low clouds are expected to
-fill in after 04Z-06Z and push inland 5-10 miles from the coast.
-Bases near 600-1200ft MSL with lower visibilities in fog on higher
-coastal terrain. Low clouds will begin to clear after 17Z-19Z.
+300450Z...Low clouds are beginning to filter in along the coast with
+bases at 500ft MSL. Low clouds are still expected to slowly fill in
+now through Monday morning, pushing inland 5-10 miles from the
+coast. Bases near 300-700ft MSL with lower visibilities in fog on
+higher coastal terrain. Low clouds will begin to clear after 17Z-19Z.
 
-Otherwise, increasing cloud coverage through the TAF period with
-clouds AOA 20,000ft MSL.
+Otherwise, VFR conditions prevail. Clouds AOA 20,000ft MSL will
+increase in coverage through the period.
 
 &&
 
