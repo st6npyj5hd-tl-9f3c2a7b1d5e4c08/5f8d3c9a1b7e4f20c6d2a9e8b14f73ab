@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T07:45:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-30T13:25:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -358,22 +358,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-456
-FXUS66 KSGX 300452
+209
+FXUS66 KSGX 300932
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-952 PM PDT Sun Mar 29 2026
+232 AM PDT Mon Mar 30 2026
 
 .SYNOPSIS...
-One more day of widespread record breaking temperatures today with
-highs 15 to 20 degrees above average for inland locations. Cooler,
-windier, and cloudier conditions expected for the middle of week.
-Slight chance (15-20 percent) of light precipitation on Wednesday
-for areas along and west of the mountains. Drier and warmer
-conditions for the end of the week with potential for Santa Ana
-winds.
+Onshore flow will strengthen through Wednesday with stronger and
+gusty southwest to west winds for the mountains and deserts each
+afternoon and evening with gusts to 35 to 45 mph into Tuesday
+evening, and to 45 to 55 mph for late Tuesday night into
+Wednesday. Onshore flow will also spread cooling inland through
+Wednesday with high temperatures for Wednesday and Thursday within
+a few degrees of average. There is a chance of light showers for
+late Tuesday into Wednesday morning. Friday through next weekend
+will be warmer and drier with high temperatures warming to 10 to
+15 degrees above average for inland areas next Sunday.
 
 &&
 
@@ -381,73 +384,72 @@ winds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 06Z AVIATION/MARINE DISCUSSION BELOW...
+.SHORT TERM (Today through Wednesday)...
+Early this morning the marine layer is around 1200 feet deep with
+satellite imagery showing areas of low clouds and along portions
+of the coast of Orange and San Diego Counties extending locally
+inland into coastal areas. The most likely locations for dense fog
+will be near higher coastal terrain.
 
-Visible satellite at 10 AM was showing a fog bank along the
-southern Orange County beaches, extending south towards Mission
-Beach in San Diego County. Lifeguards have reported visibility of
-1/8 to 2 miles where the clouds are reaching land. Visibility
-should improve by later this afternoon but areas of low clouds and
-fog are expected redevelop overnight into Monday morning. One
-last day of record breaking temperatures for inland locations can
-be expected today. By Monday the high pressure aloft will weaken
-enough to kick off a cooling trend through mid-week. Highs Monday
-will be 5 to 10 degrees cooler than Sunday for inland locations.
+A low pressure system moving across the eastern Pacific will move
+inland through southern California late Tuesday. Onshore flow will
+strengthen into Wednesday. Southwest to west winds will be
+strongest for the mountains and deserts during the afternoons and
+evenings with gusts to 35 to 45 mph for today and Tuesday and with
+gusts to 45 to 55 mph for late Tuesday night and Wednesday.
 
-Weak troughing over the US West Coast will continue to cool
-conditions back to near seasonal average by Wednesday. A few
-additional degrees of cooling on Thursday will make it the coolest
-day of the week for most locations. Widespread cloud coverage can be
-expected for the middle of the week. Westerly winds will increase
-over the mountains and into the deserts in the afternoons and
-evenings Tuesday through Thursday. Strongest winds are expected
-Wednesday and Thursday with peak gusts of 40 to 55 mph.
+Cooling will spread inland through Wednesday with Wednesday high
+temperatures falling to within a few degrees of average, ranging
+from the upper 60s to around 70 near the coast to the lower to mid
+70s for the valleys and inland Orange County with the lower
+deserts in the 80s.
 
-Precipitation chances on Wednesday are holding steady at around 15
-to 25 percent chance of measurable rain, with the highest chances on
-the coastal slopes of the mountains. The track of the trough will
-keep the bulk of the moisture to our north. Rainfall totals for the
-coast and valleys will be 0.10" or less, with the coastal slopes of
-the mountains having a 20 to 25 percent chance of rainfall totals
-exceeding 0.10".
+There is a chance of light showers for late Tuesday into
+Wednesday morning for Orange and southwestern San Bernardino
+Counties from the coast to the mountains with a slight chance for
+San Diego County and western Riverside County from the mountains
+westward. For the San Bernardino County mountains, one-tenth inch
+or less to locally one-qaurter inch is possible. Elsewhere from
+the coast to the mountains, a few hundredths of an inch or less is
+expected. The snow level will be mostly above 8000 to 8500 feet
+through Tuesday night, lowering to around 7500 feet Wednesday
+morning.
 
-Once the aforementioned low is to our east, the majority of global
-model ensemble solutions show it digging south into the Great Basin
-Friday and Saturday. This would turn the pressure gradient offshore,
-bringing chances of Santa Ana winds, dry air, and another uptick in
-temperatures west of the mountains. While most guidance is in
-agreement on this general pattern, there remain differences in how
-far south the low will dig and how fast it will continue to move
-east. Both of those factors will have an impact on the strength and
-duration of Santa Ana winds that develop. Latest guidance from the
-CW3E WRF ensemble has a 60 to 80 percent chance of a weak Santa Ana
-wind event Friday and Saturday, with a 40 to 60 percent chance of a
-weak to moderate Santa Ana wind event.
+&&
+
+.LONG TERM (Friday through Thursday)...
+There will be drying with warming for Friday through next
+weekend. High temperatures will warm to 10 to 15 degrees above
+average for inland areas next Sunday. High temperatures for next
+Sunday will range from the lower to mid 70s near the coast to the
+mid to upper 80s for the Inland Empire with the lower deserts in
+the 90s.
 
 &&
 
 .AVIATION...
-300450Z...Low clouds are beginning to filter in along the coast with
-bases at 500ft MSL. Low clouds are still expected to slowly fill in
-now through Monday morning, pushing inland 5-10 miles from the
-coast. Bases near 300-700ft MSL with lower visibilities in fog on
-higher coastal terrain. Low clouds will begin to clear after 17Z-19Z.
+300930Z...Low clouds are gradually covering all coastal areas this
+morning. Cigs will be around 300-600 feet MSL with tops to 700 feet.
+Vis reduced 3-5SM, but 0-2SM on coastal mesas and hills. Scatter out
+expected 16-18Z. Patchy low clouds could persist at the immediate
+coast thereafter. More uniform low clouds will push ashore after 00Z
+and farther inland into some inland valleys overnight. Bases would
+be higher around 800-1200 feet MSL with vis reductions inland.
 
-Otherwise, VFR conditions prevail. Clouds AOA 20,000ft MSL will
-increase in coverage through the period.
+Above and beyond the marine layer, VFR conditions will prevail today
+and tonight. High clouds will increase and lower to about 150000
+feet MSL tonight into Tuesday.
 
 &&
 
 .MARINE...No hazardous marine conditions expected through Wednesday.
-Northwest winds increase Thursday to near 20 kts across all marine
-areas.
+Northwest winds increase Thursday to near 20 kts.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -459,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Villafane
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
