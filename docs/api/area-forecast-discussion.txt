@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-31T13:24:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-31T19:04:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,18 +349,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-784
-FXUS66 KSGX 310847
+266
+FXUS66 KSGX 311825
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-147 AM PDT Tue Mar 31 2026
+1125 AM PDT Tue Mar 31 2026
 
 .SYNOPSIS...
 A weak low pressure system moving quickly inland through southern
@@ -381,6 +379,8 @@ to 15 degrees above average for next Sunday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED 18Z AVIATION/MARINE DISCUSSION BELOW...
 
 .SHORT TERM (Today through Thursday)...
 A weak low pressure system will move quickly inland through
@@ -408,7 +408,6 @@ around one-tenth inch of rainfall in the mountains with little or
 no measurable rainfall near the coast. A snow level around 8500
 feet will lower to 7000 to 7500 feet for Wednesday morning.
 
-
 &&
 
 .LONG TERM (Friday through Monday)...
@@ -423,37 +422,35 @@ in the 90s. For next Monday, weak onshore flow may begin to spread
 cooling into the coast and valleys with deserts warming another
 few degrees.
 
-
-
 &&
 
 .AVIATION...
-310400Z...Low clouds 1500-2000 ft MSL are slowly covering the
-lowlands of SD and Orange Counties, developing into the Inland
-Empire 06-10z, increasing in coverage throughout the night. VIS 0-
-5SM where terrain and clouds meet in the foothills. Cloud bases
-gradually increase overnight, reaching 2000-3000 ft MSL by 16z
-throughout the coastal basin with patchy -DZ possible at the coast.
+311820Z...Low clouds 2000-3000 feet MSL will continue to cover areas
+within 15 miles of the coast. Higher chance for low clouds to
+scatter out this afternoon across the Inland Empire. Low clouds at
+coastal TAF sites may clear intermittently this afternoon with low
+to moderate confidence. Clouds lowering near 1800-2500 ft MSL
+pushing back inland across areas west of the mountains after 02Z
+Tues with higher coastal terrain obscured in fog. VCSH occurring
+from north to south between 00Z-12Z for all areas expect the lower
+deserts with moderate to high confidence.
 
-Low clouds may scatter at times after 19z but remain SCT-OVC most of
-the day, with mid-level BKN-OVC clouds at 7-10kft MSL above across
-the region. Chance (15-25%) for spotty -RA across the coastal basin
-after 18z, locally higher chances in the western
-foothills/mountains. Bases fill in coverage after 01z Wed across the
-coastal basin, 1500-2500 ft MSL.
-
-Otherwise, VFR conditions prevail for most of the region.
+Strong westerly winds 35-45 mph gusts 55 mph over mountain ridges,
+desert slopes and locally into deserts today into Wednesday; gusts
+near 30 kts possible VCTY KPSP/KTRM. MOD up/downdrafts in lee of
+mountains, and areas of vis reduced to 2-5SM in BLDU in deserts.
 
 &&
 
 .MARINE...No hazardous marine conditions expected through Wednesday.
-Northwest winds increase Thursday to near 20 kts.
+Northwest winds 20 to 25 knots late Thursday in the outer waters.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -470,8 +467,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Westerink
+PUBLIC...17/PG
+AVIATION/MARINE...APR
 
 
 </pre>
