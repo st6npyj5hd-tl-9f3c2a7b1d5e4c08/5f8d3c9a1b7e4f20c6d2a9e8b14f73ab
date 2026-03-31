@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-31T02:35:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-03-31T07:18:43+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -358,25 +358,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-892
-FXUS66 KSGX 310059
+791
+FXUS66 KSGX 310412
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-559 PM PDT Mon Mar 30 2026
+912 PM PDT Mon Mar 30 2026
 
 .SYNOPSIS...
-Onshore flow will strengthen through Wednesday with stronger
-southwest to west winds in the mountains and deserts gusting 35
-to 45 mph into Tuesday evening then gusting 45 to 55 mph for late
-Tuesday night into Wednesday. Onshore flow will also spread
-cooling farther inland through Wednesday, with high temperatures
-on Wednesday and Thursday within a few degrees of average. There
-is a chance of light showers late Tuesday into Wednesday morning.
-Friday through next weekend will be warmer and drier with high
-temperatures warming to 10 to 15 degrees above average for inland
-areas next Sunday.
+Cooler through Thursday with highs returning to normal. Gusty
+southwest to west winds continue across the mountains and deserts
+through Thursday, peaking on Wednesday. There is a chance of
+light showers late Tuesday into Wednesday morning. Friday through
+next weekend will be warmer and drier with high temperatures
+warming to 10 to 15 degrees above average for inland areas next
+Sunday.
 
 &&
 
@@ -384,17 +381,18 @@ areas next Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This afternoon...Patches of marine layer low clouds persist in the
-coastal areas and southwest winds are pushing the low clouds
-inland over portions of southern San Diego County. Widespread high
-clouds cover SoCal ahead of a low pressure system that is still
-over 1000 miles to our northwest. Temperatures are as much as
-11-17 degrees lower than at this time yesterday in the inland
-valleys. Elsewhere, temperatures are also lower than at this time
-yesterday but less so. Lower ocean water temperatures and stronger
-onshore flow have been efficient in spreading the cooler marine
-air farther inland.
 
+Evening update...
+Widespread high clouds continue to move over the region this
+evening. Marine layer low clouds have returned to the coastal
+areas and will spread into the inland valleys overnight as the
+marine layer deepens. There could be some spotty light drizzle for
+the coastal areas and valleys tonight with the deepening marine
+layer. Otherwise gusty southwest to west winds continue tonight
+across the mountains and deserts with gusts up to 35 mph below the
+favored passes and desert mountain slopes.
+
+Previous discussion...
 A low pressure system currently about 1000 miles off the coast of
 NorCal will move inland over SoCal late Tue into Wed.
 Strengthening onshore flow will bring gusty southwest to west
@@ -436,19 +434,23 @@ flow will bring lower temperatures to areas west of the mtns but
 the deserts will remain warm, with temperatures in the mid to
 upper 90s.
 
+
 &&
 
 .AVIATION...
-310030Z...Low clouds 1500-2000 ft MSL slowly cover the lowlands of
-SD and Orange Counties by 05z tonight, developing into the Inland
-Empire 06-10z, increasing in coverage throughout the night. VIS 0-5SM
-where terrain and clouds meet in the foothills. Cloud bases
-gradually increase overnight, reaching 2000-3000 MSL in the morning
-throughout the coastal basin. Low clouds may scatter at times after
-18z but remain SCT-OVC most of the day, with mid-level BKN-OVC
-clouds at 7-10kft MSL above across the region. Chance (15-25%) for
-spotty DZ/-RA across the coastal basin after 18z, locally higher
-chances in the western foothills/mountains.
+310400Z...Low clouds 1500-2000 ft MSL are slowly covering the
+lowlands of SD and Orange Counties, developing into the Inland
+Empire 06-10z, increasing in coverage throughout the night. VIS 0-
+5SM where terrain and clouds meet in the foothills. Cloud bases
+gradually increase overnight, reaching 2000-3000 ft MSL by 16z
+throughout the coastal basin with patchy -DZ possible at the coast.
+
+Low clouds may scatter at times after 19z but remain SCT-OVC most of
+the day, with mid-level BKN-OVC clouds at 7-10kft MSL above across
+the region. Chance (15-25%) for spotty -RA across the coastal basin
+after 18z, locally higher chances in the western
+foothills/mountains. Bases fill in coverage after 01z Wed across the
+coastal basin, 1500-2500 ft MSL.
 
 Otherwise, VFR conditions prevail for most of the region.
 
@@ -479,7 +481,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
+PUBLIC...SS
 AVIATION/MARINE...Westerink
 
 
