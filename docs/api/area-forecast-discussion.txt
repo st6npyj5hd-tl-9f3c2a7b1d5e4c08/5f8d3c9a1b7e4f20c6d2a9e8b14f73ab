@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-01T02:47:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-01T07:24:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -354,28 +354,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-385
-FXUS66 KSGX 010104
+395
+FXUS66 KSGX 010446
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-604 PM PDT Tue Mar 31 2026
+946 PM PDT Tue Mar 31 2026
 
 .SYNOPSIS...
-A weak low pressure system moving quickly inland through southern
-California will bring stronger onshore flow through Thursday.
-This will spread cooling inland and bring stronger and gusty
-southwest to west winds to the mountains and deserts. Winds will
-be strongest on Wednesday with gusts 40 to 50 mph. There will also
-be a chance of showers late today into Wednesday, with the chance
-for rainfall greatest in the mountains at 40 to 50 percent.
-Lower-level flow will go briefly offshore Friday and Saturday with
-drying and gusty north to northeast winds along and below the
-coastal slopes of the mountains gusting to 25 to 35 mph. This
-will be followed by warming through next weekend with high
-temperatures warming to 10 to 15 degrees above average for next
-Sunday.
+Light showers will continue to move through the area tonight. Cooler
+with gusty onshore winds in the mountains and deserts through
+Thursday, with the strongest winds Wednesday afternoon into
+Wednesday night. Weak offshore develops for Friday and Saturday
+for drier weather and locally gusty northeast to east winds below
+the passes and canyons. This will be followed by warming through
+next weekend with high temperatures warming to 10 to 15 degrees
+above average for next Sunday. Brief cooling Monday followed by
+minor warming again on Tuesday.
 
 &&
 
@@ -383,33 +379,24 @@ Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Evening update...
+Light showers are moving into So Cal this evening, mainly north
+of San Diego County. So far most of the measurable precipitation
+has been in the mountains and high desert, and accumulations have
+been less than 0.10 inch. Additional accumulation tonight will
+generally be less than 0.10 inch for the coasts and valleys, with
+the potential for some locations to not measure at all, another
+few hundredths to around 0.25 inch in the mountains, and 0.05 inch
+or less in the deserts. The upper level trough currently moving
+through Central CA will quickly move out by Wednesday morning,
+ending our precipitation chances. Snow levels will fall to around
+7000-7500 ft by Wednesday morning though any accumulations will be
+less than one inch. Otherwise west winds gusting to around 35-50
+mph will continue across the mountains and deserts into Thursday.
+High temperatures will be around 3-5 degrees below normal
+Wednesday and Thursday.
 
-The afternoon...The marine layer has deepened to around 4000 ft
-and low clouds cover much of the area west of the mtns. Widespread
-mid and high clouds cover the region and will thicken through
-tonight as the moist layer deepens above 10,000 ft. The onshore
-flow is strengthening and the wind-favored locations in the mtns
-and adjacent desert slopes are currently reporting wind gusts of
-25-35 mph. Temperatures are generally lower than at this time
-yesterday, as much as 10-12 degrees lower in the inland valleys.
-Radar is detecting the mid and high clouds but so far no
-measurable precipitation has been reported in SoCal.
-
-The low pressure system moving in from the west will bring chances
-for light rain from this evening through Wednesday morning. Total
-accumulations will range from less than one tenth inch in the
-coastal areas and inland valleys to about two tenths inch in the
-San Bernardino Mountains. A snow level around 8500 feet will
-lower to 7000 to 7500 feet for Wednesday morning. This system will
-also bring stronger onshore flow through Thursday. Southwest to
-west winds will be strongest on Wednesday with gusts 40 to 50 mph
-in the mountains and on adjacent desert slopes. Temperatures will
-trend lower through Thursday with high temperatures a few degrees
-below average on Wednesday, ranging from the mid to upper 60s
-near the coast to the lower to mid 70s for the Inland Empire with
-the lower deserts in the 80s. Little change in temperatures is
-expected for Thursday.
-
+Previous discussion...
 A stronger low pressure system currently in the Gulf of Alaska
 will move inland over WA/OR Wed-Thu, reaching the northern Rockies
 by Friday. A sfc high will follow the low into the Great Basin
@@ -428,26 +415,26 @@ Weak onshore flow will return for Monday and Tuesday, bringing
 cooler conditions to the coast and valleys. Elsewhere,
 temperatures will remain relatively unchanged.
 
-
 &&
 
 .AVIATION...
-010030Z...Coast/Valleys...This evening there are layers of cloud
-bases, yielding to areas of MVFR conditions: low clouds with FEW-BKN
-bases 1500-3500 ft MSL currently over SD. Co, another BKN-OVC base
-3500-4500 ft MSL covering the coastal basin and a mid-level cloud
-base 8-12 kft MSL across the region. Patchy MVFR bases to gradually
-develop in the IE and OC with VCSH and ISO -SHRA through 06z. From
-06-12z, SCT SHRA move across the basin from northwest to southeast
-bringing brief periods of IFR cigs/vis. A few -SHRA to linger in the
-foothills thereafter through 16z, then clouds scatter out (16-18z)
-mostly in the lowlands and partially in the foothills (bases 3-5kft
-MSL).
+010500Z...Coast/Valleys...This evening there are layers of cloud
+bases: prevailing cigs are 3-9 kft MSL with patchy MVFR bases. SCT
+-RA/SHRA continue to develop across the basin from northwest to
+southeast, bringing brief periods of MVFR cigs/vis and even an
+occasional IFR cig/vis. Rain activity to taper off around 12z early
+Wed, though ISO -SHRA to linger in the foothills through 16z.
+
+
+Clouds scatter out 16-18z, mostly in the lowlands and partially in
+the foothills (bases 3-5kft MSL). Low clouds fill in once again
+gradually after 00z throughout the coastal basin with bases 2500-
+3500 ft MSL.
 
 
 Mountains/deserts...Clouds intersecting terrain to lower vis 0-5SM
 through 16-18z Wed. Layered bases up to 12 kft MSL. SHRA/+SHRA in
-the mountains 02-12z, especially in the San Bernardino County
+the mountains through 14z, especially in the San Bernardino County
 mountains. Strong westerly winds 35-45 mph gusts 55 mph over
 mountain ridges, desert slopes and locally into deserts this evening
 into Wednesday; gusts near 30 kts possible VCTY KPSP/KTRM. MOD
@@ -458,7 +445,6 @@ in BLDU in deserts.
 
 .MARINE...No hazardous marine conditions expected through Wednesday.
 Northwest winds 20 to 25 knots late Thursday in the outer waters.
-
 &&
 
 .SKYWARN...
@@ -480,7 +466,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG/LV
+PUBLIC...SS/PG
 AVIATION/MARINE...Westerink
 
 
