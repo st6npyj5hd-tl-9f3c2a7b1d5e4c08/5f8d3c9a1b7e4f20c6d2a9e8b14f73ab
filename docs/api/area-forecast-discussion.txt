@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-02T02:31:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-02T07:16:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,28 +343,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-170
-FXUS66 KSGX 012027
+811
+FXUS66 KSGX 020419
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-127 PM PDT Wed Apr 1 2026
+919 PM PDT Wed Apr 1 2026
 
 .SYNOPSIS...
-Showers are ending this morning as the system moves to the east.
 Cooler and breezy conditions will continue through Thursday with
-west winds in the mountains and deserts gusting 35 to 45 mph.
-Locally gusting to 55 mph. For Friday and Saturday, offshore
-surface flow and high pressure aloft will bring warming and drying
-with northeast winds along and below the coastal slopes of the
-mountains gusting 30 to 40 mph. Then slightly cooler with weaker
-winds for early next week.
+west winds in the mountains and deserts gusting 35 to 50 mph. For
+Friday and Saturday, offshore surface flow and high pressure
+aloft will bring warming and drying with northeast winds along and
+below the coastal slopes of the mountains. Slightly cooler with
+weaker winds for early next week.
 
 &&
 
@@ -372,26 +368,22 @@ winds for early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Wednesday through Friday...The low-pressure system has moved
-east, ending the rain over the area. Most of the rain fell in the
-San Bernardino mountains (0.15"-0.93"), then the Inland Empire
-(0.08"-0.79"), and Orange County(0.01"-0.27"). San Diego County
-came in with amounts 0.01"-0.14" with the higher amounts occurring
-around Palomar Mountain. Precip chances will continue to trend
-lower through the day, falling below 10% overnight tonight.
+Evening update...
+The 00Z sounding shows the boundary layer nearly 6000 ft deep
+topped by a weak inversion. With the loss of daytime heating, the
+stratocumulus clouds have dissipated except where they remain
+banked up against the mountains. Hi-res guidance seems to be
+struggling with this lack of cloud cover and is spitting out light
+precipitation overnight. If clouds can redevelop and thicken
+enough with the approaching upper level low moving into the Pac
+NW, some spotty drizzle isn`t totally out of the question.
+Otherwise breezy southwest to west winds continue across the
+mountains and deserts into Thursday with gusts around 35-45 mph,
+locally as high as 55 mph along the wind prone desert mountain
+slopes and below the San Gorgonio Pass. Thursday will remain cool
+with highs a few degrees below normal.
 
-Westerly winds have picked up on the eastern side of the mountains,
-especially on the northern end of the Coachella Valley. Gusts on
-the western side of the mountains are currently 25-35 mph with
-Coachella showing gusts of 30-40 mph. Wind gusts are expected to
-reach 35-45 mph in the mountains and deserts today and tomorrow
-with gusts locally up to 55 mph.
-
-Temperatures will trend lower today and Thursday with highs in the
-mid 60s to low 70s along the coasts and valleys, 50s to low 60s in
-the mountains, mid 60s to mid 70s in the High Deserts, and in the
-80s in Coachella and San Diego deserts.
-
+Previous discussion...
 Friday, winds at the surface shift to offshore as high pressure
 builds aloft. This will bring higher temperatures to the coasts
 and valleys with temperatures 5-10 degrees above the seasonal
@@ -417,27 +409,33 @@ mid- week with mostly clear skies in the afternoon.
 &&
 
 .AVIATION...
-011700Z...Coast/Valleys...SCT-BKN cloud layers 2500-6000 ft MSL
-continuing through the morning.  Subtle scatter out from north to
-south after 18Z, with only intermittent clearing in San Diego County
-valleys/foothills this afternoon. Low clouds fill in once again
-gradually after 00Z and eventually fill the coastal basin with bases
-2000-3000 feet MSL overnight into Thursday.
+020400Z...Coast/Valleys...SCT low clouds based 2000-5000 ft MSL
+currently over the foothills with patchy coverage through the
+coastal basin. Coverage of low clouds will continue to increase this
+evening with most of the coastal basin filling in by early
+Thursday morning. Bases will hover around 2000-3000 ft MSL
+overnight. By late Thursday morning, clouds will rise above 3000
+ft with most areas scattering out 17-19Z. Areas in San Diego
+County may remain BKN (40- 50%) through the afternoon. Coverage
+increases and bases lower below 3000 ft again 02-05Z Fri, but low
+clouds should remain mostly confined to San Diego County as flow
+begins to turn offshore.
 
-Mountains/deserts...Areas of higher terrain obscured through much of
-the day with some intermittent clearing this afternoon. Layered
-bases up to 12 kft MSL. Strong westerly winds 30-40 knots with gusts
-50 knots over mountain ridges, through mountain gaps, and desert
-slopes today; gusts near 30 kts possible VCTY KPSP/KTRM. MOD
-up/downdrafts in lee of mountains, and areas of vis reduced to 2-5SM
-in BLDU in deserts. Winds becoming more localized to mountains after
-06Z Fri.
+Mountains/deserts...Coastal slopes below 5000 ft shrouded in FG,
+occasionally reaching higher elevations through 18Z Thu.
+Otherwise, VFR conditions through Thursday evening. Strong
+westerly winds will continue through Thursday afternoon with gusts
+35-50 kts along coastal slopes and through the High Desert. Gusts
+reaching 25-40 kts along the floor of the lower desert. Areas of
+BLDU expected with vis 3-5SM, especially in the High Desert. Winds
+slowly weaken 00-06Z Fri before turning northerly and
+strengthening along coastal slopes Thursday night.
 
 &&
 
-.MARINE...No hazardous marine conditions expected through Thursday
-morning and Friday through Sunday. Areas of northwest wind gusts to
-exceed 20 knots late Thursday in the outer waters.
+.MARINE...Areas of northwest wind gusts to exceed 20 knots late
+Thursday in the outer waters. Otherwise, no hazardous marine
+conditions expected through Monday.
 
 &&
 
@@ -460,8 +458,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane/PG
-AVIATION/MARINE...APR
+PUBLIC...SS/Villafane/PG
+AVIATION/MARINE...KW
 
 
 </pre>
