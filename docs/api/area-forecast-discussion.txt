@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-02T13:18:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-02T18:59:39+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-124
-FXUS66 KSGX 021009
+764
+FXUS66 KSGX 021736
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-309 AM PDT Thu Apr 2 2026
+1036 AM PDT Thu Apr 2 2026
 
 .SYNOPSIS...
 Cooler and breezy weather will continue today with west winds in
@@ -362,6 +362,8 @@ a few degrees cooler for next Wednesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED 18Z AVIATION DISCUSSION BELOW...
 
 .SHORT TERM (Today through Friday)...
 Cooler and breezy weather will continue for today with high
@@ -404,80 +406,27 @@ with Wednesday a few degrees cooler.
 &&
 
 .AVIATION...
-020930Z...Coast/Valleys/Foothills...SCT-BKN clouds with bases
-between 2500-4500 feet MSL will continue today. Local terrain
-obscuration in foothills. Greater scatter out expected after 17-18Z,
-especially near the coast and vcnty KSNA/KONT, with areas of BKN
-clouds persisting in western San Diego County. Low clouds around
-2000-3000 feet MSL to cover western San Diego County 01-08Z. Rapid
-clearing after 09Z overnight into Friday morning.
+021730Z...Coast/Valleys/Foothills...SCT-BKN clouds with bases
+between 2500-4500 feet MSL will continue today, with the best
+scatter out of coverage occurring before 01Z, especially near the
+coast and vcnty KSNA/KONT, with areas of BKN clouds persisting in
+western San Diego County. Low clouds around 2000-3000 feet MSL to
+cover western San Diego County 01-08Z. Rapid clearing after 09Z
+overnight into Friday morning.
 
-Mountain ridges/deserts...VFR conditions today through tonight.
-Strong westerly winds with gusts 30-45 kts over ridges, through
-passes, on desert slopes and locally into deserts through 03Z. Gusts
-reaching 25-35 kts along the floor of the lower desert. Areas of
-BLDU expected with vis 3-5SM, especially in the High Desert. Winds
-diminish and turn northeast after 09Z tonight into Friday.
-
-&&
-
-.MARINE...
-Northwest wind gusts will occasionally exceed 20 knots
-near San Clemente Island this afternoon and evening. Otherwise,
-no hazardous marine conditions expected through Monday.
+Mountain ridges/deserts...VFR conditions this evening through
+tomorrow morning. Strong westerly winds with gusts 30-45 kts over
+ridges, through passes, on desert slopes and locally into deserts
+through 03Z Friday. Gusts reaching 25-35 kts along the floor of the
+lower desert. Areas of BLDU expected with vis 3-5SM, especially in
+the High Desert. Winds diminish and turn northeast after 09Z tonight
+into Friday.
 
 &&
 
-.CLIMATE...
-Some details on the large number of temperature records tied or
-broken at Palm Springs in March 2026 with records dating back to
-1893:
-
-- The new warmest average temperature for March is now 79.2
-  degrees, exceeding the previous record of 74.2 in 1934 by 5
-  degrees! The previous largest spread between the warmest and
-  second warmest average temperature for a month had been 1.8
-  degrees for November. If that warmest average temperature for
-  March of 79.2 had occurred in April, it would have been the
-  second warmest April on record. That 79.2 for March 2026
-  exceeded the average for the month of 67.5 by 11.7 degrees!
-
-- The new warmest average MINIMUM temperature for March is now
-  64.8 degrees, exceeding the previous record of 60.6 in 2004 by
-  4.2 degrees! The previous largest spread between the warmest and
-  second warmest average MINIMUM temperature for a month had been
-  2.5 degrees for August. That 64.8 for March 2026 exceeded the
-  average for the month of 54.4 by 10.4 degrees!
-
-- The new warmest average MAXIMUM temperature for March is now
-  93.7 degrees, exceeding the previous record of 91.3 in 1972 by
-  2.4 degrees. The previous largest spread between the warmest and
-  second warmest average MAXIMUM temperature for a month had been
-  1.8 degrees for April. That 93.7 for March 2026 exceeded the
-  average for the month of 80.6 by 13.1 degrees!
-
-
-- The new highest temperature for March is now 108, set on 20
-  March 2026. Prior to 2026, the record was 104 on 31 March 1966.
-  That 1966 record was exceeded on four days in March 2026, each
-  day from the 18th to the 21st. For hottest days in March at Palm
-  Springs, 5 of the 6 hottest were in 2026 as were 6 of the 8
-  hottest.
-
-- The new warmest daily minimum temperature for March is now 78,
-  set on 19 March 2026. Prior to 2026, the record was 70 on 14
-  March 1972. That 1972 record was exceeded on SEVEN days in March
-  2026, each day from the 17th to the 20th, and again on the 28th,
-  29th, and 31st.
-
-
-- Daily high temperature records were broken on 9 days and tied on
-  another 3, Four of those new daily records exceeded the record
-  for the month prior to 2026.
-
-- Daily warmest low temperature records were broken on 10 days.
-  Seven of those new daily records exceeded the record for the
-  month prior to 2026.
+.MARINE...Northwest wind gusts will occasionally exceed 20 knots
+near San Clemente Island this afternoon and evening. Otherwise, no
+hazardous marine conditions expected through Monday.
 
 &&
 
@@ -485,10 +434,16 @@ broken at Palm Springs in March 2026 with records dating back to
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 11 PM PDT this evening for Apple and Lucerne
+CA...Wind Advisory from 5 AM to 8 PM PDT Friday for Orange County
+     Inland Areas-San Bernardino County Mountains-San Bernardino
+     and Riverside County Valleys-The Inland Empire-San Gorgonio
+     Pass near Banning-Santa Ana Mountains and Foothills.
+
+     Wind Advisory until 11 PM PDT this evening for Apple and Lucerne
      Valleys-Coachella Valley-Riverside County Mountains-San
      Bernardino County Mountains-San Diego County Deserts-San
      Diego County Mountains-San Gorgonio Pass near Banning.
@@ -499,8 +454,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...17
-AVIATION/MARINE...MM
+PUBLIC...17
+AVIATION/MARINE...Stewey
 
 
 </pre>
