@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-01T19:05:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-02T02:31:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,28 +345,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-931
-FXUS66 KSGX 010947
+170
+FXUS66 KSGX 012027
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-247 AM PDT Wed Apr 1 2026
+127 PM PDT Wed Apr 1 2026
 
 .SYNOPSIS...
-Showers are expected to end this morning from northwest to
-southeast. Cooler and breezy conditions will continue through
-Thursday with west winds in the mountains and deserts gusting to
-35 to 45 mph with isolated gusts to 55 mph. For Friday and
-Saturday, offshore lower-level flow and high pressure aloft will
-bring warming and drying with northeast winds along and below the
-coastal slopes of the mountains gusting to 30 to 40 mph. Then
-slightly cooler with weaker winds for early next week.
+Showers are ending this morning as the system moves to the east.
+Cooler and breezy conditions will continue through Thursday with
+west winds in the mountains and deserts gusting 35 to 45 mph.
+Locally gusting to 55 mph. For Friday and Saturday, offshore
+surface flow and high pressure aloft will bring warming and drying
+with northeast winds along and below the coastal slopes of the
+mountains gusting 30 to 40 mph. Then slightly cooler with weaker
+winds for early next week.
 
 &&
 
@@ -374,81 +372,79 @@ slightly cooler with weaker winds for early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Wednesday through Friday)...
-Showers have been spreading into portions of southwest California
-from the west since late Tuesday afternoon. The showers are
-expected to decrease from northwest to southeast during this
-morning. In general, rainfall has been greater to the north and
-less to the south and greater in the mountains with less at lower
-elevations. Showers that moved through the Ontario airport area
-produced one-third to three-quarters of an inch in the four
-observations nearest the airport. The more widespread showers
-moving through northern portions of the Inland Empire around 2 AM
-could produce another one-quarter to one-third inch with isolated
-rainfall to around three-quarters of an inch.
+Wednesday through Friday...The low-pressure system has moved
+east, ending the rain over the area. Most of the rain fell in the
+San Bernardino mountains (0.15"-0.93"), then the Inland Empire
+(0.08"-0.79"), and Orange County(0.01"-0.27"). San Diego County
+came in with amounts 0.01"-0.14" with the higher amounts occurring
+around Palomar Mountain. Precip chances will continue to trend
+lower through the day, falling below 10% overnight tonight.
 
-Beyond the showers this morning, it will be cooler today and
-Thursday with high temperatures near sea level around average to
-around 5 degrees below average for the mountains and inland
-valleys. High temperatures for the coast and valleys will be
-mostly in the 60s and lower 70s with the lower deserts in the 80s.
-There will also be west winds for the mountains and deserts with
-gusts to 35 to 45 mph.
+Westerly winds have picked up on the eastern side of the mountains,
+especially on the northern end of the Coachella Valley. Gusts on
+the western side of the mountains are currently 25-35 mph with
+Coachella showing gusts of 30-40 mph. Wind gusts are expected to
+reach 35-45 mph in the mountains and deserts today and tomorrow
+with gusts locally up to 55 mph.
 
-For Friday, the lower-level flow will go offshore with
-strengthening high pressure aloft. Areas of northeast winds along
-and below the coastal slopes of the mountains will gust to 30 to
-40 mph. High temperatures on Friday will warm as much as 10 to 15
-degrees with high temperatures ranging from the lower to mid 70s
-near the coast to the upper 70s to mid 80s for the valleys and
-inland Orange County with the lower deserts in the 80s.
+Temperatures will trend lower today and Thursday with highs in the
+mid 60s to low 70s along the coasts and valleys, 50s to low 60s in
+the mountains, mid 60s to mid 70s in the High Deserts, and in the
+80s in Coachella and San Diego deserts.
 
-&&
+Friday, winds at the surface shift to offshore as high pressure
+builds aloft. This will bring higher temperatures to the coasts
+and valleys with temperatures 5-10 degrees above the seasonal
+average. Northeast winds will be breezy with the highest winds in
+the coastal slopes and mountain areas. Gusts of 35-45 mph area
+expected in desert areas and the San Diego Valley. Stronger wind
+gusts of 50-65 mph will be possible on coastal mountain slopes
+and adjacent valleys.
 
-.LONG TERM (Saturday through Tuesday)...
-Offshore flow with warming and gusty northeast winds will continue
-into Saturday. High temperatures on Saturday will warm another few
-degrees near the coast to 4 to 8 degrees inland with high
-temperatures ranging from from the 70s near the coast to the 80s
-for the valleys and inland Orange County with the lower deserts
-in the upper 80s to mid 90s,
+Saturday through Wednesday... Offshore winds continue into
+Saturday as high pressure continues to fill in over the area.
+Expect wind gusts of 40 to 50 mph in the coastal slopes of the
+mountains and deserts, locally 55-60 mph. High temperatures will
+be in the 70s and mid 80s along the coast and in the valleys,
+upper 50s to mid 70s in the mountains, and 80s to low 90s in the
+Coachella Valley and San Diego deserts.
 
-For Sunday, the coast will begin to cool with the mountains and
-deserts continuing to warm. Cooling will spread inland on Monday
-followed by slight warming on Tuesday and slight cooling on
-Wednesday.
+Conditions west of the mountains will cool Sunday as onshore flow
+returns. Temperatures will continue to increase in the mountains
+and deserts. Next week, temperatures fluctuate a few degrees into
+mid- week with mostly clear skies in the afternoon.
 
 &&
 
 .AVIATION...
-010930Z...Coast/Valleys...Layers of cloud bases between 3500-9000
-feet MSL, but with bases in RA dropping to as low as 1500 feet. RA
-and lower cigs to move out from northwest to southeast 11-15Z.
-Some cigs and isold -SHRA to linger in the foothills through 17Z.
-Scatter out first at coast mostly by 18Z, inland by 20Z, but not in
-foothills. Low clouds fill in once again gradually after 00Z and
-eventually fill the coastal basin with bases 2000-3000 feet MSL
-overnight into Thursday.
+011700Z...Coast/Valleys...SCT-BKN cloud layers 2500-6000 ft MSL
+continuing through the morning.  Subtle scatter out from north to
+south after 18Z, with only intermittent clearing in San Diego County
+valleys/foothills this afternoon. Low clouds fill in once again
+gradually after 00Z and eventually fill the coastal basin with bases
+2000-3000 feet MSL overnight into Thursday.
 
-Mountains/deserts...Areas of higher terrain obscured through 16-18Z
-along with RA through 15Z. Layered bases up to 12 kft MSL. Strong
-westerly winds 30-40 knots with gusts 50 knots over mountain ridges,
-through mountain gaps, and desert slopes today; gusts near 30 kts
-possible VCTY KPSP/KTRM. MOD up/downdrafts in lee of mountains, and
-areas of vis reduced to 2-5SM in BLDU in deserts.
+Mountains/deserts...Areas of higher terrain obscured through much of
+the day with some intermittent clearing this afternoon. Layered
+bases up to 12 kft MSL. Strong westerly winds 30-40 knots with gusts
+50 knots over mountain ridges, through mountain gaps, and desert
+slopes today; gusts near 30 kts possible VCTY KPSP/KTRM. MOD
+up/downdrafts in lee of mountains, and areas of vis reduced to 2-5SM
+in BLDU in deserts. Winds becoming more localized to mountains after
+06Z Fri.
 
 &&
 
-.MARINE...
-No hazardous marine conditions expected through Thursday morning
-and Friday through Sunday. Areas of northwest wind gusts to exceed
-20 knots late Thursday in the outer waters.
+.MARINE...No hazardous marine conditions expected through Thursday
+morning and Friday through Sunday. Areas of northwest wind gusts to
+exceed 20 knots late Thursday in the outer waters.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -464,8 +460,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Villafane/PG
+AVIATION/MARINE...APR
 
 
 </pre>
