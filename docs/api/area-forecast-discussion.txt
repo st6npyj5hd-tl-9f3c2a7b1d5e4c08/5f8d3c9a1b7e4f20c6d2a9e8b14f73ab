@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T07:12:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T13:08:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,25 +333,32 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-802
-FXUS66 KSGX 030444
+625
+FXUS66 KSGX 031148
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-944 PM PDT Thu Apr 2 2026
+448 AM PDT Fri Apr 3 2026
 
 .SYNOPSIS...
-Gusty west winds will continue over the mountains and into the
-deserts through this evening. Winds will quickly turn offshore
-Friday morning, with gusty Santa Ana winds expected through Friday
-evening. Weaker northeast winds with dry and warm conditions
-expected for the weekend. Temperatures will fluctuate a few
-degrees each day next week, but mostly stay above average for this
-time of year. Periods of night and morning low clouds next week.
+Santa Ana winds will develop and strengthen this morning with
+gusts to 35 to 45 mph along and below the coastal slopes of the
+mountains. The winds will weaken some this afternoon with more
+localized winds with gusts to 30 to 40 mph continuing into
+Saturday morning. High temperatures will warm for today and
+Saturday with Saturday high temperatures 10 to 15 degrees above
+average for the coast and valleys. Inland areas will continue to
+warm on Sunday while coastal areas begin to cool with only slight
+changes for Monday and Tuesday. For Wednesday and Thursday, high
+pressure aloft will weaken and onshore flow will strengthen. High
+temperatures will cool with Thursday high temperatures a few to
+around 5 degrees below average.
 
 &&
 
@@ -359,96 +366,124 @@ time of year. Periods of night and morning low clouds next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 06Z AVIATION AND MARINE DISCUSSIONS BELOW...
+.SHORT TERM (Today through Sunday)...
+Offshore flow will develop and strengthen this morning with
+northeast winds gusting to 35 to 45 along and below the coastal
+slopes of the mountains. The winds will diminish some during this
+afternoon with more localized winds with gusts to 30 to 40 mph
+continuing through tonight into Saturday morning.
 
-At noon, visible satellite was showing widespread high cloud
-coverage from the coast to the deserts, with areas of low clouds
-under the high clouds west of the mountains. Temperatures at noon
-were running 4 to 10 degrees cooler than they were at noon
-yesterday. Westerly winds are expected over the mountains and into
-the deserts through this evening with peak gusts 45 to 55 mph. Winds
-will weaken tonight and turn offshore by Friday morning.
+High temperatures today will warm around 5 degrees for the deserts
+to around 10 to 15 degrees for the valleys and inland Orange
+County. There will be additional warming of around 5 degrees for
+most areas on Saturday. High temperatures on Saturday will range
+from the 70s near the coast to the 80s for the Inland Empire and
+inland Orange County with the lower deserts around 90.
 
-As the upper level low that is bringing our cool, cloudy, and windy
-weather quickly moves east into the Intermountain West Friday,
-surface pressure gradients will rapidly turn offshore. This will
-result in an uptick of north to northeasterly winds Friday
-morning. Strongest winds will be on the coastal foothills of the
-San Bernardino and Santa Ana mountains, through the Cajon Pass,
-through the San Gorgonio Pass, and into portions of the Inland
-Empire and Orange County east of Interstate 5. Peak gusts of 35 to
-55 mph are expected. In addition to increased winds west of the
-mountains, conditions will warm with highs Friday for the coast
-and valleys forecast to be 10 to 15 degrees warmer than today.
+For Sunday, onshore flow will bring cooling of a few to around 5
+degrees for the coast and valleys with the mountains and deserts
+warming around 5 degrees. High temperatures on Sunday will range
+from the lower 70s near the coast to the lower to mid 80s for the
+Inland Empire with the lower deserts in the mid 90s.
 
-The aforementioned low will be very quick moving, which will result
-in rapidly weakening surface pressure gradients for Saturday and
-Sunday. While the gradient will remain offshore, winds are expected
-to become weaker and more localized. Weak ridging aloft is expected
-to build over California over the weekend, continuing a period of
-above average temperatures.
+&&
 
-For next week, the pattern becomes fairly dynamic. A shortwave
-trough will move through Southern California Monday which will bring
-a few degrees of cooling. By Tuesday, weak ridging will be over the
-area which will boost temperatures a few degrees. By Wednesday and
-next Thursday a larger area of low pressure aloft will slowly make
-it`s way towards the US West Coast. There remains some uncertainty
-in the ensemble guidance in regards to the timing of the low and how
-far south it will dig. We will likely see cooler, cloudier, and
-windier conditions again. There are some ensemble members on the
-GEFS and ECMWF that indicate chances of precipitation. There
-remains uncertainty in how the upper level pattern will shape up
-which will impact the temperature, wind, and precipitation
-forecast.
+.LONG TERM (Monday through Thursday)...
+Not much change is expected for Monday with the coast and valleys
+slightly cooler on Tuesday with the mountains and deserts slightly
+warmer. For Wednesday and Thursday, high pressure aloft over
+California will weaken and onshore flow across southern California
+will strengthen. This will spread cooling inland of around 5
+degrees on Wednesday and another 4 to 8 degrees on Thursday with
+Thursday high temperatures a few to around 5 degrees below
+average. High temperatures on Thursday will range from the 60s
+near the coast to the lower 70s for the valleys and inland Orange
+County with the lower deserts in the 80s.
 
+There is a slight chance of showers for Wednesday night through
+Thursday night but with large spread and low confidence in the
+details.
 
 &&
 
 .AVIATION...
-030500Z...Coast/Valleys/Foothills...BKN low clouds through most of
-the coastal basin currently with bases 2000-3000 ft in San Diego
-County, and above 3000 ft elsewhere. Low clouds will slowly clear
-out from north to south, with San Diego County clearing by 10-12Z as
-offshore flow moves in. Simultaneously, north to northeast winds
-pick up along coastal slopes, foothills, and downwind of the
-Cajon/Banning Passes into the Inland Empire. Gusts 35-50 kts
+031200Z...Coast/Valleys/Foothills...Iso areas of low clouds 1500-
+2000 ft MSL will lead to localized periods of MVFR through 13Z,
+followed by widespread VFR skies. North to northeast winds will
+continue to pick up along coastal slopes, foothills, and downwind of
+the Cajon/Banning Passes into the Inland Empire. Gusts 30-50 kts
 expected for coastal slopes of the San Bernardino/Santa Ana mtns and
 just below the Cajon Pass. Gusts 25-35 kts elsewhere. Winds weaken
 for all areas 03-06Z Sat with gusts over 20 kts becoming confined to
 coastal slopes.
 
-Mountain ridges/deserts...VFR conditions expected through Friday
-evening. Gusty westerly winds will weaken over the next few hours
-and turn north to northeast by 12Z. The exception will be the
-Coachella Valley where winds will remain strong with gusts 25-35 kts
-at KPSP and KTRM through early Friday afternoon.
+Mountain ridges/deserts...VFR conditions expected through tonight.
+North to northeast gusty winds through the Coachella Valley where
+with gusts 20-30 kts at KPSP and KTRM through early this afternoon.
 
 &&
 
-.MARINE...Northwest winds approaching 20 kts over outer
-coatal waters currently will weaken within a few hours.
-Otherwise, no hazardous marine conditions expected through Tuesday.
+.MARINE...No hazardous marine conditions expected through Tuesday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+&&
 
+.CLIMATE...
+Similar to Palm Springs, Borrego Springs also set or tied a large
+number of temperature records in March 2026, though with a period
+of record going back to 1965 versus 1893 for Palm Springs. Here
+are some of those details for Borrego Springs for March 2026:
+
+- The new warmest average temperature for March is now 77.3
+  degrees, exceeding the previous record of 72.7 in 1972 by 4.6
+  degrees! If that warmest average temperature for March of 77.3
+  had occurred in April, it would have been the second warmest
+  April on record.
+
+- The new warmest average MINIMUM temperature for March is now
+  62.4 degrees, exceeding the previous record of 57.7 in 2015 by
+  4.7 degrees!
+
+- The new warmest average MAXIMUM temperature for March is now
+  92.2 degrees, exceeding the previous record of 88.5 in 1972 by
+  3.7 degrees.
+
+- The new highest temperature for March is now 106, set on 20
+  March 2026. Prior to 2026, the record was 101 on 31 March 1989.
+  That 1989 record was exceeded on four days in March 2026, from
+  the 18th-21st, and also tied the pre-2026 record of 101 on the
+  27th of March 2026.
+
+- The new warmest daily minimum temperature for March is now 74,
+  set on 29 March 2026. Prior to 2026, the record was 70 on 7
+  March 1972. That 1972 record was exceeded on SIX days in March
+  2026 on the 17th, 19th-21st, 29th, and 31st and tied the
+  pre-2026 record of 70 on the 18th of March 2026.
+
+- Daily high temperature records were broken on 11 days and tied
+  on one day. Four of those new daily records exceeded the record
+  for the month prior to 2026. There was a 19-day stretch from the
+  19th to the 30th where every high temperature was within the
+  four warmest for the date.
+
+- Daily warmest low temperature records were broken on 13 days and
+  tied on another one day. The new March record of 74 on the 29th
+  exceeded the previous record for the date by 11 degrees! The new
+  records on the 1st and 19th exceeded the previous record for
+  the date by 9 degrees! Six of the new daily records exceeded the
+  record for the month prior to 2026 and two tied that pre-2026
+  record. There was a 20-day stretch from the 12th to the 31st
+  where every low temperature was within the five warmest for the
+  date.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 5 AM to 8 PM PDT Friday for Orange County
+CA...Wind Advisory until 8 PM PDT this evening for Orange County
      Inland Areas-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-San Gorgonio
      Pass near Banning-Santa Ana Mountains and Foothills.
-
-     Wind Advisory until 11 PM PDT this evening for Apple and Lucerne
-     Valleys-Coachella Valley-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -456,8 +491,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...KW
+PUBLIC...Martin
+AVIATION/MARINE...CSP
 
 
 </pre>
