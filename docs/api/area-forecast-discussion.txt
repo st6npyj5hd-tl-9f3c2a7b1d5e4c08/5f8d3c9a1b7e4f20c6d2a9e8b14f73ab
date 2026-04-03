@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T13:08:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T18:51:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-625
-FXUS66 KSGX 031148
+027
+FXUS66 KSGX 031657
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-448 AM PDT Fri Apr 3 2026
+957 AM PDT Fri Apr 3 2026
 
 .SYNOPSIS...
 Santa Ana winds will develop and strengthen this morning with
@@ -365,6 +365,8 @@ around 5 degrees below average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED 18Z AVIATION DISCUSSION BELOW...
 
 .SHORT TERM (Today through Sunday)...
 Offshore flow will develop and strengthen this morning with
@@ -407,15 +409,19 @@ details.
 &&
 
 .AVIATION...
-031200Z...Coast/Valleys/Foothills...Iso areas of low clouds 1500-
-2000 ft MSL will lead to localized periods of MVFR through 13Z,
-followed by widespread VFR skies. North to northeast winds will
-continue to pick up along coastal slopes, foothills, and downwind of
-the Cajon/Banning Passes into the Inland Empire. Gusts 30-50 kts
-expected for coastal slopes of the San Bernardino/Santa Ana mtns and
-just below the Cajon Pass. Gusts 25-35 kts elsewhere. Winds weaken
+031700Z...Coast/Valleys/Foothills...VFR conditions will persist with
+offshore flow. North to northeast winds will continue to pick up
+along coastal slopes, foothills, and downwind of the Cajon/Banning
+Passes into the Inland Empire. Gusts 30-50 kts expected for coastal
+slopes of the San Bernardino/Santa Ana mtns and just below the Cajon
+Pass, with strongest winds expected this afternoon through early
+evening (20Z Fri-02Z Sat). Gusts 25-35 kts elsewhere. Winds weaken
 for all areas 03-06Z Sat with gusts over 20 kts becoming confined to
-coastal slopes.
+coastal slopes. Some clouds will reform along the coastal areas
+after 09-11Z Sat with bases around 1500-2000 ft MSL, mainly for
+southern San Diego County. Some of these clouds may intermittently
+allow for skies to go SCT-BKN along the immediate coast, although
+not expecting CIGs/VIS impacts at TAF sites.
 
 Mountain ridges/deserts...VFR conditions expected through tonight.
 North to northeast gusty winds through the Coachella Valley where
@@ -424,8 +430,6 @@ with gusts 20-30 kts at KPSP and KTRM through early this afternoon.
 &&
 
 .MARINE...No hazardous marine conditions expected through Tuesday.
-
-&&
 
 &&
 
@@ -479,10 +483,17 @@ are some of those details for Borrego Springs for March 2026:
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 8 PM PDT this evening for Orange County
-     Inland Areas-San Bernardino County Mountains-San Bernardino
-     and Riverside County Valleys-The Inland Empire-San Gorgonio
+CA...Wind Advisory until 1 PM PDT Saturday for Orange County Inland
+     Areas-San Bernardino County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Gorgonio
      Pass near Banning-Santa Ana Mountains and Foothills.
 
 PZ...None.
@@ -492,7 +503,7 @@ PZ...None.
 $$
 
 PUBLIC...Martin
-AVIATION/MARINE...CSP
+AVIATION/MARINE...Stewey
 
 
 </pre>
