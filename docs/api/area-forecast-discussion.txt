@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T02:33:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-03T07:12:54+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-772
-FXUS66 KSGX 022349
+802
+FXUS66 KSGX 030444
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-449 PM PDT Thu Apr 2 2026
+944 PM PDT Thu Apr 2 2026
 
 .SYNOPSIS...
 Gusty west winds will continue over the mountains and into the
@@ -359,7 +359,7 @@ time of year. Periods of night and morning low clouds next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
+...UPDATED 06Z AVIATION AND MARINE DISCUSSIONS BELOW...
 
 At noon, visible satellite was showing widespread high cloud
 coverage from the coast to the deserts, with areas of low clouds
@@ -402,35 +402,33 @@ remains uncertainty in how the upper level pattern will shape up
 which will impact the temperature, wind, and precipitation
 forecast.
 
+
 &&
 
 .AVIATION...
-030000Z...Coast/Valleys/Foothills...SCT-BKN low clouds based 2500-
-4500 ft MSL through the coastal basin currently. Clouds will lower
-some and increase in coverage through this evening for San Diego
-County and the southern Inland Empire. Elsewhere clouds will slowly
-clear out through tonight as winds turn offshore. Low clouds
-eventually clear out of all areas around 09-12Z Fri. Simultaneously,
-north to northeast winds pick up along coastal slopes, foothills,
-and downwind of the Cajon/Banning Passes into the Inland Empire.
-Gusts 35-50 kts expected for coastal slopes of the San
-Bernardino/Santa Ana mtns and just below the Cajon Pass. Gusts 25-35
-kts elsewhere.
+030500Z...Coast/Valleys/Foothills...BKN low clouds through most of
+the coastal basin currently with bases 2000-3000 ft in San Diego
+County, and above 3000 ft elsewhere. Low clouds will slowly clear
+out from north to south, with San Diego County clearing by 10-12Z as
+offshore flow moves in. Simultaneously, north to northeast winds
+pick up along coastal slopes, foothills, and downwind of the
+Cajon/Banning Passes into the Inland Empire. Gusts 35-50 kts
+expected for coastal slopes of the San Bernardino/Santa Ana mtns and
+just below the Cajon Pass. Gusts 25-35 kts elsewhere. Winds weaken
+for all areas 03-06Z Sat with gusts over 20 kts becoming confined to
+coastal slopes.
 
 Mountain ridges/deserts...VFR conditions expected through Friday
-evening. Strong westerly winds with gusts 30-45 kts through passes,
-on desert slopes and locally into the High Desert through 06Z
-Friday. Gusts reaching 25-35 kts along the floor of the lower
-desert. Areas of BLDU expected with vis 3-5SM. Winds turn northeast
-early Friday morning and weaken for most areas. The exception will
-be the Coachella Valley with gusts 25-35 kts at KPSP and KTRM
-through early Friday afternoon.
+evening. Gusty westerly winds will weaken over the next few hours
+and turn north to northeast by 12Z. The exception will be the
+Coachella Valley where winds will remain strong with gusts 25-35 kts
+at KPSP and KTRM through early Friday afternoon.
 
 &&
 
-.MARINE...Northwest wind gusts will occasionally exceed 20 knots
-near San Clemente Island this afternoon and evening. Otherwise, no
-hazardous marine conditions expected through Tuesday.
+.MARINE...Northwest winds approaching 20 kts over outer
+coatal waters currently will weaken within a few hours.
+Otherwise, no hazardous marine conditions expected through Tuesday.
 
 &&
 
