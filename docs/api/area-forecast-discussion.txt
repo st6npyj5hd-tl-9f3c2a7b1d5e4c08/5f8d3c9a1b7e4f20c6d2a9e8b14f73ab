@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T02:25:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T07:04:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,28 +338,27 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-860
-FXUS66 KSGX 040008
+158
+FXUS66 KSGX 040403
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-508 PM PDT Fri Apr 3 2026
+903 PM PDT Fri Apr 3 2026
 
 .SYNOPSIS...
 Santa Ana winds have developed and are gusting 35-45 mph, locally
-up to 50 mph along and below the coastal slopes of the mountains
-and into the Inland Empire. The winds will weaken some this
-evening with more localized winds and gusts 35 to 40 mph
-continuing into the early afternoon Saturday. High temperatures
-have warmed today and will increase slightly Saturday with high
-temperatures 10 to 15 degrees above average in the coast and
-valleys. Inland areas will continue to warm on Sunday while
-coastal areas begin to cool with only slight changes for Monday
-and Tuesday. Wednesday and Thursday, high pressure aloft will
-weaken and onshore flow will strengthen. High temperatures will
-cool with Thursday high temperatures around 3 to 5 degrees below
-average.
+up to 65 mph along and below the coastal slopes of the mountains
+and into the Inland Empire. The winds will weaken somewhat
+overnight, with more localized winds and gusts 35 to 40 mph
+continuing into the early afternoon Saturday. Temperatures will
+increase slightly Saturday, with high temperatures 10 to 15
+degrees above average in the coast and valleys. Inland areas will
+continue to warm on Sunday while coastal areas begin to cool with
+only slight changes for Monday and Tuesday. Wednesday and
+Thursday, high pressure aloft will weaken and onshore flow will
+strengthen. High temperatures will cool with Thursday high
+temperatures around 3 to 5 degrees below average.
 
 &&
 
@@ -367,21 +366,24 @@ average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
-
-Today through Sunday...High pressure continues to build aloft over
-the area today, keeping the winds offshore and bringing in some
-warmer temperatures. Northeast winds have already peaked and will
-continue to slowly weaken into Saturday. Wind gusts around 35-50 mph
-will still be possible along and below the coastal slopes of the
-mountains through the early afternoon Saturday. Todays high
-temperatures will be in the 70s to mid 80s along the coast and into
-the valleys, 50s to upper 60s in the mountains, upper 60s to low 70s
-in the High deserts and upper 70s to upper 80s in Coachella Valley
-and the San Diego deserts. High temperatures Saturday will warm 3-5
-degrees over the area.Sunday, conditions west of the mountains will
-cool, with temperatures continuing to increase in the mountains and
+This evening...Santa Ana winds contiue but not as strong as
+earlier in the day. The windiest locations are currently reporting
+northeast winds gusting 40-47 mph. See our Public Information
+Statement (PNS) for a listing of the strongest gusts today. High
+temperatures today ranged from the 60s to the 80s in the coastal
+areas, the 70s to upper 80s in the valleys and the 80s in the low
 deserts.
+
+From previous discussion...
+Through Sunday...High pressure continues to build aloft over the
+area today, keeping the winds offshore and bringing in some warmer
+temperatures. Northeast winds have already peaked and will
+continue to slowly weaken into Saturday. Wind gusts around 35-50
+mph will still be possible along and below the coastal slopes of
+the mountains through the early afternoon Saturday. High temperatures
+Saturday will warm 3-5 degrees over the area. Sunday, conditions
+west of the mountains will cool, with temperatures continuing to
+increase in the mountains and deserts.
 
 Monday through Friday...Next week, high temperatures will fluctuate
 a few degrees going into Wednesday with mostly clear skies in the
@@ -391,16 +393,16 @@ Models are in some disagreement on how much precipitation and when
 exactly the rain will fall but, as of right now, there is a slight
 chance of showers early Thursday through Friday afternoon.
 
-
 &&
 
 .AVIATION...
-040015Z...Expecting VFR conditions to prevail through Saturday
-evening with offshore flow. North to northeast winds are currently
-gusting 25-40 kts along coastal slopes, foothills, through passes,
-and locally into the Inland Empire. Winds will weaken slightly this
-evening and overnight, but may briefly strengthen again 15-18Z Sat.
-Winds finally diminish by late Saturday afternoon.
+040500Z...Expecting VFR conditions to prevail through Saturday
+evening with offshore flow. Elevated north to northeast winds are
+currently gusting 25-35 kts along coastal slopes, foothills, through
+passes, and locally into the Inland Empire. Areal coverage of
+elevated winds decreases overnight for the Inland Empire, but
+increases again late Saturday morning. Winds finally diminish for
+all areas late Saturday afternoon.
 
 There is a chance (40-50%) for a small area of BKN low clouds to
 develop over coastal San Diego County (near KSAN) from 09-15Z Sat.
@@ -416,7 +418,6 @@ If low clouds develop, bases will be 1500-2500 ft MSL.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -431,7 +432,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
+PUBLIC...CO/PG
 AVIATION/MARINE...KW
 
 
