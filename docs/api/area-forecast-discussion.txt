@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T13:00:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T18:46:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-245
-FXUS66 KSGX 041148
+880
+FXUS66 KSGX 041719
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-448 AM PDT Sat Apr 4 2026
+1019 AM PDT Sat Apr 4 2026
 
 .SYNOPSIS...
 Weak Santa Ana winds will continue this morning. Warmer today with
@@ -408,20 +408,24 @@ more for the mountains westward.
 &&
 
 .AVIATION...
-041200Z...Iso patches of low clouds 300-700 ft MSL have a 30% chance
-to impact coastal sites through 15Z this morning. Any cig/vis
-impacts are expected to be brief before scattering out again. Better
-chances for low clouds 400-800 ft MSL to impact coastal areas after
-10Z Sun, best chances (50-60% chance) for southern SD Co vcnty KSAN.
+041730Z...Iso low clouds and FG (vis 1 SM or less) through the
+afternoon along the coast, with FEW high clouds elsewhere. Increased
+chances for more widespread low clouds 400-800 ft MSL to impact
+coastal areas after 10Z Sun, best chances (50-60% chance) for
+southern SD Co vcnty KSAN. Vis restrictions of 2-5SM in BR possible,
+with restrictions 1 SM or less near higher coastal terrain. Any low
+clouds and vis restrictions should scatter 16-18Z Sun.
 
 Elevated north to northeast winds gusting 20-35 kts along coastal
 slopes, foothills, through passes, and locally into the Inland
-Empire continues through this afternoon, before gradually decreasing
-after 19Z today.
+Empire through 21Z.
 
 &&
 
-.MARINE...No hazardous marine conditions expected through Wednesday.
+.MARINE...
+No hazardous marine conditions expected through Wednesday. Winds and
+seas may increase late next week due to an incoming weather system.
+Low confidence in details.
 
 &&
 
@@ -445,7 +449,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...CSP
+AVIATION/MARINE...CO
 
 
 </pre>
