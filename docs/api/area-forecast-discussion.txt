@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T07:04:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T13:00:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,27 +338,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-158
-FXUS66 KSGX 040403
+245
+FXUS66 KSGX 041148
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-903 PM PDT Fri Apr 3 2026
+448 AM PDT Sat Apr 4 2026
 
 .SYNOPSIS...
-Santa Ana winds have developed and are gusting 35-45 mph, locally
-up to 65 mph along and below the coastal slopes of the mountains
-and into the Inland Empire. The winds will weaken somewhat
-overnight, with more localized winds and gusts 35 to 40 mph
-continuing into the early afternoon Saturday. Temperatures will
-increase slightly Saturday, with high temperatures 10 to 15
-degrees above average in the coast and valleys. Inland areas will
-continue to warm on Sunday while coastal areas begin to cool with
-only slight changes for Monday and Tuesday. Wednesday and
-Thursday, high pressure aloft will weaken and onshore flow will
-strengthen. High temperatures will cool with Thursday high
-temperatures around 3 to 5 degrees below average.
+Weak Santa Ana winds will continue this morning. Warmer today with
+high temperatures 10 to 15 degrees above normal west of the
+mountains. Inland areas will continue to warm on Sunday while
+coastal areas begin to cool, followed by only minor changes for
+Monday and Tuesday. Minor cooling Wednesday, then more significant
+cooling with a 15-30% chance of precipitation Thursday and Friday.
 
 &&
 
@@ -366,47 +360,64 @@ temperatures around 3 to 5 degrees below average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This evening...Santa Ana winds contiue but not as strong as
-earlier in the day. The windiest locations are currently reporting
-northeast winds gusting 40-47 mph. See our Public Information
-Statement (PNS) for a listing of the strongest gusts today. High
-temperatures today ranged from the 60s to the 80s in the coastal
-areas, the 70s to upper 80s in the valleys and the 80s in the low
-deserts.
+Morning satellite imagery shows a small patch of low clouds over
+southern Orange County with just a few high clouds elsewhere.
+Surface pressure gradients remain weakly offshore, currently
+around -3.9 mb SAN-DAG and -9.9 SAN-TPH. Northeast to east winds
+are gusting to around 25-40 mph below the passes and canyons and
+will continue through the morning, gradually weakening as
+pressure gradients relax. Otherwise warmer today as upper level
+ridging builds in, especially west of the mountains where offshore
+flow will aid in warming. In general, highs will be around 10-15
+degrees above normal for the coastal foothills westward, and
+around 3-6 degrees above normal elsewhere. A few locations in the
+valleys and inland Orange County could approach 90 degrees (30%
+chance of exceeding 90 degrees).
 
-From previous discussion...
-Through Sunday...High pressure continues to build aloft over the
-area today, keeping the winds offshore and bringing in some warmer
-temperatures. Northeast winds have already peaked and will
-continue to slowly weaken into Saturday. Wind gusts around 35-50
-mph will still be possible along and below the coastal slopes of
-the mountains through the early afternoon Saturday. High temperatures
-Saturday will warm 3-5 degrees over the area. Sunday, conditions
-west of the mountains will cool, with temperatures continuing to
-increase in the mountains and deserts.
+Onshore flow returns for Sunday with a coastal eddy spinning up.
+This will bring a resurgence of low clouds and fog at the coast,
+potentially dense over the higher coastal terrain as low clouds
+spread inland Sunday morning. The upper level ridge begins to
+shift eastward, and with an afternoon sea breeze this will bring
+cooling west of the mountains but slightly warmer conditions
+inland. A very weak short wave moves through on Monday for minor
+cooling and a slight deepening of the marine layer, followed by
+weak ridging on Tuesday before an upper level closed low begins to
+approach the West Coast on Wednesday. Overall minimal day to day
+temperature variations for the first half of the work week with
+high temperatures around 5-10 degrees above normal and marine
+layer low clouds extending into the western valleys each night and
+morning.
 
-Monday through Friday...Next week, high temperatures will fluctuate
-a few degrees going into Wednesday with mostly clear skies in the
-afternoon Tuesday and Wednesday. Low pressure looks to move in
-towards the end of next week, increasing chances for precipitation.
-Models are in some disagreement on how much precipitation and when
-exactly the rain will fall but, as of right now, there is a slight
-chance of showers early Thursday through Friday afternoon.
+More uncertainty later in the week as ensembles begin to diverge
+in the track of the upper low. The faster end of the guidance is
+composed of about 43% of the ensemble space, bringing
+precipitation to So Cal as early as Wednesday night. On the
+opposite end, the slowest cluster, about 17% of the ensemble
+space, the onset of precipitation doesn`t occur until Thursday
+evening and lasts into Saturday. Given the large spread in the
+timing, PoPs remain relatively low (15-30%) for each period
+Thursday morning through Friday evening. Almost every member of
+the global ensembles has at least some precipitation, so it`s just
+a matter of narrowing down the window of when it will occur.
+Precipitation amounts also vary wildly, but that is to be expected
+5-6 days out. For 48 hour period from 4 AM Thu through 4 AM Sat,
+the NBM has a 15-35% chance of total accumulations 0.25 inch or
+more for the mountains westward.
 
 &&
 
 .AVIATION...
-040500Z...Expecting VFR conditions to prevail through Saturday
-evening with offshore flow. Elevated north to northeast winds are
-currently gusting 25-35 kts along coastal slopes, foothills, through
-passes, and locally into the Inland Empire. Areal coverage of
-elevated winds decreases overnight for the Inland Empire, but
-increases again late Saturday morning. Winds finally diminish for
-all areas late Saturday afternoon.
+041200Z...Iso patches of low clouds 300-700 ft MSL have a 30% chance
+to impact coastal sites through 15Z this morning. Any cig/vis
+impacts are expected to be brief before scattering out again. Better
+chances for low clouds 400-800 ft MSL to impact coastal areas after
+10Z Sun, best chances (50-60% chance) for southern SD Co vcnty KSAN.
 
-There is a chance (40-50%) for a small area of BKN low clouds to
-develop over coastal San Diego County (near KSAN) from 09-15Z Sat.
-If low clouds develop, bases will be 1500-2500 ft MSL.
+Elevated north to northeast winds gusting 20-35 kts along coastal
+slopes, foothills, through passes, and locally into the Inland
+Empire continues through this afternoon, before gradually decreasing
+after 19Z today.
 
 &&
 
@@ -418,12 +429,13 @@ If low clouds develop, bases will be 1500-2500 ft MSL.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 1 PM PDT Saturday for Orange County Inland
-     Areas-San Bernardino County Mountains-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Gorgonio
+CA...Wind Advisory until 1 PM PDT this afternoon for Orange County
+     Inland Areas-San Bernardino County Mountains-San Bernardino
+     and Riverside County Valleys-The Inland Empire-San Gorgonio
      Pass near Banning-Santa Ana Mountains and Foothills.
 
 PZ...None.
@@ -432,8 +444,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO/PG
-AVIATION/MARINE...KW
+PUBLIC...SS
+AVIATION/MARINE...CSP
 
 
 </pre>
