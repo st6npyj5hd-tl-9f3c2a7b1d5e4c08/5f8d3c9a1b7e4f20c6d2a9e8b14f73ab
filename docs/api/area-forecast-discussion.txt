@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T07:10:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T13:02:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,24 +337,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-709
-FXUS66 KSGX 050425
+591
+FXUS66 KSGX 051158
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-925 PM PDT Sat Apr 4 2026
+458 AM PDT Sun Apr 5 2026
 
 .SYNOPSIS...
-Warm and dry conditions will continue into Sunday. Temperatures
-will fluctuate a few degrees each day through mid-week, but mostly
-stay above average for this time of year. Low clouds and fog
-expected Sunday morning and again Monday morning along the coast.
-Pattern change expected for the end of next week, with cooler,
-windier, and wetter conditions.
+Warm and dry today. Temperatures will fluctuate a few degrees
+each day through Wednesday, remaining around 5 to 10 degrees above
+normal. Patchy fog is possible this morning along the coast,
+followed by more widespread night and morning low clouds the
+remainder of the week. Much cooler with increasing chances of
+precipitation and gusty onshore winds Thursday through Saturday.
 
 &&
 
@@ -362,81 +364,69 @@ windier, and wetter conditions.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Evening Update...
+...Aviation/marine discussion updated...
 
-Mostly clear skies are seen over the region. The low cloud
-forecast continues to look tricky this evening. Skies over the
-water are clear for now, but low clouds should start to develop
-later in the night closer to the coast. If any clouds do form,
-expect reduced visibility. Areas of high clouds will move into the
-area on Sunday with minimal changes in temperatures expected
-throught the middle of the week. We`ll continue to keep an eye on
-the potential for a wetter weather pattern later next week as a
-low pressure system nears the area.
+Surface dew points have increased into the mid 50s along parts of
+the coast this morning, but so far no fog development is evident
+on satellite imagery. Surface pressure gradients are very weakly
+offshore, around -0.2 mb SAN-DAG, and trending onshore, which may
+allow for patchy fog to form along the coast later this morning.
+Otherwise scattered high clouds to our southwest will begin to
+spread into the region later this afternoon. With the return of
+onshore flow, some cooling will occur west of the mountains today
+with minor warming in the deserts. High temperatures will be
+around 10 degrees above normal across much of the area - in the
+80s in the valleys and high desert and 90s in the low desert.
 
+The upper level ridge will continue to shift east and break down
+on Monday with a weak short wave trough moving across So Cal. This
+is followed by weak transitory ridging on Tuesday, which weakens
+on Wednesday. Minor daily fluctuations in temperatures will occur
+with highs around 5-10 degrees above normal. More persistent
+onshore flow will allow the marine layer to become more
+established, with more widespread low clouds and fog across the
+coastal areas and western valleys each night and morning,
+potentially extending into the far west and southern parts of the
+Inland Empire by Wednesday morning.
 
-.Previous Discussion (1247 PM Saturday)...
-
-Warm and dry conditions will continue for Sunday although the
-coast is expected to see a few degrees of cooling, with the
-mountains and deserts warming a few degrees. Areas of fog are
-expected to become more widespread overnight into Sunday morning.
-Fog may be locally dense, most likely near higher coastal terrain.
-Low clouds and fog are expected Sunday night into Monday morning
-with local high resolution guidance indicating a slight deepening
-of the marine layer with the passage of a weak shortwave trough.
-That deepening will keep the fog with the lowest visibility
-confined to the coastal mesas/higher terrain.
-
-Highs on Monday will be a few degrees cooler across the area due to
-that shortwave trough. Breezy westerly winds may develop over the
-mountains and locally into the deserts, but no impacts expected.
-Weak ridging will build over California on Tuesday, which will
-bring a degree or two of warming to some inland locations. The
-ridge will quickly be pushed aside on Wednesday as stronger
-troughing sets up over the Eastern Pacific.
-
-There remains quite a bit of uncertainty in the ensemble guidance in
-regards to the timing of the low`s passage and expected
-precipitation amounts. Members of the GEFS are showing a quicker
-passages of the low with the bulk of the precipitation centered on
-Thursday/Friday, while the majority of the ensemble members of the
-ECMWF are showing a slower progression and the bulk of the
-precipitation centered over next weekend. Both of the global
-models have quite a bit of spread in precipitation amounts as
-well. In addition to timing of rainfall, the forward progression
-of the low will influence when the strongest winds and coldest
-conditions will occur. It`s possible the mountains will see some
-late season snow out of this system. There still remains
-considerable uncertainty in snow levels with NBM guidance
-indicating snow levels may range from 6500-8000 feet Thursday
-through Saturday.
+There is still a lot of uncertainty in the timing of the upper
+trough later in the week, though ensemble consensus has trended
+slower with its arrival. Around 26% of the ensemble space,
+comprised mostly of the GEFS, is faster with the eastward
+progression of the upper low, bringing in light precipitation as
+early as Thursday. By Friday, all ensemble members have the low in
+a position that would bring us precipitation, though again the
+GEFS with its faster track would put the bulk of the precipitation
+on Friday, while the slower EC and Canadian ensembles are focused
+more around late Friday into Saturday. There remains considerable
+spread in precipitation amounts as well. NBM mean accumulations
+for the 48 hr period from 5 AM Friday through 5 AM Sunday has
+around 0.25-0.50 inch for the mountains westward with local
+amounts near 0.75 inch on the coastal slopes, around 0.10-0.20
+inch for the high desert, and less than 0.10 inch in the low
+desert. NBM snow level ranges from around 7000-8000 ft Friday and
+Saturday. In addition to precipitation, gusty southwest to west
+winds and much cooler conditions are expected late in the week
+with high temperatures around 5 to 10 degrees below normal by
+Saturday.
 
 &&
 
 .AVIATION...
-050415Z...Mostly clear skies through this evening. Chances for low
-clouds 400-800 ft MSL to impact coastal areas after 10Z Sun, best
-chances (50-60% chance) for southern SD Co VCTY KSAN/KCRQ. Lower
-chances (20% chance) for cigs to impact KSNA. Vis restrictions of 2-
-5SM in BR possible, with restrictions 1 SM or less near higher
-coastal terrain. Any low clouds and vis restrictions should scatter
-16-18Z Sun with BKN-SCT clouds over 20K ft MSL for much of Sunday
-elsewhere.
+051200Z...Generally VFR with increasing clouds AOA 15k ft today. Low
+chance (20%) for low clouds 400-800 ft MSL to briefly impact coastal
+sites through 15Z this morning, but higher confidence is in
+continued VFR conditions as weak offshore winds keep conditions dry.
+Higher confidence in more widespread low clouds 800-1200 ft MSL
+spreading inland tonight after 08Z, vis restrictions 2-5 SM over
+higher valley terrain.
 
 &&
 
 .MARINE...
-No hazardous marine conditions expected through Wednesday. Winds and
-seas may increase late next week due to an incoming weather system.
-Low confidence in details.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+No hazardous marine conditions expected through Thursday. Winds and
+seas may increase late week due to an incoming weather system. Low
+confidence in details at this point.
 
 &&
 
@@ -448,9 +438,8 @@ PZ...None.
 
 $$
 
-UPDATE...APR
-PUBLIC...CO
-AVIATION/MARINE...APR
+PUBLIC...SS
+AVIATION/MARINE...CSP
 
 
 </pre>
