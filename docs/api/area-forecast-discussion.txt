@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T02:40:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T07:10:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-295
-FXUS66 KSGX 042322
+709
+FXUS66 KSGX 050425
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-422 PM PDT Sat Apr 4 2026
+925 PM PDT Sat Apr 4 2026
 
 .SYNOPSIS...
 Warm and dry conditions will continue into Sunday. Temperatures
@@ -362,7 +362,20 @@ windier, and wetter conditions.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
+.Evening Update...
+
+Mostly clear skies are seen over the region. The low cloud
+forecast continues to look tricky this evening. Skies over the
+water are clear for now, but low clouds should start to develop
+later in the night closer to the coast. If any clouds do form,
+expect reduced visibility. Areas of high clouds will move into the
+area on Sunday with minimal changes in temperatures expected
+throught the middle of the week. We`ll continue to keep an eye on
+the potential for a wetter weather pattern later next week as a
+low pressure system nears the area.
+
+
+.Previous Discussion (1247 PM Saturday)...
 
 Warm and dry conditions will continue for Sunday although the
 coast is expected to see a few degrees of cooling, with the
@@ -402,14 +415,14 @@ through Saturday.
 &&
 
 .AVIATION...
-042320Z...Mostly clear skies through this evening. Chances
-increasing for low clouds 400-800 ft MSL to impact coastal areas
-after 09Z Sun, best chances (60-70% chance) for southern SD Co VCTY
-KSAN/KCRQ. Lower chances (20-30% chance) for cigs to impact KSNA.
-Vis restrictions of 2-5SM in BR possible, with restrictions 1 SM or
-less near higher coastal terrain. Any low clouds and vis
-restrictions should scatter 16-18Z Sun with BKN-SCT clouds over 20K
-ft MSL for much of Sunday elsewhere.
+050415Z...Mostly clear skies through this evening. Chances for low
+clouds 400-800 ft MSL to impact coastal areas after 10Z Sun, best
+chances (50-60% chance) for southern SD Co VCTY KSAN/KCRQ. Lower
+chances (20% chance) for cigs to impact KSNA. Vis restrictions of 2-
+5SM in BR possible, with restrictions 1 SM or less near higher
+coastal terrain. Any low clouds and vis restrictions should scatter
+16-18Z Sun with BKN-SCT clouds over 20K ft MSL for much of Sunday
+elsewhere.
 
 &&
 
@@ -435,6 +448,7 @@ PZ...None.
 
 $$
 
+UPDATE...APR
 PUBLIC...CO
 AVIATION/MARINE...APR
 
