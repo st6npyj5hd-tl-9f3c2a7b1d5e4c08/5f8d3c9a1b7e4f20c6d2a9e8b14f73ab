@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-04T18:46:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T02:40:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,24 +335,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-880
-FXUS66 KSGX 041719
+295
+FXUS66 KSGX 042322
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1019 AM PDT Sat Apr 4 2026
+422 PM PDT Sat Apr 4 2026
 
 .SYNOPSIS...
-Weak Santa Ana winds will continue this morning. Warmer today with
-high temperatures 10 to 15 degrees above normal west of the
-mountains. Inland areas will continue to warm on Sunday while
-coastal areas begin to cool, followed by only minor changes for
-Monday and Tuesday. Minor cooling Wednesday, then more significant
-cooling with a 15-30% chance of precipitation Thursday and Friday.
+Warm and dry conditions will continue into Sunday. Temperatures
+will fluctuate a few degrees each day through mid-week, but mostly
+stay above average for this time of year. Low clouds and fog
+expected Sunday morning and again Monday morning along the coast.
+Pattern change expected for the end of next week, with cooler,
+windier, and wetter conditions.
 
 &&
 
@@ -360,65 +362,54 @@ cooling with a 15-30% chance of precipitation Thursday and Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Morning satellite imagery shows a small patch of low clouds over
-southern Orange County with just a few high clouds elsewhere.
-Surface pressure gradients remain weakly offshore, currently
-around -3.9 mb SAN-DAG and -9.9 SAN-TPH. Northeast to east winds
-are gusting to around 25-40 mph below the passes and canyons and
-will continue through the morning, gradually weakening as
-pressure gradients relax. Otherwise warmer today as upper level
-ridging builds in, especially west of the mountains where offshore
-flow will aid in warming. In general, highs will be around 10-15
-degrees above normal for the coastal foothills westward, and
-around 3-6 degrees above normal elsewhere. A few locations in the
-valleys and inland Orange County could approach 90 degrees (30%
-chance of exceeding 90 degrees).
+...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
 
-Onshore flow returns for Sunday with a coastal eddy spinning up.
-This will bring a resurgence of low clouds and fog at the coast,
-potentially dense over the higher coastal terrain as low clouds
-spread inland Sunday morning. The upper level ridge begins to
-shift eastward, and with an afternoon sea breeze this will bring
-cooling west of the mountains but slightly warmer conditions
-inland. A very weak short wave moves through on Monday for minor
-cooling and a slight deepening of the marine layer, followed by
-weak ridging on Tuesday before an upper level closed low begins to
-approach the West Coast on Wednesday. Overall minimal day to day
-temperature variations for the first half of the work week with
-high temperatures around 5-10 degrees above normal and marine
-layer low clouds extending into the western valleys each night and
-morning.
+Warm and dry conditions will continue for Sunday although the
+coast is expected to see a few degrees of cooling, with the
+mountains and deserts warming a few degrees. Areas of fog are
+expected to become more widespread overnight into Sunday morning.
+Fog may be locally dense, most likely near higher coastal terrain.
+Low clouds and fog are expected Sunday night into Monday morning
+with local high resolution guidance indicating a slight deepening
+of the marine layer with the passage of a weak shortwave trough.
+That deepening will keep the fog with the lowest visibility
+confined to the coastal mesas/higher terrain.
 
-More uncertainty later in the week as ensembles begin to diverge
-in the track of the upper low. The faster end of the guidance is
-composed of about 43% of the ensemble space, bringing
-precipitation to So Cal as early as Wednesday night. On the
-opposite end, the slowest cluster, about 17% of the ensemble
-space, the onset of precipitation doesn`t occur until Thursday
-evening and lasts into Saturday. Given the large spread in the
-timing, PoPs remain relatively low (15-30%) for each period
-Thursday morning through Friday evening. Almost every member of
-the global ensembles has at least some precipitation, so it`s just
-a matter of narrowing down the window of when it will occur.
-Precipitation amounts also vary wildly, but that is to be expected
-5-6 days out. For 48 hour period from 4 AM Thu through 4 AM Sat,
-the NBM has a 15-35% chance of total accumulations 0.25 inch or
-more for the mountains westward.
+Highs on Monday will be a few degrees cooler across the area due to
+that shortwave trough. Breezy westerly winds may develop over the
+mountains and locally into the deserts, but no impacts expected.
+Weak ridging will build over California on Tuesday, which will
+bring a degree or two of warming to some inland locations. The
+ridge will quickly be pushed aside on Wednesday as stronger
+troughing sets up over the Eastern Pacific.
+
+There remains quite a bit of uncertainty in the ensemble guidance in
+regards to the timing of the low`s passage and expected
+precipitation amounts. Members of the GEFS are showing a quicker
+passages of the low with the bulk of the precipitation centered on
+Thursday/Friday, while the majority of the ensemble members of the
+ECMWF are showing a slower progression and the bulk of the
+precipitation centered over next weekend. Both of the global
+models have quite a bit of spread in precipitation amounts as
+well. In addition to timing of rainfall, the forward progression
+of the low will influence when the strongest winds and coldest
+conditions will occur. It`s possible the mountains will see some
+late season snow out of this system. There still remains
+considerable uncertainty in snow levels with NBM guidance
+indicating snow levels may range from 6500-8000 feet Thursday
+through Saturday.
 
 &&
 
 .AVIATION...
-041730Z...Iso low clouds and FG (vis 1 SM or less) through the
-afternoon along the coast, with FEW high clouds elsewhere. Increased
-chances for more widespread low clouds 400-800 ft MSL to impact
-coastal areas after 10Z Sun, best chances (50-60% chance) for
-southern SD Co vcnty KSAN. Vis restrictions of 2-5SM in BR possible,
-with restrictions 1 SM or less near higher coastal terrain. Any low
-clouds and vis restrictions should scatter 16-18Z Sun.
-
-Elevated north to northeast winds gusting 20-35 kts along coastal
-slopes, foothills, through passes, and locally into the Inland
-Empire through 21Z.
+042320Z...Mostly clear skies through this evening. Chances
+increasing for low clouds 400-800 ft MSL to impact coastal areas
+after 09Z Sun, best chances (60-70% chance) for southern SD Co VCTY
+KSAN/KCRQ. Lower chances (20-30% chance) for cigs to impact KSNA.
+Vis restrictions of 2-5SM in BR possible, with restrictions 1 SM or
+less near higher coastal terrain. Any low clouds and vis
+restrictions should scatter 16-18Z Sun with BKN-SCT clouds over 20K
+ft MSL for much of Sunday elsewhere.
 
 &&
 
@@ -437,19 +428,15 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 1 PM PDT this afternoon for Orange County
-     Inland Areas-San Bernardino County Mountains-San Bernardino
-     and Riverside County Valleys-The Inland Empire-San Gorgonio
-     Pass near Banning-Santa Ana Mountains and Foothills.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...CO
+PUBLIC...CO
+AVIATION/MARINE...APR
 
 
 </pre>
