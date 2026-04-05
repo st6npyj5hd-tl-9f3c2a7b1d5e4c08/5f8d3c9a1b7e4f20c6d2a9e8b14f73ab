@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T13:02:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T18:48:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-591
-FXUS66 KSGX 051158
+484
+FXUS66 KSGX 051734
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-458 AM PDT Sun Apr 5 2026
+1034 AM PDT Sun Apr 5 2026
 
 .SYNOPSIS...
 Warm and dry today. Temperatures will fluctuate a few degrees
@@ -413,13 +413,12 @@ Saturday.
 &&
 
 .AVIATION...
-051200Z...Generally VFR with increasing clouds AOA 15k ft today. Low
-chance (20%) for low clouds 400-800 ft MSL to briefly impact coastal
-sites through 15Z this morning, but higher confidence is in
-continued VFR conditions as weak offshore winds keep conditions dry.
-Higher confidence in more widespread low clouds 800-1200 ft MSL
-spreading inland tonight after 08Z, vis restrictions 2-5 SM over
-higher valley terrain.
+051800Z...Generally VFR with increasing clouds AOA 15k ft today.
+There is higher confidence in more widespread low clouds 800-1200 ft
+MSL spreading inland tonight after 08Z later this evening, vis
+restrictions 2-5 SM over higher valley terrain. These low clouds
+will begin to scatter out tomorrow from 16-18Z Monday. Clouds AOA
+15k ft will also decrease tomorrow.
 
 &&
 
@@ -427,6 +426,13 @@ higher valley terrain.
 No hazardous marine conditions expected through Thursday. Winds and
 seas may increase late week due to an incoming weather system. Low
 confidence in details at this point.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -439,7 +445,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...CSP
+AVIATION/MARINE...Stewey
 
 
 </pre>
