@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-05T18:48:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-06T02:41:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,21 +342,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-484
-FXUS66 KSGX 051734
+187
+FXUS66 KSGX 052338
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1034 AM PDT Sun Apr 5 2026
+438 PM PDT Sun Apr 5 2026
 
 .SYNOPSIS...
-Warm and dry today. Temperatures will fluctuate a few degrees
-each day through Wednesday, remaining around 5 to 10 degrees above
-normal. Patchy fog is possible this morning along the coast,
-followed by more widespread night and morning low clouds the
-remainder of the week. Much cooler with increasing chances of
-precipitation and gusty onshore winds Thursday through Saturday.
+Patchy fog may develop tonight into Monday morning along the coast,
+with the potential for locally dense fog on the coastal mesas. Low
+clouds and fog will continue most nights and mornings this week, but
+the marine layer will become deeper, lessening the chances for dense
+fog. Temperatures will fluctuate a few degrees each day through mid-
+week, but mostly stay above average for this time of year. Pattern
+change expected for the end of next week, with cooler, windier, and
+wetter conditions expected.
 
 &&
 
@@ -364,61 +366,59 @@ precipitation and gusty onshore winds Thursday through Saturday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Aviation/marine discussion updated...
+...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
 
-Surface dew points have increased into the mid 50s along parts of
-the coast this morning, but so far no fog development is evident
-on satellite imagery. Surface pressure gradients are very weakly
-offshore, around -0.2 mb SAN-DAG, and trending onshore, which may
-allow for patchy fog to form along the coast later this morning.
-Otherwise scattered high clouds to our southwest will begin to
-spread into the region later this afternoon. With the return of
-onshore flow, some cooling will occur west of the mountains today
-with minor warming in the deserts. High temperatures will be
-around 10 degrees above normal across much of the area - in the
-80s in the valleys and high desert and 90s in the low desert.
+Periods of high cloud coverage are expected to continue into
+Monday. The pressure gradient is trending more onshore compared to
+noon yesterday with the pressure gradient -1.1 mb from SAN-DAG.
+The trend is expected to continue to skew more onshore, which may
+allow for patchy low clouds and fog to develop tonight into Monday
+morning. One potential hiccup to fog development could be how
+widespread the high cloud coverage is. More widespread high clouds
+will lessen fog chances and less will increase them. If fog
+develops, it may be locally dense. The most likely place for dense
+fog to develop is near higher coastal terrain. Low clouds and fog
+are expected to remain present each night and morning for much of
+this week but a deepening marine layer will limit chances for
+coastal dense fog.
 
-The upper level ridge will continue to shift east and break down
-on Monday with a weak short wave trough moving across So Cal. This
-is followed by weak transitory ridging on Tuesday, which weakens
-on Wednesday. Minor daily fluctuations in temperatures will occur
-with highs around 5-10 degrees above normal. More persistent
-onshore flow will allow the marine layer to become more
-established, with more widespread low clouds and fog across the
-coastal areas and western valleys each night and morning,
-potentially extending into the far west and southern parts of the
-Inland Empire by Wednesday morning.
+Highs on Monday are expected to be a few degrees cooler across the
+area due to a passing  shortwave trough. Breezy westerly winds may
+develop over the mountains and locally into the deserts, but no
+impacts expected. Weak ridging will build over California on
+Tuesday, which will bring a degree or two of warming to some inland
+locations. The ridge will quickly be pushed aside on Wednesday as
+stronger troughing sets up over the Eastern Pacific.
 
-There is still a lot of uncertainty in the timing of the upper
-trough later in the week, though ensemble consensus has trended
-slower with its arrival. Around 26% of the ensemble space,
-comprised mostly of the GEFS, is faster with the eastward
-progression of the upper low, bringing in light precipitation as
-early as Thursday. By Friday, all ensemble members have the low in
-a position that would bring us precipitation, though again the
-GEFS with its faster track would put the bulk of the precipitation
-on Friday, while the slower EC and Canadian ensembles are focused
-more around late Friday into Saturday. There remains considerable
-spread in precipitation amounts as well. NBM mean accumulations
-for the 48 hr period from 5 AM Friday through 5 AM Sunday has
-around 0.25-0.50 inch for the mountains westward with local
-amounts near 0.75 inch on the coastal slopes, around 0.10-0.20
-inch for the high desert, and less than 0.10 inch in the low
-desert. NBM snow level ranges from around 7000-8000 ft Friday and
-Saturday. In addition to precipitation, gusty southwest to west
-winds and much cooler conditions are expected late in the week
-with high temperatures around 5 to 10 degrees below normal by
-Saturday.
+There remains quite a bit of uncertainty in the ensemble guidance in
+regards to the timing of the low`s passage and expected
+precipitation amounts. Overall, timing of the onset of precipitation
+has trended later, but members of the GEFS are still showing a
+quicker passages of the low with the bulk of the precipitation
+centered on Friday/Saturday, while the majority of the ensemble
+members of the ECMWF are showing a slower progression and the bulk
+of the precipitation centered Saturday/Sunday. Both of the global
+models have quite a bit of spread in precipitation amounts as well.
+NBM probabilities of 48 hour rainfall totals (5 am Friday-5am
+Sunday) exceeding 0.50" are highest in the mountains at 50-60
+percent and around 20 percent for the coast and valleys. The High
+Desert has about a 10 percent chance with less than 5 percent chance
+for the low desert. In addition to timing of rainfall, the forward
+progression of the low will influence when the strongest winds and
+coldest conditions will occur. Some snow is expected out of this
+system but there still remains considerable uncertainty in snow
+levels. The spread in snow level guidance from the NBM ranges from
+7000-9000 ft on Friday and 6500-7500 ft on Saturday and Sunday.
 
 &&
 
 .AVIATION...
-051800Z...Generally VFR with increasing clouds AOA 15k ft today.
-There is higher confidence in more widespread low clouds 800-1200 ft
-MSL spreading inland tonight after 08Z later this evening, vis
-restrictions 2-5 SM over higher valley terrain. These low clouds
-will begin to scatter out tomorrow from 16-18Z Monday. Clouds AOA
-15k ft will also decrease tomorrow.
+052340Z...Generally VFR with BKN-OVC clouds AOA 15k ft through
+tonight, not as widespread on Monday. Confidence is moderate on low
+clouds 1200-1800 ft MSL impacting coastal TAF sites after 10Z
+tonight. Highest chance for low clouds is across San Diego County.
+Vis restrictions 2-5 SM over higher coastal terrain. Any low clouds
+near the coast that form will begin to scatter out 16-18Z Monday.
 
 &&
 
@@ -444,8 +444,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Stewey
+PUBLIC...CO
+AVIATION/MARINE...APR
 
 
 </pre>
