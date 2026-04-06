@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-06T02:41:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-06T07:46:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-187
-FXUS66 KSGX 052338
+428
+FXUS66 KSGX 060446
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-438 PM PDT Sun Apr 5 2026
+946 PM PDT Sun Apr 5 2026
 
 .SYNOPSIS...
 Patchy fog may develop tonight into Monday morning along the coast,
@@ -366,7 +366,25 @@ wetter conditions expected.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED 00Z AVIATION AND MARINE DISCUSSIONS BELOW...
+.Evening Update...
+
+Current satellite imagery shows widespread high clouds over
+Southern California this evening with more cloud cover upstream.
+This may hinder low cloud development for coastal areas tonight
+despite increasing onshore flow. The latest model guidance has
+backed off on both the probability and coverage of low clouds. If
+low clouds manage to develop, patchy fog will be possible along
+elevated coastal terrain.
+
+Otherwise, the forecast is still on track with increasing onshore
+flow expected through the workweek ahead of a weekend storm
+system. GEFS and ECMWF ensembles continue to disagree on timing
+of the heaviest precip as described in the previous discussion.
+Otherwise, the only notable change is a continued trend toward
+slightly wetter solutions. NBM probability of exceeding 0.5" of
+precipitation is now around 30-40% for most of the coastal basin.
+
+.Previous Discussion (1215 PM Sunday)...
 
 Periods of high cloud coverage are expected to continue into
 Monday. The pressure gradient is trending more onshore compared to
@@ -410,22 +428,24 @@ system but there still remains considerable uncertainty in snow
 levels. The spread in snow level guidance from the NBM ranges from
 7000-9000 ft on Friday and 6500-7500 ft on Saturday and Sunday.
 
+
 &&
 
 .AVIATION...
-052340Z...Generally VFR with BKN-OVC clouds AOA 15k ft through
-tonight, not as widespread on Monday. Confidence is moderate on low
-clouds 1200-1800 ft MSL impacting coastal TAF sites after 10Z
-tonight. Highest chance for low clouds is across San Diego County.
-Vis restrictions 2-5 SM over higher coastal terrain. Any low clouds
-near the coast that form will begin to scatter out 16-18Z Monday.
+060415Z...Generally VFR with BKN-OVC clouds AOA 15k ft through
+tonight. Confidence continues to increase on clearer skies for
+Monday morning for coastal TAF sites. If any low clouds 1000-1600 ft
+MSL make it to coastal areas, this would occur between 12-17Z Mon.
+Highest chance for low clouds is across San Diego County. Vis
+restrictions 2-5 SM over higher coastal terrain if clouds
+materialize. High clouds decreasing throughout the day on Monday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions expected through Thursday. Winds and
-seas may increase late week due to an incoming weather system. Low
-confidence in details at this point.
+No hazardous marine conditions expected through Wednesday. Winds and
+seas may increase by Thursday into later in the week due to an
+incoming weather system with low confidence in forecast details.
 
 &&
 
@@ -444,7 +464,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...CO/KW
 AVIATION/MARINE...APR
 
 
