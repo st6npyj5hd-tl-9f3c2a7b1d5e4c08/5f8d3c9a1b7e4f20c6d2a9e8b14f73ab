@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-07T07:21:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-07T13:23:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,25 +339,33 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-912
-FXUS66 KSGX 070444
+428
+FXUS66 KSGX 070912
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-944 PM PDT Mon Apr 6 2026
+214 AM PDT Tue Apr 7 2026
 
 .SYNOPSIS...
-Widespread mid and high clouds today will clear from the west
-overnight. Low clouds and fog will become more widespread each
-night and morning through the week as the marine layer deepens.
-Temperatures will fluctuate a few degrees each day through mid-
-week, remaining around 5 to 10 degrees above normal. Much cooler
-with gusty onshore winds and chances of precipitation for Friday
-through the weekend.
+High temperatures will warm through Wednesday to around 10
+degrees above average for inland areas. This will be followed by a
+cooling trend through Saturday with Saturday high temperatures as
+much as 10 to 15 degrees below average for the higher mountains.
+A low pressure system from the northwest will bring increasing
+chances of showers for late Friday through Saturday along with a
+chance of thunderstorms on Saturday. Additional chances for
+showers will continue into late Sunday or Sunday night, but with
+lower confidence in the details. There will be stronger southwest
+to west winds for the mountains and deserts on Thursday and
+Friday with the stronger gusts to 35 to 45 mph. There could be
+another round of west to northwest winds of similar strength on
+Sunday. Then drier with a warming trend beginning early next week.
 
 &&
 
@@ -365,75 +373,70 @@ through the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...updated Aviation Discussion below...
+...updated Aviation and Marine discussions below...
 
-An upper level disturbance brought widespread mid and high clouds
-to the region today some of which produced rain. Most of the rain
-evaporated in the dry sub-cloud layer before reaching the ground,
-although a trace of rain reached the ground in a few places. The
-disturbance also weakened the marine layer inversion and mixed out
-the boundary layer so there has been no low clouds or fog to
-speak of today.
+.SHORT TERM (Today through Thursday)...
+Coastal low clouds will gradually increase in coverage over the
+coastal waters and coast and spread into the western valleys
+through sunrise. High temperatures today will be a few degrees
+cooler for coastal areas while inland areas warm a few to around 5
+degrees for the mountains. High temperatures today will be near
+average at the coast to around 10 degrees above average for the
+mountains and deserts. High temperatures for today will range from
+mid 60s to around 70 near the coast to the upper 70s to mid 80s
+for the Inland Empire with the lower deserts in the mid 90s.
 
-The disturbance will move east tonight taking the mid and high
-clouds with it and a transient ridge of high pressure will
-traverse the region through Wednesday. This will allow the marine
-layer to return, with low clouds and fog in the coastal areas and
-western valleys each night and morning. There will be only minor
-day-to-day variations in temperature, with daytime highs remaining
-about 5-10 degrees above normal each day.
+Wednesday high temperatures will be slightly warmer for the coast
+into the valleys with not much change for the mountains and
+deserts. A cooling tend will begin on Thursday with inland high
+temperatures a few to around 5 degrees cooler for the mountains.
+High temperatures on Thursday will range from around 70 near the
+coast to the mid 70s to lower 80s for the valleys with the lower
+deserts in the lower to mid 90s.
 
-Numerical models are in pretty good agreement through Friday with
-respect to the evolution of the synoptic pattern. A vigorous low
-pressure system, with a closed low at 500 mb, will likely impact
-the region from Thursday through the weekend. Temperatures will
-begin to lower, clouds increase and onshore flow strengthen on
-Thursday. Daytime high temperatures will be near or a few degrees
-above seasonal averages and westerly winds could be gusting to
-35-40 mph in the mtns and on adjacent desert slopes.
+Coverage of coastal low clouds is expected to be more limited for
+tonight into Wednesday morning with the greater coverage across
+the inner coastal waters and adjacent coastal land areas. Coverage
+is expected to increase and spread farther inland for Wednesday
+night into Thursday morning as onshore flow begins to strengthen
+and the marine layer begins to deepen. There will also be an
+increase in high clouds on Thursday.
 
-For Friday through the weekend...model solutions begin to diverge
-and there is increasing uncertainty in the details of the
-forecast. In general, clouds will continue to increase through
-Saturday and temperatures will continue to trend lower. Sunday
-will likely be the coolest day, with high temperatures near or as
-much as 10-15 degrees below seasonal averages. This low pressure
-system will likely be vigorous enough to bring chances for
-widespread measurable rainfall and some mountain snow. Saturday
-will be the day with the best chances for precip and the greatest
-accumulations. Snow levels will start out above 7000 ft before
-lowering to around 6500 ft on Sunday as the precipitation begins
-to taper off. The National Blend of Models currently shows a 65%
-chance of 0.25 or more in the mountains, a 45%-55% chance in the
-valleys and coastal areas, about a 25% chance in the high deserts
-and a 10% or less chance in the lower deserts.
+&&
 
-The low pressure system moves east by late Sunday and weak upper
-level troughing remains over the Western US into Monday,
-maintaining cool weather with highs near or a few degrees below
-seasonal averages.
+.LONG TERM (Friday through Monday)...
+A low pressure system from the northwest will bring increasing
+chances for showers for late Friday through Saturday along with a
+chance of thunderstorms on Saturday. A second low pressure system
+from the northwest could bring additional showers through Sunday
+or Sunday night but with greater spread in the model solutions and
+resulting forecast details.
 
+Through Saturday night, chances for measurable precipitation range
+from around 65 percent toward the coast to 80 percent in the
+mountain with chances for one inch or more of rainfall in the
+mountains around 30 percent and for one-half inch or more for
+coastal areas around 20 percent. The snow level will lower to
+around 6500 feet on Saturday and 6000 feet on Sunday.
+
+Drying and warming will begin early next week on Monday or
+Tuesday.
 
 &&
 
 .AVIATION...
-070430Z...Areas of low clouds based 1000-1500 ft MSL have developed
-over coastal waters and coastal San Diego County. Clouds will slowly
-increase in coverage overnight to include all coastal and valley
-areas within 15-20 miles of the coastline by 10-12z Tue. Minor vis
-reductions (3-6SM) for elevated inland valleys (i.e. KL18, KRNM).
-Slight chance for low clouds to reach the far western/southern
-Inland Empire after 12z (20% at KONT). Clouds scatter out 15-17z
-with SKC expected for Tuesday afternoon and early evening. Low
-clouds with similar to slightly lower bases return to coastal areas
-late Tuesday evening and overnight, eventually pushing 10-15 miles
-inland.
+070930Z...Low clouds will continue to develop and expand, eventually
+covering coastal areas this morning. Bases around 1000-1400 feet MSL
+with vis 3-5SM over higher coastal terrain. Scatter out expected by
+16-17Z. Low clouds around 800-1200 feet MSL will develop after 06Z
+and expand through coastal areas overnight into Wednesday.
 
 &&
 
 .MARINE...
-Wind gusts in the outer waters could exceed 20 knots Wednesday
-night. Otherwise, no hazardous marine conditions are expected
+Occasional wind gusts in the outer waters should exceed 20 knots
+Wednesday night. There is a 20% chance of thunderstorms Friday night
+and Saturday. Otherwise, no hazardous marine conditions are expected
 through Saturday.
 
 &&
@@ -441,7 +444,6 @@ through Saturday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -453,8 +455,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...KW
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
