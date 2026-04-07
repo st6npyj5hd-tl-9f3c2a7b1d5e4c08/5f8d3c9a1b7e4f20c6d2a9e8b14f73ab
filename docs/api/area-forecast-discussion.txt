@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-06T19:03:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-07T02:36:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,22 +342,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-621
-FXUS66 KSGX 061740
+735
+FXUS66 KSGX 070002
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1040 AM PDT Mon Apr 6 2026
+502 PM PDT Mon Apr 6 2026
 
 .SYNOPSIS...
-Very patchy fog may develop this Monday morning along the coast.
-Low clouds and fog will become more widespread each night and
-morning through the week as the marine layer deepens.
+Widespread mid and high clouds today will clear from the west
+overnight. Low clouds and fog will become more widespread each
+night and morning through the week as the marine layer deepens.
 Temperatures will fluctuate a few degrees each day through mid-
 week, remaining around 5 to 10 degrees above normal. Much cooler
-with gusty onshore winds and chances of precipitation late in the
-week.
+with gusty onshore winds and chances of precipitation for Friday
+through the weekend.
 
 &&
 
@@ -367,71 +367,72 @@ COUNTIES...
 
 ...updated Aviation Discussion below...
 
-Widespread high clouds continue to move across the region this
-morning. With the thick high cloud cover, coastal fog has
-struggled to develop. Expect any fog this morning to remain
-sparse. A weak short wave trough moves through today, bringing
-widespread cooling for the mountains westward with little change
-in the deserts. Weak transitory ridging then follows for Tuesday
-and Wednesday. Overall expect minimal day-to-day changes through
-Wednesday with highs around 5-10 degrees above normal each day.
-Once high clouds move out tonight, marine layer low clouds and fog
-will have a better chance of developing across the coastal areas.
-With persistent onshore flow the next few days, the marine layer
-will become more established with high clouds spreading into the
-coastal areas and far western valleys each night.
+An upper level disturbance brought widespread mid and high clouds
+to the region today some of which produced rain. Most of the rain
+evaporated in the dry sub-cloud layer before reaching the ground,
+although a trace of rain reached the ground in a few places. The
+disturbance also weakened the marine layer inversion and mixed out
+the boundary layer so there has been no low clouds or fog to
+speak of today.
 
-Ensembles have come into much better agreement with regards to the
-progression of an upper level low, which is currently situated
-well off the coast of Northern CA. This low will slowly approach
-the coast Thursday and Friday, bringing more noticeable cooling
-and high temperatures returning to near normal. The approach of
-this low will also generate gusty southwest to west winds in the
-mountains and deserts, as well as a deeper marine layer with low
-clouds extending into the valleys each night. The GEFS remains on
-the faster end of the eastward progression of the low, bringing
-precipitation as early as Friday morning. However, this only
-accounts for about 18% of the total ensemble space. Around 50%
-have precipitation by Friday afternoon, but all are showing the
-heaviest precipitation occurring Saturday morning through Saturday
-evening with light showers lingering into Sunday.
+The disturbance will move east tonight taking the mid and high
+clouds with it and a transient ridge of high pressure will
+traverse the region through Wednesday. This will allow the marine
+layer to return, with low clouds and fog in the coastal areas and
+western valleys each night and morning. There will be only minor
+day-to-day variations in temperature, with daytime highs remaining
+about 5-10 degrees above normal each day.
 
-There is still a lot of spread in precipitation amounts, though in
-general ensembles have been trending slightly wetter. For the 48
-hour period from 4 AM Friday - 4 AM Sunday, the probability of
-0.25" or more has increased to 50-70% for the coast to the
-mountains, 20-25% for the high desert, and 5-10% for the low
-desert. Chances of 0.50" or more range from 20-40% for the coasts
-and valleys, 40-60% for the coastal mountain slopes, 10% for the
-high desert, and less than 10% for the low desert. Instability
-increases Saturday afternoon as the cold core moves overhead,
-bringing a 15% chance of thunderstorms. Any thunderstorms that
-develop could produce locally heavier rain.
+Numerical models are in pretty good agreement through Friday with
+respect to the evolution of the synoptic pattern. A vigorous low
+pressure system, with a closed low at 500 mb, will likely impact
+the region from Thursday through the weekend. Temperatures will
+begin to lower, clouds increase and onshore flow strengthen on
+Thursday. Daytime high temperatures will be near or a few degrees
+above seasonal averages and westerly winds could be gusting to
+35-40 mph in the mtns and on adjacent desert slopes.
 
-The upper low moves out by late Sunday and weak troughing remains
-over the Western US into Monday, maintaining cool weather with
-highs a few degrees below normal.
+For Friday through the weekend...model solutions begin to diverge
+and there is increasing uncertainty in the details of the
+forecast. In general, clouds will continue to increase through
+Saturday and temperatures will continue to trend lower. Sunday
+will likely be the coolest day, with high temperatures near or as
+much as 10-15 degrees below seasonal averages. This low pressure
+system will likely be vigorous enough to bring chances for
+widespread measurable rainfall and some mountain snow. Saturday
+will be the day with the best chances for precip and the greatest
+accumulations. Snow levels will start out above 7000 ft before
+lowering to around 6500 ft on Sunday as the precipitation begins
+to taper off. The National Blend of Models currently shows a 65%
+chance of 0.25 or more in the mountains, a 45%-55% chance in the
+valleys and coastal areas, about a 25% chance in the high deserts
+and a 10% or less chance in the lower deserts.
+
+The low pressure system moves east by late Sunday and weak upper
+level troughing remains over the Western US into Monday,
+maintaining cool weather with highs near or a few degrees below
+seasonal averages.
+
 
 &&
 
 .AVIATION...
-061730Z...BKN-OVC high clouds above 15000 feet MSL through 18-20Z,
-becoming mostly clear thereafter. Some of these mid level clouds
-have become convective enough to produce -SHRA/Virga. Coastal low
-clouds more likely after 05Z tonight along the immediate coastlines,
-and then spreading into some of the inland valleys by 09-11Z
-Tuesday. Bases will be similar to last night, although a little more
-elevated at around 1000-1500 ft MSL along the coastal areas, then
-falling to around 500 ft further inland with better coverage
-expected further inland tonight, with patchy fog being possible for
-portions of the inland areas. These clouds should begin to scatter
-from east to west by tomorrow morning by 15-17Z Tuesday.
+070000Z...SKC across most of the region currently. Lack of high
+clouds should create better conditions for low cloud development
+this evening. Low clouds based 1000-1500 ft MSL develop first in San
+Diego County coastal areas around 02-05Z. Clouds slowly increase in
+coverage overnight to include Orange County, reaching 15-20 miles
+inland. Areas of minor vis reductions for elevated coastal terrain
+and western valleys (3-6SM). Slight chance for low clouds to reach
+the far western/southern Inland Empire (20% at KONT). Clouds scatter
+out 15-17z with SKC expected for Tuesday afternoon and early evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday. Wind
-gusts in the outer waters could exceed 20 knots Wednesday night.
+Wind gusts in the outer waters could exceed 20 knots Wednesday
+night. Otherwise, no hazardous marine conditions are expected
+through Saturday.
 
 &&
 
@@ -450,8 +451,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Stewey
+PUBLIC...PG
+AVIATION/MARINE...KW
 
 
 </pre>
