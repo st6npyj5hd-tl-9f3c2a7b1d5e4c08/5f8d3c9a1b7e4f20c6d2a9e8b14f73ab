@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-07T02:36:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-07T07:21:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-735
-FXUS66 KSGX 070002
+912
+FXUS66 KSGX 070444
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-502 PM PDT Mon Apr 6 2026
+944 PM PDT Mon Apr 6 2026
 
 .SYNOPSIS...
 Widespread mid and high clouds today will clear from the west
@@ -417,15 +417,17 @@ seasonal averages.
 &&
 
 .AVIATION...
-070000Z...SKC across most of the region currently. Lack of high
-clouds should create better conditions for low cloud development
-this evening. Low clouds based 1000-1500 ft MSL develop first in San
-Diego County coastal areas around 02-05Z. Clouds slowly increase in
-coverage overnight to include Orange County, reaching 15-20 miles
-inland. Areas of minor vis reductions for elevated coastal terrain
-and western valleys (3-6SM). Slight chance for low clouds to reach
-the far western/southern Inland Empire (20% at KONT). Clouds scatter
-out 15-17z with SKC expected for Tuesday afternoon and early evening.
+070430Z...Areas of low clouds based 1000-1500 ft MSL have developed
+over coastal waters and coastal San Diego County. Clouds will slowly
+increase in coverage overnight to include all coastal and valley
+areas within 15-20 miles of the coastline by 10-12z Tue. Minor vis
+reductions (3-6SM) for elevated inland valleys (i.e. KL18, KRNM).
+Slight chance for low clouds to reach the far western/southern
+Inland Empire after 12z (20% at KONT). Clouds scatter out 15-17z
+with SKC expected for Tuesday afternoon and early evening. Low
+clouds with similar to slightly lower bases return to coastal areas
+late Tuesday evening and overnight, eventually pushing 10-15 miles
+inland.
 
 &&
 
