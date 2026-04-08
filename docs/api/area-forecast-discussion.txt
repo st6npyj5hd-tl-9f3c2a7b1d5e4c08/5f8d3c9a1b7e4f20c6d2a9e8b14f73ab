@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-08T02:37:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-08T07:23:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-310
-FXUS66 KSGX 080004
+340
+FXUS66 KSGX 080420
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-504 PM PDT Tue Apr 7 2026
+920 PM PDT Tue Apr 7 2026
 
 .SYNOPSIS...
 A warming trend will continue through Wednesday when temperatures
@@ -376,11 +378,12 @@ COUNTIES...
 
 ...Updated aviation/marine discussions...
 
-Skies are clear this afternoon under a transient ridge of high
-pressure. The marine layer is about 2000 feet deep with a
-moderately strong inversion. With the help of a weak coastal eddy,
-low clouds covered most of the coastal areas this morning and
-extended 10-15 miles inland before clearing out by about 11 am.
+.Issued 110 PM PDT Tue Apr 7 2026...Skies are clear this
+afternoon under a transient ridge of high pressure. The marine
+layer is about 2000 feet deep with a moderately strong inversion.
+With the help of a weak coastal eddy, low clouds covered most of
+the coastal areas this morning and extended 10-15 miles inland
+before clearing out by about 11 am.
 
 The upper level ridge will continue a warming trend for inland
 areas through tomorrow (Wednesday) where daytime high
@@ -416,30 +419,29 @@ around 6500 feet late Saturday and 6000 feet on Sunday.
 Dry and warmer weather is expected for early next week even though
 we will remain under the influence of broad troughing aloft.
 
-
 &&
 
 .AVIATION...
-080000Z...VFR conditions currently dominate all coastal and inland
-TAF sites. Low clouds 1000-1500 feet MSL will develop after 06Z and
-expand through coastal areas within about 15 miles of shore
-overnight into Wednesday. Scatter out 15-17Z from east to west.
+080400Z...VFR conditions currently dominate all coastal and inland
+TAF sites. Low clouds 1000-1500 feet MSL currently developing
+offshore will move into coastal areas after 06Z, moving about 15
+miles of inland overnight into Wednesday. Clouds will be somewhat
+patchy, and intermittent scatter outs can be expected overnight.
+Clouds scatter out 15-17Z from east to west. Clouds 1200-1700 ft MSL
+redevelop after 09/06Z.
+
+Otherwise, brisk west to southwesterly winds pick up over the
+mtns/desert foothills into the deserts after 19Z into the evening,
+gusting to 20-35 kts.
 
 &&
 
 .MARINE...
-Occasional wind gusts exceeding 20 knots in the outer coastal waters
-vicinity San Clemente Island Wednesday night into early Thursday
-morning. There is a 15 to 20% chance of thunderstorms over the
-waters Friday night through Saturday afternoon. Otherwise, no
+There will be occasional wind gusts exceeding 20 knots in the outer
+coastal waters vicinity San Clemente Island Wednesday night into
+early Thursday morning. There is a 15% chance of thunderstorms over
+the waters Friday night through Saturday afternoon. Otherwise, no
 hazardous marine conditions are expected through Saturday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -451,7 +453,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
+PUBLIC...SS
 AVIATION/MARINE...CSP
 
 
