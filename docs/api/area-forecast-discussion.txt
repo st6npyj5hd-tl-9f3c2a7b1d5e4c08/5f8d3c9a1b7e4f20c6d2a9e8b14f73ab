@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-08T07:23:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-08T13:23:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,31 +344,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-340
-FXUS66 KSGX 080420
+540
+FXUS66 KSGX 080932
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-920 PM PDT Tue Apr 7 2026
+232 AM PDT Wed Apr 8 2026
 
 .SYNOPSIS...
-A warming trend will continue through Wednesday when temperatures
-will reach about 10 degrees above average for inland areas. This
-will be followed by a cooling trend through Sunday, with high
-temperatures as much as 10 to 15 degrees below average for the
-higher mountains and portions of the inland valleys. A low
-pressure system from the northwest will bring increasing chances
-of showers for late Friday through Saturday along with a chance of
-thunderstorms on Saturday. Chances for additional showers will
-continue into late Sunday or Sunday night, but with lower
-confidence in the details. The chance of wetting precipitation
-from the coast to the mountains for the weekend is around 80
-percent. There will be stronger southwest to west winds for the
-mountains and deserts on Thursday and Friday with gusts of 35 to
-45 mph in the wind-favored areas. There could be another round of
-west to northwest winds of similar strength on Sunday. Then drier
-with a warming trend for early next week.
+Warmer today, then cooling for Thursday through the weekend with
+gusty southwest to west winds for the mountains and deserts on
+Thursday and Friday becoming west to northwest for the weekend. A
+low pressure system from the northwest will bring showers for late
+Friday through Saturday with a second low pressure system from the
+northwest continuing the showers through Sunday. Then drying and
+warmer for Monday through Wednesday of next week.
 
 &&
 
@@ -376,72 +367,82 @@ with a warming trend for early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation/marine discussions...
+.SHORT TERM (Today through Friday)...
+The warming trend will continue today with high temperatures a few
+to around 5 degrees warmer than Tuesday, a few degrees above
+average near the coast to 8 to 12 degrees above average for the
+mountains and deserts. High temperatures for today will range from
+around 70 near the coast to the 80s for the Inland Empire with
+the lower deserts in the mid to upper 90s.
 
-.Issued 110 PM PDT Tue Apr 7 2026...Skies are clear this
-afternoon under a transient ridge of high pressure. The marine
-layer is about 2000 feet deep with a moderately strong inversion.
-With the help of a weak coastal eddy, low clouds covered most of
-the coastal areas this morning and extended 10-15 miles inland
-before clearing out by about 11 am.
+A low pressure system nearing the coast of northern and central
+California on Thursday will move into southern California late
+Friday. There will be increasing clouds for Thursday and Friday
+and stronger onshore flow will bring gusty southwest to west winds
+to the mountains and deserts during the afternoon and evening on
+Thursday and Friday with the stronger gusts to 35 to 45 mph.
 
-The upper level ridge will continue a warming trend for inland
-areas through tomorrow (Wednesday) where daytime high
-temperatures will be about 10 degrees above average. The marine
-layer will persist and may deepen a little with the help of the
-coastal eddy, allowing low clouds to spread a little farther
-inland tonight.
+There will be a cooling trend for Thursday and Friday with high
+temperatures cooling around 5 degrees for inland areas on
+Thursday and another few degrees for inland areas on Friday.
+Friday high temperatures will range from near to around 5 degrees
+above average. Friday high temperatures will range from around 70
+near the coast to the 70s for the valleys with the lower deserts
+around 90.
 
-A cooling trend will begin on Thursday and onshore flow will start
-to strengthen as a cold and vigorous low pressure system approaches
-from the northwest. High temperatures on Thursday will mostly be
-a few degrees lower than on Wednesday. High temperatures on
-Thursday will range from around 70 near the coast to the mid 70s
-to lower 80s for the valleys with the lower deserts in the lower
-to mid 90s. The stronger onshore flow will drive low clouds
-farther inland as the marine layer deepens, potentially all the
-way to the coastal mtn slopes.
+Precipitation will spread into southwestern California for late
+Friday and Friday night. A snow level around 8500 feet on Friday
+afternoon will fall to around 7500 feet for late Friday night.
 
-The low pressure system will bring increasing chances for showers
-late Friday through Saturday along with a slight chance of
-thunderstorms on Saturday. A reinforcing shortwave embedded in
-the mean northwest flow along the west coast could bring
-additional showers through Sunday or Sunday night but with greater
-spread in the model solutions and resulting forecast details.
+&&
 
-Through Saturday night, chances for measurable precipitation range
-from around 65 percent toward the coast to 80 percent in the
-mountain with chances for one inch or more of rainfall in the
-mountains around 30 percent and for one-half inch or more for
-coastal areas around 20 percent. The snow level will lower to
-around 6500 feet late Saturday and 6000 feet on Sunday.
+.LONG TERM (Saturday through Tuesday)...
+Showers will continue through Saturday along with a slight chance
+of thunderstorms. A second low pressure system from the northwest
+will continue the showers through Sunday. The cooling trend will
+continue through Sunday with Sunday high temperatures as much as
+10 to 15 degrees below average for the mountains. High
+temperatures on Sunday will be mostly in the 60s for the coast
+and valleys and in the 70s for the lower deserts. The snow level
+will gradually lower through the weekend to around 7000 feet on
+Saturday and 6500 to 7000 feet on Sunday.
 
-Dry and warmer weather is expected for early next week even though
-we will remain under the influence of broad troughing aloft.
+Rainfall for late Friday through Sunday night could range from
+one-half to one inch near the coast to 1.5 to 2 inches in the
+mountains with one-quarter to one-half inch for the high desert
+and one-tenth to one-quarter inch for the lower deserts.
+
+There will be drying and warming for Monday through Wednesday of
+next week with Wednesday high temperatures around 5 degrees above
+average with high temperatures ranging from around 70 near the
+coast to around 80 for the Inland Empire with the lower deserts
+around 90.
 
 &&
 
 .AVIATION...
-080400Z...VFR conditions currently dominate all coastal and inland
-TAF sites. Low clouds 1000-1500 feet MSL currently developing
-offshore will move into coastal areas after 06Z, moving about 15
-miles of inland overnight into Wednesday. Clouds will be somewhat
-patchy, and intermittent scatter outs can be expected overnight.
-Clouds scatter out 15-17Z from east to west. Clouds 1200-1700 ft MSL
-redevelop after 09/06Z.
-
-Otherwise, brisk west to southwesterly winds pick up over the
-mtns/desert foothills into the deserts after 19Z into the evening,
-gusting to 20-35 kts.
+080930Z...Low clouds 700-1100 feet MSL will continue to cover most
+coastal areas through 14Z. Vis reduced 1-5SM in BR on higher coastal
+terrain. Scatter out 15-17Z. Coastal low clouds at 900-1200 feet MSL
+to redevelop after 06Z and gradually cover most of the coastal
+areas, less likely around KSNA, overnight into Thursday. Brisk west
+to southwest winds 25-35 kts over the mtns/desert foothills into the
+deserts after 01Z.
 
 &&
 
 .MARINE...
-There will be occasional wind gusts exceeding 20 knots in the outer
-coastal waters vicinity San Clemente Island Wednesday night into
-early Thursday morning. There is a 15% chance of thunderstorms over
-the waters Friday night through Saturday afternoon. Otherwise, no
-hazardous marine conditions are expected through Saturday.
+There will be occasional wind gusts exceeding 20 knots and locally
+choppy conditions in the vicinity of San Clemente Island tonight.
+There is a 20% chance of thunderstorms over the waters Friday night
+through Saturday. Otherwise, no hazardous marine conditions are
+expected through Sunday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -453,8 +454,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...CSP
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
