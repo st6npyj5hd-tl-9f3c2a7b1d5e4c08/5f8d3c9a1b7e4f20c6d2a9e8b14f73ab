@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-09T02:32:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-09T07:26:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-392
-FXUS66 KSGX 082336
+123
+FXUS66 KSGX 090357
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-436 PM PDT Wed Apr 8 2026
+857 PM PDT Wed Apr 8 2026
 
 .SYNOPSIS...
 Temperatures peak today around 5 to 10 degrees above normal as weak
@@ -420,11 +420,12 @@ seasonable weather from Tuesday through the middle of next week.
 &&
 
 .AVIATION...
-082340Z... Coast/Valleys...Coastal low clouds with bases 900-1400
-feet MSL will develop after 05Z Thu in San Diego County and after
-08Z Thu in Orange County. Low clouds will stick to the coastal areas
-with cigs expected at all coastal TAF sites. Clouds scattering 15-
-17Z Thu.
+090400Z... Coast/Valleys...Low clouds with bases 900-1400 feet MSL
+will become more widespread through 08Z Thu. Low clouds will stick
+to the coastal areas with cigs expected at all coastal TAF sites.
+Clouds scattering 15-17Z Thu. Low clouds with slightly higher bases
+will redevelop around 04Z Fri and are expected to reach into the
+valleys overnight.
 
 Mountains/Deserts...West to southwest winds 25-35 kt over the
 mtns/desert foothills into the deserts overnight into Thu AM. West
@@ -436,9 +437,9 @@ up/downdrafts expected.
 .MARINE...
 There will be occasional wind gusts exceeding 20 knots and locally
 choppy conditions in the vicinity of San Clemente Island through
-tonight. There is a 20% chance of thunderstorms over the waters
-Friday night through Saturday. Otherwise, no hazardous marine
-conditions are expected through Sunday.
+Thursday morning. There is a 10% chance of isolated thunderstorms
+Saturday morning. Winds and seas may increase Sunday with the
+passage of a second weather system.
 
 &&
 
