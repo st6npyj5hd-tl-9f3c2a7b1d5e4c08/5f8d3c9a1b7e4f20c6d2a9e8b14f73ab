@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-10T13:15:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-10T18:57:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-108
-FXUS66 KSGX 101155
+232
+FXUS66 KSGX 101844
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-455 AM PDT Fri Apr 10 2026
+1144 AM PDT Fri Apr 10 2026
 
 .SYNOPSIS...
 Increasing onshore flow and a pair of low pressure systems from
@@ -376,7 +376,7 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
+.SHORT TERM...
 A low pressure system centered off the northern California coast
 early this morning will weaken as it moves through central and
 southern California tonight. Onshore flow is strengthening the
@@ -434,18 +434,19 @@ coast to the 70s in the valleys with the lower deserts around 90.
 &&
 
 .AVIATION...
-101200Z...Coasts/Valleys...Low clouds based 1100-1500 ft MSL are
-currently widespread along the coast with patchier coverage through
-the west IE. Occasional scatter out likely inland, then full scatter
-out 16-18Z this morning. BKN-OVC deck moves inland after 02Z,
-lifting from 2000-2500 ft MSL to above 3500 ft MSL overnight. Spotty
--SHRA moves inland after 03Z through Sat morning, bringing periodic
-lowered cigs and vis 5-6 SM.
+101800Z...Coasts/Valleys...Low marine layer clouds from this morning
+have fully cleared, with VFR prevailing. BKN-OVC clouds move back
+inland after 02z Saturday, lifting from 2000-2500ft MSL initially to
+above 3500 ft MSL overnight. Spotty -SHRA moves inland after 03Z
+through Sat morning, bringing periodic MVFR CIGs and VIS 4-6 SM.
+-SHRA decreases 12-15z Saturday, with cloud cover clearing 16-19z.
 
-.Mountains/Deserts...West to southwest winds increase through
-mid-afternoon with gusts 35-50 kt through passes, along deserts
+.Mountains/Deserts...West to southwest winds increase after
+20z this afternoon with gusts 35-50 kt through passes, along deserts
 slopes and locally into the deserts. Local areas BLDU (vis 3-5SM)
-expected. Moderate up/downdrafts in lee of mtns.
+expected. Moderate up/downdrafts in lee of mtns. Wind gusts relax by
+06-09z Saturday, but are expected to pick back up again after 20z
+Saturday afternoon.
 
 &&
 
@@ -457,13 +458,6 @@ conditions through the day Sunday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
 PZ...None.
@@ -472,8 +466,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...Martin
+AVIATION/MARINE...Munyan
 
 
 </pre>
