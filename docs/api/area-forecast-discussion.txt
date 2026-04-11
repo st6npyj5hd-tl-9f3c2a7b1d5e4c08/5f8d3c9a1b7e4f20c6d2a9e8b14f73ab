@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-11T13:03:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-11T18:49:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,16 +345,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-901
-FXUS66 KSGX 111140
+895
+FXUS66 KSGX 111838
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-440 AM PDT Sat Apr 11 2026
+1138 AM PDT Sat Apr 11 2026
 
 .SYNOPSIS...
 Low pressure systems will impact the region through Monday. These
@@ -374,100 +376,105 @@ warmer weather is expected by the middle and end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Today through tomorrow night...
+Precipitation...
 
-Onshore flow out of the southwest is becoming enhanced by troughing
-upstream which is advancing towards the region. This has allowed for
-the marine layer to become more elevated and somewhat dispersed this
-night, with best coverage along the coastal-facing slopes. As the
-first associated shortwave with this trough propagates over SoCal
-today, there is a slight chance of a few showers developing,
-especially against the foothills and coastal-facing slopes. Any
-measurable precip that falls will likely be generally less than a
-tenth of an inch, and possibly only up to a quarter of an inch
-locally for some of the mountains. However, the only real notable
-impact from this today will be much cooler temperatures and gusty
+Light and intermittent rain showers across the coastal basin this
+morning on the heels of a weak front that moved through, with
+drier conditions for the remainder of the day as a large upper
+level low moves into Northern California. Heights continue to fall
+both today and tomorrow with 850mb temps dropping to around 5C by
+Sunday, ushering in surface high temps in the mid-60s for most
+locations, and 30s-40s for the mountains. Ample mid and low level
+moisture will translate to light to moderate rain showers early
+Sunday morning as a cold front pushes through, with rain rates
+around 0.2-0.4"/hr, locally higher for the mountains. The front
+looks to arrive around sunrise on Sunday for Orange and San
+Bernardino counties, moving southward throughout the day with the
+heaviest rain expected late morning into early afternoon. While
+the threat is low, there remains a chance for thunderstorms
+associated with the frontal passage on Sunday, primarily late
+Sunday morning into early afternoon. Should storms develop, brief
+but heavy rainfall with rain rates exceeding 0.50"/hr will be
+possible. Snow levels will be falling throughout the weekend, from
+around 6500 ft today closer to 5000-5500 ft Sunday afternoon.
+Elevations above 6000 ft may see light accumulating snow on
+Sunday. The coldest point of the system will be occurring as the
+rain tappers off, so snow accumulations will likely be 1" or less
+for populous areas. Rain chances decrease on the backside of the
+front by early Monday, although a shortwave embedded in the deeper
+low will quickly move through Monday afternoon before the system
+departs. With this shortwave, additional rain/snow in San Diego
+County and up along the spine of the mountains to the San
+Bernardino Mountains will be possible Monday afternoon and
+evening, but the lower levels will be quickly drying out and
+little in the way of precipitation is expected.
+
+Ultimately, rain totals will be low with this event, likely at or
+below 0.50" for the coastal basin and inland areas, less than 0.25"
+for the immediate coast, and around 0.50-1.00" for the mountains.
+Higher elevations will perform better where upslope flow may
+assist in thunderstorm development on Sunday, allowing for spots
+of higher rain amounts.
+
+Winds...
+
+Increasing winds today and tonight with the tightening gradient as
+the low approaches, providing sustained surface winds 35+ mph and
+gusts as high as 55 mph through mountain passes and on the desert
+slopes of the mountains. Closer to mountain peaks, even stronger
+winds may make for dangerous conditions for low-flying aircraft
+and an increase in turbulence. While models project the strongest
+winds with this system to begin after 1 PM today and last through
+midnight/2 AM Sunday, the push of this cold front may maintain
+stronger wind gusts into Sunday afternoon, with no significant
+drop off between 2 AM and sunrise. Along with the gusty winds,
+blowing dust through the High Desert and Coachella Valley will be
+a threat today through Monday, before winds settle a bit on
+Tuesday.
+
+Beyond Monday...
+
+Increasing heights and drier air will settle in by Tuesday, with
+northwest flow and lighter winds. Weak upper level ridging attempts
+to build in and temperatures should rebound closer to near normal
+for mid April by Wednesday. A late week pattern change could
+potentially bring additional rainfall, although there are equal
+chances for an inside slider to bring about strong offshore winds.
+Currently, the forecast remains dry into next weekend with high
+temperatures increasing each day, but should this system be able
+to swing further south than currently projected, another rainy
+weekend may be in store. For now, plan on dry and warm with highs
+returning to the 80s for many inland areas, and gustier offshore
 winds.
-
-It will be the secondary low deepening and pushing through by
-later this evening into Sunday that will provide a better chance of
-showers. There will also be enough instability with the U/L low
-feature associated with this that it may allow for there to be a few
-thunderstorms. Better precipitation amounts are expected tomorrow,
-with amounts of generally a quarter to a half an inch for the
-coastal to inland areas, and higher to around three quarters of an
-inch for the coastal slopes and foothills. Amounts will typically be
-from a half to an inch for the mountains, although the coastal-
-facing slopes of the San Bernardino Mountains may receive locally
-higher amounts up to 1.5 inches. For elevations above 5000 ft, there
-may also be snow accumulations ranging from a dusting, up to 2
-inches around the vicinity of Big Bear Lake. Winds will also be
-rather strong and gusty, especially across the higher terrain and
-within the wind-proned areas, although strongest gusts for the most
-impacted areas will generally be between 45 to 50 mph, and should
-primarily be below Wind Advisory criteria. A mountaintop inversion,
-coupled with a weak mountain wave setup, will help to enhance
-winds slightly more during the early morning hours on Sunday, and
-winds may peak over criteria on the leeward side within the lower
-deserts for a few hours during this timeframe until the winds
-better mix by later in the morning. Again, this will likely be
-short-lived, but may produce some blowing dust as a result across
-some of the lower desert locations downwind of these stronger gap
-flow winds through the passes. Sunday will also have much stronger
-cold air advection behind this system, with rapidly dropping snow
-levels by later in the evening, and highs being the coldest of
-the week.
-
-Monday through Friday...
-
-By Monday, the secondary major shortwave trough is going to continue
-to exit the region, with lingering showers tapering off throughout
-the day, mainly for the coastal-facing slopes. Drier conditions will
-return by later in the evening on Monday and going into Tuesday as
-weak ridging aloft propagates overhead, which will follow into
-Wednesday with drier conditions remaining in place through then.
-Temperatures will still be quite chilly on Monday, with some of the
-mountain locations being as much as 15 degrees below average, but
-then rebound quite nicely with notably warmer high temps for Tuesday
-and Wednesday. Deterministic models do reflect general agreement
-with another trough deepening over the Great Basin region Thursday
-into Friday, which will likely just influence us with more winds in
-SoCal, although this could allow for there to be some showers west
-of the mountains, as well as a reinforcement of cooler temperatures
-on Thursday. This will translate to a persistence of the marine
-layer and onshore flow predominantly throughout the work week, with
-temperatures primarily being below the seasonal average for this
-time of year.
 
 &&
 
 .AVIATION...
-111200Z...Coasts/Valleys...A few layers of SCT to OVC clouds with
-bases 3000-7000 ft MSL are present through the coastal basin. Spotty
--SHRA continue through about 19Z this morning, mostly for coastal
-and W valley areas. Occasional MVFR cigs 2000-3000 ft MSL can
-briefly impact locations through about 18Z, especially in -SHRA.
-Clouds 4000-7000 ft MSL scatter to some extent in the afternoon then
-return this evening.
+111800Z...Coasts/Valleys...Precipitation from this morning has
+cleared out, with FEW-SCT cumulus (based around 2000-3000ft MSL)
+draped across the coastal basin for this morning into the afternoon.
+VFR prevails through this evening with the next disturbance bringing
+the return of largely BKN clouds around 3500ft MSL, set to fill
+back in across the coastal basin starting after 02z Sunday. Very
+scattered -SHRA become possible around 12z, though a more defined
+band of precipitation will move from NW to SE from 14-22z Sunday
+morning. This band of rainfall will bring MVFR CIGs near 2000ft MSL,
+with VIS 4-6SM in -RA/BR. Pockets of heavier rainfall could bring
+CIGs below 1000ft with VIS closer to 2-4SM.
 
 .Mountains/Deserts...West to southwest winds pick up after 19Z
 today, with gusts 35-50 kt through passes, along deserts slopes and
 locally into the deserts. Local areas BLDU (vis 3-5SM) expected.
-Moderate up/downdrafts in lee of mtns. Winds gradually calming after
-05Z.
+Moderate up/downdrafts in lee of mtns. Winds decrease by about 10-15
+kts after 06z, but remains elevated into the overnight hours,
+picking back up by 18-21z Sunday.
 
 &&
 
 .MARINE...
-There is a slight chance of thunderstorms Sunday afternoon.
+There is a slight (~10%) chance of thunderstorms Sunday afternoon.
 Additionally there will be periods of increased northwest winds with
 gusts 15 to 20 kt and choppy seas through the day Sunday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -479,8 +486,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...CSP
+PUBLIC...Zuber
+AVIATION/MARINE...Munyan
 
 
 </pre>
