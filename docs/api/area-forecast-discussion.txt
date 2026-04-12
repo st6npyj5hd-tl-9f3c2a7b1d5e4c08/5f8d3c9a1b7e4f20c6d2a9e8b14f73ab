@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-12T02:47:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-12T07:17:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,33 +346,27 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-441
-FXUS66 KSGX 120110
+024
+FXUS66 KSGX 120402
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-610 PM PDT Sat Apr 11 2026
+902 PM PDT Sat Apr 11 2026
 
 .SYNOPSIS...
-Low pressure systems will impact the region through Monday. These
-are going to be accompanied by cooler, wetter. amd windier
-weather. A chance for light showers will occur tonight into
-Saturday morning. These weather systems will also bring the chance
-of light to moderate rainfall and high elevation snow. The
-heaviest rainfall and mountain snowfall is expected on Sunday,
-where there is a slight chance of thunderstorms west of the
-mountains. This low pressure system may linger over the area into
-Monday, bringing additional light showers. Drier and slightly
-warmer weather is expected by the middle and end of next week.
+A low pressure system will impact the region through Monday,
+bringing moderate rainfall, high elevation snow and a slight
+chance of thunderstorms west of the mountains. This low pressure
+system may linger over the area into Monday, bringing additional
+light showers. Drier and slightly warmer weather is expected by
+the middle and end of next week.
 
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
-Precipitation...
 
 Light and intermittent rain shower activity pick up tonight as a
 large upper level low moves into Northern California. Heights
@@ -441,23 +435,28 @@ weekend may be in store. For now, plan on dry and warm with highs
 returning to the 80s for many inland areas, and gustier offshore
 winds.
 
-
-
 &&
 
 .AVIATION...
-120030Z...Coasts/Valleys...Increasing clouds based 3-6 kft MSL to
-develop this evening throughout the coastal basin. ISO -SHRA
-develop after 07z becoming more numerous overnight into early Sun.
-Mostly VFR vis/cigs overnight until main frontal band pushes into
-the region from the northwest, reaching Orange County around
-15-17z. This band is expected to bring a few hours of SHRA/RA and
-periods of MVFR vis/cigs (1-3 kft bases, 4-6SM) with the
-occasional +SHRA/+RA, yielding brief IFR cigs/vis. The front
-reaches SD Co. around 19z, sweeping through the county during the
-afternoon and yielding similar conditions. Behind the front, winds
-switch from SW to W.
+120400Z...Coasts/Valleys...Increasing clouds based 3-6 kft MSL to
+this evening throughout the coastal basin. ISO -SHRA develop
+after 08z becoming more numerous overnight into early Sun. Mostly
+VFR vis/cigs overnight until main frontal band pushes into the
+region from the northwest, reaching Orange County around 16-18z.
+This band is expected to bring a few hours of SHRA/RA and periods
+of MVFR vis/cigs (1-3 kft bases, 4-6SM) with the occasional
++SHRA/+RA, yielding brief IFR cigs/vis. The front reaches SD Co.
+around 19z, sweeping through the county during the afternoon and
+yielding similar conditions. Behind the front, winds switch from
+SW to W.
 
+Forecast window for RA/+RA and IFR cigs/vis:
+
+KSNA...17-20z Sun
+KONT...17-21z Sun
+KSBD...17-22z Sun
+KCRQ...20-23z Sun
+KSAN...20-24z Sun
 
 .Mountains/Deserts...West to southwest winds gusts 35-50 kt to
 persist throughout the TAF period in mountain passes, along deserts
@@ -490,7 +489,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber/Westerink
+PUBLIC...Zuber
 AVIATION/MARINE...Westerink
 
 
