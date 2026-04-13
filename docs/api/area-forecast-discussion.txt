@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T02:51:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T08:00:49+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-809
-FXUS66 KSGX 130033
+741
+FXUS66 KSGX 130416
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-533 PM PDT Sun Apr 12 2026
+916 PM PDT Sun Apr 12 2026
 
 .SYNOPSIS...
 Periods of light to locally moderate precipitation expected through
@@ -364,30 +364,29 @@ week with warmer conditions this weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation/marine discussion...
+Evening update...
+Showers have become more isolated and lighter this evening, with
+most of the activity across San Diego County. This is expected to
+continue overnight as the initial short wave lifts northeast out
+of the area. Snow levels currently around 6500-7000 ft will drop
+to around 5000-5500 Monday morning, then rise to 5500-6000 ft
+Monday afternoon. Any snow accumulation will be one inch or less
+below 7000 ft. A second low, currently near Eureka, will drop
+south and amplify tonight, becoming a closed low over California
+by Monday afternoon. This next wave will interact with residual
+deep boundary layer moisture to produce another round of scattered
+showers and a slight (10%) chance of thunderstorms as cold air
+aloft moves overhead Monday afternoon. Additional rain
+accumulations will range from 0 to 0.20" for the coasts/valleys,
+0.05-0.30" for the mountains, locally up to 0.50" on the west
+facing coastal slopes, and less than 0.05" in the deserts.
+Isolated higher amounts are possible where heavier
+showers/thunderstorms develop. Otherwise southwest to west winds
+gusting 30-40 mph on the desert mountain slopes and through the
+passes continue at times through Monday night, strongest during
+the afternoons and evenings.
 
-The main cold front is making it`s way across the Inland Empire and
-San Diego county as of 11:30 AM. The front is expected to weaken
-as it continues to move east. Light to locally moderate rain is
-expected with the frontal passage, with peak rainfall rates
-0.20-0.30 inches per hour. A rainfall summary has been headlined
-on our weather.gov/sandiego homepage to capture the rainfall
-totals today. After the passage of the front, scattered light to
-locally moderate showers may develop around the coastal basin this
-evening into Monday morning. The next shortwave is expected to
-move across Southern California mid-day Monday which will spark
-another round of scattered light to locally moderate
-precipitation. Peak rainfall rates on Monday are expected to be
-0.20 inches per hour or less.
-
-At higher elevations in the mountains, snow can be expected. Snow
-levels are currently around 7500 ft and are expected to drop to 6000
-ft by tonight, lingering at 5500-6000 ft on Monday. Around an inch
-of snow is expected below 7000 ft, with up to 4 inches above 7000
-ft. Periods of breezy winds over the mountains and into the deserts
-is expected through Monday. Peak gust of 35-55 mph will occur in the
-afternoons and early evenings.
-
+Previous discussion...
 Cooler and dry conditions with weaker winds expected on Tuesday.
 Another trough of low pressure is expected to dig into the Pacific
 Northwest sometime Wednesday into Thursday. The broad troughing
@@ -398,33 +397,33 @@ keep us dry and bring chances for Santa Ana winds for the end of
 the week. Weak ridging combined with offshore flow is expected to
 bring warmer conditions to the area next weekend.
 
-
 &&
 
 .AVIATION...
-130030Z...Coasts/Valleys...SCT-BKN low clouds based 3000-6000 ft MSL
+130400Z...Coasts/Valleys...SCT-BKN low clouds based 3000-6000 ft MSL
 over the coastal basin will remain in place through tonight.
 Generally VFR conditions through 12z Mon with coverage of -SHRA
 remaining isolated at best. Thereafter, a slight uptick in shower
 activity is expected, especially in San Diego County. Intermittent
 MVFR cigs/vis in -SHRA/SHRA. Shower activity decreases again from
-north to south from 18z Mon-00z Tue.
+north to south from 18z Mon-00z Tue. BKN low clouds based 3000-5000
+ft return to San Diego County after 03z Tue with bases lowering
+slightly overnight.
 
-
-.Mountains/Deserts...West to southwest winds gusts 30-40
-kts currently through mountain passes, along deserts slopes and
-locally into the deserts. Winds weaken gradually this evening, but
-remain elevated through the night with occasional gusts 20-30 kts
-along the desert floor and frequent gusts 25-35 kts along slopes and
-through passes. Winds strengthen again after 21z Mon with gusts 25-
-40 kts, similar to this afternoon. Isolated SHRA/SNSH activity will
-continue along coastal slopes through Monday morning with an uptick
-in shower coverage Monday afternoon. FG through the period where
-clouds intersect terrain.
+Mountains/Deserts...West to southwest winds gusting 25-40 kts
+currently through mountain passes, along deserts slopes and
+locally into the deserts. Winds will continue to weaken slowly
+through tonight but remain elevated with occasional gusts 20-25
+kts along the desert floor and gusts to 35 kts along slopes and
+through passes. Winds strengthen again after 21z Mon with gusts
+25-40 kts. Isolated SHRA/SNSH activity will continue along coastal
+slopes through Monday morning with an uptick in shower coverage
+Monday afternoon. FG through the period where clouds intersect
+terrain.
 
 Otherwise, current satellite indicates mountain waves are present
 through most of the Inland Empire and deserts. Mod up/downdrafts
-expected through Monday morning in lee of mtns.
+expected through at least Monday morning in lee of mtns.
 
 &&
 
@@ -451,7 +450,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...SS
 AVIATION/MARINE...KW
 
 
