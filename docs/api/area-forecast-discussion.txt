@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T13:42:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T19:16:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-196
-FXUS66 KSGX 130955
+364
+FXUS66 KSGX 131736
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-255 AM PDT Mon Apr 13 2026
+1036 AM PDT Mon Apr 13 2026
 
 .SYNOPSIS...
 Scattered showers will continue into this evening from the coast
@@ -412,22 +412,23 @@ for the Inland Empire with the lower deserts around 90.
 &&
 
 .AVIATION...
-130930Z...Coasts/Valleys...SCT-BKN low clouds based 2500-4000
-feet MSL, mostly BKN over San Diego County. SCT -SHRA today could
-lower cigs to 2000 feet, especially in San Diego County.
--SHRA to gradually taper off NW to SE, with more SCT cloud
- conditions after 00Z overnight into Tuesday.
+131730Z...Coasts/Valleys...Multiple SCT-BKN cloud layers above 2500
+ft MSL expected today. SCT -SHRA could drop cigs to 2000 feet at
+times. -SHRA will taper off NW to SE around 00Z Tue. Cigs below 3000
+ft unlikely for the coast overnight, with 40-50% chance in the
+valleys, especially near mountain foothills 08-14Z Tue. Any
+lingering low clouds should SCT by 18Z Tue.
 
-Mountains/Deserts...West to southwest winds gusting 25-35 kts
-through passes and on to desert slopes. MOD up/downdrafts in lee
-of mountains. SCT SHRA/SNSH will develop after 17Z and continue
-through 00Z. Areas of terrain obscuration below 6000 feet MSL on
-west/south facing slopes.
+.Mountains/Deserts...West to southwest winds gusting 35-45 kt
+through passes and on to desert slopes through 10Z Tue. MOD
+up/downdrafts in lee of mountains. SCT SHRA/SNSH possible through
+00Z Tue in the mountains. Areas of terrain obscuration below 6000
+feet MSL on west/south facing slopes.
 
 &&
 
 .MARINE...
-Isolated westerly wind gusts will exceed 20 kts this afternoon and
+Isolated westerly wind gusts will exceed 20 kt this afternoon and
 evening, generating choppy conditions. No hazardous conditions are
 expected Tuesday through Friday.
 
@@ -436,6 +437,7 @@ expected Tuesday through Friday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -448,7 +450,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...MM
+AVIATION/MARINE...CO
 
 
 </pre>
