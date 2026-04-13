@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T08:00:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T13:42:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,21 +342,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-741
-FXUS66 KSGX 130416
+196
+FXUS66 KSGX 130955
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-916 PM PDT Sun Apr 12 2026
+255 AM PDT Mon Apr 13 2026
 
 .SYNOPSIS...
-Periods of light to locally moderate precipitation expected through
-Monday, most widespread today. Dry conditions return Tuesday and
-will prevail through the rest of the week. Periods of breezy winds
-expected in the afternoons and evenings through Monday and again mid-
-week. Near to below average temperatures expected for much of this
-week with warmer conditions this weekend.
+Scattered showers will continue into this evening from the coast
+to the mountains. There will be southwest to west winds for the
+mountains and deserts with gusts to 35 to 45 mph for this
+afternoon and evening. It will then be dry through next weekend.
+High temperatures will warm to around average on Wednesday, cool a
+few degrees on Thursday with gusty west winds for the mountains
+and deserts, then warm into next weekend with high temperatures
+for next weekend around 5 to 10 degrees above average.
 
 &&
 
@@ -364,81 +366,76 @@ week with warmer conditions this weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-Showers have become more isolated and lighter this evening, with
-most of the activity across San Diego County. This is expected to
-continue overnight as the initial short wave lifts northeast out
-of the area. Snow levels currently around 6500-7000 ft will drop
-to around 5000-5500 Monday morning, then rise to 5500-6000 ft
-Monday afternoon. Any snow accumulation will be one inch or less
-below 7000 ft. A second low, currently near Eureka, will drop
-south and amplify tonight, becoming a closed low over California
-by Monday afternoon. This next wave will interact with residual
-deep boundary layer moisture to produce another round of scattered
-showers and a slight (10%) chance of thunderstorms as cold air
-aloft moves overhead Monday afternoon. Additional rain
-accumulations will range from 0 to 0.20" for the coasts/valleys,
-0.05-0.30" for the mountains, locally up to 0.50" on the west
-facing coastal slopes, and less than 0.05" in the deserts.
-Isolated higher amounts are possible where heavier
-showers/thunderstorms develop. Otherwise southwest to west winds
-gusting 30-40 mph on the desert mountain slopes and through the
-passes continue at times through Monday night, strongest during
-the afternoons and evenings.
+.SHORT TERM (Today through Wednesday)...
+A low pressure system from the northwest will move into to
+southern California this morning, then move east of the area late
+tonight. There will be gusty west winds for the mountains and deserts with
+gusts to 35 to 45 mph for this afternoon and evening with gusts
+to 40 to 50 mph along and below the desert slopes of the mountains
+in San Diego County.
 
-Previous discussion...
-Cooler and dry conditions with weaker winds expected on Tuesday.
-Another trough of low pressure is expected to dig into the Pacific
-Northwest sometime Wednesday into Thursday. The broad troughing
-pattern will keep temperatures near to slightly below average for
-most locations and increase westerly winds in the mountain and
-desert again. This low is expected to stay inland, which will
-keep us dry and bring chances for Santa Ana winds for the end of
-the week. Weak ridging combined with offshore flow is expected to
-bring warmer conditions to the area next weekend.
+Scattered showers will continue at times into this evening with
+additional rainfall of less than one-tenth inch near the coast to
+one-tenth to one-quarter inch in the mountains, locally to one-
+third to one-half inch in the San Diego County mountains. The snow
+level will fall to 5500 to 6000 feet this morning, then fluctuate
+in that range through this evening with snowfall of an inch or two
+above 6000 to 6500 feet. Dry weather will then follow for Tuesday
+through next weekend.
+
+It will be cooler today with high temperatures as much as 20 to 25
+degrees below average for the mountains above 6500 feet. High
+temperatures for today will range from the mid to upper 50s for
+the far inland valleys to the mid 60s for inland coastal areas and
+the western valleys with the lower to mid 70s for the lower
+deserts. There will be drying and warming for Tuesday and
+Wednesday with Wednesday high temperatures around average. High
+temperatures on Wednesday will range from the mid to upper 60s
+near the coast to the 70s for the Inland Empire with the mid to
+upper 80s for the lower deserts.
+
+&&
+
+.LONG TERM (Thursday through Sunday)...
+A low pressure system moving into the Pacific Northwest on
+Wednesday and into the Great Basin on Thursday will bring stronger
+onshore flow to southwestern California on Thursday. High
+temperatures on Thursday will be a few degrees cooler with west
+winds gusting to 35 to 45 mph for the mountains and deserts.
+
+There will be warming for Friday and Saturday with weak offshore
+flow possible on Friday. High temperatures for next weekend will
+be around 5 to 10 degrees above average with high temperatures
+ranging from the lower 70s near the coast to the lower to mid 80s
+for the Inland Empire with the lower deserts around 90.
 
 &&
 
 .AVIATION...
-130400Z...Coasts/Valleys...SCT-BKN low clouds based 3000-6000 ft MSL
-over the coastal basin will remain in place through tonight.
-Generally VFR conditions through 12z Mon with coverage of -SHRA
-remaining isolated at best. Thereafter, a slight uptick in shower
-activity is expected, especially in San Diego County. Intermittent
-MVFR cigs/vis in -SHRA/SHRA. Shower activity decreases again from
-north to south from 18z Mon-00z Tue. BKN low clouds based 3000-5000
-ft return to San Diego County after 03z Tue with bases lowering
-slightly overnight.
+130930Z...Coasts/Valleys...SCT-BKN low clouds based 2500-4000
+feet MSL, mostly BKN over San Diego County. SCT -SHRA today could
+lower cigs to 2000 feet, especially in San Diego County.
+-SHRA to gradually taper off NW to SE, with more SCT cloud
+ conditions after 00Z overnight into Tuesday.
 
-Mountains/Deserts...West to southwest winds gusting 25-40 kts
-currently through mountain passes, along deserts slopes and
-locally into the deserts. Winds will continue to weaken slowly
-through tonight but remain elevated with occasional gusts 20-25
-kts along the desert floor and gusts to 35 kts along slopes and
-through passes. Winds strengthen again after 21z Mon with gusts
-25-40 kts. Isolated SHRA/SNSH activity will continue along coastal
-slopes through Monday morning with an uptick in shower coverage
-Monday afternoon. FG through the period where clouds intersect
-terrain.
-
-Otherwise, current satellite indicates mountain waves are present
-through most of the Inland Empire and deserts. Mod up/downdrafts
-expected through at least Monday morning in lee of mtns.
+Mountains/Deserts...West to southwest winds gusting 25-35 kts
+through passes and on to desert slopes. MOD up/downdrafts in lee
+of mountains. SCT SHRA/SNSH will develop after 17Z and continue
+through 00Z. Areas of terrain obscuration below 6000 feet MSL on
+west/south facing slopes.
 
 &&
 
 .MARINE...
-Northwest winds will briefly strengthen again for outer coastal
-waters Monday afternoon and evening with gusts 15 to 20 kts. Choppy
-seas may create hazardous conditions.Otherwise, no hazardous
-conditions expected through Friday.
+Isolated westerly wind gusts will exceed 20 kts this afternoon and
+evening, generating choppy conditions. No hazardous conditions are
+expected Tuesday through Friday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -450,8 +447,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...KW
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
