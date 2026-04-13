@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-12T18:53:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T02:51:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-034
-FXUS66 KSGX 121839
+809
+FXUS66 KSGX 130033
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1139 AM PDT Sun Apr 12 2026
+533 PM PDT Sun Apr 12 2026
 
 .SYNOPSIS...
 Periods of light to locally moderate precipitation expected through
@@ -365,6 +363,8 @@ week with warmer conditions this weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated aviation/marine discussion...
 
 The main cold front is making it`s way across the Inland Empire and
 San Diego county as of 11:30 AM. The front is expected to weaken
@@ -398,39 +398,41 @@ keep us dry and bring chances for Santa Ana winds for the end of
 the week. Weak ridging combined with offshore flow is expected to
 bring warmer conditions to the area next weekend.
 
+
 &&
 
 .AVIATION...
-121800Z...Coasts/Valleys...SCT-OVC clouds based 3-6 kft are moving
-through the coastal basin as a front progresses through the region.
-A few narrow bands of showers are moving through SD County and the
-Inland Empire and will continue progressing southeastward through
-the afternoon. With -SHRA/SHRA, expect MVFR conditions and brief
-periods of IFR cigs/vis. After FROPA, winds switch from SW to W and
-mainly VFR conditions return with bases staying mostly above 3 kft,
-and remaining SCT-BKN through the remainder of the period. ISO -SHRA
-activity picks up again tonight after 06z, then becoming SCT SHRA
-after 14z Monday morning, yielding to brief periods of MVFR/IFR
-conditions under SHRA.
+130030Z...Coasts/Valleys...SCT-BKN low clouds based 3000-6000 ft MSL
+over the coastal basin will remain in place through tonight.
+Generally VFR conditions through 12z Mon with coverage of -SHRA
+remaining isolated at best. Thereafter, a slight uptick in shower
+activity is expected, especially in San Diego County. Intermittent
+MVFR cigs/vis in -SHRA/SHRA. Shower activity decreases again from
+north to south from 18z Mon-00z Tue.
 
 
-.Mountains/Deserts...West to southwest winds gusts 30-45 kt to
-persist in mountain passes, along deserts slopes and locally into
-the deserts, weakening gradually after 02z this evening, though
-remaining elevated into Monday morning (20-35 kts) and increasing
-again into Monday afternoon. SHRA/SNSH activity to slowly taper off
-this afternoon from north to south, remaining isolated thereafter
-through Monday afternoon. VIS down to 0-5SM in mtns with FG where
-clouds and terrain meet; SHSN may reduce vis locally above 6500 ft
-MSL. Local areas BLDU (vis 3-5SM) expected. Moderate up/downdrafts
-in lee of mtns.
+.Mountains/Deserts...West to southwest winds gusts 30-40
+kts currently through mountain passes, along deserts slopes and
+locally into the deserts. Winds weaken gradually this evening, but
+remain elevated through the night with occasional gusts 20-30 kts
+along the desert floor and frequent gusts 25-35 kts along slopes and
+through passes. Winds strengthen again after 21z Mon with gusts 25-
+40 kts, similar to this afternoon. Isolated SHRA/SNSH activity will
+continue along coastal slopes through Monday morning with an uptick
+in shower coverage Monday afternoon. FG through the period where
+clouds intersect terrain.
+
+Otherwise, current satellite indicates mountain waves are present
+through most of the Inland Empire and deserts. Mod up/downdrafts
+expected through Monday morning in lee of mtns.
 
 &&
 
 .MARINE...
-Periods of increased northwest winds with gusts 15 to 20 kts,
-especially near showers, and choppy seas throughout today. Showers
-taper off Monday.
+Northwest winds will briefly strengthen again for outer coastal
+waters Monday afternoon and evening with gusts 15 to 20 kts. Choppy
+seas may create hazardous conditions.Otherwise, no hazardous
+conditions expected through Friday.
 
 &&
 
@@ -450,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...KW
 
 
 </pre>
