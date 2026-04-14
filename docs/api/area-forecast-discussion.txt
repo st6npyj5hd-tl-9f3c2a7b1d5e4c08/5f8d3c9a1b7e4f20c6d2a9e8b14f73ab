@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-13T19:16:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-14T02:44:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,23 +342,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-364
-FXUS66 KSGX 131736
+399
+FXUS66 KSGX 132351
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1036 AM PDT Mon Apr 13 2026
+451 PM PDT Mon Apr 13 2026
 
 .SYNOPSIS...
-Scattered showers will continue into this evening from the coast
-to the mountains. There will be southwest to west winds for the
-mountains and deserts with gusts to 35 to 45 mph for this
-afternoon and evening. It will then be dry through next weekend.
-High temperatures will warm to around average on Wednesday, cool a
-few degrees on Thursday with gusty west winds for the mountains
-and deserts, then warm into next weekend with high temperatures
-for next weekend around 5 to 10 degrees above average.
+Scattered showers are possible through this evening across much of
+the region. Elevated winds will occur across the mountains and
+deserts through this evening as well. Drier weather will then take
+hold the rest of the week as a subtle warming trend occurs.
+Elevated winds will return to the region by Thursday into Friday.
 
 &&
 
@@ -366,69 +363,61 @@ for next weekend around 5 to 10 degrees above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Wednesday)...
-A low pressure system from the northwest will move into to
-southern California this morning, then move east of the area late
-tonight. There will be gusty west winds for the mountains and deserts with
-gusts to 35 to 45 mph for this afternoon and evening with gusts
-to 40 to 50 mph along and below the desert slopes of the mountains
-in San Diego County.
+Updated Aviation and Marine discussion...
 
-Scattered showers will continue at times into this evening with
-additional rainfall of less than one-tenth inch near the coast to
-one-tenth to one-quarter inch in the mountains, locally to one-
-third to one-half inch in the San Diego County mountains. The snow
-level will fall to 5500 to 6000 feet this morning, then fluctuate
-in that range through this evening with snowfall of an inch or two
-above 6000 to 6500 feet. Dry weather will then follow for Tuesday
-through next weekend.
+An area of low pressure over the southern half of California will
+continue to move eastward today. This system will continue the
+chance for scattered showers across the region. Most areas will
+see a mix of clouds and sun with these showers, though the chance
+for lower deserts seeing any measurable rainfall is below 15%.
+West winds will continue to remain elevated as the trough remains
+in the vicinity. West winds will gust near 25-40 MPH across most
+mountain and desert areas, with local gusts near 50 MPH in
+mountain passes. Satellite imagery shows a drying trend offshore.
+This trend will push onto land through the afternoon with more
+peaks of sun from north to south into the evening. The weather
+system will push further inland over the desert southwest by
+Tuesday. This will lead to all areas warming about 10 degrees than
+that of today, with highs near to slightly below normal. Remnant
+clouds may stick around for areas west of the mountains in the
+morning with most areas clearing by the afternoon.
 
-It will be cooler today with high temperatures as much as 20 to 25
-degrees below average for the mountains above 6500 feet. High
-temperatures for today will range from the mid to upper 50s for
-the far inland valleys to the mid 60s for inland coastal areas and
-the western valleys with the lower to mid 70s for the lower
-deserts. There will be drying and warming for Tuesday and
-Wednesday with Wednesday high temperatures around average. High
-temperatures on Wednesday will range from the mid to upper 60s
-near the coast to the 70s for the Inland Empire with the mid to
-upper 80s for the lower deserts.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-A low pressure system moving into the Pacific Northwest on
-Wednesday and into the Great Basin on Thursday will bring stronger
-onshore flow to southwestern California on Thursday. High
-temperatures on Thursday will be a few degrees cooler with west
-winds gusting to 35 to 45 mph for the mountains and deserts.
-
-There will be warming for Friday and Saturday with weak offshore
-flow possible on Friday. High temperatures for next weekend will
-be around 5 to 10 degrees above average with high temperatures
-ranging from the lower 70s near the coast to the lower to mid 80s
-for the Inland Empire with the lower deserts around 90.
+Slight warming with dry and mostly sunny conditions will occur on
+Wednesday as an area of low pressure tumbles into the Pacific
+Northwest. This system will traverse the Great Basin by Thursday,
+ushering in a broad troughing pattern. The system will stay far
+enough to the north to not provide any major impacts, but high
+temperatures will be up to 5 degrees cooler with elevated west
+winds across the mountains and the deserts. Winds will turn
+offshore late Thursday night into Friday as the system passes
+further inland, so we will continue to monitor how strong these
+winds will be which will be dependent on the exact location that
+this low pressure system goes. Subtle warming looks to occur by
+the weekend, though a large trough offshore could make things
+interesting as we head into the latter part of April.
 
 &&
 
 .AVIATION...
-131730Z...Coasts/Valleys...Multiple SCT-BKN cloud layers above 2500
-ft MSL expected today. SCT -SHRA could drop cigs to 2000 feet at
-times. -SHRA will taper off NW to SE around 00Z Tue. Cigs below 3000
-ft unlikely for the coast overnight, with 40-50% chance in the
-valleys, especially near mountain foothills 08-14Z Tue. Any
-lingering low clouds should SCT by 18Z Tue.
+132350Z...Coasts/Valleys...Multiple SCT-BKN cloud layers above 2,500
+ft MSL expected through the TAF period. SCT -SHRA are slowly
+tapering off but could still drop cigs to 2,000 feet at times. -SHRA
+is expected to clear the area after 07Z. Cigs are not expected to
+drop below 3,000 ft MSL overnight along the coast but could get as
+low as 2,000 ft MSL in the valley areas. Any low clouds should SCT
+by 18Z-19Z.
 
-.Mountains/Deserts...West to southwest winds gusting 35-45 kt
-through passes and on to desert slopes through 10Z Tue. MOD
-up/downdrafts in lee of mountains. SCT SHRA/SNSH possible through
-00Z Tue in the mountains. Areas of terrain obscuration below 6000
-feet MSL on west/south facing slopes.
+.Mountains/Deserts...West to southwest winds are expected to continue
+gusting 35-45 kt through passes and on to desert slopes through 10Z.
+MOD up/downdrafts in lee of mountains. SCT SHRA/SNSH will be
+possible through 07Z in the mountains.
+
+Otherwise, VFR conditions will prevail.
 
 &&
 
 .MARINE...
-Isolated westerly wind gusts will exceed 20 kt this afternoon and
+Isolated westerly wind gusts will exceed 20 kt at times through this
 evening, generating choppy conditions. No hazardous conditions are
 expected Tuesday through Friday.
 
@@ -449,8 +438,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CO
+PUBLIC...APR
+AVIATION/MARINE...Villafane
 
 
 </pre>
