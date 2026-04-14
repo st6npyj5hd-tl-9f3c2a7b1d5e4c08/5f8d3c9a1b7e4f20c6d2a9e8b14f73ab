@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-14T07:49:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-14T13:45:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,25 +337,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-037
-FXUS66 KSGX 140422
+992
+FXUS66 KSGX 141004
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-922 PM PDT Mon Apr 13 2026
+304 AM PDT Tue Apr 14 2026
 
 .SYNOPSIS...
-Isolated showers and breezy west winds in the mountains and
-deserts diminishing tonight. Warmer and drier through Wednesday
-followed by brief cooling and another round of breezy conditions
-in the mountains and deserts on Thursday. Warmer and drier again
-for Friday into the weekend with periods of weak offshore flow.
+Today and Wednesday will be dry with weakening winds with
+Wednesday high temperatures warming to around average. Stronger
+onshore flow will spreading cooling inland on Thursday with
+southwest to west winds for the mountains and deserts gusting to
+35 to 45 mph. The flow will turn offshore on Friday with warming
+for the coast and valleys and continued cooling for the mountains
+and deserts. Northeast winds along and below the coastal slopes
+of the mountains will gust to 35 to 45 mph. Warmer inland with
+weaker winds for next weekend with high temperatures warming to
+around 5 to 10 degrees above average on Sunday.
 
 &&
 
@@ -363,62 +366,73 @@ for Friday into the weekend with periods of weak offshore flow.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-Isolated light showers remain over the region this evening, ending
-tonight as the upper level low progresses eastward. West winds
-gusting to around 25-35 mph in the mountains and deserts will
-gradually weaken overnight as well. Weak upper level ridging
-builds in from the west on Tuesday for warmer and drier weather.
-High temperatures will be as much as 10 to 15 degrees higher than
-today for inland areas, and around 5 degrees higher near the
-coast. The building ridge should help re-establish the marine
-inversion, which was wiped out with the upper low today, for areas
-of low clouds and fog returning Tuesday night into Wednesday
-morning over the coastal areas and far western valleys.
+.SHORT TERM (Today through Thursday)...
+Onshore flow will weaken today with warming and drying through
+Wednesday with Wednesday high temperatures warming to around
+average. High temperatures on Wednesday will range from the mid to
+upper 60s near the coast to the 70s for the valleys with the lower
+deserts in the upper 80s.
 
-Previous discussion...
-Slight warming with dry and mostly sunny conditions will occur on
-Wednesday as an area of low pressure tumbles into the Pacific
-Northwest. This system will traverse the Great Basin by Thursday,
-ushering in a broad troughing pattern. The system will stay far
-enough to the north to not provide any major impacts, but high
-temperatures will be up to 5 degrees cooler with elevated west
-winds across the mountains and the deserts. Winds will turn
-offshore late Thursday night into Friday as the system passes
-further inland, so we will continue to monitor how strong these
-winds will be which will be dependent on the exact location that
-this low pressure system goes. Subtle warming looks to occur by
-the weekend, though a large trough offshore could make things
-interesting as we head into the latter part of April.
+On Thursday, a low pressure system moving inland through the
+northern Rockies and Great Basin will bring stronger onshore flow
+to southern California. High temperatures will cool a few to
+around 5 degrees with high temperatures on Thursday ranging from
+the mid to upper 60s near the coast to the lower to mid 70s for
+the Inland Empire with the 80s for the lower deserts. There will
+be stronger and gusty southwest to west winds for the mountains
+and deserts with gusts to 35 to 45 mph. There will also be an
+increase in clouds for late Wednesday night into Thursday morning.
+
+&&
+
+.LONG TERM (Friday through Monday)...
+The flow will turn offshore on Friday with northeast winds along
+and below the coastal slopes of the mountains gusting to 35 to 45
+mph. High temperatures on Friday will cool a few to around 5
+degrees while the coast and valleys warm 5 to 10 degrees. High
+temperatures on Friday will range from the lower to mid 70s near
+the coast to the upper 70s to mid 80s for the western valleys and
+inland coastal areas with the lower deserts in the lower to mid
+80s.
+
+There will be inland warming with weaker winds for next weekend.
+High temperatures on Saturday will warm around 5 degrees for the
+mountains, deserts, and inland valleys with the deserts warming
+another 5 degrees on Sunday. With the warming, Sunday high
+temperatures will be around 5 to 10 degrees above average, ranging
+from around 70 near the coast to the upper 70s to mid 80s for the
+valleys with the lower deserts in the lower to mid 90s.
+
+For early next week, a low pressure system will move to near the
+West Coast bring cooling and a chance for precipitation with
+continuing model differences in the timing and amplitude of this
+system.
 
 &&
 
 .AVIATION...
-130400Z...Coasts/Valleys...Isolated SHRA ending by 08Z. Otherwise
-multiple SCT-BKN cloud layers 2500-5000 ft MSL through 15Z,
-becoming FEW-SCT after 15Z. There is a 40-60% chance of CIGS with
-bases near 1500 ft MSL developing along the coast and spreading
-around 15 mi inland after 08Z Wednesday.
+140930Z...Coasts/Valleys...SCT to locally BKN low clouds between
+3000-5000 feet MSL will continue this morning, most likely BKN near
+inland foothills. Mostly clear skies will prevail after 17Z. Patchy
+low clouds to gradually form and increase after 08Z overnight into
+Wednesday. Any cigs that form would be around 1500 feet MSL.
 
-Mountains/Deserts...West to southwest winds gusting 25-35 kt
-through passes and on the desert mountain slopes through 10Z. MOD
-up/downdrafts over and east of of mountains. Isolated SHRA/SHSN
-ending by 08Z. Coastal mountain slopes remaining partially
-obscured in clouds/fog through about 15Z.
+Mountains/Deserts...Westerly wind gusts 25-35 kt through passes
+and on to desert slopes through 14Z. MOD up/downdrafts in lee of
+mountains. Clouds on coastal slopes between 3000-4500 feet MSL
+locally obscuring terrain through 17Z. Mostly clear and VFR
+conditions will prevail thereafter.
 
 &&
 
 .MARINE...
-Northwest winds gusting to around 20 kt in the outer coastal
-waters near San Clemente Island Thursday afternoon and evening
-generating choppy conditions.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -430,8 +444,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...SS
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
