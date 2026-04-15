@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-15T13:41:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-15T19:20:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,16 +335,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-037
-FXUS66 KSGX 150916
+401
+FXUS66 KSGX 151731
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-216 AM PDT Wed Apr 15 2026
+1031 AM PDT Wed Apr 15 2026
 
 .SYNOPSIS...
 High temperatures will warm to around average today. Stronger
@@ -407,13 +409,17 @@ Empire with the lower deserts in the lower 90s. Cooler and breezy
 for early next week as a Pacific low pressure system moves toward
 the California coast.
 
+
 &&
 
 .AVIATION...
-150930Z...Coasts...Patchy low clouds based around 1200-1800 feet MSL
-are most likely (40% chance at coastal airports) between 13-17Z this
-morning. Patchy low clouds to redevelop after 06Z overnight into
-Thursday. Any cigs that form would be 1500-2000 feet MSL.
+151730Z...Coasts...Low clouds based around 2000 ft MSL are currently
+lingering over southern SD County (vcty KSAN). Scattering out by
+1830Z with SKC expected through this evening. Patchy low clouds
+based 1500-2000 ft MSL expected to redevelop over nearshore waters
+and coastal areas after 06Z Thu. Coverage will remain patchy through
+Thursday morning. Chances for BKN cigs at TAF sites: 70% at KSAN,
+50% at CRQ, 60% at KSNA.
 
 Otherwise...mostly clear and VFR conditions today through tonight.
 
@@ -430,10 +436,13 @@ expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Wind Advisory from 11 AM Thursday to 2 AM PDT Friday for Apple
+     and Lucerne Valleys.
+
 PZ...None.
 
 &&
@@ -441,7 +450,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...MM
+AVIATION/MARINE...KW
 
 
 </pre>
