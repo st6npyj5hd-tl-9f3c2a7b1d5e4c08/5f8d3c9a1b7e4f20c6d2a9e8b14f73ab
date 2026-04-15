@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-15T07:50:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-15T13:41:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,24 +338,26 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-783
-FXUS66 KSGX 150417
+037
+FXUS66 KSGX 150916
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-917 PM PDT Tue Apr 14 2026
+216 AM PDT Wed Apr 15 2026
 
 .SYNOPSIS...
-Warmer Wednesday with high temperatures near normal. Stronger
+High temperatures will warm to around average today. Stronger
 onshore flow will spread cooling inland on Thursday with
 southwest to west winds for the mountains and deserts gusting to
-35 to 45 mph. Winds turn offshore on Friday with warming for the
-coast and valleys and continued cooling for the mountains and
-deserts. Northeast winds along and below the coastal slopes of the
-mountains will gust to 35 to 45 mph. Warmer inland with weaker
-winds for next weekend with high temperatures warming to around 5
-to 10 degrees above average on Sunday.
+35 to 45 mph. The flow will turn offshore on Friday with warming
+for the coast and valleys and continued cooling for the deserts.
+There will be northeast winds along and below the coastal slopes
+of the mountains gusting to 35 to 45 mph. Warmer with weaker winds
+for next weekend with high temperatures warming to around 5 to 10
+degrees above average on Sunday. Then cooler and breezy early
+next week as a low pressure system moves toward the California
+coast.
 
 &&
 
@@ -363,76 +365,70 @@ to 10 degrees above average on Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-Skies are mostly clear this evening over land areas with a few
-patches of low clouds beginning to develop off the coast. Low
-cloud coverage will be sparse much of the night, then the HREF has
-a 50-60% probability of low clouds in the coastal areas by sunrise
-Wednesday morning, clearing by mid-morning. Weak transitory upper
-level ridging moving over the region on Wednesday will bring
-warmer weather with highs near mid-April normals.
+.SHORT TERM (Today through Friday)...
+High temperatures will continue to warm today, warming a degree
+or two near the coast to around 5 degrees inland. High
+temperatures for today will be around average, ranging from the
+upper 60s near the coast to the mid to upper 70s for the Inland
+Empire with the upper 80s for the lower deserts.
 
-Previous discussion...
-An area of low pressure over the Pacific Northwest will descend
-into the Great Basin on Thursday, generating an increase in
-onshore flow across the region. Gusty west winds will occur in the
-mountains and deserts, with the exact speeds dependent on the
-location of the low and how tight the pressure gradient becomes.
-There is about a 10-15 MPH spread in wind gusts values from the
-NBM`s 25th to 75th percentiles, indicating some uncertainty. A
-combination of high resolution models and NBM guidance in yields
-gusts 30-45 MPH across the deserts with local gusts over 50 MPH in
-the mountain passes. As the base of the trough passes closer to
-SoCal and over the Desert Southwest, winds will transition to a
-Santa Ana wind pattern by Friday. This will bring north and east
-gusty winds to coastal slope and western valley locations. Again,
-the exact track of the low will determine how windy it becomes,
-but wind speeds do look similar to that of Thursday in these
-regions, probably closer to 20-35 MPH across valleys of Orange
-County and the Inland Empire. The Santa Ana wind regime will bring
-a slight warm up to the coastal basin with slightly cooler
-weather across the deserts.
+A low pressure system moving through the Great Basin and northern
+Rockies on Thursday will strengthen the onshore flow across
+southern California. There will be stronger southwest to west
+winds for the mountains and deserts during the afternoon and
+evening with gusts to 35 to 45 mph. High temperatures will be a
+few degrees cooler with high temperatures ranging from the mid to
+upper 60s near the coast to the lower to mid 70s for the Inland
+Empire with the mid to upper 60s for the lower deserts. Clouds
+will increase late tonight into Thursday, then decrease Thursday
+night.
 
-A transient ridge enters the picture by this coming weekend,
-bringing less wind and warmer weather across the board. This will
-bring highs near to slightly above average with 70s and 80s west of
-the mountains and reaching into the 90s across the lower deserts.
-Another large area of low pressure system will move closer to the
-West Coast by early next week. Model guidance continues to show
-differences in timing, strength, and placement of this system. This
-will bring cooler and windier weather with the increased chance of
-precipitation. How much precip and what time (if any) occurs, is
-still...up in the air. Confidence continues to increase that this
-weekend will be dry, but we will continue to watch a change in the
-forecast pattern slated for early next week.
+For late Thursday night and Friday, the lower-level flow will
+become offshore with north to northeast winds along and below the
+coastal slopes of the mountains gusting to 35 to 45 mph with
+isolated gusts to 55 mph. High temperatures for the deserts will
+be several degrees cooler on Friday while the coast and valleys
+warm 5 to 10 degrees. High temperatures on Friday will be mostly
+in the 70s for the coast and valleys to around 80 for the western
+valleys and inland coastal areas with the lower deserts around
+80.
+
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+There will be inland warming during the weekend with weaker winds.
+High temperatures on Saturday will warm 5 to 10 degrees for inland
+areas. High temperatures on Sunday will warm another 5 degrees or
+so for the deserts into the mountains while coastal areas into the
+western valleys are a few degrees cooler. High temperatures on
+Sunday will be 5 to 10 degrees above average, ranging from the
+lower 70s near the coast to the lower to mid 80s for the Inland
+Empire with the lower deserts in the lower 90s. Cooler and breezy
+for early next week as a Pacific low pressure system moves toward
+the California coast.
 
 &&
 
 .AVIATION...
-150400Z...Coasts/Valleys...Mostly clear skies and VFR conditions
-expected through this evening. Low clouds based around 2000 ft MSL
-will develop over nearshore waters around 10-13z Wed. 40% chance for
-coastal TAF sites to experience BKN cigs 12-17z. Clouds scatter
-out by late morning. Low clouds may redevelop over waters and
-coastal San Diego County late Wednesday evening, but coverage will
-likely remain patchy as SCT-BKN high clouds AOA 20 kft move overhead.
+150930Z...Coasts...Patchy low clouds based around 1200-1800 feet MSL
+are most likely (40% chance at coastal airports) between 13-17Z this
+morning. Patchy low clouds to redevelop after 06Z overnight into
+Thursday. Any cigs that form would be 1500-2000 feet MSL.
 
-Mountains/Deserts...Mostly clear with VFR conditions will prevail
-through Wed evening.
+Otherwise...mostly clear and VFR conditions today through tonight.
 
 &&
 
 .MARINE...
-Wind gusts could briefly reach 20 kt Thursday afternoon and evening.
-Otherwise, no hazardous marine conditions are expected through
-Sunday.
+Wind gusts to reach around 20 kts near San Clemente Island Thursday
+afternoon and evening. Otherwise, no hazardous marine conditions are
+expected through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -444,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS/APR
-AVIATION/MARINE...KW
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
