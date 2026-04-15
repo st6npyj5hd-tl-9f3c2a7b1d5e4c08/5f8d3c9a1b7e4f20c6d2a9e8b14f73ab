@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-14T19:19:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-15T02:42:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-856
-FXUS66 KSGX 141744
+404
+FXUS66 KSGX 150019
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1044 AM PDT Tue Apr 14 2026
+519 PM PDT Tue Apr 14 2026
 
 .SYNOPSIS...
 Today and Wednesday will be dry with weakening winds with
@@ -366,58 +366,62 @@ around 5 to 10 degrees above average on Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Thursday)...
-Onshore flow will weaken today with warming and drying through
-Wednesday with Wednesday high temperatures warming to around
-average. High temperatures on Wednesday will range from the mid to
-upper 60s near the coast to the 70s for the valleys with the lower
-deserts in the upper 80s.
+Drier and cooler air is in place after the passage of Monday`s low
+pressure system, which now is spinning over the Four Corners region.
+The last of the moisture remains over the coastal basin in the form
+of cumulus clouds from earlier this morning, which will mostly clear
+throughout the afternoon. Slightly warmer weather will be seen on
+Wednesday as the system departs into the Great Plains and an area of
+low pressure stays far to the north along the West Coast and U.S. -
+Canada border. High temperatures will be close to normal for this
+time of year by Wednesday afternoon with highs in the 70s for
+much of the coastal basin and high desert with 50s and 60s across
+the mountain areas.
 
-On Thursday, a low pressure system moving inland through the
-northern Rockies and Great Basin will bring stronger onshore flow
-to southern California. High temperatures will cool a few to
-around 5 degrees with high temperatures on Thursday ranging from
-the mid to upper 60s near the coast to the lower to mid 70s for
-the Inland Empire with the 80s for the lower deserts. There will
-be stronger and gusty southwest to west winds for the mountains
-and deserts with gusts to 35 to 45 mph. There will also be an
-increase in clouds for late Wednesday night into Thursday morning.
+The area of low pressure over the Pacific Northwest will descend
+into the Great Basin on Thursday, generating an increase in onshore
+flow across the region. Gusty west winds will occur in the mountains
+and deserts, with the exact speeds given by the location of the low
+and how tight the pressure gradient becomes. There is about a 10-15
+MPH spread in wind gusts values from the NBM`s 25th to 75th
+percentiles, indicating some uncertainty. A combination of high
+resolution models and NBM guidance in yields gusts 30-45 MPH across
+the deserts with local gusts over 50 MPH in the mountain passes. As
+the base of the trough passes closer to SoCal and over the Desert
+Southwest, winds will transition to a Santa Ana wind pattern by
+Friday. This will bring north and east gusty winds to coastal slope
+and western valley locations. Again, the exact track of the low will
+determine how windy it becomes, but wind speeds do look similar to
+that of Thursday in these regions, probably closer to 20-35 MPH
+across valleys of Orange County and the Inland Empire. The Santa Ana
+wind regime will bring a slight warm up to the coastal basin with
+slightly cooler weather across the deserts.
 
-&&
+A transient ridge enters the picture by this coming weekend,
+bringing less wind and warmer weather across the board. This will
+bring highs near to slightly above average with 70s and 80s west of
+the mountains and reaching into the 90s across the lower deserts.
+Another large area of low pressure system will move closer to the
+West Coast by early next week. Model guidance continues to show
+differences in timing, strength, and placement of this system. This
+will bring cooler and windier weather with the increased chance of
+precipitation. How much precip and what time (if any) occurs, is
+still...up in the air. Confidence continues to increase that this
+weekend will be dry, but we will continue to watch a change in the
+forecast pattern slated for early next week.
 
-.LONG TERM (Friday through Monday)...
-The flow will turn offshore on Friday with northeast winds along
-and below the coastal slopes of the mountains gusting to 35 to 45
-mph. High temperatures on Friday will cool a few to around 5
-degrees while the coast and valleys warm 5 to 10 degrees. High
-temperatures on Friday will range from the lower to mid 70s near
-the coast to the upper 70s to mid 80s for the western valleys and
-inland coastal areas with the lower deserts in the lower to mid
-80s.
-
-There will be inland warming with weaker winds for next weekend.
-High temperatures on Saturday will warm around 5 degrees for the
-mountains, deserts, and inland valleys with the deserts warming
-another 5 degrees on Sunday. With the warming, Sunday high
-temperatures will be around 5 to 10 degrees above average, ranging
-from around 70 near the coast to the upper 70s to mid 80s for the
-valleys with the lower deserts in the lower to mid 90s.
-
-For early next week, a low pressure system will move to near the
-West Coast bring cooling and a chance for precipitation with
-continuing model differences in the timing and amplitude of this
-system.
 
 &&
 
 .AVIATION...
-141745Z...Coasts/Valleys...SCT clouds above 3000 ft MSL through the
-afternoon. Patchy low clouds to gradually form and increase after
-10Z Wed. Any cigs that form would be around 1500 feet MSL. Low
-clouds will scatter out 16-18Z Wed.
+150015Z...Coasts/Valleys...Mostly clear skies and VFR conditions
+expected through this evening. Low clouds based around 2000 ft MSL
+will develop over nearshore waters around 10-13z Wed. 40% chance for
+coastal TAF sites to experience BKN cigs 12-17z. Low clouds scatter
+out by late morning.
 
 Mountains/Deserts...Mostly clear with VFR conditions will prevail
-into Wed.
+through Wed evening.
 
 &&
 
@@ -443,8 +447,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CO
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
