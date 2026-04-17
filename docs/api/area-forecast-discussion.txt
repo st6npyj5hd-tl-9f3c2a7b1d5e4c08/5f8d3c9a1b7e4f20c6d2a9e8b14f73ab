@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-17T07:50:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-17T13:23:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,32 +333,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-914
-FXUS66 KSGX 170453
+251
+FXUS66 KSGX 171145
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-953 PM PDT Thu Apr 16 2026
+445 AM PDT Fri Apr 17 2026
 
 .SYNOPSIS...
-A little cooler today than yesterday under cloudy skies, with
-southwest to west winds gusting 35 to 45 mph in the mountains and
-deserts during the afternoon and evening. The flow will turn
-offshore on Friday, with warming for the coast and valleys and
-continued cooling for the deserts. There will be north to
-northeast winds along and below the coastal slopes of the
-mountains, peaking Friday morning with gusts to 35 to 45 mph. For
-the weekend, weaker winds and warmer inland with Sunday high
-temperatures 5 to 10 degrees above average. Some time during the
-early to middle part of next week, a low pressure system will move
-into California bringing cooler and breezy weather with a less
-than 20 percent chance of measurable precipitation.
+Offshore flow will bring warming for the coast and valleys today.
+North winds along and below the coastal slopes of the Santa Ana
+Mountains and San Bernardino County mountains will gust to 35 to
+45 mph through this morning. Inland areas will warm through the
+weekend while coastal areas begin to cool on Sunday. Onshore will
+begin to strengthen and spread cooling inland on Monday as a low
+pressure system moving into California brings cooler and breezy
+conditions for the middle of next week.
 
 &&
 
@@ -366,84 +360,66 @@ than 20 percent chance of measurable precipitation.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+.SHORT TERM (Today through Sunday)...
+Northerly winds will strengthen along and below the coastal
+slopes of the Santa Ana mountains and San Bernardino County
+mountains into this morning. The winds will gust to 35 to 45 mph
+with isolated gusts near and below the Cajon Pass to 55 mph.
 
-This afternoon...a low pressure system to our southwest continues
-to bring widespread mid and high clouds to SoCal, along with
-onshore flow and slightly lower temperatures. The marine layer has
-been disrupted by this system and there is no significant inversion
-and very few low clouds, mostly over the coastal waters. As this
-system moves inland over northern Baja this evening and tonight,
-the onshore flow will strengthen briefly producing westerly winds
-locally gusting 35 to 45 mph in the mountains and deserts.
+High temperatures for the coast and valleys will warm around 4 to
+8 degrees today while the deserts cool around 5 degrees. High
+temperatures for today will range from around 70 near the coast to
+the 70s to around 80 for the valleys and inland Orange County
+with the lower deserts in the lower to mid 80s.
 
-For late tonight into Friday morning...a surface high will move
-into the Great Basin, briefly setting up offshore flow. Gusty
-north to northeast winds will develop early Friday morning, peak
-during the day and weaken Friday evening. Gusts of 35 to 45 mph
-are expected in and below the Cajon Pass, along and below the
-coastal slopes of the Santa Ana Mountains, and in northern and
-eastern portions of the Coachella Valley. The offshore flow will
-also bring about 5 degrees of warming to the areas west of the
-mountains but the deserts could be about 5 degrees cooler than
-today. High temperatures on Friday will be mostly in the 70s for
-the coast and valleys to around 80 for the western valleys and
-inland coastal areas with high temperatures for the lower deserts
-in the lower to mid 80s.
+Warming on Saturday will range from a degree or two near the
+coast to 5 to locally 10 degrees for the deserts. The mountains
+and deserts will warm another 5 degrees on Sunday with the coast
+and western valleys cooling a few degrees. High temperatures on
+Sunday will be 5 to 10 degrees above average, ranging from around
+70 near the coast to the upper 70s to mid 80s for the Inland
+Empire with the lower deserts in the lower to mid 90s.
 
-The offshore winds will weaken on Saturday and a transient ridge
-of high pressure ahead of a low pressure system, developing south
-of the Gulf of Alaska, will bring daytime temperatures about 5-10
-degrees higher than Friday. High temperatures are expected to
-range from the lower 70s near the coast to the lower to mid 80s
-for the Inland Empire with the lower deserts around 90.
+&&
 
-Warming will continue for inland areas on Sunday under southwest
-flow aloft ahead of the low pressure system moving southward off
-the CA coast. High temperatures on Sunday will likely be 5 to 10
-degrees above average for most areas. Sunday high temperatures
-will range from the lower 70s near the coast to the lower to mid
-80s for the Inland Empire with the lower to mid 90s for the lower
-deserts.
-
-For Monday through the middle of next week...Model solutions have
-not yet begun to converge on a solution so forecast details are
-quite uncertain. The low pressure system will move inland over CA
-by Wed or Thu. We can say with reasonable confidence that conditions
-will be cooler and breezier with increasing clouds. Almost half
-the ensemble members across model platforms indicate the potential
-for measurable precipitation but timing and amounts are uncertain.
-At this time, the National Blend of Models indicate a 15%-25%
-chance of measurable precip between next Tue and Thu.
+.LONG TERM (Monday through Thursday)...
+Onshore flow will begin to strengthen on Monday and begin to
+spread cooling inland with Monday high temperatures a few to
+around 5 degrees above average. A low pressure system moving into
+California some time around late Tuesday and Wednesday will bring
+cooler and breezy conditions along with a slight chance of
+showers. High temperatures for next Wednesday will fall to around
+average near the coast to 5 to locally 10 degrees below average
+for the mountains. High temperatures for next Wednesday will
+range from the mid to upper 60s near the cast to the lower to mid
+70s for the Inland Empire with the lower deserts in the lower to
+mid 80s.
 
 &&
 
 .AVIATION...
-170430Z...Coast/Valleys/Coastal Slopes...Patchy low clouds based
-1500-2000 ft MSL are currently developing over coastal areas. Low
-clouds spread into San Diego/Orange County valleys and the southern
-Inland Empire by 06-09z, though coverage should remain patchy and
-intermittent for all areas. Greatest chance for BKN cigs will occur
-now through 09z in San Diego County. Thereafter, flow turns offshore
-with any remaining low clouds clearing out of land areas by 12-15z.
-North to northeast winds become elevated to strong starting 09-12z
-along coastal slopes in San Bernardino County. Then, winds spread
-through/downwind of the Cajon Pass into the Inland Empire and Santa
-Ana mtns. Gusts 35-45 mph expected, locally to 50 mph through wind
-prone passes and coastal slopes. MOD up/downdrafts in lee of
-mountains. Winds weaken and eventually diminish Friday afternoon.
+171145Z...Coast/Valleys/Coastal Slopes...Low clouds have been
+steadily climbing overnight with current bases 2500-3500ft MSL.
+Intermittent SCT/BKN cigs still exists in the valleys and coastal
+slopes but will continue to clear through 15-16Z. Coastal areas have
+scattered out but could still see lingering low clouds through the
+early morning hours. North to northeast winds are expected to become
+elevated around 14-16Z along coastal slopes in San Bernardino
+County. Winds will spread through the Cajon Pass into the Inland
+Empire and the Santa Ana mtns. Expect gusts 35-45 mph, locally up to
+50 mph through wind prone passes and coastal slopes. MOD
+up/downdrafts in lee of mountains. Winds weaken and eventually
+diminish by the afternoon.
 
-Desert Slopes/Deserts...Elevated to strong westerly winds are
-currently gusting up to 30 to 40 knots in the High desert, along
-desert slopes and through mountain passes. Winds will shift to
-northerly and weaken from 06-12z. The exception will be the northern
-Coachella Valley where northerly winds will remain strong into early
-Friday afternoon. MOD up/downdrafts in lee of mountains.
+Desert Slopes/Deserts...Still seeing some gusty winds in the
+deserts, desert slopes and through mountain passes but will weaken,
+with the exception of the northern Coachella Valley, after the winds
+shift to northerly. MOD up/downdrafts in lee of mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -451,17 +427,13 @@ No hazardous marine conditions are expected through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 5 AM to 5 PM PDT Friday for Orange County
+CA...Wind Advisory until 5 PM PDT this afternoon for Orange County
      Inland Areas-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-Santa Ana
      Mountains and Foothills.
-
-     Wind Advisory until 2 AM PDT Friday for Apple and Lucerne
-     Valleys.
 
 PZ...None.
 
@@ -469,8 +441,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...KW
+PUBLIC...17
+AVIATION/MARINE...Villafane
 
 
 </pre>
