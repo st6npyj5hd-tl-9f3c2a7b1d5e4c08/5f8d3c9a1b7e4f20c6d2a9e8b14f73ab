@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-17T19:03:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-18T02:35:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,23 +336,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-251
-FXUS66 KSGX 171145
+373
+FXUS66 KSGX 180020
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-445 AM PDT Fri Apr 17 2026
+520 PM PDT Fri Apr 17 2026
 
 .SYNOPSIS...
 Offshore flow will bring warming for the coast and valleys today.
 North winds along and below the coastal slopes of the Santa Ana
-Mountains and San Bernardino County mountains will gust to 35 to
-45 mph through this morning. Inland areas will warm through the
-weekend while coastal areas begin to cool on Sunday. Onshore will
-begin to strengthen and spread cooling inland on Monday as a low
-pressure system moving into California brings cooler and breezy
-conditions for the middle of next week.
+Mountains and San Bernardino County mountains were gusting 35 to
+45 mph this morning but will weaken through this evening. Inland
+areas will warm through the weekend while coastal areas begin to
+cool on Sunday as onshore flow returns. Onshore will begin to
+strengthen and spread cooling inland on Monday as a low pressure
+system moving into California brings cooler and breezy conditions
+for the middle of next week.
 
 &&
 
@@ -360,61 +361,71 @@ conditions for the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-Northerly winds will strengthen along and below the coastal
-slopes of the Santa Ana mountains and San Bernardino County
-mountains into this morning. The winds will gust to 35 to 45 mph
-with isolated gusts near and below the Cajon Pass to 55 mph.
+...Updated aviation discussion for 00Z TAFs...
 
-High temperatures for the coast and valleys will warm around 4 to
-8 degrees today while the deserts cool around 5 degrees. High
-temperatures for today will range from around 70 near the coast to
-the 70s to around 80 for the valleys and inland Orange County
-with the lower deserts in the lower to mid 80s.
+This afternoon...Offshore flow continues, with surface
+pressure gradients -7.4 SAN-TPH and -2.7 SAN-DAG resulting in wind
+gusts of 35-40 mph in the wind-prone areas along and below the
+coastal slopes of the Santa Ana Mountains and San Bernardino
+County mountains. The winds will weaken through this evening. Weak
+offshore gradients, dry conditions inland and overnight drainage
+winds will inhibit the return of marine layer low clouds/fog
+tonight into Sat morning. High temperatures for the coast and
+valleys will warm about 4 to 8 degrees today while the deserts
+cool by about 5 degrees. High temperatures for today will range
+from around 70 near the coast to the 70s to around 80 for the
+valleys and inland Orange County with the lower deserts in the
+lower to mid 80s.
 
-Warming on Saturday will range from a degree or two near the
-coast to 5 to locally 10 degrees for the deserts. The mountains
-and deserts will warm another 5 degrees on Sunday with the coast
-and western valleys cooling a few degrees. High temperatures on
-Sunday will be 5 to 10 degrees above average, ranging from around
-70 near the coast to the upper 70s to mid 80s for the Inland
-Empire with the lower deserts in the lower to mid 90s.
+The closed upper low that was off the west coast of Baja has moved
+east and become an open wave over central Baja giving SoCal dry
+northwest flow aloft ahead of a building ridge over the eastern
+Pacific. This ridge will shift eastward over CA bringing us
+generally warmer weather for the weekend. Temperatures on Saturday
+will rise anywhere from a degree or two near the coast to 5 to
+locally 10 degrees for the deserts. The mountains and deserts
+will warm by another 5 degrees or so on Sunday, with the coast
+and western valleys cooling by a few degrees as onshore flow
+strengthens. High temperatures on Sunday will be 5 to 10 degrees
+above average, ranging from around 70 near the coast to the upper
+70s to mid 80s for the Inland Empire with the lower deserts in the
+lower to mid 90s.
 
-&&
+Onshore flow will strengthen further on Monday spreading cooler
+marine air farther inland, giving us high temperatures a few to
+around 5 degrees above average. It will also bring a return of
+marine layer low clouds and fog during the nights and mornings.
 
-.LONG TERM (Monday through Thursday)...
-Onshore flow will begin to strengthen on Monday and begin to
-spread cooling inland with Monday high temperatures a few to
-around 5 degrees above average. A low pressure system moving into
-California some time around late Tuesday and Wednesday will bring
-cooler and breezy conditions along with a slight chance of
-showers. High temperatures for next Wednesday will fall to around
-average near the coast to 5 to locally 10 degrees below average
-for the mountains. High temperatures for next Wednesday will
-range from the mid to upper 60s near the cast to the lower to mid
-70s for the Inland Empire with the lower deserts in the lower to
-mid 80s.
+A low pressure system moving into California around late
+Tuesday/early Wednesday will bring cooler and breezy conditions
+along with a slight chance of showers. High temperatures for next
+Wednesday will fall to around average near the coast to 5 to
+locally 10 degrees below average for the mountains. High
+temperatures for next Wednesday will range from the mid to upper
+60s near the cast to the lower to mid 70s for the Inland Empire
+with the lower deserts in the lower to mid 80s. Numerical models
+are in fairly good agreement through Tuesday with respect to the
+evolution of the low pressure system. Although the chance for
+precipitation cannot be eliminated, a slim majority of ensemble
+members across model platforms favor a dry solution as the closed
+upper low is now projected to move inland to our north.
+
+The upper level trough axis will move inland on Thursday but we
+will remain under a broad trough of low pressure aloft as a
+reinforcing shortwave trough embedded in the northwest flow aloft
+brings additional cold air into CA. Inland temperatures will
+likely remain near or below seasonal averages from Wed through
+Fri.
 
 &&
 
 .AVIATION...
-171145Z...Coast/Valleys/Coastal Slopes...Low clouds have been
-steadily climbing overnight with current bases 2500-3500ft MSL.
-Intermittent SCT/BKN cigs still exists in the valleys and coastal
-slopes but will continue to clear through 15-16Z. Coastal areas have
-scattered out but could still see lingering low clouds through the
-early morning hours. North to northeast winds are expected to become
-elevated around 14-16Z along coastal slopes in San Bernardino
-County. Winds will spread through the Cajon Pass into the Inland
-Empire and the Santa Ana mtns. Expect gusts 35-45 mph, locally up to
-50 mph through wind prone passes and coastal slopes. MOD
-up/downdrafts in lee of mountains. Winds weaken and eventually
-diminish by the afternoon.
-
-Desert Slopes/Deserts...Still seeing some gusty winds in the
-deserts, desert slopes and through mountain passes but will weaken,
-with the exception of the northern Coachella Valley, after the winds
-shift to northerly. MOD up/downdrafts in lee of mountains.
+180000Z...Mostly clear and VFR conditions expected regionwide
+through most of tonight. North to northeast winds gusting 20-35 kts
+through mountain passes and locally into valleys will continue to
+calm through about 02Z. Patchy low clouds around the coast early
+Saturday 10-16Z, but any cigs would be brief and isolated, based
+around 1000 feet MSL.
 
 &&
 
@@ -430,19 +441,15 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 5 PM PDT this afternoon for Orange County
-     Inland Areas-San Bernardino County Mountains-San Bernardino
-     and Riverside County Valleys-The Inland Empire-Santa Ana
-     Mountains and Foothills.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Villafane
+PUBLIC...PG
+AVIATION/MARINE...CSP
 
 
 </pre>
