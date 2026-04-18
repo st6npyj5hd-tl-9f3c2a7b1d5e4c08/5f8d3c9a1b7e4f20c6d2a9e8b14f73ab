@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-18T13:06:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-18T18:54:22+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,16 +331,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-791
-FXUS66 KSGX 181137
+832
+FXUS66 KSGX 181628
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-437 AM PDT Sat Apr 18 2026
+928 AM PDT Sat Apr 18 2026
 
 .SYNOPSIS...
 Inland areas will warm this weekend while coastal areas begin to
@@ -358,11 +360,8 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation Discussion for 12Z TAFs...
+...Updated Aviation Discussion for 18Z TAFs...
 
-Very patchy stratus has developed over San Diego County this
-morning with mostly clear skies elsewhere. Expect coverage to
-remain sparse under weak offshore flow, clearing by mid-morning.
 An upper level ridge moves east across the area today as it
 amplifies, bringing warming across the inland areas - as much as
 10 degrees warmer than yesterday in the high desert. Highs will be
@@ -408,31 +407,21 @@ during this time, but the marine inversion may be weak enough that
 low cloud coverage will be somewhat patchy in the coastal areas
 and valleys once the main trough axis passes on Wednesday.
 
-
 &&
 
 .AVIATION...
-181130Z...A couple of small patches of low clouds currently in the
-northern San Diego County valley at 1700 ft MSL. Otherwise, looking
-at mostly clear skies and VFR conditions through the TAF period.
-Northerly winds have weakened. Still could see gusts up to 20-25kts
-along the coastal slopes of the Riverside County mountains and in
-the Inland Empire after 22Z but, everywhere else looks to remain
-below 15 kts. Patchy low clouds around 1500-2500ft MSL have a 30-50%
-chance of forming along the San Diego County coast and inland 15
-miles after 05Z Sunday.
+181620Z...Mostly clear skies and VFR conditions through this
+evening. Patchy low clouds building in from the south with higher
+confidence to cover areas of coastal San Diego County between 09-16Z
+Sunday. Cigs near 1300-2000ft MSL with a 50-70% chance of BKN
+conditions at VCTY KSAN. Increasing south and west winds across the
+desert slopes into the deserts Sunday afternoon/evening near 20-30
+kts.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -445,7 +434,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...APR
 
 
 </pre>
