@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-19T02:52:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-19T07:22:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-737
-FXUS66 KSGX 190053
+141
+FXUS66 KSGX 190503
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-553 PM PDT Sat Apr 18 2026
+1003 PM PDT Sat Apr 18 2026
 
 .SYNOPSIS...
 Inland areas will warm this weekend while coastal areas begin to
@@ -418,18 +418,23 @@ valleys once the main trough axis passes on Wednesday.
 &&
 
 .AVIATION...
-190000Z...Mostly clear skies and VFR conditions through this
-evening. Patchy low clouds building in from the south with higher
-confidence to cover areas of coastal San Diego County between
-09-16z Sunday. Cigs near 1300-2000ft MSL with a 50-70% chance of
-BKN conditions at VCTY KSAN. Increasing south and west winds
-across the desert slopes into the deserts Sunday afternoon/evening
-near 20-30 kts.
+190600Z...Mostly clear skies and VFR conditions continue this
+evening, with low clouds lurking about 50 miles southwest of San
+Diego at 10 PM through this evening. These low clouds will gradually
+spread northward over the next several hours, with higher confidence
+to cover areas of coastal San Diego County between 09-16z. CIGs near
+1300-2000ft MSL with a ~70% chance of BKN conditions at VCTY KSAN
+after 10z.
+
+Increasing westerly to southwesterly winds across the desert slopes
+into the deserts Sunday afternoon/evening near 20-30 kts.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
+Elevated onshore (northwesterly) wind gusts near 20-25 knots are
+possible Wednesday into Thursday.
 
 &&
 
