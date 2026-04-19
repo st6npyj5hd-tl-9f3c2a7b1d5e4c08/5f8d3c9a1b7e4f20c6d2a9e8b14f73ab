@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-18T18:54:22+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-19T02:52:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,28 +331,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-832
-FXUS66 KSGX 181628
+737
+FXUS66 KSGX 190053
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-928 AM PDT Sat Apr 18 2026
+553 PM PDT Sat Apr 18 2026
 
 .SYNOPSIS...
 Inland areas will warm this weekend while coastal areas begin to
-cool on Sunday as onshore flow returns. Onshore flow will begin
-to strengthen and spread cooling inland on Monday as a low
-pressure system moving into California brings cooler and breezy
-conditions for the middle of next week, along with a slight chance
-of precipitation Tuesday afternoon into Wednesday morning. Cool
-weather and breezy onshore flow persist for the remainder of the
-week.
+cool on Sunday as onshore flow returns. Onshore flow will strengthen
+and spread cooling inland on Monday as a low pressure system
+moving into California brings cooler and breezy conditions for the
+middle of next week, along with a slight chance of precipitation
+Tuesday afternoon into Wednesday morning. Cool weather and breezy
+onshore flow persist for the remainder of the week.
 
 &&
 
@@ -360,63 +357,74 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation Discussion for 18Z TAFs...
+Hazy sunshine this afternoon under a ridge of high pressure, with
+variable high clouds ahead of a weak upper level trough approaching
+from the west. Temperatures are close to what they were yesterday
+in the coastal areas while inland they are as much as 10-12
+degrees higher. Surface pressure gradients remain weakly offshore
+and helped to prevent low clouds from spreading inland last night.
+In the mountain passes and foothills, northeast to east winds are
+still occasionally gusting 25-35 mph but will continue to weaken
+while a sea breeze is developing in the coastal areas and valleys.
 
-An upper level ridge moves east across the area today as it
-amplifies, bringing warming across the inland areas - as much as
-10 degrees warmer than yesterday in the high desert. Highs will be
-in the low to mid 70s along the coast, upper 70s to mid 80s for
-inland coastal areas and valleys, upper 50s to upper 60s in the
-mountains, mid to upper 70s in the high desert, and upper 80s to
-around 90 in the low desert. The upper level high shifts further
-east and continues to amplify on Sunday, continuing warming in the
-mountains and deserts. A return of onshore flow will spread
-cooling inland west of the mountains, and bring more widespread
-low clouds along the coast tonight into Sunday morning.
+The high pressure ridge will shift eastward over the next several
+days as a vigorous low pressure system moves in from the northwest.
+Temperatures will generally remain several degrees above seasonal
+average through Monday as we remain in the warm sector ahead of
+the approaching low pressure system. Highs will be in the low to
+mid 70s along the coast, upper 70s to mid 80s for inland coastal
+areas and valleys, upper 50s to upper 60s in the mountains, mid to
+upper 70s in the high desert, and upper 80s to around 90 in the
+low desert. A return of onshore flow will spread cooling inland
+west of the mountains, and bring more widespread low clouds along
+the coast tonight into Sunday morning.
 
-Onshore flow strengthens Monday through Wednesday as a large upper
-level low gradually progresses inland through California. Gradual
-cooling takes place through this period, with highs decreasing to
-around 3 to 8 degrees below normal by Wednesday. Gusty onshore
-winds develop over the mountains, deserts, and through the passes
-each afternoon and evening, peaking on Tuesday as the initial
-short wave passes. Wind gusts around 30-45 mph will occur along
-the desert mountain slopes, below the passes, and into the deserts
-Tuesday, with locally higher gusts below the San Gorgonio Pass.
+Onshore flow strengthens Monday through Wednesday as the low
+pressure system moves inland through California. Gradual cooling
+takes place through this period, with highs decreasing to around 3
+to 8 degrees below normal by Wednesday. Wednesday will likely be
+the coolest day as the upper level trough axis moves inland and
+colder air filters into SoCal from the northwest. Gusty southwest
+to west winds develop over the mountains, deserts, and through
+the passes each afternoon and evening, peaking on Tuesday as the
+closed upper low moves inland to our north. Wind gusts around
+30-45 mph will occur along the desert mountain slopes, below the
+passes, and into the deserts Tuesday, with locally higher gusts
+below the San Gorgonio Pass.
 
-The upper trough will also bring a slight chance of showers
-sometime Tuesday into Wednesday. There are still some differences
-in the ensembles with the exact timing of the trough. General
-consensus is that we`ll be on the tail end of this system, with
-only light precipitation if any. NBM probabilities of measurable
-rain (at least 0.01") for the 24 hr period of 5 am Tuesday through
-5 am Wednesday range from around 25% for Orange County/far west
-Inland Empire and the mountains to 10-15% for the remainder of
-the Inland Empire, high desert, and San Diego County coasts and
+The passage of the upper level trough will bring a slight chance
+of showers sometime late Tuesday into Wednesday. Forecast details
+are still somewhat uncertain but most likely we will be on the
+southern periphery of the moisture with limited potential for
+precipitation. The National Blend of Models probabilities of
+measurable rain (at least 0.01") for the 24 hr period ending at 5
+am Wednesday range from around 20% for Orange County/far west
+Inland Empire and the mountains to 10-15% for the remainder of the
+Inland Empire, high desert, and San Diego County coasts and
 valleys, and less than 5% in the low desert. Chances of at least
-0.10" is around 20% along the south slopes of the San Bernardino
-Mountains and less than 10% elsewhere. A second short wave moves
-through sometime late Wednesday, but is currently forecast to be
-to dry to produce any precipitation.
+0.10" is around 15%-20% along the south slopes of the San
+Bernardino Mountains and less than 10% elsewhere. A second short
+wave moves through sometime late Wednesday, but is currently
+forecast to be to dry and unlikely to produce any precipitation.
 
-Upper troughing remains across the Western US for the remainder of
-the week, maintaining cooler weather with high temperatures a few
+We will remain under broad troughing aloft through the end of next
+week, continuing the cooler weather with high temperatures a few
 degrees below normal and breezy conditions in the mountains and
 deserts each afternoon. The marine layer will also be fairly deep
-during this time, but the marine inversion may be weak enough that
-low cloud coverage will be somewhat patchy in the coastal areas
-and valleys once the main trough axis passes on Wednesday.
+during this time, but the marine inversion will likely be so weak
+that low cloud coverage will be patchy in the coastal areas and
+valleys once the main trough axis passes on Wednesday.
 
 &&
 
 .AVIATION...
-181620Z...Mostly clear skies and VFR conditions through this
+190000Z...Mostly clear skies and VFR conditions through this
 evening. Patchy low clouds building in from the south with higher
-confidence to cover areas of coastal San Diego County between 09-16Z
-Sunday. Cigs near 1300-2000ft MSL with a 50-70% chance of BKN
-conditions at VCTY KSAN. Increasing south and west winds across the
-desert slopes into the deserts Sunday afternoon/evening near 20-30
-kts.
+confidence to cover areas of coastal San Diego County between
+09-16z Sunday. Cigs near 1300-2000ft MSL with a 50-70% chance of
+BKN conditions at VCTY KSAN. Increasing south and west winds
+across the desert slopes into the deserts Sunday afternoon/evening
+near 20-30 kts.
 
 &&
 
@@ -433,8 +441,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...APR
+PUBLIC...PG
+AVIATION/MARINE...Munyan
 
 
 </pre>
