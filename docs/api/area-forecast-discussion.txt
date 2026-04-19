@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-19T13:05:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-19T18:54:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,16 +333,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-859
-FXUS66 KSGX 191133
+945
+FXUS66 KSGX 191758
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-433 AM PDT Sun Apr 19 2026
+1058 AM PDT Sun Apr 19 2026
 
 .SYNOPSIS...
 Cooler west of the mountains today and warmer inland. A low
@@ -360,12 +362,12 @@ COUNTIES...
 
 ...New Aviation and Marine Discussion...
 
-Scattered high clouds are lifting northeast across the region this
-evening well ahead of an upper level low off the Pacific Northwest
-coast. With the high cloud coverage, low clouds off the coast
-remain sparse. Patchy low clouds may develop over the coastal
-areas and far western valleys later this morning, clearing by
-mid-morning.
+.PREVIOUS DISCUSSION...Issued 137 AM PDT Sun Apr 19 2026...Scattered
+high clouds are lifting northeast across the region this evening
+well ahead of an upper level low off the Pacific Northwest coast.
+With the high cloud coverage, low clouds off the coast remain
+sparse. Patchy low clouds may develop over the coastal areas and
+far western valleys later this morning, clearing by mid-morning.
 
 An upper level ridge currently near the Lower Colorado River
 Valley will shift slightly eastward and amplify over the Desert
@@ -415,31 +417,36 @@ generally low predictability so don`t count on anything yet.
 &&
 
 .AVIATION...
-191130Z...Mostly high clouds out there with a small patch of low
-clouds coming in at the very southern part of coastal San Diego
-County at 1000-1500ft MSL. There is a 40-60% chance of these low
-clouds reaching KSAN after 12Z and lasting through 17Z. Low clouds
-are expected to redevelop after 04Z Monday mainly along the coast
-with higher probabilities for coastal San Diego.
+191800Z...SCT upper level clouds based around 20k ft will gradually
+move out of the region today.
 
-Increasing westerly to southwesterly winds across the desert slopes
-into the deserts this afternoon/evening near 20-30 kts.
+Coast/Valleys...Low clouds 1100-1600 ft MSL will form offshore after
+about 03Z Mon, gradually moving inland through the evening. Clouds
+may initially be patchy, with hole in cig cover. Cigs will lift
+slightly and move further inland overnight, with a 30% chance for
+impacts vcnty KONT/KSBD after 12Z. Low clouds clear 15-17Z Mon, with
+increasing high level clouds afterwards.
 
-Otherwise, VFR conditions expected through the TAF period.
+Mountains/Deserts...Increasing westerly to southwesterly winds
+across the desert slopes into the deserts this afternoon/evening,
+with gusts to 20-30 kts. Otherwise, VFR conditions expected through
+the TAF period.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
 Elevated onshore (northwesterly) wind gusts near 20-25 knots are
-possible Wednesday into Thursday.
+possible Wednesday afternoon into early Thursday morning, which
+would bring elevated, choppy seas. Another, briefer round of gusts
+to around 20 knots Thursday afternoon and evening would be more
+localized to the far outer waters near San Clemente Island.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -452,7 +459,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...CSP
 
 
 </pre>
