@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-20T02:52:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-20T08:11:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-265
-FXUS66 KSGX 200043
+655
+FXUS66 KSGX 200500
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-543 PM PDT Sun Apr 19 2026
+1000 PM PDT Sun Apr 19 2026
 
 .SYNOPSIS...
 Cooler west of the mountains today as onshore flow returns but
@@ -413,23 +413,21 @@ conditions in the mtns and deserts.
 &&
 
 .AVIATION...
-200000Z...Mostly clear skies with VFR conditions and FEW departing
-upper level clouds based around 20k ft.
+200600Z...Coast/Valleys...Very patchy low clouds near 1000-1600ft
+MSL have begun to develop over the waters and near the coast this
+evening. These clouds are expected to gradually increase in coverage
+and spread onshore over the next several hours. Clouds will likely
+continue to be patchy for some time, with only intermittent CIGs at
+first, but should become more uniform after 09z. Clouds expected to
+spread 20-25 miles inland by 12z, with a 30% chance for impacts
+vcnty KONT/KSBD from 12-16z. Low clouds scatter out around 15-17z
+Monday, with increasing high level clouds afterwards.
 
-Coast/Valleys...Low clouds 1500-2000 ft MSL will form offshore after
-03z Monday, gradually moving inland and increasing in through the
-evening and early overnight hours. Clouds may initially be patchy,
-with intermittent breaks in CIGs, but should become more uniform
-after 09z. Clouds expected to reach 20-25 miles inland by 12z, with
-a 30% chance for impacts vcnty KONT/KSBD from 12-16z. Low clouds
-scatter out around 15-17z Monday, with increasing high level clouds
-afterwards.
-
-Mountains/Deserts...Elevated westerly to southwesterly winds for the
-desert mountain slopes and the deserts to continue this evening,
-with gusts locally up to 20-30 kts. Winds gradually relax after 06z
-Monday. Similar elevated wind gusts expected by 00z Tuesday.
-Otherwise, VFR conditions expected through the TAF period.
+Mountains/Deserts...Elevated westerly to southwesterly winds with
+gusts 15-25 kts will continue to weaken over the next few hours.
+Wind gusts 20-30 kts pick back up again by 00z Tuesday the
+mountains, desert slopes, and deserts. Otherwise, VFR conditions
+expected through the TAF period.
 
 &&
 
