@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-20T19:08:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-21T02:46:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,24 +338,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-495
-FXUS66 KSGX 201759
+415
+FXUS66 KSGX 202340
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1059 AM PDT Mon Apr 20 2026
+440 PM PDT Mon Apr 20 2026
 
 .SYNOPSIS...
-Onshore flow will begin to strengthen today with high temperatures
-for the coast and valleys cooling a few degrees. A low pressure
-system moving inland through California will bring more cooling
-for Tuesday and Wednesday with southwest to west winds for the
-mountains and deserts strongest for Tuesday afternoon and night
-with gusts to 40 to 50 mph and isolated gusts to 65 mph. There is
-also a slight chance for light showers for late Tuesday afternoon
-through Tuesday night. Thursday will be warmer followed by a
-cooling trend through next weekend.
+Cooler conditions through the middle of the week with periods of
+elevated winds over the mountains and into the deserts. Light
+precipitation is possible west of the mountains Tuesday evening
+into Wednesday, which coincides with the timing of the strongest
+westerly winds. Thursday will warm a few degrees. Cooler
+conditions likely this weekend, with periods of increased winds
+and potentially another round of light precipitation west of the
+mountains.
 
 &&
 
@@ -363,88 +362,72 @@ cooling trend through next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated marine/aviation sections...
+.Updated Aviation/Marine Discussion...
 
-.SHORT TERM (Today through Wednesday)...
-A closed low pressure system off the West Coast will move into and
-through California on Tuesday and Wednesday. Onshore flow will
-begin to strengthen today with southwest to west winds for the
-mountains and deserts gusting to 30 to 40 mph for this afternoon
-and evening. Coastal low clouds will extend into portions of the
-inland valleys this morning and high temperatures for the coast
-and valleys will be a few degrees cooler than Sunday, but still a
-few degrees above average. High temperatures for today will range
-from the upper 60s near the coast to the mid 70s to lower 80s for
-the Inland Empire with the lower 90s for the lower deserts.
+High temperatures today west of the mountains are expected to be a
+few degrees cooler than yesterday with no change or a few degrees of
+warming in the mountains and deserts. Additional cooling is expected
+through the middle of the week as a trough of low pressure
+influences the US West Coast. The trough of low pressure is
+expected to approach the West Coast Tuesday and be to our east by
+Wednesday evening. This low will bring widespread cloud coverage,
+increase winds over the mountains and deserts, and areas of light
+precipitation.
 
-There will be additional strengthening of the onshore flow on
-Tuesday with more widespread and stronger southwest to west winds
-for the mountains and deserts for Tuesday afternoon and night with
-gusts to 40 to 50 mph and isolated gusts to around 65 mph. The
-winds will subside some on Wednesday with gusts to 35 to 45 mph
-and with isolated gusts to 55 mph.
+Southwest to west winds will begin to strengthen Tuesday afternoon,
+peak in strength overnight, and weaken Wednesday morning.
+Strongest winds will be over the mountains and into the deserts.
+Peak gusts of 40 to 60 mph expected, with a few isolated gusts to
+65 mph on the northern slopes of the San Bernardino mountains.
+Winds will decrease through the day Wednesday with gusts mainly 35
+to 45 mph, locally up to 55 mph through wind prone passes like
+the San Gorgonio Pass. Periods of light precipitation are expected
+Tuesday evening into early Wednesday morning. The forecast has
+trended drier, with the most likely place for measurable
+precipitation in the San Bernardino County mountains. Hourly
+rainfall rates are expected to be 0.10 inch or less.
 
-For Tuesday and again on Wednesday, there will be slight cooling
-of high temperatures near the coast to 4 to 8 degrees of cooling
-for the mountains and deserts. High temperatures on Wednesday will
-be around 5 degrees below average for inland areas with high
-temperatures on Wednesday mostly in the mid 60s to lower 70s for
-the coast and valleys and in the lower to mid 80s for the lower
-deserts.
+Dry and warmer conditions expected on Thursday. Highs along the
+coast will be a few degrees warmer, with inland locations up to 7
+degrees warmer than Wednesday. The temperature increase will bring
+conditions near to slightly above normal for this time of year.
+Another area of low pressure looks likely to move across the US West
+Coast for the upcoming weekend. While there remains some timing
+differences between the global models, the trough will bring another
+round of cooler conditions, increase in westerly winds, and
+potential for light precipitation.
 
-There is a slight chance for light showers for late Tuesday
-afternoon through Tuesday night as a weakening cold front moves
-across southwestern California. Models are now keeping the 500 mb
-564 DM height just north of the area as the low pressure system
-moves inland which would usually mean little or no measurable
-precipitation. The most likely location to receive measurable
-precipitation in southwestern California would be the San
-Bernardino County mountains.
-
-&&
-
-.LONG TERM (THursday through Sunday)...
-Thursday will be dry with high temperatures slightly warmer than
-Wednesday near the coast to around 5 degrees warmer inland with
-high temperatures mostly within a few degrees of average. High
-temperatures on Thursday will range from the upper 60s near the
-coast to the mid to upper 70s for the Inland Empire with the lower
-deserts in the upper 80s to around 90.
-
-For Friday and Saturday, a low pressure system off the California
-coast will bring slight cooling of high temperatures on Friday
-with additional slight cooling on Saturday near the coast to
-around 5 degrees of cooling for inland areas.
-
-A weak low pressure system could move into southern California
-some time around next weekend bringing a slight chance of mostly
-light precipitation.
 
 &&
 
 .AVIATION...
-201800Z...Coast/Valleys...Patchy low clouds 1800-2500 ft MSL will
+210000Z...Coast/Valleys...Patchy low clouds 1800-2500 ft MSL will
 gradually develop and expand after 05Z tonight into Tuesday, with
-similar areal to this morning and non-uniform coverage. Conditions
-will bounce between VFR and MVFR most of the night. Low clouds clear
-14-17Z Tue morning.
+similar areal extent to this morning and non-uniform coverage.
+Conditions will bounce between VFR and MVFR most of the night. Low
+clouds clear 14-17Z Tue morning. A band of low clouds based 1500-
+2500 ft MSL associated with a weak front will move from west to east
+across the coastal basin starting around 21z Tue. ISO -SHRA may
+briefly create MVFR vis Tuesday evening.
 
-Mountains/Deserts...West to west-southwest winds will increase after
-22Z today, and continue to be gusty tonight into early Tuesday.
-Strongest winds will gust 25-35 knots through mountain gaps, along
-the desert slopes and locally into deserts, producing moderate
-up/downdrafts in lee of mountains.
-
-Otherwise, mostly clear and VFR conditions are expected today and
-tonight.
+Mountains/Deserts...West to west-southwest winds will remain
+elevated through mountain passes, along desert slopes and locally
+into deserts through this evening. Strongest winds will gust 25-35
+knots producing moderate up/downdrafts in lee of mountains. Winds
+slowly diminish after 06z Tue. Winds pick up again out of the
+southwest on Tuesday, becoming strong after 21z. Widespread gusts 35-
+45 kts expected with gusts locally to 55 kts along desert slopes and
+through mountain passes. Areas BLDU in the deserts and
+moderate/strong up/downdrafts in lee of mtns.
 
 &&
 
 .MARINE...
-Westerly winds will increase Wednesday, generating conditions that
-could be hazardous for small craft Wednesday into Thursday, with
-gusts 20-25 knots likely. Otherwise, no hazardous marine conditions
-are expected through Friday.
+Westerly winds will increase Wednesday afternoon with gusts 20-25
+knots likely for outer coastal waters. This may generate hazardous
+conditions for small craft Wednesday evening into early Thursday
+morning. Otherwise, no hazardous marine conditions are expected
+through Friday.
 
 &&
 
@@ -452,18 +435,23 @@ are expected through Friday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Wind Advisory from 2 PM Tuesday to 7 AM PDT Wednesday for Apple
+     and Lucerne Valleys-Riverside County Mountains-San
+     Bernardino County Mountains-San Diego County Deserts-San
+     Diego County Mountains-San Gorgonio Pass near Banning.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...CO
+AVIATION/MARINE...KW
 
 
 </pre>
