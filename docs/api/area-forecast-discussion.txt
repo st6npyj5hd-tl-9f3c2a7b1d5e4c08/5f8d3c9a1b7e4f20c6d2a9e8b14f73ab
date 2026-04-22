@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-21T19:15:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-22T02:44:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-612
-FXUS66 KSGX 211804
+963
+FXUS66 KSGX 212349
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1104 AM PDT Tue Apr 21 2026
+449 PM PDT Tue Apr 21 2026
 
 .SYNOPSIS...
 Gusty winds over the mountains and deserts and light precipitation
@@ -359,6 +357,8 @@ mountains.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.New Aviation and Marine Discussion...
 
 A trough of low pressure is expected to move east across Central
 California today into Wednesday. Visible satellite at 11 AM was
@@ -396,21 +396,26 @@ degrees below average.
 &&
 
 .AVIATION...
-211800Z...Coast/Valleys...A band of low clouds based 2500-5000 feet
-MSL associated with a weak front containing waves of -SHRA will move
-from west to east across the coastal basin from 20-07Z. ISO -SHRA
-could briefly create MVFR vis and cigs 1500-2500 ft MSL as they pass
-over sites. Clouds mostly clear out from northwest to southeast
-after that band, first at Orange County coast and last inland San
-Diego County.
+220000Z...Coast/Valleys...A band of low clouds is currently moving
+into western portions of the coastal basin. Generally VFR conditions
+expected with bases 3-5 kft. However, ISO -SHRA could briefly create
+MVFR vis and cigs 1500-2500 ft MSL from now through 04z Wed as they
+pass over sites. Clouds mostly scatter out from northwest to
+southeast after the band, though patchy BKN cigs around 3-5 kft may
+linger through the overnight hours, particularly in San Diego
+County. Otherwise, strong low-level winds will allow for moderate
+up/downdrafts to persist downwind of the Santa Ana mtns (i.e KRAL,
+KSBD) through early Wednesday morning.
 
-Mountains/Deserts...Southwest to west winds increase through late
-this afternoon with peak gusts 35-55 kts, strongest on ridgetops,
-along desert slopes, and through mountain passes. Isolated vis
-reduced by BLDU in the deserts and moderate/strong up/downdrafts in
-lee of mountains. Winds decrease tonight but remain breezy for the
-desert slopes and mtn passes, then gusty winds become more
-widespread again though not quite as strong for Wed afternoon.
+
+Mountains/Deserts...Strong southwest to west winds are currently
+gusting 35-45 kts widespread with local gusts to 55 kts through
+passes and along desert slopes. Isolated vis reduced by BLDU in the
+deserts and moderate/strong up/downdrafts in lee of mountains. Winds
+decrease slowly after 06z, but remain breezy for the desert slopes
+and mtn passes. Winds strengthen again Wednesday afternoon, though
+not as strong as today with gusts 25-35 kts, locally 40 kts through
+passes and along desert slopes.
 
 &&
 
@@ -418,10 +423,11 @@ widespread again though not quite as strong for Wed afternoon.
 Westerly to northwesterly winds will increase Wednesday afternoon
 through late Wednesday night with gusts 20-25 knots likely for outer
 coastal waters. These winds could generate choppy and hazardous
-conditions. Winds diminish early Thursday morning before briefly
-increasing again in the outer coastal waters Thursday afternoon,
-with peak gusts around 20 knots. Otherwise, no hazardous marine
-conditions are expected through Saturday.
+conditions. More details can be found in the Small Craft Advisory.
+Winds diminish early Thursday morning before briefly increasing
+again in the outer coastal waters Thursday afternoon, with peak
+gusts around 20 knots. Otherwise, no hazardous marine conditions are
+expected through Saturday.
 
 &&
 
@@ -433,19 +439,22 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 2 PM this afternoon to 7 AM PDT Wednesday for
-     Apple and Lucerne Valleys-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
+CA...Wind Advisory until 7 AM PDT Wednesday for Apple and Lucerne
+     Valleys-Riverside County Mountains-San Bernardino County
+     Mountains-San Diego County Deserts-San Diego County
+     Mountains-San Gorgonio Pass near Banning.
 
-PZ...None.
+PZ...Small Craft Advisory from 3 PM Wednesday to 3 AM PDT Thursday
+     for Waters from San Mateo Point to the Mexican Border
+     Extending 10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...CSP
+AVIATION/MARINE...KW
 
 
 </pre>
