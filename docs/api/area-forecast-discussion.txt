@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-22T19:16:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T02:47:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,18 +331,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-249
-FXUS66 KSGX 221825
+027
+FXUS66 KSGX 222325
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1125 AM PDT Wed Apr 22 2026
+425 PM PDT Wed Apr 22 2026
 
 .SYNOPSIS...
 Cooler with decreasing winds today. Thursday will be a little
@@ -359,6 +357,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion...
 
 Cloudy conditions will prevail into the afternoon with below average
 temperatures. Highs will warm a few degrees into Thursday before a
@@ -386,23 +386,21 @@ below average. Another disturbance moving through the mean flow is
 expected mid-week, which would keep conditions on the cooler side
 and increase winds and precipitation chances.
 
+
 &&
 
 .AVIATION...
-221800Z...Coast/Valleys...Onshore winds have pushed most of the
-lower clouds inland, clearing most coastal locations. Cloud bases in
-the valleys are currently around 3000-6000ft MSL. Low clouds will
-continue to clear out over the next couple of hours with maybe a few
-lingering around in the afternoon. Low clouds with bases around 2000-
-3500ft MSL will reform after 03Z but, will be patchy in coverage and
-mainly located in San Diego County.
+222330Z...Coast/Valleys...Patchy low clouds based 2000-2500 ft MSL
+will redevelop over San Diego County 03-06z Thu. Clouds become more
+confined to coastal areas after 09z and may spread into coastal
+Orange County, but coverage should remain patchy. Any remaining low
+clouds scatter by 12-15z. Otherwise, SCT-BKN high clouds AOA 20 kft
+expected from early Thursday morning through the afternoon.
 
-Mountains/Deserts...Winds will increase after 22Z today with gusts
+Mountains/Deserts...West winds will continue this evening with gusts
 25-35 kts, locally 40 kts through passes and along desert slopes.
 Local up/downdrafts in lee of mountains and patchy BLDU reducing vis
-in the deserts. Winds will begin to ease after 12Z Thursday,
-dropping off to below 5-10 kts with gusts to 15 kts in most places
-by 15-18Z.
+in the deserts. Winds will begin to ease around 12-15z Thursday.
 
 &&
 
@@ -424,10 +422,9 @@ encouraged to report significant weather conditions.
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 3 PM this afternoon to 3 AM PDT
-     Thursday for Waters from San Mateo Point to the Mexican
-     Border Extending 10 to 60 nm out including San Clemente
-     Island.
+PZ...Small Craft Advisory until 3 AM PDT Thursday for Waters from San
+     Mateo Point to the Mexican Border Extending 10 to 60 nm out
+     including San Clemente Island.
 
 
 &&
@@ -435,7 +432,7 @@ PZ...Small Craft Advisory from 3 PM this afternoon to 3 AM PDT
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...KW
 
 
 </pre>
