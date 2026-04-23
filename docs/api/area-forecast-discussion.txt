@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T02:47:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T07:57:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -334,23 +334,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-027
-FXUS66 KSGX 222325
+358
+FXUS66 KSGX 230433
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-425 PM PDT Wed Apr 22 2026
+933 PM PDT Wed Apr 22 2026
 
 .SYNOPSIS...
-Cooler with decreasing winds today. Thursday will be a little
-warmer with dry conditions. Cooler conditions likely Friday
-through the weekend, with periods of increased winds. Saturday
-evening into Sunday morning there is a chance of precipitation
-over and west of the mountains. Continued troughing aloft will
-continue slightly below average temperatures and windier
-conditions with chances of precipitation into the middle of next
-week.
+Thursday will be a little warmer and dry. Cooler with gusty
+onshore winds Friday through the weekend. Saturday evening into
+Sunday morning there is a chance of precipitation over and west of
+the mountains. Continued troughing aloft will continue slightly
+below average temperatures and windier conditions with chances of
+precipitation into the middle of next week.
 
 &&
 
@@ -358,15 +356,20 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion...
+Evening update...
+A few low clouds remain banked up against the mountains in San
+Diego County, otherwise skies are clear. The 00Z KNKX sounding
+shows the marine inversion is fairly weak, so expect any low
+clouds to remain patchy tonight. Gusty west winds continue across
+the mountains and deserts, strongest through the passes where
+gust are currently 40-50 mph. Winds gradually weaken through the
+night tonight, briefly turning northerly Thursday morning. Warmer
+across the area on Thursday as the upper low moves east with high
+temperatures returning to near normal for late April. Warming
+continues on Friday in the mountains and deserts, with little
+change west of the mountains.
 
-Cloudy conditions will prevail into the afternoon with below average
-temperatures. Highs will warm a few degrees into Thursday before a
-cooling trend Friday through the weekend. The upper level pattern is
-expected to remain troughy into the middle of next week, which
-will keep temperatures near to below average, with periods of
-clouds and increased winds at times.
-
+Previous discussion...
 This weekend, an area of low pressure is expected to move across
 Central California. That will bring an increase in winds and
 potential for precipitation over and west of the mountains.
@@ -386,16 +389,17 @@ below average. Another disturbance moving through the mean flow is
 expected mid-week, which would keep conditions on the cooler side
 and increase winds and precipitation chances.
 
-
 &&
 
 .AVIATION...
-222330Z...Coast/Valleys...Patchy low clouds based 2000-2500 ft MSL
-will redevelop over San Diego County 03-06z Thu. Clouds become more
-confined to coastal areas after 09z and may spread into coastal
-Orange County, but coverage should remain patchy. Any remaining low
-clouds scatter by 12-15z. Otherwise, SCT-BKN high clouds AOA 20 kft
-expected from early Thursday morning through the afternoon.
+230430Z...Coast/Valleys...Patchy low clouds based 2000-3000 ft MSL
+will continue to develop over San Diego County in the next few
+hours. Clouds become more confined to coastal areas after 09z and
+may spread into coastal Orange County, but coverage should remain
+patchy. Any remaining low clouds scatter by 12-15z. Otherwise, SCT-
+BKN high clouds AOA 20 kft expected from early Thursday morning
+through the afternoon. Low clouds will struggle to reform Thursday
+night with only a 20-30% chance of any development.
 
 Mountains/Deserts...West winds will continue this evening with gusts
 25-35 kts, locally 40 kts through passes and along desert slopes.
@@ -405,11 +409,11 @@ in the deserts. Winds will begin to ease around 12-15z Thursday.
 &&
 
 .MARINE...
-West-northwest winds will gust 20-25 kts in the outer waters this
-afternoon through tonight, generating choppy and hazardous
-conditions. More details can be found in the Small Craft Advisory.
-No additional hazardous marine conditions are expected Thursday
-through Sunday.
+West-northwest winds will continue to gust 20-25 kts in the outer
+waters through early Thursday morning, generating choppy and
+hazardous conditions. More details can be found in the Small Craft
+Advisory. No additional hazardous marine conditions are expected
+Thursday through Monday.
 
 &&
 
@@ -431,7 +435,7 @@ PZ...Small Craft Advisory until 3 AM PDT Thursday for Waters from San
 
 $$
 
-PUBLIC...CO
+PUBLIC...SS/CO
 AVIATION/MARINE...KW
 
 
