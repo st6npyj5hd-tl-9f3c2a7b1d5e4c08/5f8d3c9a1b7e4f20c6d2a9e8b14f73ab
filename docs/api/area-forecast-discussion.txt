@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T07:57:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T13:48:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -334,21 +334,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-358
-FXUS66 KSGX 230433
+869
+FXUS66 KSGX 230936
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-933 PM PDT Wed Apr 22 2026
+236 AM PDT Thu Apr 23 2026
 
 .SYNOPSIS...
-Thursday will be a little warmer and dry. Cooler with gusty
-onshore winds Friday through the weekend. Saturday evening into
-Sunday morning there is a chance of precipitation over and west of
-the mountains. Continued troughing aloft will continue slightly
-below average temperatures and windier conditions with chances of
-precipitation into the middle of next week.
+High temperatures warming to around average for today and Friday,
+then cooler for the weekend with southwest to west winds for the
+mountains and deserts gusting to 40 to 50 mph with isolated gusts
+to 65 mph. There is also a chance of showers for Saturday through
+early Sunday with the most likely time for showers on Saturday
+night. Warmer and dry with weaker winds for Monday, then another
+chance of showers around the middle of next week.
 
 &&
 
@@ -356,64 +357,71 @@ precipitation into the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-A few low clouds remain banked up against the mountains in San
-Diego County, otherwise skies are clear. The 00Z KNKX sounding
-shows the marine inversion is fairly weak, so expect any low
-clouds to remain patchy tonight. Gusty west winds continue across
-the mountains and deserts, strongest through the passes where
-gust are currently 40-50 mph. Winds gradually weaken through the
-night tonight, briefly turning northerly Thursday morning. Warmer
-across the area on Thursday as the upper low moves east with high
-temperatures returning to near normal for late April. Warming
-continues on Friday in the mountains and deserts, with little
-change west of the mountains.
+.SHORT TERM (Today through Saturday)...
+A low pressure system off the California coast will move inland
+through central and southern California during the weekend. This
+will strengthen the onshore flow and bring cooling, stronger
+southwest to west winds for the mountains and deserts, and a
+chance of showers from the coastal water to the mountains.
 
-Previous discussion...
-This weekend, an area of low pressure is expected to move across
-Central California. That will bring an increase in winds and
-potential for precipitation over and west of the mountains.
-Southwest to west winds will increase over the mountains and into
-the deserts Friday through Sunday, with strongest gusts expected on
-Saturday afternoon and evening. Peak gusts of 40 to 50 mph, locally
-up to 65 mph possible. Light precipitation is expected with the
-passage of this low, with the most likely time for any precipitation
-to be Saturday afternoon into Sunday morning. Overall, rainfall
-totals are expected to be on the lighter side. NBM chances for
-rainfall to exceed 0.25" is 15-30% in the mountains and less than
-10% elsewhere.
+High temperatures for inland areas will warm 5 to 10 degrees today
+with high temperatures around average for the mountains and
+deserts and a few degrees above average for the coast and valleys.
+High temperatures for today will range from around 70 near the
+coast to the mid 70s to lower 80s for the Inland Empire with the
+lower deserts in the upper 80s. Friday will be slightly cooler for
+the coast to the mountains and slightly warmer for the deserts.
 
-Dry and warmer conditions expected to return for next Monday, with
-high temperatures for inland areas still a few to around 5 degrees
-below average. Another disturbance moving through the mean flow is
-expected mid-week, which would keep conditions on the cooler side
-and increase winds and precipitation chances.
+High temperatures on Saturday will be a few degrees cooler near
+the coast to 8 to 12 degrees cooler for inland areas with high
+temperatures as much as 10 to 15 degrees below average for the
+mountains. High temperatures on Saturday for the coast and valleys
+will be mostly in the 60s with the lower deserts in the upper 70s
+to mid 80s.
+
+Southwest to west winds will gust to 30 to 40 mph during the
+afternoon and evening for today and Friday, then strengthen to 40
+to 50 mph for the weekend with isolated gusts to 65 mph. There
+could be some lighter precipitation at times during the day on
+Saturday from the coast to the mountains.
+
+&&
+
+.LONG TERM (Saturday night through Wednesday)...
+A low pressure system moving inland through central and southern
+California during the weekend will bring a chance of showers for
+Saturday through early Sunday with the most likely time for
+precipitation Saturday night with rainfall from the coast to the
+mountains ranging from less than one-tenth inch to around one-
+quarter inch.
+
+Not much changes in winds and high temperatures is expected for
+Sunday, then dry on Monday with weaker winds and with high
+temperatures 5 to 10 degrees warmer for inland areas. Toward the
+middle of next week, another low pressure system could bring a
+chance of precipitation.
 
 &&
 
 .AVIATION...
-230430Z...Coast/Valleys...Patchy low clouds based 2000-3000 ft MSL
-will continue to develop over San Diego County in the next few
-hours. Clouds become more confined to coastal areas after 09z and
-may spread into coastal Orange County, but coverage should remain
-patchy. Any remaining low clouds scatter by 12-15z. Otherwise, SCT-
-BKN high clouds AOA 20 kft expected from early Thursday morning
-through the afternoon. Low clouds will struggle to reform Thursday
-night with only a 20-30% chance of any development.
+230930Z...Coast/Valleys...SCT-BKN low clouds mainly in San Diego
+County will continue variable and intermittent coverage through 15Z.
+Bases will be around 2200-3500 feet MSL. Patchy low clouds will
+struggle to reform tonight after 06Z with 30% chance of cigs over
+coastal airports.
 
-Mountains/Deserts...West winds will continue this evening with gusts
-25-35 kts, locally 40 kts through passes and along desert slopes.
-Local up/downdrafts in lee of mountains and patchy BLDU reducing vis
-in the deserts. Winds will begin to ease around 12-15z Thursday.
+Mountains/Deserts...West winds gusting 25-35 kts through passes and
+along desert slopes will continue to diminish through 16Z. Local
+up/downdrafts in lee of mountains.
+
+Otherwise...SCT high clouds today and tonight.
 
 &&
 
 .MARINE...
-West-northwest winds will continue to gust 20-25 kts in the outer
-waters through early Thursday morning, generating choppy and
-hazardous conditions. More details can be found in the Small Craft
-Advisory. No additional hazardous marine conditions are expected
-Thursday through Monday.
+No hazardous marine conditions are expected through Monday, though
+brisk westerly winds to 20 kts are expected late Friday and late
+Saturday.
 
 &&
 
@@ -421,22 +429,18 @@ Thursday through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory until 3 AM PDT Thursday for Waters from San
-     Mateo Point to the Mexican Border Extending 10 to 60 nm out
-     including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
-PUBLIC...SS/CO
-AVIATION/MARINE...KW
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
