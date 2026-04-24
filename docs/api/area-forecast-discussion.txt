@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-24T02:48:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-24T08:06:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-503
-FXUS66 KSGX 232356
+469
+FXUS66 KSGX 240436
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-456 PM PDT Thu Apr 23 2026
+936 PM PDT Thu Apr 23 2026
 
 .SYNOPSIS...
 Cooler and breezy weather will occur this weekend as a weak
@@ -356,18 +356,23 @@ average and mainly dry weather.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion...
+Evening update...
+Skies are mostly clear this evening with just a few high clouds
+moving overhead. Patchy low clouds are developing over the coastal
+waters. The 00Z KNKX sounding shows the marine inversion remains
+fairly weak, so expect low cloud coverage to be somewhat patchy
+again tonight into Friday morning. We remain under mostly zonal
+flow on Friday with temperatures within a degree or two of late-
+April normals.
 
-A zonal pattern aloft remains overhead, generating fair weather
-with temperatures near normal this afternoon. A weak area of low
-pressure is seen developing off the coast. This system, along with
-a shortwave from the north will move over our region Friday into
-the weekend. As it does so, the onshore pressure gradient will
-tighten, leading to an increase in winds across the mountains and
-deserts. Widespread westerly wind gusts of 25-45 MPH will be
-common across these areas Friday afternoon and night.
+Previous discussion...
+An upper level low will move over our region this weekend. As it
+does so, the onshore pressure gradient will tighten, leading to an
+increase in winds across the mountains and deserts. Widespread
+westerly wind gusts of 25-45 MPH will be common across these areas
+Friday afternoon and night.
 
-As the pair of systems draw closer to the region on Saturday, the
+As the system draws closer to the region on Saturday, the
 pressure gradient will tighten further, leading to the highest
 winds of the event. Models show mountain winds 45-55+ MPH with
 desert winds 35-45 MPH, generating some blowing dust across the
@@ -380,8 +385,8 @@ mainly be near one tenth of an inch or less, with total
 accumulations below one quarter of inch west of the mountains.
 Snow levels will also drop near 6,500 feet, where there is high
 confidence that totals will remain below one inch. Sunday will be
-the coolest day of the week for many with highs 40s/50s across
-the mountains, 60s in the highest desert and coastal basin, and
+the coolest day of the week for many with highs 40s/50s across the
+mountains, 60s in the highest desert and coastal basin, and
 comfortable 70s in the lower deserts.
 
 The troughing pattern will stick around for much of the week,
@@ -398,23 +403,23 @@ pattern as we head into the month of May.
 &&
 
 .AVIATION...
-240000Z...Coast/Valleys...Generally VFR conditions expected through
+240430Z...Coast/Valleys...Generally VFR conditions expected through
 this evening. Low clouds will struggle to reform tonight. Best
 chance for patchy BKN low clouds will be over coastal areas late (12-
-17z Fri). 40-50% chance for intermittent BKN cigs based 1800-2400 ft
+16z Fri). 40-50% chance for intermittent BKN cigs based 1800-2400 ft
 MSL at coastal TAF sites. Any low clouds scatter out by 18z with VFR
 conditions for the afternoon. Low clouds based 2500-3000 ft MSL
-return Friday evening with more uniform coverage and much greater
-inland extent.
+return early Friday evening to coastal areas with much more uniform
+coverage. Clouds quickly spread into most of the coastal basin late
+Friday evening and overnight with bases rising above 3000 ft by
+early Saturday morning.
 
-Mountains/Deserts...Westerly winds currently gusting 25-35 kts
-through passes and along desert slopes. Gusts gradually weakening
-after 09z Friday. Westerly winds strengthen again after 00z Sat with
+Mountains/Deserts...Westerly winds strengthen after 00z Sat with
 widespread gusts 25-35 kts, locally to 45 kts along desert slopes
 and through mountain passes. Moderate up/downdrafts expected in lee
 of mtns.
 
-Otherwise...SCT high clouds expected through the period.
+Otherwise...SCT-BKN high clouds expected through the period.
 
 &&
 
@@ -440,7 +445,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...SS/APR
 AVIATION/MARINE...KW
 
 
