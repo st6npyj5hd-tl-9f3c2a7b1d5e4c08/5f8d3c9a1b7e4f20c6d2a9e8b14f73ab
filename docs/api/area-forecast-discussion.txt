@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-24T13:27:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-24T18:55:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -329,16 +329,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-595
-FXUS66 KSGX 240909
+373
+FXUS66 KSGX 241748
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-209 AM PDT Fri Apr 24 2026
+1048 AM PDT Fri Apr 24 2026
 
 .SYNOPSIS...
 Cooler and breezy weather will occur this weekend as a weak
@@ -353,6 +355,8 @@ average and mainly dry weather.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion...
 
 Today through tomorrow night...
 
@@ -398,28 +402,33 @@ cooler temperatures. Ensembles also reflect a somewhat cooler and
 more unsettled pattern remaining in place through then, with
 temperatures for the most part remaining below average.
 
+
 &&
 
 .AVIATION...
-240845Z...Coast/Valleys...Areas of low clouds to gradually develop
-this morning, with SCT to locally BKN cigs around 1500-2500 feet MSL
-most likely 12-17Z. Low clouds based 2000-3000 feet MSL to return
-after 02Z with more uniform coverage and inland extent, eventually
-filling most of the coastal basin by 12Z Saturday.
+241745Z...Coast/Valleys...VFR conditions expected through this
+afternoon. Low clouds based 2000-3000 feet MSL to return to coastal
+areas 00-03Z with more uniform coverage and inland extent,
+eventually filling most of the coastal basin by 12z Saturday. Bases
+likely to rise above 3000 ft MSL sometime 12-18z Sat. For Saturday
+afternoon, SCT-BKN low clouds based 3000-5000 ft MSL along with
+isolated -SHRA.
 
-Mountains/Deserts...Westerly winds strengthen after 23Z with
+Mountains/Deserts...Westerly winds strengthen after 23z with
 widespread gusts 25-35 kts, locally to 45 kts along desert slopes
 and through mountain passes. Moderate up/downdrafts expected in lee
-of mtns.
+of mtns. Areas BLDU (3-5SM) along desert slopes and locally into
+deserts. Winds may weaken by 5-10 kts after 15z Sat, but are
+expected to strengthen further Saturday afternoon.
 
-Otherwise...SCT high clouds today becoming BKN tonight.
+Otherwise...SCT high clouds today becoming BKN tonight onward.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday, though
-brisk westerly winds 15 to 20 kts are expected each afternoon and
-evening through Sunday.
+No hazardous marine conditions are expected through Wednesday
+morning, though brisk westerly winds 15 to 20 kts are expected each
+afternoon and evening through Sunday.
 
 &&
 
@@ -432,7 +441,8 @@ encouraged to report significant weather conditions.
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Wind Advisory from 2 PM Saturday to 11 AM PDT Sunday for Apple
-     and Lucerne Valleys-San Gorgonio Pass near Banning.
+     and Lucerne Valleys-Coachella Valley-San Diego County
+     Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -441,7 +451,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...MM
+AVIATION/MARINE...KW
 
 
 </pre>
