@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-23T19:13:15+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-24T02:48:55+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -334,22 +334,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-524
-FXUS66 KSGX 231836
+503
+FXUS66 KSGX 232356
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1136 AM PDT Thu Apr 23 2026
+456 PM PDT Thu Apr 23 2026
 
 .SYNOPSIS...
-High temperatures warming to around average for today and Friday,
-then cooler for the weekend with southwest to west winds for the
-mountains and deserts gusting to 40 to 50 mph with isolated gusts
-to 65 mph. There is also a chance of showers for Saturday through
-early Sunday with the most likely time for showers on Saturday
-night. Warmer and dry with weaker winds for Monday, then another
-chance of showers around the middle of next week.
+Cooler and breezy weather will occur this weekend as a weak
+weather system moves over the area. This system will bring gusty
+winds across the mountains and deserts along with the chance for
+some light precipitation along and west of the mountains as well.
+Next week will remain cooler with highs near to slightly below
+average and mainly dry weather.
 
 &&
 
@@ -357,72 +356,79 @@ chance of showers around the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Saturday)...
-A low pressure system off the California coast will move inland
-through central and southern California during the weekend. This
-will strengthen the onshore flow and bring cooling, stronger
-southwest to west winds for the mountains and deserts, and a
-chance of showers from the coastal water to the mountains.
+.Updated Aviation and Marine Discussion...
 
-High temperatures for inland areas will warm 5 to 10 degrees today
-with high temperatures around average for the mountains and
-deserts and a few degrees above average for the coast and valleys.
-High temperatures for today will range from around 70 near the
-coast to the mid 70s to lower 80s for the Inland Empire with the
-lower deserts in the upper 80s. Friday will be slightly cooler for
-the coast to the mountains and slightly warmer for the deserts.
+A zonal pattern aloft remains overhead, generating fair weather
+with temperatures near normal this afternoon. A weak area of low
+pressure is seen developing off the coast. This system, along with
+a shortwave from the north will move over our region Friday into
+the weekend. As it does so, the onshore pressure gradient will
+tighten, leading to an increase in winds across the mountains and
+deserts. Widespread westerly wind gusts of 25-45 MPH will be
+common across these areas Friday afternoon and night.
 
-High temperatures on Saturday will be a few degrees cooler near
-the coast to 8 to 12 degrees cooler for inland areas with high
-temperatures as much as 10 to 15 degrees below average for the
-mountains. High temperatures on Saturday for the coast and valleys
-will be mostly in the 60s with the lower deserts in the upper 70s
-to mid 80s.
+As the pair of systems draw closer to the region on Saturday, the
+pressure gradient will tighten further, leading to the highest
+winds of the event. Models show mountain winds 45-55+ MPH with
+desert winds 35-45 MPH, generating some blowing dust across the
+deserts at times. Model consensus is fair in light showers moving
+into the area as early as Saturday morning, mainly along the
+coastal slopes. The weather system will move over the area
+Saturday night into Sunday morning, giving way to the best chance
+of showers from the mountains to the coast. Hourly rain rates will
+mainly be near one tenth of an inch or less, with total
+accumulations below one quarter of inch west of the mountains.
+Snow levels will also drop near 6,500 feet, where there is high
+confidence that totals will remain below one inch. Sunday will be
+the coolest day of the week for many with highs 40s/50s across
+the mountains, 60s in the highest desert and coastal basin, and
+comfortable 70s in the lower deserts.
 
-Southwest to west winds will gust to 30 to 40 mph during the
-afternoon and evening for today and Friday, then strengthen to 40
-to 50 mph for the weekend with isolated gusts to 65 mph. There
-could be some lighter precipitation at times during the day on
-Saturday from the coast to the mountains.
+The troughing pattern will stick around for much of the week,
+which will lead to lighter onshore winds and temperatures near to
+slightly below average with dry weather. Models do hint at another
+weak area of low pressure forming in our vicinity by later on
+Tuesday or Wednesday, which may bring some increased wind and
+chances for precipitation. The forecast details still remain in
+flux as model timing and placement differences are present. After
+this, forecast models have better agreement on a dry weather
+pattern as we head into the month of May.
 
-&&
-
-.LONG TERM (Saturday night through Wednesday)...
-A low pressure system moving inland through central and southern
-California during the weekend will bring a chance of showers for
-Saturday through early Sunday with the most likely time for
-precipitation Saturday night with rainfall from the coast to the
-mountains ranging from less than one-tenth inch to around one-
-quarter inch.
-
-Not much changes in winds and high temperatures is expected for
-Sunday, then dry on Monday with weaker winds and with high
-temperatures 5 to 10 degrees warmer for inland areas. Toward the
-middle of next week, another low pressure system could bring a
-chance of precipitation.
 
 &&
 
 .AVIATION...
-231800Z...Coast/Valleys...VFR prevails today under SCT-BKN high
-cirrus clouds. Patchy low clouds will struggle to reform tonight
-after 06z Friday with 30% chance of cigs over coastal airports. Best
-window for any CIGs will be between 12-17z. Should any CIGs form
-over the airports, bases will likely be between 1800-2400ft MSL.
+240000Z...Coast/Valleys...Generally VFR conditions expected through
+this evening. Low clouds will struggle to reform tonight. Best
+chance for patchy BKN low clouds will be over coastal areas late (12-
+17z Fri). 40-50% chance for intermittent BKN cigs based 1800-2400 ft
+MSL at coastal TAF sites. Any low clouds scatter out by 18z with VFR
+conditions for the afternoon. Low clouds based 2500-3000 ft MSL
+return Friday evening with more uniform coverage and much greater
+inland extent.
 
-Mountains/Deserts...Westerly winds gusting 25-35 kts through passes
-and along desert slopes expected to pick back up after 00z Friday.
-Local up/downdrafts in lee of mountains during periods of strong
-winds. Gusts gradually weakening after 09z Friday.
+Mountains/Deserts...Westerly winds currently gusting 25-35 kts
+through passes and along desert slopes. Gusts gradually weakening
+after 09z Friday. Westerly winds strengthen again after 00z Sat with
+widespread gusts 25-35 kts, locally to 45 kts along desert slopes
+and through mountain passes. Moderate up/downdrafts expected in lee
+of mtns.
 
-Otherwise...SCT high clouds today and tonight.
+Otherwise...SCT high clouds expected through the period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday, though
-brisk westerly winds 15 to 20 kts are each afternoon,
+No hazardous marine conditions are expected through Tuesday, though
+brisk westerly winds 15 to 20 kts are expected each afternoon
 through Sunday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -434,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE...Munyan
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
