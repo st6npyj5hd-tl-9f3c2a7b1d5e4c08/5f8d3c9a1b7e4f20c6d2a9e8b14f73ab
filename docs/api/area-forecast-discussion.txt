@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-25T02:36:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-25T07:20:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,21 +331,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-980
-FXUS66 KSGX 250025
+820
+FXUS66 KSGX 250400
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-525 PM PDT Fri Apr 24 2026
+900 PM PDT Fri Apr 24 2026
 
 .SYNOPSIS...
-Cool and very windy this weekend with light rain/snow chances
-through Sunday. Warming trend next week before a large low may
-bring additional precipitation mid to late week.
+Cool and windy this weekend with chances of light precipitation
+Saturday morning through Sunday night. Warmer early next week,
+then minor cooling and a slight chance of precipitation towards
+the middle of the week. Warmer and drier for the end of the week.
 
 &&
 
@@ -353,24 +356,19 @@ bring additional precipitation mid to late week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Incoming Weather System To Bring A Windy Weekend...
+Evening update...
+Marine layer low clouds have quickly developed and spread into the
+coastal mountain slopes in San Diego County and southern Riverside
+County with far less coverage to the north. Expect clouds to fill
+in across the entire coastal basin overnight. The 00Z sounding and
+pilot reports indicate clouds are currently to thin for any
+drizzle, but some spotty light showers are possible towards
+Saturday morning should the cloud deck thicken sufficiently as an
+upper level low approaches. Otherwise breezy conditions continue
+overnight with wind gusts generally 30-40 mph in the mountains and
+deserts with isolated gusts near 50 mph in the passes.
 
-A deepening low off the coast of California will begin to impact the
-region today as it pivots south, bringing cooler weather, ample
-clouds, and windy conditions. As the gradient tightens overhead
-today, strengthening westerly winds could gust as high as 30-40 mph
-this afternoon and evening, primarily in wind-prone regions such as
-mountain passes and the desert mountain slopes. Winds weaken a bit
-overnight post-peak heating, but remain elevated for the desert side
-of the mountains into Saturday morning. At the same time, the marine
-layer will be deepening and spreading inland as low and mid level
-moisture is pushed into the region by the low. By sunrise Saturday,
-clouds will have filtered efficiently into the coastal basin and
-inland valleys, possibly pushing up to the mountains. Light rain
-showers/drizzle may begin as early as midnight Saturday, with
-highest chances for light rain accumulations for the coastal basin.
-Rain totals expected to be 0.00-0.10" through Saturday morning.
-
+Previous discussion...
 Heights fall quickly after today as the system inches towards the CA
 Coast, with highs around 5-10 degrees below normal for Saturday and
 8-15 degrees below normal Sunday. Clouds remain present for much of
@@ -380,19 +378,20 @@ system pushes inland late Saturday night into early Sunday morning,
 a 500mb jet max will pass just south of the region >80kts, which
 will struggle to mix down due to the timing of the passage.
 Regardless, very strong westerly winds will develop late Saturday
-evening and persist into Sunday morning - 20-30 for inland areas and
-40 to 55 mph with higher gusts through mountain passes and on the
-desert slopes of the mountains. Due to this, the Wind Advisory has
-been expanded to include the Coachella Valley and San Diego County
-Deserts, both of which are likely to see gusts above 40 mph late
-Saturday. Make sure to tie down loose items or bring them inside
-prior to these peak winds. Blowing dust will be possible throughout
-this period, especially in the deserts, which may reduce visibility
-at times. Winds weaken a bit after sunrise Sunday as the system
-sweeps across, but expect strong, gusty winds to prevail into
-Monday. Peak heating on Sunday may allow some of the stronger winds
-to mix down to create another round of gusts greater than 30-40 mph
-at times in the deserts and on the desert slopes.
+evening and persist into Sunday morning - 20-30 mph for inland
+areas and 40 to 55 mph with higher gusts through mountain passes
+and on the desert slopes of the mountains. Due to this, the Wind
+Advisory has been expanded to include the Coachella Valley and San
+Diego County Deserts, both of which are likely to see gusts above
+40 mph late Saturday. Make sure to tie down loose items or bring
+them inside prior to these peak winds. Blowing dust will be
+possible throughout this period, especially in the deserts, which
+may reduce visibility at times. Winds weaken a bit after sunrise
+Sunday as the system sweeps across, but expect strong, gusty winds
+to prevail into Monday. Peak heating on Sunday may allow some of
+the stronger winds to mix down to create another round of gusts
+greater than 30-40 mph at times in the deserts and on the desert
+slopes.
 
 Outside of the winds, ample moisture and light rain will move across
 the region early Sunday morning. The snow levels will be falling
@@ -419,27 +418,33 @@ moisture seems to be lacking a bit with this low, so timing will
 impact any rain chances greatly. We will be keeping a close eye on
 this system but will manage expectations for now.
 
-
 &&
 
 .AVIATION...
-250015Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL are
-starting to fill into coastal SD County, filling inland and into
-Orange County 02-06z and eventually rising to 2500-4000 ft MSL and
-covering the entire Inland Empire by 12z Sat. Spotty DZ/BR in the
-morning 12-16z, then clouds scatter out partially with FEW-BKN cigs
-throughout the afternoon. Breezy afternoon winds gusting 20-25 kts
-at times, especially in the Inland Empire. ISO -SHRA begins to reach
-into coastal SD County after 22z in the vcnty KSAN/KCRQ.
+250400Z...Coast/Valleys...BKN-OVC low clouds based 2000-2500 ft
+MSL have filled into San Diego/Orange County inland areas, slowly
+filling into the entire Inland Empire by 12z Sat. Spotty light
+rain in the morning 12-16z, then cloud bases rise to 3-5 kft MSL
+and scatter out partially with FEW-BKN cigs throughout the
+afternoon. Breezy afternoon winds gusting 20-25 kts at times,
+especially in the Inland Empire. ISO -SHRA begins to reach into
+coastal SD County after 22z in the vcnty KSAN/KCRQ, becoming
+scattered throughout the coastal basin by 02z Sun. Bases will
+lower intermittently in the vcnty of -SHRA, yielding to periods of
+MVFR cigs. Brief periods of IFR cigs/vis possible under each
+-SHRA.
 
 Mountains/Deserts...Westerly winds gusting 25-35 kts, locally to 45
 kts along desert slopes and through mountain passes through tonight.
 Gusts may weaken slightly in the late morning, then intensify again
-in the afternoon to 30-40 kts (locally up to 50 mph). Moderate
+in the afternoon to 30-40 kts (locally up to 50 kts). Moderate
 up/downdrafts expected in lee of mtns. Areas BLDU (3-5SM) along
-desert slopes and locally into deserts. After 19z Sat, gusts in the
-desert valleys could periodically exceed 35 kts, including vcnty
-KPSP.
+desert slopes and locally into deserts. After 19z Sat, gusts in
+the desert valleys could periodically exceed 35 kts, including
+vcnty KPSP.
+
+SHRA reach mtns around 01z Sun with intermittent SHSN above 6500-
+7000 ft MSL. Mtns shrouded in FG; vis 0-5SM in FG/SNSH.
 
 &&
 
@@ -468,7 +473,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
+PUBLIC...SS/Zuber
 AVIATION/MARINE...Westerink
 
 
