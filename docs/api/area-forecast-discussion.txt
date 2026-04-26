@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-25T18:56:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-26T02:54:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,19 +338,19 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-157
-FXUS66 KSGX 251742
+398
+FXUS66 KSGX 260011
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1042 AM PDT Sat Apr 25 2026
+511 PM PDT Sat Apr 25 2026
 
 .SYNOPSIS...
-Cool and windy this weekend with chances of light precipitation.
-Warmer early next week, then minor cooling and a slight chance of
-precipitation towards the middle of the week. Warmer and drier for
-the end of the week.
+Cool and windy this weekend with chances of light precipitation,
+mainly over and west of the mountains. Warmer early next week,
+then minor cooling and a slight chance of precipitation towards
+the middle of the week. Warmer and drier for the end of the week.
 
 &&
 
@@ -358,90 +358,74 @@ the end of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+Cloudy, cool and breezy this afternoon, with a few light showers
+ahead of a low pressure system moving in from the west. The
+windiest locations at the east end of the Banning Pass are
+currently reporting wind gusts of 43 to 51 mph. A few locations
+in the coastal areas have reported precip accumulations of
+0.01-0.03 inch in the last 12 hours.
 
-Today through tomorrow night...
+As the low pressure system moves inland tonight through tomorrow,
+the westerly winds will strengthen and the showers will become
+more widespread. Winds will peak tonight with gusts 40 to 55 mph
+and locally to 65 mph in the mountain passes and adjacent desert
+areas. The showers should move east by Sunday afternoon as the
+upper level trough axis moves east. Total rainfall estimates
+range from a few hundredths in coastal Orange County to as much as
+about three quarters of an inch in the San Diego County
+mountains. The deserts would be lucky to get any measurable
+rainfall. Snow levels will fall to as low as 5,500 ft by early
+Sunday morning before rising Sunday afternoon. Up to 2 inches of
+snow could accumulate above 6,500 ft where showers develop.
 
-In the short term, the forecasts remains on track with an
-approaching low pressure system, which is going to allow for an
-increase of westerly winds, along with a chance of showers,
-especially for the coastal-facing slopes. The marine layer is
-becoming more dispersed this morning, with the passage of mid to
-high level clouds overhead. There could be some patchy areas of
-drizzle this morning, especially along the foothills. By later in
-the day, there will be an increase of onshore flow, and developing
-showers over the inner waters of the SoCal bight, which will move
-onshore by later this afternoon and throughout the evening, and on
-into tomorrow. The overall low to mid-level flow will bring about
-the best chances and highest rainfall rates for the western-facing
-slopes within San Diego County. As of now, the best rainfall rates
-of possibly up to near an inch will look to occur around the Palomar
-Mountain area through Monday. Showers will taper off a bit going
-into Sunday, although there will still be enough forcing overhead to
-result in a few isolated showers developing throughout the
-afternoon. Winds will also continue to increase and become rather
-strong and gusty by later in the day, especially for the higher
-elevations, where gusts of 45 to 55 mph are expected by later this
-afternoon. Strongest winds will occur along the desert slopes, and
-through the mountain passes and canyons. There could also be
-occasional gusts of up to 65 mph. Blowing dust will also be
-possible for the areas with the strongest winds across the deserts,
-mainly within the Coachella Valley. Temperatures will also be on
-the chilly side for this weekend, and generally running around 5
-to 15 degrees below the seasonal average for this time of year for
-most locations.
+Cool and breezy conditions will continue for Monday and Tuesday
+with little if any chance for precipitation. Temperatures on
+Monday will remain well below average but Tuesday will be warmer,
+with temperatures near average.
 
-Monday through Friday...
+Another low pressure system could bring chances for precip again
+for late Wed into Thu as another low pressure system moves in from
+the west. The timing and trajectory of this system is still
+uncertain due to spread among model solutions but most likely, we
+will see more cool and cloudy weather.
 
-On Monday, there may still be a few lingering showers with
-continued onshore flow and a weak perturbation that will be
-propagating into the trough could enhance the development of these
-showers, otherwise conditions will begin to dry out. The overall
-longwave pattern shows a cut-off low becoming positioned well west
-of the region over the Pacific Ocean, however, depending on the
-track of this system as it begins to transition easterly could
-allow for there to be some showers, and possibly a few
-thunderstorms, developing by later in the evening on Wednesday and
-into Thursday as a possible track with one of the deterministic
-members has this U/L low passing just to the south of San Diego,
-over northern Baja California, by around Noon on Thursday. This is
-still subject to change, being that it is quite a few days out
-and that it is a cut-off low, which is a more difficult track to
-predict. Besides this, there will overall be a slight warming
-trend occurring throughout the week, with relatively drier
-conditions through the end of next week.
+Dry and warmer weather returns for the end of next week as the low
+moves inland and weak high pressure ridging develops over the west
+coast.
 
 &&
 
 .AVIATION...
-251745Z...Multiple cloud decks, SCT-BKN 3000-5000ft for coastal and
+260000Z...Multiple cloud decks, SCT-BKN 2500-5000ft for coastal and
 inland areas and SCT-OVC 20,000-25,000ft MSL across the entire
-region. VCSH with more widespread -SHRA later today, generally after
-23z. Rain will reach mtns around 01z Sun with intermittent SHSN
-above 6500-7000 ft MSL. Mtns shrouded in FG; vis 0-5SM in FG/SHSN.
-Periodic wind gusts above 20kts at most sites today, stronger winds
-possible overnight and into Sunday morning, especially for desert
-sites and those near mtn ranges where surface gusts may reach 30-
-35kts. Through mtn passes, up to 50kts. Mod to strong up/downdrafts
-near peaks and on desert slopes today and Sunday. Periodic reduced
-VIS due to BLDU. -SHRA will come to an end north to south on Sunday,
-around 09-12z Sun for Orange, Riverside, San Bernardino counties and
-16-19z Sun for San Diego County.
+region. VCSH is beginning to spread into the coastal areas this
+evening with more widespread -SHRA expected to fill over the next
+few hours. Light rain is also now reaching the mountains with
+intermittent SHSN above 6500-7000 ft MSL. Mtns shrouded in FG; vis 0-
+5SM in FG/SHSN. Periodic wind gusts above 20kts to continue at most
+sites this evening, stronger winds possible overnight and into
+Sunday morning, especially for desert sites and those near mtn
+ranges where surface gusts may reach 30-35kts. Through mtn passes,
+up to 50kts. Mod to strong up/downdrafts near peaks and on desert
+slopes today and Sunday. Periodic reduced VIS due to BLDU. -SHRA
+will come to an end north to south on Sunday, around 09-12z Sun for
+Orange, Riverside, San Bernardino counties and 16-19z Sun for San
+Diego County.
 
 &&
 
 .MARINE...
-Gusty west winds close to 18-20 kts expected intermittently this
-afternoon through Sunday which may be dangerous to small craft.
+Gusty west winds close to 18-20 kts expected intermittently through
+late Sunday morning which may be hazardous to small craft.
 Otherwise, no hazardous marine conditions are expected through
 Wednesday.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 2 PM this afternoon to 11 AM PDT Sunday for
-     Apple and Lucerne Valleys-Coachella Valley-San Diego County
-     Deserts-San Gorgonio Pass near Banning.
+CA...Wind Advisory until 11 AM PDT Sunday for Apple and Lucerne
+     Valleys-Coachella Valley-San Diego County Deserts-San
+     Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -450,7 +434,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...Munyan
 
 
 </pre>
