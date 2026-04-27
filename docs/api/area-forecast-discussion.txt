@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-26T18:58:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T02:57:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-509
-FXUS66 KSGX 261752
+186
+FXUS66 KSGX 270032
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1052 AM PDT Sun Apr 26 2026
+532 PM PDT Sun Apr 26 2026
 
 .SYNOPSIS...
 Cool and windy continues today into early tomorrow with chances
@@ -361,79 +361,70 @@ the end of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+Mostly cloudy this afternoon with a few light showers producing
+little accumulations. A minor disturbance embedded in the
+northwest flow aloft could bring a period of increased shower
+activity tonight. Onshore flow remains strong and the wind-prone
+locations in the mountains and adjacent desert areas are currently
+reporting westerly winds gusting 35 to 45 mph.
 
-Today through tomorrow night...
+Winds will gradually weaken tonight into Monday and precip taper
+off as the main upper level trough axis moves inland late on
+Monday. Temperatures on Monday will remain as much as 10-20
+degrees below average for inland areas and the mountains but near
+or a little below average near the coast.
 
-Scattered showers continue to develop this morning and move onshore,
-mostly across San Diego County. Westerly winds have been quite
-elevated and gusty across the higher terrain, and deserts. These
-showers should become more numerous by later this evening as another
-perturbation embedded within the longwave propagates over the
-region. This will also help to usher in colder temperatures, as snow
-levels have already dropped down to around 5000 to 5500 feet. Places
-above this elevation, such as Big Bear, have already picked up a
-couple inches of snow. Generally speaking, additional amounts of
-around 0.10 inches of rain or less can be expected, but there could
-still be a few areas with higher amounts of around a quarter of an
-inch in the vicinity of Palomar Mountain through tomorrow morning.
-For tonight into tomorrow morning, showers will begin to taper off
-as high pressure conditions begin to build back in. Winds will begin
-to increase again by later this afternoon, and there could be some
-areas of blowing dust as well for portions of the lower deserts,
-namely within the Coachella Valley. For later in the day on Monday,
-clearing will continue and allow for slightly warmer temperatures in
-comparison to today. The marine layer will likely remain somewhat
-dispersed through the next couple of days.
+Fair weather with a warming trend will begin on Tuesday and
+continue through Wednesday as a low pressure system moves south
+out of the Gulf of Alaska and a weak ridge of high pressure
+develops over the Desert Southwest. Wednesday will likely be the
+warmest day with temperatures ranging from a few degrees below to
+a few degrees above seasonal averages.
 
-Tuesday through Saturday...
+Numerical models have adjusted solutions to slow down the
+progress of the Gulf of AK low so that it doesn`t move into
+SoCal/northern Baja until Thursday. This means that we`re unlikely
+to see any precipitation from this system until late Wednesday/early
+Thursday. Models are in pretty good agreement through Thursday with
+respect to the synoptic pattern, showing the closed upper low
+moving over northern Baja late Thursday. This trajectory could
+bring us precip on Thursday but not much in the way of winds or
+cold air. Temperatures on Thursday will likely be generally near
+or a little below seasonal averages.
 
-By Tuesday, high pressure will bring about drier conditions with a
-gradual warming trend as the main energy of the trough shifts
-further east. This will also allow for there to be a cut-off low
-that develops well to our west over the Pacific Ocean. Depending on
-the track, this could bring a slight chance of
-showers/thunderstorms, especially over the mountains. Some of the
-deterministic models have the position of this U/L low transitioning
-just south of our CWA by later in the evening on Wednesday and into
-Thursday. Depending on which model resolved this the best will
-determine how much precipitation is received across the region, and
-this can be evaluated in the upcoming days. If this feature takes
-this track, it will give us the best chance of receiving any
-additional precip by this time, otherwise drier conditions and a
-gradual warming are expected towards the end of the week.
+Dry and warmer for Friday and Saturday under a transient ridge of
+high pressure between the departing system moving into the
+southern Rockies and another low pressure system moving in from
+the northwest.
 
 &&
 
 .AVIATION...
-261745Z....Coast/Valleys...SCT-BKN low clouds 2200-4500ft MSL as
--SHRA continues to move across the area, becoming more isolated
-through the afternoon. Gusty surface winds out of the west for most
-locations today, with gusts up to 20-25kts possible through 06z Mon.
-VCSH after 20z today, ending by 10z Mon for Riverside, Orange, and
-San Bernardino counties. VCSH/-SHRA possible for SD County through
-20z Mon.
+270000Z....Coast/Valleys...VFR conditions with SCT-BKN cumulus field
+based around 3000-4000ft MSL is persisting across the coastal basin
+this afternoon. Gusty westerly winds up to 15-20 kts will gradually
+diminish by 01-02 Monday. Another round of VCSH is set to move
+through the coastal basin starting 06z Monday. Any showers will be
+fairly light and provide little to not impact to any TAF sites
+before eventually clearing out by 18z. Cumulus likely less numerous
+after 18z Monday.
 
-.Mountains/Deserts...Light precipitation falling in the
-mountains with intermittent SHSN above 6000-6500ft MSL. Mtns
-shrouded in FG; vis 0-5SM in FG/SHSN. Gusty west winds with surface
-speeds up to 20-30 kts, locally higher through mountain passes and
-near ridgelines, dying down by 12z Mon. Mod to strong up/downdrafts
-near peaks and on desert slopes. Periodic reduced VIS due to BLDU.
+.Mountains/Deserts...Gusty west winds with surface speeds up to 20-
+30 kts, locally higher through mountain passes and near ridgelines,
+dying down by 12z Monday Mod to strong up/downdrafts near peaks and
+on desert slopes. Periodic reduced VIS due to BLDU.
 
 &&
 
 .MARINE...
-Gusty west winds close to 18-20 kts expected intermittently through
-this afternoon which may be hazardous to small craft. Otherwise, no
-hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 5 PM PDT this afternoon for Apple and
-     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
-     San Gorgonio Pass near Banning.
+CA...Wind Advisory until 2 AM PDT Monday for Apple and Lucerne
+     Valleys-Coachella Valley-San Diego County Deserts-San
+     Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -442,7 +433,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...Munyan
 
 
 </pre>
