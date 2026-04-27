@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T08:29:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T13:58:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,20 +342,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-511
-FXUS66 KSGX 270451
+003
+FXUS66 KSGX 270944
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-951 PM PDT Sun Apr 26 2026
+244 AM PDT Mon Apr 27 2026
 
 .SYNOPSIS...
-Isolated light showers west of the mountains tonight along with
-decreasing west winds in the mountains and deserts. Warmer early
-this week, then minor cooling and a slight chance of precipitation
-towards the middle of the week. Warmer and drier for the end of
-the week.
+Isolated light showers, mainly over the coastal waters into
+coastal areas, are expected to end during the morning. It will
+then be dry and warmer through Wednesday with Wednesday high
+temperatures around average. A low pressure system moving inland
+in the vicinity of northern Baja around Thursday could bring a
+chance of showers for southwestern California for Wednesday night
+and Thursday. Then dry and warmer for Friday and Saturday
+followed by cooling for Sunday and Monday of next week.
 
 &&
 
@@ -363,79 +366,85 @@ the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Evening update...
-No precipitation is evident on radar or gauges this evening. A
-secondary short wave is dropping south to near Point Conception
-and will move into So Cal tonight into Monday morning. This will
-produce another round of isolated light showers along and west of
-the mountains. Additional rainfall accumulation is expected to be
-around 0.10" or less, and many locations may receive none. The
-snow level will fall to around 5500 ft with any accumulation less
-than one inch. Otherwise breezy west winds in the mountains and
-deserts weaken overnight. Monday remains cool with high
-temperatures as much as 10-15 degrees below normal inland, and
-around 3-8 degrees below normal closer to the coast.
+.SHORT TERM (Today through Wednesday)...
+Scattered showers over the coastal waters will spread toward the
+southeast and into coastal areas into this morning before
+dissipating during the morning. Dry weather with warming will
+then follow through Wednesday.
 
-Previous discussion...
-Fair weather with a warming trend will begin on Tuesday and
-continue through Wednesday as a low pressure system moves south
-out of the Gulf of Alaska and a weak ridge of high pressure
-develops over the Desert Southwest. Wednesday will likely be the
-warmest day with temperatures ranging from a few degrees below to
-a few degrees above seasonal averages.
+High temperatures today will be around 10 degrees below average
+for inland areas to as much as 10 to 20 degrees below average for
+the higher elevations in the mountains. High temperatures for
+today will warm as much as 5 to 10 degrees for the mountains. High
+temperatures on Tuesday will warm another 5 to 10 degrees for
+inland areas and as much as another 10 to 15 degrees for the
+mountains. High temperatures on Wednesday will be another few
+degrees warmer. Wednesday high temperatures will be mostly within
+a few degrees of average, ranging from the mid to upper 60s near
+the coast to the mid 70s to lower 80s for the Inland Empire with
+the lower deserts around 90.
 
-Numerical models have adjusted solutions to slow down the
-progress of the Gulf of AK low so that it doesn`t move into
-SoCal/northern Baja until Thursday. This means that we`re unlikely
-to see any precipitation from this system until late Wednesday/early
-Thursday. Models are in pretty good agreement through Thursday with
-respect to the synoptic pattern, showing the closed upper low
-moving over northern Baja late Thursday. This trajectory could
-bring us precip on Thursday but not much in the way of winds or
-cold air. Temperatures on Thursday will likely be generally near
-or a little below seasonal averages.
+&&
 
-Dry and warmer for Friday and Saturday under a transient ridge of
-high pressure between the departing system moving into the
-southern Rockies and another low pressure system moving in from
-the northwest.
+.LONG TERM (Thursday through Sunday)...
+A low pressure system well off the coast of northern Baja on
+Tuesday will move slowly eastward and may move inland somewhere in
+the vicinity of northern Baja and far southern California some
+time around Thursday. For Wednesday night and Thursday, the
+chance for measurable rainfall ranges from around 10 to 15 percent
+near the coast to around 25 percent in the mountains with the
+chance for one-half inch or more of rainfall in the mountains
+around 10 percent. High temperatures on Thursday will be a few to
+around 5 degrees cooler.
+
+Drying and warming is expected for Friday and Saturday with high
+temperatures for inland areas warming 5 to 10 degrees on Friday
+and another few degrees for most areas on Saturday. High
+temperatures on Saturday will be 5 to 10 degrees above average for
+inland areas, ranging from around 70 near the coast to the 80s for
+the Inland Empire with the lower deserts in the mid to upper 90s.
+
+Another low pressure system will bring more cooling for Sunday
+and Monday of next week with high temperatures on Sunday falling
+to around average and as much as 5 to 10 degrees below average for
+inland areas next Monday.
 
 &&
 
 .AVIATION...
-270600Z....Coast/Valleys...VFR conditions widely scattered clouds
-around 4500-5500ft MSL. Another round of VCSH is set to move through
-the coastal basin through the overnight hours. Any showers will be
-fairly light and provide little to not impact to any TAF sites
-before eventually clearing out by 18z. Cumulus based around 3000ft
-MSL forming Monday morning become less numerous after 18z Monday.
+270930Z....Coast/Valleys...SCT-BKN clouds based mostly 3500-6000
+feet MSL, but isolated cigs to 2500 feet in isolated -SHRA near the
+coast through 17Z. Scatter out from coast toward valleys after 17Z.
+BKN clouds 2500-3500 feet MSL mainly in San Diego County 02-07Z.
 
-.Mountains/Deserts...Gusty west winds with surface speeds up to 15-
-25 kts, locally higher through mountain passes and near ridgelines,
-dying down by 12z Monday Mod to strong up/downdrafts near peaks and
-on desert slopes. Periodic reduced VIS due to BLDU. Similar westerly
-gusts up to 20 kts expected to pick back up after 21z Monday.
+.Mountains/Deserts...Areas of coastal facing terrain obscured
+in clouds and FG through 18Z. Gusty westerly winds 25-35 kts,
+locally to 45 kts, will pick up after 21Z and continue through 08Z.
+Mod to strong up/downdrafts near peaks and on desert slopes.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 2 AM PDT Monday for Apple and Lucerne
-     Valleys-Coachella Valley-San Diego County Deserts-San
-     Gorgonio Pass near Banning.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...SS/PG
-AVIATION/MARINE...Munyan
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
