@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T13:58:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T19:25:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-003
-FXUS66 KSGX 270944
+341
+FXUS66 KSGX 271730
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-244 AM PDT Mon Apr 27 2026
+1030 AM PDT Mon Apr 27 2026
 
 .SYNOPSIS...
 Isolated light showers, mainly over the coastal waters into
@@ -365,6 +365,8 @@ followed by cooling for Sunday and Monday of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...New Aviation Discussion for the 18z TAF Package...
 
 .SHORT TERM (Today through Wednesday)...
 Scattered showers over the coastal waters will spread toward the
@@ -412,26 +414,21 @@ inland areas next Monday.
 &&
 
 .AVIATION...
-270930Z....Coast/Valleys...SCT-BKN clouds based mostly 3500-6000
-feet MSL, but isolated cigs to 2500 feet in isolated -SHRA near the
-coast through 17Z. Scatter out from coast toward valleys after 17Z.
-BKN clouds 2500-3500 feet MSL mainly in San Diego County 02-07Z.
+271745Z....Coast/Valleys...SCT-BKN clouds based mostly 3500-6000ft
+MSL currently. Scatter out from coast toward valleys through the
+afternoon. SCT-BKN clouds 3000-5000ft MSL mainly in San Diego County
+02-07 Tue, scatting out by sunrise with FEW-BKN high clouds AOA
+20,000ft MSL thereafter.
 
 .Mountains/Deserts...Areas of coastal facing terrain obscured
-in clouds and FG through 18Z. Gusty westerly winds 25-35 kts,
-locally to 45 kts, will pick up after 21Z and continue through 08Z.
-Mod to strong up/downdrafts near peaks and on desert slopes.
+in clouds and FG through 21z. Gusty westerly winds 25-35kts, locally
+to 45kts, will pick up after 21z and continue through 08z Tue. Mod
+to strong up/downdrafts near peaks and on desert slopes.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Friday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -443,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>

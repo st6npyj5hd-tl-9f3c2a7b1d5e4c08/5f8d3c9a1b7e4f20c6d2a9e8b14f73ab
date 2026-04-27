@@ -22,7 +22,7 @@
 <moreWeatherInformation applicable-location="point1">https://forecast.weather.gov/MapClick.php?lat=32.8&amp;lon=-117.06</moreWeatherInformation>
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p12h-n13-1</layout-key>
-      <start-valid-time period-name="Today">2026-04-27T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="This Afternoon">2026-04-27T12:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tonight">2026-04-27T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tuesday">2026-04-28T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tuesday Night">2026-04-28T18:00:00-07:00</start-valid-time>
@@ -39,7 +39,7 @@
 
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time period-name="Today">2026-04-27T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="This Afternoon">2026-04-27T12:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tuesday">2026-04-28T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Wednesday">2026-04-29T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Thursday">2026-04-30T06:00:00-07:00</start-valid-time>
@@ -84,7 +84,7 @@
 
     <probability-of-precipitation  type="12 hour" units="percent" time-layout="k-p12h-n13-1">
       <name>12 Hourly Probability of Precipitation</name>
-        <value>20</value>
+        <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
@@ -101,7 +101,7 @@
 
     <weather time-layout="k-p12h-n13-1">
       <name>Weather Type, Coverage, Intensity</name>
-        <weather-conditions weather-summary="Slight Chance Showers then Sunny"/>
+        <weather-conditions weather-summary="Sunny"/>
         <weather-conditions weather-summary="Mostly Clear"/>
         <weather-conditions weather-summary="Sunny"/>
         <weather-conditions weather-summary="Partly Cloudy"/>
@@ -117,7 +117,7 @@
     </weather>
 
     <conditions-icon type="forecast-NWS" time-layout="k-p12h-n13-1">
-      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=few&amp;ip=20</icon-link>
+      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nfew.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nsct.png</icon-link>
@@ -134,7 +134,7 @@
 
     <wordedForecast time-layout="k-p12h-n13-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
       <name>Text Forecast</name>
-        <text>A slight chance of showers before 11am.  Mostly sunny, with a high near 67. West wind 5 to 15 mph, with gusts as high as 20 mph.  Chance of precipitation is 20%.</text>
+        <text>Sunny, with a high near 67. West wind 10 to 15 mph, with gusts as high as 20 mph. </text>
         <text>Mostly clear, with a low around 51. Northwest wind 5 to 10 mph becoming northeast after midnight. </text>
         <text>Sunny, with a high near 72. Light and variable wind becoming northwest 5 to 10 mph in the morning. Winds could gust as high as 20 mph. </text>
         <text>Partly cloudy, with a low around 51. Northwest wind 5 to 10 mph becoming light and variable  in the evening. </text>
@@ -158,4 +158,4 @@
       <area-description>DW5256 La Mesa, CA</area-description>
       <height datum="mean sea level" height-units="feet">646.75</height>
   </location>
-  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-04-27T06:45:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>54</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>47</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>77</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>332</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.93</value>      </pressure>  </parameters></data></dwml>
+  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-04-27T12:15:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>64</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>46</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>53</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>327</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.97</value>      </pressure>  </parameters></data></dwml>
