@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T02:57:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-27T08:29:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -337,23 +337,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-186
-FXUS66 KSGX 270032
+511
+FXUS66 KSGX 270451
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-532 PM PDT Sun Apr 26 2026
+951 PM PDT Sun Apr 26 2026
 
 .SYNOPSIS...
-Cool and windy continues today into early tomorrow with chances
-of light precipitation, mainly over and west of the mountains.
-Warmer early this week, then minor cooling and a slight chance of
-precipitation towards the middle of the week. Warmer and drier for
-the end of the week.
+Isolated light showers west of the mountains tonight along with
+decreasing west winds in the mountains and deserts. Warmer early
+this week, then minor cooling and a slight chance of precipitation
+towards the middle of the week. Warmer and drier for the end of
+the week.
 
 &&
 
@@ -361,19 +363,20 @@ the end of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Mostly cloudy this afternoon with a few light showers producing
-little accumulations. A minor disturbance embedded in the
-northwest flow aloft could bring a period of increased shower
-activity tonight. Onshore flow remains strong and the wind-prone
-locations in the mountains and adjacent desert areas are currently
-reporting westerly winds gusting 35 to 45 mph.
+Evening update...
+No precipitation is evident on radar or gauges this evening. A
+secondary short wave is dropping south to near Point Conception
+and will move into So Cal tonight into Monday morning. This will
+produce another round of isolated light showers along and west of
+the mountains. Additional rainfall accumulation is expected to be
+around 0.10" or less, and many locations may receive none. The
+snow level will fall to around 5500 ft with any accumulation less
+than one inch. Otherwise breezy west winds in the mountains and
+deserts weaken overnight. Monday remains cool with high
+temperatures as much as 10-15 degrees below normal inland, and
+around 3-8 degrees below normal closer to the coast.
 
-Winds will gradually weaken tonight into Monday and precip taper
-off as the main upper level trough axis moves inland late on
-Monday. Temperatures on Monday will remain as much as 10-20
-degrees below average for inland areas and the mountains but near
-or a little below average near the coast.
-
+Previous discussion...
 Fair weather with a warming trend will begin on Tuesday and
 continue through Wednesday as a low pressure system moves south
 out of the Gulf of Alaska and a weak ridge of high pressure
@@ -400,19 +403,18 @@ the northwest.
 &&
 
 .AVIATION...
-270000Z....Coast/Valleys...VFR conditions with SCT-BKN cumulus field
-based around 3000-4000ft MSL is persisting across the coastal basin
-this afternoon. Gusty westerly winds up to 15-20 kts will gradually
-diminish by 01-02 Monday. Another round of VCSH is set to move
-through the coastal basin starting 06z Monday. Any showers will be
+270600Z....Coast/Valleys...VFR conditions widely scattered clouds
+around 4500-5500ft MSL. Another round of VCSH is set to move through
+the coastal basin through the overnight hours. Any showers will be
 fairly light and provide little to not impact to any TAF sites
-before eventually clearing out by 18z. Cumulus likely less numerous
-after 18z Monday.
+before eventually clearing out by 18z. Cumulus based around 3000ft
+MSL forming Monday morning become less numerous after 18z Monday.
 
-.Mountains/Deserts...Gusty west winds with surface speeds up to 20-
-30 kts, locally higher through mountain passes and near ridgelines,
+.Mountains/Deserts...Gusty west winds with surface speeds up to 15-
+25 kts, locally higher through mountain passes and near ridgelines,
 dying down by 12z Monday Mod to strong up/downdrafts near peaks and
-on desert slopes. Periodic reduced VIS due to BLDU.
+on desert slopes. Periodic reduced VIS due to BLDU. Similar westerly
+gusts up to 20 kts expected to pick back up after 21z Monday.
 
 &&
 
@@ -432,7 +434,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
+PUBLIC...SS/PG
 AVIATION/MARINE...Munyan
 
 
