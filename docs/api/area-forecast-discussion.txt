@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T14:12:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T19:43:39+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-844
-FXUS66 KSGX 280931
+256
+FXUS66 KSGX 281749
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-231 AM PDT Tue Apr 28 2026
+1049 AM PDT Tue Apr 28 2026
 
 .SYNOPSIS...
 High temperatures will be much warmer for inland areas today, as
@@ -368,6 +368,8 @@ There is also a chance for showers early next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Thursday)...
 High temperatures for today will be much warmer than Monday, as
@@ -398,27 +400,28 @@ the lower to mid 70s for the Inland Empire with the lower deserts
 in the 80s. There is also a slight chance of showers for early
 next week.
 
+
 &&
 
-.AVIATION...
-280930Z....ISO low clouds near the coast through 13Z, any cig
-would be brief and based around 3000 feet MSL. Brisk onshore wind
-gusts 25-35 knots after 23Z through mountain passes into adjacent
-deserts. Areas of low clouds to increase after 07Z tonight into
-Wednesday, based at around 2500-3000 feet MSL. SCT-BKN high clouds
-regionwide today and tonight.
+.AVIATION... 281730Z....Winds will pick up after 22-23Z in the
+mountain passes and adjacent deserts with gusts up to 25-30 kts. Low
+clouds begin to trickle in along the coast after 02-03Z Wednesday,
+filling in and pushing inland slightly after 07Z. Cloud bases are
+expected to be around 2000-3000ft MSL. Otherwise, VFR conditions and
+SCT-BKN high clouds expected through the TAF period.
+.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected today through
-Saturday.
+No hazardous marine conditions are expected today through Saturday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -431,7 +434,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...MM
+AVIATION/MARINE...Villafane
 
 
 </pre>
