@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T08:27:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T14:12:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,20 +342,26 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-784
-FXUS66 KSGX 280359
+844
+FXUS66 KSGX 280931
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-859 PM PDT Mon Apr 27 2026
+231 AM PDT Tue Apr 28 2026
 
 .SYNOPSIS...
-Dry conditions expected through Wednesday afternoon. For
-Wednesday evening into Thursday, there is a slight chance of
-showers with highest chances in the mountains. Temperatures will
-remain near to below average through Thursday. Then dry and warmer
-for the weekend followed by cooling for early next week.
+High temperatures will be much warmer for inland areas today, as
+much as 10 to 15 degrees warmer for the mountains. Only slight
+warming for Wednesday with high temperatures remaining around
+average on Thursday as a low pressure system moves inland to the
+south. There will be additional warming for Friday and Saturday
+with Saturday high temperatures 5 to 10 degrees above average for
+inland areas. A low pressure system moving slowly inland into
+California early next week will bring cooling for Sunday through
+Tuesday with Tuesday high temperatures near average near the coast
+to a few degrees below average for the mountains and deserts.
+There is also a chance for showers early next week.
 
 &&
 
@@ -363,77 +369,56 @@ for the weekend followed by cooling for early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Dry conditions expected through much of Wednesday. High temperatures
-through Thursday are expected to run near to slightly below
-average, with conditions warming each day. The biggest jump in
-high temperatures will be between today and Tuesday, with Tuesday
-7 to 15 degrees warmer than today for inland locations.
+.SHORT TERM (Today through Thursday)...
+High temperatures for today will be much warmer than Monday, as
+much as 10 to 15 degrees warmer for the mountains. Inland high
+temperatures will still be a few degrees below average with high
+temperatures today ranging from the mid to upper 60s near the
+coast to the 70s for the Inland Empire with the lower deserts in
+the mid 80s. There will be slight slight additional warming for
+Wednesday. High temperatures will remain around average on
+Thursday as a low pressure system moves inland to the south.
 
-A low pressure system well off the coast of northern Baja on Tuesday
-will move slowly eastward and inland over northern Baja or far
-southern California Thursday. Chances of precipitation are in the
-forecast as early as Wednesday evening and continue into Thursday.
-Highest chances of precipitation are in the mountains (15 to 20
-percent), with 10 to 15 percent chance elsewhere. There remains
-uncertainty in the track of this system which has significant
-impact on precipitation chances across the area. A more northerly
-track along the border of US/Mexico will increase precipitation
-across the area, including the deserts and desert slopes of the
-mountains. A track further south into Baja may keep conditions
-dry. Right now the ensemble guidance is split 50/50 with 50
-percent of solutions showing a track that would bring
-precipitation including wrap around precipitation to the deserts
-and 50 percent are showing no precipitation for Thursday. NBM
-chances of rainfall totals exceedng 0.10 inches between Wednesday
-evening and Thursday evening are 10 to 15 percent for the coast,
-valleys, and San Diego deserts and locally up to 20 percent for
-the mountains.
+&&
 
-About 60 percent of ensemble solutions indicate dry conditions will
-return on Friday, with about 40 percent showing the potential for
-lingering precipitation. There is much higher confidence in dry
-weather returning for Saturday with a warming trend expected. High
-temperatures on Saturday will be 5 to 10 degrees above average for
-inland areas, ranging from around 70 near the coast to the 80s for
-the Inland Empire with the lower deserts in the mid to upper 90s.
+.LONG TERM (Friday through Monday)...
+High pressure will bring greater warming for Friday and Saturday
+with Saturday high temperatures 5 to 10 degrees above average for
+inland areas. High temperatures on Saturday will range from the
+lower 70s near the coast to the mid 80s to lower 90s for the
+Inland Empire with the lower deserts in the upper 90s to around
+100.
 
-Another low pressure system will approach the US West Coast Sunday
-or Monday, brining cooler conditions and likely an increase in winds
-for the mountains and deserts. Some ensemble solutions are
-indicating the potential for another round of precipitation, but there
-remains uncertainty surrounding how far south the low will track.
-A more southerly track increases our precipitation chances while
-a more northerly track decreases them.
-
+A low pressure system centered off the California coast on Sunday
+will move slowly inland on Monday and Tuesday. Cooling will spread
+inland with Tuesday high temperatures near average at the coast to
+around 5 degrees below average for the deserts. High temperatures
+on Tuesday will range from the mid to upper 60s near the coast to
+the lower to mid 70s for the Inland Empire with the lower deserts
+in the 80s. There is also a slight chance of showers for early
+next week.
 
 &&
 
 .AVIATION...
-280400Z....Coast/Valleys...SCT-BKN clouds 3000-5000ft MSL develop
-mainly over San Diego County after 06z, scattering out around 12z
-with FEW-BKN high clouds AOA 20,000ft MSL thereafter. Very patchy
-low clouds with slightly lower bases than tonight may develop again
-over coastal SD Co. later Tuesday night after 06z.
-
-.Mountains/Deserts...Westerly winds are slowly weakening tonight,
-only gusting above 35 kts in the Banning Pass. Mod to strong
-up/downdrafts near peaks and on desert slopes. Gusts increase again
-Tuesday afternoon, around 30 kts in the desert slopes (~35 kts
-through the Banning Pass) after 01z Wed.
+280930Z....ISO low clouds near the coast through 13Z, any cig
+would be brief and based around 3000 feet MSL. Brisk onshore wind
+gusts 25-35 knots after 23Z through mountain passes into adjacent
+deserts. Areas of low clouds to increase after 07Z tonight into
+Wednesday, based at around 2500-3000 feet MSL. SCT-BKN high clouds
+regionwide today and tonight.
 
 &&
 
 .MARINE...
-West/northwest winds expected to gust near 20 kts in the outer
-waters Tuesday afternoon and evening. No hazardous marine conditions
-are expected through Friday.
+No hazardous marine conditions are expected today through
+Saturday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -445,8 +430,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
