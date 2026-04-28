@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T03:25:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T08:27:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-558
-FXUS66 KSGX 272351
+784
+FXUS66 KSGX 280359
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-451 PM PDT Mon Apr 27 2026
+859 PM PDT Mon Apr 27 2026
 
 .SYNOPSIS...
 Dry conditions expected through Wednesday afternoon. For
@@ -363,17 +363,11 @@ for the weekend followed by cooling for early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation Discussion Below...
-
-At 12 PM, visible satellite was showing widespread low to mid level
-clouds mainly away from the coast. Temperatures this afternoon are
-running within a few degrees of Sunday for the coast and valleys and
-up to 10 degrees warmer in the San Bernardino mountains. Dry
-conditions expected this afternoon through much of Wednesday. High
-temperatures through Thursday are expected to run near to slightly
-below average, with conditions warming each day. The biggest jump in
-high temperatures will be between today and Tuesday, with Tuesday 7
-to 15 degrees warmer than today for inland locations.
+Dry conditions expected through much of Wednesday. High temperatures
+through Thursday are expected to run near to slightly below
+average, with conditions warming each day. The biggest jump in
+high temperatures will be between today and Tuesday, with Tuesday
+7 to 15 degrees warmer than today for inland locations.
 
 A low pressure system well off the coast of northern Baja on Tuesday
 will move slowly eastward and inland over northern Baja or far
@@ -411,21 +405,28 @@ remains uncertainty surrounding how far south the low will track.
 A more southerly track increases our precipitation chances while
 a more northerly track decreases them.
 
+
 &&
 
 .AVIATION...
-272345Z....Coast/Valleys...SCT-BKN clouds 3000-5000ft MSL mainly in
-San Diego County 02-07 Tue, will begin to scatter out by sunrise
-with FEW-BKN high clouds AOA 20,000ft MSL thereafter.
+280400Z....Coast/Valleys...SCT-BKN clouds 3000-5000ft MSL develop
+mainly over San Diego County after 06z, scattering out around 12z
+with FEW-BKN high clouds AOA 20,000ft MSL thereafter. Very patchy
+low clouds with slightly lower bases than tonight may develop again
+over coastal SD Co. later Tuesday night after 06z.
 
-.Mountains/Deserts...Gusty westerly winds 25-35kts, locally
-to 45kts, will continue through 08z Tue. Mod to strong up/downdrafts
-near peaks and on desert slopes.
+.Mountains/Deserts...Westerly winds are slowly weakening tonight,
+only gusting above 35 kts in the Banning Pass. Mod to strong
+up/downdrafts near peaks and on desert slopes. Gusts increase again
+Tuesday afternoon, around 30 kts in the desert slopes (~35 kts
+through the Banning Pass) after 01z Wed.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+West/northwest winds expected to gust near 20 kts in the outer
+waters Tuesday afternoon and evening. No hazardous marine conditions
+are expected through Friday.
 
 &&
 
@@ -445,7 +446,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Stewey
+AVIATION/MARINE...Westerink
 
 
 </pre>
