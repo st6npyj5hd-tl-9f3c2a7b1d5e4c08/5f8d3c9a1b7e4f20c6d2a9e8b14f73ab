@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T03:23:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T08:22:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-985
-FXUS66 KSGX 290009
+061
+FXUS66 KSGX 290439
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-509 PM PDT Tue Apr 28 2026
+939 PM PDT Tue Apr 28 2026
 
 .SYNOPSIS...
 Warmer and drier weather this week, further warming this weekend.
@@ -398,15 +398,19 @@ seen.
 &&
 
 .AVIATION...
-290005Z....Westerly winds gusting 25-30 kts in the mountain passes
+300440Z....Westerly winds gusting 25-30 kts in the mountain passes
 and adjacent deserts are expected until about 09Z before weakening.
 
 Patchy low clouds return to the immediate coast between 10Z and 15Z,
 extending less than 5 miles inland. Bases will likely be around 1500-
 2000 ft MSL, with about a 30-35 percent chance of CIG impacts at
-KSAN and KSNA but less than a 20 percent chance for CIG impacts at
+KSAN and KSNA but about a 20-30 percent chance for CIG impacts at
 KCRQ. Expect clearing to the beaches by 19Z. Elsewhere, SCT-BKN high
-clouds with unrestricted VIS expected through Wednesday.
+clouds with unrestricted VIS expected through Wednesday
+afternoon/evening. Low clouds likely to return to the coastal areas
+around 06Z Thursday with a little higher bases, spreading inland
+during the following 12 hours. Low clouds could spread 10-15 miles
+inland by 15Z Thursday.
 
 &&
 
@@ -418,7 +422,6 @@ No hazardous marine conditions are expected today through Saturday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
