@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T08:22:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T14:01:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -344,19 +344,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-061
-FXUS66 KSGX 290439
+651
+FXUS66 KSGX 290941
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-939 PM PDT Tue Apr 28 2026
+241 AM PDT Wed Apr 29 2026
 
 .SYNOPSIS...
-Warmer and drier weather this week, further warming this weekend.
-Gusty west winds Wednesday and Thursday, weakening late week and
-into Saturday. Rain chances return early to mid next week as the
-next system moves across, along with cooler weather.
+High temperatures will continue warming today to around average
+with not much change on Thursday. There will be additional
+warming for Friday and Saturday with Saturday high temperatures 5
+to 10 degrees above average for inland areas. A low pressure
+system moving slowly into California will bring a cooling trend
+for Sunday through Tuesday with Tuesday high temperatures as much
+as 10 to 15 degrees below average for the mountains. There is also
+a slight chance of showers some time around Tuesday.
 
 &&
 
@@ -364,58 +368,54 @@ next system moves across, along with cooler weather.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+.SHORT TERM (Today through Friday)...
+Dry weather will continue through the weekend. High temperatures
+will warm slightly near the coast today to around 5 degrees for
+the deserts to within a few degrees of average for most areas with
+not much change on Thursday. High temperatures will range from the
+mid to upper 60s near the coast to the mid 70s to lower 80s for
+the Inland Empire with the lower deserts around 90.
 
-Water vapor satellite imagery shows a deepening low off the coast of
-Central CA, poised to continue it`s southward track. As previously
-forecasted, this low should become an open trough and slide across
-Baja CA Thursday, stunting the warming that has been observed this
-week. At this point, the moisture profile is not conducive for
-much if any precipitation as this system moves through, and
-practically all mention of QPF have been removed from the
-forecast. Instead, the further south slide of the trough will
-bring about gusty west to southwest winds to the deserts and
-mountains, primarily Thursday afternoon, where gusts may exceed 30
-mph at times, even higher for mountain passes and desert slopes.
+There will be additional warming for Friday and Saturday with
+Friday high temperatures warming as much as 5 to locally 10
+degrees for the valleys and lower elevations of the mountains.
+With the warming, high temperatures will range from around 70 near
+the coast to the lower to mid 80s for the Inland Empire with the
+lower deserts in the mid 90s.
 
-As the system moves into the the Desert Southwest Thursday, weak
-mid level ridging fills in its spot and we will quickly warm for
-the end of the week and into the weekend. The thermal ridge axis
-will set up over SoCal on Saturday, expected to be the hottest
-day, with highs in the 70s for the coasts and mountains, 80s for
-inland spots and High Desert, and upper 90s for the low deserts,
-or around 5-12 degrees above normal.
+&&
 
-Heading into early next week, a very large low on the backside of
-the ridge will meander into the CA coastline, bringing our next
-chance for precipitation. While moisture seems to be more
-consistent between model runs with this next low, this far out,
-significant disagreements on the track of the low exist between
-the global models. Any precipitation and/or wind impacts from this
-next system will not be nailed out until better agreement is
-seen.
+.LONG TERM (Saturday through Tuesday)...
+High temperatures on Saturday will warm a few more degrees, to 5
+to 10 degrees above average for inland areas, with high
+temperatures ranging from around 70 near the coast to the 80s for
+the Inland Empire with the mid to upper 90s for the lower deserts.
+
+A closed low pressure system centered off the California coast on
+Sunday will move slowly inland into California on Monday and
+Tuesday. This will bring a cooling trend for Sunday through
+Tuesday with Tuesday high temperatures 5 to 10 degrees below
+average for inland areas to as much as 10 to 15 degrees below
+average for the mountains. High temperatures on Tuesday will be
+mostly in the mid 60s to lower 70s for the coast and valleys with
+the lower deserts in the upper 70s to mid 80s. There is also a
+slight chance of showers some time around Tuesday.
 
 &&
 
 .AVIATION...
-300440Z....Westerly winds gusting 25-30 kts in the mountain passes
-and adjacent deserts are expected until about 09Z before weakening.
+300930Z....Isolated and brief low clouds around 1500 feet MSL at the
+coast through 16Z. Low clouds more likely after 05Z tonight into
+Thursday, with bases around 2000-2500 feet MSL and reaching into
+valleys.
 
-Patchy low clouds return to the immediate coast between 10Z and 15Z,
-extending less than 5 miles inland. Bases will likely be around 1500-
-2000 ft MSL, with about a 30-35 percent chance of CIG impacts at
-KSAN and KSNA but about a 20-30 percent chance for CIG impacts at
-KCRQ. Expect clearing to the beaches by 19Z. Elsewhere, SCT-BKN high
-clouds with unrestricted VIS expected through Wednesday
-afternoon/evening. Low clouds likely to return to the coastal areas
-around 06Z Thursday with a little higher bases, spreading inland
-during the following 12 hours. Low clouds could spread 10-15 miles
-inland by 15Z Thursday.
+Otherwise, mostly clear today, but with increasing clouds tonight
+above 8000 feet MSL.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected today through Saturday.
+No hazardous marine conditions are expected today through Sunday.
 
 &&
 
@@ -433,8 +433,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE...PG
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
