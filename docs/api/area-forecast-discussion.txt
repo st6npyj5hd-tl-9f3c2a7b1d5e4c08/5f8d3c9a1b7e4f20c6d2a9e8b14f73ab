@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-28T19:43:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T03:23:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,29 +339,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-256
-FXUS66 KSGX 281749
+985
+FXUS66 KSGX 290009
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1049 AM PDT Tue Apr 28 2026
+509 PM PDT Tue Apr 28 2026
 
 .SYNOPSIS...
-High temperatures will be much warmer for inland areas today, as
-much as 10 to 15 degrees warmer for the mountains. Only slight
-warming for Wednesday with high temperatures remaining around
-average on Thursday as a low pressure system moves inland to the
-south. There will be additional warming for Friday and Saturday
-with Saturday high temperatures 5 to 10 degrees above average for
-inland areas. A low pressure system moving slowly inland into
-California early next week will bring cooling for Sunday through
-Tuesday with Tuesday high temperatures near average near the coast
-to a few degrees below average for the mountains and deserts.
-There is also a chance for showers early next week.
+Warmer and drier weather this week, further warming this weekend.
+Gusty west winds Wednesday and Thursday, weakening late week and
+into Saturday. Rain chances return early to mid next week as the
+next system moves across, along with cooler weather.
 
 &&
 
@@ -371,45 +366,47 @@ COUNTIES...
 
 New Aviation and Marine Discussion...
 
-.SHORT TERM (Today through Thursday)...
-High temperatures for today will be much warmer than Monday, as
-much as 10 to 15 degrees warmer for the mountains. Inland high
-temperatures will still be a few degrees below average with high
-temperatures today ranging from the mid to upper 60s near the
-coast to the 70s for the Inland Empire with the lower deserts in
-the mid 80s. There will be slight slight additional warming for
-Wednesday. High temperatures will remain around average on
-Thursday as a low pressure system moves inland to the south.
+Water vapor satellite imagery shows a deepening low off the coast of
+Central CA, poised to continue it`s southward track. As previously
+forecasted, this low should become an open trough and slide across
+Baja CA Thursday, stunting the warming that has been observed this
+week. At this point, the moisture profile is not conducive for
+much if any precipitation as this system moves through, and
+practically all mention of QPF have been removed from the
+forecast. Instead, the further south slide of the trough will
+bring about gusty west to southwest winds to the deserts and
+mountains, primarily Thursday afternoon, where gusts may exceed 30
+mph at times, even higher for mountain passes and desert slopes.
+
+As the system moves into the the Desert Southwest Thursday, weak
+mid level ridging fills in its spot and we will quickly warm for
+the end of the week and into the weekend. The thermal ridge axis
+will set up over SoCal on Saturday, expected to be the hottest
+day, with highs in the 70s for the coasts and mountains, 80s for
+inland spots and High Desert, and upper 90s for the low deserts,
+or around 5-12 degrees above normal.
+
+Heading into early next week, a very large low on the backside of
+the ridge will meander into the CA coastline, bringing our next
+chance for precipitation. While moisture seems to be more
+consistent between model runs with this next low, this far out,
+significant disagreements on the track of the low exist between
+the global models. Any precipitation and/or wind impacts from this
+next system will not be nailed out until better agreement is
+seen.
 
 &&
 
-.LONG TERM (Friday through Monday)...
-High pressure will bring greater warming for Friday and Saturday
-with Saturday high temperatures 5 to 10 degrees above average for
-inland areas. High temperatures on Saturday will range from the
-lower 70s near the coast to the mid 80s to lower 90s for the
-Inland Empire with the lower deserts in the upper 90s to around
-100.
+.AVIATION...
+290005Z....Westerly winds gusting 25-30 kts in the mountain passes
+and adjacent deserts are expected until about 09Z before weakening.
 
-A low pressure system centered off the California coast on Sunday
-will move slowly inland on Monday and Tuesday. Cooling will spread
-inland with Tuesday high temperatures near average at the coast to
-around 5 degrees below average for the deserts. High temperatures
-on Tuesday will range from the mid to upper 60s near the coast to
-the lower to mid 70s for the Inland Empire with the lower deserts
-in the 80s. There is also a slight chance of showers for early
-next week.
-
-
-&&
-
-.AVIATION... 281730Z....Winds will pick up after 22-23Z in the
-mountain passes and adjacent deserts with gusts up to 25-30 kts. Low
-clouds begin to trickle in along the coast after 02-03Z Wednesday,
-filling in and pushing inland slightly after 07Z. Cloud bases are
-expected to be around 2000-3000ft MSL. Otherwise, VFR conditions and
-SCT-BKN high clouds expected through the TAF period.
-.
+Patchy low clouds return to the immediate coast between 10Z and 15Z,
+extending less than 5 miles inland. Bases will likely be around 1500-
+2000 ft MSL, with about a 30-35 percent chance of CIG impacts at
+KSAN and KSNA but less than a 20 percent chance for CIG impacts at
+KCRQ. Expect clearing to the beaches by 19Z. Elsewhere, SCT-BKN high
+clouds with unrestricted VIS expected through Wednesday.
 
 &&
 
@@ -433,8 +430,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Villafane
+PUBLIC...Zuber
+AVIATION/MARINE...PG
 
 
 </pre>
