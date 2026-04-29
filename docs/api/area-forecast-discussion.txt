@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T14:01:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T19:39:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-651
-FXUS66 KSGX 290941
+312
+FXUS66 KSGX 291747
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-241 AM PDT Wed Apr 29 2026
+1047 AM PDT Wed Apr 29 2026
 
 .SYNOPSIS...
 High temperatures will continue warming today to around average
@@ -367,6 +367,8 @@ a slight chance of showers some time around Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Friday)...
 Dry weather will continue through the weekend. High temperatures
@@ -401,16 +403,18 @@ mostly in the mid 60s to lower 70s for the coast and valleys with
 the lower deserts in the upper 70s to mid 80s. There is also a
 slight chance of showers some time around Tuesday.
 
+
 &&
 
 .AVIATION...
-300930Z....Isolated and brief low clouds around 1500 feet MSL at the
-coast through 16Z. Low clouds more likely after 05Z tonight into
-Thursday, with bases around 2000-2500 feet MSL and reaching into
-valleys.
+291745Z....Mostly clear skies with a few clouds around 2000ft MSL
+moving in and out along coastal locations. Low clouds return after 02-
+03Z, increasing in coverage after 06-08Z. Bases are expected around
+1200-2500ft MSL and will reach into the valleys. Low clouds will clear
+most areas by 17-18Z.
 
-Otherwise, mostly clear today, but with increasing clouds tonight
-above 8000 feet MSL.
+Everywhere else, VFR conditions through the period with increasing
+clouds above 8000ft MSL this evening.
 
 &&
 
@@ -423,6 +427,7 @@ No hazardous marine conditions are expected today through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -433,8 +438,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Martin
+AVIATION/MARINE...Villafane
 
 
 </pre>
