@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-29T19:39:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-30T03:25:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -341,26 +341,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-312
-FXUS66 KSGX 291747
+535
+FXUS66 KSGX 300004
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1047 AM PDT Wed Apr 29 2026
+504 PM PDT Wed Apr 29 2026
 
 .SYNOPSIS...
-High temperatures will continue warming today to around average
-with not much change on Thursday. There will be additional
-warming for Friday and Saturday with Saturday high temperatures 5
-to 10 degrees above average for inland areas. A low pressure
-system moving slowly into California will bring a cooling trend
-for Sunday through Tuesday with Tuesday high temperatures as much
-as 10 to 15 degrees below average for the mountains. There is also
-a slight chance of showers some time around Tuesday.
+Breezy onshore winds with near-average temperatures today and
+tomorrow. Warming up this weekend with high temperatures 5-10
+degrees above normal. Cooler and windier early-mid next week with
+a chance for light showers.
 
 &&
 
@@ -368,58 +366,57 @@ a slight chance of showers some time around Tuesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+Current satellite shows a very clear sky across SoCal this
+afternoon, which allowed for this morning`s cool start. This
+relatively quiet weather will continue into the weekend as an upper
+level low passes to our south through north-central Baja on
+Thursday. With this setup, temperatures both today and Thursday
+should stay right around seasonable norms, 60s to low 70s for the
+coasts, upper 70s for the far inland valleys, and 80s to 90s for the
+deserts. While the upper low passing to our south keeps us dry,
+breezy onshore winds pick up today, and especially tomorrow.
+Strongest winds expected through mountain passes and into the
+deserts, with gusts up to 30-40 mph on Thursday afternoon/evening.
+Breezes closer to 15-20 mph for the coastal areas.
 
-.SHORT TERM (Today through Friday)...
-Dry weather will continue through the weekend. High temperatures
-will warm slightly near the coast today to around 5 degrees for
-the deserts to within a few degrees of average for most areas with
-not much change on Thursday. High temperatures will range from the
-mid to upper 60s near the coast to the mid 70s to lower 80s for
-the Inland Empire with the lower deserts around 90.
+Heading into the weekend, a weak upper ridge is set to move in,
+kicking off a warming trend. The most anomalously high heights will
+be centered over Idaho, but the ridge axis stretches over southern
+California on Saturday. The result is nearly all locations seeing
+high temperatures 5-10 degrees above normal Saturday afternoon.
 
-There will be additional warming for Friday and Saturday with
-Friday high temperatures warming as much as 5 to locally 10
-degrees for the valleys and lower elevations of the mountains.
-With the warming, high temperatures will range from around 70 near
-the coast to the lower to mid 80s for the Inland Empire with the
-lower deserts in the mid 90s.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High temperatures on Saturday will warm a few more degrees, to 5
-to 10 degrees above average for inland areas, with high
-temperatures ranging from around 70 near the coast to the 80s for
-the Inland Empire with the mid to upper 90s for the lower deserts.
-
-A closed low pressure system centered off the California coast on
-Sunday will move slowly inland into California on Monday and
-Tuesday. This will bring a cooling trend for Sunday through
-Tuesday with Tuesday high temperatures 5 to 10 degrees below
-average for inland areas to as much as 10 to 15 degrees below
-average for the mountains. High temperatures on Tuesday will be
-mostly in the mid 60s to lower 70s for the coast and valleys with
-the lower deserts in the upper 70s to mid 80s. There is also a
-slight chance of showers some time around Tuesday.
+The pattern looks to change once again for early-mid next week with
+another large upper low set to swing through the region. Models are
+in fairly good agreement with the placement of this low off the
+central California coast Sunday into Monday. Model spread increases
+some thereafter with the evolution of this low, but only really with
+its timing. Given the pretty good agreement in track, some
+precipitation is expected to move through sometime Monday into
+Tuesday. Current ensemble guidance suggests any rain amounts will be
+rather light, with the only locations seeing >50% of at least 0.1"
+of rain being the coastal mountain slopes. What is most likely with
+this trough regardless of its exact track will be a cooling trend
+from Sunday-Tuesday with breezy to gusty onshore winds picking up
+again.
 
 
 &&
 
 .AVIATION...
-291745Z....Mostly clear skies with a few clouds around 2000ft MSL
-moving in and out along coastal locations. Low clouds return after 02-
-03Z, increasing in coverage after 06-08Z. Bases are expected around
-1200-2500ft MSL and will reach into the valleys. Low clouds will clear
-most areas by 17-18Z.
+300015Z....Patchy low clouds based 1500-2000 ft MSL will slowly
+develop over coastal areas 03-09z Thu. Coverage becomes more uniform
+by 09-12z with clouds spreading into inland Orange/San Diego
+Counties as well as the western Inland Empire (KONT). Low clouds
+will clear to the coast by 17-18Z but may linger at beaches and just
+offshore through the afternoon.
 
-Everywhere else, VFR conditions through the period with increasing
-clouds above 8000ft MSL this evening.
+Everywhere else, VFR conditions through the period with FEW-SCT high
+clouds around 10-15 kft through the period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected today through Sunday.
+No hazardous marine conditions are expected today through Monday.
 
 &&
 
@@ -438,8 +435,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE...Villafane
+PUBLIC...Munyan
+AVIATION/MARINE...KW
 
 
 </pre>
