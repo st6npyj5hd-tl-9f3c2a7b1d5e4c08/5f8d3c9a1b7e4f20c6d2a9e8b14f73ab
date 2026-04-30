@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-30T03:25:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-30T08:24:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-535
-FXUS66 KSGX 300004
+366
+FXUS66 KSGX 300437
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-504 PM PDT Wed Apr 29 2026
+937 PM PDT Wed Apr 29 2026
 
 .SYNOPSIS...
 Breezy onshore winds with near-average temperatures today and
@@ -399,19 +399,23 @@ this trough regardless of its exact track will be a cooling trend
 from Sunday-Tuesday with breezy to gusty onshore winds picking up
 again.
 
-
 &&
 
 .AVIATION...
-300015Z....Patchy low clouds based 1500-2000 ft MSL will slowly
-develop over coastal areas 03-09z Thu. Coverage becomes more uniform
-by 09-12z with clouds spreading into inland Orange/San Diego
-Counties as well as the western Inland Empire (KONT). Low clouds
-will clear to the coast by 17-18Z but may linger at beaches and just
-offshore through the afternoon.
+300500Z....Coast/Valleys...Patchy low clouds based 1500-2000 ft MSL
+will continue to slowly develop over coastal areas over the next few
+hours. Coverage becomes more uniform by 10-12z with clouds spreading
+into inland Orange/San Diego Counties as well as the western Inland
+Empire (KONT). Low clouds will clear to the coast by 17-18Z but may
+linger just offshore through the afternoon. Low clouds return to
+coastal San Diego County starting 00-03z Friday with slightly higher
+bases. Clouds should eventually fill most of the coastal basin
+Thursday night.
 
-Everywhere else, VFR conditions through the period with FEW-SCT high
-clouds around 10-15 kft through the period.
+.Mountains/Deserts...Generally VFR conditions expected through the
+period. Westerly winds strengthen starting around 00z Fri with
+widespread gusts 20-30 kts, locally 40 kts along desert slopes and
+through mountain passes.
 
 &&
 
