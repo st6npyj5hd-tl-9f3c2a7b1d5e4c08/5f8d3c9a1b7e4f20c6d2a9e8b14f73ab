@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-30T14:00:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-04-30T19:25:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-403
-FXUS66 KSGX 300931
+816
+FXUS66 KSGX 301726
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-231 AM PDT Thu Apr 30 2026
+1026 AM PDT Thu Apr 30 2026
 
 .SYNOPSIS...
 High temperatures today around average for the coast to the
@@ -374,6 +374,8 @@ southwest to west winds for the mountains and deserts gusting to
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Saturday)...
 Not much change for high temperatures today with high temperatures
@@ -417,19 +419,17 @@ lower deserts around 90.
 &&
 
 .AVIATION...
-300930Z....Coast/Valleys...A gradual increase in low cloud coverage
-this morning based at 1500-2200 feet MSL and tops to 2600 feet.
-Scatter out by 17-18Z. Low clouds return to coastal San Diego County
-starting 04-07Z with slightly higher bases and spread northward. Low
-clouds based at 2000-2500 feet MSL should gradually fill much of the
-coastal basin by 12Z Friday.
+301725Z....Coast/Valleys...BKN-SCT clouds AOA 15K ft MSL moving
+south and east throughout the day. Low clouds will return to coastal
+San Diego County starting 02-06Z with slightly higher bases and
+spread northward near VCTY KSNA around 07-09Z. Low clouds based at
+1500-2500 feet MSL should gradually fill much of the coastal
+basin by 12Z, scattering through the mid morning hours on Friday.
 
-.Mountains/Deserts...Areas of strong westerly winds 20-30 kts,
+.Mountains/Deserts...Areas of elevated westerly winds 20-30 kts,
 with gusts to 40 kts through mountain passes and into adjacent
 deserts 00-10Z. Areas of up/downdrafts and isolated LLWS in lee of
 mountains.
-
-Otherwise...SCT clouds above 15000 feet MSL today and tonight.
 
 &&
 
@@ -453,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...MM
+AVIATION/MARINE...APR
 
 
 </pre>
