@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T08:13:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T13:22:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,25 +346,26 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-302
-FXUS66 KSGX 010446
+486
+FXUS66 KSGX 010958
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-946 PM PDT Thu Apr 30 2026
+258 AM PDT Fri May 1 2026
 
 .SYNOPSIS...
-Low pressure to the south will contribute to high level clouds
-across the region for the remainder of the day into the evening.
-Weak high pressure over the region on Friday and Saturday will
-lead to a warming trend with high temperatures 5 to 10 degrees
-above normal. Low pressure off the coast will move inland, leading
-to cooler and breezier conditions starting Sunday into the first
-half of next week. This system has a low chance to bring light
-rain showers to areas from the mountains to the coast on Monday
-and Tuesday. Fair and warmer weather is expected by the middle and
-end of next week.
+High temperatures will warm to above average for today and
+Saturday, cool to below average for Sunday through Tuesday, then
+warm to above average again for Wednesday and Thursday of next
+week. Night and morning coastal low clouds will spread into
+portions of the valleys early today and early Sunday, then farther
+into the valleys for Sunday through early next week. Southwest to
+west winds for the mountains and deserts will be strongest on
+Sunday afternoon and evening with gusts to 35 to 45 mph with
+isolated gusts to 60 mph. There is also a slight chance for mostly
+light showers at times for late Sunday night through Tuesday
+afternoon from the coast to the mountains.
 
 &&
 
@@ -372,87 +373,84 @@ end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Evening Update...
+.SHORT TERM (Today through Sunday)...
+Weak high pressure aloft will bring several degrees of warming
+today with high temperatures as much as 5 to 10 degrees warmer for
+the valleys and lower coastal slopes of the mountains. High
+temperatures for Saturday will remain 5 to 10 degrees above
+average with high temperatures ranging from around 70 near the
+coast to the 80s for the Inland Empire with the lower deserts in
+the mid to upper 90s. Night and morning coastal low clouds and
+fog will spread into portions of the inland valleys early this
+morning, then only into portions of the western valleys for
+tonight into Saturday morning as the marine layer decreases in
+depth.
 
-Satellite imagery reveals a healthy deck of low clouds just
-offshore. The afternoon sounding indicates that the weak low
-pressure system passing to our south has allowed the marine layer
-to deepen a bit, as expected. Also, winds gusting 25-40 mph along
-desert slopes and into deserts currently will slowly subside
-through tonight. The forecast remains largely on track with a
-weak transient high pressure expected to bring seasonably warm
-weather this weekend. Also, little has changed in terms of next
-week`s closed low pressure system.
+A low pressure system moving southward off the California coast on
+Sunday will spread cooling inland with high temperatures as much
+as 8 to 12 degrees cooler for the inland valleys and lower
+elevations of the mountains with high temperatures on Sunday
+ranging from the mid to upper 60s near the coast to the 70s for
+the Inland Empire with the lower deserts in the upper 80s to mid
+90s. Southwest to west winds for the mountains and deserts for
+Sunday afternoon and evening will gust to 35 to 45 mph with
+isolated gusts to 60 mph.
 
-.Previous discussion issued at 2 PM 4/30...
+&&
 
-A 568 dm area of low pressure is currently moving over the
-northern Baja California coast. This is leading to scattered high
-level clouds across the southern portions of our forecast area.
-Elevated winds out of the west can also be expected later this
-afternoon and evening across the mountain slopes into the deserts
-with winds gusting near 25-40 MPH. This system will continue to
-push eastward throughout the day as a weak area of high pressure
-takes its place. This will lead to warmer weather for your Friday
-with high temperatures warming another 5 degrees over all with
-similar temperatures expected on Saturday. The marine layer will
-continue to be fairly deep with low clouds expected each morning
-for parts of the coastal basin.
+.LONG TERM (Sunday night through Thursday)...
+A low pressure system will move slowly inland through central and
+southern California on Monday and Tuesday. High temperatures will
+continue to cool on Monday, as much as another 8 to 12 degrees
+cooler for the mountains and deserts, with not much change on
+Tuesday. High temperatures for Monday and Tuesday will be around
+10 degrees below average for inland areas to as much as 12 to 18
+degrees below average for the mountains. High temperatures on
+Monday and Tuesday will be mostly in the mid 60s to around 70 for
+the coast and valleys with the lower deserts in the mid 70s to
+lower 80s. There is also a slight chance of mostly light showers
+at times for Sunday night through Tuesday afternoon.
 
-Models are in good agreement in a closed low descending from the
-north over the weekend. This system looks to move somewhere not
-far off the SoCal coast by Sunday, pushing inland Monday and
-Tuesday. As the system approaches the region on Sunday,
-temperatures from Saturday to Sunday will lower around 5 to 10
-degrees across all areas. The weather system will also increase
-winds across the region, with widespread westerly wind gusts
-25-45 MPH across the mountains and deserts each afternoon and
-evening. As the system moves over SoCal, there will be the chance
-for light rain to occur from the coast to the mountains. The
-system`s moisture profile continues to look limited, so chances
-for precipitation is near 15-25% for these areas. There may be
-drizzle/light showers by Monday morning, but the best chance for
-rain across the region will be on Tuesday as the core of the
-system passes by. Accumulations look light to none, highest across
-the coastal slopes of the mountains.
-
-Models start to struggle a bit by the middle and end of next week
-regarding the weather system mentioned above. Some want to delay
-the system into Wednesday, others do not. Regardless, after the
-weather system passes, a weak ridge will move in its place,
-bringing warmer and drier weather for the end of next week with
-less wind.
-
+High pressure over California will bring much warmer weather for
+Wednesday and Thursday with Thursday high temperatures 5 to 10
+degrees above average for inland areas, similar to those of today
+and Saturday. High temperatures for Thursday of next week will
+range from around 70 near the coast to the 80s for the Inland
+Empire with the mid to upper 90s for the lower deserts.
 
 &&
 
 .AVIATION...
-010400Z....Coast/Valleys...Areas of BKN-SCT low clouds with bases
-1500-2500 ft MSL have developed along the immediate coast. Low
-clouds will become more widespread, filling in much of the coastal
-basin 10-12Z. There is a 40% chance of cigs below 1000 ft MSL
-developing at KONT 12-15Z Fri. Low clouds will clear to the coast 16-
-18Z, with the potential for BKN low clouds to linger along the
-immediate coast through 20Z. Low clouds will become more widespread
-after 03Z Sat.
+010915Z....Coast/Valleys...Areas of low clouds with bases 1500-2500
+ft MSL have reached inland areas up to mountain foothills,
+continuing to expand through the coastal basin (including much of
+the Inland Empire). Maximum cloud coverage 12-15z before scattering
+out to coastal areas by 18z and mostly scattering out at the coast
+by 20z (areas of SCT-BKN clouds could linger in parts through the
+afternoon). Low clouds with lower bases, 1000-2000 ft MSL, redevelop
+after 02z, slowly filling into SD County and Orange County inland
+valleys through 09z Sat before starting to reach into western parts
+of the Inland Empire, lowering vis 2-6SM. Vis also reduced where
+clouds meet terrain.
 
 .Mountains/Deserts...Areas of elevated westerly winds 20-30 kts,
-with gusts to 40 kts through mountain passes and into adjacent
-deserts through 10Z Fri. Areas of up/downdrafts and isolated LLWS in
-lee of mountains. Otherwise, VFR conditions will prevail through
-Fri.
+with gusts to 35 kts through mountain passes and into adjacent
+deserts Friday evening, weakening after 07z Sat. Areas of
+up/downdrafts and isolated LLWS in lee of mountains. Otherwise, VFR
+conditions will prevail through Fri.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+Moderate onshore flow this afternoon and evening with gusts
+approaching 20 kts near San Clemente Island. No hazardous marine
+conditions are expected through Tuesday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -464,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR/KW
-AVIATION/MARINE...CO
+PUBLIC...17
+AVIATION/MARINE...Westerink
 
 
 </pre>
