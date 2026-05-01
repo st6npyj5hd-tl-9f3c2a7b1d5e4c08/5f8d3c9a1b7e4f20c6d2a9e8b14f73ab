@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T03:35:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T08:13:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-419
-FXUS66 KSGX 302326
+302
+FXUS66 KSGX 010446
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-426 PM PDT Thu Apr 30 2026
+946 PM PDT Thu Apr 30 2026
 
 .SYNOPSIS...
 Low pressure to the south will contribute to high level clouds
@@ -372,9 +372,21 @@ end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation and Marine Discussion...
+.Evening Update...
 
-A 568 mb area of low pressure is currently moving over the
+Satellite imagery reveals a healthy deck of low clouds just
+offshore. The afternoon sounding indicates that the weak low
+pressure system passing to our south has allowed the marine layer
+to deepen a bit, as expected. Also, winds gusting 25-40 mph along
+desert slopes and into deserts currently will slowly subside
+through tonight. The forecast remains largely on track with a
+weak transient high pressure expected to bring seasonably warm
+weather this weekend. Also, little has changed in terms of next
+week`s closed low pressure system.
+
+.Previous discussion issued at 2 PM 4/30...
+
+A 568 dm area of low pressure is currently moving over the
 northern Baja California coast. This is leading to scattered high
 level clouds across the southern portions of our forecast area.
 Elevated winds out of the west can also be expected later this
@@ -411,21 +423,24 @@ weather system passes, a weak ridge will move in its place,
 bringing warmer and drier weather for the end of next week with
 less wind.
 
+
 &&
 
 .AVIATION...
-302330Z....Coast/Valleys...BKN-SCT low clouds with bases 1500-2500
-ft MSL have developed along the immediate coast, including KSAN and
-KCRQ. Low clouds will become more widespread, spreading up the
-coast towards KSNA by 06Z and filling in much of the coastal basin
-by 10Z. Low clouds will clear to the coast 16-18Z, with the
-potential for BKN low clouds to linger along the immediate coast
-through 21Z.
+010400Z....Coast/Valleys...Areas of BKN-SCT low clouds with bases
+1500-2500 ft MSL have developed along the immediate coast. Low
+clouds will become more widespread, filling in much of the coastal
+basin 10-12Z. There is a 40% chance of cigs below 1000 ft MSL
+developing at KONT 12-15Z Fri. Low clouds will clear to the coast 16-
+18Z, with the potential for BKN low clouds to linger along the
+immediate coast through 20Z. Low clouds will become more widespread
+after 03Z Sat.
 
 .Mountains/Deserts...Areas of elevated westerly winds 20-30 kts,
 with gusts to 40 kts through mountain passes and into adjacent
 deserts through 10Z Fri. Areas of up/downdrafts and isolated LLWS in
-lee of mountains.
+lee of mountains. Otherwise, VFR conditions will prevail through
+Fri.
 
 &&
 
@@ -449,7 +464,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...APR/KW
 AVIATION/MARINE...CO
 
 
