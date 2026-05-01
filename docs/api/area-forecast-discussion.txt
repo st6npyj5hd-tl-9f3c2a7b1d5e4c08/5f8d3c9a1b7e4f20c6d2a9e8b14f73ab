@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T13:22:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T19:14:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,29 +343,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-486
-FXUS66 KSGX 010958
+133
+FXUS66 KSGX 011852
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-258 AM PDT Fri May 1 2026
+1152 AM PDT Fri May 1 2026
 
 .SYNOPSIS...
-High temperatures will warm to above average for today and
-Saturday, cool to below average for Sunday through Tuesday, then
-warm to above average again for Wednesday and Thursday of next
-week. Night and morning coastal low clouds will spread into
-portions of the valleys early today and early Sunday, then farther
-into the valleys for Sunday through early next week. Southwest to
-west winds for the mountains and deserts will be strongest on
-Sunday afternoon and evening with gusts to 35 to 45 mph with
-isolated gusts to 60 mph. There is also a slight chance for mostly
-light showers at times for late Sunday night through Tuesday
-afternoon from the coast to the mountains.
+Weak high pressure over the region will bring warmer weather
+with highs up to 10 degrees above normal. The marine layer will
+continue to bring low clouds each night and morning across parts
+of the coastal basin for the foreseeable future. An area of low
+pressure will move near the area Sunday through Tuesday. This will
+bring cooler and breezier weather by Sunday, with the chance of
+light rain showers by Monday and Tuesday. Drier weather with a
+warming trend is expected for the latter half of next week.
 
 &&
 
@@ -373,50 +372,41 @@ afternoon from the coast to the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-Weak high pressure aloft will bring several degrees of warming
-today with high temperatures as much as 5 to 10 degrees warmer for
-the valleys and lower coastal slopes of the mountains. High
-temperatures for Saturday will remain 5 to 10 degrees above
-average with high temperatures ranging from around 70 near the
-coast to the 80s for the Inland Empire with the lower deserts in
-the mid to upper 90s. Night and morning coastal low clouds and
-fog will spread into portions of the inland valleys early this
-morning, then only into portions of the western valleys for
-tonight into Saturday morning as the marine layer decreases in
-depth.
+Low clouds will continue to clear most areas, though some will
+linger near the beaches through the afternoon as a deep marine
+layer is in place. High temperatures will be warmer than yesterday
+as the area of low pressure impacting the region has moved to the
+east and a weak area of high pressure has made its way over our
+area. Highs will reach into the 70s/80s this afternoon for inland
+valleys and the high desert. Temperatures will not change too much
+into tomorrow as the high slowly slides eastward.
 
-A low pressure system moving southward off the California coast on
-Sunday will spread cooling inland with high temperatures as much
-as 8 to 12 degrees cooler for the inland valleys and lower
-elevations of the mountains with high temperatures on Sunday
-ranging from the mid to upper 60s near the coast to the 70s for
-the Inland Empire with the lower deserts in the upper 80s to mid
-90s. Southwest to west winds for the mountains and deserts for
-Sunday afternoon and evening will gust to 35 to 45 mph with
-isolated gusts to 60 mph.
+A closed low will move near California by Sunday. This will bring
+cooling to inland areas up to 10 degrees along with windier
+conditions across the mountains and deserts. Confidence is
+moderate to high in seeing wind gusts 35 mph or more Sunday
+afternoon and evening across the desert slopes into the deserts.
+As the low draws closer, the marine layer will continue to deepen.
+This may lead to some drizzle / light showers across western San
+Diego County. Though PWAT values increase slightly, the system
+does not look to have much moisture. The best chance of light
+rainfall will be Monday evening into Tuesday morning for places
+along and west of the mountains. Areas of San Diego County have
+the best chance to see rainfall, especially along the coastal
+slopes. Whatever (if any) falls will be light. The coolest
+temperatures of the week will occur as this system passes through
+the region on Monday and Tuesday with highs 5 to 15 degrees below
+normal. Big Bear has around a 25-40% chance of reaching 50
+degrees, Julian a 60-70% each day. Highs in the 60s will prevail
+for areas west of the mountains with 70s to near 80 degrees across
+the lower deserts.
 
-&&
-
-.LONG TERM (Sunday night through Thursday)...
-A low pressure system will move slowly inland through central and
-southern California on Monday and Tuesday. High temperatures will
-continue to cool on Monday, as much as another 8 to 12 degrees
-cooler for the mountains and deserts, with not much change on
-Tuesday. High temperatures for Monday and Tuesday will be around
-10 degrees below average for inland areas to as much as 12 to 18
-degrees below average for the mountains. High temperatures on
-Monday and Tuesday will be mostly in the mid 60s to around 70 for
-the coast and valleys with the lower deserts in the mid 70s to
-lower 80s. There is also a slight chance of mostly light showers
-at times for Sunday night through Tuesday afternoon.
-
-High pressure over California will bring much warmer weather for
-Wednesday and Thursday with Thursday high temperatures 5 to 10
-degrees above average for inland areas, similar to those of today
-and Saturday. High temperatures for Thursday of next week will
-range from around 70 near the coast to the 80s for the Inland
-Empire with the mid to upper 90s for the lower deserts.
+Ensemble models are in fair agreement of this low moving out of
+the region by Wednesday, where a ridge will take its place. This
+will bring drier and warmer weather to the region. Inland valleys
+are expected to warm about 7-12 degrees from Tuesday to Wednesday.
+This may occur again by next Thursday as the area of high pressure
+expands later into the week.
 
 &&
 
@@ -452,6 +442,7 @@ conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -462,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Westerink
+PUBLIC...APR
+AVIATION/MARINE...Munyan
 
 
 </pre>
