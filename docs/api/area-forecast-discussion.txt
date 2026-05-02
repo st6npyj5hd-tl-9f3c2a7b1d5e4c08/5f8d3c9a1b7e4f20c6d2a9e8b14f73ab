@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T07:47:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T13:16:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,30 +339,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-548
-FXUS66 KSGX 020426
+465
+FXUS66 KSGX 020856
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-926 PM PDT Fri May 1 2026
+156 AM PDT Sat May 2 2026
 
 .SYNOPSIS...
 Weak high pressure over the region will bring warmer weather with
-highs up to 10 degrees above normal. The marine layer will continue
-to bring low clouds each night and morning across parts of the
-coastal basin for the foreseeable future. An area of low pressure
-will move near the area Sunday through Tuesday. This will bring
-cooler and breezier weather by Sunday, with the chance of light rain
-showers by Monday and Tuesday. Drier weather with a warming trend is
-expected for the latter half of next week.
+high temperatures up to 10 degrees above normal in the inland
+areas. The marine layer will continue to bring low clouds to the
+coastal areas and inland valleys each night and morning for the
+foreseeable future. A low pressure system will move inland through
+central and southern California late Sunday through Tuesday. This
+will bring cooler and breezier weather by Sunday, with chances of
+light rain showers for Monday and Tuesday. Drier weather with a
+warming trend is expected for the latter half of next week.
 
 &&
 
@@ -370,65 +367,55 @@ expected for the latter half of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Satellite imagery at 9 PM was showing areas of low clouds along the
-coast and reaching into portions of the western valleys. Warm
-conditions expected Saturday with highs 5 to 10 degrees above
-average for inland locations. Forecast is still on track for early
-next week with cooler conditions, increased winds, and rain chances.
-Highest chances of rain are Monday night into Tuesday morning. NBM
-chances for 48 hour rainfall totals from Monday morning through
-Wednesday morning exceeding 0.10" are 40 to 60 percent in the
-mountains and 20 to 40 percent for the coast and valleys. Chances of
-the coastal slopes exceeding 0.25" over that same 48 hour period is
-20 to 30 percent. Dry conditions will return for most of Wednesday.
+This morning, the marine layer is about 2000 ft deep and satellite
+imagery shows low clouds covering most of the coastal areas and
+extending 10-15 miles inland. We will remain under the influence
+of a transient upper level ridge of high pressure through today,
+bringing us mostly sunny skies and inland temperatures as much as
+12 degrees above normal. The marine layer will keep temperatures
+near normal in the coastal areas where the sun will come out in
+the late morning after the low clouds clear.
 
-From previous discussion issued at 2 PM Saturday May 1, 2026...
+A low pressure system currently over WA/OR will move south off the
+coast of central CA through Sunday before turning east and moving
+inland over central and southern CA through Tuesday. This system
+will bring increasing clouds, lower temperatures, stronger
+onshore flow and chances for light showers. Monday and Tuesday
+will be the coolest days with similar high temperatures...near
+normal at the coast, about 5-12 degrees below normal in the
+inland valleys and deserts, and 10-17 degrees below normal in the
+mountains. Onshore flow will begin to strengthen Sunday afternoon,
+peak Monday afternoon/evening then steadily weaken through
+Tuesday. Southwest to west winds will be strongest in the
+mountains and deserts where there could be wind gusts of 35 to 45
+mph and isolated gusts to 60 mph. Light showers could move in as
+early as Monday afternoon/evening. The best chances for measurable
+rainfall will likely be Monday night into Tuesday morning. The
+rainfall distribution will favor San Diego County but totals are
+unlikely to exceed 0.15 inch.
 
-Low clouds will continue to clear most areas, though some will
-linger near the beaches through the afternoon as a deep marine layer
-is in place. High temperatures will be warmer than yesterday as the
-area of low pressure impacting the region has moved to the east and
-a weak area of high pressure has made its way over our area. Highs
-will reach into the 70s/80s this afternoon for inland valleys and
-the high desert. Temperatures will not change too much into tomorrow
-as the high slowly slides eastward.
-
-A closed low will move near California by Sunday. This will bring
-cooling to inland areas up to 10 degrees along with windier
-conditions across the mountains and deserts. Confidence is moderate
-to high in seeing wind gusts 35 mph or more Sunday afternoon and
-evening across the desert slopes into the deserts. As the low draws
-closer, PWAT values increase slightly but the system does not look
-to have much moisture. Areas of San Diego County have the best
-chance to see rainfall, especially along the coastal slopes.
-Whatever falls will be light. The coolest temperatures of the week
-will occur as this system passes through the region on Monday and
-Tuesday with highs 5 to 15 degrees below normal. Big Bear has around
-a 25-40% chance of reaching 50 degrees, Julian a 60-70% each day.
-Highs in the 60s will prevail for areas west of the mountains with
-70s to near 80 degrees across the lower deserts.
-
-Ensemble models are in fair agreement of this low moving out of the
-region by Wednesday, where a ridge will take its place. This will
-bring drier and warmer weather to the region. Inland valleys are
-expected to warm about 7-12 degrees from Tuesday to Wednesday.
-This may occur again by next Thursday as the area of high pressure
-expands later into the week.
+A warming trend begins on Wednesday and continues into next
+weekend as the low pressure system moves east into the Rockies and
+a ridge of high pressure builds over the west coast. Friday will
+likely be the warmest day with daytime high temperatures reaching
+the 90s in the inland valleys and high deserts, and the triple
+digits in the low deserts. The marine layer will become shallower
+and low clouds will be restricted to the coastal areas during the
+nights and mornings.
 
 &&
 
 .AVIATION...
-020430Z....Coast/Valleys...Low clouds based 1400-2000 ft MSL have
-filled into coastal San Diego County and parts of coastal Orange
-County. Clouds will continue their march into San Diego/Orange
-Counties, reaching up to 20 miles inland by 09-11z. There is about a
-70-80% chance for IFR cigs to reach into the southern and western
-Inland Empire including KONT after 10z (40-50% chance at KSBD).
-Minor vis reductions (4-6SM) in the Inland Empire where clouds
-develop. Clouds clear to the coastline by 18-19z Sat, but may linger
-just offshore through the afternoon. Low clouds return to land areas
-in similar fashion Saturday evening with similar to slightly higher
-bases.
+020900Z....Coast/Valleys...Low clouds based 1400-1800 ft MSL
+continue to expand inland, reaching into the Inland Empire 10-13z
+where widespread VIS reductions 2-6SM expected. 70% chance for
+periods of IFR vis at KONT and 60% at KSBD. Vis improves (and bases
+lift) 14-16z and clouds scatter out inland 15-17z. Scatter out at
+the coast 17-19z, though some patchy low clouds to linger into the
+afternoon. Low clouds redevelop Saturday evening (02-04z Sun) with
+similar bases initially, rising above 2000 ft MSL in areas
+progressively throughout the night. Similarly slow expansion of
+clouds inland.
 
 .Mountains/Deserts...VFR conditions expected through the period with
 SCT-BKN high clouds AOA 20 kft after 18z Sat.
@@ -444,7 +431,6 @@ No hazardous marine conditions are expected through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -455,8 +441,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR/CO
-AVIATION/MARINE...KW
+PUBLIC...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
