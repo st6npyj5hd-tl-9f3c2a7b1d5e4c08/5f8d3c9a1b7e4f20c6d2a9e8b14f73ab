@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T02:51:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T07:47:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,23 +346,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-567
-FXUS66 KSGX 012351
+548
+FXUS66 KSGX 020426
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-451 PM PDT Fri May 1 2026
+926 PM PDT Fri May 1 2026
 
 .SYNOPSIS...
-Weak high pressure over the region will bring warmer weather
-with highs up to 10 degrees above normal. The marine layer will
-continue to bring low clouds each night and morning across parts
-of the coastal basin for the foreseeable future. An area of low
-pressure will move near the area Sunday through Tuesday. This will
-bring cooler and breezier weather by Sunday, with the chance of
-light rain showers by Monday and Tuesday. Drier weather with a
-warming trend is expected for the latter half of next week.
+Weak high pressure over the region will bring warmer weather with
+highs up to 10 degrees above normal. The marine layer will continue
+to bring low clouds each night and morning across parts of the
+coastal basin for the foreseeable future. An area of low pressure
+will move near the area Sunday through Tuesday. This will bring
+cooler and breezier weather by Sunday, with the chance of light rain
+showers by Monday and Tuesday. Drier weather with a warming trend is
+expected for the latter half of next week.
 
 &&
 
@@ -370,61 +370,68 @@ warming trend is expected for the latter half of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Satellite imagery at 9 PM was showing areas of low clouds along the
+coast and reaching into portions of the western valleys. Warm
+conditions expected Saturday with highs 5 to 10 degrees above
+average for inland locations. Forecast is still on track for early
+next week with cooler conditions, increased winds, and rain chances.
+Highest chances of rain are Monday night into Tuesday morning. NBM
+chances for 48 hour rainfall totals from Monday morning through
+Wednesday morning exceeding 0.10" are 40 to 60 percent in the
+mountains and 20 to 40 percent for the coast and valleys. Chances of
+the coastal slopes exceeding 0.25" over that same 48 hour period is
+20 to 30 percent. Dry conditions will return for most of Wednesday.
+
+From previous discussion issued at 2 PM Saturday May 1, 2026...
+
 Low clouds will continue to clear most areas, though some will
-linger near the beaches through the afternoon as a deep marine
-layer is in place. High temperatures will be warmer than yesterday
-as the area of low pressure impacting the region has moved to the
-east and a weak area of high pressure has made its way over our
-area. Highs will reach into the 70s/80s this afternoon for inland
-valleys and the high desert. Temperatures will not change too much
-into tomorrow as the high slowly slides eastward.
+linger near the beaches through the afternoon as a deep marine layer
+is in place. High temperatures will be warmer than yesterday as the
+area of low pressure impacting the region has moved to the east and
+a weak area of high pressure has made its way over our area. Highs
+will reach into the 70s/80s this afternoon for inland valleys and
+the high desert. Temperatures will not change too much into tomorrow
+as the high slowly slides eastward.
 
 A closed low will move near California by Sunday. This will bring
 cooling to inland areas up to 10 degrees along with windier
-conditions across the mountains and deserts. Confidence is
-moderate to high in seeing wind gusts 35 mph or more Sunday
-afternoon and evening across the desert slopes into the deserts.
-As the low draws closer, the marine layer will continue to deepen.
-This may lead to some drizzle / light showers across western San
-Diego County. Though PWAT values increase slightly, the system
-does not look to have much moisture. The best chance of light
-rainfall will be Monday evening into Tuesday morning for places
-along and west of the mountains. Areas of San Diego County have
-the best chance to see rainfall, especially along the coastal
-slopes. Whatever (if any) falls will be light. The coolest
-temperatures of the week will occur as this system passes through
-the region on Monday and Tuesday with highs 5 to 15 degrees below
-normal. Big Bear has around a 25-40% chance of reaching 50
-degrees, Julian a 60-70% each day. Highs in the 60s will prevail
-for areas west of the mountains with 70s to near 80 degrees across
-the lower deserts.
+conditions across the mountains and deserts. Confidence is moderate
+to high in seeing wind gusts 35 mph or more Sunday afternoon and
+evening across the desert slopes into the deserts. As the low draws
+closer, PWAT values increase slightly but the system does not look
+to have much moisture. Areas of San Diego County have the best
+chance to see rainfall, especially along the coastal slopes.
+Whatever falls will be light. The coolest temperatures of the week
+will occur as this system passes through the region on Monday and
+Tuesday with highs 5 to 15 degrees below normal. Big Bear has around
+a 25-40% chance of reaching 50 degrees, Julian a 60-70% each day.
+Highs in the 60s will prevail for areas west of the mountains with
+70s to near 80 degrees across the lower deserts.
 
-Ensemble models are in fair agreement of this low moving out of
-the region by Wednesday, where a ridge will take its place. This
-will bring drier and warmer weather to the region. Inland valleys
-are expected to warm about 7-12 degrees from Tuesday to Wednesday.
+Ensemble models are in fair agreement of this low moving out of the
+region by Wednesday, where a ridge will take its place. This will
+bring drier and warmer weather to the region. Inland valleys are
+expected to warm about 7-12 degrees from Tuesday to Wednesday.
 This may occur again by next Thursday as the area of high pressure
 expands later into the week.
 
 &&
 
 .AVIATION...
-020000Z....Coast/Valleys...SKC expected over land areas through late
-afternoon, though patches of low clouds based around 2000 ft MSL may
-intermittently reach KSAN. Starting around 01-03z Sat, low clouds
-based 1200-2000 ft MSL will push into coastal San Diego County.
-Thereafter, clouds will slowly fill into San Diego/Orange County up
-to 20 miles inland. There is about a 60% chance for IFR cigs to
-reach into the southern and western Inland Empire including KONT (30-
-40% chance at KSBD). Minor vis reductions (4-6SM) in the Inland
-Empire where clouds develop. Clouds clear to the coastline by 18-19z
-Sat, but may linger just offshore through the afternoon.
+020430Z....Coast/Valleys...Low clouds based 1400-2000 ft MSL have
+filled into coastal San Diego County and parts of coastal Orange
+County. Clouds will continue their march into San Diego/Orange
+Counties, reaching up to 20 miles inland by 09-11z. There is about a
+70-80% chance for IFR cigs to reach into the southern and western
+Inland Empire including KONT after 10z (40-50% chance at KSBD).
+Minor vis reductions (4-6SM) in the Inland Empire where clouds
+develop. Clouds clear to the coastline by 18-19z Sat, but may linger
+just offshore through the afternoon. Low clouds return to land areas
+in similar fashion Saturday evening with similar to slightly higher
+bases.
 
-.Mountains/Deserts...Areas of elevated westerly winds 20-30 kts,
-with gusts to 35 kts through mountain passes and into adjacent
-deserts this evening, weakening after 07z Saturday. Areas of
-up/downdrafts and isolated LLWS in lee of mountains. Otherwise, VFR
-conditions will prevail through the period.
+.Mountains/Deserts...VFR conditions expected through the period with
+SCT-BKN high clouds AOA 20 kft after 18z Sat.
 
 &&
 
@@ -448,7 +455,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...APR/CO
 AVIATION/MARINE...KW
 
 
