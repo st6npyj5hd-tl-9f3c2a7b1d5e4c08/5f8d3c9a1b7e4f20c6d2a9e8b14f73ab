@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T13:16:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T18:48:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-465
-FXUS66 KSGX 020856
+859
+FXUS66 KSGX 021659
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-156 AM PDT Sat May 2 2026
+959 AM PDT Sat May 2 2026
 
 .SYNOPSIS...
 Weak high pressure over the region will bring warmer weather with
@@ -366,6 +366,8 @@ warming trend is expected for the latter half of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation/Marine Discussion...
 
 This morning, the marine layer is about 2000 ft deep and satellite
 imagery shows low clouds covering most of the coastal areas and
@@ -406,16 +408,13 @@ nights and mornings.
 &&
 
 .AVIATION...
-020900Z....Coast/Valleys...Low clouds based 1400-1800 ft MSL
-continue to expand inland, reaching into the Inland Empire 10-13z
-where widespread VIS reductions 2-6SM expected. 70% chance for
-periods of IFR vis at KONT and 60% at KSBD. Vis improves (and bases
-lift) 14-16z and clouds scatter out inland 15-17z. Scatter out at
-the coast 17-19z, though some patchy low clouds to linger into the
-afternoon. Low clouds redevelop Saturday evening (02-04z Sun) with
-similar bases initially, rising above 2000 ft MSL in areas
-progressively throughout the night. Similarly slow expansion of
-clouds inland.
+021600Z....Coast/Valleys...Low clouds based 1400-1800 ft MSL with
+local VIS reductions 2-6SM. Vis improves (and bases lift) 15-16z and
+clouds scatter out inland 15-17z. Scatter out at the coast 17-19z,
+though some patchy low clouds to linger into the afternoon. Low
+clouds redevelop Saturday evening (02-04z Sun) with similar bases
+initially, rising above 2000 ft MSL in areas progressively
+throughout the night.
 
 .Mountains/Deserts...VFR conditions expected through the period with
 SCT-BKN high clouds AOA 20 kft after 18z Sat.
@@ -431,6 +430,7 @@ No hazardous marine conditions are expected through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -442,7 +442,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...Small
 
 
 </pre>
