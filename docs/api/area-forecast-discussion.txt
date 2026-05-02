@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-01T19:14:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T02:51:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-133
-FXUS66 KSGX 011852
+567
+FXUS66 KSGX 012351
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1152 AM PDT Fri May 1 2026
+451 PM PDT Fri May 1 2026
 
 .SYNOPSIS...
 Weak high pressure over the region will bring warmer weather
@@ -411,30 +409,27 @@ expands later into the week.
 &&
 
 .AVIATION...
-010915Z....Coast/Valleys...Areas of low clouds with bases 1500-2500
-ft MSL have reached inland areas up to mountain foothills,
-continuing to expand through the coastal basin (including much of
-the Inland Empire). Maximum cloud coverage 12-15z before scattering
-out to coastal areas by 18z and mostly scattering out at the coast
-by 20z (areas of SCT-BKN clouds could linger in parts through the
-afternoon). Low clouds with lower bases, 1000-2000 ft MSL, redevelop
-after 02z, slowly filling into SD County and Orange County inland
-valleys through 09z Sat before starting to reach into western parts
-of the Inland Empire, lowering vis 2-6SM. Vis also reduced where
-clouds meet terrain.
+020000Z....Coast/Valleys...SKC expected over land areas through late
+afternoon, though patches of low clouds based around 2000 ft MSL may
+intermittently reach KSAN. Starting around 01-03z Sat, low clouds
+based 1200-2000 ft MSL will push into coastal San Diego County.
+Thereafter, clouds will slowly fill into San Diego/Orange County up
+to 20 miles inland. There is about a 60% chance for IFR cigs to
+reach into the southern and western Inland Empire including KONT (30-
+40% chance at KSBD). Minor vis reductions (4-6SM) in the Inland
+Empire where clouds develop. Clouds clear to the coastline by 18-19z
+Sat, but may linger just offshore through the afternoon.
 
 .Mountains/Deserts...Areas of elevated westerly winds 20-30 kts,
 with gusts to 35 kts through mountain passes and into adjacent
-deserts Friday evening, weakening after 07z Sat. Areas of
+deserts this evening, weakening after 07z Saturday. Areas of
 up/downdrafts and isolated LLWS in lee of mountains. Otherwise, VFR
-conditions will prevail through Fri.
+conditions will prevail through the period.
 
 &&
 
 .MARINE...
-Moderate onshore flow this afternoon and evening with gusts
-approaching 20 kts near San Clemente Island. No hazardous marine
-conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
@@ -454,7 +449,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...KW
 
 
 </pre>
