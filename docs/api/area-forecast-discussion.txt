@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T13:15:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T19:02:29+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,22 +340,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-879
-FXUS66 KSGX 030939
+887
+FXUS66 KSGX 031838
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-239 AM PDT Sun May 3 2026
+1138 AM PDT Sun May 3 2026
 
 .SYNOPSIS...
-A cooling trend begins today as a low pressure system approaches
-from the northwest. A deepening marine layer could bring patchy
-drizzle to portions of the coastal areas and inland valleys this
-morning. The system will move inland through Tuesday bringing
-lower temperatures, breezy conditions and chances of light rain
-showers for Monday and Tuesday...mainly over and west of the
-mountains. Dry and warmer for Wednesday into next weekend.
+A low pressure system will approach the region, bringing cooler
+and breezier weather, along with a chance of light rainfall
+through Tuesday. A deepening marine layer could bring patchy
+drizzle to portions of the coastal areas and inland valleys again
+tonight into Monday morning. The best chance for light rain
+showers will be along and west of the mountains Monday evening
+into Tuesday morning. Dry and warmer weather is expected by
+Wednesday into next weekend.
 
 &&
 
@@ -363,74 +364,84 @@ mountains. Dry and warmer for Wednesday into next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This morning, the marine layer is about 2000 ft deep with low
-clouds covering most of the coastal areas and portions of the
-inland valleys. The deepening marine layer could bring patchy
-drizzle this morning west of the mountains. Widespread high
-clouds are moving east across the region ahead of a low pressure
-system approaching from the northwest.
+.SHORT TERM (Through Tuesday)...
 
-This low pressure system will move inland through Tuesday, with
-the closed upper low moving over central and southern CA. The
-system will bring stronger onshore flow, lower temperatures and
-periods of mostly light showers over and west of the mountains.
-Southwest to west winds will steadily strengthen through today,
-peaking this afternoon/evening then weakening a little on Monday
-morning before strengthening again Monday afternoon/evening. Winds
-will be strongest late Monday with gusts of 35 to 45 mph and
-isolated gusts to 60 mph in the mountain passes and adjacent
-desert areas. Winds will weaken on Tuesday. Monday and Tuesday
-will be the coolest days this week, with daytime high
-temperatures in the 60s west of the mtns and in the high deserts
-(2-12 degrees below normal), in the 40s-50s in the mountains
-(10-20 degrees below normal), and in the 70s to near 80 in the low
-deserts (up to 15 degrees below normal). High-resolution models
-indicate that the first wave of isolated to scattered light
-showers could move through the region tonight followed by a
-relative dry period Monday then a second wave of showers will move
-through Monday night/Tue morning. BY Tue afternoon, the showers
-will have moved east leaving behind mostly cloudy skies.
-Precipitation totals will favor San Diego County and the coastal
-mountain slopes while the deserts remain largely rain-shadowed.
-Totals will range from a trace in the coastal areas and valleys to
-about one quarter inch in the San Diego County mtns.
+A cutoff low continues to tumble closer to the California coast
+today, bringing a deep marine layer, cooler weather and increased
+winds across the mountains and deserts. Winds are currently near
+20-35 MPH across these regions and will increase this afternoon
+into the evening closer to 35-45 MPH. Winds look to continue to be
+gusty into the night with slightly higher winds by Monday
+afternoon and evening, where gusts will locally reach above 55 MPH
+in some mountain passes in the Riverside and San Diego Counties.
+High profile vehicles will see increased risk of incidents in
+windy conditions and blowing sand/dust.
 
-Dry and warmer weather will follow for Wed into next weekend with
-some day-to-day variations in the marine layer presence as a ridge
-of high pressure builds over the west coast. Daytime high
-temperatures could be 10-15 degrees above normal in the inland
-valleys, mtns and deserts.
+The marine layer is around 5,000 feet thick, covering much of the
+coastal basin and even reaching into the top of the Cajon Pass.
+Clouds will partially clear areas this afternoon, but other areas
+will remain under the clouds throughout the day as the low clouds
+resurges back inland by later this afternoon/evening. Just like
+this morning, areas near the coast may see some marine layer
+drizzle/light showers overnight into Monday monday morning as the
+marine layer remains quite saturated. The area of low pressure
+will move closer to the region by Monday into Tuesday, bringing an
+increased chance of light showers from the coast to the mountains.
+Hi-res models are in pretty fair agreement on the timing of the
+light showers to begin around Monday evening, becoming more
+widespread overnight into Tuesday morning. Areas of San Diego
+County have the best chance to see rainfall. The showers will be
+scattered in nature, with some areas seeing over a quarter of an
+inch and others minimal totals to none. The core of low pressure
+system moves to the east later on Tuesday, where residual showers
+may linger across the mountains into the afternoon with partial
+clearing closer to the coast.
+
+This system will also bring much cooler weather. Monday and
+Tuesday will be the coolest days of the upcoming week with
+highs only reaching the 40s to near 50 degrees in the mountains
+and highs in the 60s for areas west of the mountains into the
+high desert. Comfortable 70s will take hold across the Anza
+Borrego desert into the Palm Springs area.
+
+&&
+
+.LONG TERM (Wednesday into Next Weekend)...
+
+The area of low pressure exits the region by the middle of the
+week, where Wednesday becomes a transition day. Drier weather with
+temperatures near average can be expected. High pressure off the
+coast will grow and expand by Thursday into the end of the week.
+This will bring much warmer weather to the area with highs near 10
+degrees above normal away from the coast. Chances to reach 90
+degrees increase near 25-50% across the Inland Empire by Thursday;
+increasing by Friday. The low deserts will reach the 100 degree
+mark possibly by Thursday, definitely by Friday. 70s and 80s will
+dominate the coast and valley regions of Orange and San Diego
+Counties. Models continue to keep the ridge over the region for
+the foreseeable future.
 
 &&
 
 .AVIATION...
-030930Z....Coast/Valleys...Low clouds based 1400-2000 ft MSL are
-covering inland areas up to the foothills in SD/Orange Counties,
-filtering in gradually into the IE (Inland Empire). VIS reductions
-2-6SM in interior valleys (e.g. KRNM) and parts of the IE (0-4SM
-in the southern IE). Full low cloud coverage is anticipated
-through the IE by sunrise; over 50% chance for cigs reaching KSBD
-by 12z. Spotty -DZ possible in coastal areas, 12-16z. VIS
-improves gradually in the valleys after 14z as bases rise through
-the morning to 2000-3000 ft MSL by 15-17z. Scatter out 17-19z in
-the IE. Only partial scatter out for inland valleys and 60-80%
-chance cigs remain through the afternoon over Orange County and
-SD. County west of I-15. Cloud bases in the afternoon 2000-3000 ft
-MSL and continue to rise Sunday evening and night. Clouds fill
-back into interior valleys by 22z Sunday afternoon and fill the
-rest of the coastal basin by 06z Mon. Slight chance (15-25%) for
--RA/DZ throughout the coastal basin after 04z Sunday night.
+031755Z....Coast/Valleys...BKN-OVC low clouds based  2000-3000
+ft MSL with layers above to near 5000 ft MSL. Tops locally 6000 ft
+MSL. Could be some brief SCT-BKN at the coast mid afternoon before
+the low clouds solidify again.  -RA/-DZ developing by 04z
+Sunday night.
 
-.Mountains/Deserts...VFR conditions expected through the period with
-SCT-BKN high clouds AOA 20 kft. Winds strengthen along desert slopes
-and into deserts starting after 21z Sun. Widespread gusts 25-35 kts
-expected Sunday evening and overnight, locally reaching 45-50 kts
-along desert slopes and through mountain passes.
+.Mountains/Deserts...Coastal slopes obscured blo 6000 ft MSL in
+-RA/-DZ.  Desert slopes SCT-BKN high clouds AOA 20 kft. Winds
+strengthen along desert slopes and into deserts starting after 21z
+Sun. Widespread gusts 25-35 kts expected Sunday evening and
+overnight, locally reaching 45-50 kts along desert slopes and
+through mountain passes.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Thursday.
+
 
 &&
 
@@ -449,8 +460,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Westerink
+PUBLIC...APR
+AVIATION/MARINE...Small
 
 
 </pre>

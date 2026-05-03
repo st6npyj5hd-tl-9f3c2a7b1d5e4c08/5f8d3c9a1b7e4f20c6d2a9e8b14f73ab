@@ -2,7 +2,7 @@
 <dwml version="1.0" xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://graphical.weather.gov/xml/DWMLgen/schema/DWML.xsd">
   <head>
     <product concise-name="dwmlByDay" operational-mode="developmental" srsName="WGS 1984">
-      <creation-date refresh-frequency='PT1H'>2026-05-02T23:27:38-07:00</creation-date>
+      <creation-date refresh-frequency='PT1H'>2026-05-03T11:22:38-07:00</creation-date>
      <category>current observations and forecast</category>
     </product>
     <source>
@@ -22,7 +22,7 @@
 <moreWeatherInformation applicable-location="point1">https://forecast.weather.gov/MapClick.php?lat=32.8&amp;lon=-117.06</moreWeatherInformation>
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p12h-n13-1</layout-key>
-      <start-valid-time period-name="Today">2026-05-03T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="This Afternoon">2026-05-03T12:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tonight">2026-05-03T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Monday">2026-05-04T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Monday Night">2026-05-04T18:00:00-07:00</start-valid-time>
@@ -39,7 +39,7 @@
 
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time period-name="Today">2026-05-03T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="This Afternoon">2026-05-03T12:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Monday">2026-05-04T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tuesday">2026-05-05T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Wednesday">2026-05-06T06:00:00-07:00</start-valid-time>
@@ -63,32 +63,32 @@
 
     <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n7-1">
       <name>Daily Maximum Temperature</name>
-        <value>71</value>
+        <value>69</value>
         <value>68</value>
         <value>67</value>
-        <value>73</value>
-        <value>80</value>
+        <value>72</value>
+        <value>76</value>
+        <value>79</value>
         <value>81</value>
-        <value>82</value>
     </temperature>
 
     <temperature type="minimum" units="Fahrenheit" time-layout="k-p24h-n6-2">
       <name>Daily Minimum Temperature</name>
-        <value>56</value>
-        <value>54</value>
-        <value>52</value>
         <value>55</value>
-        <value>58</value>
+        <value>55</value>
+        <value>53</value>
+        <value>56</value>
+        <value>57</value>
         <value>59</value>
     </temperature>
 
     <probability-of-precipitation  type="12 hour" units="percent" time-layout="k-p12h-n13-1">
       <name>12 Hourly Probability of Precipitation</name>
         <value xsi:nil="true"></value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
-        <value>20</value>
+        <value xsi:nil="true"></value>
+        <value xsi:nil="true"></value>
+        <value>50</value>
+        <value>40</value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
@@ -101,52 +101,52 @@
 
     <weather time-layout="k-p12h-n13-1">
       <name>Weather Type, Coverage, Intensity</name>
-        <weather-conditions weather-summary="Patchy Drizzle then Partly Sunny"/>
-        <weather-conditions weather-summary="Slight Chance Showers"/>
-        <weather-conditions weather-summary="Slight Chance Showers"/>
-        <weather-conditions weather-summary="Slight Chance Showers"/>
-        <weather-conditions weather-summary="Slight Chance Showers then Partly Sunny"/>
-        <weather-conditions weather-summary="Mostly Cloudy"/>
-        <weather-conditions weather-summary="Sunny"/>
+        <weather-conditions weather-summary="Partly Sunny"/>
+        <weather-conditions weather-summary="Patchy Drizzle"/>
+        <weather-conditions weather-summary="Patchy Drizzle then Mostly Cloudy"/>
+        <weather-conditions weather-summary="Chance Showers"/>
+        <weather-conditions weather-summary="Chance Showers then Mostly Sunny"/>
+        <weather-conditions weather-summary="Partly Cloudy"/>
+        <weather-conditions weather-summary="Mostly Sunny"/>
         <weather-conditions weather-summary="Mostly Clear"/>
         <weather-conditions weather-summary="Sunny"/>
+        <weather-conditions weather-summary="Mostly Clear"/>
+        <weather-conditions weather-summary="Becoming Sunny"/>
         <weather-conditions weather-summary="Increasing Clouds"/>
-        <weather-conditions weather-summary="Decreasing Clouds"/>
-        <weather-conditions weather-summary="Partly Cloudy"/>
         <weather-conditions weather-summary="Mostly Sunny"/>
     </weather>
 
     <conditions-icon type="forecast-NWS" time-layout="k-p12h-n13-1">
-      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/DualImage.php?i=ra&amp;j=sct&amp;ip=10</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/nshra20.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/shra20.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/nshra20.png</icon-link>
-        <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=bkn&amp;ip=20</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/nbkn.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
+      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/newimages/medium/bkn.png</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/nra.png</icon-link>
+        <icon-link>https://forecast.weather.gov/DualImage.php?i=ra&amp;j=bkn&amp;ip=20</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/nshra50.png</icon-link>
+        <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=sct&amp;ip=40</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/nsct.png</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/sct.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nfew.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/nbkn.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/bkn.png</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/nfew.png</icon-link>
+        <icon-link>https://forecast.weather.gov/newimages/medium/sct.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nsct.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/sct.png</icon-link>
     </conditions-icon>
 
     <wordedForecast time-layout="k-p12h-n13-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
       <name>Text Forecast</name>
-        <text>Patchy drizzle before 11am.  Cloudy, then gradually becoming mostly sunny, with a high near 71. Light west wind increasing to 5 to 10 mph in the morning. </text>
-        <text>A slight chance of showers after 11pm.  Cloudy, with a low around 56. West wind around 5 mph.  Chance of precipitation is 20%.</text>
-        <text>A slight chance of showers.  Mostly cloudy, with a high near 68. West wind 5 to 10 mph, with gusts as high as 20 mph.  Chance of precipitation is 20%.</text>
-        <text>A slight chance of showers.  Mostly cloudy, with a low around 54. West wind 5 to 10 mph.  Chance of precipitation is 20%.</text>
-        <text>A slight chance of showers before 11am.  Mostly cloudy, with a high near 67. West wind 5 to 15 mph, with gusts as high as 20 mph.  Chance of precipitation is 20%.</text>
-        <text>Mostly cloudy, with a low around 52.</text>
-        <text>Sunny, with a high near 73.</text>
-        <text>Mostly clear, with a low around 55.</text>
-        <text>Sunny, with a high near 80.</text>
-        <text>Increasing clouds, with a low around 58.</text>
-        <text>Mostly cloudy, then gradually becoming sunny, with a high near 81.</text>
-        <text>Partly cloudy, with a low around 59.</text>
-        <text>Mostly sunny, with a high near 82.</text>
+        <text>Partly sunny, with a high near 69. West wind 5 to 10 mph. </text>
+        <text>Patchy drizzle after 11pm.  Mostly cloudy, with a low around 55. West wind around 5 mph. </text>
+        <text>Patchy drizzle before 11am.  Mostly cloudy, with a high near 68. West wind 5 to 10 mph, with gusts as high as 20 mph. </text>
+        <text>A chance of showers, mainly after 11pm.  Mostly cloudy, with a low around 55. West wind 5 to 10 mph.  Chance of precipitation is 50%. New precipitation amounts of less than a tenth of an inch possible. </text>
+        <text>A chance of showers before 11am.  Partly sunny, with a high near 67. West wind 5 to 10 mph, with gusts as high as 20 mph.  Chance of precipitation is 40%. New precipitation amounts of less than a tenth of an inch possible. </text>
+        <text>Partly cloudy, with a low around 53.</text>
+        <text>Mostly sunny, with a high near 72.</text>
+        <text>Mostly clear, with a low around 56.</text>
+        <text>Sunny, with a high near 76.</text>
+        <text>Mostly clear, with a low around 57.</text>
+        <text>Partly sunny, then gradually becoming sunny, with a high near 79.</text>
+        <text>Increasing clouds, with a low around 59.</text>
+        <text>Mostly sunny, with a high near 81.</text>
     </wordedForecast>
 
 </parameters>
@@ -158,4 +158,4 @@
       <area-description>DW5256 La Mesa, CA</area-description>
       <height datum="mean sea level" height-units="feet">646.75</height>
   </location>
-  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-05-03T06:00:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>58</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>53</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>84</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>311</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.86</value>      </pressure>  </parameters></data></dwml>
+  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-05-03T12:00:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>67</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>55</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>65</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>271</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.9</value>      </pressure>  </parameters></data></dwml>
