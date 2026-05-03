@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-02T18:48:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T03:26:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,24 +342,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-859
-FXUS66 KSGX 021659
+513
+FXUS66 KSGX 030023
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-959 AM PDT Sat May 2 2026
+523 PM PDT Sat May 2 2026
 
 .SYNOPSIS...
 Weak high pressure over the region will bring warmer weather with
 high temperatures up to 10 degrees above normal in the inland
-areas. The marine layer will continue to bring low clouds to the
-coastal areas and inland valleys each night and morning for the
-foreseeable future. A low pressure system will move inland through
-central and southern California late Sunday through Tuesday. This
-will bring cooler and breezier weather by Sunday, with chances of
-light rain showers for Monday and Tuesday. Drier weather with a
-warming trend is expected for the latter half of next week.
+areas this afternoon. An area of low pressure off the coast will
+move inland Monday through Tuesday. This will bring cooler and
+breezier weather by Sunday, with chances of light rain showers for
+Monday and Tuesday from the mountains to the coast. Drier weather
+with a warming trend is expected for the rest of the week.
 
 &&
 
@@ -367,62 +365,71 @@ warming trend is expected for the latter half of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation/Marine Discussion...
+.Updated Aviation and Marine Discussion...
 
-This morning, the marine layer is about 2000 ft deep and satellite
-imagery shows low clouds covering most of the coastal areas and
-extending 10-15 miles inland. We will remain under the influence
-of a transient upper level ridge of high pressure through today,
-bringing us mostly sunny skies and inland temperatures as much as
-12 degrees above normal. The marine layer will keep temperatures
-near normal in the coastal areas where the sun will come out in
-the late morning after the low clouds clear.
+Weak high pressure will hang on one more day today with warmer
+temperatures as clouds clear out toward the coast. A closed low is
+seen offshore. This will bring changes to our weather by Sunday
+through Tuesday. Cooling will begin to spread inland on Sunday as
+winds across the mountains and deserts increase from the west.
+High temperatures will cool around 5 to 10 degrees away from the
+coast. Peak winds for Sunday afternoon and night across the
+mountains and deserts will range from 25-40 MPH. Winds will max
+out on Monday afternoon and night, mainly increasing for areas of
+the mountains with peak gusts near 60 mph at times through passes.
+This will lead to increased risk for drivers of high profile
+vehicles, especially along Interstate 10.
 
-A low pressure system currently over WA/OR will move south off the
-coast of central CA through Sunday before turning east and moving
-inland over central and southern CA through Tuesday. This system
-will bring increasing clouds, lower temperatures, stronger
-onshore flow and chances for light showers. Monday and Tuesday
-will be the coolest days with similar high temperatures...near
-normal at the coast, about 5-12 degrees below normal in the
-inland valleys and deserts, and 10-17 degrees below normal in the
-mountains. Onshore flow will begin to strengthen Sunday afternoon,
-peak Monday afternoon/evening then steadily weaken through
-Tuesday. Southwest to west winds will be strongest in the
-mountains and deserts where there could be wind gusts of 35 to 45
-mph and isolated gusts to 60 mph. Light showers could move in as
-early as Monday afternoon/evening. The best chances for measurable
-rainfall will likely be Monday night into Tuesday morning. The
-rainfall distribution will favor San Diego County but totals are
-unlikely to exceed 0.15 inch.
+Though PWAT values increase slightly as the system moves closer,
+it does not look to have much moisture. As the low draws closer
+Sunday and Monday, the marine layer will continue to deepen. This
+may lead to some drizzle / light showers across western San Diego
+County by Sunday morning. The best chance of light rainfall will
+be Monday evening into Tuesday morning for places along and west
+of the mountains. Areas of San Diego County have the best chance
+to see rainfall, especially along the coastal slopes. Whatever (if
+any) falls will be light, mainly under one tenth of an inch. This
+weather system will also bring much cooler temperatures by Monday
+and Tuesday with highs 5 to 15 degrees below normal. Highs in the
+60s will prevail for areas west of the mountains into the high
+desert with 70s to near 80 degrees across the lower deserts. Low
+temperatures will also be quite chilly with lows getting down into
+the 20s and 30s above 5,000 feet.
 
-A warming trend begins on Wednesday and continues into next
-weekend as the low pressure system moves east into the Rockies and
-a ridge of high pressure builds over the west coast. Friday will
-likely be the warmest day with daytime high temperatures reaching
-the 90s in the inland valleys and high deserts, and the triple
-digits in the low deserts. The marine layer will become shallower
-and low clouds will be restricted to the coastal areas during the
-nights and mornings.
+Ensemble models are in fair agreement of this low moving out of
+the region by Wednesday, where a ridge will take its place. This
+will bring drier and warmer weather to the region. Inland valleys
+are expected to warm about 7-12 degrees from Tuesday to Wednesday
+and another 10 degrees by Thursday, putting areas of the Inland
+Empire near 90 degrees. The high looks to expand across the desert
+southwest, leading to continued warm and dry weather as we head
+into the middle part of the month.
+
 
 &&
 
 .AVIATION...
-021600Z....Coast/Valleys...Low clouds based 1400-1800 ft MSL with
-local VIS reductions 2-6SM. Vis improves (and bases lift) 15-16z and
-clouds scatter out inland 15-17z. Scatter out at the coast 17-19z,
-though some patchy low clouds to linger into the afternoon. Low
-clouds redevelop Saturday evening (02-04z Sun) with similar bases
-initially, rising above 2000 ft MSL in areas progressively
-throughout the night.
+030015Z....Coast/Valleys...Low clouds based 1300-1800 ft MSL have
+already redeveloped over coastal San Diego County late this
+afternoon. Clouds are expected to rush inland after 03z Sun and fill
+most of the coastal basin by 12z. Bases slowly begin to rise
+overnight and should be sitting mostly above 2000 ft MSL by 12z. -DZ
+along with minor vis reductions (4-6SM) possible at coastal TAF
+sites early Sunday morning. Clouds scatter out of inland areas by 18-
+19z Sun, but may remain BKN all day near the coastline, especially
+in SD County. Clouds based 2200-3000 ft MSL move back inland early
+Friday evening, filling up the coastal basin once again by 06z Mon.
 
 .Mountains/Deserts...VFR conditions expected through the period with
-SCT-BKN high clouds AOA 20 kft after 18z Sat.
+SCT-BKN high clouds AOA 20 kft. Winds strengthen along desert slopes
+and into deserts starting after 21z Sun. Widespread gusts 25-35 kts
+expected Sunday evening and overnight, locally reaching 40-50 kts
+along desert slopes and through mountain passes.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
@@ -441,8 +448,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Small
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
