@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T08:03:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T13:15:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,18 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-949
-FXUS66 KSGX 030756
+879
+FXUS66 KSGX 030939
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1256 AM PDT Sun May 3 2026
+239 AM PDT Sun May 3 2026
 
 .SYNOPSIS...
 A cooling trend begins today as a low pressure system approaches
@@ -406,18 +404,22 @@ valleys, mtns and deserts.
 &&
 
 .AVIATION...
-030430Z....Coast/Valleys...Low clouds based 1300-1800 ft MSL
-continue to hang over coastal San Diego County early this evening.
-Clouds are expected to rush inland this evening and fill most of the
-coastal basin by 12z Sun. Bases should slowly rise overnight, likely
-by a few hundred feet or so. -DZ along with minor vis reductions (4-
-6SM) possible at coastal TAF sites early Sunday morning. This may
-drag bases back down intermittently, but most locations should be
-above 2000 ft MSL by 15z. Clouds scatter out of inland areas by 18-
-19z Sun but may remain BKN all day near the coastline, especially in
-SD County. Clouds based 2000-3000 ft MSL move back inland early
-Sunday evening, filling up the coastal basin once again by 06z Mon.
-Bases will continue to rise slowly Sunday night.
+030930Z....Coast/Valleys...Low clouds based 1400-2000 ft MSL are
+covering inland areas up to the foothills in SD/Orange Counties,
+filtering in gradually into the IE (Inland Empire). VIS reductions
+2-6SM in interior valleys (e.g. KRNM) and parts of the IE (0-4SM
+in the southern IE). Full low cloud coverage is anticipated
+through the IE by sunrise; over 50% chance for cigs reaching KSBD
+by 12z. Spotty -DZ possible in coastal areas, 12-16z. VIS
+improves gradually in the valleys after 14z as bases rise through
+the morning to 2000-3000 ft MSL by 15-17z. Scatter out 17-19z in
+the IE. Only partial scatter out for inland valleys and 60-80%
+chance cigs remain through the afternoon over Orange County and
+SD. County west of I-15. Cloud bases in the afternoon 2000-3000 ft
+MSL and continue to rise Sunday evening and night. Clouds fill
+back into interior valleys by 22z Sunday afternoon and fill the
+rest of the coastal basin by 06z Mon. Slight chance (15-25%) for
+-RA/DZ throughout the coastal basin after 04z Sunday night.
 
 .Mountains/Deserts...VFR conditions expected through the period with
 SCT-BKN high clouds AOA 20 kft. Winds strengthen along desert slopes
@@ -436,6 +438,7 @@ No hazardous marine conditions are expected through Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -447,7 +450,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Westerink/KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
