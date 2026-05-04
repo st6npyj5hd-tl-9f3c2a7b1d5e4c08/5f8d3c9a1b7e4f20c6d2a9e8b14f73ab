@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-04T03:25:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-04T08:32:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-043
-FXUS66 KSGX 040018
+115
+FXUS66 KSGX 040504
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-518 PM PDT Sun May 3 2026
+1004 PM PDT Sun May 3 2026
 
 .SYNOPSIS...
 A low pressure system will approach the region, bringing cooler
@@ -403,7 +401,7 @@ Borrego desert into the Palm Springs area.
 &&
 
 .AVIATION...
-040000Z....Coast/Valleys...Mid level clouds based ~4500ft MSL
+040600Z....Coast/Valleys...Mid level clouds based ~4500ft MSL
 currently SCT-BKN across the coastal basin this afternoon will
 become more BKN-OVC into this evening. An initial wave of widely
 scattered VCSH becomes possible starting after 06z Monday, ending by
@@ -412,12 +410,12 @@ clouds near 2000-3000ft, which may bring brief CIGs overnight (20-
 40% chance). Lower level clouds departing with the VCSH by 18z, with
 the mid level clouds (~4500ft MSL) becoming more SCT-BKN again.
 
-.Mountains/Deserts...Strong winds have picked up this afternoon with
-widespread gusts into the deserts of 25-35 kts, locally up to 45-50
-kts along desert mountain slopes and through mountain passes. Winds
-gradually weakening between 06-12z, remaining elevated through
-passes before picking back up after 21z Monday with similar strength
-gusts to today.
+.Mountains/Deserts...Strong winds this evening are starting to
+slowly weaken this evening with widespread gusts into the deserts of
+25-30 kts, locally up to 40 kts along desert mountain slopes and
+through mountain passes. Winds gradually weakening between through
+12z, remaining elevated through passes before picking back up after
+21z Monday with similar strength gusts to today.
 
 Additionally, coastal mountain slopes locally obscured between 4000-
 6000 ft MSL in BR with clouds intersecting terrain. These clouds
@@ -432,14 +430,16 @@ No hazardous marine conditions are expected through Thursday.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Wind Advisory from 8 AM to 9 PM PDT Monday for Apple and Lucerne
+     Valleys-San Gorgonio Pass near Banning.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
+PUBLIC...Zuber
 AVIATION/MARINE...Munyan
 
 
