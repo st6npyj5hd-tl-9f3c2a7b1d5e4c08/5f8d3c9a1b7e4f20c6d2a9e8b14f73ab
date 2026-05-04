@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-03T19:02:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-04T03:25:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,18 +335,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-887
-FXUS66 KSGX 031838
+043
+FXUS66 KSGX 040018
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1138 AM PDT Sun May 3 2026
+518 PM PDT Sun May 3 2026
 
 .SYNOPSIS...
 A low pressure system will approach the region, bringing cooler
@@ -363,8 +361,6 @@ Wednesday into next weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
-.SHORT TERM (Through Tuesday)...
 
 A cutoff low continues to tumble closer to the California coast
 today, bringing a deep marine layer, cooler weather and increased
@@ -406,49 +402,32 @@ Borrego desert into the Palm Springs area.
 
 &&
 
-.LONG TERM (Wednesday into Next Weekend)...
-
-The area of low pressure exits the region by the middle of the
-week, where Wednesday becomes a transition day. Drier weather with
-temperatures near average can be expected. High pressure off the
-coast will grow and expand by Thursday into the end of the week.
-This will bring much warmer weather to the area with highs near 10
-degrees above normal away from the coast. Chances to reach 90
-degrees increase near 25-50% across the Inland Empire by Thursday;
-increasing by Friday. The low deserts will reach the 100 degree
-mark possibly by Thursday, definitely by Friday. 70s and 80s will
-dominate the coast and valley regions of Orange and San Diego
-Counties. Models continue to keep the ridge over the region for
-the foreseeable future.
-
-&&
-
 .AVIATION...
-031755Z....Coast/Valleys...BKN-OVC low clouds based  2000-3000
-ft MSL with layers above to near 5000 ft MSL. Tops locally 6000 ft
-MSL. Could be some brief SCT-BKN at the coast mid afternoon before
-the low clouds solidify again.  -RA/-DZ developing by 04z
-Sunday night.
+040000Z....Coast/Valleys...Mid level clouds based ~4500ft MSL
+currently SCT-BKN across the coastal basin this afternoon will
+become more BKN-OVC into this evening. An initial wave of widely
+scattered VCSH becomes possible starting after 06z Monday, ending by
+15-18z. This VCSH will likely be accompanied by a lower layer of
+clouds near 2000-3000ft, which may bring brief CIGs overnight (20-
+40% chance). Lower level clouds departing with the VCSH by 18z, with
+the mid level clouds (~4500ft MSL) becoming more SCT-BKN again.
 
-.Mountains/Deserts...Coastal slopes obscured blo 6000 ft MSL in
--RA/-DZ.  Desert slopes SCT-BKN high clouds AOA 20 kft. Winds
-strengthen along desert slopes and into deserts starting after 21z
-Sun. Widespread gusts 25-35 kts expected Sunday evening and
-overnight, locally reaching 45-50 kts along desert slopes and
-through mountain passes.
+.Mountains/Deserts...Strong winds have picked up this afternoon with
+widespread gusts into the deserts of 25-35 kts, locally up to 45-50
+kts along desert mountain slopes and through mountain passes. Winds
+gradually weakening between 06-12z, remaining elevated through
+passes before picking back up after 21z Monday with similar strength
+gusts to today.
+
+Additionally, coastal mountain slopes locally obscured between 4000-
+6000 ft MSL in BR with clouds intersecting terrain. These clouds
+will increase in coverage after 03z Monday, become less numerous by
+18z.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Thursday.
-
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -461,7 +440,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Small
+AVIATION/MARINE...Munyan
 
 
 </pre>
