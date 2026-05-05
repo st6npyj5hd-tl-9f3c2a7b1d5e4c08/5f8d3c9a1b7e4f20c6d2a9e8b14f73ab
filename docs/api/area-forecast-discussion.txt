@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T02:52:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T08:12:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,17 +336,17 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-936
-FXUS66 KSGX 050014
+226
+FXUS66 KSGX 050414
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-514 PM PDT Mon May 4 2026
+914 PM PDT Mon May 4 2026
 
 .SYNOPSIS...
 An area of low pressure will move over the region through
-Tuesday, accompanied by continued cool and cloudier weather. Gusty
+Tuesday, accompanied by continued cool and cloudy weather. Gusty
 west winds in the mountains and deserts with a chance for showers
 for the coastal basin will occur this evening through Tuesday
 afternoon. High pressure will move into the region bringing a
@@ -359,22 +359,26 @@ along with increased heat risk for inland valleys and deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-An area of low pressure currently off the California coast is
-bringing in high clouds from the southwest. Onshore flow continues
-to push low clouds away from the coast up against the coastal
-slopes with some areas within 15 miles of the coast seeing some
-clearing. Winds out of the west continue to be breezy across
-mountain passes into the deserts near 25-45 MPH. We can expect
-these winds to increase a bit more into the afternoon and evening
-across these areas. The center of the low pressure system will
-move inland this evening into Tuesday, where light to moderate
-showers will expand from the coastal slopes to the beaches. Hi-res
-model guidance favors San Diego County to see the best chance for
-light rainfall overnight into Tuesday morning, while parts of
-Orange County and the Inland Empire may see nothing. Precipitation
-will start sometime around sunset this evening or slightly
-thereafter. Most areas will see under one tenth of an inch. Some
-showers may produce rates over one quarter inch/hour in the
+This evening...A moist boundary layer about 8,000 ft deep with a
+deep dry layer above is bringing widespread clouds from the
+mountains to the coast. Embedded in this cloud mass are isolated
+to scattered light showers moving from southwest to northeast in
+the cyclonic flow around a closed upper low just north of Point
+Conception. Mostly light showers will continue at times through
+much of the day Tuesday.
+
+From previous discussion...
+Winds out of the west continue to be breezy across mountain
+passes into the deserts locally near 25-45 MPH. We can expect
+these winds to weaken into Tuesday morning then strengthen again
+Tuesday afternoon/evening. The center of the low pressure system
+will move inland this evening into Tuesday, where light to
+moderate showers will expand from the coastal slopes to the
+beaches. Hi-res model guidance favors San Diego County to see the
+best chance for light rainfall overnight into Tuesday morning,
+while parts of Orange County and the Inland Empire may see
+nothing. Most areas will see under one tenth of an inch. Some
+showers may produce rates of about one quarter inch/hour in the
 heaviest rain, leading to totals near one half inch possible; best
 chance in the San Diego valleys and foothills.
 
@@ -400,25 +404,28 @@ next week, but just how hot? We`ll continue to work out these
 details, but please be prepared for moderate to locally high heat
 risk to impact inland valleys and across the desert regions.
 
-
 &&
 
 .AVIATION...
-050000Z....Coast/Valleys...SCT-BKN layered low clouds based between
+050400Z....Coast/Valleys...SCT-BKN layered low clouds based between
 2500-5000ft MSL will continue tonight before rising to 3-6 kft after
 15z Tue; partial scatter out at times during the day after 17z
-closer to the coast, remaining BKN-OVC inland. -SHRA begins after
-04z tonight, becoming more numerous in coverage in SD County from 06-
-12z. VCSH thereafter through the coastal basin with -SHRA continuing
-over in the inland mountain foothills. MVFR vis/cigs in SHRA.
+closer to the coast, remaining BKN-OVC inland. ISO -SHRA over
+coastal areas to become more numerous in coverage over SD County
+after 06z before tapering off after 17z (through 22z over the inland
+foothills). More isolated SHRA activity north of SD County, through
+12z. MVFR vis/cigs in SHRA. There is some uncertainty regarding cigs
+Tuesday evening; guidance is suggesting cigs will remain only along
+eastern valley foothills, clearing slowly elsewhere.
 
 .Mountains/Deserts...Strong westerly gusts up to 25-35 kts with
 isolated gusts of 45 kts are expected to continue this evening and
-overnight, weakening slightly after 12z. This will create moderate
-to strong up/down drafts and local LLWS in the lee of mountains.
-Expect reduced vis in BLDU in deserts areas. Coast-facing mountain
-slopes will occasionally be obscured between 3000-6000 feet MSL in
-BR where clouds intersect terrain.
+overnight, weakening slightly after 12z. Winds pick up again
+slightly Tuesday afternoon after 00z. This will create moderate to
+strong up/down drafts and local LLWS in the lee of mountains. Expect
+reduced vis in BLDU in deserts areas. Coast-facing mountain slopes
+will occasionally be obscured between 3000-6000 feet MSL in BR where
+clouds intersect terrain.
 
 &&
 
@@ -431,20 +438,17 @@ No hazardous marine conditions are expected through Friday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 9 PM PDT this evening for Apple and Lucerne
-     Valleys-San Gorgonio Pass near Banning.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
+PUBLIC...PG/APR
 AVIATION/MARINE...Westerink
 
 
