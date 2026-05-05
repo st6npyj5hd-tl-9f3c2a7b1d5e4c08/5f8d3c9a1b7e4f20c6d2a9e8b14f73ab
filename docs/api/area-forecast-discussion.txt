@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-04T19:42:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T02:52:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-730
-FXUS66 KSGX 041900
+936
+FXUS66 KSGX 050014
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1200 PM PDT Mon May 4 2026
+514 PM PDT Mon May 4 2026
 
 .SYNOPSIS...
 An area of low pressure will move over the region through
@@ -402,21 +400,25 @@ next week, but just how hot? We`ll continue to work out these
 details, but please be prepared for moderate to locally high heat
 risk to impact inland valleys and across the desert regions.
 
+
 &&
 
 .AVIATION...
-041800Z....Coast/Valleys...Low clouds based between 3000-6000ft MSL
-will continue through the late afternoon/evening. Could see the
-occasional cigs 2000-2500ft MSL in DZ or -SHRA, with chances
-increasing after 04-06Z Tuesday.
+050000Z....Coast/Valleys...SCT-BKN layered low clouds based between
+2500-5000ft MSL will continue tonight before rising to 3-6 kft after
+15z Tue; partial scatter out at times during the day after 17z
+closer to the coast, remaining BKN-OVC inland. -SHRA begins after
+04z tonight, becoming more numerous in coverage in SD County from 06-
+12z. VCSH thereafter through the coastal basin with -SHRA continuing
+over in the inland mountain foothills. MVFR vis/cigs in SHRA.
 
 .Mountains/Deserts...Strong westerly gusts up to 25-35 kts with
-isolated gusts of 45 kts are expected after 19-21z. This will create
-moderate to strong up/down drafts and local LLWS in the lee of
-mountains. Expect reduced vis in BLDU in deserts areas. Coast-facing
-mountain slopes will occasionally be obscured between 3000-6000 feet
-MSL in BR where clouds intersect terrain. Chances will increase
-after 02-04Z Tuesday.
+isolated gusts of 45 kts are expected to continue this evening and
+overnight, weakening slightly after 12z. This will create moderate
+to strong up/down drafts and local LLWS in the lee of mountains.
+Expect reduced vis in BLDU in deserts areas. Coast-facing mountain
+slopes will occasionally be obscured between 3000-6000 feet MSL in
+BR where clouds intersect terrain.
 
 &&
 
@@ -443,7 +445,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...Westerink
 
 
 </pre>
