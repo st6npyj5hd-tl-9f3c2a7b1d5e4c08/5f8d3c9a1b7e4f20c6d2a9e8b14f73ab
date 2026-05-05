@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T13:59:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T19:23:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,26 +333,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-016
-FXUS66 KSGX 050904
+509
+FXUS66 KSGX 051901
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-204 AM PDT Tue May 5 2026
+1201 PM PDT Tue May 5 2026
 
 .SYNOPSIS...
-Scattered showers will continue through this morning with the
-greatest coverage across San Diego County from the coast to the
-mountains. Showers will linger near the mountains during the
-afternoon and decrease during the afternoon and early evening. Dry
-with warming beginning on Wednesday. The warming will continue
-through Monday of next week with high temperatures next Monday as
-much as 15 to 20 degrees above average for the inland valleys and
-lower coastal slopes of the mountains.
+Lingering isolated showers will diminish by early this evening.
+Dry conditions will prevail through the rest of the forecast
+period. A warming trend is expected tomorrow through early next
+week. Areas of moderate HeatRisk expected in the valleys and major
+HeatRisk in the low deserts Sunday through Tuesday.
 
 &&
 
@@ -360,72 +359,56 @@ lower coastal slopes of the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Thursday)...
-The HREF shows scattered showers continuing through this morning
-with the greatest coverage across San Diego County from the
-coastal waters to the mountains. Showers will linger and diminish
-near the mountains for the afternoon and early evening. Rainfall
-across San Diego will generally range from one-tenth to locally
-one-quarter inch with isolated greater totals. Farther north,
-rainfall will be lighter, mostly one-tenth inch or less, with
-less coverage as well.
+At 12 PM, there were still a few lingering showers in the eastern
+San Diego valleys. A rainfall summary is headlined on our
+weather.gov/sandiego homepage and details observed rainfall over
+the past 24 hours. Shower chances will become more confined to the
+eastern valleys and foothills this afternoon before diminishing
+by early this evening. Dry conditions will prevail through the
+rest of the forecast period.
 
-The snow level will mostly fluctuate between 6000 and 7000 feet
-through this morning, rising to 7000 to 7500 feet for the San
-Bernardino County mountains for this afternoon and evening. There
-could be an inch or so of snowfall on the highest peaks of the
-mountains in Riverside and San Bernardino Counties.
+An upper level ridge of high pressure will begin to build over the
+Eastern Pacific Wednesday and Thursday, eventually expanding east
+over California for the weekend into early next week. This will
+result in a steady warming trend for Wednesday into early next week,
+with the hottest conditions Sunday through Tuesday. Current forecast
+has moderate to major HeatRisk in the low desert, with minor to
+moderate in the valleys and High Desert. Confidence is highest for
+temperatures in the low desert where the NBM temperature guidance
+matches up with ensemble guidance from the ECMWF and GEFS.
+Confidence in how hot it will get is lower for areas west of the
+mountains where NBM guidance is running about 5 to 6 degrees warmer
+than other ensemble guidance.
 
-High temperatures will be a few degrees cooler today and as much
-as 15 to 20 degrees below average for the mountains. High
-temperatures for today will be mostly in the 60s for the coast and
-valleys and in the 70s for the lower deserts.
+Current forecast follows the NBM with temperatures as much as 15 to
+20 degrees above average for the inland valleys, high desert, and
+lower coastal slopes of the mountains by Monday.
 
-Dry and warmer weather will begin on Wednesday with high
-temperatures as much as 15 to 20 degrees warmer for the mountains
-and high desert. Inland areas will warm another 5 to 10 degrees
-on Thursday with high temperatures for inland areas 5 to 10
-degrees above average on Thursday. High temperatures on Thursday
-will range from around 70 near the coast, to the 80s for the
-Inland Empire, and in the mid 90s to around 100 for the lower
-deserts.
-
-&&
-
-.LONG TERM (Friday through Monday)...
-The warming trend will continue through Monday of next week with
-Monday high temperatures as much as 15 to 20 degrees above average
-for the inland valleys, high desert, and lower coastal slopes of
-the mountains. High temperatures for next Monday will range from
-the lower to mid 70s hear the coast to the 90s to around 100 for
-the Inland Empire with 105 to 110 for the lower deserts. Night and
-morning coastal low clouds will spread into the western valleys at
-times.
-
-For the lower deserts, the highest Heat Risk and Heat Risk
-sufficient for an Extreme Heat Warning is on Sunday through
-Tuesday of next week. The Heat Risk most supportive for a Heat
-Advisory for the inland valleys is on Monday of next week.
+By Tuesday, most of the ensemble guidance indicates the ridge aloft
+will weaken, which will bring a few a few degrees of cooling to the
+area. Weak onshore flow should be maintained through the forecast
+period, which would moderate temperatures along the immediate coast.
+Additionally, areas of at least patchy night and morning low
+clouds and fog are expected to be present along the coast
+potentially into portions of the western valleys.
 
 &&
 
 .AVIATION...
-050930Z....Coast/Valleys...Low clouds and -SHRA through 18Z this
-morning. Bases will be 2500-3500 MSL with tops to 6000 feet, but
-lower at 1200-1800 feet MSL with vis reduced 1-5SM in SHRA. Partial
-obscuration of higher coastal terrain. Scatter out near coast after
-18Z extending gradually inland, but remaining BKN far inland and
-near the mountains. Low clouds to gradually fill the coastal basin
-after 00Z with bases around 2000-3000 feet MSL.
+051800Z....Coast/Valleys...SCT-BKN low clouds based 3-6 kft expected
+through this afternoon. Coverage will gradually become predominately
+BKN again after 03Z Wed with bases lowering to around 2000-3000 feet
+MSL overnight. Intermittent scattering through the overnight hours.
+Low clouds clear to the coastline 16-18z Wed.
 
-.Mountains/Deserts...Coast-facing mountain slopes will occasionally
-be obscured between 2500-6000 feet MSL in SHRA and BR where clouds
-intersect terrain through 18Z. Isolated -SHRA in mountains 18-02Z
-briefly lowering cloud bases and vis. Strong westerly gusts 20-30
-kts this morning increasing after 20Z to 25-35 kts with isolated
-gusts of 45 kts through the evening. This will create moderate to
-strong up/down drafts and local LLWS in the lee of mountains. Patchy
-BLDU reducing vis in the deserts.
+.Mountains/Deserts...Coastal slopes will occasionally be obscured in
+FG between 3000-6000 feet MSL where clouds intersect terrain through
+06Z Wed. Isolated -SHRA in mountains through 02Z briefly lowering
+cloud bases and vis. Elevated westerly gusts 20-30 kts along desert
+slopes and into deserts with isolated gusts of 40 kts through
+mountain passes. This will create moderate to strong up/down drafts
+and local LLWS in the lee of mountains. Patchy BLDU reducing vis in
+the deserts. Winds slowly diminish 06-12z Wed.
 
 &&
 
@@ -449,8 +432,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...KW
 
 
 </pre>
