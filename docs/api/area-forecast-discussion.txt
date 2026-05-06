@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-05T19:23:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-06T03:22:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-509
-FXUS66 KSGX 051901
+915
+FXUS66 KSGX 060020
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1201 PM PDT Tue May 5 2026
+520 PM PDT Tue May 5 2026
 
 .SYNOPSIS...
 Lingering isolated showers will diminish by early this evening.
@@ -358,6 +356,8 @@ HeatRisk in the low deserts Sunday through Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.New Aviation and Marine Discussion...
 
 At 12 PM, there were still a few lingering showers in the eastern
 San Diego valleys. A rainfall summary is headlined on our
@@ -395,20 +395,21 @@ potentially into portions of the western valleys.
 &&
 
 .AVIATION...
-051800Z....Coast/Valleys...SCT-BKN low clouds based 3-6 kft expected
-through this afternoon. Coverage will gradually become predominately
-BKN again after 03Z Wed with bases lowering to around 2000-3000 feet
-MSL overnight. Intermittent scattering through the overnight hours.
-Low clouds clear to the coastline 16-18z Wed.
+060015Z....Coast/Valleys...SCT-BKN low clouds are currently based
+5000-8000ft MSL with a few lingering in and out along the coast
+around 3500ft MSL. Cloud coverage will slowly increase and lower
+with cigs 2000-3000ft MSL after 03Z. Low clouds will bounce between
+BKN-SCT overnight, clearing 16-18Z. Low clouds are expected to
+return to coastal San Diego by 00Z Wednesday.
 
-.Mountains/Deserts...Coastal slopes will occasionally be obscured in
-FG between 3000-6000 feet MSL where clouds intersect terrain through
-06Z Wed. Isolated -SHRA in mountains through 02Z briefly lowering
-cloud bases and vis. Elevated westerly gusts 20-30 kts along desert
-slopes and into deserts with isolated gusts of 40 kts through
-mountain passes. This will create moderate to strong up/down drafts
-and local LLWS in the lee of mountains. Patchy BLDU reducing vis in
-the deserts. Winds slowly diminish 06-12z Wed.
+.Mountains/Deserts...Coastal slopes are still occasionally
+obscured in FG where clouds intersect terrain between 4000-6000ft
+MSL and are expected to lower to 2000-3000ft after 05-07Z. Elevated
+westerly gusts 20-30 kts along desert slopes and into deserts with
+isolated gusts of 40 kts through mountain passes continue, slowly
+diminishing 06-12Z. This will create moderate to strong up/down
+drafts and local LLWS in the lee of mountains. Patchy BLDU reducing
+vis in the deserts. Low clouds will clear the coastal slopes 16-18Z.
 
 &&
 
@@ -433,7 +434,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
