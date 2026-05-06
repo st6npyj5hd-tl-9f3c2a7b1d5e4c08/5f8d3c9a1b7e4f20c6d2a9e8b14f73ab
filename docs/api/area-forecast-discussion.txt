@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-06T14:18:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-06T19:35:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,24 +338,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-101
-FXUS66 KSGX 060941
+818
+FXUS66 KSGX 061822
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-241 AM PDT Wed May 6 2026
+1122 AM PDT Wed May 6 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft will bring dry weather with a
-substantial warming trend for inland areas through Monday of next
-week with high temperatures for next Monday as much 12 to 18
-degrees above average for the mountains, deserts, and far inland
-valleys. The marine layer and weak onshore flow will keep coastal
-areas cooler with much less warming than for inland areas. The
-Heat Risk is expected to peak around Monday of next week with
-major Heat Risk for the lower deserts and moderate Heat Risk for
-the Inland Empire.
+Above average temperatures will return tomorrow and prevail through
+the remainder of the forecast period. Warmest conditions will be
+Sunday through Tuesay with areas of moderate HeatRisk expected in
+the valleys and High Desert and major HeatRisk in the low
+deserts. The marine layer and weak onshore flow will keep coastal
+areas cooler.
+
 
 &&
 
@@ -363,60 +361,50 @@ the Inland Empire.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Friday)...
-Strengthening high pressure aloft will bring dry weather with a
-warming trend that will continue through Monday of next week. High
-temperatures will warm as much as 15 to 20 degrees today for the
-mountains. Inland areas will warm another 5 to 10 degrees on
-Thursday and most areas will warm another few to around 5 degrees
-on Friday.
+Today kicks off a warming trend that will continue through next
+Monday. This warming trend will result in above average temperatures
+for much of the next week, with the biggest departure from normal in
+the inland valleys, mountains, and deserts. This warming will bring
+temperatures 7 to 15 degrees above average for inland locations
+through Saturday.
 
-With the warming, high temperatures on Friday will be a few
-degrees above average near the coast to 8 to 12 degrees above
-average for inland areas. High temperatures on Friday will range
-from around 70 near the coast to the mid 80s to lower 90s for the
-Inland Empire with 102 to 106 for the lower deserts.
+An upper level ridge of high pressure will expand over California
+and strengthen early next week. This will bring temperatures 15 to
+20 degrees above average for the far inland valleys, mountains, and
+deserts. Current forecast has moderate to major HeatRisk in the low
+desert, with minor to moderate in the valleys and High Desert Sunday
+through Tuesday. Ensemble guidance from the ECMWF and GEFS are more
+inline with the NBM on the latest runs, although the deterministic
+NBM guidance is running closer to the maximum values of the EC and
+GEFS ensemble guidance especially for Monday. The geographical
+proximity of the deserts to the center of the high pressure
+increases confidence in the temperature forecast for that area.
+There still remains some uncertainty on how warm it will get west
+of the mountains as prevailing onshore flow will spread cooler
+coastal air inland with the afternoon sea breeze.
 
-While there will be substantial inland warming into next week,
-onshore flow and the marine layer will keep coastal areas cooler
-with much less warming than for inland areas. Night and morning
-coastal low clouds will begin to return for tonight into Thursday
-morning and continue into the weekend.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-The warming will continue through Monday with high temperatures
-on Monday as much as 12 to 18 degrees above average for the
-mountains, deserts, and far inland valleys. High temperatures for
-Monday of next week will range from the lower 70s near the coast
-to the 90s to around 100 for the Inland Empire with the lower
-deserts 105 to 110. Cooling will begin to spread inland on Tuesday
-as high pressure aloft begins to weak and onshore lower-level
-flow strengthens.
-
-The peak of the Heat Risk for inland areas is on Monday of next
-week, sufficient for an Extreme Heat Warning for the lower
-deserts and possibly a Heat Advisory for the Inland Empire.
-Tuesday will be nearly as hot as Monday for the lower deserts.
-
-The heat is mostly expected to remain below record levels, but a
-few mountain locations could set records for warmest low
-temperatures during the weekend into early next week.
+By Tuesday, most of the ensemble guidance indicates the ridge aloft
+will weaken or move east, which will bring a few degrees of cooling
+to the area. The upper level pattern becomes more uncertain for
+Wednesday, with some solutions maintaining weak ridging and others
+showing weak troughing. Current forecast has a few additional
+degrees of cooling between Tuesday and Wednesday. Areas of at least
+patchy night and morning low clouds and fog are expected to be
+present along the coast potentially into portions of the western
+valleys at times through the forecast period.
 
 &&
 
-.AVIATION...
-060930Z....Coast/Valleys...SCT to locally BKN clouds
-between 2500-6000 feet MSL will continue in somewhat random coverage
-this morning. New cigs around 2500 feet MSL have a 30% chance of
-developing in coastal areas before 15Z. Mostly clear skies after
-16Z. Low clouds around 1500-2000 feet MSL to return vicinity KSAN 01-
-5Z before spreading into all coastal areas by 12Z Thursday.
+.AVIATION...061800Z....Coast/Valleys...VFR and SKC with surface
+gusts below 20 kts. Low clouds around 1500-2000ft MSL return
+vicinity KSAN 01-5z before spreading into most coastal areas by 12z
+Thurs. Chances for MVFR CIGs at KSAN overnight are 60-70%, and 50%
+for KCRQ and 40% for KSNA. Clearing should occur by 17z for all
+locations.
 
-Mountains/Deserts...SCT to locally BKN low clouds based 3500-6000
-feet MSL on coastal slopes through 16Z. SCT clouds between 9000-
-12000 feet MSL over mountains 17-01Z.
+.Mountains/Deserts...Generally SKC and VFR, with intermittent
+FEW-SCT clouds AOA 10,000ft MSL over mountains this afternoon and
+evening.
 
 &&
 
@@ -429,6 +417,7 @@ No hazardous marine conditions are expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -439,8 +428,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
