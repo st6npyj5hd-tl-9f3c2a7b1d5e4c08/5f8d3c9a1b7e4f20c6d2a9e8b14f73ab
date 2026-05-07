@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T14:13:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T19:44:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,24 +331,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-311
-FXUS66 KSGX 070415
+552
+FXUS66 KSGX 071909
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-915 PM PDT Wed May 6 2026
+1209 PM PDT Thu May 7 2026
 
 .SYNOPSIS...
-Above average temperatures will return tomorrow and prevail through
-the remainder of the forecast period. Warmest conditions will be
-Sunday through Tuesay with areas of moderate HeatRisk expected in
-the valleys and High Desert and major HeatRisk in the low
-deserts. The marine layer and weak onshore flow will keep coastal
-areas cooler.
+Above average temperatures will prevail through the remainder of the
+forecast period. Warmest conditions will be Sunday through Tuesday
+with areas of moderate HeatRisk expected in the valleys and major
+HeatRisk in the low deserts. The marine layer and weak onshore flow
+will keep coastal areas cooler. A gradual cooling trend expected for
+next Tuesday through Thursday although conditions will remain above
+average. Dry conditions will prevail through the forecast period.
 
 &&
 
@@ -356,71 +361,70 @@ areas cooler.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation discussion for 06Z TAFs...
-
-Evening update...
-Low clouds are slowly making their way into coastal
-San Diego and will steadily increase in coverage overnight to
-encompass the Orange County coast and up to 10-15 miles inland. Low
-clouds will stick to the coast through late Thursday morning,
-lingering mainly along the San Diego County coast through the
-afternoon.
-
-Previous discussion...
-Today kicks off a warming trend that will continue through next
-Monday. This warming trend will result in above average temperatures
-for much of the next week, with the biggest departure from normal in
-the inland valleys, mountains, and deserts. This warming will bring
-temperatures 7 to 15 degrees above average for inland locations
-through Saturday.
+Highs today are expected to be a few degrees warmer than yesterday
+along the coast and 7 to 13 degrees warmer than yesterday for inland
+locations. This warming will push temperatures to above average.
+Above average temperatures will continue through next Thursday. Weak
+onshore flow will be maintained, which will help moderate
+temperatures along the coast and portions of the western valleys.
+Additionally, areas of at least patchy low clouds and fog are
+expected to be present along the coast potentially into portions of
+the western valleys at times through the forecast period.
 
 An upper level ridge of high pressure will expand over California
 and strengthen early next week. This will bring temperatures 15 to
 20 degrees above average for the far inland valleys, mountains, and
-deserts. Current forecast has moderate to major HeatRisk in the low
-desert, with minor to moderate in the valleys and High Desert Sunday
-through Tuesday. Ensemble guidance from the ECMWF and GEFS are more
-inline with the NBM on the latest runs, although the deterministic
-NBM guidance is running closer to the maximum values of the EC and
-GEFS ensemble guidance especially for Monday. The geographical
+deserts on Monday, which continues to be forecast as the hottest day
+of the week. Current forecast has moderate to major HeatRisk in the
+low desert, with minor to moderate in the valleys and High Desert
+Sunday through Tuesday. Ensemble guidance from the ECMWF and GEFS
+continue to align with solutions from NBM guidance, even though the
+deterministic NBM is still skewed towards the maximum values of the
+EC and GEFS guidance, especially for Monday. The geographical
 proximity of the deserts to the center of the high pressure
 increases confidence in the temperature forecast for that area.
-There still remains some uncertainty on how warm it will get west
-of the mountains as prevailing onshore flow will spread cooler
-coastal air inland with the afternoon sea breeze.
+There still remains some uncertainty on how warm it will get west of
+the mountains as prevailing onshore flow will spread cooler coastal
+air inland with the afternoon sea breeze. The spread between the
+10th and 90th percentile of the NBM guidance in the Inland Empire
+for Monday is about 8 degrees which would be a difference of
+highs in the low 90s (10th percentile solution) or reaching 100
+(90th percentile solution) at the hottest locations.
 
 By Tuesday, most of the ensemble guidance indicates the ridge aloft
-will weaken or move east, which will bring a few degrees of cooling
-to the area. The upper level pattern becomes more uncertain for
-Wednesday, with some solutions maintaining weak ridging and others
-showing weak troughing. Current forecast has a few additional
-degrees of cooling between Tuesday and Wednesday. Areas of at least
-patchy night and morning low clouds and fog are expected to be
-present along the coast potentially into portions of the western
-valleys at times through the forecast period.
-
-
+will weaken, which will bring a few degrees of cooling to areas west
+of the mountains. For the deserts, there is less confidence in a
+substantial cooling on Tuesday. NBM spread in 10th and 90th
+percentile in temperatures is 8 to 10 degrees which is a difference
+between highs in the upper 90s/low 100s (10th percentile) and
+105 degrees or warmer (90th percentile). The upper level pattern
+becomes more uncertain for next Wednesday and Thursday, with some
+solutions maintaining weak ridging and others showing weak
+troughing. Current forecast has gradual cooling from Tuesday
+through next Thursday. Dry conditions will prevail through the
+forecast period.
 
 &&
 
-.AVIATION...070400Z...
-Coast/Valleys...Low clouds 1500-2000ft MSL
-currently vcnty KSAN will gradually spread into most coastal areas
-by 12Z, though cigs will be patchy and somewhat intermittent
-overnight. Chances for MVFR CIGs at KSAN overnight are 60-70%, 50%
-for KCRQ, and 40% for KSNA. Skies clear by 17Z for all locations,
-though patches of low clouds will likely linger just offshore into
-the afternoon. More widespread and cohesive low clouds 1200-1700 ft
-MSL move onshore after Fri 03Z.
+.AVIATION...
+071745Z...Coast...Low clouds are just about cleared from the entire
+coastline and should hang just offshore today. More widespread and
+cohesive low clouds 800-1300ft MSL will move ashore after 02Z and
+locally inland overnight. There`s a 20% chance of reaching KONT by
+13Z Friday. Vis reduced 2-4SM for coastal terrain and in valleys,
+with 4-6SM for coastal areas. Chance of IFR CIGs at KSAN after 06Z
+around 50%, chance of MVFR > 85%. Clearing will occur between 15-17Z
+Friday.
 
-.Mountains/Deserts...Mostly SKC with VFR conditions through the
-period. FEW clouds AOA 10,000ft MSL will develop over mountains this
-Thu afternoon.
+Valleys/Mountains/Deserts...Mostly clear and VFR with only FEW
+clouds around 10,000ft MSL over mountains 18-00Z today. Strong
+westerly winds with gusts 25-35 kts develop after 23Z through
+mountain gaps into deserts, continuing into early Friday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
@@ -432,15 +436,18 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Extreme Heat Watch from Sunday morning through Tuesday evening
+     for Coachella Valley-San Diego County Deserts-San Gorgonio
+     Pass near Banning.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...CO/Villafane
-AVIATION/MARINE...CSP
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
