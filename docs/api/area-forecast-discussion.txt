@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T03:23:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T08:36:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-345
-FXUS66 KSGX 070017
+311
+FXUS66 KSGX 070415
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-517 PM PDT Wed May 6 2026
+915 PM PDT Wed May 6 2026
 
 .SYNOPSIS...
 Above average temperatures will return tomorrow and prevail through
@@ -358,8 +358,17 @@ areas cooler.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation discussion for 00Z TAFs...
+...Updated aviation discussion for 06Z TAFs...
 
+Evening update...
+Low clouds are slowly making their way into coastal
+San Diego and will steadily increase in coverage overnight to
+encompass the Orange County coast and up to 10-15 miles inland. Low
+clouds will stick to the coast through late Thursday morning,
+lingering mainly along the San Diego County coast through the
+afternoon.
+
+Previous discussion...
 Today kicks off a warming trend that will continue through next
 Monday. This warming trend will result in above average temperatures
 for much of the next week, with the biggest departure from normal in
@@ -392,23 +401,35 @@ patchy night and morning low clouds and fog are expected to be
 present along the coast potentially into portions of the western
 valleys at times through the forecast period.
 
+
+
 &&
 
-.AVIATION...070000Z....
-Coast/Valleys...VFR and mostly SKC through this evening. Low clouds
-1500-2000ft MSL return vicinity KSAN 04-07Z before spreading into
-most coastal areas by 12Z Thurs. Cigs will be patchy and somewhat
-intermittent overnight. Chances for MVFR CIGs at KSAN overnight are
-60-70%, and 50% for KCRQ and 40% for KSNA. Skies clear by 17Z for
-all locations.
+.AVIATION...070400Z...
+Coast/Valleys...Low clouds 1500-2000ft MSL
+currently vcnty KSAN will gradually spread into most coastal areas
+by 12Z, though cigs will be patchy and somewhat intermittent
+overnight. Chances for MVFR CIGs at KSAN overnight are 60-70%, 50%
+for KCRQ, and 40% for KSNA. Skies clear by 17Z for all locations,
+though patches of low clouds will likely linger just offshore into
+the afternoon. More widespread and cohesive low clouds 1200-1700 ft
+MSL move onshore after Fri 03Z.
 
-.Mountains/Deserts...Generally SKC and VFR, with diminishing clouds
-AOA 10,000ft MSL over mountains this evening.
+.Mountains/Deserts...Mostly SKC with VFR conditions through the
+period. FEW clouds AOA 10,000ft MSL will develop over mountains this
+Thu afternoon.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -420,7 +441,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...CO/Villafane
 AVIATION/MARINE...CSP
 
 
