@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-06T19:35:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T03:23:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-818
-FXUS66 KSGX 061822
+345
+FXUS66 KSGX 070017
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1122 AM PDT Wed May 6 2026
+517 PM PDT Wed May 6 2026
 
 .SYNOPSIS...
 Above average temperatures will return tomorrow and prevail through
@@ -354,12 +352,13 @@ the valleys and High Desert and major HeatRisk in the low
 deserts. The marine layer and weak onshore flow will keep coastal
 areas cooler.
 
-
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated aviation discussion for 00Z TAFs...
 
 Today kicks off a warming trend that will continue through next
 Monday. This warming trend will result in above average temperatures
@@ -395,28 +394,21 @@ valleys at times through the forecast period.
 
 &&
 
-.AVIATION...061800Z....Coast/Valleys...VFR and SKC with surface
-gusts below 20 kts. Low clouds around 1500-2000ft MSL return
-vicinity KSAN 01-5z before spreading into most coastal areas by 12z
-Thurs. Chances for MVFR CIGs at KSAN overnight are 60-70%, and 50%
-for KCRQ and 40% for KSNA. Clearing should occur by 17z for all
-locations.
+.AVIATION...070000Z....
+Coast/Valleys...VFR and mostly SKC through this evening. Low clouds
+1500-2000ft MSL return vicinity KSAN 04-07Z before spreading into
+most coastal areas by 12Z Thurs. Cigs will be patchy and somewhat
+intermittent overnight. Chances for MVFR CIGs at KSAN overnight are
+60-70%, and 50% for KCRQ and 40% for KSNA. Skies clear by 17Z for
+all locations.
 
-.Mountains/Deserts...Generally SKC and VFR, with intermittent
-FEW-SCT clouds AOA 10,000ft MSL over mountains this afternoon and
-evening.
+.Mountains/Deserts...Generally SKC and VFR, with diminishing clouds
+AOA 10,000ft MSL over mountains this evening.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -429,7 +421,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...CSP
 
 
 </pre>
