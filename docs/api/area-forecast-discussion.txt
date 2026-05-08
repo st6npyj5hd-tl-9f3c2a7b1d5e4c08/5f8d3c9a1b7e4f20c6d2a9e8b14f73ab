@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-08T07:44:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-08T13:53:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,25 +333,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-949
-FXUS66 KSGX 080430
+472
+FXUS66 KSGX 080949
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-930 PM PDT Thu May 7 2026
+249 AM PDT Fri May 8 2026
 
 .SYNOPSIS...
-Above average temperatures will prevail through the remainder of the
-forecast period. Warmest conditions will be Sunday through Tuesday
-with areas of moderate HeatRisk expected in the valleys and major
-HeatRisk in the low deserts. The marine layer and weak onshore flow
-will keep coastal areas cooler. A gradual cooling trend expected for
-next Tuesday through Thursday although conditions will remain above
-average. Dry conditions will prevail through the forecast period.
+Above average temperatures will continue through next week, although
+less so after Monday. Warmest conditions will be Sunday and Monday
+with areas of minor to moderate HeatRisk in portions of the valleys
+and major HeatRisk in the low deserts. The marine layer and weak
+onshore flow will keep coastal areas cooler, with some amount of
+low clouds during the nights and mornings. A gradual cooling
+trend expected for next Tuesday through Thursday although
+temperatures will remain above average. Dry conditions will
+prevail through the forecast period.
 
 &&
 
@@ -359,71 +363,79 @@ average. Dry conditions will prevail through the forecast period.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation discussion for 06Z TAFs...
+This morning...The marine layer is about 2000 ft deep with low
+clouds covering the coastal areas and extending as much as 15
+miles inland in San Diego County. A weak coastal eddy seems to be
+developing and pushing low clouds into the Inland Empire from the
+south. High-resolution models indicate that by sunrise, a
+significant portion of the IE will be covered by low clouds.
 
-Highs today are expected to be a few degrees warmer than yesterday
-along the coast and 7 to 13 degrees warmer than yesterday for inland
-locations. This warming will push temperatures to above average.
-Above average temperatures will continue through next Thursday. Weak
-onshore flow will be maintained, which will help moderate
-temperatures along the coast and portions of the western valleys.
-Additionally, areas of at least patchy low clouds and fog are
-expected to be present along the coast potentially into portions of
-the western valleys at times through the forecast period.
-
-An upper level ridge of high pressure will expand over California
-and strengthen early next week. This will bring temperatures 15 to
+An upper level ridge of high pressure will expand over the western
+states and strengthen through early next week. This will continue
+the warming trend which will likely peak on Monday. Numerical
+model guidance is in good agreement through Monday with respect to
+the synoptic pattern, although there is some uncertainty with
+respect to the details of the forecast. Monday is expected to be
+the warmest day of the forecast period with temperatures 15 to
 20 degrees above average for the far inland valleys, mountains, and
-deserts on Monday, which continues to be forecast as the hottest day
-of the week. Current forecast has moderate to major HeatRisk in the
-low desert, with minor to moderate in the valleys and High Desert
-Sunday through Tuesday. Ensemble guidance from the ECMWF and GEFS
-continue to align with solutions from NBM guidance, even though the
-deterministic NBM is still skewed towards the maximum values of the
-EC and GEFS guidance, especially for Monday. The geographical
-proximity of the deserts to the center of the high pressure
-increases confidence in the temperature forecast for that area.
-There still remains some uncertainty on how warm it will get west of
-the mountains as prevailing onshore flow will spread cooler coastal
-air inland with the afternoon sea breeze. The spread between the
-10th and 90th percentile of the NBM guidance in the Inland Empire
-for Monday is about 8 degrees which would be a difference of
-highs in the low 90s (10th percentile solution) or reaching 100
-(90th percentile solution) at the hottest locations.
+deserts. This will result in moderate to major HeatRisk in the
+low desert, with minor to moderate HeatRisk in the valleys and
+High Desert primarily on Monday. The risk is somewhat less on
+Sunday and Tuesday. There is more confidence in the temperature
+forecast for the mountains and deserts while the effects of the
+marine layer and onshore flow make the temperature forecast less
+certain west of the mtns as the models have less skill in
+resolving the marine layer effects.
 
-By Tuesday, most of the ensemble guidance indicates the ridge aloft
-will weaken, which will bring a few degrees of cooling to areas west
-of the mountains. For the deserts, there is less confidence in a
-substantial cooling on Tuesday. NBM spread in 10th and 90th
-percentile in temperatures is 8 to 10 degrees which is a difference
-between highs in the upper 90s/low 100s (10th percentile) and
-105 degrees or warmer (90th percentile). The upper level pattern
-becomes more uncertain for next Wednesday and Thursday, with some
-solutions maintaining weak ridging and others showing weak
-troughing. Current forecast has gradual cooling from Tuesday
-through next Thursday. Dry conditions will prevail through the
-forecast period.
+For Tuesday through the end of next week, model solutions diverge
+significantly even with respect to the synoptic pattern, however
+most of the ensemble members as well as the deterministic models
+show the upper level high pressure ridge weakening and shifting
+east in response to a trough of low pressure approaching from the
+northwest. We can reasonably expect a gradual cooling trend for
+nest Tuesday through Friday, although temperatures will likely
+remain several degrees above seasonal averages for the mountains
+and deserts. Falling heights and a deepening marine layer will
+allow the onshore flow to spread low clouds farther inland during
+the nights and mornings keeping daytime temperatures near or a
+little above seasonal averages. Even with a low pressure trough
+moving in for the second half of next week, we expect conditions to
+remain dry.
+
 
 &&
 
 .AVIATION...
-080430Z...Coast/Valleys...Low clouds based 1000-1400 ft MSL will
-move to about 20 miles inland overnight. There is a 40% chance for
-cigs to reach KONT 13-16Z. Cigs and vis could lower slightly
-overnight to 800-1300 ft MSL and 4-6 SM respectively. Clouds clear
-offshore 15-1730Z Friday morning but will linger along beaches and
-just offshore through the afternoon, then return after Sat 02Z at
-700-1200 ft MSL.
+080945Z...Coast/Valleys...Low clouds based 1000-1500 ft MSL are
+slowly moving into parts of the Inland Empire, otherwise covering
+the rest of the coastal basin. Generally VFR vis with the exception
+of elevated interior valleys 0-4SM. Cigs and vis could lower before
+sunrise for lower valleys and coast to 800-1300 ft MSL and 4-6 SM
+(from BR/HZ) respectively. Clouds clear offshore 15-1730Z this
+morning but will linger along beaches and just offshore through the
+afternoon, then return after Sat 02Z at 700-1200 ft MSL. Bases may
+oscillate a few hundred feet up and down throughout the evening
+and night. VIS reductions 0-5SM begin to develop for inland
+valleys east of I-15 after 05z Sat.
 
 Mountains/Deserts...Mostly clear with VFR through the period. Breezy
-westerly winds with gusts 25-35 kts through mountain gaps into
-deserts will gradually weaken early Friday morning, then briefly re-
-strenghten late Friday afternoon through the early evening.
+westerly winds with gusts 25-35 kts through mountain gaps and
+deserts slopes will weaken slightly this morning, then re-strenghten
+to 25-40 kts (locally 50 kts) through the gaps, desert slopes and
+locally in the lower desert valleys late this afternoon through the
+late evening.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -438,8 +450,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE...CSP
+PUBLIC...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
