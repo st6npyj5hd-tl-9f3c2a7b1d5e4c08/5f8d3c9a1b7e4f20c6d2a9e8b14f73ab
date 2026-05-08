@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-07T19:44:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-08T03:20:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-552
-FXUS66 KSGX 071909
+043
+FXUS66 KSGX 080006
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1209 PM PDT Thu May 7 2026
+506 PM PDT Thu May 7 2026
 
 .SYNOPSIS...
 Above average temperatures will prevail through the remainder of the
@@ -360,6 +358,8 @@ average. Dry conditions will prevail through the forecast period.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated aviation discussion for 00Z TAFs...
 
 Highs today are expected to be a few degrees warmer than yesterday
 along the coast and 7 to 13 degrees warmer than yesterday for inland
@@ -407,31 +407,23 @@ forecast period.
 &&
 
 .AVIATION...
-071745Z...Coast...Low clouds are just about cleared from the entire
-coastline and should hang just offshore today. More widespread and
-cohesive low clouds 800-1300ft MSL will move ashore after 02Z and
-locally inland overnight. There`s a 20% chance of reaching KONT by
-13Z Friday. Vis reduced 2-4SM for coastal terrain and in valleys,
-with 4-6SM for coastal areas. Chance of IFR CIGs at KSAN after 06Z
-around 50%, chance of MVFR > 85%. Clearing will occur between 15-17Z
-Friday.
+080000Z...Coast/Valleys...Low clouds based 1200-1600 ft MSL have
+formed along the immediate coast in SD/south Orange counties. These
+may fluctuate back and forward this afternoon before moving more
+fully inland after 0Z, moving to about 20 miles inland overnight.
+There is a 20% chance for cigs to reach KONT after 10Z. Cigs and vis
+could lower slightly overnight to 800-1300 ft MSL and 4-6 SM
+respectively. Clouds clear offshore 15-1730Z Friday morning but will
+linger along beaches and just offshore through the afternoon.
 
-Valleys/Mountains/Deserts...Mostly clear and VFR with only FEW
-clouds around 10,000ft MSL over mountains 18-00Z today. Strong
-westerly winds with gusts 25-35 kts develop after 23Z through
-mountain gaps into deserts, continuing into early Friday.
+Mountains/Deserts...Mostly clear with VFR through the period. Breezy
+westerly winds with gusts 25-35 kts through mountain gaps into
+deserts will gradually weaken early Friday morning.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -447,7 +439,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...CSP
 
 
 </pre>
