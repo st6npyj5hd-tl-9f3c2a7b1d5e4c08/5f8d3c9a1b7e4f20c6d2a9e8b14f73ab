@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T07:59:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T13:21:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -335,25 +335,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-982
-FXUS66 KSGX 090438
+650
+FXUS66 KSGX 090906
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-938 PM PDT Fri May 8 2026
+206 AM PDT Sat May 9 2026
 
 .SYNOPSIS...
-A warming trend with a thinning marine layer will take hold
-through next Monday. Low clouds will stick closer to the coast and
-adjacent valleys through this period with temperatures peaking on
-Monday around 10 to 20 degrees above normal as the center of a
-ridge of high pressure moves over the region. A cooling trend with
-a deepening marine layer takes hold by the middle of next week as
-an area of low pressure nears the West Coast.
+A warming trend will continue through through Monday, with a
+shallower marine layer. Night and morning low clouds will be
+restricted to the coast areas and adjacent valleys through this
+period. Temperatures will peak on Monday around 10 to 20 degrees
+above normal for inland areas as the center of a ridge of high
+pressure moves over the region. A cooling trend with a deepening
+marine layer will return by the middle of next week as an area of
+low pressure approaches the West Coast.
 
 &&
 
@@ -361,64 +364,75 @@ an area of low pressure nears the West Coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation discussion for 06Z TAFs...
+This morning...The marine layer is about as deep as it was
+yesterday morning but the low clouds don`t extend quite as far
+inland. The Inland Empire remains clear with little evidence of a
+coastal eddy to push low clouds into it from the south. High-
+resolution models still show some low clouds getting into the IE
+by sunrise, although not as much as yesterday morning.
 
-.PREVIOUS DISCUSSION...A ridge of high pressure is maintaining
-its position to our southwest, while a broad trough hangs over the
-Northern Pacific. The ridge will win out this time and strengthen
-over the region over the next few days. Subtle warming takes
-place in the deserts first on Saturday by a couple degrees.
-Further warming takes place on Sunday and Monday across all
-regions as the ridge of high pressure peaks in strength. This will
-bring inland regions 15 to 20 degrees above normal. Moderate heat
-risk is expected for the Inland Empire and high desert as high
-temperatures rise into the mid to upper 90s, with some spots near
-San Bernardino and Hemet reaching 100 degrees. Moderate to high
-heat risk is expected for those without adequate cooling or
-susceptible to the heat across the lower deserts, where an Extreme
-Heat Warning is now in effect. High temperatures will range from
-around 105 to near 110 in some spots, highest temperatures on
-Monday. Please take breaks and drink plenty of fluids if you are
-working outdoors.
+The ridge of high pressure is well established over the west coast
+and temperatures today will likely be a little higher than yesterday,
+especially inland away from the marine layer influence. The upper
+level high will be at its strongest on Monday which will likely be
+the warmest day. The marine layer will be at its shallowest with
+low clouds and fog restricted to the coastal areas and maybe a few
+miles inland. This will result in high temperatures 10 to 20
+degrees above average for the inland valleys, mountains and
+deserts. High temperatures in the low deserts could reach 110
+degrees with overnight low temperatures in the mid 70s. This will
+result in high HeatRisk for the low deserts on Sunday and Monday.
+High temperatures could reach 100 degrees in portions of the IE
+with overnight lows in the low 60s resulting in low to moderate
+HeatRisk for those areas.
 
-With the strengthening ridge, the marine layer will become more
-suppressed each day. Low clouds that filled much of the coastal
-basin this morning will be more confined to the coast and valleys
-of San Diego and Orange Counties by Saturday and Sunday mornings.
-This will bring a greater chance of fog for these areas,
-especially Sunday into Monday.
-
-Models are in good agreement of the high pushing eastward as an
-area of low pressure moves closer to the West Coast. This will
-bring greater onshore flow and cooling to the region. Model
-guidance does diverge on exactly where this area of low pressure
-goes. The closer this moves to the region will depend on how much
-we cool off next week. NBM shows temperatures near to slightly
-above average for the middle and end of next week with highs in
-the 70s and 80s for the mountains to the coast. Confidence is high
-that marine layer will build with more low cloud coverage each
-morning with continued dry weather.
+Numerical models are in good agreement through Tuesday with
+respect to the general large-scale pattern but diverge
+significantly for Wed into next weekend. The spread in model
+solutions makes the forecast details uncertain for this period.
+The models do show the upper ridge beginning to weaken and shift
+eastward on Tuesday as a low pressure system approaches from the
+northwest. In spite of the uncertainty, we can say with reasonable
+confidence that a cooling trend will begin on Tuesday - most
+noticeable west of the mountains as onshore flow strengthens and
+the marine layer deepens. Although temperatures will trend lower,
+they will remain near or several degrees above average, and even
+with the low pressure trough moving inland over CA late next week,
+conditions will remain dry for SoCal.
 
 &&
 
 .AVIATION...
-090400Z...Coast...Low clouds 800-1200 ft MSL will continue to move
-into coastal regions to about 20 miles inland by 12Z. Vis reduced 3-
-5SM along higher coastal terrain inland. Scatter out Saturday 16-
-18Z. Slightly lower clouds 600-1100 ft MSL will develop offshore Sat
-afternoon and move back into coastal areas similar times to today
-after 02Z Sun.
+090900Z...Coast/Valleys...Low clouds 800-1200 ft MSL are covering
+the lowlands of Orange County and up to the foothills of SD
+County, beginning to reach into the Inland Empire. Vis reduced
+0-5SM through eastern elevated inland valleys and increasingly
+through the Inland Empire (from BR/HZ). By 14z, IFR cig chances
+around 60% for KONT and 50% for KSBD. Scatter out this morning
+16-19Z. Slightly lower clouds 600-1100 ft MSL will develop
+offshore Sat afternoon and move back into coastal areas after 02Z
+Sun, developing inland 04-08z Sun. With cigs, VIS 4-6SM at times
+for elevated coastal sites and inland valleys through the I-15
+corridor (e.g. KCRQ, KSEE...). VIS down to 0-3SM and patchy fog
+through eastern valleys and in parts of the Inland Empire near
+gaps in elevated coastal terrain.
 
-Valleys/Mountains/Deserts...Clear and VFR conditions through
-Saturday evening, except for patchy fog into southern and western
-corners of the Inland Empire 12-15Z Saturday, with a 40% chance for
-cigs at KONT after 11Z. Breezy westerly winds with gusts 25-35 kts
-through mountain gaps and desert slopes 22-06Z.
+Mountains/Deserts...Clear and VFR conditions through early Sunday.
+Breezy westerly winds with gusts 25-40 kts through mountain gaps and
+desert slopes 22-06Z. Northwest gusts generally 20-30 kts Sat
+evening over eastern parts of the Coachella Valley.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -433,8 +447,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE...CSP
+PUBLIC...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
