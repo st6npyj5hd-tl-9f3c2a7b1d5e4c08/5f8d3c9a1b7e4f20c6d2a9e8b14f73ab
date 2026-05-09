@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-08T19:21:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T02:57:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-474
-FXUS66 KSGX 081900
+279
+FXUS66 KSGX 090000
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1200 PM PDT Fri May 8 2026
+500 PM PDT Fri May 8 2026
 
 .SYNOPSIS...
 A warming trend with a thinning marine layer will take hold
@@ -360,6 +360,8 @@ an area of low pressure nears the West Coast.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated aviation discussion for 00Z TAFs...
 
 A ridge of high pressure is maintaining its position to our
 southwest, while a broad trough hangs over the Northern Pacific.
@@ -396,31 +398,26 @@ the 70s and 80s for the mountains to the coast. Confidence is high
 that marine layer will build with more low cloud coverage each
 morning with continued dry weather.
 
+
 &&
 
 .AVIATION...
-081700Z...Coast...Low clouds based 1000-1500 feet MSL will scatter
-out by 18-19Z, but areas of low clouds will persist intermittently
-along the beaches this afternoon. Low clouds to push ashore between
-23-05Z, based at around 800-1200 feet MSL. Vis reduced 3-5SM along
-higher coastal terrain inland. Scatter out Saturday 17-18Z.
+090000Z...Coast...Low clouds 800-1200 ft MSL gathering along the
+immediate coast will move inland this evening, though there may be
+some fluctuating back and forth/intermittent scatter out through
+03Z. Vis reduced 3-5SM along higher coastal terrain inland. Scatter
+out Saturday 16-18Z.
 
 Valleys/Mountains/Deserts...Clear and VFR conditions through
-Saturday morning, except for patchy fog into southern and western
-corners of the Inland Empire 12-15Z Saturday. Breezy westerly winds
-with gusts 25-35 kts through mountain gaps and desert slopes 22-06Z.
+Saturday afternoon, except for patchy fog into southern and western
+corners of the Inland Empire 12-15Z Saturday, with a 40% chance for
+cigs at KONT after 11Z. Breezy westerly winds with gusts 25-35 kts
+through mountain gaps and desert slopes 22-06Z.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -436,7 +433,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...MM
+AVIATION/MARINE...CSP
 
 
 </pre>
