@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T13:21:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T19:05:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-650
-FXUS66 KSGX 090906
+803
+FXUS66 KSGX 091758
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-206 AM PDT Sat May 9 2026
+1058 AM PDT Sat May 9 2026
 
 .SYNOPSIS...
 A warming trend will continue through through Monday, with a
@@ -403,24 +403,23 @@ conditions will remain dry for SoCal.
 &&
 
 .AVIATION...
-090900Z...Coast/Valleys...Low clouds 800-1200 ft MSL are covering
-the lowlands of Orange County and up to the foothills of SD
-County, beginning to reach into the Inland Empire. Vis reduced
-0-5SM through eastern elevated inland valleys and increasingly
-through the Inland Empire (from BR/HZ). By 14z, IFR cig chances
-around 60% for KONT and 50% for KSBD. Scatter out this morning
-16-19Z. Slightly lower clouds 600-1100 ft MSL will develop
-offshore Sat afternoon and move back into coastal areas after 02Z
-Sun, developing inland 04-08z Sun. With cigs, VIS 4-6SM at times
-for elevated coastal sites and inland valleys through the I-15
-corridor (e.g. KCRQ, KSEE...). VIS down to 0-3SM and patchy fog
-through eastern valleys and in parts of the Inland Empire near
-gaps in elevated coastal terrain.
+091800Z...Coast/Valleys...Low marine layer clouds have quickly
+cleared out beyond the beaches this morning, with clear skies and
+VFR conditions expected to prevail through the afternoon. Clouds
+with slightly lower clouds 700-1000 ft MSL will push back ashore by
+02z Sunday, filling through 15-20mi inland by 06z. With the slightly
+lower bases, there`s only a 20% chance CIGs reach KONT between 12-
+15z Sunday morning. With any CIGs, VIS 4-6SM at times for elevated
+coastal sites and inland valleys through the I-15 corridor (e.g.
+KCRQ, KSEE...). VIS down to 0-3SM and patchy fog through eastern
+valleys and in parts of the Inland Empire near gaps in elevated
+coastal terrain. Clouds may lift back above 1000ft MSL after 14-15z
+Sunday before quickly scattering out by 16-17z.
 
 Mountains/Deserts...Clear and VFR conditions through early Sunday.
-Breezy westerly winds with gusts 25-40 kts through mountain gaps and
-desert slopes 22-06Z. Northwest gusts generally 20-30 kts Sat
-evening over eastern parts of the Coachella Valley.
+Breezy westerly winds with gusts 20-35 kts through mountain gaps and
+desert slopes (including eastern portions of the Coachella Valley)
+from 22z this evening, weakening by 06z Sunday.
 
 &&
 
@@ -429,15 +428,11 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning from 10 AM Sunday to 8 PM PDT Monday for
+CA...Heat Advisory from 10 AM to 8 PM PDT Monday for San Bernardino
+     and Riverside County Valleys-The Inland Empire.
+
+     Extreme Heat Warning from 10 AM Sunday to 8 PM PDT Monday for
      Coachella Valley-San Diego County Deserts-San Gorgonio Pass
      near Banning.
 
@@ -448,7 +443,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...Munyan
 
 
 </pre>
