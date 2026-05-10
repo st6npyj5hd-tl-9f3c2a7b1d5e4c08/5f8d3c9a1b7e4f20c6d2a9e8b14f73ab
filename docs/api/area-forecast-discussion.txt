@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-10T03:30:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-10T08:10:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -335,18 +335,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-067
-FXUS66 KSGX 092339
+519
+FXUS66 KSGX 100421
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-439 PM PDT Sat May 9 2026
+921 PM PDT Sat May 9 2026
 
 .SYNOPSIS...
 A warming trend will continue through through Monday, with a
@@ -364,7 +362,7 @@ approaches the West Coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...New Aviation Discussion for 00z TAF Package...
+...New Aviation Discussion for 06z TAF Package...
 
 The marine layer continues to thin as inland extend was a bit less
 this morning than yesterday morning. Low clouds should slowly
@@ -398,21 +396,19 @@ average with continued dry weather expected.
 &&
 
 .AVIATION...
-100000Z...Coast/Valleys...Low clouds 700-1000ft MSL push ashore by
-01-03z, filling through 15-20mi inland by 06z. Only a 20% chance for
-a CIG at KONT between 12-15z Sunday morning. VIS 4-6SM at times for
-elevated coastal sites and inland valleys through the I-15 corridor
-(e.g. KCRQ, KSEE...). VIS down to 0-3SM and patchy fog through
-eastern valleys and in parts of the Inland Empire near gaps in
-elevated coastal terrain. Clouds may lift back above 1000ft MSL
+100415Z...Coast/Valleys...Low clouds based 1000-1500ft MSL have
+begun to move inland, which will fall closer to 700-1000ft MSL
+around 08-10z. Clouds will filter in to 15-20mi inland through
+Sunday morning. Only a 20% chance for a CIG at KONT between 12-15z
+Sun. VIS 4-6SM at times for elevated coastal sites and inland
+valleys through the I-15 corridor. VIS down to 0-3SM and patchy fog
+through eastern valleys and in parts of the Inland Empire near gaps
+in elevated coastal terrain. Clouds may lift back above 1000ft MSL
 after 14-15z Sunday before quickly scattering out by 16-17z. Low
 clouds return again Sunday evening after 01z Mon with bases 600-
 900ft MSL.
 
-Mountains/Deserts...SKC and VFR through Sunday. Breezy westerly
-winds with gusts 20-35 kts through mountain gaps and desert slopes
-(including eastern portions of the Coachella Valley), weakening by
-06z.
+Mountains/Deserts...SKC and VFR through Sunday.
 
 &&
 
@@ -435,7 +431,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...SS
 AVIATION/MARINE...Zuber
 
 
