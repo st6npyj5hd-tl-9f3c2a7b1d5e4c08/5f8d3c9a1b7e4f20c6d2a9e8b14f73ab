@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-09T19:05:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-10T03:30:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,23 +340,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-803
-FXUS66 KSGX 091758
+067
+FXUS66 KSGX 092339
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1058 AM PDT Sat May 9 2026
+439 PM PDT Sat May 9 2026
 
 .SYNOPSIS...
 A warming trend will continue through through Monday, with a
 shallower marine layer. Night and morning low clouds will be
 restricted to the coast areas and adjacent valleys through this
 period. Temperatures will peak on Monday around 10 to 20 degrees
-above normal for inland areas as the center of a ridge of high
-pressure moves over the region. A cooling trend with a deepening
-marine layer will return by the middle of next week as an area of
-low pressure approaches the West Coast.
+above normal for inland areas with areas of moderate to high heat
+risk. A cooling trend with a deepening marine layer will return
+by the middle and end of next week as an area of low pressure
+approaches the West Coast.
 
 &&
 
@@ -364,62 +364,55 @@ low pressure approaches the West Coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This morning...The marine layer is about as deep as it was
-yesterday morning but the low clouds don`t extend quite as far
-inland. The Inland Empire remains clear with little evidence of a
-coastal eddy to push low clouds into it from the south. High-
-resolution models still show some low clouds getting into the IE
-by sunrise, although not as much as yesterday morning.
+...New Aviation Discussion for 00z TAF Package...
 
-The ridge of high pressure is well established over the west coast
-and temperatures today will likely be a little higher than yesterday,
-especially inland away from the marine layer influence. The upper
-level high will be at its strongest on Monday which will likely be
-the warmest day. The marine layer will be at its shallowest with
-low clouds and fog restricted to the coastal areas and maybe a few
-miles inland. This will result in high temperatures 10 to 20
-degrees above average for the inland valleys, mountains and
-deserts. High temperatures in the low deserts could reach 110
-degrees with overnight low temperatures in the mid 70s. This will
-result in high HeatRisk for the low deserts on Sunday and Monday.
-High temperatures could reach 100 degrees in portions of the IE
-with overnight lows in the low 60s resulting in low to moderate
-HeatRisk for those areas.
+The marine layer continues to thin as inland extend was a bit less
+this morning than yesterday morning. Low clouds should slowly
+dissipate after sticking to the Orange County beaches currently.
+High pressure off the coast will begin to build through Monday,
+which will suppress the marine layer even further. This will keep
+low clouds and fog within 10-15 miles of the coast. This system
+will also bring a warming trend to the region through Monday. High
+temperatures will increase a couple degrees again on Sunday with
+greater warming on Monday. By Monday, model guidance is in fair
+agreement with high temperatures reaching 105 to 110 degrees
+across the lower deserts and 95 to 100 degrees across the Inland
+Empire. Heat alerts have been issued for these areas, so please
+take breaks and drink fluids if you are outdoors for long periods.
+Cooler weather will occur at the coast with a mix of clouds and
+sun.
 
-Numerical models are in good agreement through Tuesday with
-respect to the general large-scale pattern but diverge
-significantly for Wed into next weekend. The spread in model
-solutions makes the forecast details uncertain for this period.
-The models do show the upper ridge beginning to weaken and shift
-eastward on Tuesday as a low pressure system approaches from the
-northwest. In spite of the uncertainty, we can say with reasonable
-confidence that a cooling trend will begin on Tuesday - most
-noticeable west of the mountains as onshore flow strengthens and
-the marine layer deepens. Although temperatures will trend lower,
-they will remain near or several degrees above average, and even
-with the low pressure trough moving inland over CA late next week,
-conditions will remain dry for SoCal.
+The area of high pressure will move east as low pressure system
+moves closer to California and Oregon. Models are still struggling
+with the exact path of this system, but confidence is high that
+this will bring a troughing pattern over the area, leading to
+cooler weather. By Tuesday, temperatures will drop about 5 degrees
+across the deserts and coast, up to 10 degrees for inland valleys.
+Inland areas will cool again into Wednesday as the system moves
+close to the region. Mountains and deserts can also expect
+increasing southwest and west winds near 25-45 MPH. There
+continues to be slight model differences by the latter part of
+next week. This will lead to temperatures near to slightly above
+average with continued dry weather expected.
 
 &&
 
 .AVIATION...
-091800Z...Coast/Valleys...Low marine layer clouds have quickly
-cleared out beyond the beaches this morning, with clear skies and
-VFR conditions expected to prevail through the afternoon. Clouds
-with slightly lower clouds 700-1000 ft MSL will push back ashore by
-02z Sunday, filling through 15-20mi inland by 06z. With the slightly
-lower bases, there`s only a 20% chance CIGs reach KONT between 12-
-15z Sunday morning. With any CIGs, VIS 4-6SM at times for elevated
-coastal sites and inland valleys through the I-15 corridor (e.g.
-KCRQ, KSEE...). VIS down to 0-3SM and patchy fog through eastern
-valleys and in parts of the Inland Empire near gaps in elevated
-coastal terrain. Clouds may lift back above 1000ft MSL after 14-15z
-Sunday before quickly scattering out by 16-17z.
+100000Z...Coast/Valleys...Low clouds 700-1000ft MSL push ashore by
+01-03z, filling through 15-20mi inland by 06z. Only a 20% chance for
+a CIG at KONT between 12-15z Sunday morning. VIS 4-6SM at times for
+elevated coastal sites and inland valleys through the I-15 corridor
+(e.g. KCRQ, KSEE...). VIS down to 0-3SM and patchy fog through
+eastern valleys and in parts of the Inland Empire near gaps in
+elevated coastal terrain. Clouds may lift back above 1000ft MSL
+after 14-15z Sunday before quickly scattering out by 16-17z. Low
+clouds return again Sunday evening after 01z Mon with bases 600-
+900ft MSL.
 
-Mountains/Deserts...Clear and VFR conditions through early Sunday.
-Breezy westerly winds with gusts 20-35 kts through mountain gaps and
-desert slopes (including eastern portions of the Coachella Valley)
-from 22z this evening, weakening by 06z Sunday.
+Mountains/Deserts...SKC and VFR through Sunday. Breezy westerly
+winds with gusts 20-35 kts through mountain gaps and desert slopes
+(including eastern portions of the Coachella Valley), weakening by
+06z.
 
 &&
 
@@ -442,8 +435,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Munyan
+PUBLIC...APR
+AVIATION/MARINE...Zuber
 
 
 </pre>
