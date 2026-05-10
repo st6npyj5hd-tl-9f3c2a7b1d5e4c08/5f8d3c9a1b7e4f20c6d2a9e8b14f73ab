@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-10T13:22:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-10T19:06:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,23 +340,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-166
-FXUS66 KSGX 100932
+437
+FXUS66 KSGX 101832
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-232 AM PDT Sun May 10 2026
+1132 AM PDT Sun May 10 2026
 
 .SYNOPSIS...
-A warming trend will continue through through Monday, with a
-shallower marine layer. Night and morning low clouds will be
-restricted to the coastal areas and adjacent valleys through this
-period. Temperatures will peak on Monday around 10 to 20 degrees
-above normal for inland areas, with areas of moderate to high
-heat risk. A cooling trend with a deepening marine layer will
-return for the middle and end of next week as an area of low
-pressure approaches the West Coast.
+Above average temperatures will prevail through much of the forecast
+period. The warmest conditions are expected Monday, with a
+gradual cooling to within a few degrees of normal Tuesday through
+Friday. Night and morning low clouds and fog will be present each
+day along the coast and into portions of the valleys. A gradual
+warming trend is possible next weekend.
 
 &&
 
@@ -364,68 +362,56 @@ pressure approaches the West Coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This morning...The sounding from yesterday afternoon and recent
-pilot reports indicate the marine layer is about 1500-1700 ft
-deep. At this hour, low clouds cover the coastal areas extending
-almost 15 miles inland. Sfc pressure gradients remain onshore and
-high-resolution models show the marine layer low clouds reaching
-into the northwest portions of the Inland Empire with
-significantly less coverage than the last 2 nights. Low clouds are
-expected to clear to the coast by late this morning.
+High temperatures today are expected to be a few degrees warmer than
+yesterday along the coast and up to 10 degrees warmer further
+inland. Warming will continue into Monday with an additional 3 to 7
+degree increase compared to today. This will bring high temperatures
+10 to 20 degrees above average for inland locations Monday and 5 to
+8 degrees above average along the coast. Areas of widespread
+moderate HeatRisk are expected in the Inland Empire and High Desert
+with major HeatRisk in the low deserts through Monday. Make sure to
+stay hydrated and seek shade when possible if working outdoors.
 
-The extensive high pressure ridge continues to strengthen over the
-west coast and today is likely to be generally warmer than
-yesterday. High temperatures today will be within a degree or two
-of normal near the coast while in the inland valleys, mountains
-and deserts temperatures will be 5-15 degrees above normal. Monday
-will likely be the warmest day of the week as the high pressure
-ridge reaches its peak intensity. High temperatures on Monday will
-be up to 9 degrees above average in the coastal areas while in
-the inland valleys, mountains and deserts they will be 10-20
-degrees above average. Overnight low temperatures will also be
-above normal and the low deserts will likely experience high
-HeatRisk today and Monday while the Inland Empire will likely
-experience moderate HeatRisk only on Monday. The marine layer will
-be at its shallowest tonight into Monday morning, restricting the
-low clouds to within a few miles of the coast.
+Temperatures on Tuesday will cool 5 to 12 degrees compared to Monday
+as the ridge aloft weakens and is pushed east by a shortwave trough
+passing from our southwest. The passing shortwave will strengthen
+onshore flow for Tuesday and Wednesday, increasing south to
+southeast winds in the deserts on Tuesday and westerly winds from
+the mountain slopes into the deserts on Wednesday. This passing
+feature is not expected to have moisture associated with it so dry
+conditions will prevail.
 
-Models remain in good agreement through Tuesday with respect to
-the large-scale pattern. Solutions begin to diverge significantly
-after Tuesday introducing more uncertainty into the forecast. We
-can say with reasonable confidence that a cooling trend will begin
-on Tuesday as the upper ridge begins to weaken and shift east in
-response to a low pressure system moving in from the northwest.
-This low pressure will move inland on Thursday with the closed
-upper low over central/northern CA (depending on the model
-solution). Thursday will likely be the coolest day with daytime
-high temperatures mostly within 3 degrees of seasonal averages
-except in the low deserts where temperatures will likely be about
-6 degrees above seasonal averages. Temperatures then trend upward
-next weekend as the low pressure system moves east and a high-
-zonal pattern develops aloft. The marine layer will deepen,
-allowing low clouds to spread farther inland during the nights and
-mornings, moderating temperatures west of the mtns. Conditions are
-likely to remain dry through the forecast period.
+For Wednesday through Friday, most ensemble clusters are showing a
+weak troughing pattern prevailing over the US West Coast. This will
+maintain marine layer low clouds and fog for the coast and valleys
+and take high temperatures back to within a few degrees of normal.
+For next weekend, the majority of ensemble clusters keep the upper
+level pattern weakly troughy to zonal, with only 10 percent of
+solutions showing weak ridging developing by next Sunday. The
+forecast for next weekend follows the NBM which indicates a gradual
+warm up for Saturday and Sunday. There remains low confidence in
+just how warm it will get with the deterministic NBM again
+representing the highest percentiles of most other ensemble
+guidance.
 
 &&
 
 .AVIATION...
-100930Z...Coast/Valleys...Low clouds based 1000-1500ft MSL are
-covering up to the inland valleys, beginning to reach into the
-western Inland Empire after 11z. 30% chance for IFR cigs to reach
-KONT by 12z; 50% chance by 14z. VIS generally over 5SM for coastal
-areas up to the valleys around I-15. VIS 0-4SM (BR/HZ) and patchy
-fog for elevated inland valleys, including western parts of the
-Inland Empire through 16z. Bases lift after 15z and scatter out
-16-18z. Low clouds with bases 700-1200 ft MSL develop at the
-coast 01z Mon and move inland through 06z. VIS reductions and fog
-to occur similarly in eastern interior valleys after 05z Mon with
-a higher chance for vis impacts to reach down into lower valleys
-around the I-15 corridor.
+101800Z...Coast/Valleys...Low clouds from this morning have
+retreated offshore by 18z this morning, with SKC and VFR conditions
+prevailing through this afternoon. Low clouds expected to push back
+ashore after 01z Monday this evening, with higher confidence in
+lower bases than last night. While CIGs along the coast may
+initially be 1000-1500ft MSL, bases should settle to 700-1200ft MSL
+by 06-09z. CIGs fill inland up to 20 miles by 06z as well, though
+lower confidence in reaching KONT (15%) than this morning. VIS
+reductions 4-6 SM in BR for higher coastal terrain, with locally 1-3
+SM for interior valleys. Bases likely lifting back above 1000ft MSL
+by 14-15z, with full scattering back offshore by 16-17z.
 
-
-Mountains/Deserts...SKC and VFR through early Monday. Gusts up to 30
-kts along desert slopes (40 kts Banning Pass) Sunday evening.
+Mountains/Deserts...SKC and VFR through Monday afternoon. Gusts 20
+to 30 kts along desert slopes (up to 40 kts through the Banning
+Pass) Sunday evening.
 
 &&
 
@@ -445,9 +431,8 @@ encouraged to report significant weather conditions.
 CA...Heat Advisory from 10 AM to 8 PM PDT Monday for San Bernardino
      and Riverside County Valleys-The Inland Empire.
 
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Monday
-     for Coachella Valley-San Diego County Deserts-San Gorgonio
-     Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
+     San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -455,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Westerink
+PUBLIC...CO
+AVIATION/MARINE...Munyan
 
 
 </pre>
