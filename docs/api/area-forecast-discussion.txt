@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-11T03:41:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-11T09:42:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,24 +337,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-381
-FXUS66 KSGX 102344
+083
+FXUS66 KSGX 110903
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Sun May 10 2026
+203 AM PDT Mon May 11 2026
 
 .SYNOPSIS...
-Above average temperatures will prevail through much of the forecast
-period. The warmest conditions are expected Monday, with a
-gradual cooling to within a few degrees of normal Tuesday through
-Friday. Night and morning low clouds and fog will be present each
-day along the coast and into portions of the valleys. A gradual
-warming trend is possible next weekend.
+High temperatures for today for the deserts, mountains, and far
+inland valleys will be 15 to 20 degrees above average. For Tuesday
+through Thursday, stronger onshore flow will spread cooling inland
+and deepen the marine layer with Thursday high temperatures for
+the mountains, valleys, and inland Orange County around 5 degrees
+below average. This will be followed by a warming trend for Friday
+through next weekend with inland high temperatures for next
+weekend 5 to 10 degrees above average.
 
 &&
 
@@ -362,69 +366,71 @@ warming trend is possible next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...New Aviation Discussion for 00z TAF Package...
+.SHORT TERM (Today through Wednesday)...
+High pressure will continue the warming today with high
+temperatures for the mountains, deserts, and far inland valleys 15
+to 20 degrees above average. High temperatures for today will
+range from around 70 near the coast to the 90s for the Inland
+Empire with 105 to 110 for the lower deserts. High pressure aloft
+will begin to weaken across southern California on Tuesday with
+low pressure moving inland into California on Wednesday. Cooling
+will spread inland and the marine layer will deepen.
 
-High temperatures today are expected to be a few degrees warmer than
-yesterday along the coast and up to 10 degrees warmer further
-inland. Warming will continue into Monday with an additional 3 to 7
-degree increase compared to today. This will bring high temperatures
-10 to 20 degrees above average for inland locations Monday and 5 to
-8 degrees above average along the coast. Areas of widespread
-moderate HeatRisk are expected in the Inland Empire and High Desert
-with major HeatRisk in the low deserts through Monday. Make sure to
-stay hydrated and seek shade when possible if working outdoors.
+For Wednesday, high temperatures for the deserts will be around 5
+degrees above average with the coast and valleys a few degrees
+below average. High temperatures on Wednesday will range from the
+mid to upper 60s near the coast to the mid 70s to lower 80s for
+the Inland Empire with the lower deserts 95 to 100.
 
-Temperatures on Tuesday will cool 5 to 12 degrees compared to Monday
-as the ridge aloft weakens and is pushed east by a shortwave trough
-passing from our southwest. The passing shortwave will strengthen
-onshore flow for Tuesday and Wednesday, increasing south to
-southeast winds in the deserts on Tuesday and westerly winds from
-the mountain slopes into the deserts on Wednesday. This passing
-feature is not expected to have moisture associated with it so dry
-conditions will prevail.
+Night and morning coastal low clouds will spread inland into
+portions of the western valleys early this morning, into portions
+of the inland valleys for early Tuesday, and across much of the
+valleys for early Wednesday.
 
-For Wednesday through Friday, most ensemble clusters are showing a
-weak troughing pattern prevailing over the US West Coast. This will
-maintain marine layer low clouds and fog for the coast and valleys
-and take high temperatures back to within a few degrees of normal.
-For next weekend, the majority of ensemble clusters keep the upper
-level pattern weakly troughy to zonal, with only 10 percent of
-solutions showing weak ridging developing by next Sunday. The
-forecast for next weekend follows the NBM which indicates a gradual
-warm up for Saturday and Sunday. There remains low confidence in
-just how warm it will get with the deterministic NBM again
-representing the highest percentiles of most other ensemble
-guidance.
+&&
+
+.LONG TERM (Thursday through Sunday)...
+High temperatures for Thursday will cool a few more degrees
+followed by warming for Friday through next weekend. High
+temperatures around 5 degrees below average on Thursday for the
+mountains, valleys, and inland Orange County will warm to 5 to 10
+degrees above average for inland areas for next weekend. High
+temperatures for next weekend will range from around 70 near the
+coast to the 80s for the Inland Empire with the lower deserts in
+the upper 90s to 103.
 
 &&
 
 .AVIATION...
-110000Z...Coast/Valleys...Satellite shows low clouds hanging along
-the coastline, poised to move up to 10-15 miles inland beginning 01-
-03z. Bases near 1000-1300ft MSL, will slowly fall through the night
-closer to 700-900ft MSL by 09-12z. Lower confidence in clouds
-reaching KONT (20%) compared to this morning, TEMPO in for brief FG.
-VIS reductions 4-6SM in BR for higher coastal terrain, with locally
-1-3SM for interior valleys. Bases likely lifting back above 1000ft
-MSL by 14-15z, with full scattering back offshore by 16-17z.
+110930Z...Coast/Valleys...Low clouds based at around 800-1200 feet
+MSL with tops to 1900 feet will continue to spread into western
+valleys through 14Z. Inland vis locally reduced 1-5SM. Scatter out
+16-18Z. Low clouds with similar bases and vis to move ashore after
+03Z and spread into far western valleys by Tuesday morning.
 
-Mountains/Deserts...SKC and VFR through Monday. Gusts 20 to 30 kts
-along desert slopes (up to 40 kts through the Banning Pass) through
-06z Mon.
+Otherwise...SKC and VFR today and tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM to 8 PM PDT Monday for San Bernardino
-     and Riverside County Valleys-The Inland Empire.
+CA...Heat Advisory from 10 AM this morning to 8 PM PDT this evening
+     for San Bernardino and Riverside County Valleys-The Inland
+     Empire.
 
-     Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
-     San Diego County Deserts-San Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT this evening for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...None.
 
@@ -432,8 +438,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Zuber
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
