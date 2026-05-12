@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-12T14:29:42.451687Z",
+  "generated_at_utc": "2026-05-12T19:55:25.602334Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -19,20 +19,20 @@
       "success": true,
       "http_status": 200,
       "content_type": "text/html; charset=UTF-8",
-      "bytes_written": 27536,
-      "sha256": "0ced7ff5675456e9f5f75b9c84628ce1e504c884c5736ce71fffe788d54470d7",
+      "bytes_written": 28609,
+      "sha256": "6a7ab19e918771511b30273415c652cfe26113d4b8b4b750d43d59f7cdcf3db4",
       "error": null
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "b9d3a7add8ba0bb99f40a1b20ae3ede965f86e302f67c502527be1cce6771bdc",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/xml;charset=UTF-8",
+      "bytes_written": 10729,
+      "sha256": "d8f781e1520a3bc6e24a4af2aa207df9f515a97896ac6f649dad03d9cc68a115",
+      "error": null
     },
     {
       "logical_name": "hourly-forecast-dwml",
@@ -41,8 +41,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "application/xml",
-      "bytes_written": 58767,
-      "sha256": "8266458eef4a484e034f401d6a6e6e745cd3f83507530963ad796b9cdab3ce94",
+      "bytes_written": 58790,
+      "sha256": "cf72a70881be8d0f2cef2280ee8a7c7ac5510786b0ebd9f0990a8b5c3e44c840",
       "error": null
     }
   ]
