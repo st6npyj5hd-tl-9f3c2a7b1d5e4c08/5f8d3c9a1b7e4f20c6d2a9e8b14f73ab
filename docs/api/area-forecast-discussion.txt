@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-12T08:42:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-12T14:29:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,20 +338,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-357
-FXUS66 KSGX 120403
+683
+FXUS66 KSGX 121250
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-903 PM PDT Mon May 11 2026
+550 AM PDT Tue May 12 2026
 
 .SYNOPSIS...
-Today was the hottest day of the week so far but a cooling trend
-is expected for Tuesday through Thursday. Night and morning low
-clouds and fog will be present each day through the forecast
-period along the coast and into portions of the valleys. A gradual
-warming expected for the end of the week.
+Through Wednesday, a weak low pressure system moving into southern
+California will deepen the marine layer to around 3000 feet with
+night and morning coastal low clouds spreading farther into the
+valleys and with slower afternoon clearing for San Diego County
+coastal areas. It will be slightly warmer for Thursday and Friday
+with the marine layer decreasing in depth, then slightly cooler
+for the weekend.
 
 &&
 
@@ -359,63 +361,65 @@ warming expected for the end of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Today was the warmest day of the week so far with a couple of
-locations in San Diego County setting records (see the RERSGX
-product). Many locations in the inland valleys reached temperatures
-in the upper 90s, and in the low deserts, temperatures reached as
-high as 111 degrees at Indio. This evening, the marine layer is a
-little lower than last night but onshore flow has already pushed
-low clouds a few miles inland in coastal San Diego County.
+.SHORT TERM (Today through Thursday)...
+A weak low pressure system will move toward the southern
+California coast today and move inland through southern California
+on Wednesday. The marine layer became shallower on Monday,
+decreasing in depth to around 1500 feet. Satellite imagery after
+midnight shows widespread low clouds over the coastal waters
+spreading into the western half of the valleys in San Diego County
+and spreading northward and inland across the Orange County
+coastal plain. The marine layer is expected to be begin deepening
+before sunrise with deepening to around 3000 feet for late tonight
+into Wednesday morning. The coastal low clouds are expected to
+spread into portions of the inland valleys early this morning,
+then inland across most of the coast and valleys for tonight into
+Wednesday morning.
 
-From previous discussion...
-High temperatures Tuesday for inland locations will fall 6 to 12
-degrees from their peak today as a shortwave trough weakens and
-pushes the upper level ridge to our east.
-
-Guidance is in good agreement that a weak troughing pattern will
-prevail over the US West Coast Tuesday through Thursday. This will
-maintain marine layer low clouds and fog for the coast and valleys
-and take high temperatures back to within a few degrees of normal.
-For Friday and Saturday, the majority of ensemble clusters keep the
-upper level pattern high-zonal, which will bring a few degrees of
-warming to the area. Highs are forecast to be 5 to 10 degrees
-above average.
-
-By Sunday most ensemble clusters indicate the return of weak
-troughing which has the potential to cool conditions a few degrees.
-There still remains some uncertainty in the temperature forecast for
-early next week. The current forecast follows the deterministic NBM
-which continues to be more in line with the warmer end of most
-other ensemble guidance.
+High temperatures for today will cool as much as 15 to 20 degrees
+for portions of the inland valleys and as much as another 8 to 12
+degrees on Wednesday for the mountains and high desert. High
+temperatures on Wednesday will be a few to around 5 degrees below
+average for the coast and valleys and around 5 degrees above
+average for the lower deserts. High temperatures on Wednesday will
+range from the mid to upper 60s near the coast to the mid 70s to
+lower 80s for the Inland Empire with the lower deserts in the
+upper 90s to 103. High temperatures on Thursday will be a few
+degrees warmer with the marine layer beginning to decrease in
+depth.
 
 &&
 
-.AVIATION...
-120400Z...Coast/Valleys...Low clouds based 700-1200 ft are pushing
-inland, eventually covering all of the Orange County lowlands and
-reaching to the inland valleys of SD Co. by 08z. VIS reduced to 0-
-3SM for inland valleys with patchy fog and 3-6SM with BR for
-elevated coastal areas (200-600 ft MSL elevation). There is moderate
-confidence that bases will rise above 1000 ft MSL at some point
-early Tuesday morning, starting sometime between 09-14z. Around a
-70% chance cigs reach into the Inland Empire, 11-16z, bringing
-patchy IFR cigs/vis. Bases continue to lift (and VIS improves)
-throughout the morning to 1500-2500 ft MSL but are only likely to
-scatter out inland 18-21z. Within 10 miles of the coast, cigs are
-expected to remain patchy through the afternoon. Cigs based 1500-
-2500 ft MSL develop quickly after 01z Wed, reaching 20 miles inland
-by around 04z Wed. There is good confidence for VIS reductions below
-3SM and fog along foothill slopes, otherwise, lower confidence for
-VIS reductions below 3SM for eastern inland valleys and Inland
-Empire valleys.
+.LONG TERM (Friday through Monday)...
+High temperatures for the mountains and deserts will warm another
+few degrees on Friday. High temperatures on Friday will be as much
+as 10 degrees above average for the deserts, reaching 102 to 106
+for the lower deserts. High temperatures for inland areas will
+cool a few degrees on Saturday and another few degrees on Sunday
+with Sunday high temperatures a few to around 5 degrees above
+average for most areas. High temperatures on Sunday will range
+from around 70 near the coast to the upper 70s to mid 80s for the
+Inland Empire with the lower deserts in the mid 90s to around 100.
+High temperatures on Monday will warm a few to around 5 degrees.
 
+&&
 
-Otherwise...SKC and VFR through Tuesday evening.
+120930Z...Coast/Valleys...Low clouds based 600-900 feet MSL and tops
+to 1600 feet will continue over coastal areas and spread locally
+into inland valleys this morning. Vis reduced 0-5SM mainly along
+higher coastal and valley terrain. Scatter out not really expected
+near the coast, but 17-20Z inland. Where cigs persist, they will
+lift during the day to 1500-2500 feet MSL. These lifted low clouds
+will spread inland after 01Z, and rapidly fill the entire coastal
+basin to the foothills overnight into Wednesday. Vis reduced 0-5SM
+over higher valley terrain and foothills and in patchy -DZ.
+
+Otherwise...SCT high clouds and VFR conditions today and tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday .
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
@@ -433,8 +437,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO/PG
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
