@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-11T19:50:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-12T03:28:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-329
-FXUS66 KSGX 111831
+806
+FXUS66 KSGX 120028
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1131 AM PDT Mon May 11 2026
+528 PM PDT Mon May 11 2026
 
 .SYNOPSIS...
 Heat will peak today with a cooling trend for Tuesday through
@@ -386,24 +386,28 @@ other ensemble guidance.
 &&
 
 .AVIATION...
-111800Z...Coast/Valleys...Low clouds based around 1000 ft MSL are
-lurking just offshore. Mostly VFR conditions expected through the
-afternoon, though cannot rule out occasional BKN cigs at coastal TAF
-sites. Clouds begin to move back inland around 00-02z and should
-push 15-20 miles inland overnight. 40-50% chance for low clouds to
-reach into the western Inland Empire (including KONT). Bases should
-lower some overnight creating minor vis reductions (1-5SM) for
-elevated coastal terrain and inland valleys. Clouds will be slow to
-clear out Tuesday morning, though bases will rise back above 1000 ft
-MSL. Coastal areas may remain under BKN cigs through the afternoon.
+120000Z...Coast/Valleys...Low clouds based around 1000 ft MSL are
+developing within a mile or two from the the San Diego County coast.
+Cigs move inland through 08z, lowering to 700-1000 ft, reaching up
+to the inland valleys a few miles east of the I-15 corridor in SD
+county and throughout the coastal plain of Orange County. VIS
+reduced to 0-3SM for inland valleys with patchy fog and 3-6SM with
+BR for elevated coastal areas (200-600 ft MSL elevation). There is
+moderate confidence that bases will rise above 1000 ft MSL at some
+point early Tuesday morning, starting sometime between 09-14z.
+Around a 70% chance cigs reach into the Inland Empire, 11-16z,
+bringing patchy IFR cigs/vis. Bases continue to lift (and VIS
+improves) throughout the morning to 1500-2500 ft MSL but are only
+likely to scatter out inland 18-21z. Within 10 miles of the coast,
+cigs are expected to remain patchy through the afternoon.
 
-Otherwise...SKC and VFR through Tuesday morning.
+
+Otherwise...SKC and VFR through Tuesday afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday
-morning.
+No hazardous marine conditions are expected through Saturday .
 
 &&
 
@@ -429,7 +433,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
