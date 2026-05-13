@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T08:46:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T14:38:29+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,22 +336,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-239
-FXUS66 KSGX 130438
+598
+FXUS66 KSGX 131054
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-938 PM PDT Tue May 12 2026
+354 AM PDT Wed May 13 2026
 
 .SYNOPSIS...
-Through Wednesday, a weak low pressure system moving into southern
-California will deepen the marine layer to around 3000 feet with
-night and morning coastal low clouds spreading farther into the
-valleys and with slower afternoon clearing for San Diego County
-coastal areas. It will be slightly warmer for Thursday and Friday
-with the marine layer decreasing in depth, then slightly cooler
-for the weekend.
+The mountains and deserts will continue to cool today while the
+valleys begin to warm. Slight warming for Thursday and Friday
+followed by greater inland cooling for the weekend. Then warmer
+early next week with high temperatures for Tuesday of next week 5
+to 10 degrees above average for inland areas. Low clouds will
+cover much of the coastal waters and the coast and valleys this
+morning, then not spread as far into the valleys for Thursday and
+Friday.
 
 &&
 
@@ -359,82 +360,63 @@ for the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-A weak upper low just offshore is contributing to strengthening
-onshore flow and cooler temperatures today. South to southeast
-winds will turn out of the west this evening with gusts 25-45 mph
-for the deserts and desert slopes of the mountains both today and
-Wednesday afternoon/evening. On the west side of the mountains,
-visible satellite indicates that marine layer clouds have held
-strong over San Diego and Orange Counties through this morning.
-Additionally, temperatures through the coastal basin are 15 to 25
-degrees cooler than yesterday at this time. All signs indicate
-that our first true "May Gray" day is upon us with coastal areas
-expected to stay cloudy through the afternoon. Low clouds will
-fill most if not all of the coastal basin tonight with areas of
-drizzle expected, especially near the coastline in the early
-morning. This will locally create minor visibility reductions. As
-the low pressure moves overhead on Wednesday, a weakened inversion
-and weaker onshore flow should allow for a mostly sunny afternoon.
+.SHORT TERM (Wednesday through Friday)...
+The marine layer has deepened to around 3000 feet with widespread
+low clouds over the coastal water extending inland across most of
+the coast and valleys. Cloud bases near the coast have increased
+enough that the more likely location for any patchy drizzle this
+morning should be in portions of the valleys. The marine layer is
+expected to become gradually shallower for Thursday and Friday
+with low clouds spreading into portions of the inland valleys for
+early Thursday and into the western valleys for early Friday.
 
-Despite the cooling trend, temperatures will still reach the low
-100s today across the low deserts. Even Wednesday, which is
-expected to be the coolest day, will be around 5-8 degrees above
-normal in the deserts with temperatures nearing 100 again in the
-Coachella Valley. Meanwhile, temperatures will remain near to
-slightly below average in the coastal basin through Wednesday.
-Starting Thursday, a weak upper ridge will attempt to nudge into
-the region. This will bump temperatures up by a few degrees for
-all areas and decrease the depth of the marine layer for both
-Thursday and Friday. Thus, temperatures in the low deserts are
-expected to reach back into the low 100s Thursday through
-Saturday.
+High temperatures for the mountains and deserts will cool today
+while the valleys may begin to warm. This will be followed by
+inland warming for Thursday and Friday. High temperatures on
+Friday will range from around average near the coast to 5 to 10
+degrees average for the deserts. High temperatures on Friday will
+range from the mid to upper 60s near the coast to the upper 70s
+to upper 80s for Inland Empire with the upper 90s to 104 for the
+lower deserts.
 
-Model guidance begins to diverge slightly over the weekend, but
-the general consensus is that an upper low pressure system will
-pass to the north sometime late Saturday into early Sunday. This
-will herald increased onshore flow and a cooling trend resulting
-in near average temperatures for all areas by Sunday. A minority
-of model solutions produce a few hundredths of an inch of QPF for
-coastal areas Sunday into early Monday. However, this likely
-reflects the potential for marine layer drizzle and nothing more.
-Beyond this weekend, guidance leans toward a warming trend and
-slightly above normal temperatures through mid next week.
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+Stronger onshore flow for the weekend will spread cooling inland.
+The greater cooling is expected on Sunday with high temperatures
+around 5 degrees cooler for the deserts, mountains, and inland
+valleys. There will be warming for early next week with high
+temperatures for inland areas around 5 to 10 degrees above
+average on Tuesday, around 100 for the lower deserts.
 
 &&
 
 .AVIATION...
-130430Z...Coast/Valleys...Patchy low clouds with bases mostly 2000-
-3000 ft MSL have partially cleared out of SD County. Cloud coverage
-will gradually fill back into SD county and the Inland Empire.
-Moderate confidence of full cig coverage by 09z, high confidence of
-full coverage by 12z. Cloud bases drop slightly throughout the night
-to 1500-2500 ft MSL as cloud tops increase mostly above 4000 ft MSL,
-yielding to coastal -DZ most likely 10-15z Wed. Patchy vis
-reductions 2-6SM for elevated inland valleys (above 1000 ft MSL) and
-0-3SM throughout foothills. Bases lift quickly above 2000 ft most
-likely by 15z. Scatter out 17-19z inland with patchy BKN clouds
-lingering through the afternoon within 20 miles of the coast. Most
-bases rise to above 3000 ft by 18z where clouds remain. Clouds
-with similar bases (1500-2500 ft MSL) start to develop again after
-00z Thu, primarily over SD County, expanding from south to north.
-About a 65% cig coverage over SD County by 04z, reaching to the
-foothills.
+130930Z...Coast/Valleys...Low clouds with bases 1600-3000 feet
+and tops to 4000 feet MSL will continue to fill the coastal basin
+this morning. Vis reduced in hills and in coastal -DZ through 17Z.
+Scatter out 16-19Z, but incomplete or intermittent clearing along
+the coast. Low clouds to push ashore and inland after 01Z vcnty
+KSAN and after 07Z vcnty KSNA. They should fill the coastal basin
+again by early Thursday with bases 1000-1800 feet MSL.
 
-Mountains/Deserts...SCT high clouds and VFR conditions into Wed.
-West winds with gusts 25-35 kt (locally to 40 kts) weaken slightly
-Wednesday morning, then strengthen again after 20z Wed afternoon.
+Mountains/Deserts...Clearing skies this morning, but SCT clouds
+around 10000 feet MSL over mountains 18-00Z. Westerly wind gusts 25-
+40 kt after 20Z, strongest through mountain gaps. These could lead
+to MOD up/downdrafts and local LLWS in lee of mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Saturday
+morning. Increasing winds and seas could become hazardous for
+small craft Saturday afternoon through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -446,8 +428,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
