@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T03:36:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T08:46:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-232
-FXUS66 KSGX 130026
+239
+FXUS66 KSGX 130438
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-526 PM PDT Tue May 12 2026
+938 PM PDT Tue May 12 2026
 
 .SYNOPSIS...
 Through Wednesday, a weak low pressure system moving into southern
@@ -405,17 +403,22 @@ slightly above normal temperatures through mid next week.
 &&
 
 .AVIATION...
-130000Z...Coast/Valleys...BKN-OVC low clouds with bases mostly 2000-
-3000 ft MSL are covering most of Orange and San Diego Counties up to
-the foothills. Cloud coverage expands through the Inland Empire
-through 08z. Cloud bases drop slightly to 1500-2500 ft MSL as cloud
-tops increase mostly above 4000 ft MSL, yielding to coastal -DZ most
-likely 10-15z Wed. Patchy vis reductions 2-6SM for elevated inland
-valleys (above 1000 ft MSL) and 0-3SM throughout foothills. Bases
-lift quickly above 2000 ft most likely by 15z. Scatter out 17-19z
-inland with patchy BKN clouds lingering through the afternoon within
-20 miles of the coast. Overall better clearing than today. Most
-bases rise to above 3000 ft by 18z where clouds remain.
+130430Z...Coast/Valleys...Patchy low clouds with bases mostly 2000-
+3000 ft MSL have partially cleared out of SD County. Cloud coverage
+will gradually fill back into SD county and the Inland Empire.
+Moderate confidence of full cig coverage by 09z, high confidence of
+full coverage by 12z. Cloud bases drop slightly throughout the night
+to 1500-2500 ft MSL as cloud tops increase mostly above 4000 ft MSL,
+yielding to coastal -DZ most likely 10-15z Wed. Patchy vis
+reductions 2-6SM for elevated inland valleys (above 1000 ft MSL) and
+0-3SM throughout foothills. Bases lift quickly above 2000 ft most
+likely by 15z. Scatter out 17-19z inland with patchy BKN clouds
+lingering through the afternoon within 20 miles of the coast. Most
+bases rise to above 3000 ft by 18z where clouds remain. Clouds
+with similar bases (1500-2500 ft MSL) start to develop again after
+00z Thu, primarily over SD County, expanding from south to north.
+About a 65% cig coverage over SD County by 04z, reaching to the
+foothills.
 
 Mountains/Deserts...SCT high clouds and VFR conditions into Wed.
 West winds with gusts 25-35 kt (locally to 40 kts) weaken slightly
