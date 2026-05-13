@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T14:38:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T19:57:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,23 +336,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-598
-FXUS66 KSGX 131054
+386
+FXUS66 KSGX 131825
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-354 AM PDT Wed May 13 2026
+1125 AM PDT Wed May 13 2026
 
 .SYNOPSIS...
-The mountains and deserts will continue to cool today while the
-valleys begin to warm. Slight warming for Thursday and Friday
-followed by greater inland cooling for the weekend. Then warmer
-early next week with high temperatures for Tuesday of next week 5
-to 10 degrees above average for inland areas. Low clouds will
-cover much of the coastal waters and the coast and valleys this
-morning, then not spread as far into the valleys for Thursday and
-Friday.
+Brief warming trend expected through Friday, with cooler
+conditions over the weekend, and potential for additional warming
+early next week. Night and morning low clouds and fog will be
+present each day through the forecast period along the coast and
+into portions of the valleys.
 
 &&
 
@@ -360,63 +357,65 @@ Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Wednesday through Friday)...
-The marine layer has deepened to around 3000 feet with widespread
-low clouds over the coastal water extending inland across most of
-the coast and valleys. Cloud bases near the coast have increased
-enough that the more likely location for any patchy drizzle this
-morning should be in portions of the valleys. The marine layer is
-expected to become gradually shallower for Thursday and Friday
-with low clouds spreading into portions of the inland valleys for
-early Thursday and into the western valleys for early Friday.
+Visible satellite at 11 AM was showing low clouds clearing from the
+valleys to the coast. Low clouds may linger along the immediate
+coast into the late afternoon. The marine layer will gradually
+become shallower for Thursday and Friday, with overnight low clouds
+not reaching as far inland. Low clouds should clear most locations
+by late morning, with the coast having the highest potential for low
+clouds lingering into the afternoon. The marine layer will become
+deeper for Friday into the weekend as a broad trough of low pressure
+digs into the Pacific Northwest.
 
-High temperatures for the mountains and deserts will cool today
-while the valleys may begin to warm. This will be followed by
-inland warming for Thursday and Friday. High temperatures on
-Friday will range from around average near the coast to 5 to 10
-degrees average for the deserts. High temperatures on Friday will
-range from the mid to upper 60s near the coast to the upper 70s
-to upper 80s for Inland Empire with the upper 90s to 104 for the
-lower deserts.
+High temperatures will warm a few degrees each day through Friday,
+most noticeable to for the deserts. Highs in the deserts will be 5
+to 10 degrees above average, with highs west of the mountains within
+5 degrees of average. As the aforementioned low digs south, winds
+will increase over the mountains and deserts. Winds will peak in
+strength Saturday into Sunday with the trough passage. Additionally
+temperatures will fall a few degrees, becoming slightly below normal
+for most locations.
 
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-Stronger onshore flow for the weekend will spread cooling inland.
-The greater cooling is expected on Sunday with high temperatures
-around 5 degrees cooler for the deserts, mountains, and inland
-valleys. There will be warming for early next week with high
-temperatures for inland areas around 5 to 10 degrees above
-average on Tuesday, around 100 for the lower deserts.
+Temperatures are expected to warm for early to mid-next week. Most
+ensemble clusters indicate a ridge of high pressure in the vicinity
+of the US West Coast with variations in placement. A more easterly
+position (putting the ridge over California) would lead to a warmer
+solution with a more westerly position (keeping the ridge over the
+Eastern Pacific) would keep temperatures more moderate.
 
 &&
 
 .AVIATION...
-130930Z...Coast/Valleys...Low clouds with bases 1600-3000 feet
-and tops to 4000 feet MSL will continue to fill the coastal basin
-this morning. Vis reduced in hills and in coastal -DZ through 17Z.
-Scatter out 16-19Z, but incomplete or intermittent clearing along
-the coast. Low clouds to push ashore and inland after 01Z vcnty
-KSAN and after 07Z vcnty KSNA. They should fill the coastal basin
-again by early Thursday with bases 1000-1800 feet MSL.
+131800Z...Coast/Valleys...Low clouds have risen
+mostly above 3000 ft MSL this morning. Clouds are currently clearing
+toward the coast, but some patches may stick to the coastline
+through the afternoon. Bases will begin to lower again this evening
+and push ashore and inland after 01z vcnty KSAN and after 08z vcnty
+KSNA. Bases should hover around 1500-2000 ft MSL overnight with
+clouds filling most of the coastal basin by 12z, though parts of the
+Inland Empire may struggle to fill in. 60% chance for BKN cigs for
+KONT and KSBD. Clouds scatter to the coast 16-18z Thu.
 
-Mountains/Deserts...Clearing skies this morning, but SCT clouds
-around 10000 feet MSL over mountains 18-00Z. Westerly wind gusts 25-
-40 kt after 20Z, strongest through mountain gaps. These could lead
-to MOD up/downdrafts and local LLWS in lee of mountains.
+Mountains/Deserts...SCT cumulus based AOA 10 kft over ridgetops
+through 00z with SKC otherwise. Westerly wind gusts 25-40 kt after
+20z along desert slopes and into deserts. Gusts locally to 50 kts
+through the Banning Pass. MOD up/downdrafts and local LLWS in lee of
+mountains.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Saturday
-morning. Increasing winds and seas could become hazardous for
-small craft Saturday afternoon through Sunday.
+morning. Increasing winds and seas over the outer coastal waters
+could become hazardous for small craft Saturday afternoon through
+Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -428,8 +427,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...KW
 
 
 </pre>
