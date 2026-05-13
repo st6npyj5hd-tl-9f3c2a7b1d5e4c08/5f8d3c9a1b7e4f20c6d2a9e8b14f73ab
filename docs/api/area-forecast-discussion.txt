@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-12T19:55:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T03:36:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,18 +335,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-347
-FXUS66 KSGX 121906
+232
+FXUS66 KSGX 130026
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1206 PM PDT Tue May 12 2026
+526 PM PDT Tue May 12 2026
 
 .SYNOPSIS...
 Through Wednesday, a weak low pressure system moving into southern
@@ -356,22 +354,6 @@ valleys and with slower afternoon clearing for San Diego County
 coastal areas. It will be slightly warmer for Thursday and Friday
 with the marine layer decreasing in depth, then slightly cooler
 for the weekend.
-
-&&
-
-.DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
-SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
-COUNTIES...
-
-.SYNOPSIS...
-A cooling trend will continue through Wednesday as weak low
-pressure passes through the region. Robust onshore flow will
-contribute to a deepening marine layer through tonight along with
-breezy conditions in the mountains and deserts today and Wednesday
-afternoon. Thereafter, a slight warming trend will commence for
-Thursday and Friday. This will be short lived as a weak low
-pressure system will bring another cooling trend and deepen the
-marine layer for the weekend.
 
 &&
 
@@ -420,23 +402,24 @@ reflects the potential for marine layer drizzle and nothing more.
 Beyond this weekend, guidance leans toward a warming trend and
 slightly above normal temperatures through mid next week.
 
-
 &&
 
 .AVIATION...
-121800Z...Coast/Valleys...BKN-OVC low clouds with bases mostly 1400-
-2800 ft MSL will slowly clear inland areas through 20Z, if low
-clouds clear the coast it will be intermittent and patchy. Low clouds
-will spread inland after 01Z, and rapidly fill the entire coastal
-basin to the foothills overnight into Wednesday. Bases will be 1500-
-2500 ft MSL overnight. KSNA/KSAN/KONT have 30 percent chance of low
-clouds falling below 1000 ft Tue PM-Wed AM. Vis reduced 0-5SM over
-higher valley terrain, foothills, and in coastal -DZ most likely 10-
-15Z. Slow clearing is expected again Wed AM.
+130000Z...Coast/Valleys...BKN-OVC low clouds with bases mostly 2000-
+3000 ft MSL are covering most of Orange and San Diego Counties up to
+the foothills. Cloud coverage expands through the Inland Empire
+through 08z. Cloud bases drop slightly to 1500-2500 ft MSL as cloud
+tops increase mostly above 4000 ft MSL, yielding to coastal -DZ most
+likely 10-15z Wed. Patchy vis reductions 2-6SM for elevated inland
+valleys (above 1000 ft MSL) and 0-3SM throughout foothills. Bases
+lift quickly above 2000 ft most likely by 15z. Scatter out 17-19z
+inland with patchy BKN clouds lingering through the afternoon within
+20 miles of the coast. Overall better clearing than today. Most
+bases rise to above 3000 ft by 18z where clouds remain.
 
-Mountains/Deserts...SCT high clouds and VFR conditions into Wed. SE
-winds with gusts 25-35 kt through 00Z Wed becoming NW with local
-gusts to 40 kt through 16Z Wed.
+Mountains/Deserts...SCT high clouds and VFR conditions into Wed.
+West winds with gusts 25-35 kt (locally to 40 kts) weaken slightly
+Wednesday morning, then strengthen again after 20z Wed afternoon.
 
 &&
 
@@ -461,7 +444,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE...CO
+AVIATION/MARINE...Westerink
 
 
 </pre>
