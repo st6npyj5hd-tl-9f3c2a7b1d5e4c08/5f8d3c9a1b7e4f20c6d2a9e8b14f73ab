@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-13T19:57:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-14T03:35:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-386
-FXUS66 KSGX 131825
+740
+FXUS66 KSGX 140016
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1125 AM PDT Wed May 13 2026
+516 PM PDT Wed May 13 2026
 
 .SYNOPSIS...
 Brief warming trend expected through Friday, with cooler
@@ -386,21 +386,21 @@ Eastern Pacific) would keep temperatures more moderate.
 &&
 
 .AVIATION...
-131800Z...Coast/Valleys...Low clouds have risen
-mostly above 3000 ft MSL this morning. Clouds are currently clearing
-toward the coast, but some patches may stick to the coastline
-through the afternoon. Bases will begin to lower again this evening
-and push ashore and inland after 01z vcnty KSAN and after 08z vcnty
-KSNA. Bases should hover around 1500-2000 ft MSL overnight with
-clouds filling most of the coastal basin by 12z, though parts of the
-Inland Empire may struggle to fill in. 60% chance for BKN cigs for
-KONT and KSBD. Clouds scatter to the coast 16-18z Thu.
+140000Z...Coast/Valleys...Low clouds have cleared out offshore this
+afternoon. Isolated patches of clouds may begin to develop over the
+city of San Diego after 01z, with more confidence that more
+widespread cigs develop over SD County after 03z, with almost full
+cig coverage to the foothills by 08z. These clouds based 1500-2500
+ft MSL will expand northward into Orange County after 07z and slowly
+fill into the Inland Empire in patchy fashion. By 13z, 50% chance
+for cigs over KONT and 60% over KSBD. Patchy VIS reductions (HZ/BR)
+3-5SM in the Inland Empire; 0-3SM along the foothills. Scatter out
+inland begins 15z. Full scatter out to coast by around 18z.
 
-Mountains/Deserts...SCT cumulus based AOA 10 kft over ridgetops
-through 00z with SKC otherwise. Westerly wind gusts 25-40 kt after
-20z along desert slopes and into deserts. Gusts locally to 50 kts
-through the Banning Pass. MOD up/downdrafts and local LLWS in lee of
-mountains.
+
+Mountains/Deserts...Westerly wind gusts 25-40 kt along desert slopes
+and into deserts this evening. Gusts locally to 50 kts through the
+Banning Pass. MOD up/downdrafts and local LLWS in lee of mountains.
 
 &&
 
@@ -428,7 +428,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
