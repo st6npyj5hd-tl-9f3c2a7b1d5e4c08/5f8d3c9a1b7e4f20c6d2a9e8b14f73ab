@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-14T03:35:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-14T08:39:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-740
-FXUS66 KSGX 140016
+944
+FXUS66 KSGX 140358
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-516 PM PDT Wed May 13 2026
+858 PM PDT Wed May 13 2026
 
 .SYNOPSIS...
 Brief warming trend expected through Friday, with cooler
@@ -386,21 +386,22 @@ Eastern Pacific) would keep temperatures more moderate.
 &&
 
 .AVIATION...
-140000Z...Coast/Valleys...Low clouds have cleared out offshore this
-afternoon. Isolated patches of clouds may begin to develop over the
-city of San Diego after 01z, with more confidence that more
-widespread cigs develop over SD County after 03z, with almost full
-cig coverage to the foothills by 08z. These clouds based 1500-2500
-ft MSL will expand northward into Orange County after 07z and slowly
-fill into the Inland Empire in patchy fashion. By 13z, 50% chance
-for cigs over KONT and 60% over KSBD. Patchy VIS reductions (HZ/BR)
-3-5SM in the Inland Empire; 0-3SM along the foothills. Scatter out
-inland begins 15z. Full scatter out to coast by around 18z.
+140400Z...Coast/Valleys...Clouds based 1500-2500 ft MSL are expected
+to develop through San Diego County from 05-09z, expanding northward
+into Orange County through 13z and slowly filling into the Inland
+Empire in patchy fashion. By 13z, 35% chance for cigs over KONT and
+50% over KSBD. Patchy VIS reductions (HZ/BR) 3-5SM in the Inland
+Empire; 0-3SM along the foothills. Scatter out inland begins 15z.
+Full scatter out to coast by around 18z. Current guidance suggests
+clouds will develop again at the coast between 01-04z Fri with
+initially similar bases.
 
 
 Mountains/Deserts...Westerly wind gusts 25-40 kt along desert slopes
-and into deserts this evening. Gusts locally to 50 kts through the
-Banning Pass. MOD up/downdrafts and local LLWS in lee of mountains.
+and into deserts this evening, weakening slightly Thursday morning,
+then re-strengthening after 21z Thu. Gusts locally to 50 kts through
+the Banning Pass. MOD up/downdrafts and local LLWS in lee of
+mountains.
 
 &&
 
