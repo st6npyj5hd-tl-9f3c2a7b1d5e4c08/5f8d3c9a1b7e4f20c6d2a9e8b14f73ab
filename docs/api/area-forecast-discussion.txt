@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-14T19:47:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-15T03:38:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-622
-FXUS66 KSGX 141904
+580
+FXUS66 KSGX 150112
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1204 PM PDT Thu May 14 2026
+612 PM PDT Thu May 14 2026
 
 .SYNOPSIS...
 Brief warming trend expected through Friday, with cooler conditions
@@ -389,15 +387,19 @@ over the Eastern Pacific) would keep temperatures more moderate.
 &&
 
 .AVIATION...
-141700Z...Coast/Valleys...Low clouds are currently clearing toward
-the coastline with SKC expected for all land areas after 19z. Low
-clouds based 1500-2000 ft MSL return to San Diego County coastal
-areas 00-03z Fri and slowly spread north filling most of the coastal
-basin overnight. 60-70% chance for cigs to reach KONT and 50-60% at
-KSBD. Low clouds clear to the coast again 16-19z Fri.
+150000Z...Coast/Valleys...FEW-SCT, and occasionally BKN, low clouds
+(based around 2000-2500ft MSL) are filling back in across coastal
+San Diego County from south to north this evening. Expecting CIGs to
+spread northward and inland, filling in through inland valleys and
+into Orange County by 06-09z, and through the Inland Empire by 12z -
+- 80% chance for CIGs to reach KONT and 60% at KSBD. Overnight cloud
+bases likely to settle down to 1700-2200ft MSL with VIS restrictions
+limited locally to inland valleys, and where clouds intersect
+terrain. Low clouds scatter back to the coasts by 17-18z for San
+Diego County, closer to 19z for Orange County.
 
-Mountains/Deserts...Westerly wind gusts 25-40 kt increasing again
-after 21Z. MOD up/downdrafts and local LLWS in lee of mountains.
+Mountains/Deserts...Elevated westerly wind gusts 25-40 kt
+continuing. MOD up/downdrafts and local LLWS in lee of mountains.
 Winds slowly weaken tonight into Friday morning. Otherwise, SKC
 expected through the period.
 
@@ -410,13 +412,6 @@ waters from late Saturday into early Sunday. Strongest gusts near
 San Clemente Island. This will generate hazardous conditions for
 small craft with choppy seas reaching 8-11 feet through Sunday
 morning.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -435,7 +430,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...Munyan
 
 
 </pre>
