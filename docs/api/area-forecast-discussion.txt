@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-15T14:10:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-15T19:40:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-414
-FXUS66 KSGX 150926
+529
+FXUS66 KSGX 151841
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-226 AM PDT Fri May 15 2026
+1141 AM PDT Fri May 15 2026
 
 .SYNOPSIS...
 Slight inland warming for today, then cooler for the weekend for
@@ -360,100 +360,102 @@ SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
 .SHORT TERM (Today through Sunday)...
-High temperatures for the deserts will warm a few degrees today
-with not much change elsewhere. The marine layer will continue to
-deepen early this morning with coastal low clouds extending onto
-the lower coastal slopes of the mountains this morning.
+High temperatures increase slightly today for inland and desert
+areas while mountain and coastal temperatures remain similar to
+yesterday. The marine layer will make its move back in over the
+coast and into the coastal basin late this afternoon to settle in
+for the evening through tomorrow morning. The marine layer is
+expected to deepen for Saturday morning bringing chances for patchy
+drizzle for the coastal mountain slopes all the way to the coast.
 
-For the weekend, onshore flow will strengthen across southern
-California. The marine layer will continue to deepen through the
-weekend with night and morning coastal low clouds extending well
-inland and onto the coastal slopes of the mountains. There will
-be periods of gusty southwest to west winds for the mountains and
-deserts for Saturday afternoon into Sunday evening with gusts to
-40 to 50 mph and WITH isolated gusts to 65 mph.
-
-With the cooling, high temperatures for Sunday will be as much as
-4 to 8 degrees below average for the mountains and inland valleys.
-For Sunday, high temperatures will range from the mid to upper 60s
-near the coast to the 70s for the Inland Empire with the upper 80s
-to mid 90s for the lower deserts.
+Winds will increase Saturday afternoon as onshore flow strengthens
+over the area. Expect periods of gusty southwest to westerly winds
+through late Sunday. Highest wind speeds will be in the deserts,
+desert mountain slopes and mountain passes with gusts up to 40-50
+mph, locally up to 65 mph. Daily high temperatures begin to cool
+area wide over the weekend with temperatures Sunday near to a few
+degrees below average.
 
 &&
 
 .LONG TERM (Monday through Thursday)...
-The coast and valleys will warm on Monday with winds for the
-deserts becoming northwesterly. For Tuesday through Thursday, high
-temperatures for inland areas will warm. High temperatures on
-Thursday will be within a few degrees of average for the coast and
-valleys and around 4 to 8 degrees above average for the deserts
-and lower elevations of the mountains. High temperatures for
-Thursday of next week will range from around 70 near the coast to
-the upper 70s to mid 80s for the Inland Empire with the upper 90s
-to 102 for the lower deserts.
-
+Temperatures begin to warm along the coast and in the Valleys
+Monday, then area wide Tuesday. Daily highs will continue to
+increase through the week,  peaking Thursday afternoon. Temperatures
+Thursday will be up to 5 degrees warmer than average over most of
+the area. The high deserts will see temperatures 5-10 degrees above
+average.
 &&
 
 .AVIATION...
-151000Z...Coast/Valleys...Low clouds based around 1800-2000ft MSL
-have filled inland around 20 miles and will continue to push into
-the Inland Empire through 12z. VIS restrictions limited locally to
-inland valleys, and where clouds intersect terrain. Clouds scatter
-back to the coasts by 17-18z for San Diego County, closer to 19z for
-Orange County. Low clouds may hang along the beaches through the
-afternoon. Similar inland push of low clouds after 00z Saturday,
-likely with similar bases to this morning.
+151800Z...Coast/Valleys...Low confidence in complete clearing at the
+immediate coast this afternoon, any lingering clouds will have bases
+2000-3000 ft. Low clouds will push back inland after 01Z Sat and
+fill in the coastal basin. Bases will be 1500-2500 ft MSL, with the
+most likely places for the bases to fall below 2000 ft are at KCRQ
+and near mtn foothills (70 percent). Chances of visibility falling
+below 3SM is around 70 percent near mountain foothills. Patchy -DZ
+possible from 09-18Z. Slow clearing expected Sat AM with SCT
+conditions most likely after 18Z for most locations.
 
 Mountains/Deserts...Elevated westerly wind gusts 25-40 kt after 21z
 today with MOD up/downdrafts and local LLWS in lee of mountains.
 Localized areas of BLDU and reduced VIS. Winds will remain gusty
-tonight and through much of Saturday. Otherwise, SKC and VFR
-expected through the period.
+through much of Saturday. Otherwise, SKC and VFR expected through
+the period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday
-morning. Winds are expected to reach 20-30 kts in the outer coastal
-waters from late Saturday into early Sunday. Strongest gusts near
-San Clemente Island. This will generate hazardous conditions for
-small craft with choppy seas reaching 8-11 feet through Monday
-morning.
+Gusty westerly winds with gusts 20-30 kt will develop in the outer
+coastal waters late Saturday afternoon. The strongest gusts will
+occur near San Clemente Island. Seas of 8-11 feet with a 9-12 second
+period will generate choppy seas. Winds and seas will diminish
+through the day Sunday.
 
 &&
 
 .BEACHES...
-An increasing westerly swell (290 degrees) with a 9 to 10 second
-period will bring elevated surf of 4 to 6 feet for the beaches as
-early as Saturday afternoon and prevail through Monday afternoon.
-Highest surf at west to northwest facing beached. Additionally, high
-tides of 6.5 to 7 feet will combine with the elevated surf to result
-in minor tidal overflow, especially for beach parking lots and
-boardwalks. Surf will fall Monday night and into Tuesday.
+A westerly swell from 290 degrees with a 9 to 10 second period will
+bring elevated surf of 4 to 6 feet, sets to 7 feet for Saturday
+afternoon through Monday morning. Highest surf at west to northwest
+facing beaches. The combination of elevated surf and high tides of
+6.5 to 7 feet will result in minor tidal overflow, especially for
+beach parking lots and boardwalks. Surf will start to decrease
+Monday afternoon.
+
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 11 AM Saturday to 11 PM PDT Sunday for Apple
+CA...Beach Hazards Statement from Saturday evening through Monday
+     morning for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
+     Wind Advisory from 11 AM Saturday to 11 PM PDT Sunday for Apple
      and Lucerne Valleys-San Bernardino County Mountains.
 
      Wind Advisory from 2 PM Saturday to 11 PM PDT Sunday for
      Riverside County Mountains-San Diego County Deserts-San
      Diego County Mountains-San Gorgonio Pass near Banning.
 
-PZ...None.
+PZ...Small Craft Advisory from 3 PM Saturday to 7 AM PDT Sunday for
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...Villafane
+AVIATION/MARINE...CO
 
 
 </pre>
