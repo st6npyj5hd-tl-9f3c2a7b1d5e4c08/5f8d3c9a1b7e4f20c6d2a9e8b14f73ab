@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T03:23:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T08:06:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-764
-FXUS66 KSGX 160028
+621
+FXUS66 KSGX 160359
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-528 PM PDT Fri May 15 2026
+859 PM PDT Fri May 15 2026
 
 .SYNOPSIS...
 Slight inland warming for today, then cooler for the weekend for
@@ -358,6 +358,8 @@ Tuesday through Thursday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Sunday)...
 High temperatures increase slightly today for inland and desert
@@ -386,28 +388,31 @@ Thursday will be up to 5 degrees warmer than average over most of
 the area. The high deserts will see temperatures 5-10 degrees above
 average.
 
-
 &&
 
 .AVIATION...
-160030Z...Coast/Valleys...Low clouds are already moving back into
-coastal San Diego County with a few patches in Orange County as
-well. Clouds will spread inland and northward this evening, covering
-the entire coastal basin by 09-12z Sat. Bases will be 1500-2500 ft
-MSL, with minor vis reductions (3-5SM) expected for some elevated
-inland valleys near mountain foothills (70% chance). Patchy -DZ
-possible from 09-18Z. Slow clearing expected Sat AM with scattering
-occurring 17-20z for inland areas. Areas near the coastline may stay
-BKN through the afternoon (20-40% chance).
+160400Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL
+have quickly rushed into San Diego and Orange Counties this
+evening. Clouds will continue to march inland, covering the
+entire coastal basin by 09-12z Sat. Bases may lower some
+overnight, with minor vis reductions (3-5SM) expected for some
+elevated inland valleys near mountain foothills (60% chance).
+Patchy -DZ possible from 09-18Z. Slow clearing expected Sat AM
+with scattering occurring 17-20z for inland areas. Areas near the
+coastline may stay BKN through the afternoon (20-40% chance). Low
+clouds based 2000-3000 ft MSL will quickly move inland again
+Saturday evening, starting in San Diego County and moving
+northward overnight.
 
 Mountains/Deserts...Elevated westerly wind gusts will continue
 through Saturday morning with 25-35 kt gusts widespread. Gusts
 locally to 45 kts along wind prone desert slopes and through
 mountain passes. MOD up/downdrafts and local LLWS in lee of
-mountains. Localized areas of BLDU and reduced VIS. Winds strengthen
-further Saturday afternoon with gusts 30-45 kts widespread, locally
-to 60 kts in wind prone locations. Otherwise, SKC and VFR expected
-through the period.
+mountains. Localized areas of BLDU and reduced vis. Winds strengthen
+further Saturday afternoon with gusts 35-45 kts widespread, locally
+to 60 kts in wind prone locations. Strong up/downdrafts in lee of
+mtns with BLDU and areas of BLDU and reduced vis expected.
+Otherwise, SKC and VFR expected through the period.
 
 &&
 
@@ -448,8 +453,8 @@ PZ...Small Craft Advisory from 3 PM Saturday to 7 AM PDT Sunday for
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE...KW
+PUBLIC...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
