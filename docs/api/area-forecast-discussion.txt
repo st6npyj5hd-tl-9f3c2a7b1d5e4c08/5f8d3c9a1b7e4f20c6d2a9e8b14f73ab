@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T13:25:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T19:06:54+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,13 +332,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-226
-FXUS66 KSGX 160933
+827
+FXUS66 KSGX 161812
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-233 AM PDT Sat May 16 2026
+1112 AM PDT Sat May 16 2026
 
 .SYNOPSIS...
 Cooler for this weekend, especially for inland areas with
@@ -399,26 +399,25 @@ conditions look to also persist through next week.
 &&
 
 .AVIATION...
-161000Z...Coast/Valleys...Low clouds based 2000-2500ft MSL have
-successfully made it 25+ miles inland and pushed up against the
-mountains. Minor VIS reductions (3-5SM) expected for some elevated
-inland valleys, with lower VIS where clouds intersect terrain. Very
-patchy -DZ possible from 12-17z. Slow clearing expected with
-scattering occurring 17-20z for inland areas. Areas near the
-coastline, especially for San Diego County, may stay BKN through the
-afternoon (40-50% chance). Low clouds based 2000-3000 ft MSL will
-quickly move inland again this evening, starting in San Diego County
-and moving northward overnight, potentially as early as 22-23z.
+161800Z...Coast/Valleys...Low clouds are beginning to break up along
+the coast though southern San Diego County looks to remain under low
+cloud cover for most of the period. Low cloud bases are expected to
+remain between 2000-4000ft MSL with a few clouds moving in and out
+AOA 1500ft MSL. Low clouds will increase in coverage after 23Z
+beginning in SD County, stretching north and filling inland valleys
+after 00Z. Low clouds are expected to reach coastal OC after 06-08Z.
+Minor VIS reductions (3-5SM) expected for some elevated inland
+valleys, with lower VIS where clouds intersect terrain.
 
-Mountains/Deserts...Elevated westerly wind gusts will continue
-through this morning with 25-35 kt gusts widespread. Gusts locally
-to 45 kts along wind prone desert slopes and through mountain
-passes. MOD up/downdrafts and local LLWS in lee of mountains. Winds
-strengthen further this afternoon with gusts 35-45 kts widespread,
-locally to 60 kts in wind prone locations. Winds remain gusty
-through Sunday. Strong up/downdrafts in lee of mtns with BLDU and
-reduced VIS expected. Otherwise, SKC and VFR expected through the
-period.
+Mountains/Deserts...Winds have been gusty out of the north to
+northwest and will continue through this evening. Gusts have already
+reached 25-35 knots in desert slopes and mountain passes, locally up
+to 50 knots. MOD up/downdrafts and local LLWS in lee of mountains.
+Winds will continue to strengthen into the afternoon with widespread
+gusts 35-45 knots, locally to 60 kts in wind prone locations. Winds
+will remain gusty through Sunday. Strong up/downdrafts in lee of
+mtns with BLDU and reduced VIS expected. Otherwise, SKC and VFR
+expected through the period.
 
 &&
 
@@ -432,6 +431,18 @@ and contains more information.
 
 &&
 
+.BEACHES...
+A westerly swell from 290 degrees with a 9 to 10 second period will
+bring elevated surf of 4 to 6 feet, sets to 7 feet this afternoon
+through Monday morning. Highest surf at west to northwest facing
+beaches. The combination of elevated surf and high tides of 6.5 to 7
+feet will result in minor tidal overflow, especially for beach
+parking lots and boardwalks. Surf will start to decrease Monday
+afternoon. A Beach Hazards Statement is in effect and contains more
+information.
+
+&&
+
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
@@ -440,16 +451,17 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from this evening through Monday morning
-     for Orange County Coastal Areas-San Diego County Coastal
-     Areas.
+CA...Beach Hazards Statement from 6 PM PDT this evening through
+     Monday morning for Orange County Coastal Areas-San Diego
+     County Coastal Areas.
 
-     Wind Advisory from 11 AM this morning to 11 PM PDT Sunday for
-     Apple and Lucerne Valleys-San Bernardino County Mountains.
+     Wind Advisory until 11 PM PDT Sunday for Apple and Lucerne
+     Valleys-San Bernardino County Mountains-San Gorgonio Pass
+     near Banning.
 
-     Wind Advisory from 2 PM this afternoon to 11 PM PDT Sunday for
-     Riverside County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
+     Wind Advisory until 11 PM PDT Sunday for Riverside County
+     Mountains-San Diego County Deserts-San Diego County
+     Mountains.
 
 PZ...Small Craft Advisory from 3 PM this afternoon to 7 AM PDT Sunday
      for Waters from San Mateo Point to the Mexican Border
@@ -461,7 +473,7 @@ PZ...Small Craft Advisory from 3 PM this afternoon to 7 AM PDT Sunday
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...Villafane
 
 
 </pre>
