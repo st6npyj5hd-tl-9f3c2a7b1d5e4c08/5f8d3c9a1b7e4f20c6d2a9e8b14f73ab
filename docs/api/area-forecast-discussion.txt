@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T08:06:18+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-16T13:25:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -329,29 +329,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-621
-FXUS66 KSGX 160359
+226
+FXUS66 KSGX 160933
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-859 PM PDT Fri May 15 2026
+233 AM PDT Sat May 16 2026
 
 .SYNOPSIS...
-Slight inland warming for today, then cooler for the weekend for
-inland areas with stronger onshore flow. The marine layer will
-deepen during the weekend with night and morning coastal low
-clouds extending well inland and onto the coastal slopes of the
-mountains. For Saturday afternoon into Sunday evening, southwest
-to west winds for the mountains and deserts will gust to 40 to 50
-mph with isolated gusts to 65 mph. The coast and valleys will
-warm on Monday with the greater warming for inland areas for
-Tuesday through Thursday.
+Cooler for this weekend, especially for inland areas with
+stronger onshore flow. The marine layer will deepen during the
+weekend with night and morning coastal low clouds extending well
+inland and onto the coastal slopes of the mountains. For Saturday
+afternoon into Sunday evening, southwest to west winds for the
+mountains and deserts will gust to 40 to 50 mph, with isolated
+gusts to 65 mph. The coast and valleys will warm on Monday with
+the greater warming for inland areas for Tuesday through
+Wednesday, followed by a slight cooldown from Thursday into
+Friday.
 
 &&
 
@@ -359,69 +358,77 @@ Tuesday through Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion...
+Today through tomorrow night...
 
-.SHORT TERM (Today through Sunday)...
-High temperatures increase slightly today for inland and desert
-areas while mountain and coastal temperatures remain similar to
-yesterday. The marine layer will make its move back in over the
-coast and into the coastal basin late this afternoon to settle in
-for the evening through tomorrow morning. The marine layer is
-expected to deepen for Saturday morning bringing chances for patchy
-drizzle for the coastal mountain slopes all the way to the coast.
+An "inside slider" type major shortwave trough is going to deepen
+and propagate over the desert southwest, which will result in a
+tightening of the surface gradient and allow for winds to become
+rather strong and gusty over the higher terrain, and through the
+mountain canyons, where winds will be sustained up around 40 to 50
+mph by later this afternoon for wind-proned areas. There could also
+be some isolated gusts approaching 65 to 70 mph for the windiest
+areas. There could be some areas of blowing dust, and especially
+within the Coachella Valley. For the high deserts, as min RH values
+drop into the low teens by later this afternoon, with strong and
+gusty winds, conditions will be favorable for fire growth and
+spread, although fuels are not yet critical for these areas. Onshore
+flow will also become more enhanced, leading to a more persistent
+marine layer, which will likely remain rather prevalent for the
+coastal areas. Temperatures will also be on the cooler side with
+some reinforcement of colder air behind this trough as it passes
+over the region, with highs being slightly below the seasonal
+average for this time of year, especially for the inland valleys,
+where highs will be as much as 10 degrees below average for some
+locations. Given the track of this system, it should remain dry,
+only perhaps a few areas of drizzle will be possible against the
+coastal slopes, otherwise just cooler and more breezy throughout the
+weekend.
 
-Winds will increase Saturday afternoon as onshore flow strengthens
-over the area. Expect periods of gusty southwest to westerly winds
-through late Sunday. Highest wind speeds will be in the deserts,
-desert mountain slopes and mountain passes with gusts up to 40-50
-mph, locally up to 65 mph. Daily high temperatures begin to cool
-area wide over the weekend with temperatures Sunday near to a few
-degrees below average.
+Monday through Friday...
 
-&&
-
-.LONG TERM (Monday through Thursday)...
-Temperatures begin to warm along the coast and in the Valleys
-Monday, then area wide Tuesday. Daily highs will continue to
-increase through the week,  peaking Thursday afternoon. Temperatures
-Thursday will be up to 5 degrees warmer than average over most of
-the area. The high deserts will see temperatures 5-10 degrees above
-average.
-
+After passage of the trough moving through this weekend, high
+pressure is going to build back in behind it, with diminishing winds
+switching to a weak offshore flow aloft returning through the early
+part of the week. This will result in gradual warming through
+Wednesday before the longwave pattern becomes more zonal with only
+weak ridging aloft going into the latter half of the week. This will
+give way to the appearance of the more common "May Grey" diurnal
+pattern, with better coverage at the coast throughout the day, and
+temperatures slowly cooling off from Thursday into Friday. Dry
+conditions look to also persist through next week.
 &&
 
 .AVIATION...
-160400Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL
-have quickly rushed into San Diego and Orange Counties this
-evening. Clouds will continue to march inland, covering the
-entire coastal basin by 09-12z Sat. Bases may lower some
-overnight, with minor vis reductions (3-5SM) expected for some
-elevated inland valleys near mountain foothills (60% chance).
-Patchy -DZ possible from 09-18Z. Slow clearing expected Sat AM
-with scattering occurring 17-20z for inland areas. Areas near the
-coastline may stay BKN through the afternoon (20-40% chance). Low
-clouds based 2000-3000 ft MSL will quickly move inland again
-Saturday evening, starting in San Diego County and moving
-northward overnight.
+161000Z...Coast/Valleys...Low clouds based 2000-2500ft MSL have
+successfully made it 25+ miles inland and pushed up against the
+mountains. Minor VIS reductions (3-5SM) expected for some elevated
+inland valleys, with lower VIS where clouds intersect terrain. Very
+patchy -DZ possible from 12-17z. Slow clearing expected with
+scattering occurring 17-20z for inland areas. Areas near the
+coastline, especially for San Diego County, may stay BKN through the
+afternoon (40-50% chance). Low clouds based 2000-3000 ft MSL will
+quickly move inland again this evening, starting in San Diego County
+and moving northward overnight, potentially as early as 22-23z.
 
 Mountains/Deserts...Elevated westerly wind gusts will continue
-through Saturday morning with 25-35 kt gusts widespread. Gusts
-locally to 45 kts along wind prone desert slopes and through
-mountain passes. MOD up/downdrafts and local LLWS in lee of
-mountains. Localized areas of BLDU and reduced vis. Winds strengthen
-further Saturday afternoon with gusts 35-45 kts widespread, locally
-to 60 kts in wind prone locations. Strong up/downdrafts in lee of
-mtns with BLDU and areas of BLDU and reduced vis expected.
-Otherwise, SKC and VFR expected through the period.
+through this morning with 25-35 kt gusts widespread. Gusts locally
+to 45 kts along wind prone desert slopes and through mountain
+passes. MOD up/downdrafts and local LLWS in lee of mountains. Winds
+strengthen further this afternoon with gusts 35-45 kts widespread,
+locally to 60 kts in wind prone locations. Winds remain gusty
+through Sunday. Strong up/downdrafts in lee of mtns with BLDU and
+reduced VIS expected. Otherwise, SKC and VFR expected through the
+period.
 
 &&
 
 .MARINE...
 Gusty westerly winds with gusts 20-30 kt will develop in the outer
-coastal waters late Saturday afternoon. The strongest gusts will
-occur near San Clemente Island. Seas of 7-10 feet with a 9-12 second
+coastal waters late this afternoon. The strongest gusts will occur
+near San Clemente Island. Seas of 7-10 feet with a 9-12 second
 period will generate choppy seas. Winds and seas will slowly
-diminish through the day Sunday.
+diminish through the day Sunday. A Small Craft Advisory is in effect
+and contains more information.
 
 &&
 
@@ -433,28 +440,28 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from Saturday evening through Monday
-     morning for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Beach Hazards Statement from this evening through Monday morning
+     for Orange County Coastal Areas-San Diego County Coastal
+     Areas.
 
-     Wind Advisory from 11 AM Saturday to 11 PM PDT Sunday for Apple
-     and Lucerne Valleys-San Bernardino County Mountains.
+     Wind Advisory from 11 AM this morning to 11 PM PDT Sunday for
+     Apple and Lucerne Valleys-San Bernardino County Mountains.
 
-     Wind Advisory from 2 PM Saturday to 11 PM PDT Sunday for
+     Wind Advisory from 2 PM this afternoon to 11 PM PDT Sunday for
      Riverside County Mountains-San Diego County Deserts-San
      Diego County Mountains-San Gorgonio Pass near Banning.
 
-PZ...Small Craft Advisory from 3 PM Saturday to 7 AM PDT Sunday for
-     Waters from San Mateo Point to the Mexican Border Extending
-     10 to 60 nm out including San Clemente Island.
+PZ...Small Craft Advisory from 3 PM this afternoon to 7 AM PDT Sunday
+     for Waters from San Mateo Point to the Mexican Border
+     Extending 10 to 60 nm out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE...Villafane
+PUBLIC...Stewey
+AVIATION/MARINE...Zuber
 
 
 </pre>
