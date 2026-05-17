@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-17T03:37:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-17T08:23:22+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,13 +332,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-687
-FXUS66 KSGX 170045
+025
+FXUS66 KSGX 170503
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-545 PM PDT Sat May 16 2026
+1003 PM PDT Sat May 16 2026
 
 .SYNOPSIS...
 Cooler weather persists through the weekend, with a deeper, more
@@ -407,19 +407,19 @@ drizzle.
 &&
 
 .AVIATION...
-170000Z...Coast/Valleys...A largely BKN-OVC deck of clouds around
-3000-4000ft is draped across most of the coastal basin this
-afternoon, closer to FEW-SCT for portions of Orange County and the
-Inland Empire. Meanwhile, BKN low clouds with MVFR CIGs based around
-1800-2400ft MSL are gradually increasing across San Diego County as
-well, and should continue to spread northward and into valleys after
-through 06-12z as a coastal eddy strengthens over the California
-Bight. Localized VIS reductions to 3-5SM in BR expected for some
-elevated inland valleys, with obscurations where clouds intersect
-terrain. Elevated south-southwest winds expected to pick up as the
-coastal eddy strengthens overnight, with gusts 15-20 knots picking
-up after 16z Sunday. Most cloud cover expected to clear out by 18z
-with VFR prevailing thereafter.
+170600Z...Coast/Valleys...SCT-BKN deck of clouds around 3000-4000ft
+has been retreating to the inland valleys and coastal slopes over
+the last few hours, with the lower deck of clouds near 1800-2400ft
+MSL also becoming more sparse and limited to inland valleys. As a
+coastal eddy is expected to strengthen overnight, expecting MVFR
+CIGs near 2500ft to gradually fill in along the coasts again from
+south to north between 08-12z Sunday. Localized VIS reductions to 3-
+5SM in BR expected for some elevated inland valleys, with
+obscurations where clouds intersect terrain. Elevated south-
+southwest winds expected to pick up as the coastal eddy strengthens
+overnight, with gusts 15-20 knots picking up after 16z Sunday. Most
+cloud cover expected to clear out by 18z with VFR prevailing
+thereafter.
 
 Mountains/Deserts...Gusty north to northwest winds of persisting
 this evening. Widespread 25-35 knot gusts expected in the deserts,
