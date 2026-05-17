@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-17T13:24:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-17T19:12:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -330,13 +330,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-399
-FXUS66 KSGX 170928
+580
+FXUS66 KSGX 171815
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-228 AM PDT Sun May 17 2026
+1115 AM PDT Sun May 17 2026
 
 .SYNOPSIS...
 Cooler weather persists through the weekend, with a deeper, more
@@ -354,88 +354,67 @@ cooldown from Thursday into Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Today through tomorrow night...
+.SHORT TERM (Today through tomorrow night)...
+Gusty winds will continue through the day today and through this
+evening as low pressure brings winds from the west over the area. As
+low pressure shifts further east, winds will ease through Monday.
+Strongest winds are in the deserts, desert mountain slopes and
+mountain passes with gusts up to 45 to 55 mph, locally up to 60 mph.
 
-Currently, GOES night fog 10.3 reveals the formation of the marine
-layer taking shape in vicinity of San Clemente with a weak coastal
-eddy becoming established over the inner waters of the SoCal bight.
-This will help to allow the marine layer to thicken up a little bit
-more through the early hours, and there could even be a few areas of
-drizzle as a result, especially along some of the coastal slopes and
-inland foothills.
+Highs today and Monday will be near to just below average for much
+of the area. The exception being some areas in the Riverside and San
+Bernardino county mountains with highs 5 to 10 degrees below average.
 
-An "inside slider" type of major shortwave trough is continuing to
-deepen and propagate over the desert southwest this weekend, which
-is resulting in rather strong and gusty over the higher terrain out
-of the west to southwest, and especially through the mountain
-canyons, where winds will be sustained up around 40 to 50 mph by
-later this afternoon for wind-proned areas. There could also be some
-isolated gusts approaching 65 to 70 mph for the windiest areas,
-namely within the gaps and along desert slopes across the Apple and
-Lucerne Valleys. There could be some areas of blowing dust, and
-especially within the Coachella Valley. For the high deserts, as min
-RH values drop into the low teens by later this afternoon with the
-strong and gusty winds, conditions will be favorable for fire growth
-and spread, although fuels are not yet critical for these areas and
-recoveries overnight will be respectable. Onshore flow will also
-continue to be more enhanced, leading to a more persistent marine
-layer, which will likely remain rather prevalent for the coastal
-areas for today, along with cooler temperatures stretching inland.
-Highs will be as much as 10 degrees below average for some locations
-within the IE and inland areas. Given the track of this system, it
-should remain dry, with only perhaps a few areas of drizzle will be
-possible against the coastal slopes during the early morning hours
-tomorrow, otherwise just cooler and more breezy throughout for
-today, followed by weakening winds and slightly warmer temperatures
-for tomorrow.
+Low clouds from the marine layers influence will stick around
+through the day today and are expected to clear Monday morning.
 
-Tuesday through Saturday...
+&&
 
-After passage of the trough, high pressure is going to build back in
-behind it going into Tuesday, with diminishing winds switching to a
-weak offshore flow aloft returning through the middle of the week.
-This will result in gradual warming through Wednesday before the
-longwave pattern becomes more zonal with only weak ridging aloft
-going into the latter half of the week. This will give way to the
-appearance of the more common "May Grey" diurnal pattern becoming
-more predominant by later in the work week, with better coverage
-along the coastal areas throughout the day, and temperatures slowly
-cooling off from Thursday into Friday. Temperatures will then level
-off by Saturday, and be right around the seasonal average for this
-time of year for most locations. Dry conditions look to also persist
-going into the following weekend as ensembles reflect PWAT anomalies
-being nearly neutral, or on the drier side through then.
+.LONG TERM (Tuesday through Sunday)...
+As winds shift to off shore Tuesday, low clouds will stick closer to
+the coast, giving us some much needed sunshine in the afternoons at
+least through mid-week. Temperatures increase area wide Tuesday,
+with daily highs continuing to increase through the week, peaking
+Thursday afternoon. Temperatures Thursday will be up to 5 degrees
+warmer than average over most of the area. The high deserts will see
+temperatures 5-10 degrees above average.
+
 
 &&
 
 .AVIATION...
-171000Z...Coast/Valleys...Multiple SCT-OVC decks with one layer
-closer to 2000-2500ft MSL and another 3000-4000ft MSL. More
-widespread MVFR CIGs this morning after 12z, filling in along the
-coastline. Localized VIS reductions to 3-6SM, primarily where clouds
-intersect terrain and in inland valleys. Clouds should begin to
-clear out by 18-20z, although some may linger in inland valleys
-through the afternoon. Low clouds based > 2500ft MSL will move
-inland again as early as 23z, and will fill in sufficiently to much
-of the Inland Empire and San Diego County by 06z. Bases may rise a
-bit after 12z Mon.
+171800Z...Coast/Valleys...SCT-BKN clouds with bases 2000+ ft MSL
+through the coastal basin. Low clouds should scatter out through
+20z, although some may linger in inland valleys through the
+afternoon. Low confidence in timing of cigs developing along the
+coast, higher confidence that when cigs develop bases will be 2000-
+3000 ft MSL. Elevated N/NE winds may prevent cigs from developing at
+KONT/KSBD/KSNA. Highest chances of cigs at KSNA are 30-40 percent 04-
+12Z Mon. Low clouds will scatter 16-18Z from the valleys to the
+coast.
 
-Mountains/Deserts...Gusty north to northwest winds this morning,
-intensifying after 18z with widespread  30-40 knot surface gusts
-expected in the deserts, locally up to 55-60 knots in vulnerable
-mountain passes such as the Banning Pass. MOD up/downdrafts and
-local LLWS in lee of mountains as well as localized VIS reductions
-to 4-6SM expected, especially during periods of strong gusts. Winds
-weaken after 06z Mon, but will remain elevated in wind prone spots.
+Mountains/Deserts...Gusty north to northwest winds with widespread
+30-40 knot surface gusts expected in the deserts, locally up 60
+knots in vulnerable mountain passes such as the San Gorgonio Pass.
+MOD up/downdrafts and local LLWS in lee of mountains as well as
+localized VIS reductions to 4-6SM expected, especially during
+periods of strong gusts. Winds weaken after 10z Mon.
 
 &&
 
 .MARINE...
-West-northwest gusts up to 20 knots remain possible for the outer
-coastal waters near San Clemente Island through 7AM this morning. In
-addition to the winds, seas of 7-10 feet with a 9-12 second period
-will generate choppy seas. Winds and seas will slowly diminish
-through the remainder of the day.
+Elevated seas will continue to diminish into the afternoon. No
+hazardous marine conditions expected Monday through Friday.
+
+&&
+
+.BEACHES...
+A westerly swell from 290 degrees with a 9 to 10 second period is
+bringing elevated surf of 4 to 6 feet through Monday morning.
+Highest surf on west to northwest facing beaches. The combination of
+elevated surf and high tides of 6.5 to 7 feet will result in minor
+tidal overflow, especially for beach parking lots and boardwalks.
+Surf will start to decrease Monday afternoon.
 
 &&
 
@@ -450,22 +429,19 @@ encouraged to report significant weather conditions.
 CA...Beach Hazards Statement through Monday morning for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Wind Advisory until 11 PM PDT this evening for Apple and Lucerne
+     Wind Advisory until 3 AM PDT Monday for Apple and Lucerne
      Valleys-Riverside County Mountains-San Bernardino County
      Mountains-San Diego County Deserts-San Diego County
      Mountains-San Gorgonio Pass near Banning.
 
-PZ...Small Craft Advisory until 7 AM PDT this morning for Waters from
-     San Mateo Point to the Mexican Border Extending 10 to 60 nm
-     out including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...Zuber
+PUBLIC...Villafane
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
