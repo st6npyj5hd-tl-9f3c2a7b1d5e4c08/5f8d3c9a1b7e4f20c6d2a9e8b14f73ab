@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-17T19:12:10+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-18T03:52:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -330,13 +330,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-580
-FXUS66 KSGX 171815
+379
+FXUS66 KSGX 180025
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1115 AM PDT Sun May 17 2026
+525 PM PDT Sun May 17 2026
 
 .SYNOPSIS...
 Cooler weather persists through the weekend, with a deeper, more
@@ -379,19 +379,22 @@ Thursday afternoon. Temperatures Thursday will be up to 5 degrees
 warmer than average over most of the area. The high deserts will see
 temperatures 5-10 degrees above average.
 
-
 &&
 
 .AVIATION...
-171800Z...Coast/Valleys...SCT-BKN clouds with bases 2000+ ft MSL
-through the coastal basin. Low clouds should scatter out through
-20z, although some may linger in inland valleys through the
-afternoon. Low confidence in timing of cigs developing along the
-coast, higher confidence that when cigs develop bases will be 2000-
-3000 ft MSL. Elevated N/NE winds may prevent cigs from developing at
-KONT/KSBD/KSNA. Highest chances of cigs at KSNA are 30-40 percent 04-
-12Z Mon. Low clouds will scatter 16-18Z from the valleys to the
-coast.
+180000Z...Coast/Valleys...SCT-BKN clouds 3000-4500ft AGL in place
+across inland valleys through the coastal mountain slopes.
+Meanwhile, lower marine later clouds with CIGs around 2200-2800ft
+MSL have been filled back in across coastal San Diego County with
+clear skies prevailing for the Orange County coastal areas. There is
+a window around 04-08z Monday for CIGs to reach KSNA, before the
+arrival of offshore winds aloft start to fight back. Confidence is
+lower on the evolution of the CIGs for San Diego County, as a
+coastal eddy (likely weaker than last night) will battle with the
+offshore winds. Currently expecting the MVFR CIGs to become more SCT-
+BKN by 09-12z, before being swept out completely by 15-17z, with
+clear skies into Monday afternoon. N/NE gusts up to 20 kts expected
+below mountain passes, likely reaching KONT by 15z.
 
 Mountains/Deserts...Gusty north to northwest winds with widespread
 30-40 knot surface gusts expected in the deserts, locally up 60
@@ -403,8 +406,7 @@ periods of strong gusts. Winds weaken after 10z Mon.
 &&
 
 .MARINE...
-Elevated seas will continue to diminish into the afternoon. No
-hazardous marine conditions expected Monday through Friday.
+No hazardous marine conditions expected through Friday.
 
 &&
 
@@ -415,13 +417,6 @@ Highest surf on west to northwest facing beaches. The combination of
 elevated surf and high tides of 6.5 to 7 feet will result in minor
 tidal overflow, especially for beach parking lots and boardwalks.
 Surf will start to decrease Monday afternoon.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -440,8 +435,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE/BEACHES...CO
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
