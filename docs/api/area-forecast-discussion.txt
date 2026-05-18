@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-18T15:36:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-18T19:46:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,29 +327,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-779
-FXUS66 KSGX 181042
+193
+FXUS66 KSGX 181929
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-342 AM PDT Mon May 18 2026
+1229 PM PDT Mon May 18 2026
 
 .SYNOPSIS...
-High temperatures the coast to the coastal slopes of the
-mountains will warm several degrees today with faster inland
-clearing of night and morning coastal low clouds today and
-Tuesday. Warming will expand into the deserts on Tuesday and
-continue on Wednesday as the coast and valleys begin to cool on
-Wednesday. Not much change in high temperatures for Thursday
-through Sunday with high temperatures a few to around 5 degrees
-above average. A more persistent coastal eddy will bring greater
-coverage of night and morning coastal low clouds for the middle of
-the week with low clouds spreading into the western valleys for
-early Wednesday and into the inland valleys for early Thursday.
+Night and morning low clouds and fog will be present each day
+through the forecast period along the coast for the first half of
+the week and into portions of the valleys towards the end of the
+week. High temperatures will be below average in the deserts today
+and tomorrow, with highs 5 to 10 degrees above average west of the
+mountains for the first half of the week. Minor fluctuations in
+temperatures for Thursday through next weekend.
 
 &&
 
@@ -357,61 +355,40 @@ early Wednesday and into the inland valleys for early Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Wednesday)...
-Northwest to north winds for the mountains and deserts will become
-north to northeast this morning, then diminish through the
-afternoon. High temperatures for the deserts will be a few
-degrees cooler today. High temperatures for the coast to the
-coastal slopes of the mountains will warm several degrees today,
-as much as 10 to 15 degrees for the Inland Empire. There will be
-warming for most areas on Tuesday with high temperatures as much
-as 5 to 10 degrees warmer for the mountains, deserts, and inland
-valleys. For Wednesday, the coast and valleys will begin to cool
-while high temperatures for the mountains and deserts warm another
-few to around 5 degrees.
+Weak offshore flow through Wednesday will keep low clouds out of
+the inland valleys but won`t be strong enough to keep coastal
+areas clear of low clouds overnight and in the mornings. It should
+help with more efficient clearing in the afternoons through
+Wednesday. A noticeable warming expected today compared to
+yesterday with the inland valleys expected to be 8 to 15 degrees
+warmer. An additional 3 to 7 degrees of warming is expected on
+Tuesday from the coast to the deserts, with continued warming
+inland Wednesday.
 
-While a weak coastal eddy will continue at times through Tuesday,
-mainly nights and early mornings, low clouds should clear faster
-for inland areas, especially on Tuesday. However, the local NAM-
-bounded WRF shows a more persistent coastal eddy developing
-Tuesday night and continuing into Thursday with more widespread
-coastal low clouds spreading into the western valleys for Tuesday
-night into Wednesday morning and into the inland valleys for the
-Wednesday night into Thursday morning as the marine layer deepens.
+The marine layer is expected to deepen Wednesday night into
+Thursday, which will push low clouds and fog into the inland
+valleys. A deeper marine layer is expected to be maintained through
+the weekend. There will be slight day-to-day differences in high
+temperatures for Thursday through next weekend with high
+temperatures a few to around 5 degrees above average.
 
 &&
 
-.LONG TERM (Thursday through Sunday)...
-There will be slight day-to-day differences in high temperatures
-for Thursday through next weekend with high temperatures a few to
-around 5 degrees above average. High temperatures will range from
-around 70 near the coast to the 80s for the Inland Empire with the
-lower deserts around 100.
+.AVIATION... 181800Z...Coast/Valleys...Low clouds have cleared most
+areas in OC and the Inland Empire, with low clouds with bases 2500-
+4000ft MSL clinging to inland and coastal San Diego county for
+another hour or two. Low clouds may return this evening (30-50%) to
+coastal areas with the highest chances in coastal San Diego between
+13-17Z. if low clouds do develop, bases would be AOA 1500ft MSL.
 
-&&
-
-.AVIATION...
-180930Z...Coast/Valleys...Low clouds with varying bases 2000-4000
-feet MSL will scatter out from northeast to southwest this
-morning by 16Z. Low confidence in the return of low clouds this
-evening, but areas should return mainly vcnty KSAN after 03Z. Any
-cigs would be based around 1500 feet MSL and intermittent.
-
-Mountains/Deserts...Offshore northerly winds will bring gusts 25-35
-knots through and below mountain passes through 20Z. Pockets of LLWS
-and downdrafts in lee (south and west) of mountains.
+Mountains/Deserts...Northerly winds will bring gusts 25-35 knots
+through and below mountain passes through 20-22Z. Pockets of LLWS
+and downdrafts in lee (south and west) of mountains will be possible.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
-
-&&
-
-.BEACHES...
-Surf up to 5 feet this morning will gradually fade during the day.
-Elevated surf could combine with high tides this morning to produce
-minor tidal overflow. See the Coastal Hazard Message for details.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
@@ -419,25 +396,19 @@ minor tidal overflow. See the Coastal Hazard Message for details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 9 AM PDT this morning for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Wind Advisory until 3 AM PDT early this morning for Apple and
-     Lucerne Valleys-Riverside County Mountains-San Bernardino
-     County Mountains-San Diego County Deserts-San Diego County
-     Mountains-San Gorgonio Pass near Banning.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...CO
+AVIATION/MARINE...Villafane
 
 
 </pre>
