@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-18T03:52:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-18T10:07:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -325,34 +325,60 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=30&glossary=0">30</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-379
-FXUS66 KSGX 180025
+503
+FXUS66 KSGX 180441
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-525 PM PDT Sun May 17 2026
+941 PM PDT Sun May 17 2026
 
 .SYNOPSIS...
-Cooler weather persists through the weekend, with a deeper, more
-persistent marine layer and night and morning coastal low clouds
-extending well inland and onto the coastal slopes of the
-mountains. Southwest to west winds for the mountains and deserts
-will gust to 40 to 50 mph through Sunday, with isolated gusts to
-65 mph. Gradually warmer, dry weather with generally weak winds
-will follow Monday through Thursday, followed by a slight
-cooldown from Thursday into Friday.
+Southwest to west winds for the mountains and deserts will gust
+to 40 to 50 mph this evening, weakening and turning offshore
+tonight. Gradually warmer and dry weather with periods of weak
+offshore flow Monday through Wednesday. Continued warming inland
+through Thursday, then slow cooling into next weekend. The marine
+layer will be shallower Tuesday through the reminder of the week
+with less extensive night and morning low clouds.
 
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+Evening update...
+
+Gusty onshore winds and pockets of blowing dust in the deserts
+continue. Whitewater recorded the highest wind gust of 69 mph at
+550 PM. A list of peak wind gusts is headlined on our website at
+weather.gov/sgx. A cold front moving in from the north has kicked
+up plenty of dust across NV and into the Owens Valley. This dust
+storm has progressed southward behind the front through the
+afternoon and is forecast to arrive in our portion of the Mojave
+Desert later this evening. So far visibility at the few and far
+between ASOS sites in northern San Bernardino County have only
+dropped to about 3 miles. Not anticipating visibility to lower
+enough for a dust advisory or dust storm warning, but those
+traveling on I-15, Highway 395, or other routes in the Mojave
+desert should be prepared for sudden reductions in visibility and
+gusty winds.
+
+For the coastal and valley areas, a deep marine layer remains in
+place. High-res guidance continues to show light precipiation west
+of the mountains tonight (mainly in San Diego County), so
+introduced light drizzle into the forecast. Winds turn offshore as
+the aforementioned front continues to shift south, which will help
+clear out marine layer clouds and end any light precip by mid-
+morning Monday. Otherwise light smoke possible at times west of
+the mountains due to the Santa Rosa Island Fire in the Channel
+Islands.
+
+Previous discussion...
 
 .SHORT TERM (Today through tomorrow night)...
 Gusty winds will continue through the day today and through this
@@ -382,26 +408,30 @@ temperatures 5-10 degrees above average.
 &&
 
 .AVIATION...
-180000Z...Coast/Valleys...SCT-BKN clouds 3000-4500ft AGL in place
-across inland valleys through the coastal mountain slopes.
-Meanwhile, lower marine later clouds with CIGs around 2200-2800ft
-MSL have been filled back in across coastal San Diego County with
-clear skies prevailing for the Orange County coastal areas. There is
-a window around 04-08z Monday for CIGs to reach KSNA, before the
-arrival of offshore winds aloft start to fight back. Confidence is
-lower on the evolution of the CIGs for San Diego County, as a
-coastal eddy (likely weaker than last night) will battle with the
-offshore winds. Currently expecting the MVFR CIGs to become more SCT-
-BKN by 09-12z, before being swept out completely by 15-17z, with
-clear skies into Monday afternoon. N/NE gusts up to 20 kts expected
-below mountain passes, likely reaching KONT by 15z.
+180600Z...Coast/Valleys...Clouds with varying bases 2000-4000 ft MSL
+in place across the entire coastal basin this evening, but drier air
+moving in and the development of offshore winds should help clear
+out much of the cloud cover by sunrise. A majority of the lower
+clouds with MVFR CIGs are focused across the coastal areas, though
+CIGs will likely be intermittent through the next several hours.
+Guidance is consistent in that a bulk of the cloud cover will grow
+more and more patchy after 09z, with nearly full clearing by 15-18z.
+Onset northerly offshore winds through the Cajon Passes around 09-
+12z, with some BLDU from the deserts sneaking through below the pass
+as well. Winds remaining onshore at the coasts, with onshore flow
+resuming into the inland valleys by Monday afternoon. Low confidence
+in the return of marine layer clouds Monday evening, but will likely
+not occur until after 03z Tuesday.
 
-Mountains/Deserts...Gusty north to northwest winds with widespread
-30-40 knot surface gusts expected in the deserts, locally up 60
-knots in vulnerable mountain passes such as the San Gorgonio Pass.
-MOD up/downdrafts and local LLWS in lee of mountains as well as
-localized VIS reductions to 4-6SM expected, especially during
-periods of strong gusts. Winds weaken after 10z Mon.
+Mountains/Deserts...Gusty onshore winds from earlier today have
+largely fallen below 25 knots at this hour. A backdoor front
+bringing offshore northerly winds is currently pushing southward
+through San Bernardino County. Accompanying this front is 25-35 knot
+northerly wind gusts, along with blowing dust which may bring
+visibilities down to 2-5 SM. BLDU and northerly gusts expected to
+reach the High Desert between 05-07z, and into the Coachella Valley
+by 06-09z. Wind gusts gradually decreasing overnight with improving
+visibility after the front passes.
 
 &&
 
@@ -420,6 +450,13 @@ Surf will start to decrease Monday afternoon.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Beach Hazards Statement through Monday morning for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -435,7 +472,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...SS/Villafane
 AVIATION/MARINE/BEACHES...Munyan
 
 
