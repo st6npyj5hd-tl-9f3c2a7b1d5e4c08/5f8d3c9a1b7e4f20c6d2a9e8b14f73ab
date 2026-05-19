@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-19T15:22:06+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-19T19:53:39+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,13 +332,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-801
-FXUS66 KSGX 190921
+217
+FXUS66 KSGX 191648
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-221 AM PDT Tue May 19 2026
+948 AM PDT Tue May 19 2026
 
 .SYNOPSIS...
 High temperatures for the mountains and deserts will warm through
@@ -401,22 +401,26 @@ portions of the inland valleys late each night.
 &&
 
 .AVIATION...
-190930Z...Mostly clear skies today and tonight. Low chance (<20%) of
-cigs around 1500 feet MSL vcnty KSAN between 13-17Z. Increasing
-chance (30-70%) of low clouds to gradually develop in coastal areas
-after 09Z Wednesday. Offshore breezes with strongest gusts 25-30 kts
-through mountain passes and foothills 14-19Z today.
+191700Z...Mostly clear skies expected through early Wednesday
+morning. Offshore breezes with strongest gusts 20-25 kts through
+mountain passes and foothills will diminish within the next few
+hours. 30-70% chance for low clouds based 1000-2000 ft MSL over
+coastal San Diego County after 11z (highest chances near KSAN). Low
+clouds will scatter to the coast by 16-17z Wed.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday.
+West-northwest winds will gust to near 20 kts over outer coastal
+waters this afternoon and evening. Otherwise, no hazardous marine
+conditions are expected through Sunday morning.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -428,8 +432,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Martin
+AVIATION/MARINE...KW
 
 
 </pre>
