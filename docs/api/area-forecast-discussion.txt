@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-19T03:42:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-19T09:48:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -329,25 +329,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-622
-FXUS66 KSGX 190023
+801
+FXUS66 KSGX 190921
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-523 PM PDT Mon May 18 2026
+221 AM PDT Tue May 19 2026
 
 .SYNOPSIS...
-Night and morning low clouds and fog will be present each day
-through the forecast period along the coast for the first half of
-the week and into portions of the valleys towards the end of the
-week. High temperatures will be below average in the deserts today
-and tomorrow, with highs 5 to 10 degrees above average west of the
-mountains for the first half of the week. Minor fluctuations in
-temperatures for Thursday through next weekend.
+High temperatures for the mountains and deserts will warm through
+Thursday. High temperatures for the coast and valleys will warm
+several more degrees today, then slowly cool into next weekend.
+Night and morning coastal low clouds will return and increase in
+coverage during the middle of the week, then spread farther into
+the inland valleys by next weekend.
 
 &&
 
@@ -355,40 +356,69 @@ temperatures for Thursday through next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Weak offshore flow through Wednesday will keep low clouds out of
-the inland valleys but won`t be strong enough to keep coastal
-areas clear of low clouds overnight and in the mornings. It should
-help with more efficient clearing in the afternoons through
-Wednesday. A noticeable warming expected today compared to
-yesterday with the inland valleys expected to be 8 to 15 degrees
-warmer. An additional 3 to 7 degrees of warming is expected on
-Tuesday from the coast to the deserts, with continued warming
-inland Wednesday.
+.SHORT TERM (Today through Thursday)...
+Weak offshore flow will continue for inland areas today with high
+temperatures for inland areas warming 5 to 10 degrees. High
+temperatures for the coast and valleys will be around 5 degrees
+above average for today with the mountains and deserts a few
+degrees below average. High temperatures for today will range from
+around 70 near the coast to the 80s for the Inland Empire with
+the lower deserts in the lower to mid 90s.
 
-The marine layer is expected to deepen Wednesday night into
-Thursday, which will push low clouds and fog into the inland
-valleys. A deeper marine layer is expected to be maintained through
-the weekend. There will be slight day-to-day differences in high
-temperatures for Thursday through next weekend with high
-temperatures a few to around 5 degrees above average.
+High temperatures for the mountains and deserts will warm another
+5 degrees on Wednesday and another few degrees on Thursday. High
+temperatures for coastal areas will cool a few degrees on
+Wednesday with cooling of a few degrees spreading into the valleys
+on Thursday. High temperatures on Thursday will be a few to around
+5 degrees above average with high temperatures ranging from around
+70 near the coast to the 80s for the Inland Empire with the mid
+to upper 90s for the lower deserts.
+
+While the NKX sounding for late Monday afternoon showed the marine
+layer was still around 3500 feet deep, higher-resolution model
+guidance shows little or no return of coastal low clouds this
+morning except possibly some patchy low clouds near the southern
+San Diego County coast before sunrise. For tonight into Wednesday
+morning, those models develop a weak coastal eddy with low clouds
+spreading northward and locally inland along the San Diego County
+coast, possibly into portions of Orange County. For Wednesday
+night into Thursday, greater inland spread of the coastal low
+clouds is expected with low clouds spreading into portions of the
+San Diego County valleys and portions of the Inland Empire.
+
+&&
+
+.LONG TERM (Friday through Monday)...
+Not much change in high temperatures is expected for the mountains
+and deserts with slight additional cooling for the coast and
+valleys. For next Monday, high temperatures will range from around
+average near the coast to around 5 degrees above average for the
+mountains and deserts. High temperatures for next Monday will
+range from around 70 near the coast to the upper 70s to upper 80s
+for the Inland Empire with the lower deserts in the upper 90s to
+102. Night and morning coastal low clouds will spread into
+portions of the inland valleys late each night.
+
 
 &&
 
 .AVIATION...
-190000Z...Coast/Valleys...Aside from a few sparsely isolated
-cumulus, clear skies and VFR conditions prevail across the coastal
-basin. Low clouds may return this evening (20-40% chance) to coastal
-areas with the highest chances in coastal San Diego County between
-13-17Z. If low clouds do develop, bases would be AOA 1500ft MSL.
-
-Mountains/Deserts...Gusty winds have largely subsided this evening,
-though breezy northerly/easterly offshore winds pick back up after
-18z Tuesday. Otherwise, VFR prevailing through the period.
+190930Z...Mostly clear skies today and tonight. Low chance (<20%) of
+cigs around 1500 feet MSL vcnty KSAN between 13-17Z. Increasing
+chance (30-70%) of low clouds to gradually develop in coastal areas
+after 09Z Wednesday. Offshore breezes with strongest gusts 25-30 kts
+through mountain passes and foothills 14-19Z today.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Saturday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -400,8 +430,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Munyan
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
