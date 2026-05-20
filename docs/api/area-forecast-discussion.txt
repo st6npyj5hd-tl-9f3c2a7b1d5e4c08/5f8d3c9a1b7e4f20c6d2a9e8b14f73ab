@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T03:44:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T09:37:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,13 +332,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-253
-FXUS66 KSGX 192357
+017
+FXUS66 KSGX 200441
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-457 PM PDT Tue May 19 2026
+941 PM PDT Tue May 19 2026
 
 .SYNOPSIS...
 High temperatures for the mountains and deserts will warm through
@@ -408,22 +408,18 @@ time of year.
 &&
 
 .AVIATION...
-192355Z...Mostly clear skies expected for most of the area through
+200430Z...Mostly clear skies expected over most of the area through
 the TAF period with the exception to southern coastal San Diego, up
-to 20 miles inland. Low clouds are expected to move inland 09-10Z,
-increasing in coverage through 14-15Z with bases around 1000-2000ft
-MSL. Low clouds are expected to clear after 16-17Z.
+to 20 miles inland. Low clouds are expected to move inland after 09-
+10Z, increasing in coverage through 14-15Z with bases around 1000-
+2000ft MSL. Low clouds are expected to clear after 16-17Z.
 
-Offshore winds continue with the strongest gusts 20-25 kts through
-mountain passes and foothills. These winds will diminish in the
-next few hours.
+everywhere else, VFR conditions expected through the TAF period.
 
 &&
 
 .MARINE...
-West-northwest winds are gusting near 20 kts over outer coastal
-waters and will continue until this evening. Otherwise, no hazardous
-marine conditions are expected through Sunday morning.
+No hazardous marine conditions are expected through Sunday morning.
 
 &&
 
