@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T09:37:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T15:24:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,21 +332,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-017
-FXUS66 KSGX 200441
+850
+FXUS66 KSGX 201009
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-941 PM PDT Tue May 19 2026
+309 AM PDT Wed May 20 2026
 
 .SYNOPSIS...
-High temperatures for the mountains and deserts will warm through
-Thursday. High temperatures for the coast and valleys will warm
-several more degrees today, then slowly cool into next weekend.
-Night and morning coastal low clouds will return and increase in
-coverage during the middle of the week, then spread farther into
-the inland valleys by next weekend.
+Warming will continue for the mountains and deserts through
+Thursday while the coast and valleys begin to cool. For Friday
+through Sunday, not much change in high temperatures is expected
+for the mountains and deserts while the coast and valley cool a
+few more degrees. Cooling will begin to spread inland early next
+week as onshore flow strengthens. Patchier night and morning low
+clouds near the coast will increase in coverage and inland spread
+for Friday into early next week with low clouds spreading into
+portions of the inland valleys late each night with later or more
+limited clearing near the coast each afternoon.
 
 &&
 
@@ -354,79 +358,79 @@ the inland valleys by next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+.SHORT TERM (Today through Friday)...
+The humidity for inland areas will once again fall to around 10
+percent for the deserts for this afternoon and 10 to 15 percent
+for the mountains and inland valleys. High temperatures will
+continue to warm for inland areas today, as much as another 4 to
+8 degrees for the mountains and deserts, while coastal areas cool
+a few degrees. High temperatures today will range from around 70
+near the coast to the mid 80s to lower 90s for the Inland Empire
+with the lower deserts in the mid to upper 90s.
 
-As of 2:00 PM PDT, satellite depicts mostly clear skies with an
-isolated patch of cirrus clouds. Temperatures are running 5 to 10
-degrees warmer than yesterday inland, reaching into the mid-to-upper
-80s through the Inland Empire and the upper 70s/low 80s for inland
-areas of San Diego and Orange Counties. Most of the lowlands are
-experiencing a typical May sea breeze. The San Diego to Tonopah
-pressure gradient has remained constant at around -5 mbs, yielding
-to offshore flow (N/NE winds) and lower humidity  through most of
-the Inland Empire and in the mountains. As a result, relative
-humidities are 10-20% in the mountains and 15-30% through the Inland
-Empire.
+For Thursday, high temperatures will warm another few degrees for
+the deserts while the coast and valleys cool a few to around 5
+degrees. Friday high temperatures will cool a few degrees for most
+areas. High temperatures on Friday will range from the mid to
+upper 60s near the coast to the upper 70s to mid 80s for the
+Inland Empire with the upper 90s for the lower deserts.
 
-The sea breeze boundary will push eastward through the foothills and
-mountains this afternoon, increasing humidities this evening through
-the boundary layer - below 3000-400 feet elevation. This morning`s
-sounding showed a marine layer thickness of around 2500 feet deep,
-and with similar 700-mb heights, the marine layer should settle to a
-similar depth tonight, where humidities will mostly recover above
-50% overnight (80% closer to the coast). Clouds will struggle to
-develop, however, and should be restricted to coastal San Diego
-County should any clouds develop (65-75% chance).
-
-While 500-mb heights don`t change much, the weak surface high
-pressure in the Great Basin creating offshore flow will continue to
-move eastward. Temperatures will warm in the deserts through
-Thursday, which will increase the onshore pressure gradient and
-enhance the sea breeze. The marine layer will gradually deepen each
-day, with higher chances for more broad coverage into the Inland
-Empire Thursday morning.
-
-While there isn`t a strong temperature trend this week, temperatures
-peak Wednesday for inland areas (mid-80s - low 90s) and Thursday
-through the low deserts (approaching 100 degrees).
+The most likely location for coastal low clouds this morning is
+over coastal areas of southern San Diego County into the adjacent
+western valleys. Greater coverage of low clouds is expected for
+tonight into Thursday morning for coastal areas with the low
+clouds spreading into the western valleys for Thursday night into
+Friday morning.
 
 &&
 
-.LONG TERM (Friday through Monday)...
+.LONG TERM (Saturday through Tuesday)...
+High temperatures will change little through Sunday, generally a
+few degrees above average for the coast and valleys and a few to
+around 5 degrees above average for the mountains and deserts. High
+temperatures for Saturday and Sunday will range from around 70
+near the coast to the upper 70s to upper 80s for the Inland
+Empire with the lower deserts around 100.
 
-Temperatures in the mountains and deserts look to remain relatively
-constant through next Monday. At the coast and through the inland
-valleys, temperatures look to gradually decrease a degree or two
-each day through Sunday, with perhaps a steeper decrease in
-temperatures Monday onward, contingent upon a trough digging deep
-from the Pacific Northwest into Southern California. Based on WPC
-500-mb clusters, about 30% of ensemble runs are converging on this
-solution, while others build a ridge to the northwest, though
-keeping heights above Southern California around normal for this
-time of year.
+For Monday and Tuesday, a low pressure system moving into the
+Pacific Northwest will strengthen the onshore flow across southern
+California. This will spread cooling inland with high
+temperatures on Tuesday a few degrees below average near sea level
+to 5 to 10 degrees below average for the valleys and lower
+coastal slopes of the mountains. High temperatures on Tuesday will
+range from the mid to upper 60s near the coast to the 70s for the
+Inland Empire with the 90s for the lower deserts.
+
+Night and morning low clouds will spread inland into portions of
+the inland valleys late each night with slower and more limited
+afternoon clearing near the coast. With the stronger onshore flow
+early next week, southwest to west winds for the mountains and
+deserts will gust to 30 to 40 mph on Tuesday afternoon and evening
+with gusts to around 60 mph in the northern Coachella Valley
+below the San Gorgonio Pass.
 
 &&
 
 .AVIATION...
-200430Z...Mostly clear skies expected over most of the area through
-the TAF period with the exception to southern coastal San Diego, up
-to 20 miles inland. Low clouds are expected to move inland after 09-
-10Z, increasing in coverage through 14-15Z with bases around 1000-
-2000ft MSL. Low clouds are expected to clear after 16-17Z.
+200930Z...Coast...Areas of low clouds based around 800-1200 feet MSL
+will gradually develop and cover much of coastal San Diego County
+and southern OC this morning. Vis reduced 1-5SM over higher coastal
+terrain. Scatter out by 16Z. Low clouds based around 1000 feet MSL
+will redevelop after 06Z tonight into Thursday and cover coastal
+areas more uniformly.
 
-everywhere else, VFR conditions expected through the TAF period.
+Otherwise, mostly clear and VFR conditions today and tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday morning.
+No hazardous marine conditions are expected through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -438,8 +442,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...Villafane
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
