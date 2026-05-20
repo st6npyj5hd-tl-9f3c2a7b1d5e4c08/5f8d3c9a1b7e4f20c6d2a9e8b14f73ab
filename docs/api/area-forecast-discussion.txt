@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T15:24:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T20:20:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -329,28 +329,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-850
-FXUS66 KSGX 201009
+204
+FXUS66 KSGX 201900
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-309 AM PDT Wed May 20 2026
+1200 PM PDT Wed May 20 2026
 
 .SYNOPSIS...
-Warming will continue for the mountains and deserts through
-Thursday while the coast and valleys begin to cool. For Friday
-through Sunday, not much change in high temperatures is expected
-for the mountains and deserts while the coast and valley cool a
-few more degrees. Cooling will begin to spread inland early next
-week as onshore flow strengthens. Patchier night and morning low
-clouds near the coast will increase in coverage and inland spread
-for Friday into early next week with low clouds spreading into
-portions of the inland valleys late each night with later or more
-limited clearing near the coast each afternoon.
+A weak area of low pressure will stay over the area through Monday,
+bringing temperatures near to slightly above normal with night and
+morning clouds and fog for the coastal and western valley areas. A
+stronger area of low pressure moves by from the north, bringing
+cooler and breezier weather by the middle of next week.
 
 &&
 
@@ -358,79 +355,50 @@ limited clearing near the coast each afternoon.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Friday)...
-The humidity for inland areas will once again fall to around 10
-percent for the deserts for this afternoon and 10 to 15 percent
-for the mountains and inland valleys. High temperatures will
-continue to warm for inland areas today, as much as another 4 to
-8 degrees for the mountains and deserts, while coastal areas cool
-a few degrees. High temperatures today will range from around 70
-near the coast to the mid 80s to lower 90s for the Inland Empire
-with the lower deserts in the mid to upper 90s.
+Low clouds and areas of dense fog occurred earlier this morning in
+coastal San Diego County. Low clouds will move slightly further
+inland to all coastal regions tonight through Thursday morning as
+the marine layer slightly deepens as a weak trough forms over
+Southern California. Temperatures will be fairly similar through
+he weekend as the weak area of low pressure hangs around with
+highs near to slightly above average across the region. As the
+weak trough moves in, low clouds will move around 15 miles inland
+each night, diminishing each morning. The weak troughing pattern
+will bring a return to light onshore winds from the southwest and
+west, gusting near 15-25 MPH each afternoon and evening.
 
-For Thursday, high temperatures will warm another few degrees for
-the deserts while the coast and valleys cool a few to around 5
-degrees. Friday high temperatures will cool a few degrees for most
-areas. High temperatures on Friday will range from the mid to
-upper 60s near the coast to the upper 70s to mid 80s for the
-Inland Empire with the upper 90s for the lower deserts.
-
-The most likely location for coastal low clouds this morning is
-over coastal areas of southern San Diego County into the adjacent
-western valleys. Greater coverage of low clouds is expected for
-tonight into Thursday morning for coastal areas with the low
-clouds spreading into the western valleys for Thursday night into
-Friday morning.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High temperatures will change little through Sunday, generally a
-few degrees above average for the coast and valleys and a few to
-around 5 degrees above average for the mountains and deserts. High
-temperatures for Saturday and Sunday will range from around 70
-near the coast to the upper 70s to upper 80s for the Inland
-Empire with the lower deserts around 100.
-
-For Monday and Tuesday, a low pressure system moving into the
-Pacific Northwest will strengthen the onshore flow across southern
-California. This will spread cooling inland with high
-temperatures on Tuesday a few degrees below average near sea level
-to 5 to 10 degrees below average for the valleys and lower
-coastal slopes of the mountains. High temperatures on Tuesday will
-range from the mid to upper 60s near the coast to the 70s for the
-Inland Empire with the 90s for the lower deserts.
-
-Night and morning low clouds will spread inland into portions of
-the inland valleys late each night with slower and more limited
-afternoon clearing near the coast. With the stronger onshore flow
-early next week, southwest to west winds for the mountains and
-deserts will gust to 30 to 40 mph on Tuesday afternoon and evening
-with gusts to around 60 mph in the northern Coachella Valley
-below the San Gorgonio Pass.
+By Monday into the first half of next week, a stronger troughing
+pattern develops over the West Coast as an area of low pressure
+passes to the north. This will bring in greater low cloud coverage
+each night and morning across the western valleys with temperatures
+cooling down further where 60s and 70s will occur from the
+mountains to the coast. Onshore flow will increase as the low
+moves into the Pac NW and Great Basin by Tuesday into the middle
+of the week. NBM models show winds gusting near 30-45 MPH across
+most mountains and deserts, with locally higher winds in the
+passes.
 
 &&
 
 .AVIATION...
-200930Z...Coast...Areas of low clouds based around 800-1200 feet MSL
-will gradually develop and cover much of coastal San Diego County
-and southern OC this morning. Vis reduced 1-5SM over higher coastal
-terrain. Scatter out by 16Z. Low clouds based around 1000 feet MSL
-will redevelop after 06Z tonight into Thursday and cover coastal
-areas more uniformly.
-
-Otherwise, mostly clear and VFR conditions today and tonight.
+201630Z...SKC expected across the region through this evening. Low
+clouds based 900-1500 ft MSL return to coastal areas overnight,
+starting in San Diego County around 06z and spreading northward.
+More uniform coverage than this morning with about 10-15 miles of
+inland extent. Minor vis reductions (1-5SM) along elevated coastal
+terrain. Low clouds scatter to the coast by 16-17z Thu.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday morning.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -442,8 +410,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
