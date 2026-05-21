@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-20T20:20:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-21T03:55:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-204
-FXUS66 KSGX 201900
+815
+FXUS66 KSGX 210011
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1200 PM PDT Wed May 20 2026
+511 PM PDT Wed May 20 2026
 
 .SYNOPSIS...
 A weak area of low pressure will stay over the area through Monday,
@@ -354,6 +354,8 @@ cooler and breezier weather by the middle of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 Low clouds and areas of dense fog occurred earlier this morning in
 coastal San Diego County. Low clouds will move slightly further
@@ -378,15 +380,18 @@ of the week. NBM models show winds gusting near 30-45 MPH across
 most mountains and deserts, with locally higher winds in the
 passes.
 
+
 &&
 
 .AVIATION...
-201630Z...SKC expected across the region through this evening. Low
-clouds based 900-1500 ft MSL return to coastal areas overnight,
-starting in San Diego County around 06z and spreading northward.
-More uniform coverage than this morning with about 10-15 miles of
-inland extent. Minor vis reductions (1-5SM) along elevated coastal
-terrain. Low clouds scatter to the coast by 16-17z Thu.
+210000Z...Coast...Low clouds with bases 900-1500ft MSL will slowly
+make their way in along the coast, starting along southern San Diego
+after 04Z and spread northward and inland up to 10-15 miles after
+07Z-08Z. Minor vis reductions of 1-5 SM will be possible along
+elevated coastal terrain. Low clouds scatter to the coast by 16-17z.
+
+Otherwise, predominately clear skies and VFR conditions through the
+TAF period.
 
 &&
 
@@ -411,7 +416,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
