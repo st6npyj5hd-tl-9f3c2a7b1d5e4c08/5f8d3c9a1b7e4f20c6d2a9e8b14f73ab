@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-22T14:42:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-22T19:48:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -331,18 +331,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-827
-FXUS66 KSGX 221001
+071
+FXUS66 KSGX 221623
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-301 AM PDT Fri May 22 2026
+930 AM PDT Fri May 22 2026
 
 .SYNOPSIS...
 A weak area of low pressure will linger over the area through
@@ -359,14 +357,17 @@ of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
+...updated Aviation and Marine sections for 900 AM...
+
 Marine layer low clouds have filled in quickly tonight over the
 coastal areas and into the western valleys, much more widespread
 than they have been the previous few nights. Elsewhere skies are
 clear. Low clouds should spread into the far southern and western
-portions of the Inland Empire by sunrise, gradually clearing back
-to the coast by late morning. A weak upper level low pressure
-system to the southwest progresses eastward to our south today,
-with high temperatures around 3-5 degrees above normal.
+portions of the Inland Empire by sunrise, gradually clearing back to
+the coast by late morning. A weak upper level low pressure system to
+the southwest progresses eastward to our south today, with high
+temperatures around 3-5 degrees above normal.
 
 Weakly cyclonic flow remains in place through the weekend, then
 another weak trough will move across the area on Monday. This will
@@ -392,21 +393,17 @@ marine layer, and potentially drizzle or light showers for the
 mountains westward sometime Tue-Thu. Slightly warmer with less
 marine layer cloud cover once the low lifts out late in the week.
 
-.AVIATION...
-221200Z...Coast/Valleys...Marine layer clouds based around 1200-
-1600ft MSL have filled in through about 20-25 miles inland this
-morning, including KONT and portions of the Inland Empire. KSBD may
-see the clouds reach, but there is about a 40% chance between 12-
-16z. VIS restrictions down to 3-5 SM in BR for more urban areas of
-the IE, with VIS 2 SM or lower within valleys or where clouds
-intersect higher terrain. Clouds scattering to the coast by 17-18z
-Friday and then redevelop and begin to fill back in along the
-coastal areas by 01-04z Saturday. Bases will likely be 100-300ft
-higher with slightly father inland extent and higher chances for
-CIGs reaching KSBD.
+&&
 
-Otherwise, mostly clear and VFR conditions through early Saturday
-morning.
+.AVIATION...
+221700Z...Coast/Valleys...Low clouds will scatter out by 18Z. Low
+clouds will redevelop and move ashore 01-05Z this evening and fill
+nearly all the coastal basin overnight into Saturday. Bases will
+likely be around 1800-2200 feet MSL with tops to 2600 feet. Vis
+reduced 3-5SM in far inland valleys, and 0-3SM in lower foothills.
+Scatter out Saturday 17-19Z.
+
+Otherwise, mostly clear and VFR conditions through Saturday morning.
 
 &&
 
@@ -425,7 +422,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...MM
 
 
 </pre>
