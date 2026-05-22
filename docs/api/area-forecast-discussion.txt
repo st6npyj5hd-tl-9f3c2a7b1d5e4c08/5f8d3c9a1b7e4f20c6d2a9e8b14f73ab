@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-22T09:28:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-22T14:42:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-356
-FXUS66 KSGX 220823
+827
+FXUS66 KSGX 221001
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-123 AM PDT Fri May 22 2026
+301 AM PDT Fri May 22 2026
 
 .SYNOPSIS...
 A weak area of low pressure will linger over the area through
@@ -392,32 +392,27 @@ marine layer, and potentially drizzle or light showers for the
 mountains westward sometime Tue-Thu. Slightly warmer with less
 marine layer cloud cover once the low lifts out late in the week.
 
-&&
-
 .AVIATION...
-220430Z...Coast/Valleys...Low clouds will continue to develop and
-CIGs will expand eastward into the inland valleys with slightly
-higher bases (1200-1800 ft MSL) further south along San Diego County
-and lower to around 1000 ft MSL more northward to Orange County.
-Clouds spreading northward and into western valleys overnight
-reaching up to 15-20 miles inland. 30% chance for cigs reaching the
-western/southern Inland Empire (including KONT). Clouds scattering
-to the coast by 17-18z Fri. and then redevelop and begin to fill
-back in along the coastal areas by 02-04Z Sat., with similar bases.
+221200Z...Coast/Valleys...Marine layer clouds based around 1200-
+1600ft MSL have filled in through about 20-25 miles inland this
+morning, including KONT and portions of the Inland Empire. KSBD may
+see the clouds reach, but there is about a 40% chance between 12-
+16z. VIS restrictions down to 3-5 SM in BR for more urban areas of
+the IE, with VIS 2 SM or lower within valleys or where clouds
+intersect higher terrain. Clouds scattering to the coast by 17-18z
+Friday and then redevelop and begin to fill back in along the
+coastal areas by 01-04z Saturday. Bases will likely be 100-300ft
+higher with slightly father inland extent and higher chances for
+CIGs reaching KSBD.
 
-Otherwise, mostly clear and VFR conditions tonight and tomorrow.
+Otherwise, mostly clear and VFR conditions through early Saturday
+morning.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday evening.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+No hazardous marine conditions are expected through Wednesday
+morning.
 
 &&
 
@@ -430,7 +425,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Stewey
+AVIATION/MARINE...Munyan
 
 
 </pre>
