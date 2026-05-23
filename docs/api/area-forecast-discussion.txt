@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-23T08:21:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-23T13:38:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,16 +333,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-892
-FXUS66 KSGX 230659
+583
+FXUS66 KSGX 230956
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1159 PM PDT Fri May 22 2026
+256 AM PDT Sat May 23 2026
 
 .SYNOPSIS...
 Near average temperatures through the weekend with below average
@@ -358,50 +360,68 @@ deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Temperatures at noon today were running 3 to 5 degrees cooler than
-this time yesterday along the coast, 6 to 12 degrees cooler in the
-valleys, and about the same to a few degrees warmer than yesterday
-in the mountains and deserts. A gradual cooling trend is expected
-for the weekend into mid-next week which will bring widespread below
-normal temperatures to the area by Monday.
+Marine layer low clouds have filled in over the coastal areas and
+western valleys and spread into the southern and western parts of
+the Inland Empire this morning. Clouds will continue to push
+several more miles inland in the Inland Empire through sunrise,
+then slowly clear black towards the coast through late morning.
+Elsewhere skies will remain clear.
 
-Prevailing onshore flow will keep areas of low clouds present each
-night and morning along the coast through the weekend. A weak
-trough of low pressure will move across the area on Monday. This
-will result in a deeper marine layer and low clouds throughout the
-coastal basin. A deeper marine layer is expected to be maintained
-through the middle of the week. With the increase in onshore flow
-due to the weak passing trough, it`s possible cloudy skies will
-prevail all day along the coast for early next week.
+Weak troughing along the West Coast will maintain cool weather
+with high temperatures near to slightly below normal across the
+region. Low clouds will spread into the inland valleys again
+tonight into Sunday morning, with limited clearing at the coast
+Sunday afternoon as the marine layer continues to deepen. A weak
+upper level low will move through late Sunday into Monday, helping
+the marine layer deepen further and bringing greater cooling for
+Memorial Day, when high temperatures are forecast to be around 3-7
+degrees below normal for the mountains westward, and near normal
+in the deserts. There is a small potential for drizzle in the
+morning, then parts of the coasts and valleys may remain at least
+partly cloudy through the day. It won`t exactly be beach weather
+with low clouds hanging around and highs in the upper 60s.
 
-After the area of low pressure passes early in the week, a
-potentially deeper upper low is expected to drop into the Pacific
-Northwest and into the Great Basin Tuesday and Wednesday. There is
-high confidence that cooler, cloudier, and windier conditions
-will develop but the details in how cool, cloudy, or windy it will
-be are still unclear. It`s possible the marine layer will be deep
-enough for areas of drizzle to develop. For next Thursday and
-Friday the upper level pattern stays unclear with some solutions
-continuing to show weak troughing with others showing weak
-ridging.
+Ensembles have come into better agreement with the progression of
+the upper low dropping down midweek. This closed low will move
+into the Pacific Northwest by Tuesday morning, digging south
+somewhere into CA or NV Wed and Thu before ejecting eastward late
+in the week. The marine layer will continue to deepen, extending
+into the coastal mountain slopes each morning. Depending on the
+track of the trough axis/vort max, we may receive light
+precipitation from the coasts to the mountains. A more westerly
+track, which would favor light precipitation, currently accounts
+for around 45% of the ensemble space. Even then, mean
+precipitation within that cluster is less than 0.10". Gusty
+southwest to west winds are also expected with this system
+midweek, though again the further west track would favor stronger
+winds versus a more easterly/inside track. Wind gusts in the
+mountains and deserts are currently forecast to be around 35-45
+mph with isolated gusts in excess of 55 mph below the passes
+Tuesday evening, weakening slightly on Wednesday. By Wednesday,
+when the upper low is closest, high temperatures will be around
+10-15 degrees below normal inland, and around 3-5 degrees below
+normal near the coast. Minor warming on Thursday as the low begins
+to shift east, then continued warming into Saturday with high
+temperatures returning to near normal.
 
 &&
 
 .AVIATION...
-230600Z...Coast/Valleys...Low clouds based 1700-2000 ft MSL have
-filled in across the coastal areas this evening, now spreading into
-the Inland Empire. With CIGs, VIS reduced 3-5SM (BR/HZ) in far
-inland valleys, and 0-3SM in lower foothills. Inland valleys scatter
-out 15-16z, coastal areas 17-18z Saturday. Clouds redevelop and push
-back ashore after 00z Sunday with similar bases.
+231200Z...Coast/Valleys...Low clouds based 2000-2400 ft MSL have
+filled in across most of the coastal basin this morning, with a few
+gaps in the northeastern Inland Empire. With CIGs, VIS locally
+reduced 3-5SM in BR in far inland valleys, and 0-3SM where clouds
+intersect higher terrain. Inland valleys scatter out 15-16z, coastal
+areas 17-18z Saturday. Clouds redevelop and push back ashore after
+00z Sunday with similar bases.
 
-Otherwise, mostly clear and VFR conditions through Saturday evening.
+Otherwise, mostly clear and VFR conditions through Sunday morning.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Wednesday
-afternoon.
+night.
 
 &&
 
@@ -413,7 +433,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...SS
 AVIATION/MARINE...Munyan
 
 
