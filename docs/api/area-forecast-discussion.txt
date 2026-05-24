@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-23T19:12:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T03:47:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-872
-FXUS66 KSGX 231827
+338
+FXUS66 KSGX 232359
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1127 AM PDT Sat May 23 2026
+459 PM PDT Sat May 23 2026
 
 .SYNOPSIS...
 Near average temperatures through the weekend with below average
@@ -360,6 +358,8 @@ Tuesday into Wednesday morning.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Aviation section updated for 00Z TAF package...
 
 High temperatures today are forecast to be within 5 degrees of
 normal. Low clouds had filled in the coastal basin overnight and are
@@ -398,16 +398,14 @@ for the end of next week.
 &&
 
 .AVIATION...
-231800Z...Coast/Valleys...Low clouds around 2500ft MSL are quickly
-clearing from inland areas and retreating to the coast. A few low
-clouds will linger over coastal areas throughout the day, pushing
-back in after 00-01Z Sunday. Bases will be similar as they were this
-morning with OVC/BKN clouds 1500-2500ft MSL, filling into the
-inland valleys after 03-05Z and into the Inland Empire after 05-07Z.
-Locally reduced VIS 3-5SM in far inland valleys, and 0-3SM where
-clouds intersect higher terrain. Inland valleys will begin to see
-scattering out after 16Z Sunday, with coastal locations scattering
-after 17-18Z Sunday.
+240000Z...Coast/Valleys...Low clouds building along the immediate
+coast will continue to fill into inland valleys after 03-05Z and
+into the Inland Empire after 05-07Z. Bases 1800-2500 ft MSL
+expected. Locally reduced VIS 3-5SM in far inland valleys, and 0-3SM
+where clouds intersect higher terrain. Inland valleys will begin to
+see clearing after 16Z Sun, with coastal locations scattering 18-
+20Z. Clouds with similar bases will rebuild and move into coastal
+areas after 00Z Mon.
 
 Otherwise, mostly clear and VFR conditions through the period.
 
@@ -434,7 +432,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...CSP
 
 
 </pre>
