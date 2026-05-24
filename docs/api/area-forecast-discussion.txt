@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T03:47:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T08:31:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-338
-FXUS66 KSGX 232359
+616
+FXUS66 KSGX 240424
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-459 PM PDT Sat May 23 2026
+924 PM PDT Sat May 23 2026
 
 .SYNOPSIS...
 Near average temperatures through the weekend with below average
@@ -359,7 +359,7 @@ Tuesday into Wednesday morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Aviation section updated for 00Z TAF package...
+...Aviation section updated for 06Z TAF package...
 
 High temperatures today are forecast to be within 5 degrees of
 normal. Low clouds had filled in the coastal basin overnight and are
@@ -398,13 +398,14 @@ for the end of next week.
 &&
 
 .AVIATION...
-240000Z...Coast/Valleys...Low clouds building along the immediate
-coast will continue to fill into inland valleys after 03-05Z and
-into the Inland Empire after 05-07Z. Bases 1800-2500 ft MSL
-expected. Locally reduced VIS 3-5SM in far inland valleys, and 0-3SM
-where clouds intersect higher terrain. Inland valleys will begin to
-see clearing after 16Z Sun, with coastal locations scattering 18-
-20Z. Clouds with similar bases will rebuild and move into coastal
+240500Z...Coast/Valleys...Low clouds 2000-2500 ft MSL will continue
+to fill into inland valleys, including the Inland Empire, to cover
+the coastal basin by 09-10Z. Locally reduced VIS 3-5SM in far inland
+valleys, and 0-3SM where clouds intersect higher terrain, generally
+near the mountain foothills. Inland valleys will begin to see
+clearing after 16Z Sun, with coastal locations scattering 18-20Z.
+Clouds will locally linger along the immediate coast and just
+offshore, then with similar bases will rebuild and move into coastal
 areas after 00Z Mon.
 
 Otherwise, mostly clear and VFR conditions through the period.
@@ -420,7 +421,6 @@ No hazardous marine conditions are expected through Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -431,7 +431,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...Stewey
 AVIATION/MARINE...CSP
 
 
