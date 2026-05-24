@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T13:38:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T19:19:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-624
-FXUS66 KSGX 240907
+826
+FXUS66 KSGX 241734
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-207 AM PDT Sun May 24 2026
+1034 AM PDT Sun May 24 2026
 
 .SYNOPSIS...
 Near average temperatures today with below average temperatures
@@ -358,6 +358,8 @@ and morning from Monday night through Thursday morning.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation and Marine Discussion...
 
 Marine layer low clouds have filled in across the coastal basin
 this morning and have even spread into the Cajon Pass. Further
@@ -396,26 +398,28 @@ normal next weekend. Night and morning low clouds continue (it is
 May Gray after all), but with less inland extent and better
 clearing during the day.
 
+
 &&
 
 .AVIATION...
-241200Z...Coast/Valleys...Low clouds based 1800-2300 ft MSL have
-filled in across the coastal basin this morning through to the
-mountain slopes. Locally reduced VIS 4-6SM in far inland valleys,
-and 0-3SM where clouds intersect higher terrain, generally near the
-mountain slopes. Inland valleys will begin to see clearing after 16z
-Sun, with coastal locations scattering 18-20z. Some beaches/coastal
-areas may only see brief periods of scattering with clouds lingering
-through the afternoon. Clouds with similar bases will rebuild and
-fill back in after 00z Mon, once again filling the entire coastal
-basin.
+241730Z...Coast/Valleys...Inland valleys clear through 20Z Sun, with
+coastal locations seeing partial or intermittent clearing after 20Z.
+Clouds with bases 2000-2500 ft MSL, locally down to 1500 ft MSL
+begin to spread inland after 00z Mon, filling in the coastal basin
+by 10Z Mon. The locations that are most likely to see bases below
+2000 ft are near mountain foothills and far inland valleys (70-80
+percent chance of occurrence). Low clouds expected to clear 18-20Z
+Mon, with only partial and intermittent clearing along the coast.
 
-Otherwise, mostly clear and VFR conditions through the period.
+Deserts...Mostly clear with VFR conditions.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday night.
+Westerly winds could gust near 21 kt Tuesday and Wednesday afternoon
+in evening in the outer coastal waters by San Clemente Island.
+Otherwise, no hazardous marine conditions are expected through
+Friday.
 
 &&
 
@@ -427,7 +431,13 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Wind Advisory from 3 PM Tuesday to 5 AM PDT Thursday for
+     Riverside County Mountains-San Diego County Deserts-San
+     Diego County Mountains-San Gorgonio Pass near Banning.
+
+     Wind Advisory from 3 PM Tuesday to midnight PDT Tuesday night
+     for Apple and Lucerne Valleys.
+
 PZ...None.
 
 &&
@@ -435,7 +445,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...CSP
+AVIATION/MARINE...CO
 
 
 </pre>
