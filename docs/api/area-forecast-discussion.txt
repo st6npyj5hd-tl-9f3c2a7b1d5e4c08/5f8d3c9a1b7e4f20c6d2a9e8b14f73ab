@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T08:31:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-24T13:38:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,22 +336,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-616
-FXUS66 KSGX 240424
+624
+FXUS66 KSGX 240907
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-924 PM PDT Sat May 23 2026
+207 AM PDT Sun May 24 2026
 
 .SYNOPSIS...
-Near average temperatures through the weekend with below average
-temperatures expected next week. Low clouds will spread into the
+Near average temperatures today with below average temperatures
+expected Monday through midweek. Low clouds will spread into the
 valleys each night and morning, lingering into the afternoon at
 times along the coast. Increased westerly winds expected Tuesday
 through potentially Thursday for the mountains and deserts. Patchy
-drizzle or light rain possible west of the mountains overnight
-Tuesday into Wednesday morning.
+drizzle or light rain possible west of the mountains each night
+and morning from Monday night through Thursday morning.
 
 &&
 
@@ -359,67 +359,70 @@ Tuesday into Wednesday morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Aviation section updated for 06Z TAF package...
+Marine layer low clouds have filled in across the coastal basin
+this morning and have even spread into the Cajon Pass. Further
+inland skies are clear. A weak upper level low off the coast of
+Southern CA will move eastward today, moving overhead this evening
+into Monday morning. This will lead to minor cooling with high
+temperatures near to slightly below normal. The marine layer
+deepens further into Monday morning, potentially producing spotty
+light drizzle west of the mountains. Limited clearing is expected
+for the coastal areas today, and the coastal areas and far western
+valleys on Memorial Day. The cooling trend continues into Memorial
+Day as well with high temperatures around 3-5 degrees below normal
+for the mountains westward, and near normal in the deserts.
 
-High temperatures today are forecast to be within 5 degrees of
-normal. Low clouds had filled in the coastal basin overnight and are
-clearing to the coast as of 11 AM. While some coastal areas may
-clear completely, others will only see partial and intermittent
-clearing. A weak area of low pressure will approach Southern
-California Sunday which will increase onshore flow, resulting in
-widespread low cloud coverage with an increased chance of limited
-clearing along the coast Sunday afternoon. The low will slowly
-move east Monday afternoon, which will maintain a deeper marine
-layer and cloudier skies into the afternoon. Additionally, highs
-on Monday are expected to fall below average for areas west of the
-mountains and to within 3 degrees of average for the deserts.
+Ensembles continue to converge on a solution for the next upper
+level low midweek. This low is forecast to move through the Pac NW
+on Tuesday, slowly moving south through CA/NV into Thursday. This
+will bring more substantial cooling with high temperatures 10-20
+degrees below normal inland, with the greatest departure from
+normal in the mountains. The marine layer depth increases to
+around 5000 ft, and with large-scale forcing with the trough
+should be plenty sufficient to produce drizzle along and west of
+the mountains Tuesday through Thursday during the nights and
+mornings. There is around a 10% chance of accumulating
+precipitation, though any accumulations would be light (less than
+0.10"). This trough will also produce gusty onshore winds in the
+mountains and deserts, strongest on Tuesday and Wednesday during
+the afternoons into late nights. Wind gusts will generally be
+around 35-45 mph in these areas, with isolated gusts to 60 mph
+through the passes.
 
-A more robust area of low pressure is expected to dig south into the
-Pacific Northwest Tuesday. This will maintain cloudier and cooler
-weather with widespread below average temperatures. Additionally,
-winds are expected to increase over the mountains and into the
-deserts. Strongest winds are expected on Tuesday afternoon into
-Wednesday morning, with wind gusts 35 to 45 mph, local gusts to
-60 mph in wind prone locations. Winds will weaken slightly into
-Wednesday but remain elevated into Thursday morning. Areas of
-patchy drizzle or light rain are possible Tuesday night into
-Wednesday west of the mountains. Ensemble members of both the
-ECMWF and GEFS show light precipitation, with more members of the
-ECMWF on board compared to the GEFS. Regardless, any rainfall that
-accumulates is expected to be less than 0.10".
-
-Most ensemble guidance keeps the low over the Great Basin through
-Thursday, which would maintain below average conditions but allow
-for a few degrees of warming. By Friday, the low is expected to be
-weaker and slightly further east which would bring an additional few
-degrees of warming. The marine layer will likely become shallower
-for the end of next week.
+The upper low lifts out to the northeast on Friday, followed by
+generally weak troughing over the western US into the weekend.
+This will allow for temperatures to gradually increase to around
+normal next weekend. Night and morning low clouds continue (it is
+May Gray after all), but with less inland extent and better
+clearing during the day.
 
 &&
 
 .AVIATION...
-240500Z...Coast/Valleys...Low clouds 2000-2500 ft MSL will continue
-to fill into inland valleys, including the Inland Empire, to cover
-the coastal basin by 09-10Z. Locally reduced VIS 3-5SM in far inland
-valleys, and 0-3SM where clouds intersect higher terrain, generally
-near the mountain foothills. Inland valleys will begin to see
-clearing after 16Z Sun, with coastal locations scattering 18-20Z.
-Clouds will locally linger along the immediate coast and just
-offshore, then with similar bases will rebuild and move into coastal
-areas after 00Z Mon.
+241200Z...Coast/Valleys...Low clouds based 1800-2300 ft MSL have
+filled in across the coastal basin this morning through to the
+mountain slopes. Locally reduced VIS 4-6SM in far inland valleys,
+and 0-3SM where clouds intersect higher terrain, generally near the
+mountain slopes. Inland valleys will begin to see clearing after 16z
+Sun, with coastal locations scattering 18-20z. Some beaches/coastal
+areas may only see brief periods of scattering with clouds lingering
+through the afternoon. Clouds with similar bases will rebuild and
+fill back in after 00z Mon, once again filling the entire coastal
+basin.
 
 Otherwise, mostly clear and VFR conditions through the period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Thursday night.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -431,7 +434,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
+PUBLIC...SS
 AVIATION/MARINE...CSP
 
 
