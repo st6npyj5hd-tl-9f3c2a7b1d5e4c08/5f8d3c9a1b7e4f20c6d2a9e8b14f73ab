@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-25T14:56:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-25T19:42:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-295
-FXUS66 KSGX 250956
+418
+FXUS66 KSGX 251707
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-256 AM PDT Mon May 25 2026
+1006 AM PDT Mon May 25 2026
 
 .SYNOPSIS...
 The marine layer will gradually deepen to around 5000 feet by
@@ -366,6 +366,8 @@ next Sunday a few to around 5 degrees above average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated for Aviation and Marine Discussions...
 
 .SHORT TERM (Today through Wednesday)...
 The marine layer will gradually deepen to around 5000 feet by
@@ -400,28 +402,27 @@ lower deserts around 100.
 &&
 
 .AVIATION...
-251200Z...Coast/Valleys... While marine layer clouds have filled in
-through the coastal slopes across San Diego County (based 2000-
-2400ft MSL), they have been more meager to form into Orange County
-and the Inland Empire this morning. However, CIGs are still expected
-at KSNA, KONT, and KSBD between 12-17z. Clouds expected to scatter
-out around 16-17z for the inland valleys, and by 18-19z for the
-coastal areas, with areas of FEW-SCT lingering along some beaches
-into the afternoon. Low clouds with similar to slightly higher bases
-will move inland after 00z Tue, starting in San Diego County and
-moving north/northeast through the evening and early overnight
-hours.
+251730Z...Coast/Valleys/Foothills...Cigs will continue for most
+areas today, but with random and intermittent scatter out, most
+likely vcnty KSNA and KONT between 20-03Z. Bases will continue
+around 2500 feet MSL with tops to 4200 feet. Low clouds, around 2500-
+3000 feet with tops rising to 5000 feet, will fill the coastal basin
+overnight, starting around KSAN and moving north/northeast higher
+into foothills. Only isolated scatter out expected Tuesday, although
+bases will likely rise above 3000 feet after 16Z.
 
-Mountains/Deserts...Besides FEW-SCT cumulus over the mountain
-ridges Mon afternoon, mostly clear with VFR conditions.
+
+Higher Mountains/Deserts...Mostly clear and VFR conditions will
+continue through Tuesday morning. W-SW winds 25-35 kts develop after
+23Z, strongest through mountain passes and on desert slopes.
 
 &&
 
 .MARINE...
-Breezier westerly winds pick up for Tuesday and Wednesday afternoon,
-primarily in the outer waters. Gusts 20-25 kts possible near San
-Clemente Island. Otherwise, no hazardous marine conditions are
-expected through Friday.
+Winds and seas will increase for Tuesday afternoon through evening,
+approaching hazardous conditions for small craft in the outer
+waters. Otherwise, no hazardous marine conditions are expected
+through Saturday.
 
 &&
 
@@ -446,7 +447,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...MM
 
 
 </pre>
