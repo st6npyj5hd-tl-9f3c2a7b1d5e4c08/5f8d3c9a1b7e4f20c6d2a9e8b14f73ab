@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-25T04:00:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-25T10:10:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,25 +335,33 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-644
-FXUS66 KSGX 250037
+295
+FXUS66 KSGX 250956
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-537 PM PDT Sun May 24 2026
+256 AM PDT Mon May 25 2026
 
 .SYNOPSIS...
-Near average temperatures today with below average temperatures
-expected Monday through midweek. Low clouds will spread into the
-valleys each night and morning, lingering into the afternoon at
-times along the coast. Increased westerly winds expected Tuesday
-through potentially Thursday for the mountains and deserts. Patchy
-drizzle or light rain possible west of the mountains each night
-and morning from Monday night through Thursday morning.
+The marine layer will gradually deepen to around 5000 feet by
+early Wednesday with night and morning coastal low clouds
+extending well inland and onto the coastal slopes of the
+mountains. High temperatures will cool several degrees for
+Tuesday and Wednesday to as much as 15 to 20 degrees below average
+for the mountains on Wednesday. Southwest to west winds for the
+mountains and deserts will strengthen for Tuesday afternoon
+through Wednesday night with gusts to 35 to 45 mph with isolated
+gusts to 60 mph through the passes. There could be patchy drizzle
+or light rain from the coast to the mountains during the nights
+and mornings from late tonight into Thursday morning. There will
+be warming for Friday through next weekend high temperatures for
+next Sunday a few to around 5 degrees above average.
 
 &&
 
@@ -361,57 +369,67 @@ and morning from Monday night through Thursday morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation section for 00Z TAF package...
+.SHORT TERM (Today through Wednesday)...
+The marine layer will gradually deepen to around 5000 feet by
+early Wednesday as a closed low pressure system moves into the
+Pacific Northwest tonight and into central California on
+Wednesday. This will strengthen the onshore across southern
+California with southwest to west winds for the mountains and
+deserts gusting to 35 to 45 mph at times for Tuesday afternoon
+through Wednesday night with isolated gusts to 65 mph through the
+northern Coachella Valley below the San Gorgonio Pass.
 
-Low clouds in the coastal basin are making their retreat to the
-coast with clearing skies behind and to the east of the mountains.
-Clearing at the coast will be short lived with the marine layer
-expected to move back in later this afternoon and once again
-filling into the coastal basin late tonight into the early Monday
-morning. High temperatures will be near to just below the seasonal
-average as an upper level low moves from just off the coast and
-to the east Monday.
+The greatest cooling of high temperatures is expected on Tuesday
+and Wednesday with Wednesday high temperatures as much as 15 to 20
+degrees below average for the mountains. High temperatures on
+Wednesday will be mostly in the 60s and lower 70s for the coast
+and valleys with the lower deserts in the 80s.
 
-As low pressure decreases at the surface through Thursday,
-temperatures will continue to cool and the marine layer will deepen.
-This will increase chances for patchy drizzle west of the mountains
-beginning Monday night through Thursday morning and bring daily
-highs 10-15 degrees below average for the Inland Empire, mountain
-areas, and deserts by Thursday afternoon.
+There could also be some drizzle or light rain from the coast to
+the mountains, mainly late at night into the morning from late
+tonight into Thursday morning.
 
-An upper level trough is expected to slide down the coast Tuesday
-through Thursday before moving out to the northeast Friday. This
-trough will produce gusty onshore winds in the mountains and
-deserts, especially in the desert mountain slopes and passes. The
-strongest winds are expected Tuesday and Wednesday in the afternoons
-evenings with wind gusts around 35-55 mph in desert areas, with
-isolated gusts up to 60 mph through the passes.
+&&
 
-Temperatures will begin to increase Friday, reaching near the
-seasonal average by the weekend.
+.LONG TERM (Thursday through Sunday)...
+There will be slight warming of high temperatures on Thursday with
+greater warming for Friday through next weekend with high
+temperatures for next Sunday generally a few to around 5 degrees
+above average. High temperatures for next Sunday will range from
+around 70 near the coast to the 80s for the Inland Empire with the
+lower deserts around 100.
 
 &&
 
 .AVIATION...
-250000Z...Coast/Valleys...A patch of low clouds 2000-2500 ft MSL is
-lingering along the south SD County coast. While some scatter out in
-this area is briefly possible, its likely that clouds will begin to
-spread into the remainder of coastal regions this afternoon, then
-into the coastal basin by 10Z or so. The locations that are most
-likely to see bases below 2000 ft are near mountain foothills and
-far inland valleys (70-80 percent chance of occurrence). Low clouds
-expected to clear 18-20Z Mon, with only partial and intermittent
-clearing along the coast, especially in south San Diego County.
+251200Z...Coast/Valleys... While marine layer clouds have filled in
+through the coastal slopes across San Diego County (based 2000-
+2400ft MSL), they have been more meager to form into Orange County
+and the Inland Empire this morning. However, CIGs are still expected
+at KSNA, KONT, and KSBD between 12-17z. Clouds expected to scatter
+out around 16-17z for the inland valleys, and by 18-19z for the
+coastal areas, with areas of FEW-SCT lingering along some beaches
+into the afternoon. Low clouds with similar to slightly higher bases
+will move inland after 00z Tue, starting in San Diego County and
+moving north/northeast through the evening and early overnight
+hours.
 
-Mountains/Deserts...Mostly clear with VFR conditions.
+Mountains/Deserts...Besides FEW-SCT cumulus over the mountain
+ridges Mon afternoon, mostly clear with VFR conditions.
 
 &&
 
 .MARINE...
-Breezier westerly winds with gusts near 21 kt likely Tuesday and
-Wednesday afternoon and evening in the outer coastal waters by San
+Breezier westerly winds pick up for Tuesday and Wednesday afternoon,
+primarily in the outer waters. Gusts 20-25 kts possible near San
 Clemente Island. Otherwise, no hazardous marine conditions are
 expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -429,8 +447,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE...CSP
+PUBLIC...17
+AVIATION/MARINE...Munyan
 
 
 </pre>
