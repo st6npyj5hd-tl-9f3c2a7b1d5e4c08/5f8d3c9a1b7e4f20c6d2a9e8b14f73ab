@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-26T20:10:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-27T03:59:54+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -335,18 +335,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-659
-FXUS66 KSGX 261959
+938
+FXUS66 KSGX 270030
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1259 PM PDT Tue May 26 2026
+530 PM PDT Tue May 26 2026
 
 .SYNOPSIS...
 The marine layer will remain around 5000 feet through Wednesday.
@@ -366,6 +364,8 @@ shallower.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 This afternoon...The marine layer is about 5000 ft deep with
 widespread low clouds west of the mtns, although there are breaks
@@ -409,40 +409,42 @@ normal. SoCal will remain under weak troughing aloft with (weaker)
 onshore flow at the surface which will likely moderate
 temperatures west of the mtns.
 
+
 &&
 
 .AVIATION...
-261800Z...Coast/Valleys/Foothills...BKN-OVC low clouds based 3500-
-4500 ft MSL and FEW-SCT low clouds 2500-3500 ft MSL are covering the
-entire coastal basin. The BKN cloud deck will become SCT in parts of
-the Inland Empire and coastal areas from 20-02z this afternoon.
-Otherwise, cigs will struggle to scatter elsewhere. Any remaining
-clear patches should fill back in around 00-04z Wed. Bases will
-generally be 3000-4000 ft MSL Tuesday night with periods of cigs
-down to 2500 ft MSL from 02-13z Wed. Patchy coastal -DZ from 09-15z.
-Cigs lift mostly above 3500 ft MSL once again Wednesday morning,
-though remaining BKN-OVC.
+270030Z...Coast/Valleys/Foothills...Patchy areas of BKN/OVC low
+clouds based around 3000-4000 ft MSL are beginning to fill back into
+Orange County and will fill into the Inland Empire over the next few
+hours. Bases are expected to generally stay around 3000-4000 ft MSL
+through the period with occasional bases around 2500 ft MSL between
+03-13Z. Patchy light drizzle will again be possible with the
+deepening marine layer with the highest chances occurring between 06-
+11Z. Low clouds will scatter out for the Inland Empire after 19Z but
+look to remain over most of the coastal basin through the TAF period.
 
 Higher Mountains/Deserts...Partly cloudy skies and VFR conditions
-expected through the TAF period. Gusty west winds through the TAF
-period, especially 22-10z this afternoon and night. Widespread gusts
-30-40 kts with isolated gusts to 65 kts through the passes.
+expected through the TAF period. Winds continue to gust out of the
+west easing slightly after 17Z before increasing again after 21-22Z.
+Widespread gusts up to 30-40 kts with isolated gusts to 65 kts
+through the passes will be possible.
 
 &&
 
 .MARINE...
-Winds and seas increase this afternoon and into early Wednesday,
+Winds and seas have increased, continuing into early Wednesday,
 generating hazardous conditions for small craft in the outer waters,
 especially near San Clemente Island. For more details, see the Small
-Craft Advisory product. Winds and seas decrease Wednesday night,
-with no hazardous marine conditions are expected thereafter through
-Sunday.
+Craft Advisory product. Winds and seas will decrease Wednesday
+night, with no hazardous marine conditions expected thereafter
+through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -458,12 +460,13 @@ PZ...Small Craft Advisory until 1 PM PDT Wednesday for Waters from
      San Mateo Point to the Mexican Border Extending 10 to 60 nm
      out including San Clemente Island.
 
+
 &&
 
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...Villafane
 
 
 </pre>
