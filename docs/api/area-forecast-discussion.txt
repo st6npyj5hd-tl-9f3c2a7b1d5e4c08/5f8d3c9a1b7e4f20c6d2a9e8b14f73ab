@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-27T20:20:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-28T03:47:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-944
-FXUS66 KSGX 272019
+849
+FXUS66 KSGX 272351
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-119 PM PDT Wed May 27 2026
+451 PM PDT Wed May 27 2026
 
 .SYNOPSIS...
 The marine layer will remain near 5000 feet deep with patchy
@@ -368,6 +368,8 @@ deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+New Aviation and Marine Discussion...
+
 This afternoon...The marine layer remains about 5000 ft deep with
 low clouds covering most of the area west of the mtns. The light
 precip west of the mtns from last night/this morning has ended.
@@ -381,7 +383,14 @@ drizzle or light rain at times tonight into Thursday morning. The
 marine layer will then steadily decrease in depth into next week.
 Southwest to west winds will continue in the mountains and deserts
 through tonight, with gusts to 40 to 50 mph and isolated gusts to
-65 mph through the passes.
+65 mph through the passes. .SHORT TERM...
+
+
+&&
+
+.LONG TERM...
+
+
 
 High temperatures today will be as much as 20 to 25 degrees below
 average for the mountains with high temperatures mostly in the 60s
@@ -409,37 +418,34 @@ late each night.
 &&
 
 .AVIATION...
-271800Z...Coast/Valleys/Foothills...SCT-BKN cumulus clouds based 4-6
-kft MSL are covering most of the coastal basin, scattering out
-intermittently over coastal areas. Clouds are expected to scatter
-out further early this afternoon, leaving patchy cigs limited to the
-foothills and FG (vis 0-3 SM) to the lower mountain areas. Cloud
-coverage will expand slightly into lower elevations after 01z this
-evening, though total coverage is expected to remain patchy all
-night. After 02z, the main bases will generally be 3-5 kft MSL with
-periodic MVFR cigs and spotty DZ/-RA through Thursday morning.
+272350Z...Coast/Valleys/Foothills...Patchy low clouds with bases
+3500-5500 ft MSL are spread through the coastal basin. Cigs will
+intermittently SCT-BKN through 16-18Z with the exception of the
+coastal slopes and foothills where low clouds will cling. Low clouds
+will increase in coverage once again after 00Z Friday beginning in
+the valleys. Chances for patchy DZ/-RA again late this evening into
+tomorrow morning from 03-14Z.
 
 Higher Mountains/Deserts...Mostly clear skies and VFR conditions
-expected through the TAF period. West winds pick up once again this
-afternoon gusts of 25-40 kts, locally up to 50 kts through passes.
-Winds gradually taper off between 04-10z Thursday, but remain
-elevated through passes overnight.
+expected through the TAF period. West winds with gusts of 25-40 kts,
+locally up to 50 kts through passes continue. Winds will gradually
+ease between 04-10z, but will remain elevated through passes
+overnight. West winds will slowly increase after 18Z but with gusts
+15-25 kts, locally up to 30 kts in the deserts and desert mountain
+passes.
 
 &&
 
 .MARINE...
-Elevated winds (gusting to 20 knots) and seas (6-8 feet) continue
-through early this afternoon, particularly near San Clemente Island.
-These conditions may generate hazardous conditions for small craft,
-and a Small Craft Advisory remains in effect until 1 PM this
-afternoon. Winds and seas decrease through this evening, with no
-hazardous marine conditions expected thereafter through Sunday.
+Winds and seas will continue to decrease through this evening, with
+no hazardous marine conditions expected through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -448,16 +454,14 @@ CA...Wind Advisory until 5 AM PDT Thursday for Riverside County
      Mountains-San Diego County Deserts-San Diego County
      Mountains-San Gorgonio Pass near Banning.
 
-PZ...Small Craft Advisory until 1 PM PDT this afternoon for Waters
-     from San Mateo Point to the Mexican Border Extending 10 to
-     60 nm out including San Clemente Island.
+PZ...None.
 
 &&
 
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...Villafane
 
 
 </pre>
