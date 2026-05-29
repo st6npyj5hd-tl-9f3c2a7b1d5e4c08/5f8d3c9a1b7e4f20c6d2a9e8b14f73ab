@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-28T20:25:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-29T03:49:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-349
-FXUS66 KSGX 281947
+376
+FXUS66 KSGX 290302
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1247 PM PDT Thu May 28 2026
+800 PM PDT Thu May 28 2026
 
 .SYNOPSIS...
 One final morning with a deep marine layer and more widespread
@@ -361,24 +361,25 @@ early week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Updated Aviation and Marine discussions for this evening...
+
 A robust marine layer this morning due to a large upper level low
 over Central CA allowed for some drizzle, but only a few areas
 recorded any accumulation. This low has been quite impactful this
 past week, providing significantly cooler weather than typically
 observed for the end of May. Even as the clouds continue to
-dissipate through this afternoon, loss of heating this morning
-will help keep high temps today around 5-15 degrees below normal.
-The cooler weather isn`t quite over yet as the low will slowly
-meander out of California and into the Great Basin on Friday,
-paving the way for a deeper marine layer Friday morning and more
-widespread drizzle or light rain, especially across San Diego
-County and the coastal/western valleys. Any accumulations are
-expected to be light, generally 0.03" or less through Friday
-morning, but there may be some noticeable wet spots on the road
-for the Friday morning commute. As the low moves up and out,
-expect one final afternoon of gusty west winds across the deserts
-and through the mountain passes, where gusts may exceed 30 mph at
-times.
+dissipate through this afternoon, loss of heating this morning will
+help keep high temps today around 5-15 degrees below normal. The
+cooler weather isn`t quite over yet as the low will slowly meander
+out of California and into the Great Basin on Friday, paving the way
+for a deeper marine layer Friday morning and more widespread drizzle
+or light rain, especially across San Diego County and the
+coastal/western valleys. Any accumulations are expected to be light,
+generally 0.03" or less through Friday morning, but there may be
+some noticeable wet spots on the road for the Friday morning
+commute. As the low moves up and out, expect one final afternoon of
+gusty west winds across the deserts and through the mountain passes,
+where gusts may exceed 30 mph at times.
 
 Drier air will quickly move in and a slow warming trend begins as
 the low departs. Zonal flow aloft will keep temperatures mild
@@ -397,25 +398,23 @@ aforementioned low.
 &&
 
 .AVIATION...
-281900Z...Coast/Valleys/Coastal Mountain Slopes...VFR with FEW-SCT
-clouds based around 4500-5500ft MSL. Clouds near 5000ft up against
-the higher terrain redevelop around 01Z Fri, and FEW-SCT clouds 2500-
-3500ft for the coasts/valleys, increasing to BKN generally after
-04Z. DZ/-RA is possible again between 06-18z Fri, with chances
-around 20-30%. Clouds will begin to clear at a similar time as
-today, around 18-21Z.
+290300Z...Coast/Valleys/Coastal Mountain Slopes...SCT to locally BKN
+clouds around 3500 feet MSL will gradually fill the coastal basin up
+to mountain crests overnight (5000-6000 feet MSL). Vis reduced 0-5SM
+in FG on coastal slopes. ISO-SCT -SHRA briefly reducing cigs to 2500
+feet MSL between 06-18Z moving from northwest to southeast. Clouds
+will gradually clear from northwest to southeast 15-19Z Friday.
 
-Higher Mountains/Deserts...Mostly clear skies and VFR conditions
-expected through the TAF period. Westerly gusts this afternoon for
-the mountains and desert slopes with gusts around 20-30 kts, locally
-up to 40 kts through passes. Winds remain somewhat elevated for many
-spots into the early overnight hours tonight, but eventually weaken
-after 12z Fri.
+Higher Mountains/Deserts...Clouds 10000-20000 feet MSL to move
+northwest to southeast through early Friday, mostly clear
+thereafter. Westerly wind gusts 25-40 kts through mountain passes
+and desert slopes through 12Z Friday. Local up/downdrafts and local
+LLWS in lee (east) of mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions expected through Sunday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -428,7 +427,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...MM
 
 
 </pre>
