@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-29T15:38:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-29T20:27:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,26 +336,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-030
-FXUS66 KSGX 290945
+183
+FXUS66 KSGX 291815
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-245 AM PDT Fri May 29 2026
+1115 AM PDT Fri May 29 2026
 
 .SYNOPSIS...
-A deep marine layer will decrease in depth through the weekend
-into next week. There will be scattered light showers at times
-into this morning from the coast to the mountains, then dry
-weather will prevail through next week. High temperatures will
-warm more rapidly through the weekend, then more slowly for the
-mountains and deserts for Monday through Thursday of next week
-with not much change for the coast and valleys. High temperatures
-for next week will be a few degrees above average for coastal
-areas and around 4 to 8 degrees above average for inland areas.
-Night and morning coastal low clouds for the weekend into next
-week will spread into the western valleys late each night.
+Cloudy skies will likely clear from west to east today. Drier
+conditions expected over the weekend and into next week. Night and
+morning low clouds will be present each day, becoming shallower
+into early next week. A gradual warming expected through the
+weekend with minor variations in temperatures each day for next
+week.
 
 &&
 
@@ -363,69 +358,47 @@ week will spread into the western valleys late each night.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-The marine layer is around 5000 feet deep, a decrease of around
-500 feet from 24 hours ago. There have been a few light showers
-since Thursday evening from the coastal waters to the coastal
-slopes of the mountains with some increase in coverage expected
-before sunrise into early this morning. Rainfall is expected to
-once again be light for those locations receiving measurable
-rainfall, a few hundredths of an inch to less than one-tenth inch.
-The showers are expected to end by noon followed by dry weather
-through next week.
+Areas of light rain and drizzle were present this morning across the
+coastal basin. Over the past 12 hours, most areas have received 0.01-
+0.10 inches of rain, with a few locations on the mountain foothills
+0.12 to 0.20 inches. Dry conditions are expected to prevail this
+afternoon and through the rest of the forecast period.
 
-High temperatures will begin to warm with the greater warming
-continuing through the weekend. High temperatures for today will
-be as much as 12 to 18 degrees below average for the mountains
-with Sunday high temperatures for most areas a few to around 5
-degrees above average. High temperatures for today will range from
-the 60s near the coast to the upper 60s to mid 70s for the Inland
-Empire with the lower to mid 80s for the lower deserts. On Sunday,
-high temperatures will range from the lower 70s near the coast to
-the mid 80s to lower 90s for the Inland Empire with the lower
-deserts around 100.
+Marine layer low clouds and fog are expected to be present each
+night and morning through the forecast period. Areas of low clouds
+and fog should be present in the eastern valleys tonight into
+Saturday. The marine layer is expected to become shallower next
+week, with low clouds and fog only along the coast and into the
+western valleys at times.
 
-The marine layer will decrease depth with night and morning
-coastal low clouds spreading into the western valleys late each
-night during the weekend.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-After the more rapid warming through the weekend, high
-temperatures for the deserts will warm much more slowly for
-Monday through Thursday with slowly increasing spread in the high
-temperature guidance for the middle of next week. The coast and
-valleys may cool slightly on Tuesday followed by slow warming for
-Wednesday and Thursday with increasing spread in the high
-temperature guidance.
-
-High temperatures will generally be a few degrees above average
-for coastal areas to 4 to 8 degrees above average for inland areas
-with high temperatures ranging from the lower 70s near the coast
-to the 80s for the Inland Empire with 102 to 106 for the lower
-deserts. Night and morning coastal low clouds will spread into the
-western valleys late each night.
+Highs Saturday are expected to be 3 to 5 degrees warmer than today
+along the coast, 5 to 12 degrees warmer than today in the valleys
+and deserts, and 12 to 20 degrees warmer than today in the
+mountains. A few additional degrees of warming is expected from the
+coast to the deserts on Sunday. For next week, Monday and Tuesday
+will see a few degrees of cooling along the coast and valleys, with
+temperatures varying a few degrees each day Wednesday through
+Friday. There is increasing spread in high temperature guidance for
+the middle to end of the week, especially for the valleys. For
+example, the NBM has a 9 to 10 degree spread between the coolest and
+warmest guidance for high temperatures in Riverside for Wednesday
+and Thursday.
 
 &&
 
 .AVIATION...
-291000Z...Coast/Valleys/Coastal Mountain Slopes...SCT-BKN low clouds
-based 3000-5000 ft MSL will remain in place over the coastal basin
-through late this morning. Vis reduced 0-5SM in FG on coastal
-slopes. ISO-SCT -SHRA briefly reducing cigs to 2500 feet MSL through
-18Z. Clouds will gradually clear from northwest to southeast 15-19Z
-Friday. Patchy low clouds based near 2000 ft MSL develop over
-coastal San Diego County around 01-03z Sat. Clouds increase in
-coverage and expand to Orange County overnight, but remain confined
-to coastal areas.
+291800Z...Coast/Valleys/Coastal Mountain Slopes...SCT-BKN low clouds
+based 3000-5000 ft MSL will continue to try and break out through
+the afternoon, but may linger across the coastal basin. Patchy low
+clouds based near 1500-2000 ft MSL develop over along the coastline
+around 01-03z Sat, and move up to 10 miles inland. VIS down to 3-6SM
+with locally lower where clouds intersect terrain. Clouds will
+lift/clear generally after 16z Sat.
 
 Higher Mountains/Deserts...VFR conditions expected through the
-period. Westerly wind gusts 25-40 kts through mountain passes and
-along desert slopes through 15Z Friday. Local up/downdrafts and
-local LLWS in lee (east) of mountains. Elevated westerly winds
-return late Friday afternoon with gusts 25-35 kts in the same
-locations.
+period. Westerly wind gusts 25-35 kts through mountain passes and
+along desert slopes through 06z Sat. Local up/downdrafts and local
+LLWS in lee (east) of mountains.
 
 &&
 
@@ -440,6 +413,7 @@ conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -450,8 +424,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...KW
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
