@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T13:42:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T19:19:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -334,13 +334,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-146
-FXUS66 KSGX 301137
+892
+FXUS66 KSGX 301806
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-437 AM PDT Sat May 30 2026
+1106 AM PDT Sat May 30 2026
 
 .SYNOPSIS...
 A warming and drying trend is expected through this weekend as
@@ -389,19 +389,22 @@ moment. The mean of the ensembles leans toward a cooling trend for
 late next week into the weekend, but not much can be said beyond
 that at this time.
 
+
 &&
 
 .AVIATION...
-301135Z...Coast/Valleys....Mostly clear skies expected through the
-early evening hours. SCT to locally BKN clouds near 1200-1800 ft MSL
-will be intermittent across the coastal and valley areas of San
-Diego County (including KSAN) until ~ 16Z this morning with moderate
-confidence on clearing timing. Low clouds return within 10 miles of
-the coastline after 03Z this evening with similar bases expected at
-coastal TAF sites.
+301800Z...Coast/Valleys...Mostly clear skies through late this
+evening. Low confidence on exact timing of cloud formation; most
+guidance suggests low clouds based 800-1300 ft MSL begin to develop
+off the coast around 06z Sun, slowly filling into coastal areas (in
+patchy fashion) through 10z and perhaps as late as 12z for Orange
+County coastal areas. VIS reductions 0-5SM (and patchy FG) in
+valleys east of the I-15 corridor in San Diego County. Scatter out
+15-17z.
 
-Deserts...Mostly clear and VFR conditions through tonight with
-elevated onshore winds later this afternoon and early evening.
+Mountains/Deserts...Mostly clear and VFR conditions through
+tonight with elevated onshore winds later this afternoon and early
+evening.
 
 &&
 
@@ -428,7 +431,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE...APR
+AVIATION/MARINE...Westerink
 
 
 </pre>
