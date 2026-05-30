@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-29T20:27:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T03:32:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-183
-FXUS66 KSGX 291815
+779
+FXUS66 KSGX 300311
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1115 AM PDT Fri May 29 2026
+830 PM PDT Fri May 29 2026
 
 .SYNOPSIS...
 Cloudy skies will likely clear from west to east today. Drier
@@ -357,6 +357,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation and Marine discussions...
 
 Areas of light rain and drizzle were present this morning across the
 coastal basin. Over the past 12 hours, most areas have received 0.01-
@@ -387,18 +389,20 @@ and Thursday.
 &&
 
 .AVIATION...
-291800Z...Coast/Valleys/Coastal Mountain Slopes...SCT-BKN low clouds
-based 3000-5000 ft MSL will continue to try and break out through
-the afternoon, but may linger across the coastal basin. Patchy low
-clouds based near 1500-2000 ft MSL develop over along the coastline
-around 01-03z Sat, and move up to 10 miles inland. VIS down to 3-6SM
-with locally lower where clouds intersect terrain. Clouds will
-lift/clear generally after 16z Sat.
+300330Z...Coast...SCT-BKN low clouds based around 1500-1800 feet MSL
+will gradually increase overnight. Scatter out Saturday by 16-17Z.
+Low clouds based around 1000-1500 feet MSL to gradually develop
+after 03Z Saturday evening.
 
-Higher Mountains/Deserts...VFR conditions expected through the
-period. Westerly wind gusts 25-35 kts through mountain passes and
-along desert slopes through 06z Sat. Local up/downdrafts and local
-LLWS in lee (east) of mountains.
+Valleys/Mountains...BKN clouds based 4000-5000 feet MSL mainly near
+foothills will continue to gradually clear overnight. Areas of low
+clouds based around 2000 feet MSL and very localized vis reductions
+4-6SM in western valleys 11-16Z. Otherwise, mostly clear, except for
+some cumulus around 9000 feet MSL over mountains 19-00Z Saturday.
+
+Deserts...Mostly clear and VFR conditions through Saturday. Westerly
+wind gusts 25-30 kts east of mountain passes gradually diminishing
+after 07Z.
 
 &&
 
@@ -413,7 +417,6 @@ conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -425,7 +428,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...MM
 
 
 </pre>
