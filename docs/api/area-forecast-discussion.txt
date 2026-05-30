@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T03:32:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T08:29:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -336,21 +336,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-779
-FXUS66 KSGX 300311
+224
+FXUS66 KSGX 300741
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-830 PM PDT Fri May 29 2026
+1241 AM PDT Sat May 30 2026
 
 .SYNOPSIS...
-Cloudy skies will likely clear from west to east today. Drier
-conditions expected over the weekend and into next week. Night and
-morning low clouds will be present each day, becoming shallower
-into early next week. A gradual warming expected through the
-weekend with minor variations in temperatures each day for next
-week.
+A warming and drying trend is expected through this weekend as
+weak zonal flow returns to the region. Therafter, temperatures
+will hover slightly above seasonal averages through next week.
+Marine layer clouds expected for coastal areas and western valleys
+each night and morning. Clouds may lower and become more confined
+to coastal areas by early next week.
 
 &&
 
@@ -358,33 +358,36 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation and Marine discussions...
+As our most recent low pressure system departs to the east,
+low clouds and fog are starting to disperse along coastal slopes
+and elevated winds along the desert slopes are starting to abate.
+Satellite imagery shows that marine layer clouds are struggling to
+develop under a weak inversion tonight. However, a return to
+quasi-zonal flow will allow the inversion to strengthen by
+tomorrow. Thus, marine layer clouds should return to coastal areas
+and western valleys from Saturday night onward. Weakening onshore
+flow and slowly increasing upper heights may allow the marine
+layer to become shallow enough for patchy fog for coastal areas by
+early next week.
 
-Areas of light rain and drizzle were present this morning across the
-coastal basin. Over the past 12 hours, most areas have received 0.01-
-0.10 inches of rain, with a few locations on the mountain foothills
-0.12 to 0.20 inches. Dry conditions are expected to prevail this
-afternoon and through the rest of the forecast period.
+Temperatures will rebound to near seasonal averages on Saturday
+with highs near 70 at the coast, upper 70s to low 80s for inland
+valleys, and 90s in the lower deserts. A slow warming trend will
+continue into Sunday. Thereafter, the deserts will continue to
+warm through early next week while the coastal basin cools a few
+degrees. Overall, temperatures will hover around 2-7 degrees
+above seasonal averages across the region through mid-next week
+with minor flucutations each day. NBM temperatures reach up to 105
+in the lower deserts mid-next week, though a lack of any notable
+ridging begs the question of whether temps may be slightly
+overdone.
 
-Marine layer low clouds and fog are expected to be present each
-night and morning through the forecast period. Areas of low clouds
-and fog should be present in the eastern valleys tonight into
-Saturday. The marine layer is expected to become shallower next
-week, with low clouds and fog only along the coast and into the
-western valleys at times.
-
-Highs Saturday are expected to be 3 to 5 degrees warmer than today
-along the coast, 5 to 12 degrees warmer than today in the valleys
-and deserts, and 12 to 20 degrees warmer than today in the
-mountains. A few additional degrees of warming is expected from the
-coast to the deserts on Sunday. For next week, Monday and Tuesday
-will see a few degrees of cooling along the coast and valleys, with
-temperatures varying a few degrees each day Wednesday through
-Friday. There is increasing spread in high temperature guidance for
-the middle to end of the week, especially for the valleys. For
-example, the NBM has a 9 to 10 degree spread between the coolest and
-warmest guidance for high temperatures in Riverside for Wednesday
-and Thursday.
+By late next week, model solutions diverge. An upper trough is
+expected to pass through the NW CONUS late next week, but the
+timing, position, and amplitude are all quite uncertain at the
+moment. The mean of the ensembles leans toward a cooling trend for
+late next week into the weekend, but not much can be said beyond
+that at this time.
 
 &&
 
@@ -417,6 +420,7 @@ conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -427,7 +431,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...KW
 AVIATION/MARINE...MM
 
 
