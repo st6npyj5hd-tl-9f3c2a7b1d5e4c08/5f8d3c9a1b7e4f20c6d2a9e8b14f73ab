@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-30T19:19:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-31T04:01:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -331,24 +331,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-892
-FXUS66 KSGX 301806
+879
+FXUS66 KSGX 302343
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1106 AM PDT Sat May 30 2026
+443 PM PDT Sat May 30 2026
 
 .SYNOPSIS...
 A warming and drying trend is expected through this weekend as
 weak zonal flow returns to the region. Thereafter, temperatures
 will hover slightly above seasonal averages through next week.
 Marine layer clouds expected for coastal areas and western valleys
-each night and morning. Clouds may lower and become more confined
-to coastal areas by early next week.
+each night and morning.
 
 &&
 
@@ -356,69 +357,64 @@ to coastal areas by early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation and Marine Discussions...
+Mid-level zonal flow has settled over the region as the low
+pressure system that brought us the cooler, showery weather of the
+past few days has moved northeast into the Intermountain West. As
+a result, today`s weather has been significant warmer and drier
+than yesterday`s. Taking a look at observed 24 hour temp change,
+temperatures at 11:30 AM today are anywhere from 2 to 22 degrees
+warmer than those at 11:30 AM yesterday. 24 hour change in
+relative humidity shows much drier air away from the coast. In
+both cases, the mountain regions have seen the biggest change,
+followed by the deserts and inland valleys.
 
-As our most recent low pressure system departs to the east,
-low clouds and fog are starting to disperse along coastal slopes
-and elevated winds along the desert slopes are starting to abate.
-Satellite imagery shows that marine layer clouds are struggling to
-develop under a weak inversion tonight. However, a return to
-quasi-zonal flow will allow the inversion to strengthen by
-tomorrow. Thus, marine layer clouds should return to coastal areas
-and western valleys from Saturday night onward. Weakening onshore
-flow and slowly increasing upper heights may allow the marine
-layer to become shallow enough for patchy fog for coastal areas by
-early next week.
+This trend will continue for Sunday, when forecast high
+temperatures are 2-10 degrees warmer than today`s, to a few
+degrees above the daily average temperatures. Thanks to southerly
+flow and a coastal eddy circulation, areas along the coast will
+see greater cloud cover tonight, which will help mitigate warming
+in these areas Sunday. Clouds will start in southern San Diego
+County late this evening and gradually creep northwards and into
+western valleys overnight.
 
-Temperatures will rebound to near seasonal averages on Saturday
-with highs near 70 at the coast, upper 70s to low 80s for inland
-valleys, and 90s in the lower deserts. A slow warming trend will
-continue into Sunday. Thereafter, the deserts will continue to
-warm through early next week while the coastal basin cools a few
-degrees. Overall, temperatures will hover around 2-7 degrees
-above seasonal averages across the region through mid-next week
-with minor fluctuations each day. NBM temperatures reach up to
-105 in the lower deserts mid-next week, though a lack of any
-notable ridging begs the question of whether temps may be slightly
-overdone.
+Monday will see another degree or so of warming as zonal flow
+amplifies into a very weak ridge for the day, then temperatures
+generally level out for the rest of the week with no more than a
+few degrees difference in temperatures each day under weak
+troughing. Low level marine layer clouds will return each evening
+and linger through the mornings for the coasts and western parts
+of the valley, starting out on the shallower side then deepen
+slightly towards the end of the week, getting slightly further
+inland. All-in-all, we`re looking at pretty typical late May/early
+June weather with warm temperatures and average, mild daily
+breezes.
 
-By late next week, model solutions diverge. An upper trough is
-expected to pass through the NW CONUS late next week, but the
-timing, position, and amplitude are all quite uncertain at the
-moment. The mean of the ensembles leans toward a cooling trend for
-late next week into the weekend, but not much can be said beyond
-that at this time.
-
+By next weekend into early the following week, model solutions
+regarding the position, amplitude, and timing continue to diverge,
+with the ensemble mean continuing to indicate gradual cooling for
+late next week.
 
 &&
 
 .AVIATION...
-301800Z...Coast/Valleys...Mostly clear skies through late this
-evening. Low confidence on exact timing of cloud formation; most
-guidance suggests low clouds based 800-1300 ft MSL begin to develop
-off the coast around 06z Sun, slowly filling into coastal areas (in
-patchy fashion) through 10z and perhaps as late as 12z for Orange
-County coastal areas. VIS reductions 0-5SM (and patchy FG) in
-valleys east of the I-15 corridor in San Diego County. Scatter out
-15-17z.
+310000Z...Coast/Valleys...VFR through the afternoon. Patchy low
+clouds FEW-SCT based around 900-1400ft MSL will redevelop near the
+San Diego County coastline and move inland up to 5-10 miles, with
+greatest confidence being after 03z. These clouds will move up into
+Orange and further inland, becoming a bit more uniform generally
+after 08z to BKN-OVC, although may still be patchy with intermittent
+CIGs for some spots. CIGs at KSNA generally not expected prior to
+10z. VIS down to 3-6SM for valleys and locally lower for coastal
+terrain. Clouds clear between 15-17z with SKC thereafter for the
+remainder of Sunday. Another round of patchy low clouds with similar
+bases expected for Sunday evening, generally after 06z Mon.
 
-Mountains/Deserts...Mostly clear and VFR conditions through
-tonight with elevated onshore winds later this afternoon and early
-evening.
+Mountains/Deserts...VFR and SKC.
 
 &&
 
 .MARINE...
-Northwest wind gusts will approach 20 kts over outer coastal waters
-this afternoon and evening. Otherwise, no hazardous marine
-conditions are expected through Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
@@ -430,8 +426,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE...Westerink
+PUBLIC...PG
+AVIATION/MARINE...Zuber
 
 
 </pre>
