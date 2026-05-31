@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-31T13:47:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-31T19:19:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-824
-FXUS66 KSGX 311135
+768
+FXUS66 KSGX 311744
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-435 AM PDT Sun May 31 2026
+1044 AM PDT Sun May 31 2026
 
 .SYNOPSIS...
 A warmer day will occur across the region today. The weather will
@@ -362,13 +362,10 @@ COUNTIES...
 
 ...Updated Aviation / Marine Discussions...
 
-Low clouds will continue to hug coastal regions through the
-morning with mostly clear conditions expected for all areas by
-late morning. A low pressure system across the intermountain west
-continues to push eastward, allowing the flow aloft to become
-more zonal over Southern California. This will bring in warmer
-weather to the area compared to yesterday with highs generally 3-7
-degrees higher.
+A low pressure system across the intermountain west continues to
+push eastward, allowing the flow aloft to become more zonal over
+Southern California. This will bring in warmer weather to the area
+compared to yesterday with highs generally 3-7 degrees higher.
 
 The flow generally remains zonal, weakly ridging through the
 upcoming work week. This will lead to minor day to day changes in
@@ -389,20 +386,21 @@ how strong and how far south this system goes, will depend on how
 cool we become; all in all though, another nice weekend is on tap
 as we head into the month of June.
 
+
 &&
 
 .AVIATION...
-311100Z...Coast/Valleys...Areas of low clouds based 1000-1300 ft MSL
-over coastal areas will remain 10-15 miles this morning. Minor
-vis reductions (4- 6SM) expected along elevated coastal terrain
-and locally into western valleys. Clouds scatter to the coast by
-16-17z Sun. Low clouds redevelop over coastal San Diego County
-03-06z Mon with similar to slightly lower bases. Similar inland
-extend expected tonight with minor vis reductions (3-6SM) along
-elevated coastal terrain and locally into western valleys into
+311800Z...Coast/Valleys...Mostly clear skies and VFR this afternoon.
+Low clouds develop off the coast after 01z, filling into coastal SD
+County 03-07z this evening, then developing into coastal Orange
+County and inland areas 07-12z Mon. Bases are expected to range from
+800-1300 ft MSL; periods of IFR cigs possible at lower coastal TAF
+sites (KSAN/KSNA). VIS 4-6SM for areas above 300 ft MSL and 0-4SM
+terrain/valleys above 700 ft MSL. Low clouds scatter out 15-18z
 Monday morning.
 
-Mountains/Deserts...VFR and SKC through this evening.
+
+Mountains/Deserts...VFR and SKC through Monday morning.
 
 &&
 
@@ -427,7 +425,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
