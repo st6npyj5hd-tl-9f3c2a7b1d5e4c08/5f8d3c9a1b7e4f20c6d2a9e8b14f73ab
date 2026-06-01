@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T17:43:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T21:34:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,30 +337,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-951
-FXUS66 KSGX 011737
+216
+FXUS66 KSGX 011946
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1037 AM PDT Mon Jun 1 2026
+1246 PM PDT Mon Jun 1 2026
 
 .SYNOPSIS...
-Slow warming will continue for the inland areas through mid week
-with high temperatures around 4 to 8 degrees above average for
+Slow warming will continue for the inland areas through mid week,
+bringing high temperatures to 4 to 10 degrees above average for
 Wednesday and Thursday. The coast and valleys will cool a few
 degrees on Tuesday, then warm a few degrees for Wednesday and
-Thursday with night and morning coastal low clouds spreading into
-portions of the valleys late each night. A low pressure system
-moving into the western states will bring a cooling trend for
-Friday through next weekend with high temperatures for next Sunday
-falling to a few degrees below average to around 5 degrees below
-average for the valleys.
+Thursday, with night and morning coastal low clouds spreading
+into portions of the valleys late each night. A low pressure
+system moving into the western states will bring a cooling trend
+for Friday through the weekend, with high temperatures for next
+Sunday falling to a few to about 10 degrees below average by
+Sunday.
 
 &&
 
@@ -368,54 +366,31 @@ average for the valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-New Aviation and Marine Discussion...
+Predominately zonal flow aloft today has resulted in what some may
+call Chamber of Commerce weather, i.e. sunny and warm. Weak
+troughing moving into the western part of the region late tonight
+will lead to the marine layer moving in earlier this evening,
+likely moving into the immediate coast along San Diego County 5-6
+PM. Clouds will be around 2000-2500 feet above the ground+ and
+will move a little farther inland than this morning, including
+into parts of the Inland Empire. These will clear out, similar to
+this morning, mid to late morning Tuesday. The weak trough will
+also lead to a few degrees of cooling between this afternoon`s
+highs and Tuesday`s highs outside of the mountains and deserts,
+where it will warm a degree or two for tomorrow.
 
-.SHORT TERM (Today through Wednesday)...
-Not much change in high temperatures is expected for today with
-high temperatures a few degrees above average. High temperatures
-for today will range from the mid to upper 60s near the coast to
-the 80s for the Inland Empire with 100 to 104 for the lower
-deserts.
-
-Deepening of the marine layer will bring a few degrees of
-cooling for the coast and valleys on Tuesday with most areas a few
-to around 5 degrees warmer on Wednesday. Wednesday high
-temperatures will be a few degrees above average for the coast
-and valleys with the deserts and lower elevations of the mountains
-5 to locally 10 degrees above average. High temperatures on
-Wednesday will range from the lower 70s near the coast to the mid
-80s to lower 90s for the Inland Empire with 102 to 106 for the
-lower deserts.
-
-A marine layer near 2000 feet deep early this morning will deepen
-to around 2500 feet for late tonight into Tuesday morning, then
-begin to decrease for Tuesday night into Wednesday morning. Night
-and morning coastal low clouds will spread into the western
-valleys for early this morning, into portions of the inland
-valleys for late tonight into Tuesday morning, then into the
-western valleys for late Tuesday night into Wednesday morning.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-For Friday through Sunday, a low pressure system will move toward
-and slowly inland into the western states bring stronger onshore
-flow, deepening of the marine layer, and cooling for southern
-California.
-
-Not much change is expected on Thursday, followed by a gradual
-cooling trend for Friday through Sunday. High temperatures on
-Thursday of a few degrees above average for coastal areas to 4 to
-8 degrees above average for inland areas will cool on Sunday to a
-few degrees below average to around 5 degrees below average for
-the valleys. High temperatures for next Sunday will range from the
-around 70 near the coast to the upper 70s to mid 80s for the
-Inland Empire with the upper 90s for the lower deserts.
-
-Night and morning coastal low clouds will spread into the western
-valleys for early Thursday, into portions of the inland valleys
-for early Friday, and across much of the valleys for early
-Saturday and early Sunday.
+This trough will swiftly move southwest out of the region as a
+weak ridge moves in from the east mid-week. Temperatures will
+warm a tad over the region for Wednesday and Thursday to 4-10
+degrees above average for inland areas, and the marine layer will
+get a bit shallower (travel less far inland overnight). Broad,
+stronger troughing moving into the western U.S. will lead to a
+cooling trend Friday through at least Sunday, though persisting
+model differences in strength and position lead to a bit of
+uncertainty regarding degree and longevity of the cooling. The
+current forecast is for high temperatures 5-10 below average
+inland for Sunday. Marine layer clouds will deepen again, reaching
+farther inland to cover most of the valleys over the weekend.
 
 &&
 
@@ -442,7 +417,6 @@ No hazardous marine conditions are expected through Saturday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -453,7 +427,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
+PUBLIC...CSP
 AVIATION/MARINE...Villafane
 
 
