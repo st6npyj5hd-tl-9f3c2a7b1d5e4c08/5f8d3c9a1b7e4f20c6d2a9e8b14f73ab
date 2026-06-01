@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T11:38:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T17:43:43+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,16 +337,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-919
-FXUS66 KSGX 011002 AAA
+951
+FXUS66 KSGX 011737
 AFDSGX
 
-Area Forecast Discussion...UPDATED
+Area Forecast Discussion
 National Weather Service San Diego CA
-302 AM PDT Mon Jun 1 2026
+1037 AM PDT Mon Jun 1 2026
 
 .SYNOPSIS...
 Slow warming will continue for the inland areas through mid week
@@ -365,6 +367,8 @@ average for the valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Wednesday)...
 Not much change in high temperatures is expected for today with
@@ -416,26 +420,28 @@ Saturday and early Sunday.
 &&
 
 .AVIATION...
-010930Z...Coast/Valleys...Low clouds based at 1000-1400 feet MSL
-with tops to 1800 feet will continue to spread into western valleys
-through 14Z. Local vis reduced 3-5SM along higher terrain. Scatter
-out expected by 16-18Z. Low clouds will move ashore after 03Z and
-push farther inland overnight into Tuesday, likely impacting KONT
-and KSBD. Bases will be around 1200-1600 feet MSL.
+011730Z...Coast/Valleys...Low clouds have cleared the Inland Empire
+and are making a quick retreat out of the valleys and clearing to
+the coast. Low clouds based 1500-2000 ft MSL will hang out over the
+coastal waters with a few low clouds wafting in over coastal areas
+at times. Low clouds with bases 1000-2000 ft MSL will begin to push
+back in after 23Z along the coast and further inland into OC and SD
+after 03-04Z Tuesday and into the Inland Empire after 6-10Z.
 
-Mountains/Deserts...SCT clouds around 10000 feet MSL over mountains
-19-00Z today, otherwise clear today and tonight.
+Mountains/Deserts...Mostly clear skies and VFR conditions expected
+through the period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -447,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Martin
+AVIATION/MARINE...Villafane
 
 
 </pre>
