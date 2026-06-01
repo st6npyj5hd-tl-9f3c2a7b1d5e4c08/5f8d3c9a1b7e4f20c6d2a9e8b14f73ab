@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-05-31T19:19:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T04:15:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,21 +338,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-768
-FXUS66 KSGX 311744
+249
+FXUS66 KSGX 312336
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1044 AM PDT Sun May 31 2026
+436 PM PDT Sun May 31 2026
 
 .SYNOPSIS...
-A warmer day will occur across the region today. The weather will
-continue to be fairly benign and unchanged from day to day this
-week with marine layer clouds making an appearance each evening
-and morning along the coast into far western valleys. Slight
-cooling may occur by next week as a low pressure system brushes by
-to the north.
+The weather will continue to be fairly benign and unchanged from
+day to day this week with marine layer clouds making an appearance
+each evening and morning along the coast into far western
+valleys. Slight cooling may occur by next week as a low pressure
+system brushes by to the north.
 
 &&
 
@@ -360,59 +359,54 @@ to the north.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation / Marine Discussions...
+...New Aviation Discussion for the 00z TAF Package...
 
-A low pressure system across the intermountain west continues to
-push eastward, allowing the flow aloft to become more zonal over
-Southern California. This will bring in warmer weather to the area
-compared to yesterday with highs generally 3-7 degrees higher.
+Its a benign, warm day out there today. Temperatures this
+afternoon away from the immediate coast are anywhere from 1 to 12
+degrees warmer than this time yesterday, with 60s to mid 70s along
+the coast, 70s to low 80s inland and in the mountains, and 90s to
+100 in the low deserts. We`ve seen nearly completely clear skies
+today following the burn off of marine layer low clouds late this
+morning.
 
-The flow generally remains zonal, weakly ridging through the
-upcoming work week. This will lead to minor day to day changes in
-the tranquil weather pattern across the region. Onshore flow will
-keep most areas similar each day. Desert areas will warm slightly
-each day, peaking around Wednesday as an area of high pressure
-over the East Pac tries to expand over the region. Areas along and
-west of the mountains will be near average for the week with highs
-in the deserts in the 90s and lower 100s. The marine layer will
-maintain a similar depth, bringing in low clouds each evening and
-morning to the coast and far western valleys.
+Today is pretty representative of what the rest of the week will
+look like. Temperatures will fluctuate only a few degrees up or
+down each day through Thursday, albeit with slight warming in the
+deserts through Wednesday. Marine layer low clouds will return to
+the coasts and western valleys each evening through mid to late
+morning, followed by mostly clear skies with the occasional
+cumulus over the mountains or upper level clouds passing over.
+Afternoon breezes will be mild and seasonably typical.
 
-An area of low pressure is expected to move into the Pacific
-Northwest sometime around Friday, moving across the western part
-of the country by next weekend. Models continue to show some
-discrepancies on the timing and depth of this system. Depending
-how strong and how far south this system goes, will depend on how
-cool we become; all in all though, another nice weekend is on tap
-as we head into the month of June.
-
+Broad troughing over the northwest U.S. late week into the
+following week will likely lead to at least a slight cooling
+trend locally. The extent of the cooling will depend on trough
+position, which still differs between models, especially heading
+into the following week.
 
 &&
 
 .AVIATION...
-311800Z...Coast/Valleys...Mostly clear skies and VFR this afternoon.
-Low clouds develop off the coast after 01z, filling into coastal SD
-County 03-07z this evening, then developing into coastal Orange
-County and inland areas 07-12z Mon. Bases are expected to range from
-800-1300 ft MSL; periods of IFR cigs possible at lower coastal TAF
-sites (KSAN/KSNA). VIS 4-6SM for areas above 300 ft MSL and 0-4SM
-terrain/valleys above 700 ft MSL. Low clouds scatter out 15-18z
-Monday morning.
+010000Z...Coast/Valleys...Mostly clear skies and VFR through this
+evening. Patchy low clouds develop off the coast after 02z, filling
+into coastal SD County 03-07z this evening, then developing into
+coastal Orange County and inland areas 07-12z Mon. Bases are
+expected to range from 800-1300 ft MSL; periods of IFR cigs possible
+at lower coastal TAF sites (KSAN/KSNA). VIS 4-6SM for areas above
+300 ft MSL and 0-4SM terrain/valleys above 700 ft MSL. Low clouds
+scatter out 15-18z Monday morning, but may linger right along the
+coast through the afternoon. Another round of low clouds develop for
+Monday evening, likely pushing inland by 02-04z Tue with similar
+bases.
 
 
-Mountains/Deserts...VFR and SKC through Monday morning.
+Mountains/Deserts...VFR and SKC through Monday. ISO Cu AOA 10,000ft
+MSL Monday afternoon over mountain peaks.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+No hazardous marine conditions are expected through Friday.
 
 &&
 
@@ -424,8 +418,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Westerink
+PUBLIC...PG
+AVIATION/MARINE...Zuber
 
 
 </pre>
