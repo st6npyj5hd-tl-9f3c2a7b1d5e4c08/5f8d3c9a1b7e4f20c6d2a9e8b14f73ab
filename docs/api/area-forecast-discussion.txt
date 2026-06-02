@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T16:28:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T20:51:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,29 +337,23 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-001
-FXUS66 KSGX 021126
+989
+FXUS66 KSGX 021849
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-425 AM PDT Tue Jun 2 2026
+1149 AM PDT Tue Jun 2 2026
 
 .SYNOPSIS...
-Slow warming will continue for the inland areas through mid week,
-bringing high temperatures to 5 to 10 degrees above average on
-Thursday for the mountains and deserts. The coast and valleys will
-cool a few degrees today, then warm a few degrees for Wednesday
-and Thursday, with night and morning coastal low clouds spreading
-into portions of the valleys late each night. A low pressure
-system moving into the western states will bring a cooling trend
-for Friday through the weekend, with high temperatures for next
-Sunday falling to a few to around 5 degrees below average.
+Warming conditions for inland locations through Thursday. Coastal
+low clouds and fog will be present each night and morning, reaching
+into portions of the valleys. Cooling conditions expected Friday
+through Sunday with a few degrees of warming Monday and next
+Tuesday.
 
 &&
 
@@ -367,50 +361,36 @@ Sunday falling to a few to around 5 degrees below average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Update to include latest aviation and marine discussions...
+An upper level area of low pressure currently over the California
+Bight will slowly move south and east Wednesday and Thursday. High
+temperatures today are expected to be similar to Monday`s, with
+warming conditions for Wednesday and Thursday as weak ridging
+develops over Southern California. The mid-week warming will bring
+highs to 5 to 10 degrees above average for the valleys, mountains,
+and deserts and 3 to 6 degrees above average along the coast. Night
+and morning low clouds and fog will spread from the coast into the
+valleys tonight into Wednesday morning becoming shallower into
+Thursday morning, only reaching the western valleys.
 
-.SHORT TERM (Today through Thursday)...
-High temperatures for the coast and valleys will be slightly
-cooler today with the mountains a few degrees warmer. High
-pressure aloft will bring warming for Wednesday, as much as 5
-degrees for the mountains and inland, with a few more degrees of
-warming for most areas on Thursday.
+An area of low pressure will approach the Pacific Northwest Friday,
+digging south into California by Sunday. This weather system will
+bring a few degrees of cooling each day Friday through Sunday,
+taking temperatures for inland locations to few degrees below
+normal. Additionally, the marine layer will deepen again with low
+clouds expected to reach into the valleys.
 
-High temperatures on Thursday will be a few degrees above average
-near the coast to 5 to 10 degrees above average for the mountains
-and deserts. High temperatures on Thursday will range from the
-lower 70s near the coast to the mid 80s to mid 90s for the Inland
-Empire with 104 to 108 for the lower deserts.
-
-Night and morning coastal low clouds will spread into portions of
-the inland valleys for early today and early Wednesday, then just
-into the western valleys for Wednesday night into Thursday
-morning.
-
-&&
-
-.LONG TERM (Friday through Monday)...
-A low pressure system moving into the western states will bring a
-cooling trend for Friday through Sunday, continuing into the
-deserts on Monday as the coast and valleys begin to warm. High
-temperatures on Sunday will be a few degrees below average to
-around 5 degrees below average for the inland valleys. High
-temperatures on Sunday will range from around 70 near the coast
-to the upper 70s to mid 80s for the Inland Empire with the lower
-deserts around 100. Night and morning coastal low clouds will
-spread farther into the valleys late each night as the marine
-layer deepens.
+For Monday, weak troughing looks like it remains over California
+keeping highs slightly below average. By next Tuesday the NBM shows
+a few degrees of warming which will bring highs to just above
+average.
 
 &&
 
 .AVIATION...
-021130Z...Coast/Valleys...Low clouds based around 1400-1800 feet MSL
-with tops to 2300 feet will continue to fill almost the entire
-coastal basin this morning. Vis 3-5SM over higher inland valleys.
-Scatter out 16-18Z. Low clouds to redevelop and move ashore after
-03Z tonight and spread not quite as far inland overnight into
-Wednesday. Bases will be around 1000-1500 feet MSL, with vis 2-5SM
-in inland valleys.
+021800Z...Coast/Valleys...Low clouds to redevelop and move ashore
+after 03Z tonight and spread into western valleys and parts of the
+Inland Empire overnight into Wednesday. Bases will be around 1000-
+1500 feet MSL, with vis 2-5SM in inland valleys. Scatter out 16-18Z.
 
 Mountains/Deserts...Mostly clear skies and VFR conditions today and
 tonight.
@@ -426,6 +406,7 @@ No hazardous marine conditions are expected through Saturday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -436,8 +417,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...CSP
 
 
 </pre>
