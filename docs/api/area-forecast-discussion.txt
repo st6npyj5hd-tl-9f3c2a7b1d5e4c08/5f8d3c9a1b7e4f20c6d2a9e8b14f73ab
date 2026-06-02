@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-01T21:34:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T04:08:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-216
-FXUS66 KSGX 011946
+031
+FXUS66 KSGX 012346
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1246 PM PDT Mon Jun 1 2026
+446 PM PDT Mon Jun 1 2026
 
 .SYNOPSIS...
 Slow warming will continue for the inland areas through mid week,
@@ -395,13 +395,14 @@ farther inland to cover most of the valleys over the weekend.
 &&
 
 .AVIATION...
-011730Z...Coast/Valleys...Low clouds have cleared the Inland Empire
-and are making a quick retreat out of the valleys and clearing to
-the coast. Low clouds based 1500-2000 ft MSL will hang out over the
-coastal waters with a few low clouds wafting in over coastal areas
-at times. Low clouds with bases 1000-2000 ft MSL will begin to push
-back in after 23Z along the coast and further inland into OC and SD
-after 03-04Z Tuesday and into the Inland Empire after 6-10Z.
+012345Z...Coast/Valleys...Patchy low clouds over nearshore waters
+currently will begin to spread into coastal San Diego County over
+the next few hours. Clouds will quickly spread into Orange County
+and western valleys up to 10-15 miles inland by 06z Tue. Clouds
+spread further into portions of the Inland Empire by 12z (70% chance
+KONT, 40% chance KSBD). Bases 1000-1500 ft MSL may create minor vis
+reductions (2-6SM) for elevated inland valleys, especially the
+Inland Empire. Low clouds scatter toward the coast 15-18z Tue.
 
 Mountains/Deserts...Mostly clear skies and VFR conditions expected
 through the period.
@@ -417,6 +418,7 @@ No hazardous marine conditions are expected through Saturday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -428,7 +430,7 @@ PZ...None.
 $$
 
 PUBLIC...CSP
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...KW
 
 
 </pre>
