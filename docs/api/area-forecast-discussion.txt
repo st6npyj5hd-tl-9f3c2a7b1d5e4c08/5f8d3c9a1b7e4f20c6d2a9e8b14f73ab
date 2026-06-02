@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T10:26:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T16:28:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,16 +337,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-396
-FXUS66 KSGX 020712
+001
+FXUS66 KSGX 021126
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1212 AM PDT Tue Jun 2 2026
+425 AM PDT Tue Jun 2 2026
 
 .SYNOPSIS...
 Slow warming will continue for the inland areas through mid week,
@@ -364,6 +366,8 @@ Sunday falling to a few to around 5 degrees below average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Update to include latest aviation and marine discussions...
 
 .SHORT TERM (Today through Thursday)...
 High temperatures for the coast and valleys will be slightly
@@ -400,19 +404,16 @@ layer deepens.
 &&
 
 .AVIATION...
-020500Z...Coast/Valleys...Low clouds based around 1400-1900 ft MSL
-have been slower to move into coastal areas than anticipated this
-evening. Still expecting clouds to spread into Orange County and
-western valleys up to 10-15 miles inland by early Tuesday morning.
-Clouds spread further into portions of the Inland Empire by 11-13z
-(70% chance KONT, 40% chance KSBD). Bases may lower some overnight
-creating minor vis reductions (3-6SM) for elevated inland valleys,
-especially the Inland Empire. Scatter out toward the coast 15-18z
-Tue. Low clouds return to coastal areas 03-06z Wed with similar
-bases.
+021130Z...Coast/Valleys...Low clouds based around 1400-1800 feet MSL
+with tops to 2300 feet will continue to fill almost the entire
+coastal basin this morning. Vis 3-5SM over higher inland valleys.
+Scatter out 16-18Z. Low clouds to redevelop and move ashore after
+03Z tonight and spread not quite as far inland overnight into
+Wednesday. Bases will be around 1000-1500 feet MSL, with vis 2-5SM
+in inland valleys.
 
-Mountains/Deserts...Mostly clear skies and VFR conditions expected
-through the period.
+Mountains/Deserts...Mostly clear skies and VFR conditions today and
+tonight.
 
 &&
 
@@ -436,7 +437,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...KW
+AVIATION/MARINE...MM
 
 
 </pre>
