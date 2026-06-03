@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-02T20:51:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-03T04:18:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-989
-FXUS66 KSGX 021849
+087
+FXUS66 KSGX 022350
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1149 AM PDT Tue Jun 2 2026
+450 PM PDT Tue Jun 2 2026
 
 .SYNOPSIS...
 Warming conditions for inland locations through Thursday. Coastal
@@ -360,6 +360,8 @@ Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion...
 
 An upper level area of low pressure currently over the California
 Bight will slowly move south and east Wednesday and Thursday. High
@@ -384,13 +386,17 @@ keeping highs slightly below average. By next Tuesday the NBM shows
 a few degrees of warming which will bring highs to just above
 average.
 
+
 &&
 
 .AVIATION...
-021800Z...Coast/Valleys...Low clouds to redevelop and move ashore
-after 03Z tonight and spread into western valleys and parts of the
-Inland Empire overnight into Wednesday. Bases will be around 1000-
-1500 feet MSL, with vis 2-5SM in inland valleys. Scatter out 16-18Z.
+022345Z...Coast/Valleys...Low clouds based 1500-2000 ft MSL push
+back into coastal areas 03-06z Wed. Clouds expand inland overnight
+reaching into portions of the Inland Empire by 12z. 70% chance for
+cigs at KONT and 50% at KSBD. Minor vis reductions (4-6SM) for
+elevated inland valleys. Scattering to the coastline by 17-18z Wed.
+Low clouds return to coastal areas Wed evening with similar to
+slightly lower bases.
 
 Mountains/Deserts...Mostly clear skies and VFR conditions today and
 tonight.
@@ -417,8 +423,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...CSP
+PUBLIC...CSP
+AVIATION/MARINE...KW
 
 
 </pre>
