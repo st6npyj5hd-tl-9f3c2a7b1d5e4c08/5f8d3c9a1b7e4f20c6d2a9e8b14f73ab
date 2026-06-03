@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-03T11:02:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-03T16:52:15+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,16 +337,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-939
-FXUS66 KSGX 030704
+554
+FXUS66 KSGX 031120
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1204 AM PDT Wed Jun 3 2026
+420 AM PDT Wed Jun 3 2026
 
 .SYNOPSIS...
 High pressure aloft will bring warming through Thursday with high
@@ -364,6 +366,8 @@ followed by a gradual warming trend for early next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated to include the latest Aviation and Marine discussions...
 
 .SHORT TERM (Today through Friday)...
 Subtropical high pressure aloft over the eastern Pacific will
@@ -418,19 +422,15 @@ spreading as far into the valleys.
 &&
 
 .AVIATION...
-030430Z...Coast/Valleys...Low clouds based 1500-2000 ft MSL have
-redeveloped over coastal San Diego County this evening. Clouds
-expand northward and inland overnight, eventually reaching into
-portions of the Inland Empire by 12z. 70% chance for cigs at KONT
-and 50% at KSBD. Minor vis reductions (4-6SM) for elevated inland
-valleys. Scattering to the coastline by 17-18z Wed. Low clouds
-return to coastal areas Wed evening with lower bases around 1000-
-1500 ft MSL. Less inland extent Wednesday night with clouds
-remaining confined to coastal areas and western valleys.
+031130Z...Coast/Valleys...Low clouds based 1400-1800 feet MSL with
+tops to 2100 feet will continue to infiltrate the inland valleys
+this morning. Minor vis reductions of 2-5SM for elevated inland
+valleys. Scatter out 16-18Z. Low clouds return to coastal areas
+after 01Z with lower bases around 1000-1500 feet MSL. They will move
+not as far inland overnight, only into western valleys. Vis along
+inland extent of cloud deck 1-5SM.
 
-Mountains/Deserts...Mostly clear skies and VFR conditions through
-Wednesday evening.
-.
+Mountains/Deserts...Clear skies and VFR conditions today and tonight.
 
 &&
 
@@ -443,7 +443,6 @@ No hazardous marine conditions are expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -455,7 +454,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...KW
+AVIATION/MARINE...MM
 
 
 </pre>
