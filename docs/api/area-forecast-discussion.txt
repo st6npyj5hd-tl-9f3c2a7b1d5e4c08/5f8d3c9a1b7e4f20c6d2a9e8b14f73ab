@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-04T15:19:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-04T20:07:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,18 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-176
-FXUS66 KSGX 041137
+206
+FXUS66 KSGX 041818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-436 AM PDT Thu Jun 4 2026
+1118 AM PDT Thu Jun 4 2026
 
 .SYNOPSIS...
 Warming will continue for today with high temperatures 5 to 10
@@ -368,8 +366,6 @@ morning coastal low clouds not spreading as far into the valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
-...Updated Aviation and Marine discussions...
 
 .SHORT TERM (Today through Saturday)...
 High pressure aloft across southern California will continue the
@@ -432,26 +428,25 @@ clouds spreading into the western valleys late each night.
 &&
 
 .AVIATION...
-041130Z...Coast/Valleys...Low clouds with bases 800-1200 feet MSL
-with tops to 2000 feet will continue to fill into western valleys
-this morning. Local vis inland 0-5SM. Scatter out 16-19Z, except
-areas of low clouds will persist at the immediate coast. Low clouds
-of similar bases/tops/vis to develop and push inland to a very
-similar extent after 23Z into Friday.
+041800Z...Coast/Valleys...Low clouds have cleared out this morning
+for the inland areas, but remain in place within a few miles of the
+coast at 18z. Periods of scattering is expected for portions of the
+immediate coast, but clouds will linger along the beaches and coasts
+through the afternoon hours. Cloud cover redevelops and pushes back
+ashore after 00z Friday. Bases should be similar to this morning,
+around 700-1100ft MSL with limited extent into the inland valleys -
+only about a 30-40% chance for CIGs at KONT between 12-15z Fri.
+Localized VIS reductions to 4-6 SM for inland valleys and higher
+coastal terrain, with lower VIS where clouds intersect higher
+terrain.
 
-Mountains/Deserts...Clear skies and VFR conditions today and
-tonight.
+Mountains/Deserts...Clear skies and VFR conditions through Friday
+morning.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -463,8 +458,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...Munyan
+AVIATION/MARINE...Zuber
 
 
 </pre>
