@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-03T20:57:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-04T04:12:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -337,20 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-750
-FXUS66 KSGX 032042
+187
+FXUS66 KSGX 032333
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-142 PM PDT Wed Jun 3 2026
+433 PM PDT Wed Jun 3 2026
 
 .SYNOPSIS...
 High pressure aloft will bring warmer temperatures for Thursday
@@ -368,6 +364,8 @@ Sunday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+New Aviation and Marine Discussion...
 
 Current satellite imagery this afternoon shows the marine layer
 clouds have retreated to the beaches or offshore with high cirrus
@@ -393,24 +391,32 @@ the general consensus is that temperatures remain near to slightly
 below normal through mid-next week with typical June-gloom deep
 marine layer clouds.
 
+
 &&
 
 .AVIATION...
-031800Z...Coast/Valleys...Satellite shows low clouds only around 2-5
-miles inland, quickly retreating offshore. Bases currently around
-1500ft MSL. SKC and VFR expected for all coastal sites by 19z. Low
-clouds move inland again tonight with lower bases around 1000-1200ft
-MSL and less inland extent, generally after 03z Thur. Low clouds may
-not make it up to KSNA until after 05z. Clouds will clear a little
-faster on Thursday, potentially by 16-18z.
+032330Z...Coast/Valleys...Low clouds are touching coastal San Diego
+with bases currently around 1700 ft MSL. Low clouds will begin to
+make their way inland around 03-04Z for Coastal San Diego and into
+coastal Orange County after 05-07Z. Low clouds will continue to push
+inland into the adjacent valleys, 2-3 hours after the initial
+coastal push, lowering to 1000-1500 ft MSL. Clouds will begin to
+clear after 15Z, clearing most coastal sites by 17Z-18Z.
 
-Mountains/Deserts...VFR conditions through Thursday. FEW-SCT high
-clouds AOA 20,000ft MSL this afternoon, otherwise, SKC.
+Mountains/Deserts...VFR conditions expected through the period. A
+FEW-SCT high clouds AOA 20,000ft MSL through 06Z, otherwise, SKC.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -423,7 +429,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...Villafane
 
 
 </pre>
