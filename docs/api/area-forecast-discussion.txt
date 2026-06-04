@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-04T09:58:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-04T15:19:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-135
-FXUS66 KSGX 040711
+176
+FXUS66 KSGX 041137
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1211 AM PDT Thu Jun 4 2026
+436 AM PDT Thu Jun 4 2026
 
 .SYNOPSIS...
 Warming will continue for today with high temperatures 5 to 10
@@ -368,6 +368,8 @@ morning coastal low clouds not spreading as far into the valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation and Marine discussions...
 
 .SHORT TERM (Today through Saturday)...
 High pressure aloft across southern California will continue the
@@ -430,21 +432,20 @@ clouds spreading into the western valleys late each night.
 &&
 
 .AVIATION...
-040440Z...Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
-have filled in along coastal areas for SD and OC. Low clouds will
-continue to push further inland over the next few hours reaching
-into the OC and SD County valleys. Clouds will begin to clear after
-16Z, clearing most coastal sites by 17Z-18Z. SCT-FEW low clouds will
-cling to the southern SD coast after 18Z, with low clouds expecting
-to push back inland at similar heights after 01-03Z Friday.
+041130Z...Coast/Valleys...Low clouds with bases 800-1200 feet MSL
+with tops to 2000 feet will continue to fill into western valleys
+this morning. Local vis inland 0-5SM. Scatter out 16-19Z, except
+areas of low clouds will persist at the immediate coast. Low clouds
+of similar bases/tops/vis to develop and push inland to a very
+similar extent after 23Z into Friday.
 
-Mountains/Deserts...VFR conditions expected through the period with
-mostly clear skies.
+Mountains/Deserts...Clear skies and VFR conditions today and
+tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
@@ -463,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...MM
 
 
 </pre>
