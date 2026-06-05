@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T03:57:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T09:54:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,27 +339,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-742
-FXUS66 KSGX 050027
+615
+FXUS66 KSGX 050903
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-527 PM PDT Thu Jun 4 2026
+203 AM PDT Fri Jun 5 2026
 
 .SYNOPSIS...
-Today features the warmest day of the next week, with highs for
-inland area 7 to 12 degrees above average. Similar temperatures on
-Friday are followed by cooler temperatures for this weekend into
-early next week. A shallow marine layer limited to the coasts and
-western valleys today and tomorrow deepens for this weekend into
-next week. Elevated southwest to west winds during the afternoon
-and evening on Friday and Saturday for the mountains and deserts
-will gust to 30 to 40 mph. Near to slightly below average
-temperatures to persist into mid-late next week.
+Warm today with high temperatures a few degrees above normal.
+Cooler over the weekend with more widespread marine layer low
+clouds. Elevated southwest to west winds during the afternoon and
+evening through the weekend. Minor daily temperature fluctuations
+Monday through Thursday of next week, with the potential for more
+significant warming late in the week. Night and morning low clouds
+will continue for the coastal areas and valleys.
 
 &&
 
@@ -367,52 +369,64 @@ temperatures to persist into mid-late next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This morning`s sounding shows a stronger subsidence inversion aided
-by an axis of the subtropical ridge drawing closer. This has allowed
-the marine layer clouds to be more stubborn than yesterday, clearing
-for the inland areas, but remain fairly stuck along the beaches and
-immediate coastal areas. Intermittent clearing is possible
-through the afternoon, but clouds should stick around for most of
-the day. Elsewhere, clear skies and mild conditions expected under
-the building ridge - afternoon high temperatures in the upper 80s
-to low 90s for inland valleys and upper 90s to low 100s for the
-deserts, about 7-12 degrees above normal.
+Marine layer low clouds have filled in over the coastal areas and
+spread into inland Orange County and parts of the San Diego County
+Valleys, with clear skies elsewhere. Low clouds will spread
+slightly further inland through sunrise, potentially reaching the
+far west parts of the Inland Empire, before clearing back to the
+coast by late morning. Weak upper level ridging remains over the
+region today, bringing another warm day with high temperatures
+in the low to mid 70s along the coast, upper 70s to low 80s for
+inland Orange County and the western valleys, mid 80s to low 90s
+in the inland valleys, 80s in the mountains, upper 90s in the high
+desert, and around 105-108 in the low deserts.
 
-The ridge peaks in intensity later today as a large upper trough
-begins to nudge it`s way into the Pacific Northwest on Friday. This
-helps nudge temperatures down a touch and should help the marine
-layer clear back more tomorrow as well. As this trough pushes in on
-Friday into Saturday, the ridge is backs off to the southwest some
-but an onshore pressure gradient strengthens, allowing for south to
-southwest wind gusts of 30-45 mph for mountain passes, deserts, and
-desert slopes Friday and Saturday afternoons. Temperatures also
-continue to trend cooler through the weekend thanks to the trough,
-with high temperatures returning back to normal by Saturday. The
-slow progression of this large trough keeps the cooler temperatures
-in place into early next week, with highs floating near to slightly
-below average. As the forecast stretches into early-mid next week,
-ensembles begin to diverge some, but there is still fairly good
-agreement in the slow progression of this trough, followed by a
-secondary reinforcing upper low. Much more disagreement follows
-regarding the progression of this secondary trough, but the general
-consensus is that a deep marine layer and cool to near average
-temperatures should persist through mid-late week.
+An upper level low currently off the coast of British Columbia
+will move southeast into the Pacific Northwest and amplify into
+Saturday, with a reinforcing low following a similar path Sunday
+into Monday. This will bring cooling across the region into the
+weekend with highs lowering to a few degrees below normal by
+Sunday. The marine layer deepens each night with low clouds and
+patchy fog spreading further inland, potentially covering much of
+the inland valleys by Sunday morning. This will also generate
+breezy southwest to west winds in the mountains and deserts where
+gusts will be near 35-45 mph during the afternoons and evenings,
+strongest on Saturday.
+
+While troughing remains around through the middle of the week, the
+upper trough becomes less amplified, allowing for minor warming
+across Southern California. Temperatures fluctuate slightly each
+day, but in general remain within a few degrees of normal. The
+marine layer becomes more shallow for less widespread night and
+morning low clouds. Ensembles remain in fairly good agreement with
+some form of troughing through Wednesday. By Thursday, around 55%
+of the members keep the trough over the western US, while the
+remaining members are more progressive and have the trough
+shifting eastward, allowing some ridging to move in from the west.
+This continues into Friday and Saturday, though as we get later
+into the week the upper ridge becomes the slightly more dominant
+solution, comprising around 58% of the ensemble space. The trough
+lingering would result in a continuation of cooler weather with
+highs around normal, while the ridging solution would result in
+more warming and less low clouds as we head into the end of the
+week.
 
 &&
 
 .AVIATION...
-050020Z...Coast/Valleys...Low clouds have been hugging coastal
-areas throughout the day and are expected to start pushing inland
-over the next few hours. Bases have been between 1000-2000 ft MSL
-and are expected to drop to 700-1100 ft MSL after 06-08Z.
-Localized VIS reductions to 4-6 SM for inland valleys and higher
-coastal terrain will be possible, with lower VIS where clouds
-intersect higher terrain. There is still a 30-45% chance for cigs
-creeping in and around KONT from 10-15Z. Low clouds will push 20
-miles inland into adjacent valleys. Low clouds will clear the
-valleys after 16-17Z and are expected to cling to the coast
-through the rest of the period. Cigs will increase in height
-17-19Z to 1200-1700 ft MSL.
+050440Z...Coast/Valleys...Low clouds are making their way inland
+over the coastal areas and into the adjacent valleys with cigs
+currently between 1000-1500 ft MSL. Low clouds will continue to fill
+into the valley areas, stretching inland 20-25 miles. Bases are
+expected to lower briefly around 08-10Z 700-1000 ft MSL in SD and 14-
+16Z in OC. Localized VIS reductions to 4-6 SM for inland valleys and
+higher coastal terrain will be possible, with lower VIS where clouds
+intersect higher terrain. Chances for low clouds have increased to
+40-55% for cigs in and around KONT from 10-15Z. Low clouds will
+clear the valleys after 16-17Z and are expected to cling along most
+of the coast line through the rest of the period. Cigs will increase
+in height 17-19Z to 1200-1700 ft MSL. Low clouds will begin to shift
+inland after 02Z Saturday with similar bases expected.
 
 Mountains/Deserts...Expect clear skies and VFR conditions through
 the period.
@@ -439,7 +453,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Munyan
+PUBLIC...SS
 AVIATION/MARINE...Villafane
 
 
