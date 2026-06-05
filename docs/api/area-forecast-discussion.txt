@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T14:54:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T19:56:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,25 +343,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-849
-FXUS66 KSGX 051131
+913
+FXUS66 KSGX 051924
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-430 AM PDT Fri Jun 5 2026
+1224 PM PDT Fri Jun 5 2026
 
 .SYNOPSIS...
-Warm today with high temperatures a few degrees above normal.
-Cooler over the weekend with more widespread marine layer low
-clouds. Elevated southwest to west winds during the afternoon and
-evening through the weekend. Minor daily temperature fluctuations
-Monday through Thursday of next week, with the potential for more
-significant warming late in the week. Night and morning low clouds
-will continue for the coastal areas and valleys.
+Cooler weather for inland areas is expected this weekend into the
+first half of next week as a trough of low pressure moves over the
+region. This will also bring breezy conditions across the
+mountains and deserts this afternoon through Saturday evening.
+High pressure looks to expand over the West Coast by the latter
+half of next week, which would lead to a warming trend.
 
 &&
 
@@ -369,78 +370,65 @@ will continue for the coastal areas and valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation and Marine discussions...
+Zooming out, we see a 591 mb high to our southwest over the East
+Pac and 540 mb low off the coast of British Columbia. The high`s
+influence has led to a shallower inversion, leading to some hazy
+conditions in the western valleys and clouds sticking closer to
+the coast. Clouds will struggle to clear at the beaches, but may
+do so intermittently later this afternoon. Heights lower as the
+area of low pressure to the north moves closer to our region over
+the weekend. This will lead to increased winds over the mountains
+and deserts starting later this afternoon through Saturday. Winds
+will mostly be near 25-40 MPH with highest winds in the San
+Gorgonio Pass locally over 50 MPH, so please be sure to drive with
+care. Cooler weather will also occur inland over the weekend with
+Sunday being the coolest day overall. Highs in the 70s and 80s
+will occur across most areas with highs 95-100 degrees across the
+lower deserts.
 
-Marine layer low clouds have filled in over the coastal areas and
-spread into inland Orange County and parts of the San Diego County
-Valleys, with clear skies elsewhere. Low clouds will spread
-slightly further inland through sunrise, potentially reaching the
-far west parts of the Inland Empire, before clearing back to the
-coast by late morning. Weak upper level ridging remains over the
-region today, bringing another warm day with high temperatures
-in the low to mid 70s along the coast, upper 70s to low 80s for
-inland Orange County and the western valleys, mid 80s to low 90s
-in the inland valleys, 80s in the mountains, upper 90s in the high
-desert, and around 105-108 in the low deserts.
-
-An upper level low currently off the coast of British Columbia
-will move southeast into the Pacific Northwest and amplify into
-Saturday, with a reinforcing low following a similar path Sunday
-into Monday. This will bring cooling across the region into the
-weekend with highs lowering to a few degrees below normal by
-Sunday. The marine layer deepens each night with low clouds and
-patchy fog spreading further inland, potentially covering much of
-the inland valleys by Sunday morning. This will also generate
-breezy southwest to west winds in the mountains and deserts where
-gusts will be near 35-45 mph during the afternoons and evenings,
-strongest on Saturday.
-
-While troughing remains around through the middle of the week, the
-upper trough becomes less amplified, allowing for minor warming
-across Southern California. Temperatures fluctuate slightly each
-day, but in general remain within a few degrees of normal. The
-marine layer becomes more shallow for less widespread night and
-morning low clouds. Ensembles remain in fairly good agreement with
-some form of troughing through Wednesday. By Thursday, around 55%
-of the members keep the trough over the western US, while the
-remaining members are more progressive and have the trough
-shifting eastward, allowing some ridging to move in from the west.
-This continues into Friday and Saturday, though as we get later
-into the week the upper ridge becomes the slightly more dominant
-solution, comprising around 58% of the ensemble space. The trough
-lingering would result in a continuation of cooler weather with
-highs around normal, while the ridging solution would result in
-more warming and less low clouds as we head into the end of the
-week.
+The trough will remain in place into early next week, with minimal
+changes in the weather from day to day. Marine layer clouds will
+work their way into most areas west of the mountains each night
+and morning into the middle of next week. Cluster analysis shows
+fair agreement on a ridge off the coast strengthening by the
+latter half of next week. This will lead to a warming trend with
+less wind and a deeper marine layer, but how warm we become is
+still something to be determined as the timing and strength of the
+departing trough may try to influence our weather pattern as
+well.
 
 &&
 
 .AVIATION...
-051130Z...Coast/Valleys...Low clouds based at 1200-1600 feet MSL
-with tops to 1800 feet and vis 4-6SM along inland edge of clouds
-will cover coastal areas into western valleys, but only barely into
-western and southern corners of the Inland Empire this morning.
-Scatter out 16-19Z, but the immediate coast will struggle to clear
-fully or for any long duration. Low clouds will push inland after
-00Z and spread more fully inland overnight into Saturday.
-Bases/tops/vis will trend slightly higher.
+051800Z...Coast/Valleys...Low clouds based 1100-1500 ft MSL with
+tops to 2000-2200 ft are lingering along the coastal region, where
+it will see only partial/intermittent clearing today, especially in
+southern San Diego Co. Low clouds will spread inland again after 00Z
+and spread more fully inland overnight into Saturday, including into
+parts of the Inland Empire. Bases/tops will be a bit higher at 1400-
+1800 ft with vis 4-6 SM for inland edge of clouds in valleys/Inland
+Empire. Clouds will struggle to clear from coastal regions again Sat
+morning.
 
 Mountains/Deserts...Expect clear skies and VFR conditions today,
 with increasing clouds above 20000 feet tonight. Southwest-west
 winds will increase in the mountains and deserts with gusts reaching
-30-40 knots after 21Z. MOD up/downdrafts and pockets of LLWS in lee
-(north and east) of mountains.
+30-40 knots after 21Z, the decrease after 03Z tonight. MOD
+up/downdrafts and pockets of LLWS in lee (north and east) of
+mountains. Similar winds Sat afternoon and evening.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
 
+
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -452,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...MM
+PUBLIC...APR
+AVIATION/MARINE...CSP
 
 
 </pre>
