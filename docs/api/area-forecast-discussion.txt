@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T09:54:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-05T14:54:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-615
-FXUS66 KSGX 050903
+849
+FXUS66 KSGX 051131
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-203 AM PDT Fri Jun 5 2026
+430 AM PDT Fri Jun 5 2026
 
 .SYNOPSIS...
 Warm today with high temperatures a few degrees above normal.
@@ -368,6 +368,8 @@ will continue for the coastal areas and valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation and Marine discussions...
 
 Marine layer low clouds have filled in over the coastal areas and
 spread into inland Orange County and parts of the San Diego County
@@ -414,34 +416,31 @@ week.
 &&
 
 .AVIATION...
-050440Z...Coast/Valleys...Low clouds are making their way inland
-over the coastal areas and into the adjacent valleys with cigs
-currently between 1000-1500 ft MSL. Low clouds will continue to fill
-into the valley areas, stretching inland 20-25 miles. Bases are
-expected to lower briefly around 08-10Z 700-1000 ft MSL in SD and 14-
-16Z in OC. Localized VIS reductions to 4-6 SM for inland valleys and
-higher coastal terrain will be possible, with lower VIS where clouds
-intersect higher terrain. Chances for low clouds have increased to
-40-55% for cigs in and around KONT from 10-15Z. Low clouds will
-clear the valleys after 16-17Z and are expected to cling along most
-of the coast line through the rest of the period. Cigs will increase
-in height 17-19Z to 1200-1700 ft MSL. Low clouds will begin to shift
-inland after 02Z Saturday with similar bases expected.
+051130Z...Coast/Valleys...Low clouds based at 1200-1600 feet MSL
+with tops to 1800 feet and vis 4-6SM along inland edge of clouds
+will cover coastal areas into western valleys, but only barely into
+western and southern corners of the Inland Empire this morning.
+Scatter out 16-19Z, but the immediate coast will struggle to clear
+fully or for any long duration. Low clouds will push inland after
+00Z and spread more fully inland overnight into Saturday.
+Bases/tops/vis will trend slightly higher.
 
-Mountains/Deserts...Expect clear skies and VFR conditions through
-the period.
+Mountains/Deserts...Expect clear skies and VFR conditions today,
+with increasing clouds above 20000 feet tonight. Southwest-west
+winds will increase in the mountains and deserts with gusts reaching
+30-40 knots after 21Z. MOD up/downdrafts and pockets of LLWS in lee
+(north and east) of mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -454,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...MM
 
 
 </pre>
