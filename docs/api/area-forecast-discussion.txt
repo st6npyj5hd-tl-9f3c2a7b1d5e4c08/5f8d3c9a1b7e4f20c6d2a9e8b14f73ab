@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-06T08:35:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-06T13:47:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,24 +343,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-164
-FXUS66 KSGX 060521
+970
+FXUS66 KSGX 061131 CCA
 AFDSGX
 
-Area Forecast Discussion
+Area Forecast Discussion...CORRECTED
 National Weather Service San Diego CA
-1021 PM PDT Fri Jun 5 2026
+431 AM PDT Sat Jun 6 2026
 
 .SYNOPSIS...
 Cooler weather for inland areas is expected this weekend into the
 first half of next week as a trough of low pressure moves over the
 region. This will also bring breezy conditions across the
-mountains and deserts this afternoon through Saturday evening.
-High pressure looks to expand over the West Coast by the latter
-half of next week, which would lead to a warming trend.
+mountains and deserts this afternoon and tomorrow afternoon. High
+pressure looks to expand over the West Coast by the latter half
+of next week, which would lead to a warming trend.
 
 &&
 
@@ -368,59 +372,78 @@ half of next week, which would lead to a warming trend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion...
+Today through tomorrow night...
 
-Zooming out, we see a 591 mb high to our southwest over the East
-Pac and 540 mb low off the coast of British Columbia. The high`s
-influence has led to a shallower inversion, leading to some hazy
-conditions in the western valleys and clouds sticking closer to
-the coast. Clouds will struggle to clear at the beaches, but may
-do so intermittently later this afternoon. Heights lower as the
-area of low pressure to the north moves closer to our region over
-the weekend. This will lead to increased winds over the mountains
-and deserts starting later this afternoon through Saturday. Winds
-will mostly be near 25-40 MPH with highest winds in the San
-Gorgonio Pass locally over 50 MPH, so please be sure to drive with
-care. Cooler weather will also occur inland over the weekend with
-Sunday being the coolest day overall. Highs in the 70s and 80s
-will occur across most areas with highs 95-100 degrees across the
-lower deserts.
+Current satellite imagery reveals that the marine layer has formed
+and filled in along the coastal areas for San Diego and Orange
+counties, and extends roughly around 10 to 15 miles inland with
+bases of around 1500 to 2000 ft elevation. Given how strong the
+inversion is in place over the region, it is likely that the marine
+layer will struggle to mix out and dissipate later this afternoon,
+especially for locations right along the coast, where there will
+likely be low clouds lingering throughout the afternoon.
 
-The trough will remain in place into early next week, with minimal
-changes in the weather from day to day. Marine layer clouds will
-work their way into most areas west of the mountains each night
-and morning into the middle of next week. Cluster analysis shows
-fair agreement on a ridge off the coast strengthening by the
-latter half of next week. This will lead to a warming trend with
-less wind and a deeper marine layer, but how warm we become is
-still something to be determined as the timing and strength of the
-departing trough may try to influence our weather pattern as
-well.
+High pressure conditions continue to dominate the region, however,
+there is a major shortwave trough upstream that is advancing
+eastward and beginning to influence the area with cooler
+temperatures with a better push of onshore flow, and breezy
+conditions, especially for the mountains and areas prone to gusty
+winds. These winds are not expected to reach advisory level,
+although there may be a few occasional gusts approaching 60 mph
+within the San Gorgonio Pass. By later this evening, these winds
+will begin to decouple overnight, but then pick back up to be gusty
+again on Sunday during the afternoon, being slightly weaker.
+Temperatures will be around the same for highs on Sunday, perhaps
+just a smidgen warmer.
 
+Monday through Friday...
+
+There has been very little change in the extended forecast since
+previous model runs. As the trough exits the region towards the
+middle of the week, and as the overall longwave pattern begins to
+shift more east and allows a ridge over the E PAC waters to expand
+over the west coast region, it will allow for there to be a
+gradual warming trend occurring towards the end of the upcoming
+week. This will also allow for the marine layer to lower with
+possible vis restriction impacts as a result closer to the coastal
+areas. Conditions are expected to remain dry through then.
 
 &&
 
 .AVIATION...
-060530Z...Coast/Valleys...Low clouds based 1400-1800 ft MSL have
-settled in over coastal areas this evening. Clouds will push inland
-overnight filling San Diego/Orange County valleys and reaching into
-portions of the Inland Empire. VIS 4-6 SM for inland edge of clouds
-in valleys/Inland Empire (i.e. KRNM, KSBD). Clouds will clear from
-inland areas 16-19z Sat, but will struggle to clear at all within 5-
-10 miles of the coastline Saturday afternoon. Clouds move inland
-again starting around 00-02z Sun with bases 2000-2500 ft MSL.
+061000Z...Coast/Valleys...Low clouds based 1300-1700 ft MSL are
+covering San Diego and Orange Counties up to 20 miles inland
+currently. Clouds will reach into portions of the Inland Empire in
+the next few hours. VIS 2-6 SM for inland edge of clouds in
+valleys/Inland Empire (i.e. KRNM, KONT). Scattering out for inland
+areas 16-19z Sat. Cigs may remain BKN within 5-10 miles of the
+coastline Saturday afternoon, particularly in San Diego County.
+Clouds move inland again starting around 00-02z Sun with bases 1800-
+2300 ft MSL. Similar inland extent as this morning with clouds
+filling into most of the coastal basin by 12z Sun.
 
 Mountains/Deserts...VFR with increasing clouds AOA 20000ft MSL
-tonight into Saturday. Southwest-west winds will increase in the
-mountains and deserts with gusts reaching 30-40 knots after 18z Sat.
-Winds slowly decrease late Saturday evening and overnight. MOD
+through this evening. Southwest-west winds will increase in the
+mountains and deserts today with gusts reaching 30-40 knots after
+21z. Winds slowly decrease late this evening and overnight. MOD
 up/downdrafts and pockets of LLWS in lee (north and east) of
 mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Wednesday night.
+
+&&
+
+.BEACHES...
+A series of long period (17-19 second) swells from the south (200
+degrees) will result in elevated surf this weekend. Surf 4-6 feet at
+south facing beaches currently through this evening, with swell and
+surf weakening slightly on Sunday. Surf builds again Monday as a 3-4
+foot swell at 18-19 seconds moves into the region. Surf peaks Tues-
+Wed with sets to 5-8 feet likely at south-facing beaches, then
+gradually diminishes late next week.
 
 &&
 
@@ -439,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...KW
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
