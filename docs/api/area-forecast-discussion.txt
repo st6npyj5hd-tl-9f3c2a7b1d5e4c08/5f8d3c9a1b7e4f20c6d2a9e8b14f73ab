@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-06T03:39:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-06T08:35:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-693
-FXUS66 KSGX 052349
+164
+FXUS66 KSGX 060521
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-449 PM PDT Fri Jun 5 2026
+1021 PM PDT Fri Jun 5 2026
 
 .SYNOPSIS...
 Cooler weather for inland areas is expected this weekend into the
@@ -369,6 +367,8 @@ half of next week, which would lead to a warming trend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion...
 
 Zooming out, we see a 591 mb high to our southwest over the East
 Pac and 540 mb low off the coast of British Columbia. The high`s
@@ -397,39 +397,37 @@ still something to be determined as the timing and strength of the
 departing trough may try to influence our weather pattern as
 well.
 
+
 &&
 
 .AVIATION...
-060000Z...Coast/Valleys...Low clouds based around 1500-1700ft MSL
-with tops to 2100-2200ft are lingering along the coastal region,
-poised to spread inland again after 02z and spread more fully inland
-including into the Inland Empire with bases closer to 1500-1800ft
-MSL through Saturday morning. VIS 4-6 SM for inland edge of clouds
-in valleys/Inland Empire. Clouds will struggle to clear from coastal
-regions again Sat morning, but intermittent clearing will be
-possible generally after 20z.
+060530Z...Coast/Valleys...Low clouds based 1400-1800 ft MSL have
+settled in over coastal areas this evening. Clouds will push inland
+overnight filling San Diego/Orange County valleys and reaching into
+portions of the Inland Empire. VIS 4-6 SM for inland edge of clouds
+in valleys/Inland Empire (i.e. KRNM, KSBD). Clouds will clear from
+inland areas 16-19z Sat, but will struggle to clear at all within 5-
+10 miles of the coastline Saturday afternoon. Clouds move inland
+again starting around 00-02z Sun with bases 2000-2500 ft MSL.
 
-Mountains/Deserts...SKC and VFR with increasing clouds AOA 20000ft
-MSL tonight into Saturday. Southwest-west winds will increase in the
-mountains and deserts with gusts reaching 30-40 knots after 18z Sat,
-decreasing Saturday evening. MOD up/downdrafts and pockets of LLWS
-in lee (north and east) of mountains.
+Mountains/Deserts...VFR with increasing clouds AOA 20000ft MSL
+tonight into Saturday. Southwest-west winds will increase in the
+mountains and deserts with gusts reaching 30-40 knots after 18z Sat.
+Winds slowly decrease late Saturday evening and overnight. MOD
+up/downdrafts and pockets of LLWS in lee (north and east) of
+mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.BEACHES...
-A series of long period (17-19 second) swells from the south (200
-degrees) will result in elevated surf for most of the next week.
-Surf 4-6 feet at south facing beaches currently through Saturday,
-with swell and surf weakening on Sunday. Surf builds again Monday as
-a 3-4 foot swell at 18-19 seconds moves into the region. Surf peaks
-Tues-Wed with sets to 5-8 feet likely at south-facing beaches, then
-gradually diminishes late next week.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -442,7 +440,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE...KW
 
 
 </pre>
