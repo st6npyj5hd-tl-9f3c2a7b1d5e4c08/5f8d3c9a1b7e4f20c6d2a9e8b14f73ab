@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T04:06:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T08:57:49+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,18 +345,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-365
-FXUS66 KSGX 070015
+656
+FXUS66 KSGX 070552
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-515 PM PDT Sat Jun 6 2026
+1052 PM PDT Sat Jun 6 2026
 
 .SYNOPSIS...
 Not as hot this weekend with breezy conditions across the
@@ -370,6 +368,8 @@ latter half of next week, bringing a warming trend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation and Marine Discussion for 06z TAF Package...
 
 An area of low pressure is moving into western Washington State
 today, bringing an open wave troughing pattern along the West
@@ -402,37 +402,29 @@ to locally 10 degrees above normal for this time period.
 &&
 
 .AVIATION...
-070000Z...Coast/Valleys...Low clouds 1800-2300 ft MSL are
-developing along the San Diego coastline, pushing into Orange
-County after 02z this evening, covering the valleys by 05z, and
-developing in the Inland Empire 06-10z. VIS 0-5SM in highest
-inland valleys and along mountain foothills. Scatter out inland to
-the coast 15-18z with some lingering BKN cigs at the immediate
-coast through 20z. Morning HZ and VIS 4-6SM in the morning hours
-after sunrise in the Inland Empire. Otherwise, VFR conditions
-prevail through Sunday mid-afternoon.
+070600Z...Coast/Valleys...Low clouds based 1800-2300 ft MSL have
+quickly spread about 20 miles inland this evening. Clouds are
+starting to spill into the Inland Empire and should fill the entire
+coastal basin by 09-10z. VIS 4-6SM in highest inland valleys
+(including the Inland Empire). Scatter out inland to the coast 16-
+19z, though some areas along the coastline may not clear until the
+early afternoon. 20-30% chance for BKN cigs all day at KSAN. Low
+clouds move back inland starting 01-02z Mon with slightly lower
+bases.
 
 
-Mountains/Deserts...VFR with clouds AOA 20000ft MSL through this
-evening. Southwest-west winds 20-35 knots this evening slowly
-decrease after 03z. MOD up/downdrafts and pockets of LLWS in lee
-(north and east) of mountains.
+Mountains/Deserts...VFR with SCT-BKN clouds AOA 20000ft MSL through
+Sunday morning. Southwest-west winds gusting 20-35 knots along
+desert slopes and locally into deserts this evening slowly diminish
+through tonight. Winds of similar intensity pick up again for the
+same areas Sunday afternoon. Gusts may exceed 40 kts through the
+Banning Pass. MOD up/downdrafts and pockets of LLWS in lee (north
+and east) of mountains.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Wednesday night.
-
-&&
-
-.BEACHES...
-A series of long period (17-19 second) swells from the south (200
-degrees) will result in elevated surf this weekend. Surf 4-6 feet at
-south facing beaches remains through this evening, before swell and
-surf diminishes slightly on Sunday. Surf builds again Monday as a
-fresh 3-4 foot swell at 18-19 seconds moves into the region. Surf
-peaks Tues-Wed with sets to 5-8 feet likely at south-facing beaches,
-then gradually diminishes late next week.
 
 &&
 
@@ -452,7 +444,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE...KW
 
 
 </pre>
