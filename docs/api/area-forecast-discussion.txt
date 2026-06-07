@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-06T19:25:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T04:06:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-621
-FXUS66 KSGX 061907
+365
+FXUS66 KSGX 070015
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1207 PM PDT Sat Jun 6 2026
+515 PM PDT Sat Jun 6 2026
 
 .SYNOPSIS...
 Not as hot this weekend with breezy conditions across the
@@ -400,23 +398,25 @@ remains off the coast. We will continue to monitor how warm we
 become, but so far, NBM predictions has high temperatures around 5
 to locally 10 degrees above normal for this time period.
 
+
 &&
 
 .AVIATION...
-061800Z...Coast/Valleys...Low clouds 1800-2200 ft MSL are lingering
-along the immediate coast this morning. Scattering possible 19-23Z
-today for coastal sites, higher chances for north SD County/Orange
-County. Scatter out for south SD County likely to be intermittent
-and brief, with sustained BKN cigs for most of the day. Clouds move
-back inland after 23Z this afternoon, reaching into parts of the
-inland valleys similar to this morning overnight, with similar bases
-1800-2300 ft MSL.
+070000Z...Coast/Valleys...Low clouds 1800-2300 ft MSL are
+developing along the San Diego coastline, pushing into Orange
+County after 02z this evening, covering the valleys by 05z, and
+developing in the Inland Empire 06-10z. VIS 0-5SM in highest
+inland valleys and along mountain foothills. Scatter out inland to
+the coast 15-18z with some lingering BKN cigs at the immediate
+coast through 20z. Morning HZ and VIS 4-6SM in the morning hours
+after sunrise in the Inland Empire. Otherwise, VFR conditions
+prevail through Sunday mid-afternoon.
+
 
 Mountains/Deserts...VFR with clouds AOA 20000ft MSL through this
-evening. Southwest-west winds will increase in the mountains and
-deserts today with gusts reaching 30-40 knots after 19Z. Winds
-slowly decrease late this evening and overnight. MOD up/downdrafts
-and pockets of LLWS in lee (north and east) of mountains.
+evening. Southwest-west winds 20-35 knots this evening slowly
+decrease after 03z. MOD up/downdrafts and pockets of LLWS in lee
+(north and east) of mountains.
 
 &&
 
@@ -440,6 +440,7 @@ then gradually diminishes late next week.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -451,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...CSP
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
