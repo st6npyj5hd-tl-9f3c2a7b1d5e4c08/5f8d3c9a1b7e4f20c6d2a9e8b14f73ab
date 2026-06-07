@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T13:56:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T19:24:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,20 +352,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-289
-FXUS66 KSGX 071100 CCA
+793
+FXUS66 KSGX 071844
 AFDSGX
 
-Area Forecast Discussion...CORRECTED
+Area Forecast Discussion
 National Weather Service San Diego CA
-400 AM PDT Sun Jun 7 2026
+1144 AM PDT Sun Jun 7 2026
 
 .SYNOPSIS...
-Not as hot this weekend with breezy conditions across the
-mountains and deserts. Temperatures will hold near average for the
-first half of the week as a troughing pattern lingers with a
-deeper marine layer. High pressure moves in by Wednesday into the
-latter half of next week, bringing a warming trend.
+Near to slightly below average temperatures expected through Monday.
+Gradual warming is forecast through the week, with temperatures
+reaching above average by Tuesday. Hottest conditions are expected
+Thursday through Saturday with areas of moderate HeatRisk expected
+for inland locations. The marine layer will remain deep into Monday
+morning, reaching into the Inland Empire. With building high
+pressure aloft, the marine layer will become shallower for the
+middle to end of the week.
 
 &&
 
@@ -373,92 +376,63 @@ latter half of next week, bringing a warming trend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Update: Clouds have lifted enough to completely fill into the Inland
-Empire at this hour, and therefore overcast skies are likely to
-remain in place through the early hours for a good portion of all
-of the inland areas. Expect clouds to begin to dissipate from
-east to west shortly after sunrise, although given the strength of
-the inversion, some areas may struggle to clear out completely
-through mid-morning. Some patchy fog will be possible within some
-of the higher inland valleys along the I-15 corridor.
+Weak troughing will linger over the US West Coast into tomorrow,
+maintaining onshore flow, near to slightly below average
+temperatures, and elevated winds through passes and locally into
+the deserts. Peak wind gusts this afternoon will be 35 to 40 mph,
+locally up to 50 mph through the San Gorgonio pass. Winds will
+weaken as the trough moves north and east Tuesday, allowing for
+heights to rise and conditions to begin to warm. Highs on Tuesday
+are forecast to be a few degrees above average for inland
+locations and 4 to 8 degrees above average for the coast.
 
-Today through tomorrow night...
+Ridging aloft will take the place of the aforementioned troughing
+for the middle to end of the week. The main axis of the ridge will
+remain over the Pacific Ocean but the periphery of it will be over
+the US West Coast. This will result in a warming trend for the
+middle to end of the week. Warmest conditions will likely be
+Thursday through Saturday, with highs 6 to 12 degrees above average.
+Areas of moderate HeatRisk are expected for the Inland Empire and
+the deserts.
 
-The latest GOES night fog reveals that the high clouds associated
-with a finger of the subtropical jet continues to exit the region,
-which is helping to allow for the marine layer to fill in west of
-the mountains for all locations under roughly 1500-2000 ft elevation
-within San Diego and Orange counties. Given low level flow, these
-clouds are struggling to making it into the IE, although lifting of
-the marine layer through the morning hours as 500 mb heights
-continue to fall may aid in these clouds filling into the IE.
-
-As aforementioned, the major shortwave trough impacting the region
-will continue to propagate across the western states and into the
-Great Basin, which will allow for heights to fall and lifting of the
-marine layer slightly. Given how persistent onshore flow is, there
-will likely be a few locations along the coastal areas that will be
-socked in with overcast skies throughout the day. These clouds will
-break for much of the inland areas by later this morning. Winds
-across the higher terrain and through the gaps will increase again
-during this afternoon, but not be quite as strong as yesterday.
-There could still be the occasional gust over 50 mph within Gorgonio
-Pass. Temperatures will still be on the chilly side for today. Winds
-will decouple and weaken going into the later part of the evening,
-with low clouds continuing to fill in west of the mountains.
-
-On Monday, temperatures will be slightly warmer than today as high
-pressure reestablishes itself. Winds during the afternoon will pick
-back up across the mountains and high deserts, with similar values
-as this afternoon as overall troughing remains in place. The marine
-layer will begin to lower by later in the evening tomorrow and fill
-back in.
-
-Tuesday through Saturday...
-
-High pressure is going to further set back in with the trough slowly
-transitioning eastward and out of the region, which will gradually
-be replaced by an expanding area of ridging over the e Pac waters,
-that will begin to edge its way closer to the region throughout the
-later half of the upcoming week. This will result in a warming
-trend, especially by Thursday into Friday. The marine layer will
-also continue to lower, with vis restrictions during the early
-morning hours becoming a lot more likely further west to the coastal
-areas. Ensembles depict that dry conditions will persist going into
-the following weekend as weak ridging remains locked in place as a
-deepening longwave trough advances southward across mid CONUS.
+With the predominately onshore flow, the marine layer will stay on
+the deeper side into tomorrow morning, which will push low clouds
+into the valleys. Starting Tuesday, the marine layer is expected
+to become shallower as heights start to rise. By the end of the
+week, low clouds and fog are only expected along the coast.
 
 &&
 
 .AVIATION...
-071000Z...Coast/Valleys...Low clouds based 1900-2400 ft MSL have
-filled most of the coastal basin early this morning. VIS 0-5SM along
-mountain foothills. Scatter out inland to the coast 16-19z, though
-some areas along the coastline may not clear until the early
-afternoon. 20-30% chance for BKN cigs all day at KSAN. Low clouds
-move back inland starting 01-02z Mon with slightly lower bases.
-Similar inland extent Sunday night, though portions of the Inland
-Empire may remain FEW-SCT.
+071800Z...Coast/Valleys...Satellite shows low clouds have pushed
+offshore, with VFR and SKC prevailing through the afternoon for most
+locations. Intermittent low clouds at KSAN through the afternoon,
+around a 10-20% chance of a CIG at any point between 19z-02z Mon.
+After 02z, low clouds based 1500-2200ft MSL will move inland again,
+with similar inland extent as occurred this morning.
 
-
-Mountains/Deserts...VFR with SCT clouds AOA 20000ft MSL through this
-morning. Elevated southwest-west winds return this afternoon and
-evening with gusts 20-35 knots along desert slopes and locally into
-deserts. Gusts may exceed 40 kts through the Banning Pass. MOD
-up/downdrafts and pockets of LLWS in lee (north and east) of
-mountains.
+Mountains/Deserts...VFR with SKC. Elevated southwest-west winds
+return this afternoon and evening with gusts 20-35 knots along
+desert slopes and locally into deserts. Gusts may exceed 40 kts
+through the Banning Pass. MOD up/downdrafts and pockets of LLWS in
+lee (north and east) of mountains. Winds should begin to fall off
+after 06z Mon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday night.
+No hazardous marine conditions are expected through Wednesday
+night.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+.BEACHES...
+Elevated surf subsided some this morning, though strong rip currents
+will continue through Monday along with occasional sets to 6 feet
+along south-facing beaches. Surf builds again Monday evening as a
+fresh 3-4 foot swell at 18-19 seconds moves into the region. Surf
+peaks Tues-Wed with sets to 5-8 feet likely at south-facing beaches,
+then gradually diminishes late this week.
 
 &&
 
@@ -470,8 +444,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...KW
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
