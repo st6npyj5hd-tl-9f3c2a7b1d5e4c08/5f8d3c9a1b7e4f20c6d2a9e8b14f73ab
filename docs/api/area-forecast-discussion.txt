@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T08:57:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T13:56:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,16 +345,20 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-656
-FXUS66 KSGX 070552
+289
+FXUS66 KSGX 071100 CCA
 AFDSGX
 
-Area Forecast Discussion
+Area Forecast Discussion...CORRECTED
 National Weather Service San Diego CA
-1052 PM PDT Sat Jun 6 2026
+400 AM PDT Sun Jun 7 2026
 
 .SYNOPSIS...
 Not as hot this weekend with breezy conditions across the
@@ -369,57 +373,80 @@ latter half of next week, bringing a warming trend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion for 06z TAF Package...
+Update: Clouds have lifted enough to completely fill into the Inland
+Empire at this hour, and therefore overcast skies are likely to
+remain in place through the early hours for a good portion of all
+of the inland areas. Expect clouds to begin to dissipate from
+east to west shortly after sunrise, although given the strength of
+the inversion, some areas may struggle to clear out completely
+through mid-morning. Some patchy fog will be possible within some
+of the higher inland valleys along the I-15 corridor.
 
-An area of low pressure is moving into western Washington State
-today, bringing an open wave troughing pattern along the West
-Coast. This continues to bring greater onshore flow and subtle
-cooling to the region today with high temperatures a few degrees
-cooler than yesterday. The marine inversion is still strong, where
-low clouds will see intermittent clearing. Breezy west and south
-winds will occur over the desert slopes/passes into the deserts
-through this evening. Models show gusts primarily near 25-40 MPH,
-locally near 55 MPH in the San Gorgonio Pass.
+Today through tomorrow night...
 
-As the low pressure system in the Pacific NW moves inland, we
-will see a few more degrees of cooling for inland areas for Sunday
-and Monday as reinforcing shortwave moves through to the north.
-Most areas will be near average with some inland valley locations
-near 5 degrees below normal as low clouds move into the coastal
-and western valley areas each night and morning. Highs in the 70s
-and 80s will occur across most areas with highs 95-100 degrees
-across the lower deserts.
+The latest GOES night fog reveals that the high clouds associated
+with a finger of the subtropical jet continues to exit the region,
+which is helping to allow for the marine layer to fill in west of
+the mountains for all locations under roughly 1500-2000 ft elevation
+within San Diego and Orange counties. Given low level flow, these
+clouds are struggling to making it into the IE, although lifting of
+the marine layer through the morning hours as 500 mb heights
+continue to fall may aid in these clouds filling into the IE.
 
-By Wednesday, the troughing pattern to the north will shift
-further inland as a ridge of high pressure amplifies off the
-coast. This will bring warmer weather on Wednesday, with similar
-temperatures expected for the rest of the week as the system
-remains off the coast. We will continue to monitor how warm we
-become, but so far, NBM predictions has high temperatures around 5
-to locally 10 degrees above normal for this time period.
+As aforementioned, the major shortwave trough impacting the region
+will continue to propagate across the western states and into the
+Great Basin, which will allow for heights to fall and lifting of the
+marine layer slightly. Given how persistent onshore flow is, there
+will likely be a few locations along the coastal areas that will be
+socked in with overcast skies throughout the day. These clouds will
+break for much of the inland areas by later this morning. Winds
+across the higher terrain and through the gaps will increase again
+during this afternoon, but not be quite as strong as yesterday.
+There could still be the occasional gust over 50 mph within Gorgonio
+Pass. Temperatures will still be on the chilly side for today. Winds
+will decouple and weaken going into the later part of the evening,
+with low clouds continuing to fill in west of the mountains.
 
+On Monday, temperatures will be slightly warmer than today as high
+pressure reestablishes itself. Winds during the afternoon will pick
+back up across the mountains and high deserts, with similar values
+as this afternoon as overall troughing remains in place. The marine
+layer will begin to lower by later in the evening tomorrow and fill
+back in.
+
+Tuesday through Saturday...
+
+High pressure is going to further set back in with the trough slowly
+transitioning eastward and out of the region, which will gradually
+be replaced by an expanding area of ridging over the e Pac waters,
+that will begin to edge its way closer to the region throughout the
+later half of the upcoming week. This will result in a warming
+trend, especially by Thursday into Friday. The marine layer will
+also continue to lower, with vis restrictions during the early
+morning hours becoming a lot more likely further west to the coastal
+areas. Ensembles depict that dry conditions will persist going into
+the following weekend as weak ridging remains locked in place as a
+deepening longwave trough advances southward across mid CONUS.
 
 &&
 
 .AVIATION...
-070600Z...Coast/Valleys...Low clouds based 1800-2300 ft MSL have
-quickly spread about 20 miles inland this evening. Clouds are
-starting to spill into the Inland Empire and should fill the entire
-coastal basin by 09-10z. VIS 4-6SM in highest inland valleys
-(including the Inland Empire). Scatter out inland to the coast 16-
-19z, though some areas along the coastline may not clear until the
-early afternoon. 20-30% chance for BKN cigs all day at KSAN. Low
-clouds move back inland starting 01-02z Mon with slightly lower
-bases.
+071000Z...Coast/Valleys...Low clouds based 1900-2400 ft MSL have
+filled most of the coastal basin early this morning. VIS 0-5SM along
+mountain foothills. Scatter out inland to the coast 16-19z, though
+some areas along the coastline may not clear until the early
+afternoon. 20-30% chance for BKN cigs all day at KSAN. Low clouds
+move back inland starting 01-02z Mon with slightly lower bases.
+Similar inland extent Sunday night, though portions of the Inland
+Empire may remain FEW-SCT.
 
 
-Mountains/Deserts...VFR with SCT-BKN clouds AOA 20000ft MSL through
-Sunday morning. Southwest-west winds gusting 20-35 knots along
-desert slopes and locally into deserts this evening slowly diminish
-through tonight. Winds of similar intensity pick up again for the
-same areas Sunday afternoon. Gusts may exceed 40 kts through the
-Banning Pass. MOD up/downdrafts and pockets of LLWS in lee (north
-and east) of mountains.
+Mountains/Deserts...VFR with SCT clouds AOA 20000ft MSL through this
+morning. Elevated southwest-west winds return this afternoon and
+evening with gusts 20-35 knots along desert slopes and locally into
+deserts. Gusts may exceed 40 kts through the Banning Pass. MOD
+up/downdrafts and pockets of LLWS in lee (north and east) of
+mountains.
 
 &&
 
@@ -443,7 +470,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...Stewey
 AVIATION/MARINE...KW
 
 
