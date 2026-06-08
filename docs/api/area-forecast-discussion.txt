@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-08T15:55:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-08T20:23:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,28 +345,23 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-265
-FXUS66 KSGX 080943
+727
+FXUS66 KSGX 081846
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-243 AM PDT Mon Jun 8 2026
+1146 AM PDT Mon Jun 8 2026
 
 .SYNOPSIS...
-High temperatures a few to around 5 degrees below average for
-today will warm to 5 to 10 degrees above average for inland areas
-for the middle and latter part of the week. Widespread moderate
-HeatRisk is expected for Thursday through Saturday for the deserts
-with Saturday the hottest day. The marine layer will become
-shallower this week with night and morning coastal low clouds only
-spreading inland into the western valleys for the latter half of
-the week.
+Warming conditions expected this week. Hottest conditions are
+expected Thursday through Saturday for most locations, potentially
+into Sunday for the deserts. Moderate HeatRisk is expected across
+inland areas. The marine layer is expected to get shallower, staying
+confined to coastal areas through much of this week.
 
 &&
 
@@ -374,67 +369,58 @@ the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Aviation and Marine Discussion Updated for 12z TAF Package...
+High temperatures today are expected to be a few degrees warmer than
+yesterday for most locations. An additional 3 to 5 degrees of
+warming is expected on Tuesday, which will bring conditions to a few
+degrees above average for inland areas and up to 8 degrees above
+average for the coast.
 
-.SHORT TERM (Today through Wednesday)...
-The trough of low pressure over the western states will begin to
-weaken and move inland tonight and Tuesday with high pressure over
-the eastern Pacific beginning to slowly expand into southern
-California by Wednesday.
+High pressure aloft will build over the Pacific for the middle to
+end of the week. Through the forecast period the ridge axis is
+expected to stay to our west, but with California in it`s periphery
+highs will increase. Warmest conditions will likely be Thursday
+through Saturday, with highs 6 to 12 degrees above average. Areas of
+moderate HeatRisk are expected for the Inland Empire and the
+deserts, with more localized areas of moderate HeatRisk in the far
+eastern San Diego county valleys. Widespread moderate with areas of
+localized major HeatRisk expected in the low deserts on Saturday.
+Based on current forecast, high temperatures do not look record
+breaking but some low temperature records will be in jeopardy.
 
-High temperatures will warm a few degrees today, but with high
-temperatures still a few to around 5 degrees below average. High
-temperatures for today will range from around 70 near the coast to
-the 80s for the Inland Empire with the lower deserts around 100.
+The position of the ridge could allow for some subtropical moisture
+to sneak into the southwestern United States by the end of the week.
+Ensemble members of both the GEFS and ECMWF show a notable increase
+in precipitable water into the low deserts Friday, with less but
+still elevated precipitable water Saturday and Sunday. The forecast
+looks to remain dry at this time so it looks like the main impact
+from this moisture surge would be tempering the highs across the
+deserts and an increase in high clouds. Current forecast for the low
+deserts is 108-112 degrees Friday and Saturday, but if the moisture
+surge materializes high temperatures would likely be lower than
+that.
 
-There will be greater warming on Tuesday for the coast and
-valleys, and on Wednesday for the mountains and deserts. High
-temperatures on Wednesday will be a few degrees above average for
-coastal areas to 5 to 10 degrees above average for the mountains,
-deserts, and far inland valleys. High temperatures on Wednesday
-will range from the lower 70s near the coast to the mid 80s to mid
-90s for the Inland Empire with 104 to 108 for the lower deserts.
+There is some uncertainty with highs Sunday, especially for the
+desert areas. Highs in the desert have the potential to be hotter on
+Sunday compared to Friday/Saturday if the moisture surge is
+significantly weaker. There is higher confidence that areas west of
+the mountains will cool a degree or two by Sunday.
 
-The marine layer is still around 2500 feet deep with coastal low
-clouds expected to reach portions of the inland valleys early this
-morning. The marine layer will gradually decrease in depth for
-Tuesday and Wednesday, but with night and morning coastal low
-clouds still spreading inland into portions of the western
-valleys.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-The warming trend will continue on Thursday with high temperatures
-a few degrees warmer than Wednesday. Not much change is expected
-for Friday and Saturday followed by a few degrees of cooling on
-Sunday. High temperatures on Friday and Saturday will range from a
-few to around 5 degrees above average for coastal areas to 5 to 10
-degrees above average for inland areas. High temperatures for
-Friday and Saturday will range from the lower to mid 70s near the
-coast to the upper 80s to mid 90s for the Inland Empire with the
-lower deserts around 110.
-
-The currently forecast temperatures would not be recording
-setting. However, there will be moderate heat risk for portions of
-the deserts and more inland portions of the Inland Empire as
-early Wednesday. More widespread moderate HeatRisk is expect for
-those areas for Thursday through Saturday, peaking on Saturday for
-the lower deserts.
-
+For much of this week the marine layer is expected to be on the
+shallower side, staying confined to coastal areas.
 
 &&
 
 .AVIATION...
-081000Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL continue
-to slowly march inland early this morning. Most if not all of the
-coastal basin should fill in by 12z. Clouds clear to the coast 15-
-18z, though BKN cigs may hang around KSAN until 20z. Low clouds
-struggle to reform over coastal areas Monday evening. Areas of BKN
-low clouds should eventually take shape over coastal areas and
-western valleys 06-12z Tue, though cigs will be patchier in coverage
-than this morning with lower bases (1200-2000 ft MSL).
-
+081800Z...Coast/Valleys...Low marine layer clouds have cleared out
+quickly this morning, with only FEW clouds lingering along the
+coastal areas into the afternoon. Low clouds to redevelop and push
+back ashore after 00z Tuesday, initially across San Diego County,
+eventually spreading northward into Orange County and into portions
+of the western/southern Inland Empire by 12z (only a 10-20% chance
+of CIGs reaching KONT between 12-16z). Cloud bases will likely be
+lower than this morning (1400-1800ft MSL) but could be a bit patchy
+at times. Similar scattering out time as this morning, around 16-17z
+Tuesday.
 
 Mountains/Deserts...VFR with SKC. Westerly winds return starting 21z
 Mon with gusts 20-35 kts along desert slopes and locally into
@@ -477,8 +463,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
