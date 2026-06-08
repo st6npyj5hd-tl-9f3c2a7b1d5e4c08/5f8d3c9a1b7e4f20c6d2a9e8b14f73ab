@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-07T19:24:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-08T04:11:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-793
-FXUS66 KSGX 071844
+208
+FXUS66 KSGX 080032
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1144 AM PDT Sun Jun 7 2026
+532 PM PDT Sun Jun 7 2026
 
 .SYNOPSIS...
 Near to slightly below average temperatures expected through Monday.
@@ -401,43 +399,53 @@ into the valleys. Starting Tuesday, the marine layer is expected
 to become shallower as heights start to rise. By the end of the
 week, low clouds and fog are only expected along the coast.
 
+
 &&
 
 .AVIATION...
-071800Z...Coast/Valleys...Satellite shows low clouds have pushed
-offshore, with VFR and SKC prevailing through the afternoon for most
-locations. Intermittent low clouds at KSAN through the afternoon,
-around a 10-20% chance of a CIG at any point between 19z-02z Mon.
-After 02z, low clouds based 1500-2200ft MSL will move inland again,
-with similar inland extent as occurred this morning.
+080000Z...Coast/Valleys...Low clouds are beginning to develop off
+the coast. Clouds reach the coast and surge inland 02-05z this
+evening, filling into the Inland Empire gradually after 08z. Bases
+are anticipated to be around 1500-2200 ft MSL with VIS reduced 0-5SM
+in far inland valleys and in the foothills. Clouds scatter out 15-
+17z, yielding to VFR conditions through the mid-afternoon.
 
-Mountains/Deserts...VFR with SKC. Elevated southwest-west winds
-return this afternoon and evening with gusts 20-35 knots along
-desert slopes and locally into deserts. Gusts may exceed 40 kts
-through the Banning Pass. MOD up/downdrafts and pockets of LLWS in
-lee (north and east) of mountains. Winds should begin to fall off
-after 06z Mon.
+
+Mountains/Deserts...VFR with SKC. Gusts 20-35 knots along desert
+slopes and locally into deserts. Gusts are exceeding 40 kts through
+the Banning Pass. Winds diminish gradually this evening into
+tonight. MOD up/downdrafts and pockets of LLWS in lee (north and
+east) of mountains. Similar winds Monday afternoon after 22z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday
-night.
+No hazardous marine conditions are expected through Thursday
+afternoon.
 
 &&
 
 .BEACHES...
-Elevated surf subsided some this morning, though strong rip currents
-will continue through Monday along with occasional sets to 6 feet
-along south-facing beaches. Surf builds again Monday evening as a
-fresh 3-4 foot swell at 18-19 seconds moves into the region. Surf
-peaks Tues-Wed with sets to 5-8 feet likely at south-facing beaches,
-then gradually diminishes late this week.
+Surf and rip current activity to remain elevated (3-6 feet) through
+Monday afternoon. Surf increases Monday evening as a fresh 3-4 foot
+swell at 18-19 seconds moves into the region. Surf peaks Tues-Wed
+with sets to 5-8 feet likely at south-facing beaches, then gradually
+diminishes late this week.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Beach Hazards Statement from late Monday night through Thursday
+     afternoon for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
 PZ...None.
 
 &&
@@ -445,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
