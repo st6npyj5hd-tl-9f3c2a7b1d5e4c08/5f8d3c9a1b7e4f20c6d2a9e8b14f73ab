@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-09T09:48:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-09T14:55:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-712
-FXUS66 KSGX 090753
+965
+FXUS66 KSGX 090952
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1253 AM PDT Tue Jun 9 2026
+252 AM PDT Tue Jun 9 2026
 
 .SYNOPSIS...
 A warming trend is expected through the weekend with early next
@@ -372,6 +372,8 @@ valleys late each night.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Aviation and Marine Discussion Updated for the 12z TAF Package...
 
 .SHORT TERM (Today through Thursday)...
 High pressure over the eastern Pacific, well off the West Coast,
@@ -433,22 +435,20 @@ for the coast and mountains with a few in the valleys as well. The
 sea surface temperature of 20.2C/68.4F at Scripps Pier on Monday
 was among the 10 percent of warmest for the date.
 
+
 &&
 
 .AVIATION...
-090430Z...Coast/Valleys...Coverage of low clouds remains very patchy
-over coastal areas late this evening. Expect low clouds to
-eventually fill in reaching 15 to 20 miles inland by 11-13z. Bases
-will drop to 1500-2000 feet with minor vis reductions possible for
-elevated inland valleys (4-6SM). 20-30% chance for cigs to reach
-KONT. Scatter out Tuesday, around 16-17Z. Late onset of low cloud
-formation again Monday night with SKC expected through Monday
-evening.
+091000Z...Coast/Valleys...Areas of low clouds based 1500-2000 ft MSL
+over coastal areas will continue to increase in coverage through 13z
+with some western valleys filling in. Intermittent scattering may
+occur at coastal TAF sites. Scatter out Tuesday, around 16-17Z. SKC
+expected through late this evening, but patchy low clouds based 1000-
+1500 ft MSL should eventually reform over coastal areas early
+Tuesday morning. Any low clouds will remain within 5-10 miles of the
+coastline.
 
-Mountains/Deserts...Thin high clouds tonight clearing Tuesday.
-Westerly winds with gusts 25-40 kts through mountain passes and
-locally into deserts this evening, tapering off 09-12z Tue. Pockets
-of MOD up/downdrafts and LLWS in lee of mountains.
+Mountains/Deserts...VFR and SKC today and tonight.
 
 &&
 
@@ -458,23 +458,23 @@ No hazardous marine conditions are expected through Saturday.
 &&
 
 .BEACHES...
-Surf and rip current activity to increase tonight into Tuesday
-morning as a southerly swell arrives. Surf peaks Tue-Wed with surf 4-
-7 feet and sets up to 11 feet at south-facing beaches, then
-gradually diminishes late this week. See the Beach Hazards Statement
-for more details.
+Surf and rip current activity to through this morning as a southerly
+swell arrives. Surf peaks Tue-Wed with surf 4-7 feet and sets up to
+10 feet at south-facing beaches, then gradually diminishes late this
+week. See the Beach Hazards Statement for more details.
 
 &&
 
 .SKYWARN...
-Skywarn activation is requested.
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from 3 AM PDT Tuesday through Thursday
-     afternoon for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Beach Hazards Statement through Thursday afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -482,7 +482,7 @@ PZ...None.
 
 $$
 
-PUBLIC...17
+PUBLIC...Martin
 AVIATION/MARINE/BEACHES...KW
 
 
