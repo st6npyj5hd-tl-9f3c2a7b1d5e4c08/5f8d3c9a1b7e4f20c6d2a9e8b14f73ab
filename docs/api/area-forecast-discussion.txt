@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-08T20:23:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-09T03:39:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-727
-FXUS66 KSGX 081846
+056
+FXUS66 KSGX 082343
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1146 AM PDT Mon Jun 8 2026
+444 PM PDT Mon Jun 8 2026
 
 .SYNOPSIS...
 Warming conditions expected this week. Hottest conditions are
@@ -368,6 +368,8 @@ confined to coastal areas through much of this week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation, Marine, and Beaches discussions...
 
 High temperatures today are expected to be a few degrees warmer than
 yesterday for most locations. An additional 3 to 5 degrees of
@@ -411,44 +413,34 @@ shallower side, staying confined to coastal areas.
 &&
 
 .AVIATION...
-081800Z...Coast/Valleys...Low marine layer clouds have cleared out
-quickly this morning, with only FEW clouds lingering along the
-coastal areas into the afternoon. Low clouds to redevelop and push
-back ashore after 00z Tuesday, initially across San Diego County,
-eventually spreading northward into Orange County and into portions
-of the western/southern Inland Empire by 12z (only a 10-20% chance
-of CIGs reaching KONT between 12-16z). Cloud bases will likely be
-lower than this morning (1400-1800ft MSL) but could be a bit patchy
-at times. Similar scattering out time as this morning, around 16-17z
-Tuesday.
+082330Z...Coast/Valleys...Low clouds based at 2000-2500 feet MSL
+will cover KSAN/KCRQ first and gradually move north overnight,
+locally into the inland valleys. Bases will drop to 1500-2000 feet
+and local inland vis 0-5SM. Scatter out Tuesday, around 16-17Z.
 
-Mountains/Deserts...VFR with SKC. Westerly winds return starting 21z
-Mon with gusts 20-35 kts along desert slopes and locally into
-deserts. Gusts exceeding 40 kts through the Banning Pass. Pockets of
-MOD up/downdrafts and LLWS in lee of mtns.
+Mountains/Deserts...Thin high clouds tonight clearing Tuesday.
+Westerly winds with gusts 25-40 kts through mountain passes and
+locally into deserts through 09Z. Pockets of MOD up/downdrafts and
+LLWS in lee of mountains.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday
-afternoon.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .BEACHES...
-Surf and rip current activity to remain elevated (3-6 feet) through
-this evening. Surf increases Monday night into Tuesday morning as a
-fresh 3-4 foot swell at 18-19 seconds moves into the region. Surf
-peaks Tues-Wed with sets to 5-8 feet likely at south-facing beaches,
-then gradually diminishes late this week. See the Beach Hazards
-Statement for more details.
-
+Surf and rip current activity to increase tonight into Tuesday
+morning as a southerly swell arrives. Surf peaks Tue-Wed with surf 4-
+7 feet with sets up to 12 feet at south-facing beaches, then
+gradually diminishes late this week. See the Beach Hazards Statement
+for more details.
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -464,7 +456,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
