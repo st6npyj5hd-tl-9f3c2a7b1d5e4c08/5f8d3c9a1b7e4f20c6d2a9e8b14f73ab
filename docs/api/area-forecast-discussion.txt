@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T03:54:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T10:03:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,20 +348,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-254
-FXUS66 KSGX 091841
+778
+FXUS66 KSGX 100754
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1141 AM PDT Tue Jun 9 2026
+1254 AM PDT Wed Jun 10 2026
 
 .SYNOPSIS...
-Warm conditions expected through the weekend. Moderate HeatRisk is
-expected across inland areas, with localized areas of Major HeatRisk
-in the low deserts over the weekend. The marine layer is expected to
-get shallower, staying confined to coastal areas and portions of the
-western valleys at times through much of this week.
+High pressure over the eastern Pacific will keep temperatures
+slightly above normal through early next week across Southern
+California. Moderate HeatRisk is expected for the deserts each
+day with localized Major HeatRisk in the lower deserts over the
+weekend. The marine layer will remain relatively shallow with
+morning clouds remaining confined to coastal areas and western
+valleys through the weekend.
 
 &&
 
@@ -369,58 +371,59 @@ western valleys at times through much of this week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-High pressure aloft will build over the Pacific for the middle to
-end of the week. Through the forecast period the ridge axis is
-expected to stay to our west, but with California in it`s periphery
-warming conditions can be expected. Above average high and low
-temperatures can be expected through the weekend. Areas of moderate
-HeatRisk are expected for the Inland Empire and the High Desert,
-with more localized areas of moderate HeatRisk in the far eastern
-San Diego county valleys and Inland Orange County. Widespread
-moderate with locally major HeatRisk expected in the low deserts on
-Saturday. Based on current forecast, high temperatures do not look
-record breaking but some low temperature records will be in
-jeopardy, especially for the mountains, coast, and valleys.
-
-The position of the ridge could allow for some subtropical moisture
-to sneak into the southwestern United States by the end of the week.
-Ensemble members of both the GEFS and ECMWF show a notable increase
-in precipitable water into the low deserts Friday, with less but
-still elevated precipitable water Saturday and Sunday. The forecast
-looks to remain dry at this time so it looks like the main impact
-from this moisture surge would be tempering the highs across the
-deserts and an increase in high clouds. Current forecast for the low
-deserts is 108-112 degrees Friday and Saturday, but if the moisture
-surge materializes high temperatures would likely be lower than
-that.
-
-There is some uncertainty with highs Sunday for the desert areas.
-Highs in the desert have the potential to be hotter on Sunday
-compared to Friday/Saturday if the moisture surge is significantly
-weaker. There is higher confidence that areas west of the mountains
-will cool a degree or two by Sunday. Conditions will cool a degree
-or so each day into early next week.
-
-For much of this week the marine layer is expected to be on the
-shallower side, staying confined to coastal areas and western
-valleys at times. The marine layer may deepen slightly into early
+Satellite imagery shows low clouds struggling to form over coastal
+areas early this morning. This may be somewhat attributed to
+anomalously warm sea surface temperatures keeping the marine layer
+inversion slightly weaker than usual. However, the HREF maintains
+that marine layer clouds will fill into coastal areas and western
+valleys by sunrise this morning. With the upper pattern holding
+steady over the next few days, the expectation is for morning
+clouds to continue for these areas through the weekend.
+Thereafter, the marine layer may deepen slightly going into early
 next week.
+
+An upper ridge centered over the eastern Pacific will provide just
+enough influence to keep both high and low temperatures slightly
+above normal from today onward for the coast to the mountains and
+5 to 10 degrees above normal in the deserts. Record highs do not
+look to be threatened, though a few record high lows may occur
+near the coast, aided by the aforementioned warm SSTs. Moderate
+HeatRisk is expected for all desert locations and portions of the
+Inland Empire from Thursday through early next week.
+
+Weak ridging over the south-central CONUS will be positioned such
+that elevated PWATs are expected to move into the region from the
+south by Friday. NBM currently indicates that temperatures will
+reach the low 100s in the High Desert and graze 110 in the lower
+deserts this weekend. However, depending on the strength of this
+moisture surge, temperatures may be a few degrees lower than
+anticipated. At the very least, increased coverage of high clouds
+is expected over the region through the weekend.
+
+By early next week, the ridge over the eastern Pacific will weaken
+slightly as it migrates toward the western CONUS. Most ensembles
+show anomalies in upper heights centered over the Pacific
+Northwest, while the Southwest is largely spared of increasing
+heights. In fact, the NBM shows a few degrees of cooling across
+the region through early next week. Model solutions diverge
+further by mid-to-late next week, but ensembles lean toward
+further cooling with increased chances for upper troughing over
+the western CONUS.
 
 &&
 
 .AVIATION...
-091800Z...Coast/Valleys...Mostly clear skies expected this afternoon
-with patchy low clouds near 2000 ft MSL near VCTY KSAN at times. Low
-clouds expected to fill back into coastal areas after 03Z with
-coastal TAF sites impacted after 06Z Wed , slightly later in Orange
-County near 08-10Z with moderate confidence on timing. Higher
-confidence in cloud bases tonight slightly lower than this morning
-with most cigs near 1000-1500 ft MSL, locally lower. Vis 4-6 SM in
-BR over higher coastal terrain and parts of the Inland Empire.
+100430Z...Coast/Valleys...Low clouds based 1000-1500 ft MSL are
+slowly moving into coastal San Diego County this evening. Expect low
+clouds to fill into coastal areas and western valleys from south to
+north overnight reaching 10-15 miles inland by 12z. Minor vis
+reductions (4-6SM) for elevated coastal terrain. Clouds scatter to
+the coast by 16-17z. Low clouds with similar bases return to coastal
+areas starting 02-04z Thu.
 
-Mountains/Deserts...VFR and SKC through Wednesday. S/W wind gusts
-near 25-40 kts at times 22Z Tue-06Z Wed, highest in the San Gorgonio
-Pass.
+Mountains/Deserts...VFR and SKC through Wednesday. SW/W wind gusts
+near 25-35 kts along desert slopes and through passes will taper off
+after 06z.
 
 &&
 
@@ -431,7 +434,7 @@ No hazardous marine conditions are expected through Saturday.
 
 .BEACHES...
 Elevated surf and rip current activity expected through Thursday
-afternoon. Surf peaks on Wednesday with surf 4-7 feet and sets up to
+afternoon. Surf peaks on Wednesday with surf 4-8 feet and sets up to
 10 feet at south-facing beaches, then gradually diminishes late this
 week. See the Beach Hazards Statement for more details.
 
@@ -454,8 +457,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...APR
+PUBLIC...KW
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
