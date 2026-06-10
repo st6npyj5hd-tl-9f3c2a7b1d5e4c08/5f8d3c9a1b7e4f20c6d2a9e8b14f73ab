@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T15:38:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T20:32:22+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-592
-FXUS66 KSGX 101130
+266
+FXUS66 KSGX 101802
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-430 AM PDT Wed Jun 10 2026
+1102 AM PDT Wed Jun 10 2026
 
 .SYNOPSIS...
 High pressure over the eastern Pacific will keep temperatures
@@ -413,13 +413,14 @@ the western CONUS.
 &&
 
 .AVIATION...
-101030Z...Coast/Valleys...Areas of low clouds based 1000-1500 ft MSL
-will continue to increase in coverage through 13Z, spreading 10-15
-mile inland. Minor vis reductions (4-6SM) for elevated coastal
-terrain. Clouds scatter to the coast by 16-17z. Low clouds with
-similar bases return to coastal areas starting 02-04z Thu.
+101800Z...Coast/Valleys...Low clouds have cleared the coast with a
+few clouds wafting in around 1000-1600 ft MSL. Low clouds will start
+to push in again after 23Z beginning along San Diegos coast line and
+fill in after 03Z Thursday. Bases are expected to be around 800-1200
+ft MSL. Minor vis reductions (4-6SM)will be possible for elevated
+coastal terrain. Clouds clear the coast after 17-18Z Thursday.
 
-Mountains/Deserts...VFR and SKC today and tonight.
+Mountains/Deserts...VFR conditions expected through the TAF period.
 
 &&
 
@@ -428,17 +429,10 @@ No hazardous marine conditions are expected through Saturday.
 
 &&
 
-.BEACHES...
-Elevated surf and rip current activity expected through Thursday
-afternoon. Surf peaks TOday with surf 4-8 feet and sets up to
-10 feet at south-facing beaches, then gradually diminishes late this
-week. See the Beach Hazards Statement for more details.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -453,7 +447,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE/BEACHES...17
+AVIATION/MARINE...Villafane
 
 
 </pre>
