@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T10:03:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T15:38:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-778
-FXUS66 KSGX 100754
+592
+FXUS66 KSGX 101130
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1254 AM PDT Wed Jun 10 2026
+430 AM PDT Wed Jun 10 2026
 
 .SYNOPSIS...
 High pressure over the eastern Pacific will keep temperatures
@@ -413,17 +413,13 @@ the western CONUS.
 &&
 
 .AVIATION...
-100430Z...Coast/Valleys...Low clouds based 1000-1500 ft MSL are
-slowly moving into coastal San Diego County this evening. Expect low
-clouds to fill into coastal areas and western valleys from south to
-north overnight reaching 10-15 miles inland by 12z. Minor vis
-reductions (4-6SM) for elevated coastal terrain. Clouds scatter to
-the coast by 16-17z. Low clouds with similar bases return to coastal
-areas starting 02-04z Thu.
+101030Z...Coast/Valleys...Areas of low clouds based 1000-1500 ft MSL
+will continue to increase in coverage through 13Z, spreading 10-15
+mile inland. Minor vis reductions (4-6SM) for elevated coastal
+terrain. Clouds scatter to the coast by 16-17z. Low clouds with
+similar bases return to coastal areas starting 02-04z Thu.
 
-Mountains/Deserts...VFR and SKC through Wednesday. SW/W wind gusts
-near 25-35 kts along desert slopes and through passes will taper off
-after 06z.
+Mountains/Deserts...VFR and SKC today and tonight.
 
 &&
 
@@ -434,7 +430,7 @@ No hazardous marine conditions are expected through Saturday.
 
 .BEACHES...
 Elevated surf and rip current activity expected through Thursday
-afternoon. Surf peaks on Wednesday with surf 4-8 feet and sets up to
+afternoon. Surf peaks TOday with surf 4-8 feet and sets up to
 10 feet at south-facing beaches, then gradually diminishes late this
 week. See the Beach Hazards Statement for more details.
 
@@ -443,7 +439,6 @@ week. See the Beach Hazards Statement for more details.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -458,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...17
 
 
 </pre>
