@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-11T16:04:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-11T20:23:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-840
-FXUS66 KSGX 110929
+932
+FXUS66 KSGX 111738
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-229 AM PDT Thu Jun 11 2026
+1038 AM PDT Thu Jun 11 2026
 
 .SYNOPSIS...
 High temperatures for the next week will generally range from a
@@ -370,7 +370,7 @@ afternoon.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated aviation and marine discussions...
+New Aviation and Marine Discussion...
 
 .SHORT TERM (Today through Saturday)...
 Satellite imagery shows greater coverage of low clouds than 24
@@ -424,20 +424,23 @@ continue for the deserts through next Wednesday. Night and morning
 coastal low clouds will spread inland into the western valleys at
 times.
 
+
 &&
 
 .AVIATION...
-110930Z...Coast/Valleys...Low clouds based 900-1400 ft MSL with tops
-to 1500 ft MSL have settled into coastal regions and valleys up to
-about 15 miles inland. Minor vis reductions 4-6 SM will be possible
-for elevated coastal terrain overnight. Clouds clear out over land
-16-18Z. Low clouds with similar to slightly lower bases reform and
-locally move into coastal regions after 03Z Friday, though they will
-likely move inland more gradually/later than tonight, with a 30-40%
-chance for cigs at coastal sites by 06Z Fri, increasing to 60% by
-09Z.
+111730Z...Coast/Valleys...Low clouds have cleared most coastal
+areas with a small area clinging to the northern part of the
+Orange County coast. SCT/BKN high clouds are moving in from the
+south with bases AOA 20000 ft MSL that will continue to spread
+north over the area through the period. Low clouds will begin to
+drift in along the coast after 03Z Friday, filling and pushing in
+approximately 15 miles around 05Z. Minor vis reductions 4-6 SM
+will be possible for elevated coastal terrain overnight. Low
+clouds will begin their retreat to the coast after 15Z-16Z Friday,
+clearing by 17Z-18Z.
 
-Mountains/Deserts...VFR conditions expected through the TAF period.
+Mountains/Deserts...VFR conditions expected through the TAF period
+with high clouds AOA 20000 ft MSL.
 
 &&
 
@@ -446,22 +449,16 @@ No hazardous marine conditions are expected through Sunday.
 
 &&
 
-.BEACHES...
-Elevated surf and strong rip currents expected through this
-afternoon. Surf gradually diminishes today, with peak surf 4-6 feet
-and sets up to 8 feet at south-facing beaches. See the Beach Hazards
-Statement for more details.
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this afternoon for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement until 5 PM PDT this afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -469,8 +466,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...Martin
+AVIATION/MARINE...Villafane
 
 
 </pre>
