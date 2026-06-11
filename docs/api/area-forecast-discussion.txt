@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-10T20:32:22+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-11T04:07:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,27 +343,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-266
-FXUS66 KSGX 101802
+185
+FXUS66 KSGX 102040
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1102 AM PDT Wed Jun 10 2026
+140 PM PDT Wed Jun 10 2026
 
 .SYNOPSIS...
-High pressure over the eastern Pacific will keep temperatures
-slightly above normal through early next week across Southern
-California. Moderate HeatRisk is expected for the deserts each
-day with localized Major HeatRisk in the lower deserts over the
-weekend. The marine layer will remain relatively shallow with
-morning clouds remaining confined to coastal areas and western
-valleys through the weekend.
+High pressure over the eastern Pacific and across the southern US will
+keep temperatures slightly above normal through early-mid next
+week across Southern California. Moderate HeatRisk is expected for
+the deserts each day with localized Major HeatRisk in the lower
+deserts over the weekend where low temperatures will run 10-15
+degrees above normal. The marine layer will remain relatively
+shallow with morning clouds remaining confined to coastal areas
+and western valleys through the weekend.
 
 &&
 
@@ -371,54 +370,53 @@ valleys through the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Satellite imagery shows low clouds struggling to form over coastal
-areas early this morning. This may be somewhat attributed to
-anomalously warm sea surface temperatures keeping the marine layer
-inversion slightly weaker than usual. However, the HREF maintains
-that marine layer clouds will fill into coastal areas and western
-valleys by sunrise this morning. With the upper pattern holding
-steady over the next few days, the expectation is for morning
-clouds to continue for these areas through the weekend.
-Thereafter, the marine layer may deepen slightly going into early
-next week.
+Satellite shows the marine layer has cleared out nicely this morning
+with mostly sunny skies expected through the day. 500mb RAP analysis
+shows fairly neutral flow aloft, with a weak upper low off the south-
+central Baja coast, the subtropical ridge in the east Pacific, and a
+broad ridge across the southern United States. Under this pattern
+and the effects of the nearby ridges, temperatures today will be
+notably warmer than yesterday and are expected to be a few degrees
+above normal. Afternoon highs feature 70s along the coast, mid 80s
+to low 90s for inland valleys and 100-107 degrees for the deserts.
 
-An upper ridge centered over the eastern Pacific will provide just
-enough influence to keep both high and low temperatures slightly
-above normal from today onward for the coast to the mountains and
-5 to 10 degrees above normal in the deserts. Record highs do not
-look to be threatened, though a few record high lows may occur
-near the coast, aided by the aforementioned warm SSTs. Moderate
-HeatRisk is expected for all desert locations and portions of the
-Inland Empire from Thursday through early next week.
+Over the next few days, the weak upper low slides southwest,
+allowing the southern US ridge to slide westward and establish
+southwesterly flow aloft. Aside from this, little change in the
+upper level pattern keeps us locked in a similar setup into early
+next week, with high temperatures staying constant and 5-10 degrees
+above average. The only notable effect of this pattern will be a
+marginal surge of mid-level moisture set flow into the region from
+the southwest Thursday night, likely sticking around into the
+weekend. A subtle shortwave on the southwestern edge of the broad
+ridge to our east may be able to spawn a few light showers across
+the mountains/deserts of San Diego County on Friday. There is only
+about a 15% chance of any precipitation at this time and any
+rainfall amounts will likely be little to none. Other than the
+slight rainfall chances, the other main consequence of this
+increased moisture will be abnormally warm overnight low
+temperatures in the deserts - likely 10-15 degrees above
+climatological norms. Though no daytime high temperatures records
+look to be threatened, the very warm nights expected in the deserts
+could challenge a few warm low temperature records Friday/Saturday
+mornings.
 
-Weak ridging over the south-central CONUS will be positioned such
-that elevated PWATs are expected to move into the region from the
-south by Friday. NBM currently indicates that temperatures will
-reach the low 100s in the High Desert and graze 110 in the lower
-deserts this weekend. However, depending on the strength of this
-moisture surge, temperatures may be a few degrees lower than
-anticipated. At the very least, increased coverage of high clouds
-is expected over the region through the weekend.
-
-By early next week, the ridge over the eastern Pacific will weaken
-slightly as it migrates toward the western CONUS. Most ensembles
-show anomalies in upper heights centered over the Pacific
-Northwest, while the Southwest is largely spared of increasing
-heights. In fact, the NBM shows a few degrees of cooling across
-the region through early next week. Model solutions diverge
-further by mid-to-late next week, but ensembles lean toward
-further cooling with increased chances for upper troughing over
-the western CONUS.
+Heading into mid next week, the amplified ridge over the eastern
+Pacific weakens as it spreads into the western US. Clusters and
+global ensembles do begin to diverge in the evolution of the upper
+pattern at this point, with many models suggesting the return of
+upper troughing and some relief to the above normal temperatures.
 
 &&
 
 .AVIATION...
-101800Z...Coast/Valleys...Low clouds have cleared the coast with a
+102100Z...Coast/Valleys...Low clouds have cleared the coast with a
 few clouds wafting in around 1000-1600 ft MSL. Low clouds will start
-to push in again after 23Z beginning along San Diegos coast line and
-fill in after 03Z Thursday. Bases are expected to be around 800-1200
-ft MSL. Minor vis reductions (4-6SM)will be possible for elevated
-coastal terrain. Clouds clear the coast after 17-18Z Thursday.
+to push in again after 23Z beginning along San Diego`s coast line
+and fill in after 03Z Thursday. Bases are expected to be around 800-
+1200 ft MSL. Minor vis reductions (4-6SM)will be possible for
+elevated coastal terrain. Clouds clear TO the coast after 17-18Z
+Thursday.
 
 Mountains/Deserts...VFR conditions expected through the TAF period.
 
@@ -429,10 +427,11 @@ No hazardous marine conditions are expected through Saturday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+.BEACHES...
+Elevated surf and strong rip currents expected through Thursday
+afternoon. The surf peaks today, with surf 4-8 feet and sets up to
+10 feet at south-facing beaches. Surf will gradually lower late this
+week. See the Beach Hazards Statement for more details.
 
 &&
 
@@ -446,8 +445,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE...Villafane
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...PG
 
 
 </pre>
