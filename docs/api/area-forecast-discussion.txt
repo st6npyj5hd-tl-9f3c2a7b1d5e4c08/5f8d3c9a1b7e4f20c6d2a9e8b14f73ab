@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-13T14:02:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-13T19:38:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-161
-FXUS66 KSGX 131127
+395
+FXUS66 KSGX 131822
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-427 AM PDT Sat Jun 13 2026
+1122 AM PDT Sat Jun 13 2026
 
 .SYNOPSIS...
 High temperatures for the weekend into early next week will
@@ -421,17 +421,19 @@ next week.
 &&
 
 .AVIATION...
-131130Z...Coast/Western Valleys...Cigs currently based 800-1200
-ft MSL are pushing up to around 15-20 miles inland of Orange and
-San Diego counties. Patchy FG (vis less than 1SM) and BR (vis
-1-5SM) to reduce VIS, mainly for elevated coastal terrain and
-valleys east of the I-15 corridor in SD County. Scatter to coast
-15-18z Sat. Low clouds with similar bases return to the coast
-02-05z Sun. and will continue to reform and fill into the inland
-valleys through 09Z, with similar bases.
+131800Z...Coast/Western Valleys...Low clouds have cleared out of the
+western valleys and most of the coastal areas (including all TAF
+sites) this morning, though clouds look to stick to the beaches and
+immediate coastline through the late morning and into the afternoon
+hours. Low clouds fill back in beginning around 00-03z Sunday with
+bases initially around 900-1200ft MSL, eventually settling largely
+below 1000ft by 09z. Similar inland extent as this morning, with
+scattering back to the beaches by 15-16z Sunday.
 
 Mountains/Deserts...VFR conditions are expected through Saturday
-with high clouds AOA 10 kft MSL.
+with high clouds AOA 10 kft MSL. Gusty onshore winds through San
+Gorgonio Pass into the Coachella Valley bringing gusts 20-25 kts
+this afternoon/evening.
 
 &&
 
@@ -440,15 +442,13 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
-.PREV DISCUSSION...
-
+.BEACHES...
+Elevated surf and strong rip currents continue at area beaches into
+next week. Surf of 3-6 feet and sets to 7 feet are expected at south-
+facing beaches. San Diego County Surf will be slightly lower but,
+hazardous swimming conditions with high rip current and longshore
+current risk will still exist. See the Beach Hazards Statement for
+more details.
 
 &&
 
@@ -466,7 +466,7 @@ PZ...Beach Hazards Statement through Monday evening for Coastal
 $$
 
 PUBLIC...CSP
-AVIATION/MARINE...Stewey
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
