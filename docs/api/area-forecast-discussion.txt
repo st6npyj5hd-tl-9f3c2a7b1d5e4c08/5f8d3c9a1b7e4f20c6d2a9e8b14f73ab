@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-13T19:38:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-14T04:15:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,24 +348,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-395
-FXUS66 KSGX 131822
+622
+FXUS66 KSGX 140004
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1122 AM PDT Sat Jun 13 2026
+504 PM PDT Sat Jun 13 2026
 
 .SYNOPSIS...
-High temperatures for the weekend into early next week will
-generally range from a few degrees above average near the coast to
-5 to 10 degrees above average for the mountains and deserts with
-some slight day to day differences. Moderate HeatRisk, heat-
-related impacts affecting those sensitive to heat, will continue
-for the deserts through next Wednesday. Marine layer low clouds
-will spread into portions of the western valleys during the nights
-and early mornings, with day-to-day variations. A cooling trend
-with a deepening marine layer will follow mid to late next week.
+High temperatures into early next week will generally range from
+a few degrees above average near the coast to 5 to 10 degrees above
+average for the mountains and deserts with some minor day-to-day
+differences. Minor to moderate HeatRisk, heat-related impacts
+affecting those sensitive to heat, will continue for the inland
+valleys and deserts through next Wednesday. Marine layer low
+clouds will spread into portions of the western valleys during the
+nights and early mornings, with day-to-day variations. A cooling
+trend with a deepening marine layer will follow mid to late next
+week.
 
 &&
 
@@ -373,67 +374,59 @@ with a deepening marine layer will follow mid to late next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation Discussion Below...
+This afternoon...The marine layer remains about 1500 ft deep with
+a relatively strong inversion. Low clouds persist at the immediate
+coast this afternoon and will likely begin to spread inland in the
+late afternoon, extending up to 10 miles inland by sunrise on
+Sunday. The marine layer may be shallower Sunday morning than it
+was this morning as high-resolution models show minor height
+rises aloft and no indications of a coastal eddy. Temperatures are
+currently a few degrees lower than at this time yesterday except
+in the IE where it`s a few degrees higher. The mid-level moisture
+from yesterday is mostly gone as the flow aloft has become more
+south westerly than southerly but enough remains for a few mid-level
+clouds and some cumulus over the mtns this afternoon.
 
-Our typical marine layer low clouds have been patchy and slow to
-spread inland in areas tonight, likely due to lingering mid-level
-moisture brought here by southerly flow aloft around a large upper
-level ridge over the southern U.S. Locally, we continue to be
-sandwiched between ridges to our northwest and east, low pressure
-to our southwest, and broad troughing over the northern half of
-the country. This has lead to our present warm, somewhat humid but
-otherwise unremarkable weather.
-
-Low clouds that have managed to move inland tonight will clear out
-by mid-morning, followed by mostly clear skies except for isolated
-cumulus popping up over the mountain ridges in the afternoon.
-Above average morning low temps will turn to above average
-afternoon high temps again today, though today is expected to be a
-tad cooler than yesterday in most areas.
-
-Conditions will be fairly similar day to day through at least mid
-next week, with only minor trends in temperature and depth and
-extent of the nightly/morning low clouds. Temperatures continue to
-cool slightly between today and Sunday for areas except the
-deserts, which will see similar temperatures. This will be
-followed by another mild warm up for Monday and Tuesday. Through
-this period, despite minor day to day changes, high temperatures
-will range from a few to about 5 degrees above average for coastal
-regions to 5 to 10 degrees above average for far inland areas,
-including the mountains and deserts. Low temperatures will
+SoCal will remain sandwiched between a high over the eastern North
+Pacific and one over TX/Mexico. This pattern will likely evolve
+into a Rex Block by Tue as a closed upper low moves into position
+south of the high off the NorCal coast. This will bring us mostly
+typical June weather through next Wed except for daytime temperatures
+which will be mostly a few to about 5 degrees above average for
+coastal regions and 5 to 10 degrees above average for far inland
+areas, including the mountains and deserts. Low temperatures will
 similarly be 5 to 10 degrees above average most place, with parts
 of the mountains and deserts seeing lows up to about 15 degrees
-above average.
+above average. The marine layer will see minor day-to-day
+variations in depth, and the low clouds will return to the coastal
+areas and western portions of the inland valleys each night and
+morning.
 
-The somewhat messy flow pattern aloft is replaced with weak low
-pressure Wednesday, and temperatures will start to cool off. This
-trend will continue through late next week as a deeper trough
-moves in from the west. Among the global ensembles there are
-fairly significant differences in the strength of troughing aloft,
-which would affect the extent of cooling locally. This would
-likely bring temperatures at least back to around average, with
-the National Blend of Models suggesting high temperatures 5 to
-locally 10 degrees below average for late next week. This would
-also lead to a deepening of the marine layer, with clouds
-spreading further inland during nights and mornings mid to late
-next week.
-
+For the latter half of next week...the east PAC high is weakened
+and displaced as a low pressure system moves into the Pacific
+Northwest. There is still significant uncertainty in the details
+but we will likely see a trend toward cooler conditions with a
+deepening marine layer allowing low clouds to spread farther
+inland during the nights and mornings. Current model solutions
+indicate that temperatures next Sat will be near or up to 11
+degrees below normal.
 &&
 
 .AVIATION...
-131800Z...Coast/Western Valleys...Low clouds have cleared out of the
-western valleys and most of the coastal areas (including all TAF
-sites) this morning, though clouds look to stick to the beaches and
-immediate coastline through the late morning and into the afternoon
-hours. Low clouds fill back in beginning around 00-03z Sunday with
-bases initially around 900-1200ft MSL, eventually settling largely
-below 1000ft by 09z. Similar inland extent as this morning, with
-scattering back to the beaches by 15-16z Sunday.
+140000Z...Coast/Western Valleys...Low clouds are very patchy off the
+coast this afternoon. Confidence on exact timing coastal cloud
+development is low - patchy clouds possible for coastal areas 01-
+05z, expanding inland up to 10-20 miles through 10z, still
+remaining patchy. Bases 800-1200 ft MSL, settling mostly below
+1000 ft MSL early Sunday. VIS 0-5SM in valleys east of I-15 in SD
+County and elevated coastal terrain. Scatter to beaches 15-17z
+Sun, then VFR conditions prevail through Sunday afternoon.
 
-Mountains/Deserts...VFR conditions are expected through Saturday
-with high clouds AOA 10 kft MSL. Gusty onshore winds through San
-Gorgonio Pass into the Coachella Valley bringing gusts 20-25 kts
-this afternoon/evening.
+
+Mountains/Deserts...VFR conditions are expected through Sunday
+afternoon with high clouds AOA 10 kft MSL. Gusty onshore winds
+through desert slopes and San Gorgonio Pass into the Coachella
+Valley bringing gusts 20-30 kts this afternoon/evening.
 
 &&
 
@@ -442,13 +435,10 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.BEACHES...
-Elevated surf and strong rip currents continue at area beaches into
-next week. Surf of 3-6 feet and sets to 7 feet are expected at south-
-facing beaches. San Diego County Surf will be slightly lower but,
-hazardous swimming conditions with high rip current and longshore
-current risk will still exist. See the Beach Hazards Statement for
-more details.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -465,8 +455,8 @@ PZ...Beach Hazards Statement through Monday evening for Coastal
 
 $$
 
-PUBLIC...CSP
-AVIATION/MARINE/BEACHES...Munyan
+PUBLIC...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
