@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-14T04:15:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-14T09:36:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,16 +345,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-622
-FXUS66 KSGX 140004
+181
+FXUS66 KSGX 140856
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-504 PM PDT Sat Jun 13 2026
+156 AM PDT Sun Jun 14 2026
 
 .SYNOPSIS...
 High temperatures into early next week will generally range from
@@ -374,59 +376,69 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This afternoon...The marine layer remains about 1500 ft deep with
-a relatively strong inversion. Low clouds persist at the immediate
-coast this afternoon and will likely begin to spread inland in the
-late afternoon, extending up to 10 miles inland by sunrise on
-Sunday. The marine layer may be shallower Sunday morning than it
-was this morning as high-resolution models show minor height
-rises aloft and no indications of a coastal eddy. Temperatures are
-currently a few degrees lower than at this time yesterday except
-in the IE where it`s a few degrees higher. The mid-level moisture
-from yesterday is mostly gone as the flow aloft has become more
-south westerly than southerly but enough remains for a few mid-level
-clouds and some cumulus over the mtns this afternoon.
+.SHORT TERM...Today through Tue June 16...
+The sounding from this afternoon shows plenty of mid-level
+moisture still in our atmosphere, brought by southwesterly flow
+aloft around a mid-level high pressure over northwest Mexico.
+Similar to last night, this is leading to a rather patchy and
+intermittent marine layer. Like this morning, these clouds will
+have cleared from land areas and only be lingering along parts of
+the immediate coast by mid-morning today.
 
-SoCal will remain sandwiched between a high over the eastern North
-Pacific and one over TX/Mexico. This pattern will likely evolve
-into a Rex Block by Tue as a closed upper low moves into position
-south of the high off the NorCal coast. This will bring us mostly
-typical June weather through next Wed except for daytime temperatures
-which will be mostly a few to about 5 degrees above average for
-coastal regions and 5 to 10 degrees above average for far inland
-areas, including the mountains and deserts. Low temperatures will
-similarly be 5 to 10 degrees above average most place, with parts
-of the mountains and deserts seeing lows up to about 15 degrees
-above average. The marine layer will see minor day-to-day
-variations in depth, and the low clouds will return to the coastal
-areas and western portions of the inland valleys each night and
-morning.
+After another warmer-than-average morning, also due to mid-level
+moisture preventing efficient radiational cooling, afternoon
+temperatures today will be a tad cooler than yesterday, with the
+exception of the deserts and parts of the eastern Inland Empire.
+After today, while the immediate coast will continue to cool
+slightly or experience similar temperatures, inland areas will
+warm slightly Monday-Tuesday. This will be more noticeable for
+weather stations than for the average person, though, with
+temperatures continuing to be anywhere from a few to 10 degrees
+above average through Tuesday. Things will also continue to feel a
+bit more humid than what we`re typically used to this time of
+year.
 
-For the latter half of next week...the east PAC high is weakened
-and displaced as a low pressure system moves into the Pacific
-Northwest. There is still significant uncertainty in the details
-but we will likely see a trend toward cooler conditions with a
-deepening marine layer allowing low clouds to spread farther
-inland during the nights and mornings. Current model solutions
-indicate that temperatures next Sat will be near or up to 11
-degrees below normal.
+Nightly and morning low clouds will continue to impact the coastal
+regions each day through this period, though some amount of
+lingering mid- level moisture will make clouds patchy in coverage
+to some each extent each night, especially earlier in the
+evening.
+
+&&
+
+.LONG TERM...Wed June 17 to Sun June 21...
+
+Conditions will start to cool off as low pressure to our southwest
+sneaks under the Pacific High. This trend will become more
+apparent towards the end of the week as a broader, stronger trough
+moves into the region from the west Friday into the weekend. This
+will reduce temperatures to near average for mid next week, then
+slightly below for the end of the week, with high temperatures a
+few to perhaps 10 degrees below average for Saturday/Sunday. This
+will also deepen the marine layer, leading to more widespread low
+clouds getting further inland overnight into the mornings and
+likely lingering longer in the mornings and arriving earlier in
+the evenings some days late week.
+
 &&
 
 .AVIATION...
-140000Z...Coast/Western Valleys...Low clouds are very patchy off the
-coast this afternoon. Confidence on exact timing coastal cloud
-development is low - patchy clouds possible for coastal areas 01-
-05z, expanding inland up to 10-20 miles through 10z, still
-remaining patchy. Bases 800-1200 ft MSL, settling mostly below
-1000 ft MSL early Sunday. VIS 0-5SM in valleys east of I-15 in SD
-County and elevated coastal terrain. Scatter to beaches 15-17z
-Sun, then VFR conditions prevail through Sunday afternoon.
-
+140430Z...Coast/Western Valleys...Low clouds are struggling to
+develop this evening. Clouds slowly organize and expand through the
+night up to 10-20 miles inland, though expected to remain very
+patchy until around 12z early Sunday. Bases 800-1200 ft MSL,
+settling mostly below 1000 ft MSL overnight. VIS 0-5SM in valleys
+east of I-15 in SD County and elevated coastal terrain where cigs
+reach. Scatter to beaches 15-18z Sun, then VFR conditions prevail
+through Sunday afternoon. Low clouds with similar bases are expected
+to develop in patchy fashion over coastal areas after 02z Mon,
+starting in SD County.
 
 Mountains/Deserts...VFR conditions are expected through Sunday
-afternoon with high clouds AOA 10 kft MSL. Gusty onshore winds
-through desert slopes and San Gorgonio Pass into the Coachella
-Valley bringing gusts 20-30 kts this afternoon/evening.
+evening with high clouds AOA 10 kft MSL. Gusty onshore winds through
+desert slopes and San Gorgonio Pass into the Coachella Valley
+bringing gusts 20-25 kts this evening, then again Sunday afternoon,
+after 00z Mon.
 
 &&
 
@@ -439,14 +451,13 @@ No hazardous marine conditions are expected through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through Monday evening for Orange County
+CA...Beach Hazards Statement through Friday evening for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-PZ...Beach Hazards Statement through Monday evening for Coastal
+PZ...Beach Hazards Statement through Friday evening for Coastal
      Waters from San Mateo Point to the Mexican Border and out
      to 10 nm.
 
@@ -455,8 +466,8 @@ PZ...Beach Hazards Statement through Monday evening for Coastal
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Westerink
+PUBLIC...CSP
+AVIATION/MARINE...Stewey
 
 
 </pre>
