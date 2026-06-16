@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-16T04:22:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-16T11:12:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,23 +349,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-603
-FXUS66 KSGX 152335
+995
+FXUS66 KSGX 160944
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-435 PM PDT Mon Jun 15 2026
+244 AM PDT Tue Jun 16 2026
 
 .SYNOPSIS...
-Above average high temperatures early this week will cool to below
-average during the latter half of the week through the weekend.
-Coastal low clouds will spread farther into the valleys during the
-latter half of the week each night and morning as the marine
-layer slowly deepens.
+Above average high temperatures will cool to below average for
+Thursday through the weekend, then warm to above average by the
+middle of next week. Night and morning coastal low clouds will
+spread farther into the valleys by the weekend. There is a slight
+chance of showers and thunderstorms for this afternoon along the
+desert slopes of the mountains.
 
 &&
 
@@ -373,83 +376,93 @@ layer slowly deepens.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...New Aviation Discussion...
+...Corrected aviation discussion...
 
-Coastal low clouds cleared on schedule this morning, but have been
-persistent to hang at the immediate coast in most of San Diego
-County. Monsoon moisture over the mountains and deserts is being
-manifest by mid level clouds, including cumulus clouds over the
-mountains. Isolated showers are expected along the Baja spine this
-afternoon, with only a ghost of a chance just north of the
-border (at noon, there were legit thunderstorms in and around
-Yuma, AZ). Very similar weather will continue through Tuesday,
-with similar marine layer and monsoon influences. The upper level
-pattern shows a very weak trough over SoCal underlying a strong
-ridge over the Pac NW (producing some record high temps in
-Portland and Seattle), and no discernible change through
-Tuesday night. The marine layer will continue more or less at its
-current depth of about 1000-1500 feet deep through Tuesday, which
-will preclude low clouds and fog from entering the Inland Empire.
-Temperatures will remain just a few degrees above seasonal
-averages through Tuesday. Monsoon moisture hangs around for one
-more day, so you`ll continue to see some mid level cumulus and
-altocumulus clouds, especially over the mountains Tuesday
-afternoon. Very weak low pressure aloft Wednesday helps deepen
-our marine layer and sweeps the monsoon moisture away. A trough
-of low pressure begins to develop off the West Coast around
-Thursday and deepens Friday and Saturday as it advances through
-California. That will flip temperatures from a few degrees above
-average to a few degrees below on Wednesday and especially
-Thursday. The marine layer will respond by deepening Wednesday
-morning, and extending the nocturnal coastal clouds farther inland
-each night and morning into Saturday. There should be stronger
-onshore winds through mountain passes and into deserts each
-afternoon and evening, looking strongest on Friday when gusts of
-40-50 mph are likely through the wind-prone mountain passes like
-San Gorgonio Pass. After the trough passage on Saturday, weak high
-pressure returns Sunday, which will reverse the temperature and
-marine layer trends. In other words, a modest warming trend and
-less extensive coastal clouds in a shallower marine layer come
-Sunday.
+.SHORT TERM (Today through Thursday)...
+The late Monday afternoon sounding at NKX showed mid level
+moisture centered around 600 mb with an isolated thunderstorm over
+the desert slopes of the San Diego County mountains during the
+late afternoon on Monday. Higher-resolution models show
+convective development on the desert slopes of the mountains once
+again for this afternoon along with a slight chance of showers
+and thunderstorms. This will be followed by drying for Wednesday
+and Thursday.
 
+High temperatures for today will be a few degrees warmer than
+Monday with high temperatures for today ranging from a few degrees
+above average near the coast to 5 to 10 degrees above average for
+the deserts. High temperatures for today will range from the lower
+to mid 70s near the coast to the mid 80s to mid 90s for the Inland
+Empire with 108 to 112 for the lower deserts.
+
+There will be inland cooling on Wednesday with the greatest
+cooling of high temperatures, of around 5 degrees, for the
+mountains. There will be additional cooling on Thursday with high
+temperatures a few degrees cooler near the coast and around 5
+degrees cooler for inland areas. High temperatures on Thursday
+will be as much as 5 degrees below average for the inland valleys
+onto the coastal slopes of the mountains. High temperatures on
+Thursday will range from the lower 70s near the coast to the 80s
+for the Inland Empire with 104 to 108 for the lower deserts.
+
+A marine layer around 1500 to 2000 feet deep will deepen to around
+2000 to 2500 feet on Thursday with night and morning coastal low
+clouds spreading farther into the western valleys for early
+Thursday.
+
+&&
+
+.LONG TERM (Friday through Monday)...
+There will be additional slight cooling on Friday and Saturday,
+followed by slight warming on Sunday and greater warmer for Monday
+and Tuesday of next week. High temperatures on Saturday will be
+around average at sea level to 4 to 8 degrees below average for
+the mountains and inland valleys. High temperatures on Saturday
+will range from around 70 near the coast to the upper 70s to mid
+80s for the Inland Empire with 100 to 104 for the lower deserts.
+Night and morning coastal low clouds will spread farther into the
+valleys into the weekend, then spread inland only into the
+western valleys for early next week.
 
 &&
 
 .AVIATION...
-152330Z...Coast/Western Valleys...Patchy low clouds cling to coastal
-San Diego with bases 1000-1500ft MSL. Low clouds will increase in
-coverage over the next few hours, pushing further inland after 03-
-04Z. Orange County can expect to start seeing low clouds after 04Z,
-filling in and pushing ashore after 10Z. Low clouds will begin their
-retreat 15-16Z, clearing after 17-18Z from most locations.
+160930Z...Coast/Western Valleys...Somewhat patchy low clouds based
+1100-1500 ft MSL will persist along the coast and up to 10-15 miles
+inland until mid-morning, with local areas of vis 3-6 SM for higher
+terrain in coastal/western valley areas. Low clouds will begin their
+retreat west after 15Z, clearing offshore 17-18Z. Similarly based
+low clouds move back ashore in San Diego Co after 03Z Wed and Orange
+Co after 09Z Wed, with similar inland extent.
 
-Mountains/Deserts...VFR conditions are expected through the TAF
-period, with the occasional SCT-BKN clouds around 15000 feet MSL.
-Cumulus around 10000 feet MSL over mountain areas through 02Z.
-Breezy westerly winds gusting 25-30 kts through mountain passes and
-into deserts through 09Z.
+Mountains/Deserts...Mostly VFR conditions are expected through the TAF
+period, with the occasional SCT-BKN clouds 12-15k feet MSL. Breezy
+westerly winds gusting 25-30 kts through mountain passes and into
+deserts again Tuesday after 19Z through about 06Z Wed. Cumulus based
+around 10k ft MSL will develop over mountains and parts of deserts,
+with a 10-15% chance for an isolated SHRA/TSRA over the mountains
+and desert slopes this afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .BEACHES...
 Elevated surf and strong rip currents continue through Friday. Surf
-of 3-6 feet and sets to 7 feet are expected at south-facing beaches.
-Surf for southern San Diego County will be slightly lower, but
-hazardous swimming conditions with high rip current and longshore
-current risk will still exist. See the Beach Hazards Statement for
-more details.
+of 3-6 feet with sets to 7 feet are expected at south-facing
+beaches. Surf for southern San Diego County will be slightly lower,
+but hazardous swimming conditions with high rip current and
+longshore current risk will still exist. See the Beach Hazards
+Statement for more details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -463,8 +476,8 @@ PZ...None.
 
 $$
 
-PUBLIC...MM
-AVIATION/MARINE...Villafane
+PUBLIC...17
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
