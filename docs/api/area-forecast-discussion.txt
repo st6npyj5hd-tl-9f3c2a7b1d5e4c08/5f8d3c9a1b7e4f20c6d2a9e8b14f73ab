@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-15T20:56:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-16T04:22:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -352,17 +352,17 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-228
-FXUS66 KSGX 152033
+603
+FXUS66 KSGX 152335
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-133 PM PDT Mon Jun 15 2026
+435 PM PDT Mon Jun 15 2026
 
 .SYNOPSIS...
 Above average high temperatures early this week will cool to below
-average during the latter half of the week throught the weekend.
+average during the latter half of the week through the weekend.
 Coastal low clouds will spread farther into the valleys during the
 latter half of the week each night and morning as the marine
 layer slowly deepens.
@@ -372,6 +372,8 @@ layer slowly deepens.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...New Aviation Discussion...
 
 Coastal low clouds cleared on schedule this morning, but have been
 persistent to hang at the immediate coast in most of San Diego
@@ -393,35 +395,39 @@ averages through Tuesday. Monsoon moisture hangs around for one
 more day, so you`ll continue to see some mid level cumulus and
 altocumulus clouds, especially over the mountains Tuesday
 afternoon. Very weak low pressure aloft Wednesday helps deepen
-our marine layer and sweeps the monsoon moisure away. A trough of
-low pressure begins to develop off the West Coast around Thursday
-and deepens Friday and Saturday as it advances through California.
-That will flip temperatures from a few degrees above average to a
-few degrees below on Wednesday and especially Thursday. The
-marine layer will respond by deepening Wednesday morning, and
-extending the nocturnal coastal clouds farther inland each night
-and morning into Saturday. There should be stronger onshore winds
-through mountain passes and into deserts each afternoon and
-evening, looking strongest on Friday when gusts of 40-50 mph are
-likely through the wind-prone mountain passes like San Gorgonio
-Pass. After the trough passage on Saturday, weak high pressure
-returns Sunday, which will reverse the temperature and marine
-layer trends. In other words, a modest warming trend and less
-extensive coastal clouds in a shallower marine layer come Sunday.
+our marine layer and sweeps the monsoon moisture away. A trough
+of low pressure begins to develop off the West Coast around
+Thursday and deepens Friday and Saturday as it advances through
+California. That will flip temperatures from a few degrees above
+average to a few degrees below on Wednesday and especially
+Thursday. The marine layer will respond by deepening Wednesday
+morning, and extending the nocturnal coastal clouds farther inland
+each night and morning into Saturday. There should be stronger
+onshore winds through mountain passes and into deserts each
+afternoon and evening, looking strongest on Friday when gusts of
+40-50 mph are likely through the wind-prone mountain passes like
+San Gorgonio Pass. After the trough passage on Saturday, weak high
+pressure returns Sunday, which will reverse the temperature and
+marine layer trends. In other words, a modest warming trend and
+less extensive coastal clouds in a shallower marine layer come
+Sunday.
+
 
 &&
 
 .AVIATION...
-151800Z...Coast/Western Valleys...Patchy low clouds 1000-1500
-feet MSL will persist along the immediate coast. Low clouds with
-similar bases will push ashore in San Diego County after 02Z and
-in Orange County after 06Z. Scatter out Tuesday will be 16-18Z.
+152330Z...Coast/Western Valleys...Patchy low clouds cling to coastal
+San Diego with bases 1000-1500ft MSL. Low clouds will increase in
+coverage over the next few hours, pushing further inland after 03-
+04Z. Orange County can expect to start seeing low clouds after 04Z,
+filling in and pushing ashore after 10Z. Low clouds will begin their
+retreat 15-16Z, clearing after 17-18Z from most locations.
 
-Mountains/Deserts...VFR conditions are expected through Tuesday
-morning, with occasional SCT-BKN clouds around 15000 feet MSL.
-Cumulus around 10000 feet MSL over mountains through 02Z. Breezy
-westerly winds gusting 25-30 kts through mountain passes and into
-deserts 22-09Z.
+Mountains/Deserts...VFR conditions are expected through the TAF
+period, with the occasional SCT-BKN clouds around 15000 feet MSL.
+Cumulus around 10000 feet MSL over mountain areas through 02Z.
+Breezy westerly winds gusting 25-30 kts through mountain passes and
+into deserts through 09Z.
 
 &&
 
@@ -444,6 +450,7 @@ more details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -457,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...MM
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE...Villafane
 
 
 </pre>
