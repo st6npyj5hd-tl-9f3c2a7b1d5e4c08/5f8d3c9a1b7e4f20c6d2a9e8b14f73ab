@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-16T20:53:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-17T04:10:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -351,16 +351,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-234
-FXUS66 KSGX 162028
+245
+FXUS66 KSGX 170022
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-128 PM PDT Tue Jun 16 2026
+522 PM PDT Tue Jun 16 2026
 
 .SYNOPSIS...
 Monsoonal moisture in place brings a slight chance for showers and
@@ -375,6 +377,8 @@ farther into the valleys by the weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation Discussion Below....
 
 With fairly neutral flow aloft, the anomalous mid-level moisture
 that has been in place the last several days remains in place across
@@ -407,19 +411,21 @@ layer and bolster the cooling trend some, with afternoon highs
 running 5-10 degrees below normal into the weekend. Clusters then
 favor ridging to build back in early next week, bringing warmer
 temperatures and squishing the marine layer back down some.
-
 &&
 
-.AVIATION... 161730Z...Coast/Valleys...Patchy low clouds based 1200-
+.AVIATION... 162330Z...Coast/Valleys...Patchy low clouds based 1200-
 1500 feet MSL will persist along the immediate coast this afternoon.
-These clouds will push ashore after 03Z and march into some inland
-valleys overnight. Bases should lift to 1500-1800 feet MSL. Vis
-reduced to 3-5SM in valleys. Scatter out Wednesday 16-18Z.
+These clouds will push ashore after 01-03Z and march into some
+inland valleys overnight. Low clouds will struggle to make it into
+the Imperial Empire. Bases should lift to 1500-1800 feet MSL. Vis
+reduced to 3-5SM in higher inland valleys. Scatter out Wednesday
+beginning around 16-18Z, then clouds will begin to fill back in
+after 01Z Wed, with slightly higher bases.
 
-Mountains/Deserts...SCT to locally BKN cumulus clouds 10000-15000
-feet MSL with isolated -SHRA over mountains and desert near Mexico
-border 20-01Z. Clear after 03Z. Breezy westerly winds gusting 25-35
-kts through mountain passes and into deserts 19-06Z.
+Mountains/Deserts...ISO cumulus clouds 5000-8000 feet MSL with
+-SHRA possible over mountains. Clear after 03Z. Breezy westerly
+winds gusting 25-35 kts through mountain passes and into deserts
+through 06Z.
 
 &&
 
@@ -428,13 +434,10 @@ No hazardous marine conditions are expected through Saturday.
 
 &&
 
-.BEACHES...
-Elevated surf and strong rip currents continue through Friday. Surf
-of 3-5 feet with sets to 6 feet are expected at south-facing
-beaches. Surf for southern San Diego County will be slightly lower,
-but hazardous swimming conditions with high rip current and
-longshore current risk will still exist. See the Beach Hazards
-Statement for more details.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -449,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE...Stewey
 
 
 </pre>
