@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-17T20:13:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-18T04:09:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -356,13 +356,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-315
-FXUS66 KSGX 171956
+505
+FXUS66 KSGX 180000
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1256 PM PDT Wed Jun 17 2026
+500 PM PDT Wed Jun 17 2026
 
 .SYNOPSIS...
 Cooler weather and a more extensive marine layer are expected
@@ -377,6 +377,8 @@ layer with less coastal cloud coverage.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation Discussion Below...
 
 Low clouds made it barely into the western and southern entrances
 of the Inland Empire this morning. Clouds have cleared to the
@@ -419,24 +421,33 @@ Mountains/Deserts... Mostly clear. Breezy westerly winds gusting 25-
 
 &&
 
-.MARINE...
-No hazardous marine conditions are expected through Sunday.
+.AVIATION...
+180000Z...Coast/Valleys...Patchy low clouds based 1700-1900 feet MSL
+will persist along the immediate coast this afternoon will continue
+to push ashore throughout the evening, especially after 03Z, and
+move into some inland valleys overnight. There is a 60% chance for
+clouds to make it into portions of the Inland Empire, including
+vcnty KONT, 12-16Z. Bases should lift to 1800-2000 feet MSL. Vis
+reduced to 3-5SM in valleys. Scatter out Thursday 16-18Z. Could will
+reform in fill back in tomorrow by around 02-04Z Fri., with similar
+bases.
+
+Mountains/Deserts... VFR conditions. Breezy westerly winds gusting
+25-35 kts through mountain passes and into deserts through 06Z.
+There could be temporary VIS restrictions due to FU (wildfire smoke)
+in an around the Coachella Valley area through Thursday evening.
 
 &&
 
-.BEACHES...
-Elevated surf and strong rip currents continue through Friday. Surf
-of 3-5 feet with local sets to 7 feet are expected at south-facing
-beaches. Surf for southern San Diego County will be slightly lower,
-but hazardous swimming conditions with high rip current and
-longshore current risk will still exist. See the Beach Hazards
-Statement for more details.
+.MARINE...
+No hazardous marine conditions are expected through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -451,7 +462,7 @@ PZ...None.
 $$
 
 PUBLIC...MM
-AVIATION/MARINE/BEACHES...Small
+AVIATION/MARINE...Stewey
 
 
 </pre>
