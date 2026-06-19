@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-19T10:39:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-19T15:21:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,16 +345,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-767
-FXUS66 KSGX 190903
+853
+FXUS66 KSGX 191109
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-203 AM PDT Fri Jun 19 2026
+409 AM PDT Fri Jun 19 2026
 
 .SYNOPSIS...
 Below average temperatures with marine layer low clouds and fog
@@ -373,6 +375,8 @@ inland valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated aviation discussion for 12Z TAF issuance...
 
 This morning...The marine layer is about 3,000 ft deep and at this
 hour low clouds have spread inland to the coastal slopes in some
@@ -408,24 +412,23 @@ once again, deepen the marine layer and allow low clouds to spread
 farther inland. If this solution does not verify, the HeatRisk
 conditions could persist through the end of next week.
 
+
 &&
 
 .AVIATION...
-190530Z...Coast/Valleys...Low clouds have pushed in from the coast
-and filled into the adjacent valleys. Low clouds are expected to
-push into the inland empire and fill the coastal basin over the next
-few hours. Cloud bases will be 1500-2200ft MSL with local vis
-reduced 1-5SM where clouds intersect terrain. Low clouds will start
-clearing inland areas after 16Z, clearing coastal areas by 18Z. Low
-clouds return after 00Z Saturday for coastal SD, after 04-06Z
-Saturday for OC, and filling the coastal basin by 09-12Z.
+190930Z...Coast/Valleys...Low clouds have pushed in from the coast
+and filled the coastal basin all the way to the foothills. Cloud
+bases are 800-2100ft MSL with local vis reduced 1-5SM where clouds
+intersect terrain. Low clouds will begin clearing inland areas after
+16Z, clearing coastal areas by 18Z. Low clouds return after 00Z
+Saturday for coastal SD, after 04-06Z Saturday for OC, and filling
+the coastal basin by 09-12Z.
 
 Mountains/Deserts...VFR conditions expected through the TAF period.
 Breezy westerly winds with gusts 25-35 kts through mountain passes
-and into deserts through 09Z, returning after 21Z through 09Z
-Saturday. There could be temporary VIS restrictions in FU (wildfire
-smoke) in and around the San Gorgonio Pass and the northern
-Coachella Valley.
+and into deserts return after 21Z, lasting through 09Z Saturday.
+There could be temporary VIS restrictions in FU (wildfire smoke) in
+and around the San Gorgonio Pass and the northern Coachella Valley.
 
 &&
 
