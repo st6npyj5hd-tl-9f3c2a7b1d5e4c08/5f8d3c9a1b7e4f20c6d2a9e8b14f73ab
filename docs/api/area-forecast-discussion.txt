@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-19T04:27:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-19T10:39:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,29 +345,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-565
-FXUS66 KSGX 182343
+767
+FXUS66 KSGX 190903
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Thu Jun 18 2026
+203 AM PDT Fri Jun 19 2026
 
 .SYNOPSIS...
 Below average temperatures with marine layer low clouds and fog
-reaching into portions of the valleys through Sunday. Gusty westerly
-winds expected in the mountains and deserts this afternoon and
-evening and again Friday afternoon and evening. Warming trend
-expected Monday through at least the middle of next week. Areas of
-major HeatRisk possible for the deserts and moderate HeatRisk for
-inland Orange County, valleys, and mountains mid next week. The
-marine layer will become shallower next week, staying confined to
-coastal locations.
+reaching inland to the coastal mountain slopes through Sunday.
+Gusty westerly winds expected in the mountains and deserts this
+afternoon and evening. A warming trend is expected Monday through
+at least the middle of next week. Areas of major HeatRisk
+possible for the deserts, and moderate HeatRisk for inland Orange
+County, the inland valleys and mountains through the middle of
+next week. The marine layer will become shallower next week,
+staying confined to coastal areas and western portions of the
+inland valleys.
 
 &&
 
@@ -375,67 +374,58 @@ coastal locations.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...updated aviation, marine, and beaches discussions...
+This morning...The marine layer is about 3,000 ft deep and at this
+hour low clouds have spread inland to the coastal slopes in some
+areas. Patches of light drizzle are possible this morning west of
+the mountains if the saturated layer gets thick enough.
 
-Visible satellite this morning showed marine layer low clouds and
-fog had completely filled in the coastal basin, even filling in the
-Cajon Pass. The 12Z KNKX sounding showed a hefty inversion of 11
-degrees Celsius, which will make for slow clearing today especially
-for the coast. The marine layer is expected to be a similar depth
-tonight into Friday morning. Patchy drizzle may develop along the
-coast, but confidence is not high enough in widespread drizzle to
-add to the official forecast. The marine layer will stay fairly deep
-through the weekend, reaching into the valleys each night and
-morning.
+Upper level troughing near the west coast and onshore flow will
+keep temperatures near or a few degrees below seasonal averages
+through the weekend. The onshore flow will be strongest this
+afternoon, producing westerly winds gusting 30-40 mph in the mtns
+and deserts locally to 55 mph in the northern Coachella Valley
+below the San Gorgonio Pass. The onshore flow will weaken over the
+next several days. The marine layer will remain quite deep with
+low clouds spreading inland to the coastal mtn slopes each night
+and morning.
 
-High temperatures through the weekend will be below average for most
-locations due to a passing trough. In addition to cooler conditions
-(and the deeper marine layer), elevated southwest to west winds can
-be expected. Winds during the afternoon and evening for the
-mountains and deserts will be strongest on Friday with gusts 30 to
-40 mph and with gusts to 55 mph in the northern Coachella Valley
-below the San Gorgonio Pass.
+For Monday through the middle of next week...A ridge of high
+pressure building over the west coast will bring a warming trend
+through at least the middle of next week although after Tuesday,
+model solutions begin to diverge significantly and introduce more
+uncertainty into the forecast. At this time, it looks like Wed and
+Thu will be the warmest days with high temperatures ranging from a
+few degrees above normal in the coastal areas to 5-12 degrees
+above normal in the inland valleys, mtns and deserts. This will
+likely bring areas of moderate HeatRisk to the inland valleys,
+mtns and high deserts, and areas of high HeatRisk to the lower
+deserts.
 
-By Tuesday, an upper level area of high pressure will have built
-into the desert southwest. This will shrink the marine layer and
-result result in 3 to 5 degrees of warming between Monday and
-Tuesday. Through the week, the high will drift west. This will bring
-above average conditions to inland areas. Current forecast follows
-the NBM for Tuesday through next Thursday which will bring high
-temperatures 5 to 10 degrees above average with areas of moderate
-HeatRisk away from the coast and areas of major HeatRisk in the low
-desert. Hottest conditions based on current forecast are expected to
-be Wednesday and Thursday. Ensemble guidance is also indicating an
-increase in precipitable water for the middle to end of next week.
-That would result in warmer than normal overnight low temperatures
-and a disrupted marine layer limiting low cloud development.
-
-The spread in potential forecast solutions starts to increase for
-the middle to end of next week. Ensembles are indicating the
-possibility of a shortwave trough moving through California, which
-would result in a few degrees of cooling if it verifies. Right now
-the solutions are split fairly equally for Thursday with 51 percent
-of solutions bringing in the shortwave trough and 49 percent keeping
-the ridge aloft. If the ridging were maintained, that would prolong
-the above average conditions into the end of next week. Any increase
-in high or low temperatures above current forecast will likely
-result in more widespread moderate or major HeatRisk, especially
-for the end of next week. We`ll continue to monitor forecast
-trends in the coming days.
+As we approach the end of next week, a percentage of ensemble
+members show low pressure troughing beginning to weaken and
+displace the ridge to the south. This could lower temperatures
+once again, deepen the marine layer and allow low clouds to spread
+farther inland. If this solution does not verify, the HeatRisk
+conditions could persist through the end of next week.
 
 &&
 
 .AVIATION...
-182330Z...Coast/Valleys...Low clouds 1800-2200 feet MSL over San
-Diego County will expand and spread inland after 02Z and fill the
-entire coastal basin again by 12Z. Local vis reduced 1-5SM inland
-and near foothills after 08Z.
+190530Z...Coast/Valleys...Low clouds have pushed in from the coast
+and filled into the adjacent valleys. Low clouds are expected to
+push into the inland empire and fill the coastal basin over the next
+few hours. Cloud bases will be 1500-2200ft MSL with local vis
+reduced 1-5SM where clouds intersect terrain. Low clouds will start
+clearing inland areas after 16Z, clearing coastal areas by 18Z. Low
+clouds return after 00Z Saturday for coastal SD, after 04-06Z
+Saturday for OC, and filling the coastal basin by 09-12Z.
 
-Mountains/Deserts...Clear through Friday evening. Breezy westerly
-winds gusting 25-35 kts through mountain passes and into deserts
-through 09Z tonight, and again after 21Z Friday afternoon. There
-could be temporary VIS restrictions in FU (wildfire smoke) in and
-around the San Gorgonio Pass and the northern Coachella Valley.
+Mountains/Deserts...VFR conditions expected through the TAF period.
+Breezy westerly winds with gusts 25-35 kts through mountain passes
+and into deserts through 09Z, returning after 21Z through 09Z
+Saturday. There could be temporary VIS restrictions in FU (wildfire
+smoke) in and around the San Gorgonio Pass and the northern
+Coachella Valley.
 
 &&
 
@@ -460,7 +450,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through Friday evening for Orange County
+CA...Beach Hazards Statement through this evening for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
@@ -469,8 +459,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
