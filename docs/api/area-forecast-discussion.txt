@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-21T04:22:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-21T09:52:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-773
-FXUS66 KSGX 210001
+252
+FXUS66 KSGX 210900
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-501 PM PDT Sat Jun 20 2026
+200 AM PDT Sun Jun 21 2026
 
 .SYNOPSIS...
 Below average temperatures with marine layer low clouds and fog
@@ -372,71 +372,78 @@ the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.Updated Aviation and Marine Discussion for 00z TAF Package...
+Thai morning...The marine layer remains about 3,000 ft deep with
+low-zonal flow over SoCal and weak troughing just to our north.
+Low clouds are increasing in coverage over the coastal areas and
+valleys of San Diego County. The cloud coverage seems to be
+expanding in a similar pattern to yesterday (Friday) morning. The
+saturated layer is relatively thin and the inversion weak so
+clearing will likely be as early this morning as yesterday
+morning.
 
-At 11:30 AM, temperatures were running 3 to 7 degrees warmer than
-yesterday in the Inland Empire, San Bernardino mountains, and inland
-Orange County with temperatures similar to a few degrees cooler than
-11:30 AM yesterday elsewhere. Visible satellite is showing
-partial clearing along the immediate coast, with the potential for
-widespread clearing this afternoon. Low clouds are expected to
-reach into portions of the valleys again overnight into Sunday
-morning. Highs Sunday are expected to remain below average but
-will trend a few degrees warmer than today.
+A warming trend will continue into Thursday as high pressure
+builds over the western states. Wed and Thu will likely be the
+warmest days with the center of the upper high over northern Mexico.
+Daytime high temperatures on those days will likely be 5 to 10
+degrees above average for inland locations with localized areas
+of moderate HeatRisk away from the coast, and areas of major
+HeatRisk in the low desert. Most model solutions continue to show
+an influx of mid-level moisture from the south around the middle
+of the week. If this brings significant cloud cover, it could
+suppress temperatures during the daytime and inhibit radiation
+cooling at night - at least on Wed and Thu. The possibility of
+showers and/or tstms can`t be ruled out for Wed afternoon but at
+this time, the probability is 15 percent or less. The marine layer
+will be shallower and overnight low clouds may be patchy and
+disrupted by the moisture aloft.
 
-Additional warming is expected into the middle of the week as a
-ridge of high pressure builds aloft from the south. Current forecast
-has high temperatures for inland locations 5 to 10 degrees above
-average with localized areas of moderate HeatRisk away from the
-coast and areas of major HeatRisk in the low desert by Wednesday.
-The forecast has trended cooler by a few degrees for Tuesday
-through Thursday, which has limited the geographic extent of
-moderate HeatRisk in the valleys and major HeatRisk in the low
-desert. Based on the current forecast, hottest day is expected to
-be Wednesday with Tuesday and Thursday a few degrees cooler than
-Wednesday.
-
-Guidance continues to indicate an increase in precipitable water for
-the middle to end of next week. This will most likely result in
-limited daytime heating, warmer than normal overnight low
-temperatures, and more humid feeling conditions. As far as the
-marine layer goes, the building high pressure and influx of
-moisture will result in a shallower marine layer and limited low
-cloud development. While the most likely scenario is for dry
-conditions to prevail, there is a 10-15 percent chance showers or
-thunderstorms may develop over area mountains Wednesday afternoon.
-
-Most ensemble solutions are now on board with a shortwave trough
-moving into the Pacific Northwest by Thursday. This will displace
-the ridge aloft and result in a gradual cooling. By next Saturday,
-conditions are expected to be within a few degrees of normal.
-
+Beyond the middle of the week...Model solutions are coming into
+better agreement with respect to a low pressure system moving
+inland to our north, with a closed upper low over WA state by next
+Saturday morning. A majority of ensemble members now show the
+ridge of high pressure beginning to weaken and shift east by
+Thursday as a low pressure trough approaches the west coast. This
+will result in a cooling trend beginning on Friday with next
+Sunday being the coolest day overall. High temperatures will be
+within a degree or 2 of normal in the coastal areas and low
+deserts while in the valleys, mtns and high desert daytime high
+temps will be anywhere from 3 to 11 degrees below normal. The
+marine layer will again deepen with low clouds spreading inland to
+the coastal mtn slopes during the nights and mornings.
 
 &&
 
 .AVIATION...
-210000Z...Coast/Valleys...Patchy low clouds are just starting to
-redevelop over coastal San Diego County, though coverage should
-remain patchy for the next few hours. Thereafter, low clouds spread
-northward and inland overnight, reaching into portions of the Inland
-Empire by 10-12z. 60% chance for cigs to reach KONT and 30% chance
-at KSBD. Bases may hover near or just below 2000 ft MSL this
-evening, but should rise to 2000-2500 ft MSL sometime early Sunday
-morning. Clouds scatter toward the coastline 16-19z. Low clouds with
-lower bases return to San Diego County coastal areas 01-03z Mon.
+210530Z...Coast/Valleys...Low clouds are meandering in along the San
+Diego coast and into the adjacent valley. Low clouds with cigs 1500-
+2000ft MSL will increase in coverage over the next few hours,
+spreading north into OC after 09-10Z. The Inland Empire will get
+some low clouds but not expecting them to fill in all the way to the
+foothills. Low clouds will scatter out of inland locations after 16-
+17Z. Low clouds with slightly lower bases will reform after 03Z
+Monday.
 
 Mountains/Deserts...VFR conditions expected through the TAF period.
 Westerly wind gusts of 25-40 kts will continue this evening along
 desert slopes and locally into deserts. Local VIS reductions 4-6 SM
 in BLDU during periods of strong gusts and moderate up/downdrafts in
-lee of mtns. Winds slowly diminish from 06-12z Sun. Westerly winds
-of similar strength return for the same areas Sunday afternoon and
-evening.
+lee of mtns. Winds will slowly diminish through 12z Sun. Westerly
+winds of similar strength will return for the same areas after 18Z.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Thursday.
+
+&&
+
+.BEACHES...
+Elevated surf and strong rip currents are set to continue through
+this weekend with a persistent long period southwesterly swell. Surf
+of 3-5 feet with local sets to 6 feet are expected at southwest-
+facing beaches. Expect locally hazardous swimming conditions with
+high rip current and longshore current risk. See the Beach Hazards
+Statement for more details.
 
 &&
 
@@ -448,7 +455,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through Sunday evening for Orange County
+CA...Beach Hazards Statement through this evening for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
@@ -457,8 +464,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...KW
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
