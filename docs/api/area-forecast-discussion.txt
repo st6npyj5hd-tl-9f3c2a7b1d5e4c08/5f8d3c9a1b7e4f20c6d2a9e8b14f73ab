@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-21T14:14:15+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-21T19:44:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-252
-FXUS66 KSGX 210900
+843
+FXUS66 KSGX 211801
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-200 AM PDT Sun Jun 21 2026
+1101 AM PDT Sun Jun 21 2026
 
 .SYNOPSIS...
 Below average temperatures with marine layer low clouds and fog
@@ -370,7 +370,10 @@ the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Thai morning...The marine layer remains about 3,000 ft deep with
+...UPDATED AVIATION DISCUSSION BELOW...
+
+.PREVIOUS DISCUSSION...Issued 200 AM PDT Sun Jun 21 2026...
+This morning...The marine layer remains about 3,000 ft deep with
 low-zonal flow over SoCal and weak troughing just to our north.
 Low clouds are increasing in coverage over the coastal areas and
 valleys of San Diego County. The cloud coverage seems to be
@@ -412,21 +415,20 @@ the coastal mtn slopes during the nights and mornings.
 &&
 
 .AVIATION...
-210530Z...Coast/Valleys...Low clouds are meandering in along the San
-Diego coast and into the adjacent valley. Low clouds with cigs 1500-
-2000ft MSL will increase in coverage over the next few hours,
-spreading north into OC after 09-10Z. The Inland Empire will get
-some low clouds but not expecting them to fill in all the way to the
-foothills. Low clouds will scatter out of inland locations after 16-
-17Z. Low clouds with slightly lower bases will reform after 03Z
-Monday.
+211800Z...Coast/Valleys...Lingering low level clouds along the coast
+will clear offshore by 19Z. Low clouds reform and move into SD
+coastal regions after 03Z at 1700-2200 ft MSL, then into inland
+SD/Orange County after 06Z. There is a 30-40% chance for clouds to
+reach into the southern and northwest portions of the Inland Empire,
+including vcnty KONT, 11-16Z Monday. Cigs likely to lower slightly
+overnight to 1500-2000 ft MSL, then scatter out 16-18Z Mon.
 
-Mountains/Deserts...VFR conditions expected through the TAF period.
-Westerly wind gusts of 25-40 kts will continue this evening along
-desert slopes and locally into deserts. Local VIS reductions 4-6 SM
+Mountains/Deserts...VFR conditions with periods of upper level
+clouds AOA 20k ft expected through the TAF period. Westerly wind
+gusts of 25-40 kts along desert slopes and locally into deserts
+expected through about 06Z this evening. Local VIS reductions 4-6 SM
 in BLDU during periods of strong gusts and moderate up/downdrafts in
-lee of mtns. Winds will slowly diminish through 12z Sun. Westerly
-winds of similar strength will return for the same areas after 18Z.
+lee of mtns.
 
 &&
 
@@ -449,7 +451,6 @@ Statement for more details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -463,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Villafane
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
