@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-21T19:44:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-22T04:25:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,28 +341,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-843
-FXUS66 KSGX 211801
+160
+FXUS66 KSGX 220017
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1101 AM PDT Sun Jun 21 2026
+517 PM PDT Sun Jun 21 2026
 
 .SYNOPSIS...
-Below average temperatures with marine layer low clouds and fog
-reaching into portions of the valleys this weekend. For the first
-half of the week, widespread moderate to areas of major HeatRisk
-possible for the deserts and widespread minor to locally moderate
-HeatRisk for inland Orange County, valleys, and mountains. The
-marine layer will become shallower next week, staying confined to
-coastal locations. Gradual cooling expected for the second half of
-the week.
+Warming trend for the first half of the week brings widespread
+moderate to areas of major HeatRisk possible for the deserts and
+widespread minor to locally moderate HeatRisk for inland Orange
+County, valleys, and mountains for Wednesday. The marine layer
+will become shallower through midweek, staying confined to
+coastal locations. A few stray showers/storms are possible over
+the mountains on Wednesday. Gradual cooling expected for the
+second half of the week with the marine layer becoming deeper.
 
 &&
 
@@ -370,64 +368,65 @@ the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION BELOW...
+Current satellite and 500mb analysis reveals largely zonal flow
+aloft and a weak upper ridge across northern Mexico, with marine
+layer clouds clearing out to the coasts for the day. Temperatures
+early this afternoon are running near to slightly warmer than
+yesterday, but is still coming in 5-10 degrees below normal for most
+across the region. However, today looks to be the coolest day of the
+next several as model guidance remains consistent in the upper level
+ridge strengthening and sliding northward over the next few days,
+becoming centered near El Paso by Tuesday afternoon. The placement
+of this ridge also establishes southeasterly flow aloft, allowing
+for an influx of mid level moisture into the area. The ridge and the
+moisture will likely serve to limit the vertical depth and inland
+extent of the marine layer through midweek. The main consequence
+will be the notable warming trend, that takes afternoon temperatures
+5-10 degrees above normal by Wednesday. More importantly, the
+moisture will inhibit overnight cooling, leading to mild nights,
+with low temperatures running 5-10 degrees above normal as well and
+limiting overnight relief from he warm daytime temperatures. This
+brings areas of moderate HeatRisk into the inland valleys on
+Wednesday, with locally major HeatRisk for the deserts.
+Additionally, the increased mid level moisture could support the
+development of a few showers/storms over the mountains Tuesday or
+moreso Wednesday afternoon. A weak shortwave rounding the western
+periphery of the ridge Tuesday into Wednesday may provide enough
+synoptic support for updrafts to overcome inhibiting cloud cover and
+dry air above the moist layer, but these are 2 main factors that
+will likely keep any impacts from these precipitation chances little
+to none.
 
-.PREVIOUS DISCUSSION...Issued 200 AM PDT Sun Jun 21 2026...
-This morning...The marine layer remains about 3,000 ft deep with
-low-zonal flow over SoCal and weak troughing just to our north.
-Low clouds are increasing in coverage over the coastal areas and
-valleys of San Diego County. The cloud coverage seems to be
-expanding in a similar pattern to yesterday (Friday) morning. The
-saturated layer is relatively thin and the inversion weak so
-clearing will likely be as early this morning as yesterday
-morning.
-
-A warming trend will continue into Thursday as high pressure
-builds over the western states. Wed and Thu will likely be the
-warmest days with the center of the upper high over northern Mexico.
-Daytime high temperatures on those days will likely be 5 to 10
-degrees above average for inland locations with localized areas
-of moderate HeatRisk away from the coast, and areas of major
-HeatRisk in the low desert. Most model solutions continue to show
-an influx of mid-level moisture from the south around the middle
-of the week. If this brings significant cloud cover, it could
-suppress temperatures during the daytime and inhibit radiation
-cooling at night - at least on Wed and Thu. The possibility of
-showers and/or tstms can`t be ruled out for Wed afternoon but at
-this time, the probability is 15 percent or less. The marine layer
-will be shallower and overnight low clouds may be patchy and
-disrupted by the moisture aloft.
-
-Beyond the middle of the week...Model solutions are coming into
-better agreement with respect to a low pressure system moving
-inland to our north, with a closed upper low over WA state by next
-Saturday morning. A majority of ensemble members now show the
-ridge of high pressure beginning to weaken and shift east by
-Thursday as a low pressure trough approaches the west coast. This
-will result in a cooling trend beginning on Friday with next
-Sunday being the coolest day overall. High temperatures will be
-within a degree or 2 of normal in the coastal areas and low
-deserts while in the valleys, mtns and high desert daytime high
-temps will be anywhere from 3 to 11 degrees below normal. The
-marine layer will again deepen with low clouds spreading inland to
-the coastal mtn slopes during the nights and mornings.
+Ensembles continue to push a longwave trough into the Pacific
+Northwest for Thursday into Friday, which should help weaken the
+ridge and nudge it south/east as well as kick out the mid level
+moisture. This results in a cooling trend into the weekend with the
+marine layer deepening again. Temperatures return to near average
+for Thurs/Fri with the potential for afternoon highs 10 degrees or
+more below normal for the weekend.
 
 &&
 
 .AVIATION...
-211800Z...Coast/Valleys...Lingering low level clouds along the coast
-will clear offshore by 19Z. Low clouds reform and move into SD
-coastal regions after 03Z at 1700-2200 ft MSL, then into inland
-SD/Orange County after 06Z. There is a 30-40% chance for clouds to
-reach into the southern and northwest portions of the Inland Empire,
-including vcnty KONT, 11-16Z Monday. Cigs likely to lower slightly
-overnight to 1500-2000 ft MSL, then scatter out 16-18Z Mon.
+220015Z...Coast/Valleys...Low clouds based near or just below 2000
+ft MSL are expected to reform over coastal San Diego County starting
+around 03z. Clouds will spread northward into Orange County
+overnight and reach up to 20 miles inland by 09-12z. 30-40% chance
+for clouds to reach into the southern and western Inland Empire
+(including KONT). Clouds scatter to the coastline 15-18z. Low clouds
+return to coastal San Diego County starting 01-03z Tue with slightly
+lower bases than tonight.
+
+A large structure fire continues to burn in Los Angeles.
+Intermittent minor vis reductions (4-6SM) in FU expected for the
+northern Inland Empire (KONT) and possibly for western Orange County
+(KSNA).
 
 Mountains/Deserts...VFR conditions with periods of upper level
 clouds AOA 20k ft expected through the TAF period. Westerly wind
 gusts of 25-40 kts along desert slopes and locally into deserts
-expected through about 06Z this evening. Local VIS reductions 4-6 SM
-in BLDU during periods of strong gusts and moderate up/downdrafts in
+expected through about 06-09Z Mon. Local VIS reductions 4-6 SM in
+BLDU during periods of strong gusts and moderate up/downdrafts in
 lee of mtns.
 
 &&
@@ -438,12 +437,14 @@ No hazardous marine conditions are expected through Thursday.
 &&
 
 .BEACHES...
-Elevated surf and strong rip currents are set to continue through
-this weekend with a persistent long period southwesterly swell. Surf
-of 3-5 feet with local sets to 6 feet are expected at southwest-
-facing beaches. Expect locally hazardous swimming conditions with
-high rip current and longshore current risk. See the Beach Hazards
-Statement for more details.
+Elevated surf and strong rip currents will continue through this
+evening with a persistent long period southwesterly swell. Surf of 3-
+5 feet with local sets to 6 feet are expected at southwest-facing
+beaches. Expect locally hazardous swimming conditions with high rip
+current risk. Surf heights will lower slightly by Monday, but may
+become elevated again by Wednesday as fresh long-period southerly
+swell moves in. Strong rip currents will remain possible through the
+upcoming week. See the Beach Hazards Statement for more details.
 
 &&
 
@@ -451,11 +452,12 @@ Statement for more details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement until 11 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -463,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
