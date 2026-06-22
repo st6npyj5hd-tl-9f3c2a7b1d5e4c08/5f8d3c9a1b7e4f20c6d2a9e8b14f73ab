@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-22T17:08:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-22T20:50:06+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-471
-FXUS66 KSGX 220944
+940
+FXUS66 KSGX 221842
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-244 AM PDT Mon Jun 22 2026
+1142 AM PDT Mon Jun 22 2026
 
 .SYNOPSIS...
 Strengthening high pressure to the east will bring a warming trend
@@ -368,82 +368,77 @@ valleys and coastal slopes of the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated 12Z TAF Discussion...
+Current satellite imagery and 500mb analysis reveal the subtropical
+ridge centered across northern Mexico has strengthened some compared
+to yesterday. This favors the efficient marine layer clearing we`ve
+seen this morning and also a slight uptick in afternoon
+temperatures. This ridge is still progged to strengthen further,
+become more broad, and nudge northward through midweek, centering
+over El Paso by tomorrow. The placement of this ridge also
+establishes southeasterly flow aloft, allowing for an influx of mid
+level moisture into the area. The ridge and the moisture will likely
+serve to limit the vertical depth and inland extent of the marine
+layer through midweek. The main consequence will be the notable
+warming trend, that takes afternoon temperatures 5-10 degrees above
+normal by Wednesday. More importantly, the moisture will inhibit
+overnight cooling, leading to mild nights, with low temperatures
+running 5-10 degrees above normal as well and limiting overnight
+relief from he warm daytime temperatures. This brings areas of
+moderate HeatRisk into the inland valleys on Wednesday, with locally
+major HeatRisk for the deserts.
 
-.SHORT TERM (Today through Wednesday)...
-Strengthening high pressure to the east will bring a warming trend
-through Wednesday with high temperatures on Wednesday a few
-degrees above average near the coast and 5 to 10 degrees above
-average for inland areas. High temperatures on Wednesday will
-range from the lower to mid 70s near the coast to the 90s for the
-Inland Empire with 108 to 112 for the lower deserts.
+With the mid level moisture in place, some shower chances are in the
+forecast for Tuesday/Wednesday, but look to be fairly
+inconsequential. A shortwave rounding the western edge of the ridge
+on Tuesday passes west of our area, but could still provide enough
+synoptic support to generate elevated showers across the area. Any
+showers not over the mountains will likely be unable to overcome dry
+sub-cloud air and fall as virga, with little to no measurable
+precipitation in the mountains (where PoPs are 15-20%). More
+surface based showers will be possible in the mountains on
+Wednesday, but with the mid level moisture layer remaining fairly
+thin, shower/storm duration would likely be quite short as well.
+Still, a strike or two of lighting can`t be ruled out.
 
-For Tuesday and Wednesday, there will be widespread moderate
-HeatRisk for the deserts with locally major HeatRisk for portions
-of the lower deserts on Wednesday. There will also be moderate
-HeatRisk on Tuesday and Wednesday for mountain elevations below
-5500 feet and for portions of the Inland Empire.
-
-Night and morning coastal low clouds will spread into the western
-valleys late each night, though with some decrease in marine layer
-depth through Wednesday. Some mid and high level moisture and
-clouds could be drawn into the area from the southeast for late
-Tuesday and into Wednesday.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-High pressure to the east will begin to slowly weaken and the axis
-move slowly southward as a closed low pressure system off the
-southwest coast of British Columbia directs a stronger jet stream
-across the western states to the north. The onshore flow across
-southern California will weaken with cooling spreading inland.
-On Thursday, moderate to locally major HeatRisk will continue for
-the lower deserts.
-
-By Sunday, high temperatures will be as much as 8 to 12 degrees
-below average for the valleys onto the coastal slopes of the
-mountains. High temperatures for next Sunday will range from
-around 70 near the coast to the upper 70s to mid 80s for the
-Inland Empire with the upper 90s to 104 for the lower deserts.
-
-Night and morning coastal low clouds will spread inland into
-portions of the valleys late each night.
-
+Ensembles continue to push a longwave trough into the Pacific
+Northwest for Thursday into Friday, which should help weaken the
+ridge and nudge it south/east as well as kick out the mid level
+moisture. This results in a cooling trend into the weekend with the
+marine layer deepening again. Temperatures return to near average
+for Thurs/Fri with the potential for afternoon highs 10 degrees or
+more below normal for the weekend. While there is some disagreement
+in the exact timing/depth of this trough in the ensemble spread, it
+appears strong enough to bring some elevated onshore wind gusts to
+the region this weekend, primarily in the mountains and deserts
+where gusts 30-50 mph (and locally higher) are possible.
 
 &&
 
 .AVIATION...
-220930Z...Coast/Valleys...Low clouds with bases 1300-2000ft MSL have
-moved in over the San Diego coast and pushed into adjacent valleys.
-Clouds are beginning to form in inland Orange County and are
-expected to increase in coverage over the next few hours. The Inland
-Empire may see some low clouds overnight but would be patchy in
-nature. Low clouds will begin their retreat after 15Z, clearing the
-coast by 17-18Z. Cigs return 01-03Z Tuesday with slightly lower
-bases expected.
+221800Z...Coast/Valleys...Cigs expected to return 03-06Z Tuesday.
+Bases are expected to be 700-1200 ft MSL with KCRQ the most likely
+location for cigs under 1000 ft MSL. KSAN and KSNA have a 50% chance
+of cigs under 1000 ft MSL. Low clouds are expected to reach into the
+portions of the valleys, with only 40 percent chance of cigs at
+KONT. Areas of vis reductions down to 3-5 SM possible near higher
+coastal terrain and in the valleys on the edge of the cloud deck.
+Low clouds and vis reductions will clear 15-17Z Tue.
 
-Mountains/Deserts...VFR conditions expected through the TAF period
-with passing high clouds AOA 20000ft MSL.
+Mountains/Deserts...VFR conditions expected into Tue with periods of
+high clouds AOA 15000 ft MSL after 19Z Tue.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .BEACHES...
-Surf heights have lowered slightly, but may become elevated again by
-Wednesday as fresh long-period southerly swell moves in. Strong rip
-currents will remain possible through the upcoming week.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+Another uptick in surf expected Tuesday through Thursday with the
+arrival of a 3 ft 15 to 18 second period south swell from 190 to 210
+degrees. Surf of 4 to 6 ft expected. Strong rip currents expected
+through the week.
 
 &&
 
@@ -455,8 +450,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
