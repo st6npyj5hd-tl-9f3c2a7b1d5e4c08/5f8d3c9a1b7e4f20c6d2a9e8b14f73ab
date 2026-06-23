@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-22T20:50:06+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-23T03:42:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-940
-FXUS66 KSGX 221842
+435
+FXUS66 KSGX 222353
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1142 AM PDT Mon Jun 22 2026
+453 PM PDT Mon Jun 22 2026
 
 .SYNOPSIS...
 Strengthening high pressure to the east will bring a warming trend
@@ -367,6 +365,8 @@ valleys and coastal slopes of the mountains.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation Discussion for 00z TAF Package...
 
 Current satellite imagery and 500mb analysis reveal the subtropical
 ridge centered across northern Mexico has strengthened some compared
@@ -412,17 +412,17 @@ appears strong enough to bring some elevated onshore wind gusts to
 the region this weekend, primarily in the mountains and deserts
 where gusts 30-50 mph (and locally higher) are possible.
 
+
 &&
 
 .AVIATION...
-221800Z...Coast/Valleys...Cigs expected to return 03-06Z Tuesday.
-Bases are expected to be 700-1200 ft MSL with KCRQ the most likely
-location for cigs under 1000 ft MSL. KSAN and KSNA have a 50% chance
-of cigs under 1000 ft MSL. Low clouds are expected to reach into the
-portions of the valleys, with only 40 percent chance of cigs at
-KONT. Areas of vis reductions down to 3-5 SM possible near higher
-coastal terrain and in the valleys on the edge of the cloud deck.
-Low clouds and vis reductions will clear 15-17Z Tue.
+230000Z...Coast/Valleys...Low clouds based 700-1300 ft MSL expected
+to develop over coastal San Diego County starting 01-03z Tue. Clouds
+push into Orange County and into western valleys overnight reaching
+up to 15 miles inland. 20-30% chance for clouds to reach the western
+Inland Empire (KONT). Minor vis reductions (3-6SM) possible for
+higher coastal terrain and western valleys (KCRQ, KL18, KSDM).
+Clouds scatter to the coastline 15-18z Tue.
 
 Mountains/Deserts...VFR conditions expected into Tue with periods of
 high clouds AOA 15000 ft MSL after 19Z Tue.
@@ -436,14 +436,24 @@ No hazardous marine conditions are expected through Saturday.
 
 .BEACHES...
 Another uptick in surf expected Tuesday through Thursday with the
-arrival of a 3 ft 15 to 18 second period south swell from 190 to 210
-degrees. Surf of 4 to 6 ft expected. Strong rip currents expected
-through the week.
+arrival of a 3 foot 15 to 18 second period south swell from 190 to
+210 degrees. Surf of 4 to 6 ft expected. Strong rip currents
+expected through the week.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Beach Hazards Statement from Tuesday morning through Thursday
+     evening for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
 PZ...None.
 
 &&
@@ -451,7 +461,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
