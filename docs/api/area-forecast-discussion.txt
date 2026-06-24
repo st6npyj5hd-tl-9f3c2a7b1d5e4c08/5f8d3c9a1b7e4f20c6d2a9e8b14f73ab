@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-24T09:33:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-24T14:34:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-677
-FXUS66 KSGX 240749
+316
+FXUS66 KSGX 240948
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1249 AM PDT Wed Jun 24 2026
+248 AM PDT Wed Jun 24 2026
 
 .SYNOPSIS...
 A slight chance of showers and thunderstorms will continue into
@@ -366,6 +366,8 @@ temperatures remaining below average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...New Aviation Discussion for 12z TAFs...
 
 .SHORT TERM (Today through Friday)...
 A slight chance of showers and thunderstorms will continue into
@@ -432,23 +434,19 @@ percentile for this time of the year, locally to the 95th
 percentile. The winds will begin to weaken on Sunday with greater
 weakening early next week.
 
-
 &&
 
 .AVIATION...
-240530Z...Coast/Valleys...Patchy mid/high level clouds with bases
-15000-20000ft MLS currently moving over the area. This cloud cover
-will result in patchy low cloud formation with bases expected
-between 1000-2000ft MSL. There are some patchy low clouds developing
-off coastal areas and are expected to move in along the coast after
-07-09Z for SD and a 30-40% chance of formation after 09-11Z for OC.
-Low clouds clear land areas 16-17Z. Low clouds with similar bases
-are expected to return after 03-04Z Thursday with better coverage.
+240930Z...Coast/Valleys...Low clouds with bases 1000-1500ft MSL have
+crept into coastal areas under mid/high level clouds AOA 20000ft
+MSL. Due to these upper level clouds, low level cloud formation will
+be patchy and intermittent at times. Low clouds will clear land
+areas 16-17Z. Expect low clouds with similar bases returning after
+03-04Z Thursday with better coverage.
 
 Mountains/Deserts...VFR conditions expected through the TAF period
 with SCT-BKN high clouds AOA 15000ft MSL. Mid to upper level clouds
-will mostly clear the area by 22-23Z giving way to predominately
-clear skies.
+will clear the area by 22-23Z giving way to mostly clear skies.
 
 &&
 
@@ -466,33 +464,6 @@ week. See the Beach Hazards Statement for more details.
 
 &&
 
-.FIRE WEATHER...
-Mid-level moisture in southerly flow aloft will continue the
-slight chance of showers and thunderstorms into this morning,
-mainly for the for the mountains and deserts of San Bernardino
-County. Little if any rainfall will reach the ground and any
-thunderstorms that develop could produce dry lightning strikes and
-locally gusty and erratic winds. Dry lightning strikes could
-result in fire starts that have the potential for initially rapid
-growth. The flow aloft is expected to become southwesterly by the
-afternoon bringing drying aloft.
-
-A low pressure system moving southward just off the coast of
-British Columbia will strengthen the onshore slow across southern
-California into the weekend. Southwest to west winds for the
-mountains and deserts during the afternoon will strengthen for
-Thursday through Saturday with gusts on Saturday of 35 to 45 mph
-with gusts to 75 mph in the northern Coachella Valley below the
-San Gorgonio Pass. Lowest humidity for the lower deserts will fall
-to around 10 percent for Thursday afternoon and Friday afternoon
-with near critical fire weather conditions for the deserts onto
-the desert slopes of the mountains for Thursday and Friday
-afternoon and early evening. The humidity for the deserts will
-begin to recover on Saturday with lowest afternoon humidity of 20
-to 25 percent.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
@@ -504,11 +475,11 @@ encouraged to report significant weather conditions.
 CA...Beach Hazards Statement through Thursday evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Red Flag Warning until 11 AM PDT Today for Victor Valley-
-     Apple Valley-Lucerne Valley-Johnson Valley.
+     Red Flag Warning until 11 AM PDT this morning for Victor Valley
+      -Apple Valley  -Lucerne Valley  -Johnson Valley.
 
-     Extreme Heat Warning from 11 AM Today to 8 PM PDT Thursday
-     for San Diego County Deserts.
+     Extreme Heat Warning from 11 AM this morning to 8 PM PDT
+     Thursday for San Diego County Deserts.
 
 PZ...None.
 
@@ -516,8 +487,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...17
-AVIATION/MARINE...Villafane
+PUBLIC...17
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
