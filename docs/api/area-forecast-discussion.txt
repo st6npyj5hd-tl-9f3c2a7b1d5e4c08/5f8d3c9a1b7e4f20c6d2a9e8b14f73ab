@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-23T20:07:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-24T03:42:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,26 +338,26 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-881
-FXUS66 KSGX 231840
+723
+FXUS66 KSGX 232357
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1140 AM PDT Tue Jun 23 2026
+457 PM PDT Tue Jun 23 2026
 
 .SYNOPSIS...
-Strengthening high pressure to the east will bring a warming trend
-through Wednesday with moderate HeatRisk for the deserts. Mid
-level moisture in southerly flow aloft will bring a slight chance
-of showers and thunderstorms for this afternoon through Wednesday
+Building high pressure will bring a warming trend through Wednesday,
+with moderate to high HeatRisk for the deserts. Mid level
+moisture in southerly flow aloft will bring a slight chance of
+showers and thunderstorms this afternoon through Wednesday
 afternoon for the mountains of San Bernardino and Riverside
 Counties east and northeastward across the deserts of southern
 California. This will be followed by a cooling trend for Thursday
-through the weekend. Southwest to west winds for the mountains and
-deserts will strengthen through Saturday with gusts on Saturday
-to 30 to 40 mph with gusts to 65 mph in the northern Coachella
-Valley below the San Gorgonio Pass.
+through the weekend. Southwest to west winds will strengthen for
+Thursday through Saturday in the mountains and deserts, with gusts
+on Saturday of 30 to 40 mph locally to 65 mph in the northern
+Coachella Valley below the San Gorgonio Pass.
 
 &&
 
@@ -365,67 +365,73 @@ Valley below the San Gorgonio Pass.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Thursday)...
-High pressure to the east will continue the warming trend today
-with slight additional warming of high temperatures on Wednesday.
-High temperatures on Wednesday will range from a few degrees above
-average near the coast to 4 to 8 degrees above average inland.
-High temperatures on Wednesday will range from the lower to mid
-70s near the coast to the 90s for the Inland Empire with 108 to
-112 for the lower deserts. Tonight will be much warmer as well
-with low temperatures for early Wednesday mostly in the 80s for
-the lower deserts. The marine layer will remain around 2000 feet
-deep with night and morning coastal low clouds extending inland
-into portions of the western valleys late each night.
+.Updated Aviation and Beaches Discussions...
 
-Southerly flow between a weak upper level low pressure system off
-the southern California coast and high pressure centered near El
-Paso will allow some mid level moisture to be drawn northward into
-portions of southern California into Wednesday. There is 20 to 30
-percent chance for showers and thunderstorms for this afternoon
-through Wednesday afternoon, mainly for the mountains of San
-Bernardino and Riverside Counties northeastward across the Mojave
-Desert. The ECMWF Extreme Forecast Index for precipitation has a
-large shift of tails for tonight through Wednesday afternoon for
-this area, most likely a reflection of a few relatively wetter
-ensemble members during the climatologically driest time of the
-year for portions of southern California.
+This afternoon...Mid-level moisture in southerly flow aloft is
+producing some high-based convective elements across the mtns and
+deserts of SoCal. This elevated convection could produce isolated
+dry lightning strikes and locally gusty winds. This could result
+in fire starts. See the Fire Weather discussion below.
 
-&&
+The marine layer is about 2000-2500 ft deep with a strong inversion
+so some low clouds are persisting at the beaches. The moisture
+aloft could disrupt the radiation cooling tonight so low cloud
+coverage may be less tonight than last night. Temperatures are
+near or a few degrees lower west of the mtns than at this time
+yesterday while the mtns and deserts are generally warmer by as
+much as 10 degrees in a few locations.
 
-.LONG TERM (Friday through Monday)...
-A low pressure system moving southward just off the coast of
-British Columbia will strengthen the onshore slow across southern
-California into the weekend. Southwest to west winds for the
-mountains and deserts during the afternoon and evening will
-strengthen for Thursday through Saturday with gusts on Saturday of
-30 to 40 mph with gusts to 65 mph in the northern Coachella
-Valley below the San Gorgonio Pass. The marine layer will deepen
-with night and morning coastal low clouds spreading farther into
-the valleys late each night.
+High pressure building in from the southeast will continue the warming
+trend through Wednesday with a minor drop in daytime high temperatures
+on Thursday. High temperatures on Wednesday will range from a few
+degrees above average near the coast to 4 to 8 degrees above average
+inland. High temperatures on Wednesday will range from the lower
+to mid 70s near the coast to the 90s for the Inland Empire with
+108 to 112 for the lower deserts. Tonight will be much warmer as
+well with low temperatures Wednesday morning mostly in the 80s
+for the lower deserts. The marine layer will remain around 2000
+feet deep with night and morning coastal low clouds extending
+inland into portions of the western valleys late each night. The
+mid-level moisture will continue to move into SoCal from the south
+but the disturbance moving over us today will be mostly to our
+north by tomorrow and the high pressure will increase stability
+making deep convection less likely tomorrow.
 
-There will be a cooling trend through the weekend with high
-temperatures on Sunday as much as 15 degrees below average for
-the mountains and inland valleys. High temperatures on Sunday
-will range from around 70 near the coast to mid 70s to lower 80s
-for the Inland Empire with the mid 90s to 102 for the lower
-deserts. High temperatures for Monday of next week will be a few
-degrees warmer.
+A low pressure system moving southward out of the Gulf of AK will
+strengthen the onshore slow across southern California into the
+weekend. Southwest to west winds for the mountains and deserts
+during the afternoon and evening will strengthen for Thursday
+through Saturday, with gusts on Saturday of 30 to 40 mph locally
+to 65 mph in the northern Coachella Valley below the San Gorgonio
+Pass. The marine layer will deepen with night and morning coastal
+low clouds spreading farther into the valleys late each night.
+
+The low pressure system will also bring a cooling trend through
+the weekend, with high temperatures on Sunday as much as 15
+degrees below average for the mountains and inland valleys. High
+temperatures on Sunday will range from around 70 near the coast to
+mid 70s to lower 80s for the Inland Empire with the mid 90s to
+102 for the lower deserts. High temperatures for next Monday and
+Tuesday will be marginally warmer.
+
 
 &&
 
 .AVIATION...
-230930Z...Coast/Valleys...A stronger inversion has kept the clouds
-in place along the coast into the late morning, but all TAF sites
-should see CIGs (currently based around 1700-1900ft MSL) clearing
-out by 1900-1930z. Low clouds with bases closer to 1400-1600ft MSL
-begin to fill back in after 03z Wednesday. Given increased mid level
-moisture in place, the marine layer may be patchier in coverage than
-previous nights, and take longer to fill in to some areas. Clouds
-scatter back off the coasts around 18z Wednesday.
+240000Z...Coast/Valleys...Patchy low clouds based 1300-1700 ft MSL
+are expected to return to coastal San Diego County after 03z Wed and
+coastal Orange County after 08z Wed. However, coverage should remain
+limited (especially in Orange County) with intermittent clearing
+possible into the early morning hours. 70-80% chance for cigs at
+KSAN and KCRQ, but only 50-60% chance at KSNA. 30% chance for clouds
+to spread into western valleys up to 20 miles inland. Regardless of
+coverage, low clouds should clear out of land areas by 18z Wed,
+though they may stick to San Diego County beaches through Wednesday
+afternoon.
 
 Mountains/Deserts...VFR conditions expected through the TAF period
-with periodic high clouds AOA 15000 ft MSL this afternoon/evening.
+with SCT-BKN high clouds AOA 15000 ft slowly decreasing in coverage
+through Wednesday.
 
 &&
 
@@ -435,11 +441,18 @@ No hazardous marine conditions are expected through Sunday.
 &&
 
 .BEACHES...
-Surf will increase this afternoon with the arrival of a 3 foot 15 to
-18 second period south swell from 190 to 210 degrees. Surf of 4 to 6
-ft is expected through Thursday. Expect locally hazardous swimming
-conditions and strong rip currents through the week. Please see the
-Beach Hazards Statement for more details.
+Surf will continue to increase this evening with the arrival of a 3
+foot 15 to 18 second period south swell from 190 to 210 degrees.
+Surf of 4 to 6 ft is expected through Thursday. Expect locally
+hazardous swimming conditions and strong rip currents through the
+week. See the Beach Hazards Statement for more details.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -447,9 +460,8 @@ Beach Hazards Statement for more details.
 CA...Beach Hazards Statement through Thursday evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Red Flag Warning from 5 PM this afternoon to 11 AM PDT Wednesday
-     for Victor Valley  -Apple Valley  -Lucerne Valley  -Johnson
-     Valley.
+     Red Flag Warning until 11 AM PDT Wednesday for Victor Valley  -
+     Apple Valley  -Lucerne Valley  -Johnson Valley.
 
      Extreme Heat Warning from 11 AM Wednesday to 8 PM PDT Thursday
      for San Diego County Deserts.
@@ -460,8 +472,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...Munyan
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
