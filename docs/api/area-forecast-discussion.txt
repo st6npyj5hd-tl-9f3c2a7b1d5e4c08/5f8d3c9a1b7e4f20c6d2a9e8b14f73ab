@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-25T14:35:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-25T20:02:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-709
-FXUS66 KSGX 251319
+555
+FXUS66 KSGX 251705
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-619 AM PDT Thu Jun 25 2026
+1000 AM PDT Thu Jun 25 2026
 
 .SYNOPSIS...
 A low pressure system from the northwest moving into the western
@@ -369,6 +369,8 @@ returning to near average some time late next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...updated aviation, marine, and beaches discussions...
 
 .SHORT TERM (Today through Saturday)...
 A low pressure system from the northwest moving into the western
@@ -415,19 +417,19 @@ time late next week.
 &&
 
 .AVIATION...
-250940Z...Coast/Valleys...Uniform low clouds with bases 1000-1700ft
-MSL have pushed in past the coast and adjacent valleys and are now
-spilling into the Inland Empire. Minor vis restrictions of 2-5SM
-will be possible where clouds intersect terrain. Low clouds over
-inland areas will begin to clear 15-17Z and coastal areas 16-18Z.
-Low clouds may linger over coastal San Diego through 20Z. Similar to
-slightly higher cigs are expected to return after 01-03Z Friday.
+251730Z...Coast/Valleys...Patchy low clouds to persist along
+beaches, but coastal airports will be scattered out through the
+afternoon. Low clouds around 2000 feet MSL will push ashore around
+01Z and eventually fill the coastal basin again overnight. Vis
+reduced inland 1-5SM with partial terrain obscuration 2000-3000 feet
+MSL. Scatter out Friday 16-18Z.
 
-Mountains/Deserts...VFR conditions expected through the TAF period.
-West-southwest winds become elevated along desert slopes and locally
-into deserts after 21Z. Expect gusts of 25-35 kts with gusts up to
-45 kts through the Banning Pass and into the northern Coachella
-Valley. MOD up/downdrafts will be possible in lee of mtns.
+Mountains/Deserts...Mostly clear and VFR conditions expected through
+Friday morning, except for coastal slopes shrouded in fog below 3500
+feet MSL 10-15Z Friday. West-southwest winds 25-35 kts gusts to 45
+kts through mountain passes and locally into deserts after 21Z,
+decreasing a little early Friday morning. Occasional MOD
+up/downdrafts in lee of mountains.
 
 &&
 
@@ -468,7 +470,7 @@ PZ...None.
 $$
 
 PUBLIC/FIRE WEATHER...17
-AVIATION/MARINE...Villafane
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
