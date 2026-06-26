@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-26T09:30:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-26T14:27:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,18 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-427
-FXUS66 KSGX 260718
+459
+FXUS66 KSGX 260934
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1218 AM PDT Fri Jun 26 2026
+234 AM PDT Fri Jun 26 2026
 
 .SYNOPSIS...
 The cooling trend will continue through Sunday with high
@@ -409,28 +407,29 @@ The marine layer will slowly decrease in depth through Thursday,
 but night and morning low clouds will still spread into portions
 of the inland valleys late each night through Thursday.
 
+
 &&
 
 .AVIATION...
-260530Z...Coast/Valleys...Patchy low clouds based 1600-2200 ft MSL
-are expanding in the lowlands, eventually reaching into the inland
-valleys by 08z, and partially filling in to the Inland Empire 07-
-13z. Minor vis reductions (3-6SM) expected for elevated inland
-valleys (KSBD, KRNM). Clouds clear toward the coastline 15-18z Fri
-with SKC expected for the afternoon. Patchy clouds with slightly
-higher bases are expected to develop near the coast around 01-04z
-Sat before pushing inland again.
+260930Z...Coast/Valleys...Low clouds based 1600-2000 ft MSL are
+covering the lowlands up to 20 miles inland and are slowly filling
+into the Inland Empire through 13z. Vis reductions (2-6SM) expected
+for elevated inland valleys (KSBD, KRNM). Clouds clear toward the
+coastline 15-18z this morning with SKC expected for the afternoon.
+Patchy clouds with slightly higher bases, 1800-2500 ft MSL, are
+expected to develop near the coast this evening (around 01-04z Sat),
+filling inland through 08z Sat then filling into the Inland Empire
+overnight.
 
 Mountains/Deserts...Mostly clear and VFR conditions expected through
-Friday evening, except for coastal slopes shrouded in fog below 3500
-feet MSL 10-15Z Friday. West-southwest winds gusting 20-30 kts gusts
-and up to 45 kts through mtn passes to remain localized through
-Friday morning before increasing after 21z. Gusts 25-40 kts to occur
-Friday evening in parts of desert valleys and slopes with gusts
-locally to 55 kts through the passes. There is a 25% chance for
-gusts exceeding 35 kts Friday evening at KPSP and higher chances in
-the vcnty, north and east of KPSP. Occasional MOD up/downdrafts in
-lee of mountains.
+tonight, except for coastal slopes shrouded in fog this morning.
+W/SW winds gusting 20-30 kts gusts and up to 45 kts through mtn
+passes to remain localized through this morning before increasing
+after 21z. Gusts 25-40 kts to occur this evening in parts of desert
+valleys and slopes with gusts locally to 55 kts through the passes.
+There is a 25% chance for gusts exceeding 35 kts this evening at
+KPSP and higher chances in the vcnty, north and east of KPSP. MOD
+up/downdrafts in lee of mountains.
 
 &&
 
@@ -442,18 +441,11 @@ expected through Wednesday.
 
 &&
 
-.FIRE WEATHER...
-Southwest to west winds for the mountains and deserts will gust to
-30 to 40 mph for this afternoon and evening with gusts to 55 mph
-in the northern Coachella Valley below the San Gorgonio Pass.
-Lowest humidity for this afternoon and early evening for the Apple
-and Lucerne Valleys will fall to 10 to 15 percent and for the
-lower deserts to around 10 percent. This will result in near
-critical fire weather conditions for this afternoon and early
-evening for the deserts onto the desert slopes of the mountains.
-Stronger winds will continue for Saturday afternoon and evening
-for the mountains and deserts, but with lowest humidity for the
-deserts on Saturday recovering to 15 to 25 percent.
+.BEACHES...
+While the long-period south swell has mostly diminished, a brief
+uptick in period (15-17 seconds) this afternoon and evening will
+create locally elevated surf up to 5 feet and higher rip current
+risk along south facing beaches.
 
 &&
 
@@ -461,16 +453,17 @@ deserts on Saturday recovering to 15 to 25 percent.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory from 11 AM Friday to 5 AM PDT Sunday for Apple and
-     Lucerne Valleys.
+CA...Wind Advisory from 11 AM this morning to 5 AM PDT Sunday for
+     Apple and Lucerne Valleys.
 
-     Wind Advisory from 5 PM Friday to 11 AM PDT Sunday for San Diego
-     County Deserts.
+     Wind Advisory from 5 PM this afternoon to 11 AM PDT Sunday for
+     San Diego County Deserts.
 
-     Wind Advisory from 11 AM Friday to 5 PM PDT Sunday for San
+     Wind Advisory from 11 AM this morning to 5 PM PDT Sunday for San
      Gorgonio Pass near Banning.
 
 PZ...None.
@@ -479,8 +472,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...17
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
