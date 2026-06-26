@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-25T20:02:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-26T03:53:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,30 +339,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-555
-FXUS66 KSGX 251705
+075
+FXUS66 KSGX 252327
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1000 AM PDT Thu Jun 25 2026
+427 PM PDT Thu Jun 25 2026
 
 .SYNOPSIS...
-A low pressure system from the northwest moving into the western
-states will bring stronger onshore flow and a cooling trend through
-the weekend with Sunday high temperatures near the coolest for
-the date for a few locations. Southwest to west winds for the
-mountains and deserts during the afternoon and evening will
-strengthen through Saturday, then weaken for early next week. The
-marine layer will deepen into the weekend with night and morning
-coastal low clouds extending well inland and onto the coastal
-slopes of the mountains by early Sunday with some patchy late
-night and early morning drizzle for the coast and valleys over the
-weekend. Then gradually warmer next week with high temperatures
-returning to near average some time late next week.
+Windy over the mountains and into the deserts, well below average
+temperatures across Southern California, and a deeper marine layer
+can be expected this weekend. Areas of drizzle are possible, with
+Saturday morning as the most likely day. Conditions will gradually
+warm into next week.
 
 &&
 
@@ -370,66 +365,57 @@ returning to near average some time late next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...updated aviation, marine, and beaches discussions...
+.Updated Aviation Discussion for the 00z TAF Package...
 
-.SHORT TERM (Today through Saturday)...
-A low pressure system from the northwest moving into the western
-states will bring stronger onshore flow across southern
-California through the weekend with the strongest onshore flow on
-Saturday. This will spread cooling inland through the weekend.
-High temperatures for today for the coast, valleys, and mountains
-will be a few to around 5 degrees below average with the lower
-deserts a few to around 5 degrees above average. High temperatures
-for today will range from around 70 near the coast to the 80s to
-around 90 for the Inland Empire with 106 to 112 for the lower
-deserts.
+A unseasonable trough of low pressure is expected to dig into the
+Great Basin this weekend. This will increase the onshore pressure
+gradient, resulting in stronger westerly winds on the desert
+mountain slopes into the deserts, well below average temperatures,
+and a deeper marine layer. By Sunday, highs are expected to be 7 to
+9 degrees below average at the coast and low deserts and 15 to 20
+degrees below average in the valleys, mountains, and High Desert.
+There is also a potential for patchy drizzle west of the mountains,
+most likely on Saturday morning.
 
-With the cooling, high temperatures on Saturday will be as much as
-10 to 15 degrees below average for the mountains and inland
-valleys. High temperatures on Saturday will range from around 70
-near the coast to the mid 70s to lower 80s for the Inland Empire
-with the mid 90s to 103 for the lower deserts.
+Winds will begin to increase today on the desert mountain slopes and
+in the deserts and strengthen into Saturday. Wind gusts Friday will
+be 35 to 50 mph, combined with relative humidity 7 to 15 percent in
+the deserts will create periods of near critical to locally critical
+fire weather conditions in the deserts. For more information on fire
+weather concerns, see the Fire Weather section below. Winds are
+expected to peak in strength on Saturday afternoon and evening, with
+peak gusts 50 to 65 mph with locally higher gusts possible below the
+San Gorgonio Pass. Winds will decrease Sunday into next week.
 
-Onshore flow will strengthen through Saturday with southwest to
-west winds for the mountains and deserts during Saturday
-afternoon and evening gusting to 30 to 40 mph with gusts to 75 mph
-in the northern Coachella Valley below the San Gorgonio Pass.
+Global ensembles are indicating broad scale weaker troughing may
+linger into the end of next week. Even with the lingering troughing,
+heights will rise leading to a gradual warming. About 27 percent of
+ensemble guidance is indicating a ridge may begin to build back in
+by next weekend. By next Thursday, highs will be 3 to 7 degrees
+below average. Additionally, the weak troughing will maintain a
+deeper marine layer into at least the middle of next week.
 
-The marine layer will deepen more slowly into Friday, then more
-rapidly for the weekend with night and morning coastal low clouds
-extending into the western valleys early today, into portions of
-the inland valleys for early Friday, inland across much of the
-valleys for early Saturday, and onto the coastal slopes of the
-mountains for early Sunday. There could be some patchy drizzle
-from this deeper marine layer over the weekend.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-The cooling trend will continue into Sunday with high temperatures
-on Sunday ranging from around 70 near the coast to the 70s for the
-Inland Empire with the 90s for the lower deserts. High
-temperatures for some locations on Sunday could be near the
-coolest on record for the date. A slow warming trend will begin
-on Monday with high temperatures returning to near average some
-time late next week.
 
 &&
 
 .AVIATION...
-251730Z...Coast/Valleys...Patchy low clouds to persist along
-beaches, but coastal airports will be scattered out through the
-afternoon. Low clouds around 2000 feet MSL will push ashore around
-01Z and eventually fill the coastal basin again overnight. Vis
-reduced inland 1-5SM with partial terrain obscuration 2000-3000 feet
-MSL. Scatter out Friday 16-18Z.
+252330Z...Coast/Valleys...Low clouds based near or just below 2000
+ft MSL will return to coastal San Diego County starting 01-03z.
+Clouds spread northward and inland overnight, filling into most of
+the coastal basin by 11-13z. Portions of the Inland Empire may
+remain SKC. Minor vis reductions (3-6SM) expected for elevated
+inland valleys (KSBD, KRNM). Clouds clear toward the coastline 15-
+18z Fri with SKC expected for the afternoon.
 
 Mountains/Deserts...Mostly clear and VFR conditions expected through
 Friday morning, except for coastal slopes shrouded in fog below 3500
 feet MSL 10-15Z Friday. West-southwest winds 25-35 kts gusts to 45
-kts through mountain passes and locally into deserts after 21Z,
-decreasing a little early Friday morning. Occasional MOD
-up/downdrafts in lee of mountains.
+kts through mountain passes and locally into deserts currently.
+Occasional MOD up/downdrafts in lee of mountains. Winds slowly
+weaken 06-12z. West-southest winds return slightly stronger Friday
+afternoon. Widespread gusts 25-35 kts with gusts 35-50 kts along
+desert slopes and through passes (locally higher through the Banning
+Pass).
 
 &&
 
@@ -440,28 +426,38 @@ No hazardous marine conditions are expected through Tuesday.
 
 .BEACHES...
 A long-period south swell will continue to bring surf of 3 to 6 feet
-today with the highest surf on south facing beaches. See the Beach
-Hazards Statement for details.
+through this evening with the highest surf on south facing beaches.
+See the Beach Hazards Statement for details.
 
 &&
 
 .FIRE WEATHER...
-Lowest daytime humidity for the deserts will fall to around 10
-percent for today and Friday during the afternoon and early
-evening. That low humidity combined with southwest to west winds
-gusty to 25 to 35 mph during the afternoon and evening will bring
-near critical fire weather conditions for the deserts onto the
-desert slopes of the mountains during the afternoon and early
-evening for today and Friday.
+
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement until 10 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+     Wind Advisory from 11 AM Friday to 5 AM PDT Sunday for Apple and
+     Lucerne Valleys.
 
      Extreme Heat Warning until 8 PM PDT this evening for San Diego
      County Deserts.
+
+     Wind Advisory from 5 PM Friday to 11 AM PDT Sunday for San Diego
+     County Deserts.
+
+     Wind Advisory from 11 AM Friday to 5 PM PDT Sunday for San
+     Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -469,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC/FIRE WEATHER...CO
+AVIATION/MARINE...KW
 
 
 </pre>
