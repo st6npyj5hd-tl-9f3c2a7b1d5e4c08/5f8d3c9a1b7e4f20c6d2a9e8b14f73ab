@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T13:45:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T19:22:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-239
-FXUS66 KSGX 270941
+559
+FXUS66 KSGX 271744
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-241 AM PDT Sat Jun 27 2026
+1044 AM PDT Sat Jun 27 2026
 
 .SYNOPSIS...
 Windy on the desert mountain slopes and into the deserts, well below
@@ -366,7 +364,7 @@ of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation Discussion...
+...Updated Aviation/Marine Discussion...
 
 This morning, the marine layer is about 3,000 ft deep and
 satellite imagery shows low clouds already as far inland as the
@@ -405,38 +403,32 @@ presence each night and morning through the end of next week. The
 current solutions indicate that high temperatures next Saturday
 will be slightly to as much as 12 degrees below normal.
 
+
 &&
 
 .AVIATION...
-270900Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL have
-expanded to the valley foothills and are filling into the Inland
-Empire. Patchy vis reductions (3-6SM) for highest inland valleys
-(Hemet, Ramona...) and foothills. Model guidance suggests a 60%
-chance that clouds in SD Co. begin scattering out from inland to the
-coast very early - starting around 11z and being mostly scattered
-out by 15z. Clouds scatter out elsewhere in the coastal basin 14-
-18z. Low clouds begin redeveloping along the SD County coast after
-00z Sun with bases 2-3 kft MSL, expanding into the rest of the
-coastal basin 03-08z. VIS reductions mainly along foothills.
+271745Z...Coast/Valleys...Slow to no clearing looks increasingly
+possible along the immediate coast this afternoon. Most likely time
+for any clearing will be 20-23Z Sat. Low clouds will begin to move
+inland after 00Z Sun with bases 2000-3000 ft MSL, reaching KONT/KSBD
+by 07Z. VIS reductions along mountain foothills where clouds meet
+terrain. Low clouds expected to clear the valleys 17-19Z Sun, with
+60% chance of only partial and intermittent clearing along the
+immediate coast Sun afternoon.
 
-Mountains/Deserts...Reduced vis and fog where clouds meet terrain
-along mountain foothills up to 5 kft MSL tonight and Saturday night.
-Otherwise, mostly clear and VFR conditions for higher mountains,
-desert slopes and lower deserts through early Sunday.
-
-Locally strong westerly wind gusts 20-35 kts (up to 50 kts through
-the Banning Pass) persist along desert slopes. West winds increase
-once again after 21z Sat. Top gusts peak Saturday evening and night,
-reaching 35-55 kts along desert slopes and up to 65 kts through the
-Banning Pass. MOD up/downdrafts in lee of mountains.
+Mountains/Deserts...West winds increase after 21z Sat. Peak gusts of
+35-55 kt expected on the desert slopes into the deserts with local
+gusts to 65 kt through the San Gorgonio pass. MOD up/downdrafts in
+lee of mountains. Winds decrease and become more localized 06-09Z
+Sun.
 
 &&
 
 .MARINE...
-Breezy NW winds gusting over 20 kts this afternoon and evening near
-San Clemente Island may create hazardous conditions to small craft.
-Otherwise, no additional hazardous marine conditions are expected
-through Thursday.
+Breezy NW winds occasionally gusting over 20 kt this afternoon and
+evening near San Clemente Island may create hazardous conditions to
+small craft. Otherwise, no additional hazardous marine conditions
+are expected through Friday.
 
 &&
 
@@ -458,6 +450,7 @@ will continue the upward trend into Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -477,7 +470,7 @@ PZ...None.
 $$
 
 PUBLIC/FIRE WEATHER...PG
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...CO
 
 
 </pre>
