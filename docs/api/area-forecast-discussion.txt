@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T08:37:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T13:45:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-460
-FXUS66 KSGX 270809
+239
+FXUS66 KSGX 270941
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-109 AM PDT Sat Jun 27 2026
+241 AM PDT Sat Jun 27 2026
 
 .SYNOPSIS...
 Windy on the desert mountain slopes and into the deserts, well below
@@ -363,6 +365,8 @@ of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...Updated Aviation Discussion...
 
 This morning, the marine layer is about 3,000 ft deep and
 satellite imagery shows low clouds already as far inland as the
@@ -404,42 +408,35 @@ will be slightly to as much as 12 degrees below normal.
 &&
 
 .AVIATION...
-270300Z...Coast/Valleys...Mostly SKC this evening, even off the
-coast. Model guidance is suggesting very patchy cloud development
-near the coast through around 05z before coverage slowly starts
-increasing and spreading inland (including the Inland Empire) up to
-the foothills through 09z. Bases 1800-2500 ft MSL. Even at maximum
-coverage (around 10z), ceilings will be patchy, especially in SD
-County. Patchy vis reductions (3-6SM) for highest inland valleys
-(Hemet, Ramona...) and foothills with cigs. Clouds scatter back
-toward the coastline 14-18z Sat. Low clouds begin redeveloping along
-the SD County coast after 01z Sun with similar bases.
+270900Z...Coast/Valleys...Low clouds based 2000-2500 ft MSL have
+expanded to the valley foothills and are filling into the Inland
+Empire. Patchy vis reductions (3-6SM) for highest inland valleys
+(Hemet, Ramona...) and foothills. Model guidance suggests a 60%
+chance that clouds in SD Co. begin scattering out from inland to the
+coast very early - starting around 11z and being mostly scattered
+out by 15z. Clouds scatter out elsewhere in the coastal basin 14-
+18z. Low clouds begin redeveloping along the SD County coast after
+00z Sun with bases 2-3 kft MSL, expanding into the rest of the
+coastal basin 03-08z. VIS reductions mainly along foothills.
 
-Mountains/Deserts...Mostly clear and VFR conditions expected through
-Saturday evening. Gusts 25-40 kts to occur this evening for deserts
-and desert slopes with gusts locally to 55 kts through wind-prone
-slopes and passes. MOD up/downdrafts in lee of mountains. Winds
-slowly weaken 06-12z Sat, remaining locally strong (25-40 kts) along
-desert slopes and through passes. West winds increase once again -
-even stronger than this evening - after 21z Sat. Top gusts peak
-Saturday evening, reaching 35-55 kts along desert slopes and up to
-65 kts through the Banning Pass.
+Mountains/Deserts...Reduced vis and fog where clouds meet terrain
+along mountain foothills up to 5 kft MSL tonight and Saturday night.
+Otherwise, mostly clear and VFR conditions for higher mountains,
+desert slopes and lower deserts through early Sunday.
+
+Locally strong westerly wind gusts 20-35 kts (up to 50 kts through
+the Banning Pass) persist along desert slopes. West winds increase
+once again after 21z Sat. Top gusts peak Saturday evening and night,
+reaching 35-55 kts along desert slopes and up to 65 kts through the
+Banning Pass. MOD up/downdrafts in lee of mountains.
 
 &&
 
 .MARINE...
-Breezy NW winds gusting over 20 kts Saturday afternoon and evening
-near San Clemente Island may create hazardous conditions to small
-craft. Otherwise, no additional hazardous marine conditions are
-expected through Wednesday.
-
-&&
-
-.BEACHES...
-While the long-period south swell has mostly diminished, a brief
-uptick in period (15-17 seconds) this evening will create locally
-elevated surf up to 5 feet and higher rip current risk along south
-facing beaches.
+Breezy NW winds gusting over 20 kts this afternoon and evening near
+San Clemente Island may create hazardous conditions to small craft.
+Otherwise, no additional hazardous marine conditions are expected
+through Thursday.
 
 &&
 
@@ -460,7 +457,6 @@ will continue the upward trend into Sunday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
