@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-26T19:50:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T03:36:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-277
-FXUS66 KSGX 261825
+700
+FXUS66 KSGX 270319
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1125 AM PDT Fri Jun 26 2026
+819 PM PDT Fri Jun 26 2026
 
 .SYNOPSIS...
 Windy on the desert mountain slopes and into the deserts, well below
@@ -363,6 +361,8 @@ Sunday mornings. Conditions will gradually warm into next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+.Updated Aviation Discussion...
 
 A unseasonable trough of low pressure is still on track to dig into
 the Great Basin late this weekend. This will increase the onshore
@@ -398,21 +398,27 @@ the week.
 &&
 
 .AVIATION...
-261800Z...Coast/Valleys...SKC through this afternoon. Patchy low
-clouds based 1800-2500 ft MSL will push back into coastal areas 00-
-03z Sat. Clouds quickly push inland late Friday evening and
-overnight, filling the coastal basin by 09-10z Sat. Clouds scatter
-back toward the coastline 14-18z Sat.
+270300Z...Coast/Valleys...Mostly SKC this evening, even off the
+coast. Model guidance is suggesting very patchy cloud development
+near the coast through around 05z beforfor the 06z TAF Packagee
+coverage slowly starts increasing and spreading inland (including
+the Inland Empire) up to the foothills through 09z. Bases
+1800-2500 ft MSL. Even at maximum coverage (around 10z), ceilings
+will be patchy, especially in SD County. Patchy vis reductions
+(3-6SM) for highest inland valleys (Hemet, Ramona...) and
+foothills with cigs. Clouds scatter back toward the coastline
+14-18z Sat. Low clouds begin redeveloping along the SD County
+coast after 01z Sun with similar bases.
 
 Mountains/Deserts...Mostly clear and VFR conditions expected through
-Saturday morning. West-wouthwest winds strengthen after 21z this
-afternoon. Gusts 25-40 kts to occur this evening for deserts and
-desert slopes with gusts locally to 55 kts through wind-prone slopes
-and passes. There is a 25% chance for gusts exceeding 35 kts this
-evening at KPSP and higher chances in the vcnty, north and east of
-KPSP. MOD up/downdrafts in lee of mountains. Winds slowly weaken 06-
-12z Sat, but gusts 25-40 kts will continue along desert slopes and
-through passes.
+Saturday evening. Gusts 25-40 kts to occur this evening for deserts
+and desert slopes with gusts locally to 55 kts through wind-prone
+slopes and passes. MOD up/downdrafts in lee of mountains. Winds
+slowly weaken 06-12z Sat, remaining locally strong (25-40 kts) along
+desert slopes and through passes. West winds increase once again -
+even stronger than this evening - after 21z Sat. Top gusts peak
+Saturday evening, reaching 35-55 kts along desert slopes and up to
+65 kts through the Banning Pass.
 
 &&
 
@@ -426,23 +432,22 @@ expected through Wednesday.
 
 .BEACHES...
 While the long-period south swell has mostly diminished, a brief
-uptick in period (15-17 seconds) this afternoon and evening will
-create locally elevated surf up to 5 feet and higher rip current
-risk along south facing beaches.
+uptick in period (15-17 seconds) this evening will create locally
+elevated surf up to 5 feet and higher rip current risk along south
+facing beaches.
 
 &&
 
 .FIRE WEATHER...
-Southwest to west winds for the mountains and deserts will gust to
-35 to 55 mph this afternoon. Lowest humidity for this afternoon and
-early evening for the Apple and Lucerne Valleys will fall to 10 to
-15 percent and for the lower deserts to 6-10 percent. This will
-result in near critical to locally critical fire weather conditions
-for this afternoon and early evening for the deserts onto the desert
-slopes of the mountains. Stronger winds will continue for Saturday
-afternoon and evening for the mountains and deserts, but with lowest
-humidity for the deserts on Saturday recovering to 15 to 25
-percent.
+Southwest to west winds for the mountains and deserts are gusting
+35 to 55 mph this evening. Lowest humidity this evening in the
+deserts locally below 10%. As a result, there is near critical to
+locally critical fire weather conditions this evening for the
+deserts onto the desert slopes of the mountains. Stronger winds
+will continue for Saturday afternoon and evening for the mountains
+and deserts, but with lowest humidity for the deserts on Saturday
+recovering to 15 to 25 percent.
+
 
 &&
 
@@ -457,8 +462,8 @@ encouraged to report significant weather conditions.
 CA...Wind Advisory until 5 AM PDT Sunday for Apple and Lucerne
      Valleys.
 
-     Wind Advisory from 5 PM this afternoon to 11 AM PDT Sunday for
-     San Diego County Deserts.
+     Wind Advisory until 11 AM PDT Sunday for San Diego County
+     Deserts.
 
      Wind Advisory until 5 PM PDT Sunday for San Gorgonio Pass near
      Banning.
@@ -470,7 +475,7 @@ PZ...None.
 $$
 
 PUBLIC/FIRE WEATHER...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
