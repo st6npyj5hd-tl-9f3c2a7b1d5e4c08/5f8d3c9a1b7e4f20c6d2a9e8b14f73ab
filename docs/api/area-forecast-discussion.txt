@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-27T19:22:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-28T03:59:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,24 +339,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-559
-FXUS66 KSGX 271744
+264
+FXUS66 KSGX 280334
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1044 AM PDT Sat Jun 27 2026
+834 PM PDT Sat Jun 27 2026
 
 .SYNOPSIS...
-Windy on the desert mountain slopes and into the deserts, well below
-average temperatures across Southern California, and a deeper marine
-layer this weekend. Areas of drizzle are possible Sunday morning.
-Conditions will gradually warm through next week but daytime high
-temperatures will likely remain below seasonal averages for most
-of next week.
+A broad low pressure system will continue to deepen the marine
+layer and keep temperatures below average for the next several
+days. Morning low clouds through the coastal basin each day with a
+chance for a few fully overcast days at the coastline. Strong
+winds will continue through the weekend for deserts and desert
+slopes, peaking today and slowly weakening over the next several
+days.
 
 &&
 
@@ -366,83 +371,71 @@ COUNTIES...
 
 ...Updated Aviation/Marine Discussion...
 
-This morning, the marine layer is about 3,000 ft deep and
-satellite imagery shows low clouds already as far inland as the
-coastal mtn slopes. Westerly winds are gusting 25-45 mph in
-portions of the deserts and desert mtn slopes. The strongest wind
-gust reported in the last hour is 59 mph at Whitewater (2500 ft)
-on the north side of the San Gorgonio Pass a few miles northwest
-of Palm Springs.
+Visible satellite imagery reveals a battle early this afternoon
+between the typical retreat of low clouds toward the coastline and a
+robust coastal eddy pushing the other way. As a result, low clouds
+may linger through the afternoon at the immediate SD County
+coastline. Regardless of how that plays out, cool and breezy
+conditions will dominate the region this weekend along with
+increased cloud cover for the coastal basin as an unseasonably
+deep upper trough over the PNW makes its presence known.
+Temperatures will be around 5 degrees below average at the coast
+and 5 to 15 degrees below average for inland areas today. For
+Sunday, those values drop to 5 to 10 and 10 to 20 degrees below
+average, respectively. In fact, temperatures may still be slightly
+overdone as models are struggling to deal with this anomalously
+cool pattern for late June. Additionally, a deepening marine layer
+may allow for drizzle at the coast and locally into valleys
+Sunday morning.
 
-A large low pressure system moving into the Pacific Northwest will
-dominate our weather pattern through next week. It will bring
-stronger onshore flow resulting in gusty westerly winds in the
-deserts and on the desert mtn slopes along with well below average
-temperatures, and a deep marine layer. By Sunday, daytime high
-temperatures will be 7 to 9 degrees below average near the coast
-and low deserts, and 15 to 20 degrees below average in the
-valleys, mountains, and High Desert. As the marine layer deepens,
-there is also a potential for patchy drizzle west of the
-mountains Sunday morning.
+The main story for the deserts this weekend will be the wind.
+West-southwest winds are expected to peak in strength this evening
+with widespread gusts 35-55 mph and local gusts exceeding 65 mph
+along desert slopes and through the San Gorgonio Pass. See the
+Wind Advisory for more details. Winds will be slightly weaker on
+Sunday as the core of the upper trough begins to progress eastward
+toward the High Plains.
 
-The strong winds and low relative humidity will create periods of near
-critical to locally critical fire weather conditions in the deserts
-and on the desert slopes of the mountains. For more information on
-fire weather concerns, see the Fire Weather section below. Winds
-will become more widespread and peak in strength this afternoon
-and evening, with peak gusts 50 to 65 mph below the San Gorgonio
-Pass. Winds will weaken Sunday into next week.
-
-Model guidance is in good agreement through the middle of next
-week with respect to the synoptic pattern. Even beyond Wednesday,
-it seems likely that SoCal will remain under the influence of a
-(weakening) trough of low pressure. Forecast details are more
-uncertain for later next week but it is more likely than not that
-we will remain cooler than normal with a significant marine layer
-presence each night and morning through the end of next week. The
-current solutions indicate that high temperatures next Saturday
-will be slightly to as much as 12 degrees below normal.
+Models are in strong agreement that reinforcing shortwaves will keep
+the longwave troughing pattern in place over the western CONUS
+through next week. This will keep temps cool through the forecast
+period with strong marine layer influence for the coastal basin and
+breezy conditions for the deserts. A shortwave is expected to round
+the base of the trough sometime late Monday into Tuesday. There is
+some discrepancy in the exact track and strength of this shortwave,
+but it may briefly reinforce already elevated winds for the deserts.
+The longwave trough is expected to slowly diminish in strength by
+late next week, allowing for a slow warming trend. Even so, the mean
+of the ensembles indicates temperatures and upper heights will
+remain at least slightly below average through next weekend.
 
 
 &&
 
 .AVIATION...
-271745Z...Coast/Valleys...Slow to no clearing looks increasingly
-possible along the immediate coast this afternoon. Most likely time
-for any clearing will be 20-23Z Sat. Low clouds will begin to move
-inland after 00Z Sun with bases 2000-3000 ft MSL, reaching KONT/KSBD
-by 07Z. VIS reductions along mountain foothills where clouds meet
-terrain. Low clouds expected to clear the valleys 17-19Z Sun, with
-60% chance of only partial and intermittent clearing along the
-immediate coast Sun afternoon.
+280330Z...Coast/Valleys...Low clouds based 1500-2000 ft MSL are
+covering more than 10 miles inland of southern OC and San Diego
+County. Most of the coastal basin, including KONt/KSBD to have cigs
+by 07z. VIS reductions along mountain foothills where clouds meet
+terrain. Bases lift early Sun, around 13z, above 2000 ft MSL and
+clear the valleys 17-19Z Sun, with a 60% chance of only partial and
+intermittent clearing along the immediate coast Sun afternoon.
+Clouds fill inland after 01z Mon with similar bases.
 
-Mountains/Deserts...West winds increase after 21z Sat. Peak gusts of
-35-55 kt expected on the desert slopes into the deserts with local
-gusts to 65 kt through the San Gorgonio pass. MOD up/downdrafts in
-lee of mountains. Winds decrease and become more localized 06-09Z
-Sun.
+Mountains/Deserts...West winds currently gusting 25-50 kt on the
+desert slopes into the deserts with local gusts to 55 kt through the
+San Gorgonio pass. MOD up/downdrafts in lee of mountains. Winds
+decrease and become more localized 06-10Z Sun. Winds re-strengthen
+Sunday afternoon after 22z - though not as strong - gusting 25-45
+kts along the desert slopes.
 
 &&
 
 .MARINE...
-Breezy NW winds occasionally gusting over 20 kt this afternoon and
-evening near San Clemente Island may create hazardous conditions to
-small craft. Otherwise, no additional hazardous marine conditions
-are expected through Friday.
-
-&&
-
-.FIRE WEATHER...
-This morning, westerly winds are gusting 25 to 45 mph in portions
-of the lower deserts where humidities are 15-20 percent. The winds
-are stronger (gusting as high as 55 mph near the east end of the
-San Gorgonio Pass) but humidities in those areas are much higher.
-Near critical to locally critical fire weather conditions will
-continue for portions of the deserts and desert slopes of the
-mountains. The strong winds will continue for this afternoon and
-evening in the same areas, but with lowest humidity for the
-deserts this afternoon recovering to 15 to 25 percent. Humidity
-will continue the upward trend into Sunday.
+Breezy NW winds occasionally gusting around 20 kt this evening near
+San Clemente Island may create hazardous conditions to small craft.
+Otherwise, no additional hazardous marine conditions are expected
+through Friday.
 
 &&
 
@@ -457,10 +450,10 @@ encouraged to report significant weather conditions.
 CA...Wind Advisory until 5 AM PDT Sunday for Apple and Lucerne
      Valleys.
 
-     Wind Advisory until 11 AM PDT Sunday for San Diego County
+     Wind Advisory until 11 PM PDT Sunday for San Diego County
      Deserts.
 
-     Wind Advisory until 5 PM PDT Sunday for San Gorgonio Pass near
+     Wind Advisory until 2 AM PDT Monday for San Gorgonio Pass near
      Banning.
 
 PZ...None.
@@ -469,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...PG
-AVIATION/MARINE...CO
+PUBLIC...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
