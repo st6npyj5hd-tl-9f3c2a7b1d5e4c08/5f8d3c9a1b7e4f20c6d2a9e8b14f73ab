@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-28T03:59:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-28T08:54:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,22 +346,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-264
-FXUS66 KSGX 280334
+517
+FXUS66 KSGX 280819
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-834 PM PDT Sat Jun 27 2026
+119 AM PDT Sun Jun 28 2026
 
 .SYNOPSIS...
-A broad low pressure system will continue to deepen the marine
-layer and keep temperatures below average for the next several
-days. Morning low clouds through the coastal basin each day with a
-chance for a few fully overcast days at the coastline. Strong
-winds will continue through the weekend for deserts and desert
-slopes, peaking today and slowly weakening over the next several
-days.
+Extensive low pressure over the western states will continue to
+deepen the marine layer and keep temperatures below average
+through this week. Morning low clouds over the coastal basin each
+day with a chance for a few fully overcast days at the beaches.
+Strong winds will continue for the deserts and desert slopes,
+peaking today and slowly weakening over the next several days.
 
 &&
 
@@ -369,46 +368,32 @@ days.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...Updated Aviation/Marine Discussion...
+This morning...The marine layer remains about 3,500 ft deep with
+low clouds covering the coastal basin and extending to the top of
+the Cajon Pass in San Bernardino County and into the Borrego
+Desert near Jacumba in southeast San Diego County. Patchy drizzle
+will continue until about mid-morning west of the mountains.
 
-Visible satellite imagery reveals a battle early this afternoon
-between the typical retreat of low clouds toward the coastline and a
-robust coastal eddy pushing the other way. As a result, low clouds
-may linger through the afternoon at the immediate SD County
-coastline. Regardless of how that plays out, cool and breezy
-conditions will dominate the region this weekend along with
-increased cloud cover for the coastal basin as an unseasonably
-deep upper trough over the PNW makes its presence known.
-Temperatures will be around 5 degrees below average at the coast
-and 5 to 15 degrees below average for inland areas today. For
-Sunday, those values drop to 5 to 10 and 10 to 20 degrees below
-average, respectively. In fact, temperatures may still be slightly
-overdone as models are struggling to deal with this anomalously
-cool pattern for late June. Additionally, a deepening marine layer
-may allow for drizzle at the coast and locally into valleys
-Sunday morning.
+An extensive low pressure system moving slowly inland to our north through
+Monday will be followed by a reinforcing shortwave trough on Tuesday.
+Low pressure will dominate the pattern over the western US. It
+will maintain cooler-than-normal conditions into next weekend, with
+a deep marine layer and widespread low clouds in the coastal basin
+during the nights and mornings. Temperatures will be around 5 to
+10 degrees below average at the coast and 10 to 20 degrees below
+average for inland areas today. The low pressure system will
+continue to bring strong westerly winds in and below mtn passes on
+the desert slopes and adjacent desert areas. The winds peaked this
+evening with gusts 35-45 mph locally 65-70 mph through the San
+Gorgonio Pass. Winds will gradually weaken into early Monday. See the
+Wind Advisory for more details.
 
-The main story for the deserts this weekend will be the wind.
-West-southwest winds are expected to peak in strength this evening
-with widespread gusts 35-55 mph and local gusts exceeding 65 mph
-along desert slopes and through the San Gorgonio Pass. See the
-Wind Advisory for more details. Winds will be slightly weaker on
-Sunday as the core of the upper trough begins to progress eastward
-toward the High Plains.
-
-Models are in strong agreement that reinforcing shortwaves will keep
-the longwave troughing pattern in place over the western CONUS
-through next week. This will keep temps cool through the forecast
-period with strong marine layer influence for the coastal basin and
-breezy conditions for the deserts. A shortwave is expected to round
-the base of the trough sometime late Monday into Tuesday. There is
-some discrepancy in the exact track and strength of this shortwave,
-but it may briefly reinforce already elevated winds for the deserts.
-The longwave trough is expected to slowly diminish in strength by
-late next week, allowing for a slow warming trend. Even so, the mean
-of the ensembles indicates temperatures and upper heights will
-remain at least slightly below average through next weekend.
-
+Models are in good agreement through Friday with with respect to
+the synoptic pattern before beginning to diverge next weekend as
+the trough is replaced over SoCal by high pressure building in
+from the southeast. Temperatures will gradually warm through the
+week but remain generally below normal, possibly rising to a few
+degrees above normal in the deserts next Sunday.
 
 &&
 
@@ -447,10 +432,10 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 5 AM PDT Sunday for Apple and Lucerne
-     Valleys.
+CA...Wind Advisory until 5 AM PDT early this morning for Apple and
+     Lucerne Valleys.
 
-     Wind Advisory until 11 PM PDT Sunday for San Diego County
+     Wind Advisory until 11 PM PDT this evening for San Diego County
      Deserts.
 
      Wind Advisory until 2 AM PDT Monday for San Gorgonio Pass near
@@ -462,7 +447,7 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
+PUBLIC...PG
 AVIATION/MARINE...Westerink
 
 
