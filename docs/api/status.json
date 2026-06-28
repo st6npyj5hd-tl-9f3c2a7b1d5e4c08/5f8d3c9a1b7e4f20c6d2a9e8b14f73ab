@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-28T08:54:05.993196Z",
+  "generated_at_utc": "2026-06-28T13:51:04.266134Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -16,34 +16,34 @@
       "logical_name": "area-forecast-discussion",
       "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
       "output_path": "/api/area-forecast-discussion.txt",
-      "success": true,
-      "http_status": 200,
-      "content_type": "text/html; charset=UTF-8",
-      "bytes_written": 27973,
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
       "sha256": "2ad4283558e65cd66a9c564ac129431217614cb199d1039d2db81c4970a83545",
-      "error": null
+      "error": "Request timed out"
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": true,
-      "http_status": 200,
-      "content_type": "text/xml;charset=UTF-8",
-      "bytes_written": 11244,
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
       "sha256": "3eb93ee9d44b48fd81c473779c931a9edacfabf22be0003b1760795cc35c19ee",
-      "error": null
+      "error": "Request timed out"
     },
     {
       "logical_name": "hourly-forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&FcstType=digitalDWML",
       "output_path": "/api/hourly-forecast.dwml",
-      "success": true,
-      "http_status": 200,
-      "content_type": "application/xml",
-      "bytes_written": 59010,
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
       "sha256": "2591ba1936c0b4882ebd80dc1388b1d3fad8e2a903579f3a4963a2bc07a50ce2",
-      "error": null
+      "error": "Request timed out"
     }
   ]
 }
