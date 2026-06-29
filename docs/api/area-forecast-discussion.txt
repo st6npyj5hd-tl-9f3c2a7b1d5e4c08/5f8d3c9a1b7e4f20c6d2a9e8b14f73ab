@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-28T08:54:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-29T04:05:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,24 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-517
-FXUS66 KSGX 280819
+378
+FXUS66 KSGX 282330
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-119 AM PDT Sun Jun 28 2026
+430 PM PDT Sun Jun 28 2026
 
 .SYNOPSIS...
-Extensive low pressure over the western states will continue to
-deepen the marine layer and keep temperatures below average
-through this week. Morning low clouds over the coastal basin each
-day with a chance for a few fully overcast days at the beaches.
-Strong winds will continue for the deserts and desert slopes,
-peaking today and slowly weakening over the next several days.
+Increased winds over the mountains and deserts at times through
+Tuesday. A deep marine layer and well below average conditions
+will prevail through the middle of the week. A gradual warming is
+expected into the 4th of July holiday weekend, with conditions
+warming to near or slightly above normal by next Sunday.
 
 &&
 
@@ -368,59 +369,67 @@ peaking today and slowly weakening over the next several days.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-This morning...The marine layer remains about 3,500 ft deep with
-low clouds covering the coastal basin and extending to the top of
-the Cajon Pass in San Bernardino County and into the Borrego
-Desert near Jacumba in southeast San Diego County. Patchy drizzle
-will continue until about mid-morning west of the mountains.
+...Updated Aviation Discussion Below...
 
-An extensive low pressure system moving slowly inland to our north through
-Monday will be followed by a reinforcing shortwave trough on Tuesday.
-Low pressure will dominate the pattern over the western US. It
-will maintain cooler-than-normal conditions into next weekend, with
-a deep marine layer and widespread low clouds in the coastal basin
-during the nights and mornings. Temperatures will be around 5 to
-10 degrees below average at the coast and 10 to 20 degrees below
-average for inland areas today. The low pressure system will
-continue to bring strong westerly winds in and below mtn passes on
-the desert slopes and adjacent desert areas. The winds peaked this
-evening with gusts 35-45 mph locally 65-70 mph through the San
-Gorgonio Pass. Winds will gradually weaken into early Monday. See the
-Wind Advisory for more details.
+There were a few drizzle reports last night and this morning, mainly
+focused in coastal areas of northern San Diego County. The marine
+layer deepened about 2300 ft from yesterday as the main core of the
+trough of low pressure moved into the Great Basin. The overall
+pattern will remain troughy through Friday, with another shortwave
+expected to move through the mean flow early Tuesday. This will
+increase the onshore pressure gradient again, maintaining a deeper
+marine layer, elevating winds, and maintaining below average
+temperatures. Additionally, patchy drizzle is possible Monday
+night into Tuesday morning.
 
-Models are in good agreement through Friday with with respect to
-the synoptic pattern before beginning to diverge next weekend as
-the trough is replaced over SoCal by high pressure building in
-from the southeast. Temperatures will gradually warm through the
-week but remain generally below normal, possibly rising to a few
-degrees above normal in the deserts next Sunday.
+Winds over the mountains and into the deserts will remain elevated
+today, but weaker than yesterday. Peak wind gusts yesterday topped
+out at 72 mph at Cuyamaca Peak, 69  mph at White Water, and 56 mph
+at Burns Canyon. Strongest winds today will be through the San
+Gorgonio Pass and in the San Diego deserts with peak gusts 45 to 55
+mph, with local gusts to 65 mph through the pass. Winds will weaken
+into Monday morning. Winds for the mountains, deserts, and passes on
+Monday evening into Tuesday look like they will likely peak at 35
+to 50 mph. Strongest winds will be through west to east oriented
+passes, like the San Gorgonio Pass.
 
-&&
+Highs through Wednesday for inland areas will be 10 to 20 degrees
+below average. There is good model agreement in the upper level
+pattern through next Friday. For the 4th of July weekend, there is
+more uncertainty in the upper level pattern. About half of the
+ensemble solutions indicate ridging will develop over the western
+United States although there are varying solutions as to where.
+20 to 30 percent of ensemble solutions have the ridge in a
+position to bring us more notable warming. Official forecast
+follows the NBM for the end of the week which indicates a gradual
+warming trend Thursday through the weekend. By next Sunday some
+locations will start to see near or slightly above average
+temperatures. &&
 
 .AVIATION...
-280330Z...Coast/Valleys...Low clouds based 1500-2000 ft MSL are
-covering more than 10 miles inland of southern OC and San Diego
-County. Most of the coastal basin, including KONt/KSBD to have cigs
-by 07z. VIS reductions along mountain foothills where clouds meet
-terrain. Bases lift early Sun, around 13z, above 2000 ft MSL and
-clear the valleys 17-19Z Sun, with a 60% chance of only partial and
-intermittent clearing along the immediate coast Sun afternoon.
-Clouds fill inland after 01z Mon with similar bases.
+282330Z....Coast/Valleys/Foothills...Low clouds based generally
+above 2000ft MSL tonight will move back in after 01z Mon, with a
+secondary patchy layer around 3500ft MSL. Intermittent -DZ/-RA for
+almost all areas, but higher confidence for coastal terrain. VIS
+down to 4-6SM with any precipitation, with lower VIS for where
+clouds intersect terrain. Clouds begin to scatter out 15-17Z Mon.
+Stratus may linger along the coast through Monday afternoon. Low
+clouds will redevelop and push back in along the coastal areas,
+going BKN-OVC beginning around 00-02Z Tue. and continue to fill into
+the coastal basins and valleys through the rest of the forecast
+period.
 
-Mountains/Deserts...West winds currently gusting 25-50 kt on the
-desert slopes into the deserts with local gusts to 55 kt through the
-San Gorgonio pass. MOD up/downdrafts in lee of mountains. Winds
-decrease and become more localized 06-10Z Sun. Winds re-strengthen
-Sunday afternoon after 22z - though not as strong - gusting 25-45
-kts along the desert slopes.
+.Mountains/Deserts...West winds gusting 25-45 kt on the desert
+slopes with local gusts to 55 kt through the San Gorgonio pass
+through 06Z Monday, remaining gusty for the deserts until 10Z Mon.
+MOD up/downdrafts in lee of mountains and pockets of BLDU. Winds re-
+strengthen Monday after 22Z, with gusts approaching 50 kt throughout
+the rest of the forecast period.
 
 &&
 
 .MARINE...
-Breezy NW winds occasionally gusting around 20 kt this evening near
-San Clemente Island may create hazardous conditions to small craft.
-Otherwise, no additional hazardous marine conditions are expected
-through Friday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
@@ -432,10 +441,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 5 AM PDT early this morning for Apple and
-     Lucerne Valleys.
-
-     Wind Advisory until 11 PM PDT this evening for San Diego County
+CA...Wind Advisory until 11 PM PDT this evening for San Diego County
      Deserts.
 
      Wind Advisory until 2 AM PDT Monday for San Gorgonio Pass near
@@ -447,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Westerink
+PUBLIC...CO
+AVIATION/MARINE...Stewey
 
 
 </pre>
