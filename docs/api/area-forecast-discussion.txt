@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-29T15:49:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-29T20:02:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,25 +347,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-468
-FXUS66 KSGX 290930
+831
+FXUS66 KSGX 291933
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-230 AM PDT Mon Jun 29 2026
+1233 PM PDT Mon Jun 29 2026
 
 .SYNOPSIS...
-High temperatures as much as 10 to 15 degrees below average for the
-mountains and Inland Empire on Sunday will gradually warm for the
-next week, but remain below average through the July 4th holiday
-weekend. The marine layer will deepen tonight with patchy drizzle
-possible late tonight. The marine will then gradually decrease in
-depth, but with night and morning coastal low clouds still extending
-into the western valleys late each night for next weekend.
+Increased winds over the mountains and deserts this afternoon into
+Tuesday morning. A deep marine layer and well below average
+conditions will prevail through the middle of the week. A gradual
+warming is expected into the 4th of July holiday weekend, with
+conditions warming to near or slightly above normal by early next
+week.
 
 &&
 
@@ -373,69 +374,44 @@ into the western valleys late each night for next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Wednesday)...
-Sunday was the coolest day in this current cooler pattern. Anaheim
-and San Jacinto both set new records for the date for the coolest
-high temperature while Ramona tied the existing record.
+The overall pattern will remain troughy through Friday, with another
+shortwave expected to move through the mean flow tomorrow. This will
+increase the onshore pressure gradient, maintaining a deeper
+marine layer, elevating winds, and maintaining below average
+temperatures. Additionally, patchy drizzle is possible tonight
+into Tuesday morning. Peak winds for the mountains, deserts, and
+passes this afternoon into Tuesday morning will be 35 to 50 mph.
+Gusts up to 60 mph possible through San Gorgonio Pass.
 
-A low pressure system moving into northern California early today
-will move through southern California tonight with low pressure
-then beginning to weaken across the area for much of the week.
+Conditions will gradually warm each day through the holiday weekend,
+but highs through Wednesday for inland areas will be 10 to 20
+degrees below average. For the 4th of July there is more confidence
+in weak ridging developing over the US West Coast, with more
+uncertainty in the strength and placement of the ridge into early
+next week. Even with ridging aloft this weekend, highs in and west
+of the mountains will be 1 to 5 degrees below average, with highs in
+the deserts up to 3 degrees above average.
 
-High temperatures for today will warm slightly at the coast and
-around 5 degrees for inland areas with not much change on
-Tuesday. High temperatures on Wednesday will warm a few degrees to
-around 5 degrees in the mountains.
-
-High temperatures on Sunday were as much as 15 to 20 degrees below
-average for the mountains and Inland Empire. Even with the
-warming for today through Wednesday, it will still be around 5
-degrees below average near the coast and in the lower deserts on
-Wednesday with the mountains and Inland Empire still 10 to 15
-degrees below average.
-
-That low pressure system from the north moving through the area
-tonight will deepen the marine layer with patchy drizzle possible
-late tonight. Southwest to west winds for the mountains and
-deserts during the afternoon and evening will slowly decrease
-this week.
-
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-The trough of low pressure across the area will gradually weaken
-on Thursday and Friday. For Saturday and Sunday, high pressure to
-the south may begin to expand northward into southern California.
-High temperatures as much as 5 to 10 degrees below average for
-the mountains and inland valleys on Thursday will gradually warm
-through Sunday, but remain below average.
-
-High temperatures on Thursday will range from around 70 near the
-coast to the 80s for the Inland Empire with 100 to 104 for the
-lower deserts. On Sunday, high temperatures will range from the
-lower 70s near the coast to the mid 80s to lower 90s for the
-Inland Empire with 104 to 108 for the lower deserts.
+The marine layer will stay deep through mid-week becoming shallower
+and more confined to the coast and western valleys for Friday into
+early next week.
 
 &&
 
 .AVIATION...
-290930Z....Coast/Valleys/Foothills...Low clouds based 2500-3500 ft
-MSL are covering most of the coastal basin. VIS reduced primarily
-along higher foothills. Clouds scatter out to the coast 15-18Z Mon.
+291930Z....Coast/Valleys/Foothills...Low clouds based 3000-4000 ft
+MSL are lingering this afternoon over Orange County. Clouds may
+scatter out briefly late this afternoon. Regardless, low clouds
+based 2500-3000 ft MSL fill back in to all coastal areas starting 01-
+03z, completely filling the coastal basin once again by 08-10z.
+Patchy -DZ expected with greatest chances near the coastline. Local
+minor cig/vis reductions (1500-2000 ft MSL and 4-6SM) with -DZ.
+Clouds scatter back toward the coastline 16-19z Tue.
 
-Patchy low clouds develop over the SD County coast around 00-02Z
-Tue, then expand into OC and inland areas through 06z, filling the
-entire coastal basin by 09z. While main cloud base is expected to be
-around 2500-3500 ft MSL, lower FEW-BKN cigs are possible down to
-1500 ft MSL, as well as patchy -DZ/BR, reducing VIS 4-6SM.
-
-.Mountains/Deserts...Elevated west winds have become localized to
-a few desert slopes (to 35 kts) and through the Banning Pass (to 50
-kts). MOD up/downdrafts in lee of mountains and pockets of BLDU.
-Winds re-strengthen Monday after 22Z, with gusts 20-40 kts through
-desert slopes and up to 55 kts through the Banning Pass through
-Monday night.
+.Mountains/Deserts...Winds re-strengthen this afternoon after 22Z,
+with gusts 20-40 kts along desert slopes and locally into deserts.
+Gusts to 55 kts through the Banning Pass. Winds slowly weaken again
+06-12z Tue.
 
 &&
 
@@ -459,8 +435,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE...Westerink
+PUBLIC...CO
+AVIATION/MARINE...KW
 
 
 </pre>
