@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-29T20:02:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-30T03:49:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-831
-FXUS66 KSGX 291933
+680
+FXUS66 KSGX 292323
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1233 PM PDT Mon Jun 29 2026
+430 PM PDT Mon Jun 29 2026
 
 .SYNOPSIS...
 Increased winds over the mountains and deserts this afternoon into
@@ -373,6 +373,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...updated aviation and marine discussions...
 
 The overall pattern will remain troughy through Friday, with another
 shortwave expected to move through the mean flow tomorrow. This will
@@ -399,19 +401,18 @@ early next week.
 &&
 
 .AVIATION...
-291930Z....Coast/Valleys/Foothills...Low clouds based 3000-4000 ft
-MSL are lingering this afternoon over Orange County. Clouds may
-scatter out briefly late this afternoon. Regardless, low clouds
-based 2500-3000 ft MSL fill back in to all coastal areas starting 01-
-03z, completely filling the coastal basin once again by 08-10z.
-Patchy -DZ expected with greatest chances near the coastline. Local
-minor cig/vis reductions (1500-2000 ft MSL and 4-6SM) with -DZ.
-Clouds scatter back toward the coastline 16-19z Tue.
+292300Z....Coast/Valleys/Foothills...Low clouds based 2500-3000 feet
+MSL will fill back in to all coastal areas starting 01-03Z,
+completely filling the coastal basin by 08-10Z. Patchy -DZ expected
+with greatest chances near the coast. Local minor cig/vis reductions
+(1500-2000 ft MSL and 4-6SM) with -DZ. Clouds scatter out 16-19Z
+Tuesday. Clouds with similar bases to push ashore and eventually
+inland after 01Z Tuesday evening.
 
-.Mountains/Deserts...Winds re-strengthen this afternoon after 22Z,
-with gusts 20-40 kts along desert slopes and locally into deserts.
-Gusts to 55 kts through the Banning Pass. Winds slowly weaken again
-06-12z Tue.
+.Mountains/Deserts...Winds with gusts 20-40 kts with local gusts to
+50 kts through mountain passes and locally into deserts. Winds
+slowly weaken after 06Z. Very similar winds increasing after 22Z
+Tuesday in the same areas.
 
 &&
 
@@ -424,7 +425,6 @@ No hazardous marine conditions are expected through Saturday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -436,7 +436,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...KW
+AVIATION/MARINE...MM
 
 
 </pre>
