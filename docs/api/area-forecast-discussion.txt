@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-30T03:49:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-30T09:38:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -352,21 +352,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-680
-FXUS66 KSGX 292323
+562
+FXUS66 KSGX 300816
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-430 PM PDT Mon Jun 29 2026
+116 AM PDT Tue Jun 30 2026
 
 .SYNOPSIS...
-Increased winds over the mountains and deserts this afternoon into
-Tuesday morning. A deep marine layer and well below average
-conditions will prevail through the middle of the week. A gradual
-warming is expected into the 4th of July holiday weekend, with
-conditions warming to near or slightly above normal by early next
-week.
+High temperatures for today will be as much as 15 degrees below
+average for the mountains and Inland Empire. This will be followed
+by a slow warming trend through the middle of next week with high
+temperatures for the deserts warming to around average over
+weekend, but remaining a few to around 5 degrees below average
+for the coast and valleys for early next week. After today, the
+marine layer will become a little shallower with night and morning
+coastal low clouds spreading into portions of the inland valleys
+late each night.
 
 &&
 
@@ -374,45 +377,67 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...updated aviation and marine discussions...
+.SHORT TERM (Today through Thursday)...
+A low pressure system over central California late Monday
+afternoon will move into central Nevada by this morning, then
+weaken and move east today with low pressure across California
+weakening through Friday.
 
-The overall pattern will remain troughy through Friday, with another
-shortwave expected to move through the mean flow tomorrow. This will
-increase the onshore pressure gradient, maintaining a deeper
-marine layer, elevating winds, and maintaining below average
-temperatures. Additionally, patchy drizzle is possible tonight
-into Tuesday morning. Peak winds for the mountains, deserts, and
-passes this afternoon into Tuesday morning will be 35 to 50 mph.
-Gusts up to 60 mph possible through San Gorgonio Pass.
+Early this morning, the marine layer has deepened to around 4500
+feet with satellite imagery showing coastal low clouds extending
+well inland and onto the coastal slopes of the mountains. There
+could be some patchy drizzle for some of the coast and valleys
+through around day break. The marine layer will then become
+gradually shallower into next week, but with coastal low clouds
+still spread into portions of the inland valleys late each night.
 
-Conditions will gradually warm each day through the holiday weekend,
-but highs through Wednesday for inland areas will be 10 to 20
-degrees below average. For the 4th of July there is more confidence
-in weak ridging developing over the US West Coast, with more
-uncertainty in the strength and placement of the ridge into early
-next week. Even with ridging aloft this weekend, highs in and west
-of the mountains will be 1 to 5 degrees below average, with highs in
-the deserts up to 3 degrees above average.
+High temperatures for the deserts will be a few degrees cooler
+today with not much change for the coast and valleys. These high
+temperatures are as much as 15 degrees below average for the
+mountains and Inland Empire. High temperatures for today will
+range from around 70 near the coast to the mid 70s to lower 80s
+for the Inland Empire with the mid to upper 90s for the lower
+deserts.
 
-The marine layer will stay deep through mid-week becoming shallower
-and more confined to the coast and western valleys for Friday into
-early next week.
+This will be followed by a slow warming trend that will continue
+into the middle of next week. High temperatures for the deserts
+will warm to around average during the weekend, but remain below
+average for the coast and valleys through Tuesday of next week.
+
+&&
+
+.LONG TERM (Friday through Monday)...
+There will be a gradual warming trend that will continue into next
+week. High temperatures on Friday will be a few degrees below
+average for coastal areas and the lower deserts and around 4 to 8
+degrees below average elsewhere. High temperatures on Friday will
+range from the lower 70s near the coast to the 80s for the Inland
+Empire with 100 to 104 for the lower deserts.
+
+For Monday of next week, high temperatures for the coast and
+valleys will be a few to around 5 degrees below average with the
+deserts a few to around 5 degrees above average. High temperatures
+for next Monday will range from the lower 70s near the coast to
+the mid 80s to mid 90s for the Inland Empire with 106 to 110 for
+the lower deserts.
 
 &&
 
 .AVIATION...
-292300Z....Coast/Valleys/Foothills...Low clouds based 2500-3000 feet
-MSL will fill back in to all coastal areas starting 01-03Z,
-completely filling the coastal basin by 08-10Z. Patchy -DZ expected
-with greatest chances near the coast. Local minor cig/vis reductions
-(1500-2000 ft MSL and 4-6SM) with -DZ. Clouds scatter out 16-19Z
-Tuesday. Clouds with similar bases to push ashore and eventually
-inland after 01Z Tuesday evening.
+300515Z....Coast/Valleys/Foothills...Low clouds with bases
+2000-3000 ft MSL and tops to 3500 ft MSL will continue to fill in
+across the coastal basin through 09Z. 10-20% chance of patchy
+drizzle 09-18Z, with the greatest chances near the coast. Clouds
+scatter out 16-19Z Tuesday. Low clouds will redevelop at the
+coastal areas 23-04Z with bases/tops around 1800-2500 ft MSL,
+spreading into the inland valleys again Tuesday night.
 
-.Mountains/Deserts...Winds with gusts 20-40 kts with local gusts to
-50 kts through mountain passes and locally into deserts. Winds
-slowly weaken after 06Z. Very similar winds increasing after 22Z
-Tuesday in the same areas.
+.Mountains/Deserts...Southwest to west winds with surface gusts
+20-40 kts with local gusts to 50 kts through the passes. Winds
+slowly weaken 08-12Z, then strengthen again around 22-00Z. Gusts
+around 20-35 kt, locally to 45 kt in the passes Tuesday afternoon
+into Tuesday night. MOD- STG up/downdrafts and pockets of LLWS
+over and east of the mountains.
 
 &&
 
@@ -435,8 +460,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...MM
+PUBLIC...17
+AVIATION/MARINE...SS
 
 
 </pre>
