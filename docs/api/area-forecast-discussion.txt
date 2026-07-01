@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-01T14:39:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-01T19:58:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,21 +349,23 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-911
-FXUS66 KSGX 010944
+990
+FXUS66 KSGX 011852
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-244 AM PDT Wed Jul 1 2026
+1152 AM PDT Wed Jul 1 2026
 
 .SYNOPSIS...
 There will be a slow warming trend for the next week. High
-temperatures near the coast will warm a few degrees with inland
-areas warming around 10 degrees over the next week. High
+temperatures near the coast will warm a few degrees and inland
+areas will warm around 10 degrees over the next week. High
 temperatures for the deserts will warm to around average during
 the weekend and around 5 degrees above average for the middle of
 next week with the valleys still a few to around 5 degrees below
@@ -377,95 +379,74 @@ as far into the valleys by next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION AND MARINE DISCUSSIONS....
+Large-scale, mid-level troughing continues for the western U.S.
+through much of the work week, leading to afternoon temperatures
+as much as 10-15 degrees F below daily averages today. This
+persistent low pressure aloft is also leading to a deep marine
+cloud layer at 3500-4500 ft MSL. This morning, clouds reached to
+cover most of the coastal basin. So far (late this morning),
+clouds have been slow to clear out of coastal and north areas of
+the region, but this morning`s inversion was shallow enough that
+clouds will clear for the most part for over-land areas.
 
-.SHORT TERM (Today through Friday)...
-The marine layer is still around 4000 feet deep with satellite
-imagery showing coastal low clouds extending inland and onto the
-lower coastal slopes of the mountains. The marine layer will
-slowly decrease in depth through the middle of next week. The
-marine layer will decrease in depth to around 3000 feet for early
-Thursday and around 2500 feet for early Friday. Low clouds will
-cover much of the coast and valleys for late tonight into
-Thursday morning and extend inland into portions of the inland
-valleys for late Thursday night into Friday morning.
+As the week progresses, high pressure to the southeast will
+slowly flatten the trough out, leading to gradually warming
+temperatures through mid-next week. Despite that, temperatures
+will linger in the below-average range through Friday region-wide,
+with the deserts warming into the average to slightly above
+average zone by this weekend while valley regions are still about
+5 degrees below average. By mid- next week the whole region will
+likely be in the typical temperature range (+/- about 5 degrees
+from average). This includes temperatures reaching around 100
+degrees in the high desert and temperatures approaching or just
+exceeding 110 degrees in the low desert, resulting in moderate
+HeatRisk (impactful heat for sensitive communities) for the low
+deserts even with the seasonability of these temperatures.
 
-Low pressure across California will slowly weaken this week with
-high pressure to the south expanding into the area for next week.
-High temperatures will slowly warm through Wednesday of next week
-with high temperatures near the coast warming a few to around 5
-degrees while inland areas warm around 10 degrees over the next
-week.
-
-High temperatures for today will be as much as 10 to locally 15
-degrees below average for the mountains and Inland Empire. With
-the warming through Friday, Friday high temperatures will still be
-4 to 8 degrees below average for the mountains and valleys.
-
-High temperatures for today will range from around 70 near the
-coast to the mid 70s to lower 80s for the Inland Empire with the
-upper 90s for the lower deserts. High temperatures on Friday will
-range from the lower 70s near the coast to the 80s to around 90
-for the Inland Empire with 102 to 106 for the lower deserts.
-
-The atmosphere will be at its driest on Thursday and Friday with
-precipitable water values decreasing to around one-half inch and
-with very little spread among ensemble members.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-The slow warming trend will continue into the middle of next week.
-High temperatures for the lower deserts will warm to around
-average on Saturday and Sunday with the valleys still around 5
-degrees below average. For next Tuesday, high temperatures for
-the deserts will be a few to around 5 degrees above average with
-the valleys and inland coastal areas still a few to around 5
-degrees below average. High temperatures for next Tuesday will
-range from the lower 70s near the coast to the mid 80s to mid 90s
-for the Inland Empire with 106 to 110 for the lower deserts.
-
-The marine layer continue to slowly decrease in the depth to
-around 2000 feet for the middle of next week with coastal low
-clouds not spreading as far into the valleys late each night.
-
-Mean precipitable water values will increase to around 0.9 inch
-by early Monday, then decrease to around 0.70 inch for the middle
-of next week. While there could be some mid and high clouds at
-times, most ensemble members are dry and those that have any
-precipitation are very light. NBM daily chances for measurable
-precipitation remain at less than 5 percent for the next week.
+Building heights overhead will also squish the marine layer down
+gradually through next week, with clouds lowering from 4000 feet
+or so tonight to 2000-3000 ft over the weekend, which means that
+clouds will move less far inland overnight and likely not linger
+as long in the mornings. Besides marine layer clouds, though,
+we`re likely to see upper to mid level clouds moving into the
+region over the weekend, generated from moisture moving in from a
+distant tropical system which will otherwise likely have little
+effect on our weather locally. A minority of GFS ensemble members
+have some spotty light precipitation for late in the weekend and
+parts of next week, but National Blend of Models chances for
+precipitation (>= 0.01") are less than 5% for each day during the
+next seven days.
 
 &&
 
 .AVIATION...
-010940Z....Coast/Valleys/Foothills...Multiple low clouds layers with
-bases 2000-3500 ft MSL and tops to 4200 ft MSL will continue across
-the coastal basin and into the coastal foothills this morning.
-Clouds clearing inland 15-18Z, and along the coast 18-20Z. Low
-clouds redeveloping along the coast after 02/00Z and spreading
-into the valleys overnight with bases near 1500-2000 ft MSL and
-tops to 2500 ft MSL.
+011730Z....Coast/Valleys/Foothills...Low clouds with bases 2500-
+3500ft MSL are making their retreat towards the coast, having
+cleared most of the foothills in SD County. Clouds are expected to
+clear most areas by 18-19Z with few/sct low clouds expected to hang
+around coastal SD. Low clouds with bases 1500-2000 will redevelop 00-
+02Z Thursday beginning in SD and spreading north and spilling into
+the Inland Empire after 05-06Z.
 
-.Mountains/Deserts...West to southwest winds gusting 20-30 kt
-along desert slopes with isolated gusts to 45 kt through the passes
-after 22Z, gradually weakening after 02/08Z. MOD up/downdrafts and
-pockets of LLWS over and east of the mountains. Terrain obscured in
+.Mountains/Deserts...Winds out of the west to southwest increase
+this afternoon with gusts 20-30kts expected along desert slopes and
+isolated gusts up to 45kts in mountain passes after 22Z. MOD
+up/downdrafts and LLWS over and east of the mountains will be
+possible. Low clouds moving in after 05Z will obscure terrain in
 clouds/fog on the coastal mountain slopes below 4500 ft MSL through
-Wednesday morning, otherwise clear with unrestricted vis through
-Thursday morning.
+Thursday morning. Otherwise, VFR conditions expected through the
+period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -477,8 +458,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...SS
+PUBLIC...CSP
+AVIATION/MARINE...Villafane
 
 
 </pre>
