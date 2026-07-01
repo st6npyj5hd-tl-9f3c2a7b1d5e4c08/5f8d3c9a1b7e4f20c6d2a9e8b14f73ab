@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-06-30T20:00:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-01T04:03:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,18 +349,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-667
-FXUS66 KSGX 301807
+180
+FXUS66 KSGX 010032
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1107 AM PDT Tue Jun 30 2026
+532 PM PDT Tue Jun 30 2026
 
 .SYNOPSIS...
 High temperatures for today will still be around 5 to 15 degrees
@@ -422,24 +420,23 @@ monsoonal moisture to be advected in from the southeast and will
 increase the possibility over afternoon thunderstorms over the
 mountains and deserts, which is also reflected in ensembles
 displaying increase PWAT values over the southwest by this time.
+
 &&
 
 .AVIATION...
-301730Z....Coast/Valleys/Foothills...Most of the coastal basin
-remains cloudy (though generally VFR) this late this morning with
-bases 3000-4500 ft MSL. Clouds eventually scatter out of most areas
-early this afternoon, though may linger through the day for parts of
-Orange County and along coastal foothills. Low clouds based 2000-
-2500 ft MSL redevelop over San Diego County starting 00-02z Wed.
-Clouds move northward overnight, filling the coastal basin once
-again by 10-12z Wed. Low clouds scatter back toward the coastline 16-
-20z.
+010000Z....Coast/Valleys/Foothills...SCT-BKN clouds based 2000-3000
+ft MSL are developing over SD County and along the Orange County
+foothills. Clouds in the lowlands remain patchy through 06z until
+filling in and expanding gradually through the Inland Empire through
+11z. Scatter out 16-20z, then VFR prevails in the afternoon.
 
-.Mountains/Deserts...West to southwest winds return this
-afternoon with gusts 25-35 kts along desert slopes and locally into
-deserts. Gusts to 45 kts through wind-prone passes. MOD
-up/downdrafts and pockets of LLWS over and east of the mountains.
-Winds slowly weaken again 06-12z Wed.
+
+.Mountains/Deserts...West to southwest winds are gusting 25-35 kts
+along desert slopes and locally into deserts. Gusts to 45 kts
+through wind-prone passes. MOD up/downdrafts and pockets of LLWS
+over and east of the mountains. Winds slowly weaken again 06-12z
+Wed. Clouds intersecting terrain on west slopes to lower VIS locally,
+otherwise, VFR conditions prevail.
 
 &&
 
@@ -464,7 +461,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...KW
+AVIATION/MARINE...Westerink
 
 
 </pre>
