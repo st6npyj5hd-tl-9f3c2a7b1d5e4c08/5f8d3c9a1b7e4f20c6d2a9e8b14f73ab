@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-01T04:03:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-01T09:50:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,27 +349,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-180
-FXUS66 KSGX 010032
+911
+FXUS66 KSGX 010944
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-532 PM PDT Tue Jun 30 2026
+244 AM PDT Wed Jul 1 2026
 
 .SYNOPSIS...
-High temperatures for today will still be around 5 to 15 degrees
-below average for the mountains and Inland Empire. This will be
-followed by a slow warming trend through the middle of next week
-with high temperatures for the deserts warming to around average
-over weekend, but remaining a few to around 5 degrees below
-average for the coast and valleys for early next week. After
-today, the marine layer will become a little shallower with night
-and morning coastal low clouds spreading into portions of the
-inland valleys late each night.
+There will be a slow warming trend for the next week. High
+temperatures near the coast will warm a few degrees with inland
+areas warming around 10 degrees over the next week. High
+temperatures for the deserts will warm to around average during
+the weekend and around 5 degrees above average for the middle of
+next week with the valleys still a few to around 5 degrees below
+average for early next week. The marine layer will gradually
+decrease in depth with night and morning low clouds not spreading
+as far into the valleys by next week.
 
 &&
 
@@ -377,71 +379,88 @@ inland valleys late each night.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Tonight through Wednesday...
+...UPDATED AVIATION AND MARINE DISCUSSIONS....
 
-Currently, there are lower clouds still present over a majority of
-the Inland Empire, and hugging portions of the coastline with the
-presence of a weak eddy just west of Oceanside, which will allow
-for some of these clouds to remain in place and periodically
-result in skies intermittently going broken to overcast throughout
-the afternoon.
+.SHORT TERM (Today through Friday)...
+The marine layer is still around 4000 feet deep with satellite
+imagery showing coastal low clouds extending inland and onto the
+lower coastal slopes of the mountains. The marine layer will
+slowly decrease in depth through the middle of next week. The
+marine layer will decrease in depth to around 3000 feet for early
+Thursday and around 2500 feet for early Friday. Low clouds will
+cover much of the coast and valleys for late tonight into
+Thursday morning and extend inland into portions of the inland
+valleys for late Thursday night into Friday morning.
 
-A longwave trough remains over the northwest CONUS, which continues
-to influence the region with cooler temperatures and breezy
-conditions, especially across the higher terrain and within
-passes/along desert slopes. There is a open shortwave embedded
-within this trough which transitioning over southern Nevada, and
-this is helping to tighten the pressure gradient. Stronger wind
-gusts along the desert slopes and within the Coachella Valley just
-downwind, and within San Gorgonio Pass will generally be 30 to 40
-mph, and locally approach 50 mph at times. These winds will decouple
-and weaken by later in the evening. Temperatures this afternoon will
-still be around 5 to 15 degrees below the seasonal average for this
-time of year. Low clouds will continue to fill back in and lower as
-heights slightly increase.
+Low pressure across California will slowly weaken this week with
+high pressure to the south expanding into the area for next week.
+High temperatures will slowly warm through Wednesday of next week
+with high temperatures near the coast warming a few to around 5
+degrees while inland areas warm around 10 degrees over the next
+week.
 
-Higher pressure will further build in going into Tuesday, which will
-allow for the pressure gradient to continue to weaken, and therefore
-afternoon winds will not be quite as strong, but still be a little
-stronger and gusty for the wind-proned areas. Temperatures will
-generally be a few degrees warmer as well.
+High temperatures for today will be as much as 10 to locally 15
+degrees below average for the mountains and Inland Empire. With
+the warming through Friday, Friday high temperatures will still be
+4 to 8 degrees below average for the mountains and valleys.
 
-Thursday through Monday...
+High temperatures for today will range from around 70 near the
+coast to the mid 70s to lower 80s for the Inland Empire with the
+upper 90s for the lower deserts. High temperatures on Friday will
+range from the lower 70s near the coast to the 80s to around 90
+for the Inland Empire with 102 to 106 for the lower deserts.
 
-The pattern will begin to shift to the longwave trough over the
-western states eventually being replaced by a ridge going into
-upcoming weekend, which will translate into continued gradual
-warming. Simultaneously, there will be a lowering of the marine
-layer as well, with increasing impacts to visibilities during the
-overnight hours closer to the coastal regions. A little beyond the
-forecast, as the ridge further builds and expands over the Four
-Corners region by the middle of next week, it will allow for some
-monsoonal moisture to be advected in from the southeast and will
-increase the possibility over afternoon thunderstorms over the
-mountains and deserts, which is also reflected in ensembles
-displaying increase PWAT values over the southwest by this time.
+The atmosphere will be at its driest on Thursday and Friday with
+precipitable water values decreasing to around one-half inch and
+with very little spread among ensemble members.
+
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+The slow warming trend will continue into the middle of next week.
+High temperatures for the lower deserts will warm to around
+average on Saturday and Sunday with the valleys still around 5
+degrees below average. For next Tuesday, high temperatures for
+the deserts will be a few to around 5 degrees above average with
+the valleys and inland coastal areas still a few to around 5
+degrees below average. High temperatures for next Tuesday will
+range from the lower 70s near the coast to the mid 80s to mid 90s
+for the Inland Empire with 106 to 110 for the lower deserts.
+
+The marine layer continue to slowly decrease in the depth to
+around 2000 feet for the middle of next week with coastal low
+clouds not spreading as far into the valleys late each night.
+
+Mean precipitable water values will increase to around 0.9 inch
+by early Monday, then decrease to around 0.70 inch for the middle
+of next week. While there could be some mid and high clouds at
+times, most ensemble members are dry and those that have any
+precipitation are very light. NBM daily chances for measurable
+precipitation remain at less than 5 percent for the next week.
 
 &&
 
 .AVIATION...
-010000Z....Coast/Valleys/Foothills...SCT-BKN clouds based 2000-3000
-ft MSL are developing over SD County and along the Orange County
-foothills. Clouds in the lowlands remain patchy through 06z until
-filling in and expanding gradually through the Inland Empire through
-11z. Scatter out 16-20z, then VFR prevails in the afternoon.
+010940Z....Coast/Valleys/Foothills...Multiple low clouds layers with
+bases 2000-3500 ft MSL and tops to 4200 ft MSL will continue across
+the coastal basin and into the coastal foothills this morning.
+Clouds clearing inland 15-18Z, and along the coast 18-20Z. Low
+clouds redeveloping along the coast after 02/00Z and spreading
+into the valleys overnight with bases near 1500-2000 ft MSL and
+tops to 2500 ft MSL.
 
-
-.Mountains/Deserts...West to southwest winds are gusting 25-35 kts
-along desert slopes and locally into deserts. Gusts to 45 kts
-through wind-prone passes. MOD up/downdrafts and pockets of LLWS
-over and east of the mountains. Winds slowly weaken again 06-12z
-Wed. Clouds intersecting terrain on west slopes to lower VIS locally,
-otherwise, VFR conditions prevail.
+.Mountains/Deserts...West to southwest winds gusting 20-30 kt
+along desert slopes with isolated gusts to 45 kt through the passes
+after 22Z, gradually weakening after 02/08Z. MOD up/downdrafts and
+pockets of LLWS over and east of the mountains. Terrain obscured in
+clouds/fog on the coastal mountain slopes below 4500 ft MSL through
+Wednesday morning, otherwise clear with unrestricted vis through
+Thursday morning.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday morning.
+No hazardous marine conditions are expected through Sunday.
 
 &&
 
@@ -460,8 +479,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...SS
 
 
 </pre>
