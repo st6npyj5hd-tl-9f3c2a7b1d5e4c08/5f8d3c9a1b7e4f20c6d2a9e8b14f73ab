@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-02T14:04:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-02T19:26:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-600
-FXUS66 KSGX 020951
+389
+FXUS66 KSGX 021758
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-251 AM PDT Thu Jul 2 2026
+1058 AM PDT Thu Jul 2 2026
 
 .SYNOPSIS...
 The slow warming trend will continue through the middle of next
@@ -418,27 +418,26 @@ deserts for Wednesday and Thursday of next week.
 &&
 
 .AVIATION...
-020940Z....Coast/Valleys...Low clouds with bases 1500-2000 ft MSL
-and tops to 2500 ft MSL will continue to spread into the valleys
-through 13Z. Clouds clearing in the valleys 15-17Z and near the
-coast 17-19Z. Low clouds redeveloping along the coast after 03/02Z
-with bases near 1200-1800 ft MSL, filling in across the coastal
-areas by 03/07Z and spreading 15-20 mi inland overnight.
+021800Z....Coast/Valleys...Marine layer clouds (based 2000-2500ft
+MSL) have quickly cleared out across San Diego County this morning,
+but will take until 1830-19z to clear out across Orange County and
+western portions of the Inland Empire. Low clouds redeveloping along
+the coast after 02z Friday, initially across San Diego County,
+eventually spreading into Orange County around 06-09z, and into
+portions of the Inland Empire around 12z. Bases will be slightly
+lower than this morning, around 1200-1800 ft MSL. Good confidence
+(80% chance) in CIGs reaching KONT by 12z with lower confidence
+(~40% chance) to reach KSBD between 12-16z. Similar timing and
+progression for cloud clearing tomorrow morning as what is occurring
+today.
 
-Mountains/Deserts...Clear with unrestricted vis through Thursday
-evening.
+Mountains/Deserts...Clear skies with unrestricted VIS through
+Friday morning.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -450,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...SS
+PUBLIC...Martin
+AVIATION/MARINE...Munyan
 
 
 </pre>
