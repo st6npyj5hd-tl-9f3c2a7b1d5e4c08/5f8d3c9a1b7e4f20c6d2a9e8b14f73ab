@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T09:20:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T14:08:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-175
-FXUS66 KSGX 030847
+542
+FXUS66 KSGX 030947
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-147 AM PDT Fri Jul 3 2026
+247 AM PDT Fri Jul 3 2026
 
 .SYNOPSIS...
 Fair and seasonal weather will continue for the coming week, with
@@ -372,12 +372,14 @@ but with seasonal temperatures.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION DISCUSSION...
+
 Temperatures Thursday afternoon were about 5-10 degrees higher
 than Wednesday afternoon in the inland valleys, mountains and
 deserts. This morning, the marine layer remains about 3,000 ft
 deep but the formation of low clouds is being disrupted and
-delayed by high-level moisture. With low pressure to our north
-and high pressure to our southeast giving us westerly flow aloft,
+delayed by high-level moisture. With low pressure to our north and
+high pressure to our southeast giving us westerly flow aloft,
 high-level moisture from post-tropical storm Douglas is moving
 east over SoCal.
 
@@ -411,19 +413,20 @@ above seasonal averages for the coastal areas.
 &&
 
 .AVIATION...
-030530Z....Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
-currently along the San Diego County coast will spread north into
-Orange County ant 15-20 mi inland through 12Z. There is a 50-60%
-chance of CIGS in the far southern and western parts of the Inland
-Empire 12-15Z, including at KONT. Local vis 3-5 SM in BR/HZ where
-clouds near terrain in the valleys. Clouds and vis restrictions
-clearing 15-18Z. Low clouds with similar bases redeveloping along
-the coast after 04/03-06Z. Otherwise SCT clouds at/above 20,000 ft
-MSL beginning Friday afternoon.
+030940Z....Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
+will continue to spread north into Orange County and 15-20 mi inland
+through 12Z. There is a 30-50% chance of CIGS in the far southern
+and western parts of the Inland Empire 12-15Z, including at KONT.
+Local vis 3-5 SM in BR/HZ where clouds near terrain in the valleys.
+Clouds and vis restrictions clearing 15-18Z. Areas of low clouds
+with similar bases redeveloping along the coast after 04/03-06Z and
+spreading around 15 mi inland overnight, though coverage may be
+patchy at times. Otherwise FEW-SCT clouds at/above 20,000 ft MSL
+gradually shifting northward today into Saturday morning.
 
-Mountains/Deserts...Mostly clear with unrestricted vis through
-Friday morning, then clouds at/above 20,000 ft increasing in
-coverage Friday afternoon and evening.
+Mountains/Deserts...FEW-SCT clouds at/above 20,000 ft MSL gradually
+shifting northward today into Saturday evening with vis remaining
+unrestricted.
 
 &&
 
@@ -435,6 +438,7 @@ No hazardous marine conditions are expected through Tuesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
