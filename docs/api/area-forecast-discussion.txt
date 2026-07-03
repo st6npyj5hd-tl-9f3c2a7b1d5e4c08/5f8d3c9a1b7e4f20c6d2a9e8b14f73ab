@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T14:08:18+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T19:24:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-542
-FXUS66 KSGX 030947
+647
+FXUS66 KSGX 031748
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-247 AM PDT Fri Jul 3 2026
+1048 AM PDT Fri Jul 3 2026
 
 .SYNOPSIS...
 Fair and seasonal weather will continue for the coming week, with
@@ -413,20 +413,13 @@ above seasonal averages for the coastal areas.
 &&
 
 .AVIATION...
-030940Z....Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
-will continue to spread north into Orange County and 15-20 mi inland
-through 12Z. There is a 30-50% chance of CIGS in the far southern
-and western parts of the Inland Empire 12-15Z, including at KONT.
-Local vis 3-5 SM in BR/HZ where clouds near terrain in the valleys.
-Clouds and vis restrictions clearing 15-18Z. Areas of low clouds
-with similar bases redeveloping along the coast after 04/03-06Z and
-spreading around 15 mi inland overnight, though coverage may be
-patchy at times. Otherwise FEW-SCT clouds at/above 20,000 ft MSL
-gradually shifting northward today into Saturday morning.
+031740Z....Coast...Low clouds with bases 1200-1600 feet MSL
+redeveloping after 04Z in San Diego County and after 08Z in Orange
+County, though cigs may be intermittent. Scatter out of any cigs
+Saturday around 15-17Z.
 
-Mountains/Deserts...FEW-SCT clouds at/above 20,000 ft MSL gradually
-shifting northward today into Saturday evening with vis remaining
-unrestricted.
+Otherwise...Gradually increasing high clouds tonight and Saturday,
+thickening and lowering to 8000-15000 feet MSL Saturday morning.
 
 &&
 
@@ -439,7 +432,6 @@ No hazardous marine conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -451,7 +443,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...SS
+AVIATION/MARINE...MM
 
 
 </pre>
