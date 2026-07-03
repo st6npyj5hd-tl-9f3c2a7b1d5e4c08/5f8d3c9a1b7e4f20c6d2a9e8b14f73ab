@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T03:25:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-03T09:20:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,21 +350,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-468
-FXUS66 KSGX 030009
+175
+FXUS66 KSGX 030847
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-509 PM PDT Thu Jul 2 2026
+147 AM PDT Fri Jul 3 2026
 
 .SYNOPSIS...
 Fair and seasonal weather will continue for the coming week, with
 a gradual warming trend. The marine layer will gradually decrease
 in depth with night and morning low clouds not spreading as far
-inland nor lasting as long. Subtropical moisture will bring some
-higher level clouds this holiday weekend, but with seasonal
-temperatures.
+inland nor lasting as long into the late mornings. Subtropical
+moisture will bring some higher level clouds this holiday weekend,
+but with seasonal temperatures.
 
 &&
 
@@ -372,75 +372,69 @@ temperatures.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Temperatures Thursday afternoon were about 5-10 degrees higher
+than Wednesday afternoon in the inland valleys, mountains and
+deserts. This morning, the marine layer remains about 3,000 ft
+deep but the formation of low clouds is being disrupted and
+delayed by high-level moisture. With low pressure to our north
+and high pressure to our southeast giving us westerly flow aloft,
+high-level moisture from post-tropical storm Douglas is moving
+east over SoCal.
 
-...UPDATED AVIATION DISCUSSION...
+Through the weekend...a weak upper level disturbance will move in
+from the southwest bringing additional moisture from the remnants
+of post-tropical storm Douglas. The moisture could affect daytime
+and nighttime temperatures. It could suppress daytime heating and
+inhibit radiational cooling at night. At this time, it seems
+unlikely that any precipitation will result from the additional
+moisture but pm showers on Saturday in the San Diego County mtns
+cannot be ruled out.
 
-.DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
-SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
-COUNTIES...
+A gradual warming trend is expected through the middle of next
+week as the high pressure to our southeast expands westward over
+SoCal. This will bring fair weather with a shallower marine layer,
+and temperatures are likely to first rise to a few degrees above
+normal in the deserts on Monday. Next Wednesday looks like it will
+be the warmest day, with temperatures in the low to upper 70s for
+the coastal areas, the 80s to low 90s for inland OC and SD County,
+the low to upper 90s in the IE, the 70s to 80s for the mtns, the
+upper 90s to about 105 in the high desert and up to 113 degrees in
+the low deserts. Moderate to high HeatRisk is likely in the low
+deserts for next Tuesday through Friday.
 
-Our deep marine layer covered the entire coastal basin in clouds
-this morning. In what has become a typical pattern over the last
-couple weeks, low clouds cleared this morning in San Diego County
-before Orange County and much of the Inland Empire. Also, typical
-of this recent marine layer pattern, clouds will move ashore and
-inland in San Diego County early this evening, while developing
-much later in Orange County and the Inland Empire. High pressure
-aloft softly and gradually builds over the next week. However,
-the low clouds by Friday morning will not have the extent of
-overall coverage as they did this morning. On Saturday, the fourth
-of July, copious high level subtropical moisture arrives from the
-south. With no real triggers to lift this moisture to produce
-showers or thunderstorms, there is less than a slight chance of
-any preciptation with this moisture this weekend. Upper levels dry
-out Sunday night and Monday. The marine layer will get disrupted
-by the high level moisture this weekend, and the higher pressure
-aloft will suppress it. These factors will combine to reduce the
-spatial coverage and duration of coastal clouds. Friday morning
-will already begin the decreasing low cloud trend, continuing
-through the weekend. Low clouds should become more uniform again
-for Monday morning, as the upper level disruption exits. Models
-and associated ensembles agree on higher pressure aloft next week
-over the Southwest, but disagree on the timing, location, and
-strength of this upper ridge. With confidence, we believe there
-will be a warming trend next week, felt most noticeably in the
-mountains and deserts, where temperatures will rise to about 4-8
-degrees above normal. On Wednesday, our forecast high temps show
-110-113 degrees for the low desert, 96-102 for the high desert,
-and 90-100 for the Inland Empire. This time of year, that means a
-moderate HeatRisk for the deserts, with isolated major levels in
-the lower deserts Tuesday and beyond. The marine layer,
-reestablishing itself after the weekend disruption, will continue
-to moderate temperatures in coastal areas and valleys, remaining
-only a few degrees above seasonal.
+As the marine layer becomes shallower, night and morning low
+clouds and fog will become restricted to the coastal areas and
+western portions of the inland valleys. The marine layer and
+afternoon sea breezes will keep temperatures near or a few degrees
+above seasonal averages for the coastal areas.
 
 &&
 
 .AVIATION...
-030000Z....Coast/Valleys...SKC and VFR throughout the coastal basin.
-Low clouds based around 1200-1800 ft MSL are expected to develop
-around 02z at the SD County coast, slowly filling into SD County
-inland valleys through 07z, then filling into Orange County 07-12z.
-Confidence has decreased for cigs in the Inland Empire tonight: 40%
-chance for KONT and 25% chance for KSBD, between 12-16z. Patchy VIS
-reductions down to 3-6SM in eastern valleys and IE valleys. VIS
-improves and clouds scatter out 15-18z Friday. VFR Friday afternoon.
+030530Z....Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
+currently along the San Diego County coast will spread north into
+Orange County ant 15-20 mi inland through 12Z. There is a 50-60%
+chance of CIGS in the far southern and western parts of the Inland
+Empire 12-15Z, including at KONT. Local vis 3-5 SM in BR/HZ where
+clouds near terrain in the valleys. Clouds and vis restrictions
+clearing 15-18Z. Low clouds with similar bases redeveloping along
+the coast after 04/03-06Z. Otherwise SCT clouds at/above 20,000 ft
+MSL beginning Friday afternoon.
 
-
-Mountains/Deserts...Clear skies with unrestricted VIS through
-Friday afternoon.
+Mountains/Deserts...Mostly clear with unrestricted vis through
+Friday morning, then clouds at/above 20,000 ft increasing in
+coverage Friday afternoon and evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -452,8 +446,8 @@ PZ...None.
 
 $$
 
-PUBLIC...MM
-AVIATION/MARINE...Westerink
+PUBLIC...PG
+AVIATION/MARINE...SS
 
 
 </pre>
