@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-04T08:38:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-04T13:36:06+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,20 +349,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-930
-FXUS66 KSGX 040838
+078
+FXUS66 KSGX 040929
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-138 AM PDT Sat Jul 4 2026
+229 AM PDT Sat Jul 4 2026
 
 .SYNOPSIS...
 Fair and seasonal weather will continue for the coming week, with
@@ -377,6 +373,8 @@ with seasonal temperatures.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 This morning...The marine layer is around 1500 ft deep with low
 clouds increasing in coverage over the coastal areas and western
@@ -413,17 +411,16 @@ nights and mornings.
 &&
 
 .AVIATION...
-040500Z....Coast/Valleys...Patchy low clouds with bases 1000-1500 ft
-MSL redeveloping along the coast through 08z Sat for coastal San
-Diego County and 08-10z for coastal Orange County, spreading 15-20
-mi inland by 15Z. Coverage may remain patchy and intermittent
-through the night. Low clouds clearing 14-17Z, then returning
-to the coast after 05/04Z with similar bases.
+040930Z....Coast/Valleys...Patchy low clouds with bases 1000-1500 ft
+MSL continuing along the coast and locally up to 15-20 mi, with the
+greatest coverage in San Diego County. Low clouds clearing 14-17Z,
+then returning to the coast after 05/06Z with similar bases,
+spreading 15-20 mi inland by 12Z Sunday.
 
-Otherwise...Gradually increasing high clouds tonight and Saturday,
-thickening and lowering to 15,000 feet MSL Saturday morning,
-decreasing in coverage Saturday evening. Local 4-6 mi vis
-restrictions in FU/HZ 04-07Z Saturday evening.
+Otherwise...SCT-BKN high clouds at/above 20,000 ft MSL, thickening
+and lowering to 15,000 feet MSL later this morning. High clouds
+decreasing in coverage this evening. Local and brief 4-6 mi vis
+restrictions 04-07Z due to fireworks smoke this evening.
 
 &&
 
@@ -435,6 +432,7 @@ No hazardous marine conditions are expected through next Wednesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
