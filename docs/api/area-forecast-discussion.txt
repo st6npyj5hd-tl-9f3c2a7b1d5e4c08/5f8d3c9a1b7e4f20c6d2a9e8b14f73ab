@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-04T13:36:06+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-04T19:15:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-078
-FXUS66 KSGX 040929
+718
+FXUS66 KSGX 041734
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-229 AM PDT Sat Jul 4 2026
+1034 AM PDT Sat Jul 4 2026
 
 .SYNOPSIS...
 Fair and seasonal weather will continue for the coming week, with
@@ -411,28 +411,91 @@ nights and mornings.
 &&
 
 .AVIATION...
-040930Z....Coast/Valleys...Patchy low clouds with bases 1000-1500 ft
-MSL continuing along the coast and locally up to 15-20 mi, with the
-greatest coverage in San Diego County. Low clouds clearing 14-17Z,
-then returning to the coast after 05/06Z with similar bases,
-spreading 15-20 mi inland by 12Z Sunday.
+041730Z....Coast/Valleys...A few low clouds have been drifting in
+with bases 1,000-1,500ft MSL with the main cloud deck sitting around
+9,000-12,000ft MSL. These mid layer clouds are expected to continue
+through most of the period but, clear just enough along the coast to
+allow low clouds to form with bases 800-1,500ft MSL after 05-06Z.
+Low clouds clear 17-18Z Sunday.
 
-Otherwise...SCT-BKN high clouds at/above 20,000 ft MSL, thickening
-and lowering to 15,000 feet MSL later this morning. High clouds
-decreasing in coverage this evening. Local and brief 4-6 mi vis
-restrictions 04-07Z due to fireworks smoke this evening.
+Otherwise...SCT-BKN high clouds lift slightly to AOA 15,000 feet MSL
+with coverage beginning to decrease late this evening. Local and
+brief 4-6 mi vis restrictions 04-07Z will be possible due to
+fireworks smoke this evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through next Wednesday.
+No hazardous marine conditions are expected through next Thursday.
 
 &&
 
-.SKYWARN...
+.PREV DISCUSSION... /issued 815 PM PDT Fri Aug 1 2025/
+
+SYNOPSIS...
+Temperatures near average and marine layer low clouds each night
+and morning along the coast and in the western valleys through
+Tuesday. High pressure over the Desert Southwest will likely
+strengthen by the late next week, bringing a warming trend with
+temperatures 5 to 10 degrees above average away from the coast.
+There is the potential for monsoon moisture to return late in the
+week but precipitation chances remain below 10 percent.
+
+DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+This evening, the marine layer is about as deep as it was at this
+time yesterday but the low clouds seem slower to increase in
+coverage and advance inland. This may be due to a weaker inversion
+as a result of some cooling just above the inversion.
+
+From previous discussion...
+Our weather continues to be controlled by the dominant upper
+ridge currently positioned over southern Arizona and the
+low/trough centered over the Gulf of Alaska. As a result, the
+marine layer mixed out efficiently today with sunny skies
+extending several miles out to sea this afternoon. High
+temperatures today coming in right around climatological normals
+to 5 degrees below normal - topping out in the 80s to low 90s for
+most with 100-110 degrees for the deserts. As we head through the
+weekend and into next week, this ridge doesn`t budge much and
+stays relatively weak. Still, temperatures increase very gradually
+through Tuesday, with high temperatures by Tuesday afternoon only
+a couple of degrees warmer than today. The marine layer will
+continue to spread inland each night and retreat back to sea each
+day with depth varying between 700 and 1400ft.
+
+By the middle part of next week, the center of the ridge slides a
+bit closer to New Mexico, but also broadens and strengthens
+considerably, bringing more substantial warming for Wednesday and
+Thursday. Thursday and Friday will likely be the hottest days of
+the next week, with widespread moderate HeatRisk stretching
+towards the coasts and high HeatRisk spreading out of the deserts
+locally to inland valleys. High temperatures reaching or
+exceeding 100 degrees for inland valleys Thurs/Fri with the
+deserts likely exceeding 115 degrees (~90% chance). Available
+moisture will likely be quite below normal for early August most
+of next week, but recover to closer to normal by the end of the
+week. Still, chances for any monsoonal thunderstorms by the end of
+next week stay low, about 10 percent or less.
+
+AVIATION...
+020300Z....Coasts/Western Valleys...Low clouds based 700-1200 feet
+MSL are slowly moving inland, reaching its full inland extent by
+07Z. VIS reduced 0-5SM over higher coastal terrain and western
+valleys. Scatter out Saturday 15-17Z. VFR conditions Saturday
+afternoon. Low clouds redevelop at the coast around 04z Sun.
+
+Inland Valleys/Mountains/Deserts...Mostly clear with VFR conditions
+through late Saturday.
+
+MARINE...
+No hazardous marine conditions are expected through Wednesday.
+
+SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -445,7 +508,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE...SS
+AVIATION/MARINE...Villafane
 
 
 </pre>
