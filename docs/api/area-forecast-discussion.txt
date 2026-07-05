@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-05T03:34:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-05T08:54:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,23 +349,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-596
-FXUS66 KSGX 050016
+198
+FXUS66 KSGX 050842
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-516 PM PDT Sat Jul 4 2026
+142 AM PDT Sun Jul 5 2026
 
 .SYNOPSIS...
-High clouds today and tonight with clear viewing conditions for
-firework shows. Slow warming trend through Monday with lingering
-moisture before more substantial warming and a shallower marine
-layer for next week. Minor to moderate HeatRisk returns for the
-inland areas and deserts next week.
+High clouds will move to the north today, with a few very light
+showers possible over the San Bernardino mountains this morning.
+Expect a slow warming trend through Monday with lingering moisture
+before drier conditions and more substantial warming towards mid-
+week. Minor to moderate HeatRisk returns for the inland areas and
+deserts next week. The marine layer will become shallower with
+less low cloud coverage during the nights and mornings.
 
 &&
 
@@ -373,64 +377,54 @@ inland areas and deserts next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...New Aviation Discussion Below...
+This morning...Temperatures are generally higher than at this time
+yesterday, with inland areas as much as 5-10 degrees warmer. The
+marine layer is about 1500 ft deep and low clouds are increasing
+in coverage over the coastal areas and western parts of the San
+Diego County valleys. Low clouds are unlikely to spread farther
+inland than about 10-15 miles. SoCal is in a "dry slot" with
+clouds and showers over central CA and southern AZ but very light
+showers can`t be ruled out over the San Bernardino mountains this
+morning.
 
-A very light band of rain showers moved through Orange County and
-far northern San Diego county this morning, but little to no
-accumulation was recorded. The morning sounding showed ample
-moisture in the mid and upper levels, evident with the ongoing high
-cloud cover we have today region-wide. The high clouds also
-helped to push out our marine layer, which eroded before it was
-able to make it very far inland this morning. While high clouds
-will prevail today, no further rain showers are expected for
-anywhere outside of the highest points of the San Bernardino
-Mountains, which have a 10-15% chance to briefly see some light
-rain early this afternoon.
+Through Tuesday, SoCal will be caught between low pressure to the
+northwest and high pressure to the southeast with gradually drier
+southwest flow aloft. The high pressure will gradually expand
+westward exerting its influence over the region. This will bring
+dry and warmer weather through Friday. Wednesday and Thursday will
+likely be the warmest days, with high temperatures in the 70s-80s
+for the coastal areas, the 80s to 90s in the San Diego County
+valleys and inland OC, the 90s to low triple digits in the Inland
+Empire, the 80s to low 90s in the mountains, about 100-107 in the
+high desert, and 110-115 in the low deserts. The inland valleys
+could experience minor HeatRisk Tue-Thu. The high desert could
+experience minor to moderate HeatRisk Wed-Fri and the low deserts
+could experience moderate to locally high HeatRisk Tue-Fri.
 
-Conditions for firework viewing for coastal cities tonight will be
-quite favorable, as the marine layer will struggle to move back in
-early this evening, likely not filling in until closer to 10PM-
-midnight. For the deserts, periodic gusty winds at or above 15 mph
-this evening may impact things some, but winds should
-significantly weaken for everywhere but the mountain passes and
-desert slopes by 9PM. As mentioned before, no precipitation is
-expected for fireworks viewing. Inland valleys and the IE may be
-more prone to lingering air pollution from fireworks, with further
-information found in the Air Quality Alert from the SCAQMD.
+The building high pressure will also make the marine layer shallower
+restricting low clouds and fog to the coastal areas and western
+portions of the inland valleys during the nights and mornings.
 
-After today, weak troughing will hold in place while high pressure
-begins to build over the Four Corners. Temperatures will warm ever
-so slowly through Monday while low level moisture hangs around,
-with more noticeable warming in the deserts. By Tuesday, the
-thermal ridge axis will pivot with high pressure spreading into
-Southern California, and a more substantial warm up is expected by
-mid week. The marine layer will become more shallow, allowing
-even the coastal valleys to warm. Temperatures peak
-Wednesday/Thursday as the high becomes elongated over the
-Southwest and minor to moderate HeatRisk returns for the deserts
-and inland areas through the end of the week. If you work
-outdoors, make sure to have plenty of water and take frequent
-breaks! Friday and beyond, an approaching low off the coast of CA
-should begin to push the high back towards the Four Corners,
-hopefully allowing for at least a subtle cooldown for next
-weekend.
+As we move into next weekend, the high could change position
+becoming centered near the Four Corners. This could allow for a
+return of moisture from the sub-tropics as southerly flow develops
+over SoCal. However, this scenario is still fairly uncertain at
+this time due to differences in model solutions.
 
 &&
 
 .AVIATION...
-050000Z....Coast/Valleys...A few low clouds have been drifting in
-with bases 1,000-1,500ft MSL with the main cloud deck sitting around
-9,000-12,000ft MSL throughout this afternoon, adn will struggle adn
-regather to fill back in due to passage of mid and high level clouds
-ovhd, but will eventually do so after these clouds clear out by 05Z,
-with bases 800-1,500ft MSL after 05-06Z. Low clouds clear 17-18Z
-Sunday. Clouds will reform and move back in along the coast by 02-
-03Z Mon. with slightly lower bases.
+050600Z....Coast/Valleys...Low clouds continue to struggle to form
+and regather this evening due to passage of mid and high level
+clouds ovhd, but will eventually do so after these clouds clear out,
+with bases 800-1,500ft MSL, slightly lowering throughout the night.
+Low clouds begin to clear 17-18Z Sunday. Clouds will reform and move
+back in along the coast by 02-03Z Mon. with slightly lower bases.
 
 Otherwise...SCT-BKN high clouds lift slightly to AOA 15,000 feet MSL
-with coverage beginning to decrease late this evening. Local and
-brief 4-6 mi vis restrictions 04-07Z will be possible due to
-fireworks smoke this evening.
+with coverage decreasing through tomorrow morning. Local and brief 4-
+6 mi vis restrictions 04-07Z will be possible due to fireworks smoke
+this evening.
 
 &&
 
@@ -443,7 +437,6 @@ No hazardous marine conditions are expected through next Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -454,8 +447,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE...Stewey
+PUBLIC...PG
+AVIATION/MARINE...SS
 
 
 </pre>
