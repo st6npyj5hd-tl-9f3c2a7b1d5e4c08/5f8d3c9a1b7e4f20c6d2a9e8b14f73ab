@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-04T19:15:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-05T03:34:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,21 +352,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-718
-FXUS66 KSGX 041734
+596
+FXUS66 KSGX 050016
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1034 AM PDT Sat Jul 4 2026
+516 PM PDT Sat Jul 4 2026
 
 .SYNOPSIS...
-Fair and seasonal weather will continue for the coming week, with
-a gradual warming trend. The marine layer will gradually decrease
-in depth with night and morning low clouds not spreading as far
-inland nor lasting as long into the late mornings. Subtropical
-moisture will bring some high clouds this holiday weekend, but
-with seasonal temperatures.
+High clouds today and tonight with clear viewing conditions for
+firework shows. Slow warming trend through Monday with lingering
+moisture before more substantial warming and a shallower marine
+layer for next week. Minor to moderate HeatRisk returns for the
+inland areas and deserts next week.
 
 &&
 
@@ -374,49 +373,59 @@ with seasonal temperatures.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+...New Aviation Discussion Below...
 
-This morning...The marine layer is around 1500 ft deep with low
-clouds increasing in coverage over the coastal areas and western
-portions of the inland valleys. Due to the decreasing depth of the
-marine layer, low clouds are not expected to reach into the Inland
-Empire this morning. A large mass of mid and high clouds is moving
-over the region from the southwest. This is mostly moisture from
-the remnants of Post-Tropical Cyclone Douglas. There are convective
-elements embedded in the cloud mass but if any precipitation is
-produced, it`s unlikely to reach the ground due to the deep and
-dry sub-cloud layer. The widespread cloud cover will inhibit
-heating today and high temperatures this afternoon could be lower
-than expected in the mountains and deserts.
+A very light band of rain showers moved through Orange County and
+far northern San Diego county this morning, but little to no
+accumulation was recorded. The morning sounding showed ample
+moisture in the mid and upper levels, evident with the ongoing high
+cloud cover we have today region-wide. The high clouds also
+helped to push out our marine layer, which eroded before it was
+able to make it very far inland this morning. While high clouds
+will prevail today, no further rain showers are expected for
+anywhere outside of the highest points of the San Bernardino
+Mountains, which have a 10-15% chance to briefly see some light
+rain early this afternoon.
 
-By Monday, the upper level disturbance will have moved to the
-northeast into the Great Basin taking with it the elevated
-moisture and cloud cover. For Monday through the middle of next
-week, the warming trend will become more noticeable as the high
-pressure to our southeast expands westward into SoCal. The marine
-layer will become even shallower restricting the night and morning
-low clouds and fog mostly to the coastal areas. Wednesday and
-Thursday are likely to be the warmest days, with daytime high
-temperatures 5-10 degrees above normal in the inland valleys,
-mountains and deserts. Parts of the Inland Empire and the high
-desert could experience moderate HeatRisk Tue-Thu and the lower
-deserts could experience moderate to high HeatRsk.
+Conditions for firework viewing for coastal cities tonight will be
+quite favorable, as the marine layer will struggle to move back in
+early this evening, likely not filling in until closer to 10PM-
+midnight. For the deserts, periodic gusty winds at or above 15 mph
+this evening may impact things some, but winds should
+significantly weaken for everywhere but the mountain passes and
+desert slopes by 9PM. As mentioned before, no precipitation is
+expected for fireworks viewing. Inland valleys and the IE may be
+more prone to lingering air pollution from fireworks, with further
+information found in the Air Quality Alert from the SCAQMD.
 
-As we approach the end of next week...Fair weather will continue
-but stronger onshore flow could spread the marine layer influence
-farther inland resulting in a slight lowering of temperatures
-west of the mountains along with more low cloud cover during the
-nights and mornings.
+After today, weak troughing will hold in place while high pressure
+begins to build over the Four Corners. Temperatures will warm ever
+so slowly through Monday while low level moisture hangs around,
+with more noticeable warming in the deserts. By Tuesday, the
+thermal ridge axis will pivot with high pressure spreading into
+Southern California, and a more substantial warm up is expected by
+mid week. The marine layer will become more shallow, allowing
+even the coastal valleys to warm. Temperatures peak
+Wednesday/Thursday as the high becomes elongated over the
+Southwest and minor to moderate HeatRisk returns for the deserts
+and inland areas through the end of the week. If you work
+outdoors, make sure to have plenty of water and take frequent
+breaks! Friday and beyond, an approaching low off the coast of CA
+should begin to push the high back towards the Four Corners,
+hopefully allowing for at least a subtle cooldown for next
+weekend.
 
 &&
 
 .AVIATION...
-041730Z....Coast/Valleys...A few low clouds have been drifting in
+050000Z....Coast/Valleys...A few low clouds have been drifting in
 with bases 1,000-1,500ft MSL with the main cloud deck sitting around
-9,000-12,000ft MSL. These mid layer clouds are expected to continue
-through most of the period but, clear just enough along the coast to
-allow low clouds to form with bases 800-1,500ft MSL after 05-06Z.
-Low clouds clear 17-18Z Sunday.
+9,000-12,000ft MSL throughout this afternoon, adn will struggle adn
+regather to fill back in due to passage of mid and high level clouds
+ovhd, but will eventually do so after these clouds clear out by 05Z,
+with bases 800-1,500ft MSL after 05-06Z. Low clouds clear 17-18Z
+Sunday. Clouds will reform and move back in along the coast by 02-
+03Z Mon. with slightly lower bases.
 
 Otherwise...SCT-BKN high clouds lift slightly to AOA 15,000 feet MSL
 with coverage beginning to decrease late this evening. Local and
@@ -430,72 +439,10 @@ No hazardous marine conditions are expected through next Thursday.
 
 &&
 
-.PREV DISCUSSION... /issued 815 PM PDT Fri Aug 1 2025/
-
-SYNOPSIS...
-Temperatures near average and marine layer low clouds each night
-and morning along the coast and in the western valleys through
-Tuesday. High pressure over the Desert Southwest will likely
-strengthen by the late next week, bringing a warming trend with
-temperatures 5 to 10 degrees above average away from the coast.
-There is the potential for monsoon moisture to return late in the
-week but precipitation chances remain below 10 percent.
-
-DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
-SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
-COUNTIES...
-
-This evening, the marine layer is about as deep as it was at this
-time yesterday but the low clouds seem slower to increase in
-coverage and advance inland. This may be due to a weaker inversion
-as a result of some cooling just above the inversion.
-
-From previous discussion...
-Our weather continues to be controlled by the dominant upper
-ridge currently positioned over southern Arizona and the
-low/trough centered over the Gulf of Alaska. As a result, the
-marine layer mixed out efficiently today with sunny skies
-extending several miles out to sea this afternoon. High
-temperatures today coming in right around climatological normals
-to 5 degrees below normal - topping out in the 80s to low 90s for
-most with 100-110 degrees for the deserts. As we head through the
-weekend and into next week, this ridge doesn`t budge much and
-stays relatively weak. Still, temperatures increase very gradually
-through Tuesday, with high temperatures by Tuesday afternoon only
-a couple of degrees warmer than today. The marine layer will
-continue to spread inland each night and retreat back to sea each
-day with depth varying between 700 and 1400ft.
-
-By the middle part of next week, the center of the ridge slides a
-bit closer to New Mexico, but also broadens and strengthens
-considerably, bringing more substantial warming for Wednesday and
-Thursday. Thursday and Friday will likely be the hottest days of
-the next week, with widespread moderate HeatRisk stretching
-towards the coasts and high HeatRisk spreading out of the deserts
-locally to inland valleys. High temperatures reaching or
-exceeding 100 degrees for inland valleys Thurs/Fri with the
-deserts likely exceeding 115 degrees (~90% chance). Available
-moisture will likely be quite below normal for early August most
-of next week, but recover to closer to normal by the end of the
-week. Still, chances for any monsoonal thunderstorms by the end of
-next week stay low, about 10 percent or less.
-
-AVIATION...
-020300Z....Coasts/Western Valleys...Low clouds based 700-1200 feet
-MSL are slowly moving inland, reaching its full inland extent by
-07Z. VIS reduced 0-5SM over higher coastal terrain and western
-valleys. Scatter out Saturday 15-17Z. VFR conditions Saturday
-afternoon. Low clouds redevelop at the coast around 04z Sun.
-
-Inland Valleys/Mountains/Deserts...Mostly clear with VFR conditions
-through late Saturday.
-
-MARINE...
-No hazardous marine conditions are expected through Wednesday.
-
-SKYWARN...
+.SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -507,8 +454,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Villafane
+PUBLIC...Zuber
+AVIATION/MARINE...Stewey
 
 
 </pre>
