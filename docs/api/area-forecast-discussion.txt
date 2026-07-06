@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-06T15:36:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-06T19:59:29+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-696
-FXUS66 KSGX 060922
+436
+FXUS66 KSGX 061800
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-222 AM PDT Mon Jul 6 2026
+1100 AM PDT Mon Jul 6 2026
 
 .SYNOPSIS...
 Very dry for the deserts into the mountains through Friday. The
@@ -372,7 +372,6 @@ inland into portions of the western valleys at times.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -420,25 +419,25 @@ High temperatures for the lower deserts may plateau around 110 to
 &&
 
 .AVIATION...
-060930Z....Coast/Valleys...Very patchy low clouds based 800-1300 ft
-MSL are beginning to fill in at the coast, reaching up to 15 miles
-inland by 12z. VIS 1-5SM, locally below 1SM, in valleys east of I-15
-and where clouds meet terrain. Coverage to remain patchy throughout
-the morning in Orange County, including KSNA. Scatter out 15-18z
-Mon, then VFR through the evening. Low clouds with slightly lower
-bases redevelop over coastal areas around 06z Tue, filling inland in
-patchy fashion.
+061800Z....Coast/Valleys...SKC with VFR conditions expected through
+this evening. Patchy low clouds based 800-1200 ft MSL return to
+coastal San Diego County starting 06-09z Tue. Low clouds slowly push
+into Orange County and increase in coverage early Tuesday morning,
+reaching 10-15 miles inland by 13z. Patchy minor vis reductions (1-
+5SM) for elevated coastal terrain and western valleys. Low clouds
+scatter back to the coastline 15-17z.
 
-Otherwise...unrestricted vis and decreasing cloud cover at/above
-20,000 ft MSL through the end of the TAF period.
+Otherwise...VFR conditions expected through the end of the TAF
+period.
 
 &&
 
 .MARINE...
 Gusts around 20 to 25 kts are expected at times this afternoon and
-evening near San Clemente Island. Similar gusts near 20 kts are
-possible Tuesday afternoon. Otherwise, no hazardous marine
-conditions are expected through Saturday.
+evening near San Clemente Island. See the Small Craft Advisory for
+more details. Similar gusts near 20 kts are possible Tuesday
+afternoon. Otherwise, no hazardous marine conditions are expected
+through Saturday.
 
 &&
 
@@ -468,7 +467,7 @@ PZ...Small Craft Advisory from 2 PM this afternoon to midnight PDT
 $$
 
 PUBLIC...17
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...KW
 
 
 </pre>
