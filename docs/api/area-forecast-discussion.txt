@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-07T14:37:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-07T19:56:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,29 +345,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-196
-FXUS66 KSGX 070930
+147
+FXUS66 KSGX 071848
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-230 AM PDT Tue Jul 7 2026
+1148 AM PDT Tue Jul 7 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft will continue into Wednesday and
-Thursday with widespread moderate HeatRisk for inland areas and
-moderate to major HeatRisk for the lower deserts. There will be a
-few degrees of cooling for Friday and Saturday as high pressure
-aloft briefly weakens. For Sunday through Tuesday, there will be
-increasing humidity and monsoonal moisture as the flow aloft
-becomes southeasterly. There will be a slight chance of showers
-and thunderstorms for Sunday through Tuesday with the greater
-chances over the mountains and during the afternoon and early
-evening each day. Night and morning coastal low clouds will spread
-into the far western valleys at times late each night.
+High pressure will continue to strengthen and move closer to the
+region through the middle of the week, bringing hotter weather and
+increased heat risk to inland regions. Slow cooling occurs by the
+weekend as the area of high pressure moves to the northeast. In
+its wake, monsoonal moisture moves into the region on Sunday into
+at least the first half of next week. This will bring increased
+rain chances to inland areas with greater humidity for all.
 
 &&
 
@@ -375,58 +373,68 @@ into the far western valleys at times late each night.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM...
+Low clouds cleared beautifully off the coast this morning with
+clear skies remaining over inland areas. Time to turn up the heat
+this week! High temperatures will begin to feel warmer each day
+through Thursday as a 595 dm high over the Arizona/New Mexico
+border moves east and subtly strengthens. By Wednesday and
+Thursday, 850 mb readings go near to just over 30C over the
+deserts, highest over all on Thursday when the peak of the heat
+is expected to occur. High temperatures will range from 100-105
+across the Inland Empire, locally higher in the high desert. Lower
+deserts will see hot temperatures near 114-117 degrees. Even the
+mountains will be hot, so please do not venture outdoors during
+the late morning or afternoon hours as temperatures soar into the
+upper 80s to mid 90s. High temperatures for select mountain areas
+on Wednesday and Thursday will be near 95 in Julian, and upper
+80s in Idyllwild, Big Bear and Lake Arrowhead. Moderate to major
+heat risk is expected during this time for inland regions, so
+please take breaks, drink plenty of water and check on family and
+friends if you must be outside for long periods of time.
 
-...UPDATED AVIATION DISCUSSION...
-
-.SHORT TERM (Today through Thursday)...
-High pressure aloft will expand across the area and strengthen
-through Wednesday, then slowly weaken for Thursday and Friday.
-The warming trend will continue into Wednesday and Thursday with
-high temperatures around average near the coast to 5 to 10
-degrees above average for the deserts, mountains, and inland
-valleys.
-
-High temperatures on Wednesday and Thursday will range from the
-lower to mid 70s near the coast to the mid 90s to 105 for the
-Inland Empire with 113 to 117 for the lower deserts. Low
-temperatures for the lower deserts will be mostly in the 80s.
-The Heat Advisory for Wednesday and Thursday has been expanded to
-include the mountains, mostly below 6000 feet, with high
-temperatures in the mountains below 6000 feet mostly in the 90s.
-
-The marine layer will become gradually shallower with night and
-morning coastal low clouds not spreading inland much past the far
-western valleys.
+Temperatures will be near average toward the coast as the marine
+layer keeps these regions generously cooler in the 70s and lower
+80s. Low clouds will move into the coast and far western valleys
+each night.
 
 &&
 
-.LONG TERM (Friday through Monday)...
-For the weekend into early next week, the center of high pressure
-aloft will reposition over the Great Basin with the flow aloft
-across the area becoming southeasterly with an increase in
-monsoonal moisture. With the influx of moisture, high
-temperatures for inland areas will cool a few degrees and low
-temperatures will warm a few degrees. High temperatures will cool
-to within a few degrees of average for Sunday and Monday with high
-temperatures ranging from the lower to mid 70s near the coast to
-the 90s for Inland Empire with 104 to 108 for the lower deserts.
-There will be a slight chance of showers and thunderstorms for
-Sunday through Tuesday with the greater chances over the mountains
-and during the afternoon and early evening each day.
+.LONG TERM...
+By Friday, the area of high pressure slowly weakens, which will
+pull down temperatures by a few degrees, but still warm. The high
+begins to shift to the northeast as a troughing pattern develops
+off the West Coast. Clockwise flow around the high with the help
+of the trough off the coast will help funnel in subtropical
+moisture from the south and southwest. This will aid in an
+increase in humidity and a chance for showers and thunderstorms as
+the monsoon begins to wake up. Saturday looks to remain dry, with
+slightly more humid conditions.
+
+By sometime on Sunday, the area of high pressure moves closer to
+the Four Corners region, providing a better opportunity for
+increased moisture to enter the Desert Southwest. Model guidance
+is in good agreement on increasing PWAT values through the early
+part of next week. Exact details on timing and who sees rain or
+storms from this is still very preliminary. NBM shows chances for
+precipitation starting Sunday into at least the middle of next
+week across the mountains and deserts, locally into far inland
+valleys. As for temperatures, the region will still remain warm
+with highs well into the 90s across the Inland Empire and high
+desert, and 80s for the mountains and western valleys.
 
 &&
 
 .AVIATION...
-070930Z....Coast/Valleys...Patchy low clouds based 900-1300 ft MSL
-are slowly increasing in coverage through SD County up to 15 miles
-inland, slowly developing into Orange County through 13z. VIS 1-5SM
-for elevated coastal terrain and valleys east of the I-15 corridor.
-Scatter out 15-18z, then VFR through this evening. FEW-SCT low
-clouds to develop off the coast in the evening, only filling over
-coastal areas after 08z Wed.
+071730Z....Coast/Valleys...Low clouds have cleared most of the area
+with just a few low clouds around 1,200ft MSL wafting in. Clear
+skies will dominate this afternoon with low clouds at similar bases
+(900-1,300ft MSL) beginning to redevelop along the San Diego County
+coast after 01-02Z Wednesday and push inland (15-20 miles) and north
+after 07-09Z. Low clouds begin to clear 14-16Z Wednesday, clearing
+land areas by 17-18Z.
 
-.Mountains/Deserts...VFR and generally SKC with FEW high clouds AOA
-15,000ft.
+.Mountains/Deserts...VFR conditions prevail through the TAF period.
 
 &&
 
@@ -434,13 +442,12 @@ coastal areas after 08z Wed.
 Gusts around 20 to 25 kts are expected at times this afternoon and
 evening in the outer waters, especially near San Clemente Island.
 See the Small Craft Advisory for more details. Otherwise, no
-hazardous marine conditions are expected through Sunday.
-
+hazardous marine conditions are expected through Monday.
 &&
 
 .SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+Skywarn activation is not requested. However, weather spotters
+are encouraged to report significant weather conditions.
 
 
 &&
@@ -451,9 +458,9 @@ CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
      San Bernardino and Riverside County Valleys-The Inland
      Empire-San Diego County Mountains.
 
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT
-     Thursday for Coachella Valley-San Diego County Deserts-San
-     Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Thursday for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...Small Craft Advisory until midnight PDT tonight for Waters from
      San Mateo Point to the Mexican Border Extending 10 to 60 nm
@@ -464,8 +471,8 @@ PZ...Small Craft Advisory until midnight PDT tonight for Waters from
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Westerink
+PUBLIC...APR
+AVIATION/MARINE...Villafane
 
 
 </pre>
