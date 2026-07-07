@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-07T03:33:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-07T09:44:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,27 +345,31 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-218
-FXUS66 KSGX 062345
+196
+FXUS66 KSGX 070930
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-445 PM PDT Mon Jul 6 2026
+230 AM PDT Tue Jul 7 2026
 
 .SYNOPSIS...
-Very dry for the deserts into the mountains through Friday. The
-warming trend will continue for inland areas with the heat
-peaking on Wednesday and Thursday. There will be moderate to
-major HeatRisk for the lower deserts for Tuesday through Thursday.
-A few to around 5 degrees cooler for inland areas on Friday and
-Saturday, then slight warming with increasing humidity for Sunday
-through Tuesday of next week. The marine layer will keep coastal
-areas cooler with night and morning coastal low clouds spreading
-inland into portions of the western valleys at times.
+Strengthening high pressure aloft will continue into Wednesday and
+Thursday with widespread moderate HeatRisk for inland areas and
+moderate to major HeatRisk for the lower deserts. There will be a
+few degrees of cooling for Friday and Saturday as high pressure
+aloft briefly weakens. For Sunday through Tuesday, there will be
+increasing humidity and monsoonal moisture as the flow aloft
+becomes southeasterly. There will be a slight chance of showers
+and thunderstorms for Sunday through Tuesday with the greater
+chances over the mountains and during the afternoon and early
+evening each day. Night and morning coastal low clouds will spread
+into the far western valleys at times late each night.
 
 &&
 
@@ -376,98 +380,82 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM...Today 7/6 to Thursday 7/9...
-Mid-level high pressure centered over southeast Arizona today have
-brought warm temperatures typical for this time of year and mostly
-clear skies to the entire region. Away from the immediate coast,
-temperatures this afternoon are 1 to about 6 degrees above those
-at this time yesterday. This warming trend will continue through
-Thursday as the high pressure expands and gradually shifts east,
-centering over southern California by Wednesday.
+.SHORT TERM (Today through Thursday)...
+High pressure aloft will expand across the area and strengthen
+through Wednesday, then slowly weaken for Thursday and Friday.
+The warming trend will continue into Wednesday and Thursday with
+high temperatures around average near the coast to 5 to 10
+degrees above average for the deserts, mountains, and inland
+valleys.
 
-By Thursday, temperatures will be in the high 80s to mid 90s for
-inland Orange County/San Diego valleys/mountains, high 90s to just
-over 100 for the Inland Empire, around 105 degrees in the high
-desert, and 111-117 degrees in the low deserts (Coachella and San
-Diego desert). These temperatures are generally 5 to 10 degrees
-above average, and enough to bring locally moderate HeatRisk to
-the mountains westward (widespread moderate for the Inland Empire)
-and major HeatRisk for the low deserts.
+High temperatures on Wednesday and Thursday will range from the
+lower to mid 70s near the coast to the mid 90s to 105 for the
+Inland Empire with 113 to 117 for the lower deserts. Low
+temperatures for the lower deserts will be mostly in the 80s.
+The Heat Advisory for Wednesday and Thursday has been expanded to
+include the mountains, mostly below 6000 feet, with high
+temperatures in the mountains below 6000 feet mostly in the 90s.
 
-Dry conditions will accompany hot ones in the deserts and
-mountains, with afternoon minimum humidities dipping into the
-teens today and gradually dropping through about Thursday, but
-generally moderate to good humidity overnight will moderate this.
-Winds will be typically breezy in the afternoons for this time of
-year. The marine layer will grow more shallow as the high pressure
-"pushes" it down, limiting it to coastal regions and western
-valleys, moving in in the late evening and scattering out around
-mid-morning each day. These will keep immediate coastal areas
-relatively cool and level, with highs in the 70s each day.
+The marine layer will become gradually shallower with night and
+morning coastal low clouds not spreading inland much past the far
+western valleys.
 
 &&
 
-.LONG TERM...Friday 7/10 through next week...
-While high pressure lingers over Southern California Friday, the
-ridge will start to weaken and move east, leading to 3-4 degrees
-of cooling from Thursday to Friday. The ridge continues to push
-east over the weekend, and temperatures continue to subtly cool
-through at least Saturday, when high temperatures will likely be
-within 5 degrees of average for most areas.
-
-The center of the high continues to move to the northeast Sunday
-through early next week, and flow locally will turn south to
-southeasterly, advecting at least some moisture into the region
-starting Sunday and likely peaking (at least initially) Mon-Tue
-next week. At the least, this will lead to higher humidity in the
-deserts and mountains. Spread in exactly how much moisture will
-move in between global ensemble models (about an inch difference
-in PWAT between drier and wetter members) has lead to increased
-spread in temperature forecasts as well, both morning lows and
-afternoon highs. Increasing minimum temperatures for inland areas
-Sunday through early/mid next week is likely, while high
-temperature trends are more uncertain; temperatures may warm
-slightly for valley areas and level out for deserts.
-
-Finally, a handful of global ensemble members have spotty, high-
-based precipitation over the region, with a pretty significant
-range of time periods between late this weekend into parts of next
-week. The National Blend of Models (NBM) has the highest chances
-over the deserts/mountains for Monday currently, but there are
-small chances for light precipitation over areas further west as
-well.
+.LONG TERM (Friday through Monday)...
+For the weekend into early next week, the center of high pressure
+aloft will reposition over the Great Basin with the flow aloft
+across the area becoming southeasterly with an increase in
+monsoonal moisture. With the influx of moisture, high
+temperatures for inland areas will cool a few degrees and low
+temperatures will warm a few degrees. High temperatures will cool
+to within a few degrees of average for Sunday and Monday with high
+temperatures ranging from the lower to mid 70s near the coast to
+the 90s for Inland Empire with 104 to 108 for the lower deserts.
+There will be a slight chance of showers and thunderstorms for
+Sunday through Tuesday with the greater chances over the mountains
+and during the afternoon and early evening each day.
 
 &&
 
 .AVIATION...
-070000Z....Coast/Valleys...SKC with VFR conditions through this
-evening. Patchy low clouds based 800-1200 ft MSL return to coastal
-San Diego County starting 05-08z Tue. Low clouds slowly push into
-Orange County and increase in coverage after 08z, reaching 10-15
-miles inland by 13z. Pockets of VIS reductions (1-5SM) for elevated
-coastal terrain and western valleys. Low clouds scatter back to the
-coastline 15-17z with SKC and VFR prevailing through Tuesday evening.
+070930Z....Coast/Valleys...Patchy low clouds based 900-1300 ft MSL
+are slowly increasing in coverage through SD County up to 15 miles
+inland, slowly developing into Orange County through 13z. VIS 1-5SM
+for elevated coastal terrain and valleys east of the I-15 corridor.
+Scatter out 15-18z, then VFR through this evening. FEW-SCT low
+clouds to develop off the coast in the evening, only filling over
+coastal areas after 08z Wed.
 
 .Mountains/Deserts...VFR and generally SKC with FEW high clouds AOA
-15,000ft this evening and again Tuesday afternoon/evening.
+15,000ft.
 
 &&
 
 .MARINE...
-Gusts 20 to 25 kts through this evening near San Clemente Island.
-See the Small Craft Advisory for more details. Similar gusts near 20
-kts are possible Tuesday afternoon. Otherwise, no hazardous marine
-conditions are expected through Saturday.
+Gusts around 20 to 25 kts are expected at times this afternoon and
+evening in the outer waters, especially near San Clemente Island.
+See the Small Craft Advisory for more details. Otherwise, no
+hazardous marine conditions are expected through Sunday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for San
-     Bernardino and Riverside County Valleys-The Inland Empire.
+CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
+     Riverside County Mountains-San Bernardino County Mountains-
+     San Bernardino and Riverside County Valleys-The Inland
+     Empire-San Diego County Mountains.
 
-     Extreme Heat Warning from 10 AM Tuesday to 8 PM PDT Thursday for
-     Coachella Valley-San Diego County Deserts-San Gorgonio Pass
-     near Banning.
+     Extreme Heat Warning from 10 AM this morning to 8 PM PDT
+     Thursday for Coachella Valley-San Diego County Deserts-San
+     Gorgonio Pass near Banning.
 
 PZ...Small Craft Advisory until midnight PDT tonight for Waters from
      San Mateo Point to the Mexican Border Extending 10 to 60 nm
@@ -478,8 +466,8 @@ PZ...Small Craft Advisory until midnight PDT tonight for Waters from
 
 $$
 
-PUBLIC...CSP
-AVIATION/MARINE...Zuber
+PUBLIC...17
+AVIATION/MARINE...Westerink
 
 
 </pre>
