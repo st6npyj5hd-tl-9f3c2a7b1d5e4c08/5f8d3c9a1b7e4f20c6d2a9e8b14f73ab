@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-08T08:30:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-08T14:12:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,22 +348,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-796
-FXUS66 KSGX 080434
+503
+FXUS66 KSGX 080956
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-934 PM PDT Tue Jul 7 2026
+256 AM PDT Wed Jul 8 2026
 
 .SYNOPSIS...
-High pressure will continue to strengthen and move closer to the
-region through the middle of the week, bringing hotter weather and
-increased heat risk to inland regions. Slow cooling occurs by the
-weekend as the area of high pressure moves to the northeast. In
-its wake, monsoonal moisture moves into the region on Sunday into
-at least the first half of next week. This will bring increased
-rain chances to inland areas with greater humidity for all.
+Strong high pressure will continue the warming today with
+widespread moderate or greater HeatRisk for inland areas into
+Friday with widespread major HeatRisk for the lower deserts
+through Thursday. For Sunday into next week, monsoonal moisture in
+southeast flow alot will increase the humidity and bring chances
+for showers and thunderstorms with the greater chances over the
+mountains each afternoon and early evening.
 
 &&
 
@@ -371,77 +371,72 @@ rain chances to inland areas with greater humidity for all.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/MARINE DISCUSSION...
-
 .SHORT TERM...
-Low clouds cleared beautifully off the coast this morning with
-clear skies remaining over inland areas. Time to turn up the heat
-this week! High temperatures will begin to feel warmer each day
-through Thursday as a 595 dm high over the Arizona/New Mexico
-border moves east and subtly strengthens. By Wednesday and
-Thursday, 850 mb readings go near to just over 30C over the
-deserts, highest over all on Thursday when the peak of the heat
-is expected to occur. High temperatures will range from 100-105
-across the Inland Empire, locally higher in the high desert. Lower
-deserts will see hot temperatures near 114-117 degrees. Even the
-mountains will be hot, so please do not venture outdoors during
-the late morning or afternoon hours as temperatures soar into the
-upper 80s to mid 90s. High temperatures for select mountain areas
-on Wednesday and Thursday will be near 95 in Julian, and upper
-80s in Idyllwild, Big Bear and Lake Arrowhead. Moderate to major
-heat risk is expected during this time for inland regions, so
-please take breaks, drink plenty of water and check on family and
-friends if you must be outside for long periods of time.
+High pressure aloft will continue to strengthen across the area
+today with forecast 500 mb heights later today above the 95th
+percentile, but not quite record setting for the date. High
+pressure will then slowly weaken through Thursday night before
+beginning to restrengthen on Friday. Widespread moderate or
+greater HeatRisk will continue for the Inland Empire, mountain
+elevations below 6000 feet, and the deserts through Friday with
+widespread major HeatRisk for the lower deserts through Thursday.
+The Excessive Heat Warning for the lower deserts and Heat
+Advisories for the Inland Empire and mountain elevations below
+6000 feet through Thursday may need to be extended through Friday.
 
-Temperatures will be near average toward the coast as the marine
-layer keeps these regions generously cooler in the 70s and lower
-80s. Low clouds will move into the coast and far western valleys
-each night.
+High temperatures for today will warm and few to around 5 degrees
+for inland areas with not much change on Thursday. High
+temperatures on Friday will only cool slightly. High temperatures
+for today and Thursday will range from near average at the coast
+to 5 to 10 degrees above average for the mountains, deserts, and
+inland valleys. High temperatures for today and Thursday will
+range from the  70s near the coast to the mid 90s to 105 for the
+Inland Empire with 112 to 118 for the lower deserts. While these
+high temperatures are expected to mostly remain below daily high
+temperature records, there could be a few record warm low
+temperatures in the mountains.
+
+The marine layer will continue to become slightly shallower with
+night and morning coastal low clouds spreading into the far
+western valleys at times.
 
 &&
 
-.LONG TERM...
-By Friday, the area of high pressure slowly weakens, which will
-pull down temperatures by a few degrees, but still warm. The high
-begins to shift to the northeast as a troughing pattern develops
-off the West Coast. Clockwise flow around the high with the help
-of the trough off the coast will help funnel in subtropical
-moisture from the south and southwest. This will aid in an
-increase in humidity and a chance for showers and thunderstorms as
-the monsoon begins to wake up. Saturday looks to remain dry, with
-slightly more humid conditions.
-
-By sometime on Sunday, the area of high pressure moves closer to
-the Four Corners region, providing a better opportunity for
-increased moisture to enter the Desert Southwest. Model guidance
-is in good agreement on increasing PWAT values through the early
-part of next week. Exact details on timing and who sees rain or
-storms from this is still very preliminary. NBM shows chances for
-precipitation starting Sunday into at least the middle of next
-week across the mountains and deserts, locally into far inland
-valleys. As for temperatures, the region will still remain warm
-with highs well into the 90s across the Inland Empire and high
-desert, and 80s for the mountains and western valleys.
+.LONG TERM (Saturday through Tuesday)...
+The center of high pressure aloft across southern California into
+Arizona on Friday will strengthen and move toward the northeast
+over the weekend. The flow aloft across the area will become
+southeasterly over the weekend into early next week with monsoonal
+moisture increasing for Sunday into early next week. Over the
+past couple of days, ECMWF ensemble precipitable water values have
+trended higher while the spread between wetter and drier ensemble
+members has narrowed. There will be a slight chance for showers
+on Sunday with greater chances for shower and thunderstorms over
+the mountains on Monday afternoon. Chances for afternoon and early
+evening thunderstorms for the mountains could continue through at
+least the middle of next week.
 
 &&
 
 .AVIATION...
-080430Z....Coast/Valleys...Low clouds with bases 800-1200 ft have
-developed offshore, re-developing and pushing inland 15-20 miles
-inland 06-10Z, and into OC 09-13z. Vis restrictions of 3-5 SM
-possible near KCRQ and other higher coastal terrain. Low clouds and
-any vis restrictions will scatter 15-17Z. VFR through the afternoon.
-Low clouds with similar bases re-develop offshore after 00z Thu.
+080930Z....Coast/Valleys...Low clouds with bases 900-1300 ft have
+filled into most of San Diego County coastal areas up to 15 miles
+inland and are now filling into the OC lowlands from south to north.
+Vis restrictions of 3-5 SM along higher coastal terrain and locally
+in valleys east of I-15. Low clouds and any vis restrictions will
+scatter 15-17Z. VFR through the afternoon. Low clouds with similar
+bases re-develop offshore after 00z Thu, filling into coastal SD
+County (up to 15 miles inland) and southern OC from 05-09z.
 
-.Mountains/Deserts...VFR conditions prevail through the TAF period.
+Mountains/Deserts...VFR conditions prevail through the TAF
+period.
 
 &&
 
 .MARINE...
-Gusts near 21 kt are expected through this evening in the outer
-waters, especially near San Clemente Island. Winds will decrease
-into Wednesday morning. Otherwise, no hazardous marine conditions
-are expected through Monday.
+Breezy gusts near San Clemente Island will continue to diminish
+through the morning. Otherwise, no hazardous marine conditions are
+expected through Monday.
 
 &&
 
@@ -459,11 +454,10 @@ tides.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
+CA...Heat Advisory from 10 AM this morning to 8 PM PDT Thursday for
      Riverside County Mountains-San Bernardino County Mountains-
      San Bernardino and Riverside County Valleys-The Inland
      Empire-San Diego County Mountains.
@@ -472,16 +466,13 @@ CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
      Valley-San Diego County Deserts-San Gorgonio Pass near
      Banning.
 
-PZ...Small Craft Advisory until midnight PDT tonight for Waters from
-     San Mateo Point to the Mexican Border Extending 10 to 60 nm
-     out including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
+PUBLIC...17
 AVIATION/MARINE/BEACHES...Westerink
 
 
