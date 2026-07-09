@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-08T19:26:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-09T03:26:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-077
-FXUS66 KSGX 081855
+368
+FXUS66 KSGX 082324
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1155 AM PDT Wed Jul 8 2026
+424 PM PDT Wed Jul 8 2026
 
 .SYNOPSIS...
 A strong area of high pressure will bring hot weather through the
@@ -370,6 +370,9 @@ for the entire region.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
 It`s getting warm out there...highs by late morning have eclipsed
 100 degrees in parts of the lower deserts. A lovely walk outside
@@ -410,15 +413,10 @@ areas, for this weekend into the foreseeable future.
 &&
 
 .AVIATION...
-081730Z....Coast/Valleys...Low clouds have cleared inland locations
-but are hanging onto the OC coast and a few areas of the SD coast.
-These low clouds based around 1,400ft MSL should clear at least OC
-in the next hour with a 30-40% chance of it sticking along areas of
-the SD coast through 20Z. VFR conditions will prevail through 02-04Z
-when low clouds with bases 700-1,100ft MSL will start developing
-along SD coast. Low clouds will increase in coverage and push north
-and inland up to 20 miles 07-09Z. Clouds will begin to clear inland
-locations after 15Z, clearing most coastal sites by 18Z.
+082320Z....Coast/Valleys...Low clouds with bases 700-1200 ft MSL
+will start developing along the immediate coast around 04Z. Low
+clouds are expected to increase in coverage and push inland up to 20
+miles 07-09Z. Low clouds expected to clear 16-18Z.
 
 .Mountains/Deserts...VFR conditions prevail through the TAF period.
 
@@ -429,10 +427,13 @@ No hazardous marine conditions are expected through Tuesday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+.BEACHES...
+Astronomical high tides of 7.0-7.2 ft are forecast July 12-14.
+Higher than normal tides combined with a modest south swell (3 ft
+swell 14/15 seconds from 190 degrees) generating surf of 4-6 ft may
+result in areas of coastal flooding in low lying areas, boardwalks,
+beach parking lots, and beach adjacent streets during evening high
+tides.
 
 &&
 
@@ -452,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Villafane
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
