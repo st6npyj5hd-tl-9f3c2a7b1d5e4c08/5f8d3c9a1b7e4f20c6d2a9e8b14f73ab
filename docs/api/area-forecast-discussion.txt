@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-09T03:26:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-09T09:41:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,25 +345,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-368
-FXUS66 KSGX 082324
+148
+FXUS66 KSGX 090933
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-424 PM PDT Wed Jul 8 2026
+233 AM PDT Thu Jul 9 2026
 
 .SYNOPSIS...
-A strong area of high pressure will bring hot weather through the
-middle of the week for areas away from the coast. Slight cooling
-occurs by the weekend as high pressure moves to the northeast. In
-its wake, monsoonal moisture moves into the region on Sunday into at
-least the first half of next week. This will bring increased rain
-and thunderstorm chances to inland areas with greater humidity
-for the entire region.
+The warming trend will continue today with high temperatures for
+Friday and Saturday a few degrees cooler. The flow across the area
+becomes southeasterly for Sunday into next week allowing for an
+influx of monsoonal moisture. For Sunday into the middle of next
+week, there will be a chance for showers and thunderstorms with
+the greater chances over the mountains and during the afternoon
+and early evening each day. Increasing humidity will result in
+warmer nights and higher HeatRisk by the middle of next week.
 
 &&
 
@@ -372,51 +375,57 @@ SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+...UPDATED AVIATION DISCUSSION...
 
-It`s getting warm out there...highs by late morning have eclipsed
-100 degrees in parts of the lower deserts. A lovely walk outside
-our office was had, but that early July sun angle definitely made
-those 70s feel quite toasty! Moderate (level 3 of 5) to Major
-(level 4 of 5) HeatRisk is now expected for inland regions through
-Friday, as the heat alerts have been extended one more day. We
-would like to remind everyone to practice good heat safety: drink
-plenty of water, seek shade, and take breaks if working/spending
-time outside, and check on family, friends, and neighbors. Hiking
-in the mountains is also discouraged! During this time period,
-high temperatures in the lower desert will be near 115 degrees and
-near 100 to 110 in the high desert. Areas of the Inland Empire
-will warm up to 105 degrees each day as well, with plentiful 90s
-in the SD/RIV County mountains and inland valleys. Low
-temperatures will cool off pretty well for most areas, but the
-lower deserts will remain warm in the upper 70s and 80s.
+.SHORT TERM (Today through Saturday)...
+The warming trend will continue today with high temperatures for
+Friday and Saturday a few degrees cooler. There will be widespread
+major HeatRisk for the lower deserts today with widespread
+moderate HeatRisk for other inland areas.
 
-The area of high pressure over the region this week will move to the
-northeast by this weekend. This will give the opportunity for the
-flow aloft to move in from the southeast, bringing in greater
-monsoonal moisture to the region in the form of higher humidity
-and chances for showers and thunderstorms. Saturday will remain
-dry, where humidity will first start to increase. Models indicate
-PWAT`s peaking by Sunday through Monday, along with a noted
-indication of increased CAPE across inland areas. Southeast flow
-aloft becomes more apparent by Sunday (possibly as early as early
-Sunday morning), where slight chances of rain begin to be
-introduced for parts of the region. Daily chances for showers and
-thunderstorms will be across primarily the mountains and deserts,
-locally into the eastern parts of the valleys in Inland Empire and
-San Diego County, through at least the middle of next week. The
-forecast shows the highest chances of storms on Monday afternoon
-across our mountain areas. With this flow pattern, higher
-humidity will remain across the entire region, including coastal
-areas, for this weekend into the foreseeable future.
+High temperatures for today will be around average near the coast
+to 5 to 10 degrees above average for the mountains, deserts, and
+inland valleys. High temperatures for today will range from the
+70s near the coast to the mid 90s to 104 for the Inland Empire
+with 113 to 117 for the lower deserts.
+
+Night and morning coastal low clouds will spread into the far
+western valleys at times into the weekend.
+
+&&
+
+.LONG TERM (Sunday through Wednesday)...
+As the center of strong high pressure moves to the northeast, the
+flow across the area will become southeasterly allowing for an
+influx of monsoonal moisture for late Saturday into Sunday with
+growing spread by the middle of next week as to what degree that
+greater moisture persists. There will be chances for showers and
+thunderstorms beginning on Sunday with the greater chances over
+the mountains and during the afternoon and early evening each day.
+
+There will be warming of low temperatures with low temperatures
+mostly 5 to 10 degrees above average by Wednesday and Thursday of
+next week. For Wednesday and Thursday of next week, there could be
+low temperatures for the coast and valleys mostly in the upper 60s
+to mid 70s and in the lower deserts in the mid 80s to lower 90s.
+
+Those warming low temperatures will result in higher HeatRisk for
+most areas with moderate or greater HeatRisk for most areas for
+Wednesday of next week except at higher elevations in the
+mountains and near the coast. There will be moderate to major
+HeatRisk for the lower deserts, the valleys, and inland Orange
+County.
 
 &&
 
 .AVIATION...
-082320Z....Coast/Valleys...Low clouds with bases 700-1200 ft MSL
-will start developing along the immediate coast around 04Z. Low
-clouds are expected to increase in coverage and push inland up to 20
-miles 07-09Z. Low clouds expected to clear 16-18Z.
+090930Z....Coast/Valleys...Low clouds with bases 800-1200 ft MSL
+have filled in coverage up to 20 miles inland. VIS 2-6SM along
+elevated coastal terrain and around the I-15 corridor in SD County.
+Clouds scatter out 16-18Z. VFR through the evening. Low clouds with
+similar bases (and similar VIS reductions in BR) form along the
+coast after 03z Fri, patchy initially, then filling in coverage
+gradually after 07z up to 20 miles inland.
 
 .Mountains/Deserts...VFR conditions prevail through the TAF period.
 
@@ -437,6 +446,13 @@ tides.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Heat Advisory until 8 PM PDT Friday for Riverside County
      Mountains-San Bernardino County Mountains-San Bernardino
@@ -452,8 +468,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...CO
+PUBLIC...17
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
