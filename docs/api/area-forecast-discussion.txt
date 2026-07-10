@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-10T09:37:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-10T14:29:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-284
-FXUS66 KSGX 100704
+735
+FXUS66 KSGX 101219 CCA
 AFDSGX
 
-Area Forecast Discussion
+Area Forecast Discussion...CORRECTED
 National Weather Service San Diego CA
-1204 AM PDT Fri Jul 10 2026
+519 AM PDT Fri Jul 10 2026
 
 .SYNOPSIS...
 A strong area of high pressure will continue to bring hot weather
@@ -374,6 +376,9 @@ areas with greater humidity for the entire region.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through tomorrow night...
 
@@ -404,19 +409,19 @@ as it was tonight.
 
 Sunday through Thursday of next week...
 
-By Sunday, as the negatively tilted ridge over the entire western
-region is stretched and expanded back towards the west through the
+By Sunday, a negatively tilted ridge over the entire western
+region will stretch and expand back towards the west through the
 mid part of next week. This will result in the production of
 monsoonal waves to develop during the afternoon over the lower
 deserts of Arizona, which will then propagate over southern
 California as they move in from the east, and allow for chances of
-afternoon showers and thunderstorms over the mountains and deserts
-each afternoon through Thursday of next week. There could even be a
-few of these waves propagating further enough westward to bring a
-slight chance of showers/storms to the coastal areas as well,
-although given the stability west of the mountains, these will
-likely fall apart quickly as they do. This will also result in
-increased humidity values, with more of that summer "muggy"
+afternoon showers and thunderstorms over the mountains and
+deserts each afternoon through Thursday of next week. There could
+even be a few of these waves propagating further enough westward
+to bring a slight chance of showers/storms to the coastal areas as
+well, although given the stability west of the mountains, these
+will likely fall apart quickly as they do. This will also result
+in increased humidity values, with more of that summer "mugginess"
 feeling next week. There will also be increasing heat as a result
 of the expanding ridge, with 596 dm heights overhead by Wednesday
 and Thursday of next week. This will likely translate into the
@@ -429,20 +434,22 @@ monsoonal waves.
 &&
 
 .AVIATION...
-100520Z....Coast...Cigs 700-1200 ft MSL will become widespread
-across the coast and western valleys overnight. Chances for cigs
-below 1000 ft for coastal TAF sites is highest from 10-14Z at 80
+101200Z....Coast/Valleys...Cigs 700-1200 ft MSL widespread across
+the coast and western valleys through this morning. Chances for cigs
+below 1000 ft for coastal TAF sites is highest through 14Z at 80
 percent. Vis restricted 1-5SM over higher coastal terrain. Scatter
-out Friday 16-18Z, but patchy low clouds to persist along immediate
-coast into the afternoon. Low clouds around 1000-1500 feet MSL to
-move ashore after 03Z Saturday.
+out 16-18Z, but patchy low clouds to persist along immediate coast
+into the afternoon. Low clouds around 1000-1500 feet MSL to move
+ashore after 03Z Saturday and continue to fill into the inland
+valleys throughout the rest of the forecast period (through 12Z),
+with cigs slightly higher tomorrow evening.
 
-.Valleys/Mountains/Deserts...VFR conditions through the TAF period.
+.Mountains/Deserts...VFR conditions through the TAF period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
@@ -470,7 +477,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...CO
+AVIATION/MARINE...Stewey
 
 
 </pre>
