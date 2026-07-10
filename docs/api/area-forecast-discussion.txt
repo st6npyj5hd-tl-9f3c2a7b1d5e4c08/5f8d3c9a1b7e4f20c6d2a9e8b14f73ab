@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-09T19:48:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-10T03:29:07+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,16 +347,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-023
-FXUS66 KSGX 091906
+144
+FXUS66 KSGX 092346 CCA
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1206 PM PDT Thu Jul 9 2026
+446 PM PDT Thu Jul 9 2026
 
 .SYNOPSIS...
 A strong area of high pressure will continue to bring hot weather
@@ -373,55 +375,56 @@ areas with greater humidity for the entire region.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-A stronger inversion is seen on this morning`s atmospheric
-sounding, near 13C, which will give the marine layer clouds a
-tough time to clear the beaches today. The heat continues away
-from our coastal areas again with highs in the triple digits for
-our deserts, and well into the 90s for far inland valleys and
-southern mountain areas. Moderate to high heat risk is again in
-the forecast through Friday for these areas, so please take breaks
-and drink plenty of water if you must be outside.
+...UPDATED AVIATION DISCUSSION...
 
-High pressure over the region today and Friday will begin to move
-to the northeast this weekend. This will knock temperatures down
-a few degrees for areas away from the coast. As the system moves
+A stronger inversion is seen on this morning`s atmospheric sounding,
+near 13C, which will give the marine layer clouds a tough time to
+clear the beaches today. The heat continues away from our coastal
+areas again with highs in the triple digits for our deserts, and
+well into the 90s for far inland valleys and southern mountain
+areas. Moderate to high heat risk is again in the forecast through
+Friday for these areas, so please take breaks and drink plenty of
+water if you must be outside.
+
+High pressure over the region today and Friday will begin to move to
+the northeast this weekend. This will knock temperatures down a few
+degrees for areas away from the coast. As the system moves
 northeast, southeasterly flow around the high will bring greater
 humidity and monsoonal moisture to the region starting on Sunday.
 This will bring a slight chance of thunderstorms mainly to the
-northern mountains in the afternoon. Limiting factors for
-convection to form are a lack of instability as well as getting
-the atmosphere moist enough after a very hot dry air mass having
-been over us this week. Models indicate a continued uptick in
-moisture by Monday with a better moisture feed pattern aligning
-over SoCal. The best chances for showers and thunderstorms will
-be over the mountains and deserts, locally into the far eastern
-valleys.
+northern mountains in the afternoon. Limiting factors for convection
+to form are a lack of instability as well as getting the atmosphere
+moist enough after a very hot dry air mass having been over us this
+week. Models indicate a continued uptick in moisture by Monday with
+a better moisture feed pattern aligning over SoCal. The best chances
+for showers and thunderstorms will be over the mountains and
+deserts, locally into the far eastern valleys.
 
 Models indicate the high moving and expanding into the northern
 Great Plains by the middle of the week, retreating back across the
-Intermountain West by the end of next week. Monsoonal moisture
-looks to continue moving into the region through much of next
-week around this system, bringing daily chances for showers and
-thunderstorms across the mountains and deserts. With this flow
-pattern, Sunday and beyond looks to be humid for all areas of our
-region as well! As the high retreats closer to the region,
-temperatures make a rebound by the middle of the week. This will
-bring moderate to high heat risk for areas away from the coastal
-regions, including the valleys of Orange and San Diego County.
+Intermountain West by the end of next week. Monsoonal moisture looks
+to continue moving into the region through much of next week around
+this system, bringing daily chances for showers and thunderstorms
+across the mountains and deserts. With this flow pattern, Sunday and
+beyond looks to be humid for all areas of our region as well! As the
+high retreats closer to the region, temperatures make a rebound by
+the middle of the week. This will bring moderate to high heat risk
+for areas away from the coastal regions, including the valleys of
+Orange and San Diego County.
 
 &&
 
 .AVIATION...
-091800Z....Coast/Valleys...Low clouds have cleared inland areas and
-are clinging to the coast with bases around 1,200ft MSL. There is a
-30-40% chance that these low clouds will stick to most coastal areas
-through the TAF period. Low clouds will begin their march inland
-after 02-03Z Friday, reaching inland 20 miles by 06-07Z. Bases will
-be 700-1,100ft MSL with VIS 2-6SM along elevated coastal terrain.
-Low clouds will start their retreat after 15Z, clearing most coastal
-locations by 18Z Friday.
+092330Z....Coast...Areas of low clouds based around 1200-1500 feet
+MSL will push ashore after 03Z and cover all coastal areas overnight
+by around 09Z. Cigs will lower to 800-1000 feet overnight. Vis
+restricted 1-5SM over higher coastal terrain. Scatter out Friday 16-
+18Z, but patchy low clouds to persist along immediate coast. Low
+clouds around 1000-1500 feet MSL to move ashore after 04Z Saturday.
 
-.Mountains/Deserts...VFR conditions prevail through the TAF period.
+.Valleys/Mountains/Deserts...Mostly clear and VFR conditions to
+continue through Friday evening. Onshore winds 25-30 kts through
+mountain passes and locally into deserts.
 
 &&
 
@@ -430,10 +433,19 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
+.BEACHES...
+Astronomical high tides of 7.0-7.2 ft are forecast July 12-14.
+Higher than normal tides combined with a modest south swell (3 ft
+swell 14/15 seconds from 190 degrees) generating surf of 4-6 ft may
+result in areas of coastal flooding in low lying areas, boardwalks,
+beach parking lots, and beach adjacent streets during evening high
+tides.
+
+&&
+
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -453,7 +465,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Villafane
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
