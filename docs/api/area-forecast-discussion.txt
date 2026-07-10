@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-10T03:29:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-10T09:37:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-144
-FXUS66 KSGX 092346 CCA
+284
+FXUS66 KSGX 100704
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-446 PM PDT Thu Jul 9 2026
+1204 AM PDT Fri Jul 10 2026
 
 .SYNOPSIS...
 A strong area of high pressure will continue to bring hot weather
@@ -375,56 +375,69 @@ areas with greater humidity for the entire region.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through tomorrow night...
 
-A stronger inversion is seen on this morning`s atmospheric sounding,
-near 13C, which will give the marine layer clouds a tough time to
-clear the beaches today. The heat continues away from our coastal
-areas again with highs in the triple digits for our deserts, and
-well into the 90s for far inland valleys and southern mountain
-areas. Moderate to high heat risk is again in the forecast through
-Friday for these areas, so please take breaks and drink plenty of
-water if you must be outside.
+Currently, the marine layer is slowly expanding further eastward
+into roughly around 5 miles inland for Orange and San Diego
+counties, with bases generally between 500 to 1200 ft MSL. These
+clouds will remain in place through the early morning hours, and
+then should gradually dissipate fairly quickly for the inland areas,
+as this layer is relatively thin. This should then further mix out
+with clearing to the coastal areas by approximately 10 to 11 AM.
 
-High pressure over the region today and Friday will begin to move to
-the northeast this weekend. This will knock temperatures down a few
-degrees for areas away from the coast. As the system moves
-northeast, southeasterly flow around the high will bring greater
-humidity and monsoonal moisture to the region starting on Sunday.
-This will bring a slight chance of thunderstorms mainly to the
-northern mountains in the afternoon. Limiting factors for convection
-to form are a lack of instability as well as getting the atmosphere
-moist enough after a very hot dry air mass having been over us this
-week. Models indicate a continued uptick in moisture by Monday with
-a better moisture feed pattern aligning over SoCal. The best chances
-for showers and thunderstorms will be over the mountains and
-deserts, locally into the far eastern valleys.
+High pressure conditions continue to dominate the region. This will
+translate to another warm day, with Extreme Heat Warning for the
+lower deserts, and Heat Advisories in place for the Inland Empire
+through today. There will be an influx of some mid-level monsoonal
+moisture that will be moving in from the southeast during the
+morning hours and throughout the day on Saturday. This will help to
+slightly cool temperatures, especially over the deserts, due to the
+increase of moisture. This may also result in a rouge shower or
+storm developing over the mountains during the afternoon. There will
+also likely be some castellanus clouds, and possible virga
+(precipitation falling but not reaching the ground), or perhaps even
+a few rain drops reaching the ground all the way to the coastal
+areas from some of these clouds as they stream overhead throughout
+the morning hours. This may also help to break up and disrupt the
+marine layer, which will likely be similar in nature tomorrow night
+as it was tonight.
 
-Models indicate the high moving and expanding into the northern
-Great Plains by the middle of the week, retreating back across the
-Intermountain West by the end of next week. Monsoonal moisture looks
-to continue moving into the region through much of next week around
-this system, bringing daily chances for showers and thunderstorms
-across the mountains and deserts. With this flow pattern, Sunday and
-beyond looks to be humid for all areas of our region as well! As the
-high retreats closer to the region, temperatures make a rebound by
-the middle of the week. This will bring moderate to high heat risk
-for areas away from the coastal regions, including the valleys of
-Orange and San Diego County.
+Sunday through Thursday of next week...
+
+By Sunday, as the negatively tilted ridge over the entire western
+region is stretched and expanded back towards the west through the
+mid part of next week. This will result in the production of
+monsoonal waves to develop during the afternoon over the lower
+deserts of Arizona, which will then propagate over southern
+California as they move in from the east, and allow for chances of
+afternoon showers and thunderstorms over the mountains and deserts
+each afternoon through Thursday of next week. There could even be a
+few of these waves propagating further enough westward to bring a
+slight chance of showers/storms to the coastal areas as well,
+although given the stability west of the mountains, these will
+likely fall apart quickly as they do. This will also result in
+increased humidity values, with more of that summer "muggy"
+feeling next week. There will also be increasing heat as a result
+of the expanding ridge, with 596 dm heights overhead by Wednesday
+and Thursday of next week. This will likely translate into the
+need of heat products again, especially for the lower deserts and
+Inland Empire. The influx of mid-level moisture may help to
+mitigate these temperatures from getting as hot, but that is to be
+determined in upcoming days in terms of the development of these
+monsoonal waves.
 
 &&
 
 .AVIATION...
-092330Z....Coast...Areas of low clouds based around 1200-1500 feet
-MSL will push ashore after 03Z and cover all coastal areas overnight
-by around 09Z. Cigs will lower to 800-1000 feet overnight. Vis
-restricted 1-5SM over higher coastal terrain. Scatter out Friday 16-
-18Z, but patchy low clouds to persist along immediate coast. Low
-clouds around 1000-1500 feet MSL to move ashore after 04Z Saturday.
+100520Z....Coast...Cigs 700-1200 ft MSL will become widespread
+across the coast and western valleys overnight. Chances for cigs
+below 1000 ft for coastal TAF sites is highest from 10-14Z at 80
+percent. Vis restricted 1-5SM over higher coastal terrain. Scatter
+out Friday 16-18Z, but patchy low clouds to persist along immediate
+coast into the afternoon. Low clouds around 1000-1500 feet MSL to
+move ashore after 03Z Saturday.
 
-.Valleys/Mountains/Deserts...Mostly clear and VFR conditions to
-continue through Friday evening. Onshore winds 25-30 kts through
-mountain passes and locally into deserts.
+.Valleys/Mountains/Deserts...VFR conditions through the TAF period.
 
 &&
 
@@ -433,30 +446,22 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.BEACHES...
-Astronomical high tides of 7.0-7.2 ft are forecast July 12-14.
-Higher than normal tides combined with a modest south swell (3 ft
-swell 14/15 seconds from 190 degrees) generating surf of 4-6 ft may
-result in areas of coastal flooding in low lying areas, boardwalks,
-beach parking lots, and beach adjacent streets during evening high
-tides.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Friday for Riverside County
+CA...Heat Advisory until 8 PM PDT this evening for Riverside County
      Mountains-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-San Diego
      County Mountains.
 
-     Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
-     San Diego County Deserts-San Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT this evening for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...None.
 
@@ -464,8 +469,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Stewey
+AVIATION/MARINE...CO
 
 
 </pre>
