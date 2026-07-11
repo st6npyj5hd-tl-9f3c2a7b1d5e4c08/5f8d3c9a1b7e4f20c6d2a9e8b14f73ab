@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-11T07:57:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-11T13:22:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -352,21 +352,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-121
-FXUS66 KSGX 110408
+391
+FXUS66 KSGX 111200
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-908 PM PDT Fri Jul 10 2026
+500 AM PDT Sat Jul 11 2026
 
 .SYNOPSIS...
-Temperatures cool this weekend to near normal, but increasing
-moisture will keep overnight lows above average. Further warming
-next week with limited overnight cooling and monsoonal
-thunderstorms each afternoon in the higher terrain. Coastal
-flooding will impact beaches late this weekend into early next
-week as high tides return above 7 feet.
+Near normal temperatures expected this weekend. Thunderstorm chances
+over the mountains each afternoon Sunday through the forecast
+period. Above average high and low temperatures return early to mid
+next week. Coastal flooding will impact beaches Sunday through
+Tuesday with evening high tides exceeding 7 feet.
 
 &&
 
@@ -374,84 +373,71 @@ week as high tides return above 7 feet.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Mid level water vapor satellite imagery shows high pressure sitting
-over Southern California, which supplied in the well-above-normal
-temperatures we`ve experienced the past few days. Also visible is a
-deepening low approximately 900 miles off the coast of Central CA,
-poised to push eastward over the next several days. As it
-propagates, the aforementioned high will be kicked to the northeast,
-settling over the High Plains region by early to mid week.
-Temperatures will cool over the weekend a bit closer to near normal
-with a slightly deeper marine layer as the high begins to push out
-of the region. As it leaves, PW values will be rising as sub
-tropical moisture is able to sneak up into the area. With the
-elevated moisture, overnight lows will struggle to cool and
-HeatRisk will prevail for interior areas with limited overnight
-recovery.
+As of 1 AM, low clouds had started to spread into the western
+valleys with areas of high clouds streaming overhead. The presence
+of high clouds does not seem to be deterring the development of low
+clouds, with low clouds expected to linger into mid-morning in some
+locations along the coast.
 
-By late weekend and early next week, the high will position
-further northeast as the ample mid and low level moisture that
-transports into SoCal becomes sufficient enough for monsoonal
-thunderstorms to develop over the higher terrain. Any
-thunderstorms may be accompanied by gusty and erratic winds,
-lightning, and brief, heavy rainfall. The thunderstorm threat will
-exist each afternoon for much of next week, with around a 10-15%
-chance for a storm or two to make it off the mountains and meander
-into the valleys or deserts. Temperatures will remain fairly
-average into Monday, but as mentioned before, the elevated
-overnight lows will help to maintain moderate HeatRisk for many
-interior spots. As the week progresses, additional warming will be
-observed and Major HeatRisk will return around the middle of next
-week with very warm overnight lows, likely around 5-7 degrees
-above normal. For the coast, astronomical high tides of 7-7.5 feet
-will allow for a high rip current risk and waves will make it
-further up the beach than typical, potentially flooding some low-
-lying spots. Never turn your back to the ocean! Additional
-information can be found in the Beaches Discussion below.
+Highs today will be within 5 degrees of highs Friday, with the
+deserts expected to be a few degrees cooler with 3 to 5 degrees of
+warming in the Inland Empire and Orange County and minimal change in
+San Diego county. Both high and low temperatures are expected to run
+above average for the middle of the week which will bring areas of
+moderate to major HeatRisk to inland locations. Current forecast has
+the heat peaking on Wednesday.
 
-The main concern this week is that the heat will drive people both
-to the mountains and oceans in attempt to escape to cooler weather,
-but the thunderstorm and coastal flooding risk will make certain
-activities dangerous. While tides will fall by early week, models
-continue to push monsoonal moisture up to the area through at
-least Friday, with storm chances each day through then. Heat looks
-to peak Wednesday before slightly cooler weather Thursday/Friday,
-although the pattern this far out is still quite uncertain.
+The area of high pressure that was sitting over us over the past few
+days will be nudged north and east to the Four Corners region by
+Sunday. That will allow for subtropical moisture to make it`s way
+into Southern California. This will bring increased chances of
+showers and thunderstorms mainly to the mountains each afternoon and
+evening this week. Any thunderstorms that develop will be
+accompanied by gusty and erratic winds, lightning, and brief, heavy
+rainfall. Right now there is a 10-20% chance an isolated storm moves
+off the mountains and into the valleys or deserts, with the highest
+chances of that occurring being in the High Desert.
+
+For the first half of the week, Monday looks like the most likely
+day for more widespread showers and thunderstorms to develop over
+the mountains. It looks like by the middle of the week, the high
+will shift further east which will limit, but not completely remove
+shower and thunderstorm chances. While there is uncertainty in the
+upper level pattern for the latter half of next week, about 31
+percent of ensemble solutions position the high in a more favorable
+position for increased chances of afternoon showers and
+thunderstorms in the mountains by Thursday with 48 percent of
+solutions more favorable by next Friday.
 
 &&
 
 .AVIATION...
-110400Z....Coast/Valleys...Low clouds with bases 1000-1500 ft MSL
-filling in along the coast through 08Z then spreading 15-20 mi
-inland overnight. Locally reduced vis 3-5SM where stratus nears
-terrain in the western valleys. There is a 40% chance of IFR
-cigs/vis restrictions at KONT 12-15Z. Low clouds clearing 16-19Z
-Saturday, then redeveloping after 12/03Z with similar bases.
-Otherwise increasing mid/high clouds at/above 15,000 ft MSL after
-12Z Sat.
+111200Z....Coast/Valleys...Locally reduced vis 3-5SM where stratus
+nears terrain in the western valleys. There is a 40% chance of IFR
+cigs/vis restrictions at KONT 12-15Z. Low clouds with bases 900-1400
+ft MSL clearing 16-19Z Saturday, then redeveloping after 03Z Sunday,
+with similar bases, and then continue to spread and fill into the
+valleys, stretching to around 15-20 miles inland. Otherwise
+increasing mid/high clouds at/above 15,000 ft MSL throughout the day.
 
 Mountains/Deserts...Increasing mid/high clouds at/above 15,000 ft
-MSL after 12Z Sat and unrestricted visibility.
+MSL and unrestricted visibility. There is a slight chance of a
+shower over the mountains this afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
-.BEACHES...
-Astronomical high tides peaking at 7.0-7.5 ft are expected each day
-July 12-14. High tides combined with a modest south swell (3 ft
-swell at 13-15 seconds from 190 degrees) generating surf of 3-5 ft
-for south-facing beaches will result in areas of coastal flooding in
-low lying areas, boardwalks, beach parking lots, and beach adjacent
-streets during evening high tides. Highest tides each evening will
-generally occur between 8 and 10 PM. A Beach Hazards Statement is in
-effect for Sunday afternoon through Tuesday evening and contains the
-details.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -466,8 +452,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...SS
+PUBLIC...CO
+AVIATION/MARINE...Stewey
 
 
 </pre>
