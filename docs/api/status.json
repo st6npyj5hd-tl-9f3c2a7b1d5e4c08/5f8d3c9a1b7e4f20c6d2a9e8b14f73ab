@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-11T02:46:52.320260Z",
+  "generated_at_utc": "2026-07-11T07:58:00.745992Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -16,34 +16,34 @@
       "logical_name": "area-forecast-discussion",
       "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
       "output_path": "/api/area-forecast-discussion.txt",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "253d72e2d1c365f46df815b3ebdfef52f7e47fd651041b108dff811271c2a6bd",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_written": 29219,
+      "sha256": "310e34dce8c81b03be6248a7a8b7dc48ea7adc10d8064059db07503e2c5ceb65",
+      "error": null
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "06ec7e692d0edc39cf8fd41c02efcf5d5bc18fa59722ac1e19a2871675c65595",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/xml;charset=UTF-8",
+      "bytes_written": 11048,
+      "sha256": "576aa980cfd91a1ee39733e14b360388844902478be7c1bc9d3086a2a33049fe",
+      "error": null
     },
     {
       "logical_name": "hourly-forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&FcstType=digitalDWML",
       "output_path": "/api/hourly-forecast.dwml",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "7c28aa297a49db239af1b9f45c891e1c684eda6267c25f0c24d0b9140a9599ab",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "application/xml",
+      "bytes_written": 58856,
+      "sha256": "2d3b6a85a09973ec3f34f67a512f3b1823c2d8f7141b4404db695a61fc20d20e",
+      "error": null
     }
   ]
 }
