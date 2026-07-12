@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-12T02:53:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-12T08:19:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-645
-FXUS66 KSGX 112348
+506
+FXUS66 KSGX 120506
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-448 PM PDT Sat Jul 11 2026
+1006 PM PDT Sat Jul 11 2026
 
 .SYNOPSIS...
 Near normal temperatures expected this weekend. Thunderstorm
@@ -373,7 +373,6 @@ evening high tides exceeding 7 feet.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -431,26 +430,47 @@ HeatRisk will be higher, so please plan ahead!
 &&
 
 .AVIATION...
-120000Z....Coast/Valleys...Increasing high clouds AOA 15kft MSL this
-evening, with high clouds spreading into much of the region
-overnight. Patchy low clouds will develop again this evening and
-move inland, likely around 900-1200ft MSL, but may be less
-widespread given the influx of high clouds. Low clouds will move
-into San Diego County generally after 03z, and up into Orange County
-after 08z. VIS restrictions where stratus intersects terrain. Low
-clouds will clear back to the coast around 16z, but high clouds will
-prevail through the afternoon and evening on Sunday.
+120500Z....Coast/Valleys...Low clouds are struggling to develop over
+coastal waters this evening under BKN high cloud cover. Low clouds
+should eventually move into coastal areas, starting in San Diego
+County 08-10z, then pushing into Orange County 10-12z. However,
+coverage may remain patchy and intermittent with only 10-15 miles of
+inland extent expected. Bases 900-1300 ft MSL should allow for
+patchy minor vis reductions (2-6SM) along elevated coastal terrain
+and into western valleys. Low clouds clear to the coastline by 16z.
+Otherwise, SCT-BKN high clouds based 15,000 ft MSL will continue
+through Sunday evening.
 
-.Mountains/Deserts...Increasing mid/high clouds AOA 15,000 ft MSL
-today and tomorrow and generally unrestricted visibility. There is a
-slight chance of thunderstorms over the mountains Sunday afternoon,
-with any storm capable of gusty and erratic winds and low visibility
-due to heavy rain.
+.Mountains/Deserts...SCT-BKN mid/high clouds AOA 15,000 ft MSL
+through Sunday evening and generally unrestricted visibility. There
+is a slight chance (10-15%) of thunderstorms over the mountains
+Sunday afternoon, with any storm capable of gusty and erratic winds
+and low visibility due to heavy rain.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Friday.
+
+&&
+
+.BEACHES...
+Astronomical high tides peaking 7.0-7.5 ft each day July 12-14. High
+tides combine with a modest south swell (3 ft swell at 13-15 seconds
+from 190 degrees) to generate surf of 3-5 ft for south-facing
+beaches, creating areas of coastal flooding in low lying areas,
+boardwalks, beach parking lots, and beach adjacent streets during
+evening high tides. Highest tides each evening will generally occur
+between 8 and 10 PM. A Beach Hazards Statement is in effect for
+Sunday afternoon through Tuesday evening and contains the details.
+There will be an increased risk of rip currents through July 14.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -466,7 +486,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Zuber
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
