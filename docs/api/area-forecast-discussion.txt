@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-12T13:22:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-12T19:07:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-309
-FXUS66 KSGX 120959
+707
+FXUS66 KSGX 121835
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-259 AM PDT Sun Jul 12 2026
+1135 AM PDT Sun Jul 12 2026
 
 .SYNOPSIS...
 Near normal temperatures expected this weekend. Thunderstorm
@@ -430,20 +428,19 @@ HeatRisk will be higher, so please plan ahead!
 &&
 
 .AVIATION...
-121100Z....Coast/Valleys...Low cloud cover is struggling to take
-shape over coastal waters early this morning. Patchy low clouds may
-still develop over coastal land areas this morning with the greatest
-chances after 12z. Bases 900-1300 ft MSL should allow for patchy
-minor vis reductions (3-6SM) along elevated coastal terrain where
-clouds are present. Any low clouds that develop will clear to the
-coastline by 16z. Low clouds with with similar bases are expected to
-return to coastal areas late Sunday night (starting 06-09z) with
-similarly patchy coverage. Otherwise, SCT-BKN high clouds based
-15,000 ft MSL will continue through Sunday night.
+121800Z....Coast/Valleys...Patchy low clouds have completely moved
+out with ongoing BKN-OVC high clouds AOA 15kft MSL through Monday.
+Low clouds will develop again this evening, but will be extremely
+patch with only moderate confidence (45-70%) of a CIG at
+KSAN/KCRQ/KSNA overnight. If clouds manage to make it in, bases will
+be around 1200-1800ft MSL with impacts likely not occurring until
+after 06-08z Mon (potentially as late as 13z Mon for KSNA). Any
+inland low clouds will clear out by 16-17z. Otherwise, the high
+clouds will prevail.
 
-.Mountains/Deserts...SCT-BKN mid/high clouds AOA 15,000 ft MSL
-through Sunday night and generally unrestricted visibility. There is
-a slight chance (10%) of thunderstorms over the mountains Sunday
+.Mountains/Deserts...SCT-OVC mid/high clouds AOA 15kft MSL
+through Monday and generally unrestricted visibility. There is a
+slight chance (10-l5%) of thunderstorms over the mountains this
 afternoon, with any storm capable of gusty and erratic winds and low
 visibility due to heavy rain.
 
@@ -454,17 +451,23 @@ No hazardous marine conditions are expected through Friday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+.BEACHES...
+Astronomical high tides peaking 7.0-7.5 ft each day today through
+Tuesday. High tides combine with a modest south swell (3 ft swell at
+13-15 seconds from 190 degrees) to generate surf of 3-5 ft for south-
+facing beaches and 2-4 ft elsewhere. This will produce areas of
+coastal flooding in low lying areas, boardwalks, beach parking lots,
+and beach adjacent streets during evening high tides. Highest tides
+each evening will generally occur between 8 and 10 PM. A Beach
+Hazards Statement is in effect for Sunday afternoon through Tuesday
+evening and contains the details. There will be an increased risk of
+rip currents through Wednesday.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from 11 AM PDT this morning through
-     Tuesday evening for Orange County Coastal Areas-San Diego
-     County Coastal Areas.
+CA...Beach Hazards Statement through Tuesday evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -472,8 +475,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...KW
+PUBLIC...APR
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
