@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-13T02:55:15+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-13T09:29:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,20 +352,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-816
-FXUS66 KSGX 122344
+284
+FXUS66 KSGX 130823
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Sun Jul 12 2026
+123 AM PDT Mon Jul 13 2026
 
 .SYNOPSIS...
-Near normal temperatures expected through Monday, with hotter and
-humid weather moving into the middle of the week. Thunderstorm
-chances from the monsoon are in the forecast over the mountains
-and locally into the deserts each afternoon through much of the
-week. Coastal flooding will impact beaches through Tuesday with
+A moisture surge will bring scattered showers and thunderstorms
+to the mountains today with a slight chance of precipitation
+reaching into the lower elevations. Building high pressure will
+bring above average temperatures for midweek with highest
+temperatures on Wednesday. Widespread moderate to major HeatRisk
+is expected. This will also subdue thunderstorm coverage with only
+a slight chance of precipitation in the mountains. The high
+pressure breaks down by the weekend with temperatures returning to
+near normal along with increasing chances for monsoon storms once
+again. Coastal flooding will impact beaches through Tuesday with
 evening high tides exceeding 7 feet.
 
 &&
@@ -374,79 +379,71 @@ evening high tides exceeding 7 feet.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Similar to last night, high clouds and scattered convection
+associated with a new moisture surge are currently situated over
+southern AZ and northern Mexico. High resolution models are in
+agreement that this will provide the forcing and mid-level
+moisture necessary for scattered showers and thunderstorms
+(30-60% chance) over the mountains and High Desert this afternoon.
+However, timing is essential as we saw today. An early onset of
+high clouds over the region may limit daytime heating and reduce
+thunderstorm potential, though this outcome appears less likely
+today. Heavy rainfall, lightning, and small hail will be possible
+with any storms that develop. Rain rates may reach up to 0.5"/hr
+for higher elevations. There is a slight chance (10-15%) for a
+storm to stray into the eastern valleys or low desert.
 
-...UPDATED AVIATION DISCUSSION...
+An upper ridge currently over the High Plains and intermountain
+west will build into the region for the middle of the week. This
+will act to warm temperatures and limit mid-level moisture
+starting Tuesday. Isolated showers and storms will remain possible
+along mountain ridges Tuesday through Thursday, but chances will
+be slim (15-25%). The ridge peaks in strength Wednesday, with 500
+mb heights peaking around 593-594 dm over Southern California.
+Widespread moderate HeatRisk is expected below 6000 feet elevation
+Tuesday through Thursday with major HeatRisk expected through
+much of the coastal basin and locally into the lower deserts on
+Wednesday. There is still some uncertainty in exactly how hot
+temperatures will get, but current forecast highs on Wednesday
+range from the 80s for coastal areas and mountains above 6000 ft
+to 110-114 in the lower deserts. 100s expected for the Inland
+Empire, High Desert and eastern San Diego Valleys and 90s for the
+western valleys and lower elevations of the mountains.
+Additionally, humid conditions are expected along with low
+temperatures running 5 to 10 degrees above normal. There will be
+an increased risk for heat-related illness for vulnerable
+populations and anyone spending extended periods of time outdoors.
 
-A decaying storm system that occurred to our south and east last
-night is moving through the area today, providing clouds and some
-reports of sprinkles. This cloud cover will limit some afternoon
-heating today, though the humidity will be more apparent starting
-today through the upcoming week. These clouds will also further
-inhibit storm development over the mountains; cumulus may form
-with some areas of weak thunderstorms but chances remain near
-15-25%.
-
-A strong area of high pressure currently over the Northern
-Rockies will continue to expand into the Northern Plains.
-Clockwise flow around this system, with the help of a weak trough
-offshore, will aid to bring in better moisture from the monsoonal
-wind pattern to our area by Monday. The mountains and deserts
-have the greatest chances (35-55% chance) to see bouts of heavy
-rainfall, lightning, and small hail Monday afternoon and evening.
-Hi-res models show the mountains from the Mexican border up north
-to Big Bear and into the high desert as the notable places that
-may see storm activity. Confidence is low to moderate on how far
-west this moisture and instability will move during this time
-period with limited chances west of the mountains. Monday`s highs
-will be similar to that of today, as cloud cover from storms in
-Arizona moving toward our area, which may limit high temperature
-readings yet again.
-
-A subtle decrease in moisture is seen in the latest model
-guidance for Tuesday through Thursday as high pressure slowly
-expands over the region. This will decrease chances for storms in
-the mountains, but increase high and low temperatures. An Extreme
-Heat Watch is now in effect for all areas from the coast to below
-6,000 feet in the mountains during this time period. There is
-high confidence that the peak of the heat will be on Wednesday,
-though confidence is lower on exactly how hot temperatures will
-be. Highs well into the 90s for the mountains and coastal valleys,
-triple digits for the Inland Empire and potentially the eastern
-San Diego Co valleys are in the cards. Low temperatures will also
-be in the 70s across much of this region. This, along with
-increased humidity, will give areas moderate (rating 3/5) to major
-(4/5) Heat Risk. Vulnerable populations and those who are outside
-for long periods will have a greater chance to see heat impacts
-and related illnesses. Limited places will be available to cool
-off, including the mountains, so please limit time outdoors if you
-are able to do so.
-
-The center of the high looks to retrograde and become more
-amplified toward somewhere near the Colorado Rockies, which would
-provide a greater influx of moisture by the end of the week. NBM
-has increased chances for thunderstorms returning to inland areas
-by Thursday into the end of the week, as temperatures return
-closer to normal. Confidence remains low on where exactly any rain
-could fall, especially for deserts and the valleys west of the
-mountains.
+The ridge retreats back to the east late this week, allowing
+temperatures to return to near or slightly below average from
+Friday through the weekend. Additionally, southeasterly flow is
+expected to return along with increased mid-level moisture. This
+should increase chances for monsoon-related convection once again.
+However, as with any monsoon setup, coverage and location of
+thunderstorms are highly uncertain at the moment as this is
+dependent on the timing and location of any passing upper waves.
+At the very least, an uptick in activity over the mountains
+appears likely at this time.
 
 &&
 
 .AVIATION...
-130000Z....Coast/Valleys...Ongoing SCT-OVC high clouds AOA 12,000ft
-MSL will continue through Monday. Low clouds will develop again this
-evening, but will be extremely patchy with only moderate confidence
-(45-60%) of a CIG at KSAN/KCRQ/KSNA overnight. If clouds manage to
-make it in, bases will be around 1200-1800ft MSL with impacts likely
-not occurring until after 08z Mon (potentially as late as 13z Mon
-for KSNA). Any inland low clouds will clear out by 16-17z.
-Otherwise, the high clouds will prevail.
+140430Z....Coast/Valleys...Areas of low clouds developing along the
+coast after 08Z with bases 900-1200 ft MSL. There is a 40-60% chance
+of CIGS at KCRQ and KSAN 09-17Z, and a 30-40% chance at KSNA 10-15Z.
+Low clouds clearing by 18Z. There is a 10-15% chance of
+showers moving off the mountains into the far inland valleys Monday
+afternoon, ending by Monday evening. Coverage of low clouds Monday
+night will be much patchier with low confidence in timing of onset
+of any CIGS. Otherwise variable mid and high cloud cover at/above
+10,000 ft MSL.
 
-.Mountains/Deserts...SCT-OVC mid/high clouds AOA 15kft MSL
-through Monday and generally unrestricted visibility. There is a
-chance (25-50%) of thunderstorms over the mountains Monday
-afternoon, with any storm capable of gusty and erratic winds and low
-visibility due to heavy rain.
+Mountains/Deserts...There is a 25-50% chance of thunderstorms over
+the mountains and high desert between 18Z and 02Z Monday afternoon
+and evening. CB bases near 15,000 ft MSL with tops to 35,000 ft MSL.
+Thunderstorms will be capable of producing reduced visibility in RA
+and gusty outflow winds. Otherwise variable mid and high cloud cover
+at/above 10,000 ft MSL.
 
 &&
 
@@ -463,9 +460,16 @@ facing beaches and 2-4 ft elsewhere. This will produce areas of
 coastal flooding in low lying areas, boardwalks, beach parking lots,
 and beach adjacent streets during evening high tides. Highest tides
 each evening will generally occur between 8 and 10 PM. A Beach
-Hazards Statement is in effect for Sunday afternoon through Tuesday
-evening and contains further details. There will be an increased
-risk of rip currents through Wednesday.
+Hazards Statement remains in effect through Tuesday evening and
+contains further details. There will be an increased risk of rip
+currents through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -487,8 +491,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...KW
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
