@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-13T14:36:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-13T19:24:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-970
-FXUS66 KSGX 131208
+974
+FXUS66 KSGX 131757
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-508 AM PDT Mon Jul 13 2026
+1057 AM PDT Mon Jul 13 2026
 
 .SYNOPSIS...
 A moisture surge will bring scattered showers and thunderstorms
@@ -378,7 +378,6 @@ evening high tides exceeding 7 feet.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -431,31 +430,50 @@ appears likely at this time.
 &&
 
 .AVIATION...
-141200Z....Coast/Valleys...Areas of low clouds with bases 600-1000
-ft MSL clearing to the coast by 18Z. There is a 10-15% chance of
-showers moving off the mountains into the far inland valleys during
-the afternoon and early evening today. Coverage of low clouds Monday
-night will be much patchier with low confidence in timing of onset
-of any CIGS. Otherwise variable mid and high cloud cover at/above
-10,000 ft MSL. Low clouds will redevelop and regather along the
-coastal areas beginning around 01-03Z Tue. and fill back into the
-inland areas through 09Z Tue, with slightly higher bases. This may
-be disrupted with patchy coverage locally at times due to passing
-mid and high level clouds overhead.
+141600Z....Coast/Valleys...Low clouds are currently 1,000-1,500ft
+MSL along the coast and should scatter out within the next couple of
+hours giving way to mid/upper level clouds AOA 20,000ft MSL.
+Afternoon rain and thunderstorms should stick to mountain areas this
+afternoon but there is a 10-15% chance they could spill into
+adjacent valley areas. Patchy low clouds are expected to start
+moving in over the coast after 01-03Z Tuesday, filling in after 06-
+09Z. Cigs will be slightly higher with bases 900-1,500ft MSL and
+will be intermittent at times. Low clouds clear after 16-17Z Tuesday.
 
-Mountains/Deserts...There is a 25-50% chance of thunderstorms over
-the mountains and high desert between 18Z and 02Z Monday afternoon
-and evening. Areas with highest probabilities of convection will be
-in the vicinity of the San Gorgonio and San Jacinto mountain areas.
-CB bases near 10,000 ft MSL with tops to 35,000 ft MSL.
-Thunderstorms will be capable of producing reduced visibility in RA
-and gusty outflow winds, and deadly cloud-to-ground lightning.
-Otherwise variable mid and high cloud cover at/above 10,000 ft MSL.
+Mountains/Deserts...Highest chances for thunderstorms will be over
+mountain areas with chances in the 40-80% range this afternoon with
+a 20-50% chance in the high deserts. Expect lightning, erratic gusty
+winds, and brief heavy rain with any storm development. Areas with
+the highest probabilities of convection will be in the vicinity of
+the San Gorgonio and San Jacinto mountain areas. CB bases near
+10,000 ft MSL with tops to 35,000 ft MSL. Otherwise variable mid and
+high cloud cover AOA 20,000 ft MSL.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
+
+&&
+
+.BEACHES...
+Astronomical high tides peaking 7.0-7.5 ft each day through Tuesday.
+High tides combine with a modest south swell (3 ft swell at 13-15
+seconds from 190 degrees) to generate surf of 3-5 ft for south-
+facing beaches and 2-4 ft elsewhere. This will produce areas of
+coastal flooding in low lying areas, boardwalks, beach parking lots,
+and beach adjacent streets during evening high tides. Highest tides
+each evening will generally occur between 8 and 10 PM. A Beach
+Hazards Statement remains in effect through Tuesday evening and
+contains further details. There will be an increased risk of rip
+currents through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -463,11 +481,13 @@ No hazardous marine conditions are expected through Friday.
 CA...Beach Hazards Statement through Tuesday evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Extreme Heat Watch from Tuesday morning through Thursday evening
-     for Orange County Coastal Areas-Orange County Inland Areas-
-     Riverside County Mountains-San Bernardino County Mountains-
-     San Bernardino and Riverside County Valleys-The Inland
-     Empire-San Diego County Coastal Areas-San Diego County
+     Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
+
+     Extreme Heat Warning from 10 AM Wednesday to 8 PM PDT Thursday
+     for Orange County Inland Areas-Riverside County Mountains-
+     San Bernardino County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
      Mountains-San Diego County Valleys-San Gorgonio Pass near
      Banning-Santa Ana Mountains and Foothills.
 
@@ -478,7 +498,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE...Stewey
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
