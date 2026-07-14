@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-14T13:46:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-14T19:21:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,28 +347,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-165
-FXUS66 KSGX 141332
+920
+FXUS66 KSGX 141856
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-632 AM PDT Tue Jul 14 2026
+1156 AM PDT Tue Jul 14 2026
 
 .SYNOPSIS...
-High pressure aloft and some drying of mid level moisture will
-bring warming for today and Wednesday with widespread moderate to
-locally major HeatRisk through Thursday except for the higher
-elevations of the mountains. Southeasterly flow aloft will bring a
-return of greater monsoonal moisture for Thursday into the weekend
-along with a chance of mainly afternoon and early evening showers
-and thunderstorms, mostly for the mountains and deserts. High
-temperatures will cool to around average for the weekend.
+Above average high and low temperatures from coast to the deserts
+through Thursday. Showers and thunderstorms possible this afternoon
+over the mountains and locally into the High Desert. Very limited
+thunderstorm chances for Wednesday. High temperatures will cool to
+within a few degrees of average, with lows expected to remain a few
+degrees above average through the weekend. Monsoonal moisture will
+increase for Thursday through the weekend with chances of afternoon
+showers and thunderstorms mainly over the mountains and deserts.
 
 &&
 
@@ -376,64 +374,45 @@ temperatures will cool to around average for the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+High pressure aloft will keep both high and low temperatures above
+average through Thursday. Today will see additional chances of
+showers and thunderstorms mainly confined to the mountains with the
+potential for showers/thunderstorms to drift into the High Desert.
+Overall rainfall rates will be less than 0.50", with only a 10
+percent chance of rainfall rates exceeding 0.50". Thunderstorm
+chances decrease into Wednesday as the heat peaks.
 
-...UPDATED AVIATION DISCUSSION FOR 12Z TAF...
+High temperatures on Wednesday will be mostly 5 to 10 degrees above
+average. Low temperatures on Wednesday will be around 5 to 8 degrees
+above average, up to 10 to 15 degrees above average on mountain
+foothills and slopes. The warm nights will contribute more to the
+higher HeatRisk for the next few days. The daytime heat will be
+mostly not record setting. However, there could be a few records
+tied or broken in the mountains for record warm low temperatures.
+After a decrease in mid-level moisture Wednesday, precipitable water
+values will begin increasing again on Thursday with the higher
+values for Friday through next weekend.
 
-.SHORT TERM (Today through Thursday)...
-High pressure will bring warming through Wednesday, though with
-mid level flow becoming southerly with some drying of mid level
-moisture. High temperatures will warm 5 to 10 degrees for inland
-areas today and another 5 degrees on Wednesday with low
-temperatures warming a few degrees.
-
-High temperatures on Wednesday will be mostly 5 to 10 degrees
-above average. Low temperatures on Wednesday will be around 5
-degrees above average, to 10 to 15 degrees above average on the
-lower slopes of the mountains. High temperatures on Wednesday will
-range from the mid 70s to near 80 at the coast to the upper 90s
-to 108 for the Inland Empire with 112 to 116 for the lower
-deserts.
-
-The warm nights will contribute more to the higher HeatRisk for
-the next few days. The Extreme Heat Warning has been expanded to
-the lower deserts for today through Thursday. The Extreme Heat
-Warning remains for the mountains and valleys for Wednesday and
-Thursday with a Heat Advisory for coastal areas on those days.
-After drying for today and Wednesday, precipitable water values
-will begin increasing again on Thursday with the higher values
-for Friday through next weekend not too different from this past
-weekend.
-
-The daytime heat will be mostly not record setting. However,
-there could be a few records tied or broken in the mountains for
-record warm low temperatures.
-
-&&
-
-.LONG TERM (Friday through Monday)...
-High pressure aloft will remain across the area with monsoonal
-moisture in southeast flow aloft bringing a chance of afternoon
-and early evening showers and thunderstorms, mainly for the
-mountains and deserts. High temperatures will cool around 5
-degrees for Friday and again on Saturday, then remain around
-average for Sunday and Monday.
+For early next week, the upper level ridge of high pressure will
+start to drift south and west more over the Four Corners region.
+This will leave the door for monsoonal moisture open, keeping daily
+chances for afternoon showers and thunderstorms over the mountains,
+locally into the deserts. High temperatures will remain near normal,
+with low temperatures expected to remain above average.
 
 &&
 
 .AVIATION...
-141000Z....Coast/Valleys...Low clouds based 1000-1400 ft MSL are
-lingering over coastal waters early this morning. Patchy clouds
-should briefly push into coastal areas up to 10 miles inland this
-morning after 12z. Chance of cigs is 60% at KSAN, and 50% at KCRQ
-and KSNA. Any low clouds that manage to develop will retreat back to
-the coast by 16-17z. VFR conditions expected Tuesday afternoon and
-evening. Similar to this morning, low clouds will struggle to reform
-Tuesday night. Greatest chance for patchy low clouds will be over
-coastal San Diego County after 09z Wed.
+141830Z....Coast/Valleys...FEW low clouds based 1000-1200 ft MSL are
+lingering at the beaches this afternoon. Low clouds with bases 700-
+1000 ft MSL will spread a few miles inland overnight with CIG
+impacts likely at coastal TAF sites 10Z-16Z Wed. Patchy fog could
+reduce VIS locally to 1-3 miles on elevated coastal terrain between
+10Z-16Z Wed.
 
-Mountains/Deserts...ISO SHRA along with Cu based near 10 kft over
-mountain ridges 19z Tue to 00z Wed. Otherwise, FEW-SCT high clouds
-AOA 15 kft.
+Mountains/Deserts...SCT to locally BKN clouds with bases around
+10,000 ft and ISOLD SHRA over mountain ridges through 02z Wed.
+Otherwise, FEW-SCT high clouds AOA 15,000 ft.
 
 &&
 
@@ -443,16 +422,16 @@ No hazardous marine conditions are expected through Saturday.
 &&
 
 .BEACHES...
-Astronomical high tides peaking 7.0-7.5 ft each day through
-Wednesday. High tides combine with a modest south swell (2 ft swell
-at 13-15 seconds from 190 degrees) to generate surf of 3-5 ft for
-south-facing beaches and 2-4 ft elsewhere. This will produce areas
-of coastal flooding in low lying areas, boardwalks, beach parking
-lots, and beach adjacent streets during evening high tides. Highest
-tides each evening will generally occur between 8 and 10 PM. A Beach
-Hazards Statement remains in effect through Tuesday evening and
-contains further details. There will be an increased risk of rip
-currents through Wednesday.
+Astronomical high tides peaking 7.0-7.5 ft today will drop to 6.5-
+7.0 feet by Wednesday evening. High tides combine with a modest
+south swell (2 ft swell at 13-15 seconds from 190 degrees) to
+generate surf of 3-5 ft for south-facing beaches and 2-4 ft
+elsewhere. This will produce areas of coastal flooding in low lying
+areas, boardwalks, beach parking lots, and beach adjacent streets
+during evening high tides. Highest tides each evening will generally
+occur between 8 and 10 PM. A Beach Hazards Statement remains in
+effect through Wednesday evening and contains further details. There
+will be an increased risk of rip currents through Wednesday.
 
 &&
 
@@ -460,11 +439,12 @@ currents through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement through Wednesday evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
      Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for
      Orange County Coastal Areas-San Diego County Coastal Areas.
@@ -476,8 +456,8 @@ CA...Beach Hazards Statement through this evening for Orange County
      Mountains-San Diego County Valleys-San Gorgonio Pass near
      Banning-Santa Ana Mountains and Foothills.
 
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT
-     Thursday for Coachella Valley-San Diego County Deserts.
+     Extreme Heat Warning until 8 PM PDT Thursday for Coachella
+     Valley-San Diego County Deserts.
 
 PZ...None.
 
@@ -485,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...PG
 
 
 </pre>
