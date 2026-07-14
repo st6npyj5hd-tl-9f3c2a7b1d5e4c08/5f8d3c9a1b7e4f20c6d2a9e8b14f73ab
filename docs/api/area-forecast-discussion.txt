@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-14T02:36:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-14T08:07:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-257
-FXUS66 KSGX 140102
+424
+FXUS66 KSGX 140641
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-602 PM PDT Mon Jul 13 2026
+1141 PM PDT Mon Jul 13 2026
 
 .SYNOPSIS... A moisture surge will bring scattered showers and
 thunderstorms to the mountains this afternoon and evening with a
@@ -377,7 +377,6 @@ beaches through Tuesday with evening high tides exceeding 7 feet.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -425,17 +424,15 @@ by Friday into the weekend with humidity remaining.
 &&
 
 .AVIATION...
-140030Z....Coast/Valleys...SCT high clouds above 10k ft this
-evening. Very patchy low clouds based 900-1400 ft MSL develop off
-the coast around 03z, remaining patchy through 07z (patchy through
-10z in OC), then increasing in coverage up to 20 miles inland.
-Scatter out 15-17z, then mostly VFR in the afternoon.
+140530Z....Coast/Valleys...Low clouds based 1000-1400 ft MSL have
+developed over coastal San Diego County this evening. Starting after
+09z, clouds will slowly expand into Orange County and up to 10-15
+miles inland. Low clouds scatter back to the coastline 15-17z. VFR
+conditions expected Tuesday afternoon and evening.
 
-Mountains/Deserts...ISO SHRA/TSRA over the mtns through 03z. Expect
-lightning, erratic gusty winds, and brief heavy rain with any storm
-development. CB bases near 10,000 ft MSL with tops to 35,000 ft MSL.
-Slight chance (10-15%) for an ISO SHRA/TSRA over the mtns after 18z
-Tue. Otherwise variable mid and high cloud cover AOA 20,000 ft MSL.
+Mountains/Deserts...ISO SHRA along with Cu based near 10 kft over
+mountain ridges 19z Tue to 00z Wed. Otherwise, FEW-SCT high clouds
+AOA 15 kft.
 
 &&
 
@@ -446,7 +443,7 @@ No hazardous marine conditions are expected through Saturday.
 
 .BEACHES...
 Astronomical high tides peaking 7.0-7.5 ft each day through
-Wednesday. High tides combine with a modest south swell (3 ft swell
+Wednesday. High tides combine with a modest south swell (2 ft swell
 at 13-15 seconds from 190 degrees) to generate surf of 3-5 ft for
 south-facing beaches and 2-4 ft elsewhere. This will produce areas
 of coastal flooding in low lying areas, boardwalks, beach parking
@@ -486,7 +483,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
