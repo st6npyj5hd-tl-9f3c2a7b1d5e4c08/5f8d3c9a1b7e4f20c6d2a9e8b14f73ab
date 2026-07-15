@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-15T08:12:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-15T13:45:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,23 +350,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-021
-FXUS66 KSGX 150454
+109
+FXUS66 KSGX 150824
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-954 PM PDT Tue Jul 14 2026
+124 AM PDT Wed Jul 15 2026
 
 .SYNOPSIS...
-Above average high and low temperatures from coast to the deserts
-through Thursday. Showers and thunderstorms possible this afternoon
-over the mountains and locally into the High Desert. Very limited
-thunderstorm chances for Wednesday. High temperatures will cool to
-within a few degrees of average, with lows expected to remain a few
-degrees above average through the weekend. Monsoonal moisture will
-increase for Thursday through the weekend with chances of afternoon
-showers and thunderstorms mainly over the mountains and deserts.
+The heat is expected to peak today with high temperatures 5 to 10
+degrees above average. High temperatures will cool a few degrees
+on Thursday, then cool to around average for Friday into early
+next week. Drier today, then a slight chance of afternoon showers
+and thunderstorms will return Thursday, mostly for the mountains,
+and continue for each afternoon into next week.
 
 &&
 
@@ -374,33 +372,30 @@ showers and thunderstorms mainly over the mountains and deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Friday)...
+The heat is expected to peak today with high temperatures around 5
+degrees warmer for inland areas than Tuesday and around 5 to 10
+degrees above average. High temperatures for today will range from
+the mid 70s to near 80 at the coast to the upper 90s to 108 for
+the Inland Empire with 110 to 114 for the lower deserts. High
+temperatures will cool a few degrees on Thursday. There will be
+greater cooling on Friday with high temperatures cooling to around
+average for Friday through Monday. High temperatures on Friday
+will range from the 70s near the coast to the 90s for the Inland
+Empire with 104 to 108 for the lower deserts.
 
-High pressure aloft will keep both high and low temperatures above
-average through Thursday. Today will see additional chances of
-showers and thunderstorms mainly confined to the mountains with the
-potential for showers/thunderstorms to drift into the High Desert.
-Overall rainfall rates will be less than 0.50", with only a 10
-percent chance of rainfall rates exceeding 0.50". Thunderstorm
-chances decrease into Wednesday as the heat peaks.
+The drying and stabilization trend of Tuesday will continue today
+with a slight chance of showers for this afternoon for the
+mountains. Some monsoonal moisture in south to southeast flow
+aloft will return for Thursday and Friday with a slight chance for
+afternoon showers, mainly in the mountains.
 
-High temperatures on Wednesday will be mostly 5 to 10 degrees above
-average. Low temperatures on Wednesday will be around 5 to 8 degrees
-above average, up to 10 to 15 degrees above average on mountain
-foothills and slopes. The warm nights will contribute more to the
-higher HeatRisk for the next few days. The daytime heat will be
-mostly not record setting. However, there could be a few records
-tied or broken in the mountains for record warm low temperatures.
-After a decrease in mid-level moisture Wednesday, precipitable water
-values will begin increasing again on Thursday with the higher
-values for Friday through next weekend.
+&&
 
-For early next week, the upper level ridge of high pressure will
-start to drift south and west more over the Four Corners region.
-This will leave the door for monsoonal moisture open, keeping daily
-chances for afternoon showers and thunderstorms over the mountains,
-locally into the deserts. High temperatures will remain near normal,
-with low temperatures expected to remain above average.
+.LONG TERM (Saturday through Tuesday)...
+High temperatures will remain around through Monday. There is a slight
+chance for showers and thunderstorms each afternoon, mainly for
+the mountains.
 
 &&
 
@@ -468,7 +463,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...17
 AVIATION/MARINE/BEACHES...KW
 
 
