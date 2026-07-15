@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-14T19:21:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-15T02:34:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-920
-FXUS66 KSGX 141856
+265
+FXUS66 KSGX 150002
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1156 AM PDT Tue Jul 14 2026
+502 PM PDT Tue Jul 14 2026
 
 .SYNOPSIS...
 Above average high and low temperatures from coast to the deserts
@@ -373,6 +373,9 @@ showers and thunderstorms mainly over the mountains and deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 High pressure aloft will keep both high and low temperatures above
 average through Thursday. Today will see additional chances of
@@ -403,12 +406,15 @@ with low temperatures expected to remain above average.
 &&
 
 .AVIATION...
-141830Z....Coast/Valleys...FEW low clouds based 1000-1200 ft MSL are
-lingering at the beaches this afternoon. Low clouds with bases 700-
-1000 ft MSL will spread a few miles inland overnight with CIG
-impacts likely at coastal TAF sites 10Z-16Z Wed. Patchy fog could
-reduce VIS locally to 1-3 miles on elevated coastal terrain between
-10Z-16Z Wed.
+150000Z....Coast/Valleys...Mostly SKC this afternoon. Very patchy
+low clouds based 600-1000 ft MSL develop slowly after 07z and
+increase in coverage around 08-13z Wed, up to 10-15 miles inland.
+VIS reductions (BR/HZ) down to 1-3SM on elevated coastal terrain and
+valleys along the SD County I-15 corridor. Only about 20-40% maximum
+cig coverage expected early Wed over OC (around 13z); expect only
+brief patchy cigs over KSNA, if any. VIS improves and low clouds
+scatter out 14-17z. Otherwise, VFR conditions prevail with FEW high
+clouds above 10 kft Wednesday afternoon.
 
 Mountains/Deserts...SCT to locally BKN clouds with bases around
 10,000 ft and ISOLD SHRA over mountain ridges through 02z Wed.
@@ -422,16 +428,16 @@ No hazardous marine conditions are expected through Saturday.
 &&
 
 .BEACHES...
-Astronomical high tides peaking 7.0-7.5 ft today will drop to 6.5-
-7.0 feet by Wednesday evening. High tides combine with a modest
-south swell (2 ft swell at 13-15 seconds from 190 degrees) to
-generate surf of 3-5 ft for south-facing beaches and 2-4 ft
-elsewhere. This will produce areas of coastal flooding in low lying
-areas, boardwalks, beach parking lots, and beach adjacent streets
-during evening high tides. Highest tides each evening will generally
-occur between 8 and 10 PM. A Beach Hazards Statement remains in
-effect through Wednesday evening and contains further details. There
-will be an increased risk of rip currents through Wednesday.
+Astronomical high tides peaking 7.0-7.5 ft around 9:40 PM this
+evening will drop to a peak of 6.5-7.0 feet Wednesday evening. High
+tides combine with a modest south swell (2 ft swell at 13-15 seconds
+from 190 degrees) to generate surf of 3-5 ft for south-facing
+beaches and 2-4 ft elsewhere. This will produce areas of coastal
+flooding in low lying areas, boardwalks, beach parking lots, and
+beach adjacent streets during evening high tides. A Beach Hazards
+Statement remains in effect through Wednesday evening and contains
+further details. There will be an increased risk of rip currents
+through Wednesday.
 
 &&
 
@@ -466,7 +472,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...PG
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
