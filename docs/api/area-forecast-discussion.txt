@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-16T13:54:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-16T19:13:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,25 +350,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-031
-FXUS66 KSGX 160938
+940
+FXUS66 KSGX 161832
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-238 AM PDT Thu Jul 16 2026
+1132 AM PDT Thu Jul 16 2026
 
 .SYNOPSIS...
-The heat will begin to lessen going into the weekend with slight
-cooling of high temperatures for today with high temperatures
-cooling to around average on Friday and continuing around average
-into early next week. Monsoonal moisture in south to southeast flow
-aloft will begin to return today and slowly increase into the
-weekend, then slowly decrease into early next week. There is a
-slight chance of showers and thunderstorms each afternoon for the
-mountains onto the desert slopes of the mountains into next week
-with 10 to 20 percent chance for this afternoon and a 15 to 25
-percent chance for Friday afternoon.
+One last day of heat alerts with temperatures cooling near average
+by Friday into much of next week. Increasing monsoonal moisture will
+move into the region through Friday, with elevated chances over the
+mountains and locally into the deserts. Moisture decreases by the
+weekend into the first half of next week with minor chances over the
+mountain ridges, increasing again by late next week.
 
 &&
 
@@ -376,75 +372,55 @@ percent chance for Friday afternoon.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Showers and weak thunderstorms are seen moving from NE to SW over
+Arizona and SE California. Some of these showers may reach the lower
+deserts by the early afternoon. Increased moisture and instability
+is seen in our sounding from this morning, aiding in a better set up
+for storms to pop over the mountains. Rain rates may near one half
+inch in some cells along the mountain desert slopes. A similar
+environment is seen on Friday, with elevated chances over the
+mountains and locally into the deserts. Pressure heights will fall
+by Friday into the weekend, providing slight cooling with high and
+low temperatures closer to average. The marine layer will be
+patchier with clouds forming near the coast nights and mornings,
+with better clearing each afternoon.
 
-.SHORT TERM (Today through Saturday)...
-Widespread moderate HeatRisk will continue for much of the area
-today except near the coast and in the higher elevations in the
-mountains with major HeatRisk in portions of the lower deserts.
+High pressure becomes centered over the Rockies and Central Plains,
+pivoting monsoonal moisture further to the east this weekend.
+This will lead to minimal chances for precipitation over the
+mountains during this time into the first half of next week. The
+pattern stays fairly similar through Tuesday, keeping temperatures
+closer to average with a healthy marine layer near the coast and
+far western valleys each night.
 
-High temperatures will cool a few degrees today with high
-temperatures around 5 degrees above average. High temperatures for
-today will range from the mid to upper 70s near the coast to the
-mid 90s to 104 of the Inland Empire with 108 to 112 for the lower
-deserts.
-
-There will be greater cooling on Friday with high temperatures
-returning to around average for Friday through Monday of next
-week. High temperatures will range from the 70s near the coast to
-the upper 80s to mid 90s for the Inland Empire with 104 to 108
-for the lower deserts.
-
-Monsoonal moisture in south to southeast flow aloft will return
-today with a slight increase in moisture into the weekend, then a
-slight decrease into early next week.
-
-There will be a slight chance of showers and thunderstorms each
-afternoon, mainly for the mountains onto the desert slopes of the
-mountains with a 10 to 20 percent chance for this afternoon and a
-15 to 25 percent chance for Friday afternoon. The REFS 90th
-percentile hourly rainfall is around 0.50 to 1 inch from any
-isolated thunderstorms.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-High temperatures will remain around average through Monday, then
-may warm a few degrees on Tuesday and again on Wednesday as high
-pressure aloft strengthens. With the warming, high temperatures on
-Wednesday would be a few degrees above average with high
-temperatures ranging from the mid 70s to near 80 near the coast to
-the 90s for the Inland Empire with 104 to 108 for the lower
-deserts.
-
-For the middle of next week, there are some differences with high
-pressure across the area and the resulting strength of east to
-southeast flow and moisture transport into the area. Those
-solutions that have an axis of high pressure extending westward
-across the area from strong high pressure over the central and
-southern Rockies and Great Plains have the stronger east to
-southeast flow and resulting greater moisture transport into the
-area. Those solutions that have separate centers of high pressure
-over the central and southern Rockies and Great Plains and over
-the eastern Pacific are weaker with the east to southeast flow
-across the area with less moisture transport into the area.
+Models show a subtle increase in moisture by next Wednesday,
+potentially into the latter half of next week. Looking beyond this,
+models show a bit of spread on the monsoonal moisture feed. The
+major factor will be where the area of high pressure will be placed.
+Some models have this further east into the Southern Plains, which
+would shunt moisture further out of our region, or closer to the
+Central Rockies, which would favor a greater moisture set up. NBM
+shows high temperatures sticking near average with 80s and 90s for
+many areas below 6000 feet with warmer/cooler temperatures for the
+lower deserts and along the coastal areas.
 
 &&
 
 .AVIATION...
-160930Z....Coast/Valleys...Very patchy low clouds with bases 600-
-900ft MSL are present along the coast, most widespread in southern
-San Diego Co. There is about a 20%/40% chance for KCRQ/KSNA
-respectively to see CIGs through 15Z; clouds inland will clear by
-16Z. Otherwise, periods of FEW-SCT high clouds AOA 15,000ft MSL and
-southerly breezes today. For this evening, there is a higher chance
-for more widespread, albeit still patchy, low clouds after 08Z Fri.
-Highest chances again for KSAN, with 30-40% chance at KCRQ/KSNA.
-Similar bases and vis to this morning are expected.
+161800Z....Coast/Valleys...Low clouds have mostly cleared out this
+morning, with FEW-SCT and occasionally BKN CIGs lingering along the
+immediate coastline. Otherwise, VFR prevails today with periods of
+FEW-SCT high clouds AOA 15,000ft MSL and southerly breezes.
+Expecting initially patchy low clouds to begin to push back ashore
+this evening after 06z Friday. Likely similar bases and coverage as
+seen this morning, though confidence is relatively low as mid-level
+monsoonal moisture/clouds move in overnight which may limit the
+coverage of the marine layer clouds.
 
 .Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
-conditions. SCT Cu based around 12,000ft MSL along with ISO TSRA
-over mountain ridges this afternoon after 21Z through about 03Z Fri.
+conditions expected throughout the period. SCT Cu based around
+12,000ft MSL along with ISO TSRA over mountain ridges this afternoon
+after 21z through about 03z Fri.
 
 &&
 
@@ -454,10 +430,11 @@ No hazardous marine conditions are expected through Monday.
 &&
 
 .BEACHES...
-High amplitude southerly swell (4-5 ft) will arrive late this
-weekend, bringing elevated surf and strong rip and longshore
-currents for Sunday into early next week. Highest surf will be along
-south and southwest-facing beaches.
+High amplitude southerly swell (4-5 ft with a period of 12-13
+seconds) will build Saturday into Sunday, bringing elevated surf and
+strong rip and longshore currents for Sunday into early next week.
+Highest surf (up to 7-8 ft) will be along south and southwest-facing
+beaches.
 
 &&
 
@@ -485,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...APR
+AVIATION/MARINE...Munyan
 
 
 </pre>
