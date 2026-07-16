@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-16T08:16:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-16T13:54:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,25 +345,30 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-702
-FXUS66 KSGX 160624
+031
+FXUS66 KSGX 160938
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1124 PM PDT Wed Jul 15 2026
+238 AM PDT Thu Jul 16 2026
 
 .SYNOPSIS...
-The peak of the heat will last through Thursday, with conditions
-not as hot by Friday into early next week. Elevated heat risk will
-remain through much of next week. Daily chances for monsoon
-thunderstorms will occur through the weekend, highest on Thursday
-and Friday in the mountains and locally into the deserts.
-Temperatures stick near average for the first half of next week
-with minimal chances for thunderstorms in the mountains.
+The heat will begin to lessen going into the weekend with slight
+cooling of high temperatures for today with high temperatures
+cooling to around average on Friday and continuing around average
+into early next week. Monsoonal moisture in south to southeast flow
+aloft will begin to return today and slowly increase into the
+weekend, then slowly decrease into early next week. There is a
+slight chance of showers and thunderstorms each afternoon for the
+mountains onto the desert slopes of the mountains into next week
+with 10 to 20 percent chance for this afternoon and a 15 to 25
+percent chance for Friday afternoon.
 
 &&
 
@@ -371,62 +376,75 @@ with minimal chances for thunderstorms in the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+...UPDATED AVIATION DISCUSSION...
 
-PREVIOUS DISCUSSION...Issued 1145 AM PDT Wed Jul 15 2026...
-Cumulus clouds are beginning to bubble over the mountains via
-satellite and out our weather windows at the office as we near the
-lunch hour. The chance is there for a few showers and weak storms
-to develop over the highest terrain along peninsular ranges from
-the Mexican border to the Big Bear Lake region later this
-afternoon. PWAT values are not as high as yesterday with less
-instability, but we`ll have to see what Mother Nature has in store
-for us. Temperatures will reach their peak this afternoon, where
-moderate heat risk will be present for many inland, locally major
-for far inland valleys and the lower deserts. Temperatures will
-lower a few degrees by Thursday, whilst heat alerts remain in
-effect until Thursday evening. Highs will top our near to just
-over 100 degrees for inland valleys from Ramona to Ontario. Even
-the mountains will be warm with highs in the 80s and 90s.
+.SHORT TERM (Today through Saturday)...
+Widespread moderate HeatRisk will continue for much of the area
+today except near the coast and in the higher elevations in the
+mountains with major HeatRisk in portions of the lower deserts.
 
-Subtle increases in moisture are seen in model guidance by
-Thursday and Friday, leading to an increased chance of showers
-and thunderstorms across the mountain areas, locally into the
-deserts. A little more hesitant with this forecast due to lack of
-instability seen in the latest guidance, so confidence is on the
-lower end. We will continue to be right on the edge of the storm
-activity through Saturday with chances near 15-40% each afternoon
-and early evening in the mountains, and north of Big Bear in the
-high desert.
+High temperatures will cool a few degrees today with high
+temperatures around 5 degrees above average. High temperatures for
+today will range from the mid to upper 70s near the coast to the
+mid 90s to 104 of the Inland Empire with 108 to 112 for the lower
+deserts.
 
-By Sunday into the first part of next week, high pressure over the
-Rockies shifts east into the Southern Plains. This will bring
-clockwise monsoonal flow around the high to shift eastward with
-it, moving more into Arizona and New Mexico. Moisture looks to
-remain elevated for our area though, so cumulus clouds forming
-over the mountains each day is a good bet, but there is
-increasing confidence that these will have a tough time producing
-any rainfall. Temperatures will remain near average each day with
-marine layer clouds blanketing areas up to 20 miles inland each
-night and morning.
+There will be greater cooling on Friday with high temperatures
+returning to around average for Friday through Monday of next
+week. High temperatures will range from the 70s near the coast to
+the upper 80s to mid 90s for the Inland Empire with 104 to 108
+for the lower deserts.
+
+Monsoonal moisture in south to southeast flow aloft will return
+today with a slight increase in moisture into the weekend, then a
+slight decrease into early next week.
+
+There will be a slight chance of showers and thunderstorms each
+afternoon, mainly for the mountains onto the desert slopes of the
+mountains with a 10 to 20 percent chance for this afternoon and a
+15 to 25 percent chance for Friday afternoon. The REFS 90th
+percentile hourly rainfall is around 0.50 to 1 inch from any
+isolated thunderstorms.
+
+&&
+
+.LONG TERM (Sunday through Wednesday)...
+High temperatures will remain around average through Monday, then
+may warm a few degrees on Tuesday and again on Wednesday as high
+pressure aloft strengthens. With the warming, high temperatures on
+Wednesday would be a few degrees above average with high
+temperatures ranging from the mid 70s to near 80 near the coast to
+the 90s for the Inland Empire with 104 to 108 for the lower
+deserts.
+
+For the middle of next week, there are some differences with high
+pressure across the area and the resulting strength of east to
+southeast flow and moisture transport into the area. Those
+solutions that have an axis of high pressure extending westward
+across the area from strong high pressure over the central and
+southern Rockies and Great Plains have the stronger east to
+southeast flow and resulting greater moisture transport into the
+area. Those solutions that have separate centers of high pressure
+over the central and southern Rockies and Great Plains and over
+the eastern Pacific are weaker with the east to southeast flow
+across the area with less moisture transport into the area.
 
 &&
 
 .AVIATION...
-160600Z....Coast/Valleys...Very patchy low clouds with bases 600-
-900ft MSL may impact coastal TAF sites tonight, most likely for
-southern SD with decreasing chances farther north. CIG chances for
-KSAN are 40-50% (10-16Z), with a 15-20% chance for KCRQ and KSNA
-after 11Z. Any clouds will quickly move out by 16Z. Otherwise, FEW-
-SCT high clouds AOA 15,000ft MSL. Slightly greater chances for low
-clouds at coastal sites Fri after 09Z, with a 60% chance or so for
-CIGs at KSAN again decreasing to 40% chance at KCRQ and 20% chance
-at KSNA.
+160930Z....Coast/Valleys...Very patchy low clouds with bases 600-
+900ft MSL are present along the coast, most widespread in southern
+San Diego Co. There is about a 20%/40% chance for KCRQ/KSNA
+respectively to see CIGs through 15Z; clouds inland will clear by
+16Z. Otherwise, periods of FEW-SCT high clouds AOA 15,000ft MSL and
+southerly breezes today. For this evening, there is a higher chance
+for more widespread, albeit still patchy, low clouds after 08Z Fri.
+Highest chances again for KSAN, with 30-40% chance at KCRQ/KSNA.
+Similar bases and vis to this morning are expected.
 
-.Mountains/Deserts...FEW-SCT high clouds AOA 15,000 ft and VFR
+.Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
 conditions. SCT Cu based around 12,000ft MSL along with ISO TSRA
-over mountain ridges Thursday afternoon after 21Z through about 03Z
-Fri.
+over mountain ridges this afternoon after 21Z through about 03Z Fri.
 
 &&
 
@@ -443,14 +461,17 @@ south and southwest-facing beaches.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until midnight PDT tonight for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory until 8 PM PDT Thursday for Orange County Coastal
-     Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Warning until 8 PM PDT Thursday for Coachella
+     Extreme Heat Warning until 8 PM PDT this evening for Coachella
      Valley-Orange County Inland Areas-Riverside County
      Mountains-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-San Diego
