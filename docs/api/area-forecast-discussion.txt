@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T02:44:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T08:11:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-369
-FXUS66 KSGX 170014
+724
+FXUS66 KSGX 170632
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-514 PM PDT Thu Jul 16 2026
+1132 PM PDT Thu Jul 16 2026
 
 .SYNOPSIS...
 One last day of heat alerts with temperatures cooling near average
@@ -366,21 +364,21 @@ mountain ridges, increasing again by late next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION/BEACHES DISCUSSION...
 
-...UPDATED AVIATION DISCUSSION...
-
+PREVIOUS DISCUSSION...Issued 1132 AM PDT Thu Jul 16 2026...
 Showers and weak thunderstorms are seen moving from NE to SW over
-Arizona and SE California. Some of these showers may reach the lower
-deserts by the early afternoon. Increased moisture and instability
-is seen in our sounding from this morning, aiding in a better set up
-for storms to pop over the mountains. Rain rates may near one half
-inch in some cells along the mountain desert slopes. A similar
-environment is seen on Friday, with elevated chances over the
-mountains and locally into the deserts. Pressure heights will fall
-by Friday into the weekend, providing slight cooling with high and
-low temperatures closer to average. The marine layer will be
-patchier with clouds forming near the coast nights and mornings,
-with better clearing each afternoon.
+Arizona and SE California. Some of these showers may reach the
+lower deserts by the early afternoon. Increased moisture and
+instability is seen in our sounding from this morning, aiding in a
+better set up for storms to pop over the mountains. Rain rates
+may near one half inch in some cells along the mountain desert
+slopes. A similar environment is seen on Friday, with elevated
+chances over the mountains and locally into the deserts. Pressure
+heights will fall by Friday into the weekend, providing slight
+cooling with high and low temperatures closer to average. The
+marine layer will be patchier with clouds forming near the coast
+nights and mornings, with better clearing each afternoon.
 
 High pressure becomes centered over the Rockies and Central Plains,
 pivoting monsoonal moisture further to the east this weekend.
@@ -404,23 +402,23 @@ lower deserts and along the coastal areas.
 &&
 
 .AVIATION...
-170015Z....Coast/Valleys...VFR prevails through this
-evening with periods of FEW-SCT high clouds AOA 15,000ft MSL.
-Expecting initially patchy low clouds based 700-1000 ft MSL to push
-back into coastal areas after 06z Fri. Confidence in coverage is
-relatively low (especially for Orange County) as mid-level monsoonal
-moisture/clouds move in overnight, which may limit the coverage of
-the marine layer clouds. Patchy minor vis reductions (2-5SM)
-expected along elevated coastal terrain. Any low clouds will clear
-to the coast by 16-17z with southerly breezes expected near the
-coastline Friday afternoon.
+170630Z....Coast/Valleys...Initially patchy low clouds based 700-
+1000 ft MSL will continue to spread through coastal areas. Impacts
+are expected at the major coastal sites (KSAN/KCRQ/KSNA) by 10Z, but
+confidence in specific coverage is relatively low as mid-level
+monsoonal moisture/clouds move in overnight, which may limit the
+coverage of the marine layer clouds. Patchy minor vis reductions (2-
+5SM) expected along elevated coastal terrain. Low clouds will clear
+to the coast by 16-17Z, with more southerly breezes expected near
+the coastline Friday afternoon. Low clouds similar in bases and
+coverage move into south SD coastal areas after 05Z Sat, moving
+north and inland through about 12Z Sat.
 
 .Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
-conditions expected throughout the period. TSRA has mostly ended
-this evening, though cannot rule out another cell or two over San
-Diego/Riverside Co mtns through 02z. SCT Cu based 10-12 kft and ISO-
-SCT SHRA/TSRA redevelop over the mtns Friday afternoon. Any storms
-that develop may produce lightning, gusty winds, and vis reductions.
+conditions expected throughout the period. SCT Cu based 10-12 kft
+and ISO-SCT SHRA/TSRA redevelop over the mtns Friday afternoon, most
+likely 20Z Fri through 01Z Sat. Any storms that develop may produce
+lightning, gusty winds, and vis reductions.
 
 &&
 
@@ -430,41 +428,24 @@ No hazardous marine conditions are expected through Monday.
 &&
 
 .BEACHES...
-High amplitude southerly swell (4-5 ft with a period of 12-13
+High amplitude southerly swell (4-6 ft with a period of 12-13
 seconds) will build Saturday into Sunday, bringing elevated surf and
-strong rip and longshore currents for Sunday into early next week.
-Highest surf (up to 7-8 ft) will be along south and southwest-facing
-beaches.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+strong rip and longshore currents for Sunday through at least
+Tuesday. Highest surf, up to 7-9 ft, will be along south and
+southwest-facing beaches.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Coachella
-     Valley-Orange County Inland Areas-Riverside County
-     Mountains-San Bernardino County Mountains-San Bernardino
-     and Riverside County Valleys-The Inland Empire-San Diego
-     County Deserts-San Diego County Mountains-San Diego County
-     Valleys-San Gorgonio Pass near Banning-Santa Ana Mountains
-     and Foothills.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
