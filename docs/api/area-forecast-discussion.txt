@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T13:40:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T19:11:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-898
-FXUS66 KSGX 170945
+243
+FXUS66 KSGX 171818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-245 AM PDT Fri Jul 17 2026
+1118 AM PDT Fri Jul 17 2026
 
 .SYNOPSIS...
 Not as hot with high temperatures returning to near normal today
@@ -362,7 +364,6 @@ each afternoon and early evening.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
@@ -409,26 +410,27 @@ the high desert, and 100-110 in the low desert.
 &&
 
 .AVIATION...
-170930Z....Coast/Valleys...Patchy low clouds based 700-1000 ft MSL
-impacting coastal areas this morning. Patchy minor vis reductions (2-
-5SM) expected along elevated coastal terrain. Mid-level clouds will
-continue to lead to intermittent scatter out of low clouds through
-about 12Z, especially for San Diego Co. Low clouds will clear to the
-coast 15-17Z, with more southerly breezes expected near the
-coastline this afternoon. Low clouds similar in bases and coverage
-move into south SD coastal areas after 05Z Sat, moving north and
-inland through about 12Z Sat.
+171800Z....Coast/Valleys...Multiple cloud decks with very patchy low
+clouds along the northern San Diego County coastline/southern Orange
+County coastline with bases around 1100-1500ft MSL along with
+increasing high clouds AOA 15,000ft MSL. Low clouds will continue to
+erode but high clouds should prevail through the afternoon. Low
+clouds with similar bases will develop tonight and spread into San
+Diego County after 05z Sat before moving up to Orange County likely
+not until 08z. These clouds will be very patchy with potentially
+intermittent CIGs at times through the night. Any low clouds that
+develop should begin to move back towards the coast around 16z Sat.
 
 .Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
 conditions expected throughout the period. SCT Cu based 10-12 kft
-and ISO-SCT SHRA/TSRA redevelop over the mtns this afternoon, most
+MSL and ISO-SCT SHRA/TSRA develop over the mtns this afternoon, most
 likely 20Z Fri through 01Z Sat. Any storms that develop may produce
 lightning, gusty winds, and vis reductions.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
@@ -437,7 +439,10 @@ High amplitude southerly swell (4-5 ft with a period of 12-13
 seconds) will build Saturday into Sunday, bringing elevated surf and
 strong rip and longshore currents for Sunday through at least
 Tuesday. Highest surf, up to 7-8 ft, will be along south and
-southwest-facing beaches.
+southwest-facing beaches. Surf falls a bit after Tuesday and into
+Wednesday before another stronger southerly swell (3-4 ft with a
+period of 15 seconds) brings another round of elevated surf for the
+end of the week and into the early weekend.
 
 &&
 
@@ -449,8 +454,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...APR
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
