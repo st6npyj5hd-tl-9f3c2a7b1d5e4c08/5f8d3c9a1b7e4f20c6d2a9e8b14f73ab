@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-16T19:13:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T02:44:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,22 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-940
-FXUS66 KSGX 161832
+369
+FXUS66 KSGX 170014
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1132 AM PDT Thu Jul 16 2026
+514 PM PDT Thu Jul 16 2026
 
 .SYNOPSIS...
 One last day of heat alerts with temperatures cooling near average
@@ -371,6 +365,9 @@ mountain ridges, increasing again by late next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Showers and weak thunderstorms are seen moving from NE to SW over
 Arizona and SE California. Some of these showers may reach the lower
@@ -407,20 +404,23 @@ lower deserts and along the coastal areas.
 &&
 
 .AVIATION...
-161800Z....Coast/Valleys...Low clouds have mostly cleared out this
-morning, with FEW-SCT and occasionally BKN CIGs lingering along the
-immediate coastline. Otherwise, VFR prevails today with periods of
-FEW-SCT high clouds AOA 15,000ft MSL and southerly breezes.
-Expecting initially patchy low clouds to begin to push back ashore
-this evening after 06z Friday. Likely similar bases and coverage as
-seen this morning, though confidence is relatively low as mid-level
-monsoonal moisture/clouds move in overnight which may limit the
-coverage of the marine layer clouds.
+170015Z....Coast/Valleys...VFR prevails through this
+evening with periods of FEW-SCT high clouds AOA 15,000ft MSL.
+Expecting initially patchy low clouds based 700-1000 ft MSL to push
+back into coastal areas after 06z Fri. Confidence in coverage is
+relatively low (especially for Orange County) as mid-level monsoonal
+moisture/clouds move in overnight, which may limit the coverage of
+the marine layer clouds. Patchy minor vis reductions (2-5SM)
+expected along elevated coastal terrain. Any low clouds will clear
+to the coast by 16-17z with southerly breezes expected near the
+coastline Friday afternoon.
 
 .Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
-conditions expected throughout the period. SCT Cu based around
-12,000ft MSL along with ISO TSRA over mountain ridges this afternoon
-after 21z through about 03z Fri.
+conditions expected throughout the period. TSRA has mostly ended
+this evening, though cannot rule out another cell or two over San
+Diego/Riverside Co mtns through 02z. SCT Cu based 10-12 kft and ISO-
+SCT SHRA/TSRA redevelop over the mtns Friday afternoon. Any storms
+that develop may produce lightning, gusty winds, and vis reductions.
 
 &&
 
@@ -441,6 +441,7 @@ beaches.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -463,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Munyan
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
