@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-17T19:11:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-18T02:36:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,23 +341,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-243
-FXUS66 KSGX 171818
+282
+FXUS66 KSGX 180036
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1118 AM PDT Fri Jul 17 2026
+536 PM PDT Fri Jul 17 2026
 
 .SYNOPSIS...
-Not as hot with high temperatures returning to near normal today
-into much of next week. Monsoonal moisture remains in place
-through next week for continued chances of showers and
-thunderstorms over the mountains and occasionally into the deserts
-each afternoon and early evening.
+Temperatures cooling for inland areas today will be similar into
+much of next week. Chances of thunderstorms are elevated once
+again across the mountains this afternoon. Storm chances begin to
+decrease with minor chances expected for highest ridges in the San
+Bernardino and Riverside County mountains each afternoon into the
+first half of next week. Confidence lowers for increasing chances
+later in the week. Low clouds will continue to cover coastal
+areas each night and morning into the next week as well.
 
 &&
 
@@ -365,67 +370,61 @@ each afternoon and early evening.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
-Mid level clouds from earlier convection are moving across the
-region this morning. Based on current satellite trends, it does
-not appear that enough cloud cover will be in place to inhibit
-convection this afternoon. With weak southerly mid-level flow in
-place, expect convection to be focused over the mountains and
-locally into the high desert. The 00Z KNKX sounding had around 1.5
-inch of precipitable water, which is forecast to increase
-slightly today. Sufficient PW combined with weak steering
-flow/near stationary storms will increase the risk of flash
-flooding this afternoon where stronger storms occur. Some CAMs are
-showing hourly rainfall amounts in excess of 1 inch, and 90th
-percentile 1 hour precipitation from the REFS is around 1.25 inch,
-though very localized.
+...UPDATED AVIATION DISCUSSION...
 
-For the remainder of the forecast area, low clouds and patchy fog
-along the coast and up to a few miles inland will clear by late
-morning. The upper level high continues to weaken with high
-temperatures returning to near normal, though continued humidity
-will keep nighttime temperatures elevated.
+...UPDATED BEACHES DISCUSSION...
 
-The upper level pattern remains largely unchanged this weekend
-through next week with broad upper level ridging across the
-Central US, weak troughing off the West Coast, and a pair of
-tropical systems passing by to the southwest. This will maintain
-southerly or easterly flow aloft and monsoonal moisture across the
-region. Moisture and instability decrease slightly this weekend
-into early next week for less widespread convection with lower
-rainfall rates each afternoon. Both the EC and GFS ensemble means
-show an increase in precipitable water towards the middle of next
-week, though the spread is somewhere on the order of 0.5" or more,
-likely due to differences in the placement in the upper level
-high. Around 51% of the members have the high in a more favorable
-position near the Four Corners region, while the remaining 49%
-have the high centered closer to Texas, putting us on the fringes
-of the moisture for lower precipiation chances. Otherwise just
-minor fluctuations in temperatures with highs generally in the mid
-to upper 70s along the coast, upper 80s to 90s in the valleys,
-upper 70s to low 90s in the mountains, upper 90s to low 100s in
-the high desert, and 100-110 in the low desert.
+Satellite imagery shoes shows mid-level clouds over parts of SoCal
+and further to the east, with drying trends noticed over northern
+portions of the mountains. Clearing this morning will create a
+better environment for thunderstorm activity as we head into the
+afternoon. Comparing yesterday to today, the environment is
+seemingly a bit less primed with less instability, though PWATs are
+still near 1.5", plenty moist enough. Latest hi-res model guidance
+again favors the Riverside and San Diego County mountains to receive
+the greatest rainfall, locally near 0.50"-1" per hour rates, for
+later this afternoon. Storms will begin to weaken by early
+evening. Otherwise, temperatures today will feel not as hot as
+yesterday. High temperatures will be closer to average with highs
+in the 90s across the IE and high desert, and 70s/80s for the
+coast, western valleys and mountains. Elevated humidity with
+overnight lows near to slightly above average will remain though.
+
+Moisture around an area of high pressure over the Intermountain West
+decreases and pushes further east by the weekend. Moisture will
+still remain in place, so chances do remain over the higher
+mountains of SBD/RIV Counties on Saturday. The atmosphere looks to
+dry out a bit further by Sunday through Tuesday, bringing chances
+near 10-15% along the eastern parts of the SBD Mts. Other than this,
+the overall weather pattern will remain relatively unchanged with
+temperatures near average with mostly clear conditions.
+
+The forecast in monsoonal moisture becomes less certain by the
+latter half of next week. Models still continue to be split on the
+placement of the area of high pressure, which will dictate where and
+how much monsoonal moisture we are able to receive. This will also
+dictate if we stay near normal or warm slightly above normal.
 
 &&
 
 .AVIATION...
-171800Z....Coast/Valleys...Multiple cloud decks with very patchy low
-clouds along the northern San Diego County coastline/southern Orange
-County coastline with bases around 1100-1500ft MSL along with
-increasing high clouds AOA 15,000ft MSL. Low clouds will continue to
-erode but high clouds should prevail through the afternoon. Low
-clouds with similar bases will develop tonight and spread into San
-Diego County after 05z Sat before moving up to Orange County likely
-not until 08z. These clouds will be very patchy with potentially
-intermittent CIGs at times through the night. Any low clouds that
-develop should begin to move back towards the coast around 16z Sat.
+180030Z....Coast/Valleys...Looking at multiple cloud decks along the
+coast with bases around 1,500ft MSL in southern San Diego and bases
+around 4,000ft MSL in Orange County. Higher mid-level clouds have
+been moving through around 15,000-20,000ft MSL. A few low clouds
+will continue to move in along the coast through the period,
+increasing in coverage in SD after 05-06Z, and spreading north into
+OC after 08-09Z. Low clouds will be patchy with bases between 900-
+1,200ft MSL. Low clouds clear 16-17Z.
 
-.Mountains/Deserts...Periods of high clouds AOA 15,000 ft and VFR
-conditions expected throughout the period. SCT Cu based 10-12 kft
-MSL and ISO-SCT SHRA/TSRA develop over the mtns this afternoon, most
-likely 20Z Fri through 01Z Sat. Any storms that develop may produce
-lightning, gusty winds, and vis reductions.
+
+.Mountains/Deserts...VFR conditions expected through the period with
+SCT mid-level clouds AOA 15,000ft MSL forming near the mountains.
+SCT Cu based 10-12 kft MSL and ISO-SCT SHRA/TSRA may develop over
+the Riverside and San Bernardino mtns after 18Z, most likely 20Z,
+through 01Z Sunday. Any storms that develop may produce lightning,
+gusty winds, and vis reductions.
 
 &&
 
@@ -436,18 +435,29 @@ No hazardous marine conditions are expected through Wednesday.
 
 .BEACHES...
 High amplitude southerly swell (4-5 ft with a period of 12-13
-seconds) will build Saturday into Sunday, bringing elevated surf and
+seconds) will build Sunday, bringing elevated to high surf and
 strong rip and longshore currents for Sunday through at least
-Tuesday. Highest surf, up to 7-8 ft, will be along south and
-southwest-facing beaches. Surf falls a bit after Tuesday and into
-Wednesday before another stronger southerly swell (3-4 ft with a
-period of 15 seconds) brings another round of elevated surf for the
-end of the week and into the early weekend.
+Tuesday. Highest surf, up to 7-9 ft, will be along south and
+southwest-facing beaches. Further details can be found in the High
+Surf Advisory. Surf falls a bit after Tuesday and into Wednesday
+before another stronger southerly swell (3-4 ft with a period of 15
+seconds) brings another round of elevated surf for the end of the
+week and into the early weekend. From Sunday onward, there will be a
+high rip current risk.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...High Surf Advisory from 5 PM Sunday to 11 PM PDT Tuesday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
+
 PZ...None.
 
 &&
@@ -455,7 +465,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
