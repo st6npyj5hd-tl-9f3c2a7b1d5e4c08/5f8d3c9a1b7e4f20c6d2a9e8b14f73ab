@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-19T02:50:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-19T08:13:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-510
-FXUS66 KSGX 182350
+367
+FXUS66 KSGX 190450
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-450 PM PDT Sat Jul 18 2026
+950 PM PDT Sat Jul 18 2026
 
 .SYNOPSIS...
 Near seasonal temperatures through the first half of the upcoming
@@ -367,7 +367,6 @@ coast, reaching into portions of the valleys at times.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -405,20 +404,21 @@ air conditioning.
 &&
 
 .AVIATION...
-190000Z....Coast/Valleys...VFR prevailing with a sheet of low clouds
-based around 1100-1400ft MSL building offshore, likely to move
-inland to San Diego County after 03z, and further up to Orange
-County after 08z. VIS restrictions where clouds intersect terrain.
-Low clouds will clear back towards the coastline around 15-16z Sun,
-with likely VFR prevailing with high clouds AOA 20kft MSL for Sunday
-afternoon.
+190430Z....Coast/Valleys...Low clouds based 1000-1400 ft MSL are
+filling in off the coast, moving into OC after 07z and filling in up
+to 20 miles inland by 11z. VIS restrictions where clouds intersect
+terrain and in elevated eastern valley sites like KRNM. Low clouds
+scatter out 15-16z with FEW-SCT clouds remaining above 10 kft MSL
+and VFR prevailing. Low clouds with similar bases return to the
+coast 02-05z Mon.
+
 
 .Mountains/Deserts...VFR conditions expected through the period with
 FEW-SCT mid-level clouds generally AOA 15,000ft MSL. FEW-SCT Cu
 based 10-12 kft MSL may develop over the mountain ridgetops Sunday
-afternoon, with chances for ISO SHRA/TSRA, most likely after 21z
-through 01z Mon. Any storm that develop may produce lightning, gusty
-winds, and vis reductions.
+afternoon, with a small (10%) chance for ISO SHRA/TSRA, most likely
+after 21z through 01z Mon. Any storm that develop may produce
+lightning, gusty winds, and vis reductions.
 
 &&
 
@@ -441,6 +441,13 @@ remain from Sunday through next week.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...High Surf Advisory from 5 PM Sunday to 11 PM PDT Tuesday for
      Orange County Coastal Areas-San Diego County Coastal Areas.
@@ -452,7 +459,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
