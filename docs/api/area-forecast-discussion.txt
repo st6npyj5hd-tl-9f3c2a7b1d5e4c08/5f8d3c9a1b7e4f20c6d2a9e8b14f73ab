@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-19T19:07:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-20T03:25:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,18 +339,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-697
-FXUS66 KSGX 191840
+869
+FXUS66 KSGX 200008
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1140 AM PDT Sun Jul 19 2026
+508 PM PDT Sun Jul 19 2026
 
 .SYNOPSIS...
 Near seasonal temperatures through the first half of the week with
@@ -368,6 +366,9 @@ portions of the valleys at times.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION FOR 00Z TAF ISSUANCE...
 
 Highs today will be within a few degrees of Saturday, maintaining
 conditions that are within 3 degrees of normal for inland areas, and
@@ -408,22 +409,20 @@ shower/thunderstorm chances.
 &&
 
 .AVIATION...
-191800Z....Coast/Valleys...Low clouds moved out relatively quickly
-this morning, with CIGs clearing at KSAN and KCRQ by 13-14z. VFR
-conditions and mostly clear skies will prevail through the
-afternoon. Low marine layer clouds are expected to redevelop and
-push ashore after 00z Monday, with CIGs for KSAN/KCRQ anticipated
-around 04z and 07z for KSNA. Similar cloud bases and inland extent
-as this morning, with VIS obscurations where clouds intersect higher
-terrain. Clouds and CIGs expected to clear out 15-17z Monday.
+200000Z....Coast/Valleys...FEW low clouds along the beaches at this
+hour with bases around 1500 ft MSL. Low clouds expected to begin
+increasing in coverage and spreading inland around 03Z Mon extending
+5-10 miles inland by 15Z Mon. Bases will likely be 1000-1400 ft MSL
+with CIG impacts at KSAN and KCRQ between 04Z and 17Z Mon. CIGs will
+likely arrive around 06Z at KSNA. Patchy fog with VIS around 3 miles
+on elevated coastal terrain during this period. Expect clearing to
+the coast 15Z-17z Mon.
 
-.Mountains/Deserts...VFR conditions expected through the period with
-FEW-SCT mid-level clouds generally AOA 15,000ft MSL. FEW-SCT Cu
-based 10-12 kft MSL may develop over the mountain ridgetops this
-afternoon, with a small (5-10%) chance for ISO SHRA/TSRA, most
-likely after 21z through 01z Monday. Elevated west winds expected
-this afternoon/evening from 00-09z Monday, with gusts 20-35 kts
-along desert slopes and up to 45 kts through the Banning Pass.
+Mountains/Deserts...VFR conditions expected through the period with
+FEW-SCT clouds generally AOA 15,000ft MSL. FEW-SCT clouds based 10-
+12 kft MSL likely to clear by 03Z Mon. West winds gusting 20-35 kts
+along desert slopes and up to 45 kts through the Banning Pass
+expected from 00Z-09z Mon.
 
 &&
 
@@ -436,22 +435,21 @@ through Thursday morning.
 &&
 
 .BEACHES...
-High amplitude southerly swell (4-5 ft with a period of 11-13
-seconds) is building today, and is set to bring elevated to high
-surf and strong rip and longshore currents through Tuesday. Surf
-generally 5-7 feet with sets to 8 feet is expected through Tuesday,
-with the highest surf focused on south and southwest facing beaches.
-Surf sets up to 8 feet have already been reported across Orange
-County this morning and the High Surf Advisory has been tweaked to
-go into effect as of 11AM this morning. This High Surf Advisory
-remains in effect until 11PM Tuesday evening.
+Southerly swell of 4-5 ft with a period of 11-13 seconds will likely
+bring elevated to high surf and strong rip and longshore currents
+through Tuesday. Surf generally 5-7 feet with sets to 8 feet is
+expected through Tuesday, with the highest surf focused on south and
+southwest facing beaches of Orange County. Surf sets up to 8 feet
+were reported across Orange County this morning and a High Surf
+Advisory is currently in effect. This High Surf Advisory remains in
+effect until 11 PM Tuesday.
 
-Southerly swell and surf falls through the day on Tuesday, remaining
-low into Wednesday. Another increased southerly swell from a
-forecast tropical cyclone well off the coast is expected later this
-week. This swell is expected to be around 4-5 ft with a period of
-~15 seconds which would once again bring high surf of 6-8 feet,
-especially for south-southwest facing beaches.
+The southerly swell and surf falls through the day on Tuesday,
+remaining low into Wednesday. Another round of elevated southerly
+swell from a tropical cyclone well off the coast is expected later
+this week. This swell is expected to be around 4-5 ft with a period
+of about 15 seconds which would once again bring high surf of 6-8
+feet, especially for south-southwest facing beaches.
 
 &&
 
@@ -473,7 +471,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Munyan/PG
 
 
 </pre>
