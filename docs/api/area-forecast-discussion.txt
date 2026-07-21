@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-20T19:44:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-21T02:47:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-580
-FXUS66 KSGX 201916
+836
+FXUS66 KSGX 202349
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1216 PM PDT Mon Jul 20 2026
+449 PM PDT Mon Jul 20 2026
 
 .SYNOPSIS...
 Increase in both high and low temperatures expected for the middle
@@ -361,6 +359,9 @@ mostly confined to the coast.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Widespread high cloud coverage is being observed at 12 PM on
 visible satellite. Light radar returns are being observed in the
@@ -405,16 +406,19 @@ also increase humidity which would make conditions muggier.
 &&
 
 .AVIATION...
-201800Z....Coast/Valleys...SCT-BKN mid-high level (12-15 kft) clouds
-remaining through the evening. These will prevent low cloud
-formation for most of the evening, with patchy low clouds forming
-along the coasts after 07Z. Clouds will remain very patchy through
-the night, with intermittent scatter out, including at major coastal
-sites. Clouds clear from coast 15-16Z.
+210000Z....Coast/Valleys...SCT-BKN mid-high level (12-15 kft) clouds
+remaining through the evening. These will severely limit low cloud
+formation for most of the evening, with patchy low clouds expected
+to form along the coasts after 07Z. Low confidence exists for long
+duration CIGs at any of the major coastal TAF sites (KSAN/KCRQ/KSNA)
+overnight, but KSAN does have the highest chance (~60%) for
+relatively persistent CIGs near 0900-1200ft MSL between 11z-15z
+Tuesday morning. Any patchy clouds that remain in place overnight
+will clear back out to the coast by 15-16z.
 
 Mountains/Deserts...SCT-BKN clouds 12-15 kft MSL. West winds gusting
-20-35 kts along desert slopes and up to 45 kts through the Banning
-Pass expected from 22Z Mon to 06Z Tue.
+10-25 kts along desert slopes and up to 35 kts through the Banning
+Pass expected from through 06z Tue.
 
 &&
 
@@ -445,13 +449,6 @@ facing beaches.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...High Surf Advisory until 11 PM PDT Tuesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -473,7 +470,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
