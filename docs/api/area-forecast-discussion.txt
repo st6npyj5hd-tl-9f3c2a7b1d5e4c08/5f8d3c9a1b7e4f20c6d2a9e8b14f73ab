@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-21T08:31:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-21T13:53:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -338,13 +338,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-827
-FXUS66 KSGX 210707
+608
+FXUS66 KSGX 210932
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1207 AM PDT Tue Jul 21 2026
+232 AM PDT Tue Jul 21 2026
 
 .SYNOPSIS...
 There will be slow inland warming through Wednesday. There will
@@ -363,6 +363,9 @@ the far western valleys at times late each night.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Thursday)...
 There will be drying of monsoonal moisture for today and
@@ -422,19 +425,19 @@ into early next week.
 &&
 
 .AVIATION...
-210500Z....Coast/Valleys...FEW-BKN mid-high level (12-15 kft) clouds
-this evening, significantly limiting low cloud formation for most of
-the evening. Very patchy low clouds (~1000-1500 ft MSL bases)
-expected to form near the coast after 08z, yielding very
-intermittent low cloud cigs to the coastal TAF sites, if any. Chance
-for over 1hr of MVFR/IFR cigs tonight: 50% for KSAN (09-14z), 40%
-for KCRQ (10-13z) and 20% for KSNA (11-14z). Remaining patchy clouds
-scatter out 14-16z Tue, then VFR conditions prevail with FEW-SCT mid
-level clouds through Tuesday evening.
+210915Z....Coast/Valleys...FEW mid level clouds with very patchy low
+clouds starting to develop at the coast (~800-1200 ft MSL bases)
+Very intermittent low cloud cigs expected for the coastal TAF sites
+(and other coastal areas) through around 14z. VIS reductions locally
+where clouds intersect with terrain. Remaining patchy clouds scatter
+out 14-16z Tue, then VFR conditions through Tuesday evening. Low
+clouds with slightly higher bases begin re-developing at the
+coastline by around 08z Wed.
 
-Mountains/Deserts...SCT-BKN clouds 12-15 kft MSL. West winds gusting
-15-25 kts along desert slopes and up to 35 kts through the Banning
-Pass expected through 07z Tue, then once again after 00z Wed.
+Mountains/Deserts...VFR prevailing with FEW mid-level clouds
+clearing out Tuesday evening. West winds gusting 20-40 kts along
+desert slopes and up to 50 kts through the Banning Pass expected
+Tuesday afternoon and evening, 00-07z Wed.
 
 &&
 
@@ -442,25 +445,23 @@ Pass expected through 07z Tue, then once again after 00z Wed.
 There is a 75% chance for NW wind gusts to exceed 20 kts in the
 outer waters near San Clemente Island both Wednesday and Thursday
 afternoons. Additionally, a mixed swell will cause steep and choppy
-seas during the day Thursday, especially in the outer waters.
+seas Thursday and Friday, especially in the outer waters.
 
 &&
 
 .BEACHES...
 Southerly swell of 4-5 ft with a period of 11-13 seconds will
 continue to bring elevated to high surf and strong rip and longshore
-currents through Tuesday. Surf 4-7 feet with sets to 8 feet is
-expected through Tuesday, with the highest surf focused on south and
+currents through this evening. Surf 3-6 feet with sets to 7 feet is
+expected through tonight, with the highest surf focused on south and
 southwest facing beaches of Orange County. A High Surf Advisory
-remains in effect until 11 PM Tuesday.
+remains in effect until 11 PM tonight.
 
-The southerly swell and surf falls through the day on Tuesday,
-remaining lower into Wednesday. Another round of elevated southerly
-swell from a tropical cyclone well off the coast is expected
-Thursday through the end of the week. This swell is expected to be
-around 4-5 ft with a period of about 15 seconds which would once
-again bring high surf of 6-8 feet, especially for south-southwest
-facing beaches.
+While this current swell diminishes tonight, another elevated
+southerly swell (4-5 feet, 15 second period) from a tropical cyclone
+far off the coast is expected to develop Wednesday evening and
+elevate surf through late Saturday. This would once again bring high
+surf of 6-8 feet, especially for south-southwest facing beaches.
 
 &&
 
@@ -468,11 +469,12 @@ facing beaches.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...High Surf Advisory until 11 PM PDT Tuesday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...High Surf Advisory until 11 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
      Heat Advisory from 10 AM Wednesday to 8 PM PDT Monday for Orange
      County Inland Areas-Riverside County Mountains-San
