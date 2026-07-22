@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-22T13:58:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-22T19:21:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,18 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-955
-FXUS66 KSGX 220946
+778
+FXUS66 KSGX 221908
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-246 AM PDT Wed Jul 22 2026
+1208 PM PDT Wed Jul 22 2026
 
 .SYNOPSIS...
 Strengthening high pressure aloft into the weekend will bring very
@@ -361,8 +359,7 @@ return near the end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 High pressure aloft will expand westward and strengthen across
@@ -417,16 +414,13 @@ the high pressure aloft for late this week could return.
 &&
 
 .AVIATION...
-221000Z....Coast/Valleys...Low clouds will continue to fill in areas
-within 15 miles over the coast this morning. Patchy vis reductions
-(3-5SM) expected for elevated coastal terrain and western valleys.
-Clouds scatter back to the coast by 18-19Z, though there is a 50-60%
-chance for BKN cigs along the immediate SD County coast through the
-afternoon.
-
-A weak coastal eddy may help to spin up low clouds after 06Z Thu.
-across San Diego County with bases near 1,000 ft MSL; increasing
-confidence cigs not reaching KSNA.
+221900Z....Coast/Valleys...Patchy low clouds may linger along the
+immediate coast this afternoon. Low clouds will remain patchy in
+coverage tonight. Moderate confidence in cigs impacting coastal TAF
+sites, with a 50 percent chance of cigs at KSAN and KCRQ and closer
+to 30 percent chance at KSNA. Where cigs develop, bases will be 500-
+800 ft MSL, with vis reductions near higher coastal terrain. Low
+clouds are expected to scatter out by 16-17Z Thu.
 
 Mountains/Deserts...Mostly clear with VFR conditions prevailing
 through the TAF period.
@@ -435,38 +429,47 @@ through the TAF period.
 
 .MARINE...
 Northwesterly winds with gusts 20-25 kts in the outer waters near
-San Clemente Island expected both Wednesday and Thursday afternoons.
-Additionally, a mixed swell will cause steep and choppy seas up to 6
-feet on Thursday and Friday, especially in the outer waters.
+San Clemente Island expected both this afternoon and again Thursday.
+Additionally, a mixed swell will cause steep and choppy seas 6 to 7
+feet on Thursday and Friday in the outer waters.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+.BEACHES...
+A 3 to 4 feet south swell from 190 degrees with 13-15 second period
+will bring surf of 5 to 7 feet to area beaches Thursday through
+Sunday. Highest surf will be on south-southwest facing beaches. In
+addition to elevated surf, tides are expected to increase starting
+Friday peaking at 5.5 to 6.5 feet MLLW by early next week. The
+combination of surf and tides will result in minor coastal flooding
+during high tides.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM Thursday to 6 PM PDT Saturday for San
-     Diego County Coastal Areas.
+CA...Beach Hazards Statement from late tonight through Sunday evening
+     for Orange County Coastal Areas-San Diego County Coastal
+     Areas.
 
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Monday
-     for Coachella Valley-San Bernardino and Riverside County
-     Valleys-The Inland Empire-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
+     Heat Advisory from 10 AM Thursday to 8 PM PDT Monday for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM this morning to 8 PM PDT Monday for
-     Orange County Inland Areas-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Valleys-Santa
-     Ana Mountains and Foothills.
+     Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
+     San Bernardino and Riverside County Valleys-The Inland
+     Empire-San Diego County Deserts-San Diego County Mountains-
+     San Gorgonio Pass near Banning.
+
+     Heat Advisory until 8 PM PDT Monday for Orange County Inland
+     Areas-Riverside County Mountains-San Bernardino County
+     Mountains-San Diego County Valleys-Santa Ana Mountains and
+     Foothills.
 
      Extreme Heat Warning from 10 AM Thursday to 8 PM PDT Monday for
      Apple and Lucerne Valleys.
 
-PZ...Small Craft Advisory from noon today to 9 PM PDT Thursday for
-     Waters from San Mateo Point to the Mexican Border Extending
-     10 to 60 nm out including San Clemente Island.
+PZ...Small Craft Advisory until 9 PM PDT Thursday for Waters from San
+     Mateo Point to the Mexican Border Extending 10 to 60 nm out
+     including San Clemente Island.
 
 
 &&
@@ -474,7 +477,7 @@ PZ...Small Craft Advisory from noon today to 9 PM PDT Thursday for
 $$
 
 PUBLIC...Martin
-AVIATION/MARINE...APR
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
