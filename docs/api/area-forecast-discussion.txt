@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-21T19:24:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-22T02:45:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,13 +336,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-363
-FXUS66 KSGX 211819
+739
+FXUS66 KSGX 220003
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1119 AM PDT Tue Jul 21 2026
+503 PM PDT Tue Jul 21 2026
 
 .SYNOPSIS...
 Increase in both high and low temperatures expected for the middle
@@ -360,6 +360,9 @@ coast.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Areas of high clouds are being observed on satellite this morning.
 Areas of clouds will stick around through the afternoon, but coverage
@@ -395,20 +398,19 @@ conditions are expected over the weekend into early next week.
 &&
 
 .AVIATION...
-211800Z....Coast/Valleys...Mainly mid-level clouds AOA 20,000ft MSL
-with a few low clouds floating around 1,000-1,500ft MSL. Low clouds
-will redevelop after 08Z Wednesday, pushing inland up to 20 miles,
-with bases 800-1,200ft MSL. VIS restrictions 3-5SM will be possible
-where clouds intersect with terrain. Low clouds clear most inland
-areas by 18Z Wednesday, with a 40 percent chance of low clouds
-sticking to coastal SD through 20Z.
+220000Z....Coast/Valleys...Low clouds based 800-1300 ft MSL expected
+to redevelop over coastal areas after 08z Wed. Coverage of BKN cigs
+should be more uniform and persistent than this morning with low
+clouds spreading up to 15-20 miles inland by 12z. Patchy minor vis
+reductions (3-5SM) expected for elevated coastal terrain and western
+valleys. Clouds scatter back to the coast by 18z, though there is a
+30-40% chance for BKN cigs along the immediate SD County coast
+through the afternoon.
 
 Mountains/Deserts...VFR conditions will prevail through the TAF
-period. A few mid-level clouds AOA 15,000ft MSL will hang out around
-the mountains this morning and into the early afternoon, likely
-clearing out this evening. Gusty westerly winds 20-40 kts along
-desert slopes and up to 50 kts through the Banning Pass expected
-this afternoon and evening, 19Z to 07z Wed.
+period. Westerly wind gusts 20-40 kts along desert slopes and
+locally into deserts expected through this evening. Gusts may exceed
+50 kts through the Banning Pass. Winds slowly weaken 06-12z Wed.
 
 &&
 
@@ -460,14 +462,17 @@ CA...High Surf Advisory until 11 PM PDT this evening for Orange
      Coachella Valley-San Diego County Deserts-San Gorgonio Pass
      near Banning.
 
-PZ...None.
+PZ...Small Craft Advisory from noon Wednesday to 9 PM PDT Thursday
+     for Waters from San Mateo Point to the Mexican Border
+     Extending 10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Villafane
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
