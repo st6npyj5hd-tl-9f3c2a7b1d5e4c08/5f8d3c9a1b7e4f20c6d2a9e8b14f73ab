@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-22T02:45:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-22T08:30:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,27 +333,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-739
-FXUS66 KSGX 220003
+420
+FXUS66 KSGX 220804
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-503 PM PDT Tue Jul 21 2026
+104 AM PDT Wed Jul 22 2026
 
 .SYNOPSIS...
-Increase in both high and low temperatures expected for the middle
-of this week into early next week. Widespread moderate to areas of
-major HeatRisk away from the coast are expected during this time,
-with locally extreme HeatRisk in the low deserts. There is a
-slight chance of showers and 5 percent chance of thunderstorms
-Thursday and Friday afternoons over the mountains and High Desert.
-Otherwise, dry conditions expected through the weekend. This week
-marine layer low clouds will remain patchy and confined to the
-coast.
+Strengthening high pressure aloft into the weekend will bring very
+hot days for inland areas and warm humid nights except for the
+highest elevations in the mountains for Thursday into the weekend
+with record overnight warmth for many areas for Friday and
+Saturday. Monday and Tuesday will cool a few degrees each day, but
+high pressure as strong or stronger than late this week could
+return near the end of next week.
 
 &&
 
@@ -361,56 +361,77 @@ coast.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Friday)...
+High pressure aloft will expand westward and strengthen across
+southern California into the weekend. High temperatures for
+coastal areas may cool a few degrees today while high temperatures
+in the mountains and Inland Empire warm 5 to 10 degrees. For
+Thursday, high temperatures will warm another 5 to locally 10
+degrees for the valleys, the coastal slopes of the mountains, and
+inland Orange County.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures on Thursday and Friday will be around 5 degrees
+above average near the coast and around 10 degrees above average
+for inland areas with high temperatures ranging from around 80
+near the coast to the upper 90s to 110 for the Inland Empire with
+112 to 118 for the lower deserts. Low temperatures will be quite
+warm as well for Friday and Saturday, mostly in the 70s for the
+coast and valleys. in the upper 80s to upper 90s for the lower
+deserts, and in the mid 70s to mid 80s for the Apple and Lucerne
+Valleys. Most of the records that are tied or broken will likely
+be from warm overnight low temperatures with the days for the
+largest number of such records to be tied or broken on Friday and
+Saturday.
 
-Areas of high clouds are being observed on satellite this morning.
-Areas of clouds will stick around through the afternoon, but coverage
-will be much less widespread compared to yesterday. Night and
-morning low clouds are expected to stay mostly confined to coastal
-areas this week, with patchy coverage.
+The marine layer will remain around 1500 feet deep with night and
+morning coastal low clouds spreading locally into the far western
+valleys at times late each night.
 
-Broad ridging is still expected across the southwest this week.
-Today, the ridge is centered farther east, over New Mexico/Texas.
-The ridge is expected to strengthen and expand westward Thursday and
-Friday settling over the Arizona/New Mexico border for Saturday into
-early next week. High temperatures will start to become above
-average on Wednesday, peaking at 5 to 10 degrees above average
-Thursday through the weekend. In addition to above average high
-temperatures, low temperatures will be running 5 to 10 degrees above
-average, locally up to 15 degrees above average in the mountains.
-The combination of elevated high and low temperatures will limit the
-ability to recover from heat overnight and allow for conditions to
-quickly warm once the sun rises. Widespread moderate to locally
-major HeatRisk is expected in inland Orange County, San Diego
-Valleys, Inland Empire, and area mountains. Major HeatRisk is
-expected in the deserts, with locally extreme HeatRisk in Coachella
-Valley and San Diego deserts. Major to extreme HeatRisk indicates
-that anyone may be negatively impacted by the heat if the proper
-precautions are not taken.
+Precipitable water values will continue to decrease into tonight,
+increase for Thursday and Friday, then decrease into the middle of
+next week. On Tuesday afternoon, there were some clouds over the
+San Bernardino Mountains but the remaining mountains were mostly
+clear. With the increase in moisture for Thursday and Friday,
+there could be an isolated shower over the San Bernardino
+Mountains on Thursday afternoon with a slight chance of showers
+for the mountains in San Bernardino and Riverside Counties for
+Friday afternoon.
 
-While there will be a minor uptick in monsoonal moisture in the
-mountains and deserts Thursday and Friday, chances of showers and
-thunderstorms stay low. Shower chances are mostly 15 to 20 percent,
-with only a 5 percent chance of thunderstorms developing. Dry
-conditions are expected over the weekend into early next week.
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+The beaches won`t be as hot during the day as inland areas, but
+nights will still be warm and humid with low temperatures mostly
+in the lower 70s. The higher elevations in the mountains, mostly
+above 7000 feet, will be drier with cooler nights and days not as
+hot. Otherwise, most areas through the weekend will have hot days
+and warm humid nights through the weekend with only a few degrees
+of cooling for Monday and again on Tuesday of next week.
+
+By the end of next week, high pressure as strong or stronger as
+the high pressure aloft for late this week could return.
 
 &&
 
 .AVIATION...
-220000Z....Coast/Valleys...Low clouds based 800-1300 ft MSL expected
-to redevelop over coastal areas after 08z Wed. Coverage of BKN cigs
-should be more uniform and persistent than this morning with low
-clouds spreading up to 15-20 miles inland by 12z. Patchy minor vis
+220600Z....Coast/Valleys...Low clouds will continue to move toward
+the coast overnight, moving into coastal TAF sites over the next few
+hours. Confidence moderate on MVFR/IFR cigs based 600-1200 ft MSL;
+clouds will spread up to 15-20 miles inland by 12z. Patchy minor vis
 reductions (3-5SM) expected for elevated coastal terrain and western
-valleys. Clouds scatter back to the coast by 18z, though there is a
-30-40% chance for BKN cigs along the immediate SD County coast
+valleys. Clouds scatter back to the coast by 18-19Z, though there is
+a 50-60% chance for BKN cigs along the immediate SD County coast
 through the afternoon.
 
-Mountains/Deserts...VFR conditions will prevail through the TAF
-period. Westerly wind gusts 20-40 kts along desert slopes and
-locally into deserts expected through this evening. Gusts may exceed
-50 kts through the Banning Pass. Winds slowly weaken 06-12z Wed.
+A weak coastal eddy will help to spin up low clouds after 06Z Thu.
+across San Diego County with bases near 1,000 ft MSL; increasing
+confidence cigs not reaching KSNA.
+
+Mountains/Deserts...Mostly clear with VFR conditions prevailing
+through the TAF period. Westerly wind gusts 20-40 kts along desert
+slopes and locally into deserts expected through this evening. Gusts
+may exceed 50 kts through the Banning Pass. Winds slowly weaken 06-
+12z Wed.
 
 &&
 
@@ -423,18 +444,10 @@ Thursday and Friday, especially in the outer waters.
 &&
 
 .BEACHES...
-Southerly swell of 4-5 ft with a period of 11-13 seconds will
-continue to bring elevated to high surf and strong rip and longshore
-currents through this evening. Surf 3-6 feet with sets to 7 feet is
-expected through tonight, with the highest surf focused on south and
-southwest facing beaches of Orange County. A High Surf Advisory
-remains in effect until 11 PM tonight.
-
-While this current swell diminishes tonight, another elevated
-southerly swell (4-5 feet, 15 second period) from a tropical cyclone
-far off the coast is expected to develop Thursday and elevate surf
-through late Saturday. This would once again bring high surf of 6-8
-feet, especially for south-southwest facing beaches.
+Another elevated southerly swell (4-5 feet, 15 second period) from a
+tropical cyclone far off the coast is expected to develop Thursday
+and elevate surf through late Saturday. This would once again bring
+high surf of 6-8 feet, especially for south-southwest facing beaches.
 
 &&
 
@@ -446,33 +459,33 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...High Surf Advisory until 11 PM PDT this evening for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
+CA...Heat Advisory from 10 AM Thursday to 6 PM PDT Saturday for San
+     Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM Wednesday to 8 PM PDT Monday for Orange
-     County Inland Areas-Riverside County Mountains-San
-     Bernardino County Mountains-San Bernardino and Riverside
-     County Valleys-The Inland Empire-San Diego County Mountains-
-     San Diego County Valleys-Santa Ana Mountains and Foothills.
+     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Monday
+     for Coachella Valley-San Bernardino and Riverside County
+     Valleys-The Inland Empire-San Diego County Deserts-San
+     Diego County Mountains-San Gorgonio Pass near Banning.
+
+     Heat Advisory from 10 AM this morning to 8 PM PDT Monday for
+     Orange County Inland Areas-Riverside County Mountains-San
+     Bernardino County Mountains-San Diego County Valleys-Santa
+     Ana Mountains and Foothills.
 
      Extreme Heat Warning from 10 AM Thursday to 8 PM PDT Monday for
      Apple and Lucerne Valleys.
 
-     Extreme Heat Warning from 10 AM Wednesday to 8 PM PDT Monday for
-     Coachella Valley-San Diego County Deserts-San Gorgonio Pass
-     near Banning.
-
-PZ...Small Craft Advisory from noon Wednesday to 9 PM PDT Thursday
-     for Waters from San Mateo Point to the Mexican Border
-     Extending 10 to 60 nm out including San Clemente Island.
+PZ...Small Craft Advisory from noon today to 9 PM PDT Thursday for
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...APR
 
 
 </pre>
