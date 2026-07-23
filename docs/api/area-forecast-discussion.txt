@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-23T02:51:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-23T08:32:22+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,25 +335,31 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-271
-FXUS66 KSGX 230024
+862
+FXUS66 KSGX 230745
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-524 PM PDT Wed Jul 22 2026
+1245 AM PDT Thu Jul 23 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft into the weekend will bring very
-hot days for inland areas and warm humid nights except for the
-highest elevations in the mountains for Thursday into the weekend
-with record overnight warmth for many areas for Friday and
-Saturday. Monday and Tuesday will cool a few degrees each day, but
-high pressure as strong or stronger than late this week could
-return near the end of next week.
+High pressure aloft will strengthen into the weekend with high
+temperatures for inland areas around 10 degrees above average
+through Saturday. Nights will be quite warm with low temperatures
+for the deserts as much as 10 to 15 degrees above average. Gradual
+drying and slight cooling for the early and middle of next week
+with high temperatures for the middle of next week still around 5
+degrees above average for inland areas. There is some model
+guidance that has a brief surge of moisture into the area on
+Sunday which would result in more clouds, high temperatures not as
+high for some inland areas, and a slight chance of afternoon
+thunderstorms for the mountains.
 
 &&
 
@@ -361,65 +367,85 @@ return near the end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Saturday)...
+High pressure aloft to the east will expand and strengthen across
+southern California into the weekend. High temperatures for today
+will warm a few degrees near the coast to as much as 10 to 15
+degrees for the inland valleys onto the lower coastal slopes of
+the mountains with not much change for Friday and Saturday.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures for today will be around 5 degrees above average
+near the coast and around 8 to 12 degrees above average for inland
+areas. High temperatures for today will range from around 80 near
+the coast to the upper 90s to 110 for the Inland Empire with 114
+to 118 for the lower deserts.
 
-High pressure aloft will expand westward today and will build into
-the weekend. This means high temperatures will continue and increase
-over the next few days.
+Low temperatures will be quite warm as well for tonight, Friday
+night, and Saturday night with low temperatures for the coast and
+valleys mostly in the upper 60s to mid 70s, mostly in the 90s for
+the lower deserts, and in the mid 70s to mid 80s for the Apple
+and Lucerne Valleys. That is around 5 degrees above average for
+coastal areas, 5 to 10 degrees above average for the inland
+valleys, and 10 to 15 degrees above average for the deserts.
 
-High temperatures for the coastal areas today will be a few degrees
-cooler than yesterdays highs, while high temperatures in the
-mountains and Inland Empire will warm 5 to 10 degrees. Thursday,
-highs will warm 5 to locally 10 degrees in the valleys and in the
-coastal mountain slopes with little to no change for high
-temperatures Friday and Saturday. This will bring seasonal
-temperatures 5 to 10 degrees above average for most of the area
-Thursday through Saturday.
+HeatRisk is expected to peak on Friday and Saturday with
+widespread extreme HeatRisk for the lower deserts, major to
+extreme Heat Risk for the Inland Empire, the Apple and Lucerne
+Valleys, and for the San Diego County mountains. Most areas will
+have moderate or greater HeatRisk except at the beaches and for
+mountain elevations above around 8000 feet.
 
-Elevated overnight lows will offer little to no reprieve from the
-daytime heat. Coastal areas and inland valleys will see overnight
-lows predominately in the 70s, upper 80s to upper 90s in the low
-deserts, and mid 70s to mid 80s for the high deserts.
+While high temperatures will remain mostly below record levels,
+there could be a large number of daily records tied or broken for
+warmest low temperature for Friday, Saturday, and Sunday.
 
-These high afternoon temperatures and elevated lows will bring
-widespread moderate HeatRisk to most of the area with major HeatRisk
-in the Inland Empire, San Diego mountains and south deserts today,
-and to include the high deserts Friday through Sunday. Major to
-extreme HeatRisk indicates that anyone may be negatively impacted by
-the heat if the proper precautions are not taken. Make sure to stay
-hydrated, stay cool, avoid heavy activity and direct sunlight and
-check on the elderly, children and pets.
+The marine layer will remain around 1200 to 1500 feet deep with
+night and morning coastal low clouds spreading no farther inland
+than the far western valleys.
 
-Coastal low clouds are expected to be patchy in nature and stick
-close to the coast through Saturday. Some high clouds will move
-across the area later this afternoon through the evening. A slight
-increase in monsoonal moisture will create mid-level clouds over the
-mountains Thursday and Friday with a 10-20% chance for light rain in
-the mountains for San Bernardino and Riverside Counties.
+&&
 
-High temperatures will continue into early next week with some
-slight cooling for daily high and low temperatures by mid-week. The
-ECMWF and GFS show high pressure aloft returning by the end of next
-week that is as strong or possibly stronger.
+.LONG TERM (Sunday through Wednesday)...
+There are meaningful model differences in the southern extent of
+stronger high pressure on Sunday over the southwest states into
+northern Mexico and the resulting differences in the amount of
+moisture that may spread into portions of southern California.
+Those model solutions that maintain stronger high pressure farther
+into northern Mexico have less moisture transport into southern
+California while those that are weaker with high pressure across
+northern Mexico allow for a greater transport of moisture and
+clouds into portions of southern California on Sunday.
+
+The current forecast shows less cooling of high temperatures and
+less increase in clouds and chances for afternoon thunderstorms
+over the mountains for Sunday with continued slow cooling into
+Monday. Beyond the moisture surge and resulting cooling of high
+temperatures that could occur on Sunday, gradual cooling and
+drying will continue into the middle of next week, but with high
+temperatures still around 5 degrees above average for inland
+areas. High temperatures for next Wednesday would range from the
+mid 70s to around 80 near the coast to the 90s to 102 for the
+Inland Empire with 108 to 112 for the lower deserts.
+
+High pressure for the end of next week could be even stronger than
+for the end of this week.
 
 &&
 
 .AVIATION...
-230000Z....Coast/Valleys...SCT low clouds are lining the SD County
-coast this evening. Cigs will struggle to develop most likely until
-after 08z Thu, when there is moderate confidence for BKN cigs over
-SD County coastal areas up to 15 miles inland. Bases most likely 500-
-900 ft MSL. Patchy vis reductions (from BR/HZ): 4-6SM (locally 0-
-3SM) over elevated coastal terrain and valleys along the I-15
-corridor. Orange County will struggle to develop cigs until after
-11z, from south to north. Less than 40% chance for more than 1 hr of
-cigs overnight at KSNA. Clouds scatter out 15-17z.
+230535Z....Coast/Valleys...Patchy low clouds will become more
+widespread across San Diego County overnight, lesser chance across
+Orange County this evening. There is moderate to high confidence for
+BKN cigs over SD County coastal areas up to 15 miles inland. Bases
+most likely 500-900 ft MSL. Patchy vis reductions (from BR/HZ): 4-
+6SM (locally 0-3SM) over elevated coastal terrain and valleys along
+the I-15 corridor. KSNA will struggle to develop cigs until after
+12z, though confidence is increasing in seeing a few hours of cig
+coverage between 12-15z Thu morning. Clouds scatter out 15-17z.
 
-
-Mountains/Deserts...FEW high clouds tonight and small afternoon
-cumulus over mountain peaks after 21z Thu. Otherwise, VFR conditions
-prevail through the TAF period.
+Mountains/Deserts...Mostly clear tonight and Thursday morning. Small
+afternoon cumulus over mountain peaks after 21z Thu. Otherwise, VFR
+conditions prevail through the TAF period.
 
 &&
 
@@ -445,7 +471,6 @@ during high tides.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -474,13 +499,12 @@ PZ...Small Craft Advisory until 9 PM PDT Thursday for Waters from San
      Mateo Point to the Mexican Border Extending 10 to 60 nm out
      including San Clemente Island.
 
-
 &&
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...APR
 
 
 </pre>
