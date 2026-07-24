@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T02:46:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T08:28:49+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,29 +345,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-154
-FXUS66 KSGX 240010
+266
+FXUS66 KSGX 240749
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-510 PM PDT Thu Jul 23 2026
+1249 AM PDT Fri Jul 24 2026
 
 .SYNOPSIS...
-High pressure aloft will strengthen into the weekend with high
-temperatures for inland areas around 10 degrees above average
-through Saturday. Nights will be quite warm with low temperatures
-for the deserts as much as 10 to 15 degrees above average. Gradual
-drying and slight cooling for the early and middle of next week
-with high temperatures for the middle of next week still around 5
-degrees above average for inland areas. There is some model
-guidance that has a brief surge of moisture into the area on
-Sunday which would result in more clouds, high temperatures not as
-high for some inland areas, and a slight chance of afternoon
-thunderstorms for the mountains.
+The warming trend will continue into the weekend with high
+temperatures on Saturday for inland areas around 8 to 12 degrees
+above average. This will be followed by a slow cooling trend into
+the middle of next week with high temperatures for next Wednesday
+around 5 degrees above average. This will be followed by a warming
+trend through the end of July into the first weekend in August.
 
 &&
 
@@ -375,78 +372,73 @@ thunderstorms for the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Sunday)...
+Inland areas warmed several degrees on Thursday with high
+temperatures a few degrees above average near the coast to 5 to 10
+degrees above average for the deserts. There will be slight
+additional warming for today and Saturday with Saturday high
+temperatures around 5 degrees above average near the coast to 8 to
+12 degrees above average for inland areas. High temperatures on
+Saturday will range from around 80 near the coast to the upper 90s
+to 108 for the Inland Empire with 116 to 120 for the lower
+deserts.
 
-...UPDATED AVIATION DISCUSSION...
+A brief increase in monsoonal moisture will cool high temperatures
+a few degrees on Sunday, but with high temperatures still 5 to 10
+degrees above average for inland areas. Low temperatures will be
+quite warm, mostly in the mid 60s to mid 70s for the coast and
+valleys, in the mid 80s to mid 90s for the lower deserts and in
+the 70s and lower 80s for the Apple and Lucerne Valleys.
 
-High pressure aloft will continue to build over the area through the
-weekend, continuing the hot daytime temperatures and elevated
-overnight lows. Highs today will be 5 to 10 degrees above the
-seasonal average, locally up to 15 degrees warmer in the valleys and
-in the coastal mountain slopes. Daily highs will vary little through
-Saturday with a slight cooling of inland high temperatures Sunday
-and Monday.
+The marine layer will remain around 1200 to 1500 feet deep with
+night and morning coastal low clouds spreading into the far
+western valleys at times late each night.
 
-Elevated overnight lows will offer little to no reprieve from the
-daytime heat. Coastal areas and inland valleys will see overnight
-lows predominately in the 70s, low deserts in the upper 80s to low
-90s, and the high deserts in the mid 70s to low 80s.
+&&
 
-These high afternoon temperatures and elevated lows will bring
-widespread moderate HeatRisk to most of the area with major HeatRisk
-in the Inland Empire, San Diego mountains and the low and high
-deserts through Monday. Major to extreme HeatRisk indicates that
-anyone may be negatively impacted by the heat if the proper
-precautions are not taken. Make sure to stay hydrated, stay cool,
-avoid heavy activity and direct sunlight and check on the elderly,
-children and pets.
+.LONG TERM (Monday through Thursday)...
+High pressure centered over the central and southern Rockies and
+plains will slowly weaken through Tuesday, then begin to
+strengthen on Wednesday and move westward with the center near Las
+Vegas for late next week.
 
-Coastal low clouds will continue to form in the late evenings into
-the early morning hours, pushing inland as far as 20 miles in some
-areas through the weekend at times. A slight increase in monsoonal
-moisture will create mid-level clouds over the mountains today and
-Friday with a 10-12% chance for light rain in the mountains for San
-Bernardino and Riverside Counties.
-
-A little uncertainty exists in regards to temperature and moisture
-over the area Sunday. Models differ slightly over the placement of
-the upper level high pressure. This will affect how much the
-afternoon highs will cool Sunday and the chances for rain and storms
-over the area (currently forecasting 5-15%).
-
-Otherwise, afternoon highs and overnight lows are expected to cool
-slightly by Monday with conditions drying into mid week.
-Temperatures will warm again by mid to late next week as high
-pressure aloft once again builds over the area.
+The gradual cooling and drying trend will continue through
+Wednesday with Wednesday high temperatures around 5 degrees above
+average. High temperatures on Wednesday will range from the mid
+70s to around 80 near the coast to the mid 90s to 102 for the
+Inland Empire with 108 to 112 for the lower deserts. This will be
+followed by a warming trend through the end of July into the first
+weekend in August.
 
 &&
 
 .AVIATION...
-240000Z....Coast/Valleys...Mostly SKC this evening. Low clouds based
-800-1300 ft MSL begin developing after 07z over lower SD County up
-to 15-20 miles inland, reaching mainly SCT-BKN coverage by 11z.
-Clouds will struggle to reach into much of OC all night with only a
-20 percent chance of cigs at KSNA.  Low clouds expected to clear
-coastal areas 15-17z Fri. Mostly SKC and VFR during the afternoon.
+240530Z....Coast/Valleys...Mostly SKC this evening. Low clouds based
+800-1200 ft MSL near La Jolla will begin to grow and expand over the
+next few hours, where cigs will cover KSAN and reach up to 15-20
+miles inland. Increasing confidence that clouds may reach the OC
+coast but not cover KSNA (20 percent chance). Low clouds clearing 15-
+17z Fri. Mostly SKC and VFR during the afternoon. Moderate
+confidence in timing and location of low clouds returning to
+coastal areas after 04Z Sat. covering most coastal TAF sites.
 
-Mountains/Deserts...CU over the mtns bases AOA 8000 ft MSL through
-sunset. Otherwise, VFR conditions prevail through the TAF period.
+Mountains/Deserts...VFR conditions prevail through the TAF period.
+Cumulus building over the mts Friday afternoon AOA 10k ft MSL.
 
 &&
 
 .MARINE...
-Northwesterly winds with gusts 20-25 kts in the outer waters near
-San Clemente Island to continue this evening. Additionally, a mixed
-swell will cause steep and choppy seas 6 to 7 feet in the outer
-waters today. Winds and seas will decrease tonight.
+Calm conditions over the next week with waves 2 to 4 feet and
+afternoon wind gusts near 15 kts or less.
 
 &&
 
 .BEACHES...
-A 3 to 4 feet south swell from 190 degrees with 13 second period
+A 3 to 4 feet south swell from 190 degrees with 12 second period
 will bring surf of 5 to 7 feet to area beaches through Sunday.
 Highest surf will be on south-southwest facing beaches.
 
-Early next week, a longer period (16-18 second) south swell at 2-3
+Early next week, a longer period (18-20 second) south swell at 2-3
 feet from 190-200 degrees is expected arrive. This will prolong
 elevated surf into next week and increase rip current risk.
 
@@ -479,17 +471,14 @@ CA...Beach Hazards Statement through Sunday evening for Orange County
      County Valleys-The Inland Empire-San Diego County Deserts-
      San Diego County Mountains-San Gorgonio Pass near Banning.
 
-PZ...Small Craft Advisory until 9 PM PDT this evening for Waters from
-     San Mateo Point to the Mexican Border Extending 10 to 60 nm
-     out including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...APR
 
 
 </pre>
