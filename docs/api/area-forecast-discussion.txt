@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T13:47:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T19:26:06+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-371
-FXUS66 KSGX 240933
+270
+FXUS66 KSGX 241802
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-233 AM PDT Fri Jul 24 2026
+1102 AM PDT Fri Jul 24 2026
 
 .SYNOPSIS...
 The warming trend will continue into the weekend with high
@@ -369,7 +369,6 @@ trend through the end of July into the first weekend in August.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -414,14 +413,12 @@ weekend in August.
 &&
 
 .AVIATION...
-240930Z....Coast/Valleys...Low clouds based near 700-1100 ft MSL
-cover coastal areas. Confidence moderate on cigs reaching for a
-short amount of time this morning at KSNA. Low clouds clearing
-15-17z Fri with mostly clear and VFR during the afternoon.
-Moderate confidence in timing and location of low clouds returning
-to SD County coastal areas after 04z Sat, after 08z across Orange
-County. Low clouds will be more widespread with cigs reaching all
-major coastal TAF sites.
+241000Z....Coast/Valleys...VFR and SKC through this evening. Low
+clouds based 1000-1400 ft MSL return to coastal areas starting 04-
+06z Sat in San Diego County and 06-09z in Orange County. Clouds push
+up to 15 miles inland by 12z with relatively uniform coverage. Minor
+vis reductions (3-6SM) along elevated coastal terrain and western
+valleys. Clouds scatter back to the coastline by 16-17z.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
 Cumulus building over the mts Friday afternoon AOA 10k ft MSL.
@@ -435,11 +432,14 @@ afternoon wind gusts near 15 kts or less.
 &&
 
 .BEACHES...
-A 3 to 4 feet south swell from 190 degrees with 12 second period
-will bring surf of 5 to 7 feet to area beaches through Sunday.
-Highest surf will be on south-southwest facing beaches. Elevated
-surf will not be as high for the first half of next week, but will
-increase again later next week.
+A 3 foot southerly swell with 12 second periods will continue to
+bring elevated surf 4-6 feet with sets to 7 feet to beaches through
+Sunday. Highest surf is expected along south-facing beaches. On
+Sunday, a 2 foot, long-period southwesterly swell will replace the
+current swell, keeping surf around 3-5 feet with sets to 6 feet. By
+mid-next week, a reinforcing 3-4 foot southerly swell will elevate
+surf once again, especially along south-facing beaches. High rip
+current risk will last through the upcoming week.
 
 In addition to elevated surf, tides are expected to increase today
 near 5.5 feet, increasing to 6.0 to to 6.5 feet MLLW by Sunday. The
@@ -451,6 +451,7 @@ during high tides.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -476,7 +477,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...APR
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
