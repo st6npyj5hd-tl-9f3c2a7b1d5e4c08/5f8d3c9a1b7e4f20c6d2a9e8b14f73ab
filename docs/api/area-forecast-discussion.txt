@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T08:28:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T13:47:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,18 +345,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-266
-FXUS66 KSGX 240749
+371
+FXUS66 KSGX 240933
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1249 AM PDT Fri Jul 24 2026
+233 AM PDT Fri Jul 24 2026
 
 .SYNOPSIS...
 The warming trend will continue into the weekend with high
@@ -371,6 +369,9 @@ trend through the end of July into the first weekend in August.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Sunday)...
 Inland areas warmed several degrees on Thursday with high
@@ -413,14 +414,14 @@ weekend in August.
 &&
 
 .AVIATION...
-240530Z....Coast/Valleys...Mostly SKC this evening. Low clouds based
-800-1200 ft MSL near La Jolla will begin to grow and expand over the
-next few hours, where cigs will cover KSAN and reach up to 15-20
-miles inland. Increasing confidence that clouds may reach the OC
-coast but not cover KSNA (20 percent chance). Low clouds clearing 15-
-17z Fri. Mostly SKC and VFR during the afternoon. Moderate
-confidence in timing and location of low clouds returning to
-coastal areas after 04Z Sat. covering most coastal TAF sites.
+240930Z....Coast/Valleys...Low clouds based near 700-1100 ft MSL
+cover coastal areas. Confidence moderate on cigs reaching for a
+short amount of time this morning at KSNA. Low clouds clearing
+15-17z Fri with mostly clear and VFR during the afternoon.
+Moderate confidence in timing and location of low clouds returning
+to SD County coastal areas after 04z Sat, after 08z across Orange
+County. Low clouds will be more widespread with cigs reaching all
+major coastal TAF sites.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
 Cumulus building over the mts Friday afternoon AOA 10k ft MSL.
@@ -436,14 +437,12 @@ afternoon wind gusts near 15 kts or less.
 .BEACHES...
 A 3 to 4 feet south swell from 190 degrees with 12 second period
 will bring surf of 5 to 7 feet to area beaches through Sunday.
-Highest surf will be on south-southwest facing beaches.
+Highest surf will be on south-southwest facing beaches. Elevated
+surf will not be as high for the first half of next week, but will
+increase again later next week.
 
-Early next week, a longer period (18-20 second) south swell at 2-3
-feet from 190-200 degrees is expected arrive. This will prolong
-elevated surf into next week and increase rip current risk.
-
-In addition to elevated surf, tides are expected be increase Friday
-to near 5.5, increasing to 6.0 to to 6.5 feet MLLW by Sunday. The
+In addition to elevated surf, tides are expected to increase today
+near 5.5 feet, increasing to 6.0 to to 6.5 feet MLLW by Sunday. The
 combination of surf and tides will result in minor coastal flooding
 during high tides.
 
@@ -452,7 +451,6 @@ during high tides.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
