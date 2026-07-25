@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-24T19:26:06+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T02:45:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-270
-FXUS66 KSGX 241802
+421
+FXUS66 KSGX 250002
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1102 AM PDT Fri Jul 24 2026
+502 PM PDT Fri Jul 24 2026
 
 .SYNOPSIS...
 The warming trend will continue into the weekend with high
@@ -370,55 +368,42 @@ trend through the end of July into the first weekend in August.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Sunday)...
-Inland areas warmed several degrees on Thursday with high
-temperatures a few degrees above average near the coast to 5 to 10
-degrees above average for the deserts. There will be slight
-additional warming for today and Saturday with Saturday high
-temperatures around 5 degrees above average near the coast to 8 to
-12 degrees above average for inland areas. High temperatures on
-Saturday will range from around 80 near the coast to the upper 90s
-to 108 for the Inland Empire with 116 to 120 for the lower
-deserts.
+500mb analysis reveals the subtropical ridge remains in dominant
+control over the southwest US today. Temperatures today continue
+to be well above average, with further warming expected for
+Saturday. Temperatures peak this weekend with high temperatures
+about 10 degrees above normal. Slightly elevated moisture is also
+limiting overnight cooling and keeping low temperatures quite
+mild as well. This is bringing widespread moderate HeatRisk and
+locally major HeatRisk in and west of the mountains, with
+widespread major HeatRisk in the deserts. The Extreme Heat Warning
+and Heat Advisory remains in effect through Monday evening and
+contain specifics on temperatures.
 
-A brief increase in monsoonal moisture will cool high temperatures
-a few degrees on Sunday, but with high temperatures still 5 to 10
-degrees above average for inland areas. Low temperatures will be
-quite warm, mostly in the mid 60s to mid 70s for the coast and
-valleys, in the mid 80s to mid 90s for the lower deserts and in
-the 70s and lower 80s for the Apple and Lucerne Valleys.
-
-The marine layer will remain around 1200 to 1500 feet deep with
-night and morning coastal low clouds spreading into the far
-western valleys at times late each night.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-High pressure centered over the central and southern Rockies and
-plains will slowly weaken through Tuesday, then begin to
-strengthen on Wednesday and move westward with the center near Las
-Vegas for late next week.
-
-The gradual cooling and drying trend will continue through
-Wednesday with Wednesday high temperatures around 5 degrees above
-average. High temperatures on Wednesday will range from the mid
-70s to around 80 near the coast to the mid 90s to 102 for the
-Inland Empire with 108 to 112 for the lower deserts. This will be
-followed by a warming trend through the end of July into the first
-weekend in August.
+This dominant upper level high pressure slowly drifts east and
+gradually weakens into Tuesday, bringing a relative cooling trend
+with high temperatures near 5 degrees above normal for Tuesday.
+Ensembles are in fairly good agreement that the ridge will
+restrengthen after Wednesday and move westward with the center
+near Las Vegas for late next week. High temperatures on Wednesday
+will range from the mid 70s to around 80 near the coast to the
+mid 90s to 102 for the Inland Empire with 108 to 112 for the lower
+deserts. This will be followed by a warming trend through the end
+of July into the first weekend in August.
 
 &&
 
 .AVIATION...
-241000Z....Coast/Valleys...VFR and SKC through this evening. Low
-clouds based 1000-1400 ft MSL return to coastal areas starting 04-
-06z Sat in San Diego County and 06-09z in Orange County. Clouds push
-up to 15 miles inland by 12z with relatively uniform coverage. Minor
-vis reductions (3-6SM) along elevated coastal terrain and western
-valleys. Clouds scatter back to the coastline by 16-17z.
+250000Z....Coast/Valleys...VFR and SKC through this evening. Low
+clouds based 1000-1400 ft MSL increase in coverage over San Diego
+County coastal areas after 04z Sat and after 06z over Orange County
+(from south to north). By 11z, mostly BKN-OVC coverage up to 15-20
+miles inland with vis reductions where clouds meet terrain (0-3SM)
+and over elevated inland valleys (2-6SM, above 600 ft MSL). Scatter
+out to coast 15-17z.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
 Cumulus building over the mts Friday afternoon AOA 10k ft MSL.
@@ -476,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
