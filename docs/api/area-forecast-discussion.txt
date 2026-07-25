@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T08:07:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T13:36:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,21 +346,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-749
-FXUS66 KSGX 250535
+200
+FXUS66 KSGX 251210
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1035 PM PDT Fri Jul 24 2026
+510 AM PDT Sat Jul 25 2026
 
 .SYNOPSIS...
 The warming trend will continue into the weekend with high
-temperatures on Saturday for inland areas around 8 to 12 degrees
-above average. This will be followed by a slow cooling trend into
-the middle of next week with high temperatures for next Wednesday
-around 5 degrees above average. This will be followed by a warming
-trend through the end of July into the first weekend in August.
+temperatures today for the inland areas being around 8 to 12
+degrees above average. This will be followed by a slow cooling
+trend into the middle of next week with high temperatures for next
+Wednesday around 5 degrees above average. This will be followed
+by a warming trend through the end of July into the first weekend
+in August, with better chances of afternoon thunderstorms over the
+mountains and deserts towards the end of next week.
 
 &&
 
@@ -368,30 +370,44 @@ trend through the end of July into the first weekend in August.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-500mb analysis reveals the subtropical ridge remains in dominant
-control over the southwest US today. Temperatures today continue
-to be well above average, with further warming expected for
-Saturday. Temperatures peak this weekend with high temperatures
-about 10 degrees above normal. Slightly elevated moisture is also
-limiting overnight cooling and keeping low temperatures quite
-mild as well. This is bringing widespread moderate HeatRisk and
-locally major HeatRisk in and west of the mountains, with
-widespread major HeatRisk in the deserts. The Extreme Heat Warning
-and Heat Advisory remains in effect through Monday evening and
-contain specifics on temperatures.
+Today through tomorrow night...
 
-This dominant upper level high pressure slowly drifts east and
-gradually weakens into Tuesday, bringing a relative cooling trend
-with high temperatures near 5 degrees above normal for Tuesday.
-Ensembles are in fairly good agreement that the ridge will
-restrengthen after Wednesday and move westward with the center
-near Las Vegas for late next week. High temperatures on Wednesday
-will range from the mid 70s to around 80 near the coast to the
-mid 90s to 102 for the Inland Empire with 108 to 112 for the lower
-deserts. This will be followed by a warming trend through the end
-of July into the first weekend in August.
+Currently, low clouds are continuing to fill in along the coastal
+areas of San Diego and Orange counties, with very little eastward
+extent into the inland areas. This will likely continue to be the
+case, with weak offshore flow in place. Temperatures remain
+relatively mild at this hour, with upper 60s to low 70s being felt
+for most of the inland and coastal locations. These clouds should
+mix out and clear will likely occur for most of the inland areas
+through 8 AM.
+
+There is going to be an influx of some mid level moisture from the
+southeast by later in the day, which may allow for a shower or
+possibly a shower to develop over the mountains by later this
+afternoon. Given that there will be a better surge of moisture and
+slightly better SB-CAPE values in place on Sunday, there will be a
+better chance of a few showers and/or thunderstorms developing over
+the mountains during the afternoon on Sunday. With the ridge only
+weakening and shifting eastward slightly through the weekend, hot
+temperatures will remain in place, especially for the Inland
+Empire, with little relief in the cooling of temperatures overnight.
+
+Monday through Friday...
+
+As the upper level ridge over the inner mountain west does shift a
+little further east through the early part of the week, with will
+allow for there to be a gradual cooldown and decrease in humidity
+values through Wednesday. This will be followed by an increase in
+temperatures, with a return to being anywhere from 10 to 15 degrees
+above the seasonal average towards the end of end week as the ridge
+begins to retrograde back to the west and strengthen, along with
+600 dm heights over our desert regions by Thursday. There will
+also be better propagation of monsoonal waves advecting moisture
+in over the region, which will help to increase chances of
+afternoon thunderstorms for the mountains and deserts.
 
 &&
 
@@ -424,9 +440,16 @@ mid-next week, a reinforcing 3-4 foot southerly swell will elevate
 surf once again, especially along south-facing beaches. High rip
 current risk will last through the upcoming week.
 
-In addition to elevated surf, tides are expected to increase to 6.0
-to to 6.5 feet MLLW by Sunday. The combination of surf and tides
-will result in minor coastal flooding during high tides.
+In addition to elevated surf, tides are expected to increase to a
+height of 6.0 to 6.5 feet MLLW by Sunday. The combination of surf
+and tides will result in minor coastal flooding during high tides.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -451,8 +474,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...Stewey
+AVIATION/MARINE...Stewey
 
 
 </pre>
