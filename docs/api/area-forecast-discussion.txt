@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T02:45:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T08:07:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-421
-FXUS66 KSGX 250002
+749
+FXUS66 KSGX 250535
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-502 PM PDT Fri Jul 24 2026
+1035 PM PDT Fri Jul 24 2026
 
 .SYNOPSIS...
 The warming trend will continue into the weekend with high
@@ -367,7 +367,6 @@ trend through the end of July into the first weekend in August.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -397,16 +396,15 @@ of July into the first weekend in August.
 &&
 
 .AVIATION...
-250000Z....Coast/Valleys...VFR and SKC through this evening. Low
-clouds based 1000-1400 ft MSL increase in coverage over San Diego
-County coastal areas after 04z Sat and after 06z over Orange County
-(from south to north). By 11z, mostly BKN-OVC coverage up to 15-20
-miles inland with vis reductions where clouds meet terrain (0-3SM)
-and over elevated inland valleys (2-6SM, above 600 ft MSL). Scatter
-out to coast 15-17z.
+250600Z....Coast/Valleys...Low clouds based 1000-1400 ft MSL are
+building along the coast, poised to push around 10 miles inland over
+the next few hours. VIS restrictions for anywhere where clouds
+intersect terrain. Low clouds will move out around 16-17z, with SKC
+and VFR prevailing thereafter. Low clouds will develop again after
+04z Sun.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
-Cumulus building over the mts Friday afternoon AOA 10k ft MSL.
+Cumulus building over the mountain Saturday afternoon AOA 20k ft MSL.
 
 &&
 
@@ -426,17 +424,9 @@ mid-next week, a reinforcing 3-4 foot southerly swell will elevate
 surf once again, especially along south-facing beaches. High rip
 current risk will last through the upcoming week.
 
-In addition to elevated surf, tides are expected to increase today
-near 5.5 feet, increasing to 6.0 to to 6.5 feet MLLW by Sunday. The
-combination of surf and tides will result in minor coastal flooding
-during high tides.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+In addition to elevated surf, tides are expected to increase to 6.0
+to to 6.5 feet MLLW by Sunday. The combination of surf and tides
+will result in minor coastal flooding during high tides.
 
 &&
 
@@ -462,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
