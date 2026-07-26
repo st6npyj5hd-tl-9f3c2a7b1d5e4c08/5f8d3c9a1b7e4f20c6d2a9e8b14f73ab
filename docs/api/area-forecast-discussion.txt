@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-25T19:08:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T02:53:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,23 +346,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-200
-FXUS66 KSGX 251210
+499
+FXUS66 KSGX 252345
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-510 AM PDT Sat Jul 25 2026
+445 PM PDT Sat Jul 25 2026
 
 .SYNOPSIS...
-The warming trend will continue into the weekend with high
-temperatures today for the inland areas being around 8 to 12
-degrees above average. This will be followed by a slow cooling
-trend into the middle of next week with high temperatures for next
-Wednesday around 5 degrees above average. This will be followed
-by a warming trend through the end of July into the first weekend
-in August, with better chances of afternoon thunderstorms over the
-mountains and deserts towards the end of next week.
+Unusually warm temperatures continue today, with highs ranging
+from 8 to 12 degrees above average. A gradual cooling trend will
+follow for Sunday through Tuesday/Wednesday, bringing temperatures
+around 5 degrees above average for midweek. The upper level ridge
+moves back west towards Las Vegas and restrengthens in the latter
+half of the week. There is increasing confidence that this setup
+could provide the hottest temperatures of the Summer thus far.
 
 &&
 
@@ -373,76 +372,82 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-Today through tomorrow night...
+The stubborn subtropical ridge remains anchored over the eastern
+Four Corners this afternoon. The influence of this feature continues
+to be the headline for the forecast, as above normal temperatures
+are expected to persist into next week. The ridge has been very
+gradually nudging east over the last day or so, and will continue to
+do so through early next week. While it will remain quite hot, a
+very subtle cooling trend continues into Tuesday, with high
+temperatures falling about a degree each day. However, for today,
+high temperatures remain about 10 degrees above normal, topping out
+in the upper 90s to low 100s for the inland valleys, upper 80s and
+low 90s for the western valleys, and 105-117 degrees in the deserts.
+The weak easterly flow aloft with the ridge setup is also keeping
+moisture slightly elevated, leading to the continually mild
+nighttime temperatures. The cumulative combination of the high
+temperatures and warm nights keeps HeatRisk elevated despite subtle
+cooling compared to a few days ago, with widespread moderate (level
+2/4) HeatRisk in and west of the mountains, with major (level 3/4)
+HeatRisk in the deserts. As the ridge slowly nudges eastward and the
+gradual cooling trend ensues into Tuesday, HeatRisk follows suit,
+with slight improvements each day. The Extreme Heat Warning (for the
+deserts, Inland Empire, and San Diego County mountains) and Heat
+Advisory (everywhere else) remains in effect through 8 PM Monday
+evening.
 
-Currently, low clouds are continuing to fill in along the coastal
-areas of San Diego and Orange counties, with very little eastward
-extent into the inland areas. This will likely continue to be the
-case, with weak offshore flow in place. Temperatures remain
-relatively mild at this hour, with upper 60s to low 70s being felt
-for most of the inland and coastal locations. These clouds should
-mix out and clear will likely occur for most of the inland areas
-through 8 AM.
+As the ridge begins to nudge eastward through the next few days,
+this opens the door for some monsoonal influences to sneak in. While
+the subsidence will not be as strong, PWATs aren`t overly
+impressive. The general expectation is for afternoon cumulus
+development over the mountains for Sunday-Tuesday. PoPs continue to
+be quite meager with Sunday having the best "shot" at seeing any
+showers over the mountains (~5% or less).
 
-There is going to be an influx of some mid level moisture from the
-southeast by later in the day, which may allow for a shower or
-possibly a shower to develop over the mountains by later this
-afternoon. Given that there will be a better surge of moisture and
-slightly better SB-CAPE values in place on Sunday, there will be a
-better chance of a few showers and/or thunderstorms developing over
-the mountains during the afternoon on Sunday. With the ridge only
-weakening and shifting eastward slightly through the weekend, hot
-temperatures will remain in place, especially for the Inland
-Empire, with little relief in the cooling of temperatures overnight.
+Tuesday into the end of next week...
 
-Monday through Friday...
-
-As the upper level ridge over the inner mountain west does shift a
-little further east through the early part of the week, with will
-allow for there to be a gradual cooldown and decrease in humidity
-values through Wednesday. This will be followed by an increase in
-temperatures, with a return to being anywhere from 10 to 15 degrees
-above the seasonal average towards the end of end week as the ridge
-begins to retrograde back to the west and strengthen, along with
-600 dm heights over our desert regions by Thursday. There will
-also be better propagation of monsoonal waves advecting moisture
-in over the region, which will help to increase chances of
-afternoon thunderstorms for the mountains and deserts.
+With the upper ridge displaced some towards the front range of the
+Rockies and the southwestern Great Plains on Tuesday/Wednesday, high
+temperatures will be moderated compared to what we`re expecting this
+weekend, but will still run about 5 degrees above normal. Even
+worse, Tues/Wed will be the "coolest" days of the week, as ensemble
+clusters all agree that the ridge will slowly migrate back west
+through the Desert Southwest and strengthen in the latter half of
+the week. The ridge looks to become centered over Las Vegas by
+Saturday, with some ensemble members taking the strength up to 600dm
+at 500mb. This setup could very well bring the hottest afternoon
+temperatures of the Summer so far, with some daytime temperature
+records potentially being challenged. Palm Springs currently has a
+20-30% chance of seeing highs >120 degrees next Saturday, with the
+Inland Empire having about a 20% chance of seeing highs >110
+degrees. Additional heat headlines are looking increasingly likely
+for the second half of next week.
 
 &&
 
 .AVIATION...
-250600Z....Coast/Valleys...Low clouds based 1000-1400 ft MSL are
-building along the coast, poised to push around 10 miles inland over
-the next few hours. VIS restrictions for anywhere where clouds
-intersect terrain. Low clouds will move out around 16-17z, with SKC
-and VFR prevailing thereafter. Low clouds will develop again after
-04z Sun.
+260000Z....Coast/Valleys...Low clouds have quickly formed at the
+coast and are moving into coastal San Diego County based near 1200-
+1400 ft MSL. Clouds will continue to move further inland and
+northward into Orange County with cigs expected to reach KSNA near
+04-06z with moderate to high confidence in this timing. Low chance
+for clouds to lower below 1000ft MSL, though they may at CRQ at
+times. Vis restrictions will be possible where clouds intersect
+terrain. Low clouds clear 16-18Z Sunday. Low clouds moving back
+inland around or just after timing as this evening with similar
+bases.
 
-Mountains/Deserts...VFR conditions prevail through the TAF period.
-Cumulus building over the mountain Saturday afternoon AOA 20k ft MSL.
+Mountains/Deserts...VFR with SCT-BKN high clouds AOA 20k ft MSL
+through the period. Fair weather cumulus 10-15k ft MSL building over
+the mountains again on Sunday afternoon.
 
 &&
 
 .MARINE...
-Calm conditions over the next week with waves 2 to 4 feet and
-afternoon wind gusts near 15 kts or less.
-
-&&
-
-.BEACHES...
-A 3 foot southerly swell with 12 second periods will continue to
-bring elevated surf 4-6 feet with sets to 7 feet to beaches through
-Sunday. Highest surf is expected along south-facing beaches. On
-Sunday, a 2 foot, long-period southwesterly swell will replace the
-current swell, keeping surf around 3-5 feet with sets to 6 feet. By
-mid-next week, a reinforcing 3-4 foot southerly swell will elevate
-surf once again, especially along south-facing beaches. High rip
-current risk will last through the upcoming week.
-
-In addition to elevated surf, tides are expected to increase to a
-height of 6.0 to 6.5 feet MLLW by Sunday. The combination of surf
-and tides will result in minor coastal flooding during high tides.
+Calm conditions over the weekend with waves 2 to 4 feet and
+afternoon wind gusts near 15 kts or less through Monday. Waves
+increase in the outer waters mid to late week with waves expected
+around 5 to 7 feet.
 
 &&
 
@@ -450,12 +455,11 @@ and tides will result in minor coastal flooding during high tides.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through Sunday evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement through Wednesday afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
      Heat Advisory until 8 PM PDT Monday for Orange County Coastal
      Areas-Orange County Inland Areas-Riverside County Mountains-
@@ -474,8 +478,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE...Stewey
+PUBLIC...Munyan
+AVIATION/MARINE...APR
 
 
 </pre>

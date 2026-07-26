@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-25T19:08:19.170681Z",
+  "generated_at_utc": "2026-07-26T02:54:01.586407Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -19,8 +19,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "text/html; charset=UTF-8",
-      "bytes_written": 29118,
-      "sha256": "4829692bef6dccb9414960fcbadeab819bc02520420c6d9428a6ba285dcf66af",
+      "bytes_written": 29796,
+      "sha256": "74c3b6dbf6ce008043249100c069151dc1ac4f42ffaec5f818459d3c7ae46334",
       "error": null
     },
     {
@@ -30,8 +30,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "text/xml;charset=UTF-8",
-      "bytes_written": 11237,
-      "sha256": "af22afba5ac5f4f4ab44b772b033c3decc52047a27d754c0b51d582afac76363",
+      "bytes_written": 11726,
+      "sha256": "99e0d46086c19c83d1ef132e48b9db3167e6fd24bdde8e0d8e24feb4d91d32fa",
       "error": null
     },
     {
@@ -41,8 +41,8 @@
       "success": true,
       "http_status": 200,
       "content_type": "application/xml",
-      "bytes_written": 58432,
-      "sha256": "29866ff416ac94a3f7d95527bd00f4967f784b97d8533173958ae85bf5045ea9",
+      "bytes_written": 58459,
+      "sha256": "f528f6d81bf7885bd7ddc019235bffa8e01140f11c401308f09a5ce4e7a93c58",
       "error": null
     }
   ]
