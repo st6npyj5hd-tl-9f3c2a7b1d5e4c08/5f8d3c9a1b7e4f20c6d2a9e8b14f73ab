@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T08:27:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T13:24:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-911
-FXUS66 KSGX 260609
+187
+FXUS66 KSGX 261157
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1109 PM PDT Sat Jul 25 2026
+457 AM PDT Sun Jul 26 2026
 
 .SYNOPSIS...
 Unusually warm temperatures continue today, with highs ranging
@@ -369,69 +369,72 @@ could provide the hottest temperatures of the Summer thus far.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-The stubborn subtropical ridge remains anchored over the eastern
-Four Corners this afternoon. The influence of this feature continues
-to be the headline for the forecast, as above normal temperatures
-are expected to persist into next week. The ridge has been very
-gradually nudging east over the last day or so, and will continue to
-do so through early next week. While it will remain quite hot, a
-very subtle cooling trend continues into Tuesday, with high
-temperatures falling about a degree each day. However, for today,
-high temperatures remain about 10 degrees above normal, topping out
-in the upper 90s to low 100s for the inland valleys, upper 80s and
-low 90s for the western valleys, and 105-117 degrees in the deserts.
-The weak easterly flow aloft with the ridge setup is also keeping
-moisture slightly elevated, leading to the continually mild
-nighttime temperatures. The cumulative combination of the high
-temperatures and warm nights keeps HeatRisk elevated despite subtle
-cooling compared to a few days ago, with widespread moderate (level
-2/4) HeatRisk in and west of the mountains, with major (level 3/4)
-HeatRisk in the deserts. As the ridge slowly nudges eastward and the
-gradual cooling trend ensues into Tuesday, HeatRisk follows suit,
-with slight improvements each day. The Extreme Heat Warning (for the
-deserts, Inland Empire, and San Diego County mountains) and Heat
-Advisory (everywhere else) remains in effect through 8 PM Monday
-evening.
+Today through tomorrow night...
 
-As the ridge begins to nudge eastward through the next few days,
-this opens the door for some monsoonal influences to sneak in. While
-the subsidence will not be as strong, PWATs aren`t overly
-impressive. The general expectation is for afternoon cumulus
-development over the mountains for Sunday-Tuesday. PoPs continue to
-be quite meager with Sunday having the best "shot" at seeing any
-showers over the mountains (~5% or less).
+Latest radar imagery reveals that there are some showers, and a few
+embedded thunderstorms moving up over northern Baja California at
+this hour, with a few of these showers beginning to move over
+portions of SE San Diego County. This will continue to move up from
+the south in the form of a lot of altocumulus and altostratus, with
+as few showers, and some of these may make it through the drier PBL
+and reach the ground. With this in mind, the marine layer has been
+disrupted a bit with the presence of the mid-level clouds passing
+overhead. Any bases that have struggled to form have generally
+been based around 1000-1500 MSL. There may also be some rain drops
+felt, even through the low level clouds, due to the convective
+subtropical mid-level clouds moving overhead.
 
-Tuesday into the end of next week...
+When analyzing the near-storm environment on SPC, it is evident that
+the majority significant instability remains confined over the
+deserts, with the highest values of MUCAPE (although it is well-
+capped). Since there is some elevated instability associated with
+this monsoonal wave as it transitions up over San Diego County this
+morning, it may likely produce a few rain showers, and possibly even
+a rumble of thunder can he heard all the way down to the coastal
+areas. Depending on how much it clears out by later this morning
+will determine whether or not it will warm enough to get
+thunderstorm development over our mountains by later this afternoon.
+As this moisture moves out by tomorrow with more southwesterly flow
+predominantly taking over in the mid levels, it will allow for more
+drier conditions to settle back in for tomorrow with likely little
+to no cloud development over the mountains for Monday.
 
-With the upper ridge displaced some towards the front range of the
-Rockies and the southwestern Great Plains on Tuesday/Wednesday, high
-temperatures will be moderated compared to what we`re expecting this
-weekend, but will still run about 5 degrees above normal. Even
-worse, Tues/Wed will be the "coolest" days of the week, as ensemble
-clusters all agree that the ridge will slowly migrate back west
-through the Desert Southwest and strengthen in the latter half of
-the week. The ridge looks to become centered over Las Vegas by
-Saturday, with some ensemble members taking the strength up to 600dm
-at 500mb. This setup could very well bring the hottest afternoon
-temperatures of the Summer so far, with some daytime temperature
-records potentially being challenged. Palm Springs currently has a
-20-30% chance of seeing highs >120 degrees next Saturday, with the
-Inland Empire having about a 20% chance of seeing highs >110
-degrees. Additional heat headlines are looking increasingly likely
-for the second half of next week.
+Tuesday through Saturday...
+
+From tuesday into Wednesday, the ridge will weaken slightly a shift
+a little further eastward with slightly better troughing influence
+upstream which will allow for temperatures to be slightly cooler,
+and only around 5 degrees above the seasonal average by Wednesday.
+The drier air advection in the mid levels out of the southwest will
+help to hinder any afternoon monsoonal development. Then, as the
+ridge begins to build a bit and expand/retrograde back towards the
+west beginning Thursday, it will allow for temperatures to
+gradually warm again up to around 10 to 15 degrees above the
+seasonal average, especially by Friday. There will also be an
+influx of mid-level moisture again out of the southeast as these
+originate over Arizona and Sonora, Mexico, and then transition
+over our region. The ridge will begin to slowly weaken and flatten
+a bit going into Saturday, translating to only slightly cooler
+temperatures to begin the following weekend, although still quite
+hot... even for summertime.
 
 &&
 
 .AVIATION...
-260600Z....Coast/Valleys...Patchy low clouds have formed offshore
-and are moving into coastal TAF sites based near 1200-1400 ft MSL.
-Clouds will continue to move further inland up to 15 miles and
-northward through 12z with VIS restrictions for where clouds
-intersect terrain. Clearing likely by 16-17z. Low clouds with
-similar or slightly higher bases move back in again Sunday evening
-after 03z Mon.
+261200Z....Coast/Valleys...Patchy low clouds near 1100-1500 ft MSL
+have struggled to form an gather this morning with the presence of
+mid to high level clouds passing overhead. There may be some -RA
+falling from the mid deck AOA 12000 ft MSL this morning. VIS
+restrictions generally 1-3SM for areas where clouds intersect
+terrain. Clearing likely by 16-17z. Low clouds with similar or
+slightly higher bases move back in again Sunday evening, mainly
+after 04z Mon. along the coastline initially, and then pushing into
+the inland areas through 08z Mon. with similar ceilings and better
+coverage, and then slightly lowering throughout the rest of the
+forecast period.
 
 Mountains/Deserts...VFR with FEW-SCT high clouds AOA 20k ft MSL
 through the period. Cu 10-15k ft MSL builds over the mountain
@@ -440,10 +443,10 @@ peaks Sunday afternoon.
 &&
 
 .MARINE...
-Calm conditions over the weekend with waves 2 to 4 feet and
-afternoon wind gusts near 15 kts or less through Monday. Waves
-increase in the outer waters mid to late week with waves expected
-around 5 to 7 feet.
+Calm conditions over the weekend and into the early half of next
+week with waves 2 to 4 feet and afternoon wind gusts near 15 kts or
+less through Monday. Waves increase in the outer waters mid to late
+week with waves expected around 5 to 7 feet.
 
 &&
 
@@ -460,6 +463,13 @@ In addition to elevated surf, tides are expected to increase to a
 height of 6.0 to 6.5 feet MLLW by Sunday and continue at that height
 through most of the week. The combination of surf and tides will
 result in minor coastal flooding during high tides.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -484,8 +494,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
