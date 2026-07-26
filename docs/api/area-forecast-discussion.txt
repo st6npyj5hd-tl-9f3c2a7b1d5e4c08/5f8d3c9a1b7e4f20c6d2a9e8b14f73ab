@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T02:53:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T08:27:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-499
-FXUS66 KSGX 252345
+911
+FXUS66 KSGX 260609
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-445 PM PDT Sat Jul 25 2026
+1109 PM PDT Sat Jul 25 2026
 
 .SYNOPSIS...
 Unusually warm temperatures continue today, with highs ranging
@@ -368,7 +368,6 @@ could provide the hottest temperatures of the Summer thus far.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -426,20 +425,17 @@ for the second half of next week.
 &&
 
 .AVIATION...
-260000Z....Coast/Valleys...Low clouds have quickly formed at the
-coast and are moving into coastal San Diego County based near 1200-
-1400 ft MSL. Clouds will continue to move further inland and
-northward into Orange County with cigs expected to reach KSNA near
-04-06z with moderate to high confidence in this timing. Low chance
-for clouds to lower below 1000ft MSL, though they may at CRQ at
-times. Vis restrictions will be possible where clouds intersect
-terrain. Low clouds clear 16-18Z Sunday. Low clouds moving back
-inland around or just after timing as this evening with similar
-bases.
+260600Z....Coast/Valleys...Patchy low clouds have formed offshore
+and are moving into coastal TAF sites based near 1200-1400 ft MSL.
+Clouds will continue to move further inland up to 15 miles and
+northward through 12z with VIS restrictions for where clouds
+intersect terrain. Clearing likely by 16-17z. Low clouds with
+similar or slightly higher bases move back in again Sunday evening
+after 03z Mon.
 
-Mountains/Deserts...VFR with SCT-BKN high clouds AOA 20k ft MSL
-through the period. Fair weather cumulus 10-15k ft MSL building over
-the mountains again on Sunday afternoon.
+Mountains/Deserts...VFR with FEW-SCT high clouds AOA 20k ft MSL
+through the period. Cu 10-15k ft MSL builds over the mountain
+peaks Sunday afternoon.
 
 &&
 
@@ -451,9 +447,19 @@ around 5 to 7 feet.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+.BEACHES...
+A long-period southwesterly swell builds Sunday, keeping surf around
+3-5 feet with sets to 6 feet through Sunday evening. Monday and
+Tuesday, the southerly swell will increase to 3 feet with a period
+17 seconds, elevating surf once again to 4-6 feet with sets to 7 or
+8 feet. Highest surf is expected along south-facing beaches. High
+rip current risk and a longshore current threat will last through
+the upcoming week.
+
+In addition to elevated surf, tides are expected to increase to a
+height of 6.0 to 6.5 feet MLLW by Sunday and continue at that height
+through most of the week. The combination of surf and tides will
+result in minor coastal flooding during high tides.
 
 &&
 
@@ -464,13 +470,13 @@ CA...Beach Hazards Statement through Wednesday afternoon for Orange
      Heat Advisory until 8 PM PDT Monday for Orange County Coastal
      Areas-Orange County Inland Areas-Riverside County Mountains-
      San Bernardino County Mountains-San Diego County Coastal
-     Areas-San Diego County Valleys-Santa Ana Mountains and
-     Foothills.
+     Areas-San Diego County Mountains-San Diego County Valleys-
+     Santa Ana Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Monday for Apple and Lucerne
      Valleys-Coachella Valley-San Bernardino and Riverside
      County Valleys-The Inland Empire-San Diego County Deserts-
-     San Diego County Mountains-San Gorgonio Pass near Banning.
+     San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -479,7 +485,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE...APR
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
