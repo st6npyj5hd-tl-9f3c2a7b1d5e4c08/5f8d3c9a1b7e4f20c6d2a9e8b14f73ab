@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-27T03:19:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-27T09:54:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,24 +343,31 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-510
-FXUS66 KSGX 270025
+897
+FXUS66 KSGX 270746
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-525 PM PDT Sun Jul 26 2026
+1246 AM PDT Mon Jul 27 2026
 
 .SYNOPSIS...
 A gradual cooling trend begins today and will continue through
-Tuesday/Wednesday, bringing temperatures around 5 degrees above
-average for midweek. The upper level ridge will shift west again
-towards Las Vegas and restrengthen in the latter half of the
-week. There is increasing confidence that this setup could provide
-the hottest temperatures of the Summer thus far.
+Wednesday, bringing temperatures around 5 degrees above average
+by midweek. The upper level ridge will shift west again towards
+the end of the week and restrengthen with increasing confidence
+that this setup could provide us with the hottest temperatures of
+this summer thus far, especially by Saturday. Some monsoonal
+moisture transiting over the region by later in the week and into
+the upcoming weekend may also provide a slight chance of afternoon
+showers and thunderstorms for our mountains and deserts.
 
 &&
 
@@ -368,41 +375,67 @@ the hottest temperatures of the Summer thus far.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through tomorrow night...
 
-High pressure continues to dominate aloft but has shifted just far
-enough east to bring some monsoonal moisture over the area through
-the afternoon. Light rain has been observed from the San Diego coast
-into the San Diego mountains with accumulations less than 0.1
-inches. Rain and storm chances will continue through this afternoon
-with the highest chances in the mountains and the San Diego deserts.
-Conditions will dry out by this evening, leaving chances for rain
-below 5% through the end of the week.
+Low clouds have continued to struggle to form overnight, with only
+some patchy areas of low ceilings and fog, mainly along the coast of
+northern San Diego County, and around the Oceanside to Camp
+Pendleton districts. Elsewhere, skies have continued to clear.
+Temperatures still remain quite mild at midnight, with mostly low
+70s at this hour (midnight).
 
-High temperatures will stay slightly cooler through Wednesday as the
-upper level ridge stays a little east. Heat is expected to return
-Thursday through the end of the week as high pressure aloft builds
-and expands west once again. High temperatures will warm to be 10-15
-degrees above the seasonal average by Friday and into the weekend.
+The ridge is beginning to shift a little further east today as
+there will be further influence by an area of troughing upstream,
+which is going to continue to usher in relatively drier air into
+the mid levels, and likely limit the chance of any thunderstorm
+development this afternoon as the mid-level moisture becomes more
+suppressed and confined over Arizona. This troughing will also
+allow for a very gradual cooling to take place today through
+tomorrow, although highs will still be running around 5 to 10
+degrees above average for most locations. The marine layer will
+likely struggle again to develop tonight, and remain mostly in
+place along the coastal areas of San Diego County, then slowly
+extend further into some of the inland areas closer to daybreak.
+
+Wednesday through the upcoming weekend...
+
+Slight cooling will continue through Wednesday, then the troughing
+upstream will begin to weaken and allow for the upper level ridge to
+further strengthen and expand back towards the west. This will allow
+for temperatures to increase again well back above the seasonal
+average for this time of year, by as much as 15 degrees for some
+locations, especially within the Inland Empire. By Saturday, there
+could be several locations within the IE topping out around 110 and
+above, and likely warranting the issuance of more heat products at
+that time. If planning to be outdoors for this upcoming weekend, it
+would be wise to prepare for this heat by ensuring that there are
+plenty of drinking fluids, as the combination of the increase
+heat could put those sensitive to heat as risk of dehydration.
+There will also be a better push of monsoonal waves transitioning
+around the plateau high located around the Four Corners region by
+later this week, which will allow for influxes of mid-level
+moisture to move in over the region and possibly allow for a few
+showers and afternoon development of thunderstorms over the
+mountains and deserts, yet this will all be decided on the timing
+of these pulses of moisture as they transition over our area.
+Otherwise, hot and dry conditions will continue to be the case
+into the upcoming weekend.
 
 &&
 
 .AVIATION...
-270000Z....Coast/Valleys...FEW-BKN mid-level clouds over inland
-areas this afternoon, decreasing into the evening. Low clouds based
-1100-1400 ft MSL start developing onshore within 15-20 miles of the
-coast after 03z (after 07z in OC), remaining patchy until around 10z
-when coverage increases and fills in gaps. VIS reduced along
-elevated coastal terrain and locally in elevated valleys up to 20
-miles inland. Low clouds mostly scatter 16-17z. 30% chance that
-brief cigs possible at the immediate coast after 21z as low clouds
-begin redeveloping early. Otherwise, VFR conditions prevail Monday
-afternoon.
+270600Z....Coast/Valleys...Patchy low clouds based 1100-1400 ft MSL
+have developed just offshore and will continue to push inland and up
+the coast through 12z. VIS reduced along elevated coastal terrain
+and locally in elevated valleys up to 15 miles inland. Low clouds
+mostly scatter 16-17z. 30% chance that brief cigs possible at the
+immediate coast after 21z as low clouds begin redeveloping early.
+Otherwise, VFR conditions prevail Monday afternoon until another
+round of low clouds push inland likely after 04z with similar bases.
 
 Mountains/Deserts...VFR prevails with FEW-BKN mid-level clouds
-around 10-15k ft MSL passing through today. A few stray showers are
-possible over the mountains and into the adjacent deserts until
-around 02z this evening.
+around 10-15k ft MSL for Monday. A few stray showers are possible
+over the mountains and into the adjacent deserts Monday afternoon.
 
 &&
 
@@ -411,35 +444,6 @@ Calm conditions into the early half of next week with waves 3 to 5
 feet and afternoon wind gusts near 15 kts or less through Tuesday.
 Waves increase in the outer waters mid to late week with waves
 expected around 5 to 7 feet.
-
-&&
-
-.BEACHES...
-A persistent background long-period southwesterly swell (2-3 feet
-at 17-19 seconds) keeps surf elevated at around 3-5 feet with sets
-to 6 feet into Wednesday. By Wednesday afternoon/evening, a much
-higher amplitude swell associated with Hurricane Genevieve is set to
-build. Some uncertainty exists in exactly how strong this swell will
-be as it depends on the strength and track of Genevieve, but current
-guidance suggests the swell could be around 5-7 feet, with a period
-around 14 seconds. Should this come to fruition, breaking waves of 9-
-11 feet are possible for south-southwest facing beaches for Thursday
-and Friday.
-
-In addition to elevated surf, tides are expected to increase to a
-height of 6.0 to 6.5 feet MLLW by for this evening`s high tide and
-continue at that height through most of the week. The combination of
-surf and tides will likely result in at least minor tidal overflow
-during the evening high tides. More notable coastal flooding is
-possible when the high tides combine with the elevated surf brought
-with Genevieve`s swell later this week. It is worth noting, that
-with the effects from this year`s El Nino, observed tides have been
-consistently about 0.3-0.5 feet below many baseline predictions.
-
-A Beach Hazard Statement remains in effect through 6PM Wednesday due
-to the elevated surf, rip current risk, and concern for minor tidal
-overflow. Additional products for coastal flooding and high surf are
-looking increasingly likely for later this week.
 
 &&
 
@@ -454,16 +458,16 @@ encouraged to report significant weather conditions.
 CA...Beach Hazards Statement through Wednesday afternoon for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory until 8 PM PDT Monday for Orange County Coastal
-     Areas-Orange County Inland Areas-Riverside County Mountains-
-     San Bernardino County Mountains-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Coastal Areas-San Diego County Mountains-San Diego County
-     Valleys-Santa Ana Mountains and Foothills.
+     Heat Advisory until 8 PM PDT this evening for Orange County
+     Coastal Areas-Orange County Inland Areas-Riverside County
+     Mountains-San Bernardino County Mountains-San Bernardino
+     and Riverside County Valleys-The Inland Empire-San Diego
+     County Coastal Areas-San Diego County Mountains-San Diego
+     County Valleys-Santa Ana Mountains and Foothills.
 
-     Extreme Heat Warning until 8 PM PDT Monday for Apple and Lucerne
-     Valleys-Coachella Valley-San Diego County Deserts-San
-     Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT this evening for Apple and
+     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
+     San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -471,8 +475,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Villafane
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...Stewey
+AVIATION/MARINE...Zuber
 
 
 </pre>
