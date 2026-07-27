@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-26T19:12:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-27T03:19:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -341,25 +341,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-187
-FXUS66 KSGX 261157
+510
+FXUS66 KSGX 270025
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-457 AM PDT Sun Jul 26 2026
+525 PM PDT Sun Jul 26 2026
 
 .SYNOPSIS...
-Unusually warm temperatures continue today, with highs ranging
-from 8 to 12 degrees above average. A gradual cooling trend will
-follow for Sunday through Tuesday/Wednesday, bringing temperatures
-around 5 degrees above average for midweek. The upper level ridge
-moves back west towards Las Vegas and restrengthens in the latter
-half of the week. There is increasing confidence that this setup
-could provide the hottest temperatures of the Summer thus far.
+A gradual cooling trend begins today and will continue through
+Tuesday/Wednesday, bringing temperatures around 5 degrees above
+average for midweek. The upper level ridge will shift west again
+towards Las Vegas and restrengthen in the latter half of the
+week. There is increasing confidence that this setup could provide
+the hottest temperatures of the Summer thus far.
 
 &&
 
@@ -367,100 +368,78 @@ could provide the hottest temperatures of the Summer thus far.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Today through tomorrow night...
+High pressure continues to dominate aloft but has shifted just far
+enough east to bring some monsoonal moisture over the area through
+the afternoon. Light rain has been observed from the San Diego coast
+into the San Diego mountains with accumulations less than 0.1
+inches. Rain and storm chances will continue through this afternoon
+with the highest chances in the mountains and the San Diego deserts.
+Conditions will dry out by this evening, leaving chances for rain
+below 5% through the end of the week.
 
-Latest radar imagery reveals that there are some showers, and a few
-embedded thunderstorms moving up over northern Baja California at
-this hour, with a few of these showers beginning to move over
-portions of SE San Diego County. This will continue to move up from
-the south in the form of a lot of altocumulus and altostratus, with
-as few showers, and some of these may make it through the drier PBL
-and reach the ground. With this in mind, the marine layer has been
-disrupted a bit with the presence of the mid-level clouds passing
-overhead. Any bases that have struggled to form have generally
-been based around 1000-1500 MSL. There may also be some rain drops
-felt, even through the low level clouds, due to the convective
-subtropical mid-level clouds moving overhead.
-
-When analyzing the near-storm environment on SPC, it is evident that
-the majority significant instability remains confined over the
-deserts, with the highest values of MUCAPE (although it is well-
-capped). Since there is some elevated instability associated with
-this monsoonal wave as it transitions up over San Diego County this
-morning, it may likely produce a few rain showers, and possibly even
-a rumble of thunder can he heard all the way down to the coastal
-areas. Depending on how much it clears out by later this morning
-will determine whether or not it will warm enough to get
-thunderstorm development over our mountains by later this afternoon.
-As this moisture moves out by tomorrow with more southwesterly flow
-predominantly taking over in the mid levels, it will allow for more
-drier conditions to settle back in for tomorrow with likely little
-to no cloud development over the mountains for Monday.
-
-Tuesday through Saturday...
-
-From tuesday into Wednesday, the ridge will weaken slightly a shift
-a little further eastward with slightly better troughing influence
-upstream which will allow for temperatures to be slightly cooler,
-and only around 5 degrees above the seasonal average by Wednesday.
-The drier air advection in the mid levels out of the southwest will
-help to hinder any afternoon monsoonal development. Then, as the
-ridge begins to build a bit and expand/retrograde back towards the
-west beginning Thursday, it will allow for temperatures to
-gradually warm again up to around 10 to 15 degrees above the
-seasonal average, especially by Friday. There will also be an
-influx of mid-level moisture again out of the southeast as these
-originate over Arizona and Sonora, Mexico, and then transition
-over our region. The ridge will begin to slowly weaken and flatten
-a bit going into Saturday, translating to only slightly cooler
-temperatures to begin the following weekend, although still quite
-hot... even for summertime.
+High temperatures will stay slightly cooler through Wednesday as the
+upper level ridge stays a little east. Heat is expected to return
+Thursday through the end of the week as high pressure aloft builds
+and expands west once again. High temperatures will warm to be 10-15
+degrees above the seasonal average by Friday and into the weekend.
 
 &&
 
 .AVIATION...
-261200Z....Coast/Valleys...Patchy low clouds near 1100-1500 ft MSL
-have struggled to form an gather this morning with the presence of
-mid to high level clouds passing overhead. There may be some -RA
-falling from the mid deck AOA 12000 ft MSL this morning. VIS
-restrictions generally 1-3SM for areas where clouds intersect
-terrain. Clearing likely by 16-17z. Low clouds with similar or
-slightly higher bases move back in again Sunday evening, mainly
-after 04z Mon. along the coastline initially, and then pushing into
-the inland areas through 08z Mon. with similar ceilings and better
-coverage, and then slightly lowering throughout the rest of the
-forecast period.
+270000Z....Coast/Valleys...FEW-BKN mid-level clouds over inland
+areas this afternoon, decreasing into the evening. Low clouds based
+1100-1400 ft MSL start developing onshore within 15-20 miles of the
+coast after 03z (after 07z in OC), remaining patchy until around 10z
+when coverage increases and fills in gaps. VIS reduced along
+elevated coastal terrain and locally in elevated valleys up to 20
+miles inland. Low clouds mostly scatter 16-17z. 30% chance that
+brief cigs possible at the immediate coast after 21z as low clouds
+begin redeveloping early. Otherwise, VFR conditions prevail Monday
+afternoon.
 
-Mountains/Deserts...VFR with FEW-SCT high clouds AOA 20k ft MSL
-through the period. Cu 10-15k ft MSL builds over the mountain
-peaks Sunday afternoon.
+Mountains/Deserts...VFR prevails with FEW-BKN mid-level clouds
+around 10-15k ft MSL passing through today. A few stray showers are
+possible over the mountains and into the adjacent deserts until
+around 02z this evening.
 
 &&
 
 .MARINE...
-Calm conditions over the weekend and into the early half of next
-week with waves 2 to 4 feet and afternoon wind gusts near 15 kts or
-less through Monday. Waves increase in the outer waters mid to late
-week with waves expected around 5 to 7 feet.
+Calm conditions into the early half of next week with waves 3 to 5
+feet and afternoon wind gusts near 15 kts or less through Tuesday.
+Waves increase in the outer waters mid to late week with waves
+expected around 5 to 7 feet.
 
 &&
 
 .BEACHES...
-A long-period southwesterly swell builds Sunday, keeping surf around
-3-5 feet with sets to 6 feet through Sunday evening. Monday and
-Tuesday, the southerly swell will increase to 3 feet with a period
-17 seconds, elevating surf once again to 4-6 feet with sets to 7 or
-8 feet. Highest surf is expected along south-facing beaches. High
-rip current risk and a longshore current threat will last through
-the upcoming week.
+A persistent background long-period southwesterly swell (2-3 feet
+at 17-19 seconds) keeps surf elevated at around 3-5 feet with sets
+to 6 feet into Wednesday. By Wednesday afternoon/evening, a much
+higher amplitude swell associated with Hurricane Genevieve is set to
+build. Some uncertainty exists in exactly how strong this swell will
+be as it depends on the strength and track of Genevieve, but current
+guidance suggests the swell could be around 5-7 feet, with a period
+around 14 seconds. Should this come to fruition, breaking waves of 9-
+11 feet are possible for south-southwest facing beaches for Thursday
+and Friday.
 
 In addition to elevated surf, tides are expected to increase to a
-height of 6.0 to 6.5 feet MLLW by Sunday and continue at that height
-through most of the week. The combination of surf and tides will
-result in minor coastal flooding during high tides.
+height of 6.0 to 6.5 feet MLLW by for this evening`s high tide and
+continue at that height through most of the week. The combination of
+surf and tides will likely result in at least minor tidal overflow
+during the evening high tides. More notable coastal flooding is
+possible when the high tides combine with the elevated surf brought
+with Genevieve`s swell later this week. It is worth noting, that
+with the effects from this year`s El Nino, observed tides have been
+consistently about 0.3-0.5 feet below many baseline predictions.
+
+A Beach Hazard Statement remains in effect through 6PM Wednesday due
+to the elevated surf, rip current risk, and concern for minor tidal
+overflow. Additional products for coastal flooding and high surf are
+looking increasingly likely for later this week.
 
 &&
 
@@ -477,14 +456,14 @@ CA...Beach Hazards Statement through Wednesday afternoon for Orange
 
      Heat Advisory until 8 PM PDT Monday for Orange County Coastal
      Areas-Orange County Inland Areas-Riverside County Mountains-
-     San Bernardino County Mountains-San Diego County Coastal
-     Areas-San Diego County Mountains-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
+     San Bernardino County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Coastal Areas-San Diego County Mountains-San Diego County
+     Valleys-Santa Ana Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Monday for Apple and Lucerne
-     Valleys-Coachella Valley-San Bernardino and Riverside
-     County Valleys-The Inland Empire-San Diego County Deserts-
-     San Gorgonio Pass near Banning.
+     Valleys-Coachella Valley-San Diego County Deserts-San
+     Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -492,8 +471,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...Stewey
+PUBLIC...Villafane
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
