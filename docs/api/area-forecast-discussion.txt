@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-28T14:09:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-28T19:25:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-971
-FXUS66 KSGX 281123
+242
+FXUS66 KSGX 281757
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-424 AM PDT Tue Jul 28 2026
+1057 AM PDT Tue Jul 28 2026
 
 .SYNOPSIS...
 It will continue to be not quite as hot for today and Wednesday
@@ -375,6 +375,9 @@ and portions of the mountains.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
 .SHORT TERM (Today through Thursday)...
 It will continue to be not quite as hot for today and Wednesday
@@ -414,51 +417,40 @@ areas on Monday with extreme HeatRisk for the deserts.
 &&
 
 .AVIATION...
-281124Z....Coast/Valleys...Patchy low clouds based 1000-1400ft MSL
-increasing in coverage and will continue to push up to 15-20 miles
-inland. VIS 3-6SM where stratus nears terrain and in the valleys.
-Clouds clearing to the coast 15-18Z, remaining BKN-OVC at some of
-the beaches into the afternoon. Low clouds push inland again after
-03Z Wed, spreading first into San Diego County and then further up
-into Orange County likely after 10Z Wed. Bases for Wednesday morning
-will be similar to today, around 1000-1300ft MSL.
+281800Z....Coast/Valleys...Locally BKN-OVC at some beaches into the
+afternoon, with clear conditions elsewhere. Low clouds push inland
+03-07Z Wed, with bases 700-1200 ft MSL. Most likely coastal TAF site
+for cigs below 1000 ft MSL is KCRQ, with only 40-50 percent chance
+at KSAN and KSNA. VIS 3-5SM where stratus nears higher coastal
+terrain and in the western valleys. Low clouds will scatter out 16-
+18Z Wed.
 
-Mountains/Deserts...FEW-SCT Cu AOA 15,000 ft MSL possible through
-Tuesday evening. Otherwise, SKC and VFR.
+Mountains/Deserts...Mostly clear skies and VFR conditions expected
+into Wednesday.
 
 &&
 
 .MARINE...
-No hazardous marine weather is expected through Saturday.
+No hazardous marine weather is expected through Sunday.
 
 &&
 
 .BEACHES...
-A south swell of 3-4 ft feet at 17 seconds will produce surf of 3-5
-feet with sets to 6 feet into Wednesday. A Beach Hazard Statement
-remains in effect through 5 PM Wednesday for the elevated surf,
-high rip current risk, and minor tidal overflow.
+A south swell from 200 degrees of 3-4 ft feet at 17 seconds will
+produce surf of 3-6 feet with sets to 7 feet into Wednesday. Strong
+rip currents are expected along with minor tidal overflow during the
+evening high tide.
 
-Wednesday afternoon, a south swell associated with Hurricane
-Genevieve will arrive. Some uncertainty exists in the height of the
-swell, but current forecast shows a swell (170-180 degrees) of 5 ft
-with a period of 14-15 seconds late Wednesday into early Friday,
-becoming more SSW (190-200 degrees) late Friday into Saturday with
-the period lowering to 12-13 seconds. This may produce surf of 5-9
-ft on the south facing beaches north of Oceanside, surf around 3-6
-ft elsewhere, and strong rip and longshore currents at all beaches.
-A High Surf Advisory is in effect from 5 PM Wednesday through 5 PM
-Saturday. In addition to the high surf, evening high tides will be
-above 6 ft this week. A Coastal Flood Advisory is in effect from 5
-PM Wednesday through 3 AM Saturday for the risk of coastal flooding
-due to the high tides combined with high surf.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+Wednesday, a 4-5 ft swell from 160-180 degrees with a period of 13-
+15 seconds associated with Hurricane Genevieve will arrive. Surf of
+5-9 ft is expected on south facing beaches in Orange County with
+surf around 3-6 ft elsewhere. Surf will peak on Thursday and Friday,
+when the swell direction shifts to 180-190 degrees. Strong rip and
+longshore currents will create dangerous swimming conditions at most
+area beaches. In addition to the high surf, evening high tides will
+be above 6 ft this week. The combination of high tides and surf
+increases the risk of coastal flooding. The swell, period, and tides
+are expected to decrease over the weekend.
 
 &&
 
@@ -476,7 +468,7 @@ CA...Beach Hazards Statement through Wednesday afternoon for Orange
      Heat Advisory from 10 AM Friday to 8 PM PDT Sunday for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Extreme Heat Warning from 10 AM Thursday to 8 PM PDT Monday for
+     Extreme Heat Warning from 10 AM Thursday to 8 PM PDT Sunday for
      Apple and Lucerne Valleys-Coachella Valley-Riverside County
      Mountains-San Bernardino and Riverside County Valleys-The
      Inland Empire-San Diego County Deserts-San Diego County
@@ -486,7 +478,7 @@ CA...Beach Hazards Statement through Wednesday afternoon for Orange
      Orange County Inland Areas-San Diego County Valleys-Santa
      Ana Mountains and Foothills.
 
-     Heat Advisory from 10 AM Thursday to 8 PM PDT Monday for San
+     Heat Advisory from 10 AM Thursday to 8 PM PDT Sunday for San
      Bernardino County Mountains.
 
 PZ...None.
@@ -496,7 +488,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
