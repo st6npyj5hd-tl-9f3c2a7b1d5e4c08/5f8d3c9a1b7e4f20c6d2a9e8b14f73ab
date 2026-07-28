@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-28T08:35:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-28T14:09:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-587
-FXUS66 KSGX 280821
+971
+FXUS66 KSGX 281123
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-121 AM PDT Tue Jul 28 2026
+424 AM PDT Tue Jul 28 2026
 
 .SYNOPSIS...
 It will continue to be not quite as hot for today and Wednesday
@@ -414,7 +414,7 @@ areas on Monday with extreme HeatRisk for the deserts.
 &&
 
 .AVIATION...
-280600Z....Coast/Valleys...Patchy low clouds based 1000-1400ft MSL
+281124Z....Coast/Valleys...Patchy low clouds based 1000-1400ft MSL
 increasing in coverage and will continue to push up to 15-20 miles
 inland. VIS 3-6SM where stratus nears terrain and in the valleys.
 Clouds clearing to the coast 15-18Z, remaining BKN-OVC at some of
