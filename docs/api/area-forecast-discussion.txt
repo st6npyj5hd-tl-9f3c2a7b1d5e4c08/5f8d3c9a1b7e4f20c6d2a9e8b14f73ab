@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-29T02:44:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-29T08:42:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -351,27 +351,30 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=45&glossary=0">45</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-639
-FXUS66 KSGX 282325
+716
+FXUS66 KSGX 290738
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-425 PM PDT Tue Jul 28 2026
+1238 AM PDT Wed Jul 29 2026
 
 .SYNOPSIS...
-Near to slightly above average temperatures will only last through
-Wednesday before another heatwave begins. High pressure to the
-east is expected to strengthen and move westward late this week,
-bringing a return of moderate to major HeatRisk for Thursday
-onward into early next week. Temperatures peak Saturday and Sunday
-with some record highs expected in the mountains and deserts along
-with locally extreme HeatRisk. The marine layer and associated
-morning clouds will become more shallow and confined to coastal
-areas by late this week.
+Strengthening high pressure will bring warming into the weekend
+with Saturday high temperatures 8 to 12 degrees above average for
+inland areas. For the early and middle of next week, there will
+be slight cooling of high temperatures with slowly increasing
+humidity for inland areas. There will be widespread extreme
+HeatRisk for the lower deserts for Sunday through Tuesday with
+widespread moderate or greater HeatRisk for most areas for
+Thursday through Monday except for the beaches and for mountain
+elevations above 7500 feet. There will be night and morning low
+clouds for coastal areas.
 
 &&
 
@@ -379,60 +382,65 @@ areas by late this week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Friday)...
+Not much change in high temperatures is expected for today. High
+temperatures for most areas will be within a few degrees of
+average with the deserts around 5 degrees above average. High
+temperatures for today will range from the mid to upper 70s near
+the coast to the 90s for the Inland Empire with 110 to 114 for the
+lower deserts.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures on Thursday will warm a few degrees with
+additional warming on Friday of a few to around 5 degrees with
+the greater warming on Friday for the inland valleys, inland
+Orange County, and mountain elevations below 5000 feet. High
+temperatures on Friday will around 5 degrees above average near
+the coast and 5 to 10 degrees above average for inland areas. High
+temperatures on Friday will range from the mid 70s to lower 80s
+near the coast to the upper 90s to 108 for the Inland Empire with
+114 to 118 for the lower deserts.
 
-The main story this week is the incoming heatwave beginning on
-Thursday. An upper ridge currently located to the east will
-strengthen and move westward through this weekend. There is strong
-agreement among models that 500 mb heights will peak somewhere
-around 597 to 600 dm on Saturday, setting the stage for the
-hottest temperatures of the year so far for inland areas. High
-temperatures ranging from a few to 8 degrees above normal on
-Thursday will combine with slightly above normal lows to create
-moderate to locally major HeatRisk for inland areas. By the
-weekend, both high and low temperatures increase to 5 to 12
-degrees above normal. Peak temperatures this weekend will range
-from the 80s in coastal areas to 115 to 120 in the low deserts.
-90s expected in the western valleys and mountains below 7000 feet,
-low 100s in eastern San Diego Valleys, and 100s to near 110 in
-the Inland Empire and High Desert. This will create moderate
-HeatRisk for coastal areas, moderate to major HeatRisk for inland
-valleys and mountains, and major to extreme HeatRisk in the
-deserts. Some daily record highs are expected to fall in the
-mountains and deserts this weekend.
+&&
 
-As a consequence of the building upper ridge, the marine layer is
-expected to become more shallow and confined to coastal areas by
-late week. Minor visibility reductions will become possible for
-coastal areas each morning this weekend. Additionally, increasing
-inversion strength may allow for marine layer clouds to persist
-into the afternoon along the immediate coastline. This adds
-uncertainty to current high temperature forecasts. Current highs
-are expected to range 5 to 10 degrees above normal (generally low
-80s) along the coastline this weekend. If clouds are present in
-the afternoons, highs will be closer to seasonal averages.
+.LONG TERM (Saturday through Tuesday)...
+High pressure over the southwest states will be strongest on
+Saturday, then will slowly weaken into the middle of next week,
+but with increasing lower level moisture and humidity for the
+early and middle portion of next week for inland areas.
 
-The ridge is expected to weaken early next week, bringing a
-slight cooling trend. However, high temperatures are generally
-expected to remain above average. Thus, moderate heatrisk will
-likely continue for inland valleys/mountains with major HeatRisk
-in the deserts. Model guidance diverges more significantly from
-mid-next week onward, though there is some indication that a more
-favorable monsoon pattern will re-emerge.
+High pressure will be strongest over southern California on
+Saturday. High temperatures on Saturday will be a few degrees
+warmer than Friday, around 8 to 12 degrees above average for the
+mountains, deserts, and inland valleys. High temperatures on
+Saturday will range from around 80 near the coast to the upper 90s
+to 108 for the Inland Empire with 116 to 120 for the lower
+deserts.
+
+High temperatures will cool a few degrees on Sunday and cool a few
+to around 5 degrees on Monday with the greatest cooling on Monday
+in the San Diego County valleys. Not much change is expected on
+Tuesday. High temperatures on Monday and Tuesday will range from a
+few degrees above average near the coast to 5 to 10 degrees above
+average for the mountains and deserts. High temperatures for
+Monday and Tuesday will range from the mid 70s to around 80 near
+the coast to the mid 90s to 105 for the Inland Empire with 114 to
+118 for the lower deserts. There will be widespread extreme
+HeatRisk for the lower deserts for Sunday through Tuesday.
 
 &&
 
 .AVIATION...
-290000Z....Coast/Valleys...Low clouds with bases 900-1400 ft MSL
-redeveloping along the coast 02-04Z, spreading 10-15 mi inland by
-10Z. There is a slight (20%) chance of CIGS at KONT 12-16Z. Vis 3-
-5SM where stratus nears higher coastal terrain and in the western
-valleys. Low clouds clearing to the coast 15-18Z, redeveloping after
-30/00Z with similar bases.
+290600Z....Coast/Valleys...Low clouds based 900-1200ft MSL are
+moving inland and will continue to spread northward through 14z.
+Slight chance (20%) of CIGs at KONT intermittently between 12z and
+16z. VIS 3-5SM where stratus nears higher coastal terrain and in
+the western valleys. Low clouds clearing to the coast 16-18z, with
+stratus potentially lingering at beaches through the afternoon.
+Low clouds redevelop around 00z Thur, moving inland by 01-03z with
+similar or slightly lower bases.
 
-Mountains/Deserts...Mostly clear skies with unrestricted vis through
-Wednesday evening.
+Mountains/Deserts...Mostly SKC with unrestricted VIS through
+Wednesday. Intermittent high cu AOA 20,000ft possible.
 
 &&
 
@@ -443,27 +451,27 @@ No hazardous marine weather is expected through Sunday.
 
 .BEACHES...
 A south swell from 200 degrees of 3-4 ft feet at 17 seconds will
-produce surf of 3-6 feet with sets to 7 feet into Wednesday. Strong
-rip currents are expected along with minor tidal overflow during the
+produce surf of 3-6 feet with sets to 7 feet Wednesday. Strong rip
+currents are expected along with minor tidal overflow during the
 evening high tide.
 
-Wednesday, a 4-5 ft swell from 160-180 degrees with a period of 13-
-15 seconds associated with Hurricane Genevieve will arrive. Surf of
-5-9 ft is expected on south facing beaches in Orange County with
-surf around 3-6 ft elsewhere. Surf will peak on Thursday and Friday,
-when the swell direction shifts to 180-190 degrees. Strong rip and
-longshore currents will create dangerous swimming conditions at most
-area beaches. In addition to the high surf, evening high tides will
-be above 6 ft this week. The combination of high tides and surf
-increases the risk of coastal flooding. The swell, period, and tides
-are expected to decrease over the weekend.
+Wednesday evening, a 4-5 ft swell from 160-180 degrees with a period
+of 13-15 seconds associated with Hurricane Genevieve will arrive.
+Surf of 5-9 ft is expected on south facing beaches in Orange County
+with surf around 3-6 ft elsewhere. Surf will peak on Thursday and
+Friday, when the swell direction shifts to 180-190 degrees. Strong
+rip and longshore currents will create dangerous swimming conditions
+at most area beaches. In addition to the high surf, evening high
+tides will be above 6 ft this week. The combination of high tides
+and surf increases the risk of coastal flooding. The swell, period,
+and tides are expected to decrease over the weekend. Further
+information can be found in the High Surf Advisory.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -500,8 +508,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE/BEACHES...SS
+PUBLIC...17
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
