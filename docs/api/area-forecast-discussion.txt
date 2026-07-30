@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-30T08:28:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-30T14:04:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,33 +339,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-657
-FXUS66 KSGX 300612
+205
+FXUS66 KSGX 300902
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1112 PM PDT Wed Jul 29 2026
+202 AM PDT Thu Jul 30 2026
 
 .SYNOPSIS...
-A warming trend is expected on Thursday into the weekend as high
-pressure strengthens over the area. This will lead to increased
-heat risk across the region, with warmer overnight temperatures.
-The hottest weather will occur on Saturday, with slight cooling
-into next week. The marine layer will maintain a shallower depth,
-bringing night and morning clouds near the coastal regions each
-day.
+High pressure will strengthen and move westward across the area
+through Saturday with high temperatures warming to 8 to 12 degrees
+above average for inland areas for the weekend with major to
+extreme HeatRisk for the deserts by Sunday. High temperatures will
+then cool around 5 degrees for inland areas through Wednesday with
+little change for low temperatures. Higher humidity will continue
+for coastal areas with increasing humidity for inland areas next
+week. Night and morning low clouds will continue for coastal
+areas.
 
 &&
 
@@ -373,45 +367,58 @@ day.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Saturday)...
+High pressure centered over New Mexico will move westward and
+strengthen through Saturday and be centered in the vicinity of Las
+Vegas on Saturday. High temperatures will warm a few degrees
+each day for today through Saturday, warming around 5 to locally
+10 degrees for inland areas from Wednesday through Saturday.
 
-Satellite shows low clouds melting away from SoCal offshore at
-this hour. Mostly clear conditions will continue through the
-afternoon, before low clouds move back inland this evening. High
-pressure anchored over New Mexico will strengthen and expand into
-the weekend. This will keep the marine layer thinner, confining
-low clouds within 10 miles from the coast each night and morning
-for much of the upcoming week.
+High temperatures on Saturday will range from around 5 degrees
+above average near the coast to 8 to 12 degrees above average for
+inland areas. High temperatures on Saturday will range from around
+80 near the coast to the upper 90s to 108 for the Inland Empire
+with 114 to 118 for the lower deserts. For Saturday, there will be
+major to locally extreme HeatRisk for the deserts, San Diego
+County mountains, moderate to major HeatRisk for the Inland
+Empire, and moderate or greater HeatRisk for most areas except at
+the beaches and for mountain elevations above 7500 feet.
 
-The high`s growth and transition westward will also bring a
-warmer weather to the area through the weekend. The warming trend
-begins on Thursday with temperatures rising another 1-3 degrees
-across the area. By Friday, the high strengthens right around 600
-dm, indicating a greater increase in temperatures (this time,
-another 3-5 degrees warmer). The weather system peaks in intensity
-on Saturday with high temperatures around 5 to 10 degrees above
-normal. Widespread highs of 100 to locally near 110 can be
-expected across the Inland Empire and High Desert, potentially
-nearing 120 in the lower deserts. Widespread 80s and 90s will be
-felt across the mountains, western valleys and beaches. Overnight
-low temperatures will also be warm as more humid conditions
-remain. Please practice good heat safety by limiting outdoor
-recreation (mountains included!), taking water breaks, and seeking
-shade when you are able to do so.
+The marine layer is around 1500 to 2000 feet deep. Coastal low
+clouds will spread into the western valleys early this morning.
+The marine mayer will slowly decrease in depth into the weekend
+with night and morning low clouds spreading inland mainly into
+just coastal areas and not into portions of the valleys.
 
-The high`s strength begins to weaken slightly by Sunday into early
-next week. Sunday`s temperatures will be similar to Saturday
-across mountains and deserts, cooling slightly for areas west of
-the mountains as an increased sea breeze tries to cool things off
-a bit. High pressure remains over the desert southwest, albeit
-weaker, for the first half of next week. This will cool coastal
-areas and western valleys off closer to normal. Inland
-temperatures across mountains and deserts will remain elevated
-nearing ten degrees above normal; chances remain high for
-temperatures to stay above 110 degrees across the lower deserts at
-this time. Increases in low level moisture is also seen for
-inland regions by the middle of next week, so chances for rain and
-storms remain small, but increase slightly.
+&&
+
+.LONG TERM (Sunday through Wednesday)...
+High pressure will slowly weaken into the middle of next week. The
+axis of the high pressure will move northward just enough for the
+mid level flow across the area to become more easterly by the
+middle of next week. High temperatures for inland areas will
+decrease around 5 degrees from Saturday through Wednesday while
+surface dewpoints for inland areas will slowly increase with
+humidity slowing increasing.
+
+Warm sea surface temperatures in the mid 70s, around 5 degrees
+above average, will maintain higher humidity for coastal areas
+into the western valleys. Low temperatures will change little,
+ranging from a few degrees above average for the coast into the
+western valleys with the mountains and deserts 5 to 10 degrees
+above average.
+
+High temperatures for next Wednesday will range from around 80
+near the coast to the mid 90s to 105 for the Inland Empire with
+110 to 114 for the lower deserts. Low temperatures for the coast
+and valleys will be mostly in the mid 60s to lower 70s, in the
+70s for the Apple and Lucerne Valleys, and in the mid 80s to lower
+90s for the lower deserts.
+
+HeatRisk will slowly decrease with HeatRisk for Wednesday of next
+week moderate to major for the deserts, and mostly moderate for
+the inland valleys, higher coastal terrain, and mountain areas
+below 7000 feet.
 
 &&
 
@@ -454,6 +461,12 @@ the Coastal Hazard Message.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -483,7 +496,7 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
+PUBLIC...17
 AVIATION/MARINE/BEACHES...Zuber
 
 
