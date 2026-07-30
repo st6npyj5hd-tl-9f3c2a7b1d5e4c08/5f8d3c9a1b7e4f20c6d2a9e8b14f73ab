@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-30T02:29:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-30T08:28:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-259
-FXUS66 KSGX 292319
+657
+FXUS66 KSGX 300612
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-419 PM PDT Wed Jul 29 2026
+1112 PM PDT Wed Jul 29 2026
 
 .SYNOPSIS...
 A warming trend is expected on Thursday into the weekend as high
@@ -374,7 +372,6 @@ day.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -419,13 +416,17 @@ storms remain small, but increase slightly.
 &&
 
 .AVIATION...
-292330Z....Coast/Valleys...Patchy low clouds based 1000-1400 ft MSL
-have started to develop along the San Diego County coastline. Clouds
-will slowly fill into coastal areas from south to north through 06z
-Thu. Clouds then push inland overnight, reaching into the western
-Inland Empire by 12z. 60% chance for cigs at KONT and 20-30% at
-KSBD. Minor vis reductions expected for elevated inland valleys
-(KONT, KL18, KAJO). Clouds scatter toward the coastline 15-17z.
+300600Z....Coast/Valleys...Low clouds based 1000-1400ft MSL have
+already pushed inland around 10-15 miles and will filter in up to 20
+miles by 12-14z. Intermittent IFR CIGs possible at coastal TAF
+sites, best chances between 10-14z. 70% chance for at least a brief
+CIG at KONT and a 20% chance for SBD, although both sites should at
+least see some reduced VIS due to HZ. Coastal terrain and western
+valleys, VIS down to 3-6SM possible. Clouds scatter out of the
+Inland Empire around 15-16z, clearing to the coast by 17-18z.
+Stratus may linger at some beaches in San Diego County through the
+afternoon. Low clouds based around 800-1100ft MSL develop and move
+inland again after 01z Fri.
 
 Mountains/Deserts...Mostly SKC with unrestricted VIS through
 Thursday evening.
@@ -453,18 +454,8 @@ the Coastal Hazard Message.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 5 PM PDT this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
+CA...Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
      High Surf Advisory until 5 PM PDT Saturday for Orange County
@@ -492,8 +483,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
