@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-31T08:50:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-31T14:09:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-624
-FXUS66 KSGX 310755
+476
+FXUS66 KSGX 310950
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1255 AM PDT Fri Jul 31 2026
+250 AM PDT Fri Jul 31 2026
 
 .SYNOPSIS...
 Strengthening high pressure will bring warming into the weekend. High
@@ -462,21 +462,23 @@ CA...Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
      High Surf Advisory until 5 PM PDT Saturday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM Friday to 8 PM PDT Sunday for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
+     Heat Advisory from 10 AM this morning to 8 PM PDT Sunday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
 
      Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
-     Valleys-Coachella Valley-Riverside County Mountains-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Deserts-San Diego County Mountains-San
-     Gorgonio Pass near Banning.
+     Valleys-Riverside County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Mountains.
 
-     Extreme Heat Warning from 10 AM Friday to 8 PM PDT Sunday for
-     Orange County Inland Areas-San Diego County Valleys-Santa
-     Ana Mountains and Foothills.
+     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Sunday
+     for Orange County Inland Areas-San Diego County Valleys-
+     Santa Ana Mountains and Foothills.
 
      Heat Advisory until 8 PM PDT Sunday for San Bernardino County
      Mountains.
+
+     Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
+     San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
 
