@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-30T19:26:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-31T02:54:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -337,18 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-634
-FXUS66 KSGX 301844
+751
+FXUS66 KSGX 302355
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1144 AM PDT Thu Jul 30 2026
+455 PM PDT Thu Jul 30 2026
 
 .SYNOPSIS...
 The marine layer will stay thin through the upcoming weekend,
@@ -365,6 +363,9 @@ deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The marine layer was not as deep this morning as high pressure
 over the Desert Southwest begins to squash the layer. Low clouds
@@ -401,12 +402,13 @@ but rain chances still seem slim.
 &&
 
 .AVIATION...
-301800Z....Coast/Valleys...Low clouds based around 800-1200 feet MSL
-will develop and move locally inland again after 01Z. They will not
-reach as far inland as they were this morning. Vis restrictions 0-
-5SM in western valleys. Scatter out Friday by 15-16Z.
+310000Z....Coast/Valleys...Low clouds based around 800-1200 feet MSL
+will continue to develop this evening, moving into coastal regions
+after 01Z and inland locally to about 15 miles inland. Vis
+restrictions 0-5SM in western valleys. Scatter out Friday by 15-16Z.
+Low clouds will be much patchier and slow to develop Friday evening.
 
-Mountains/Deserts...Mostly clear through Friday morning.
+Mountains/Deserts...Mostly clear through Friday afternoon.
 
 &&
 
@@ -418,18 +420,12 @@ No hazardous marine weather is expected through Monday.
 .BEACHES...
 A southerly swell from Hurricane Genevieve will continue to generate
 elevated surf through Friday before diminishing over the weekend.
-Surf of 4-7 feet with sets up to 9 feet will continue, highest on
-south facing beaches. This will create conditions hazardous for
+Surf of 4-7 feet with sets up to 9 feet will continue for south and
+southwest facing beaches. This will create conditions hazardous for
 inexperienced swimmers. In addition, high tides each evening will
 exceed 6 feet. The combination of high tides and high surf increases
 the risk of coastal flooding. Further information on all these
 hazards is found in the Coastal Hazard Message.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However, weather spotters
-are encouraged to report significant weather conditions.
 
 &&
 
@@ -463,7 +459,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...MM
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
