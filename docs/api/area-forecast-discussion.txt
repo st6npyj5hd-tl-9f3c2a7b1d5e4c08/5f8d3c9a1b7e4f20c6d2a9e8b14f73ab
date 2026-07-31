@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-31T14:09:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-07-31T19:26:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,26 +337,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-476
-FXUS66 KSGX 310950
+104
+FXUS66 KSGX 311836
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-250 AM PDT Fri Jul 31 2026
+1136 AM PDT Fri Jul 31 2026
 
 .SYNOPSIS...
-Strengthening high pressure will bring warming into the weekend. High
-temperatures will be 8 to 12 degrees above average for inland
-areas during the weekend with moderate to major HeatRisk except at
-the beaches and for the highest elevations in the mountains. High
-temperatures will slowly cool early next week with some increase
-in humidity for inland areas during the middle and latter part of
-next week. Night and morning low clouds will spread into coastal
-areas with the marine layer a little shallower over the weekend.
+The heat is on across SoCal as high pressure strengthens over the
+area through the weekend, leading to areas of moderate to major
+heat risk. The marine layer will stay thin through this period,
+where night and morning low clouds will cover the coast each day.
+The area of high pressure will weaken some into next week and may
+move further east. This pattern will bring slightly cooler weather
+with a minimal chance for rainfall over the mountains.
 
 &&
 
@@ -364,71 +365,42 @@ areas with the marine layer a little shallower over the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-High pressure will continue to strengthen over southern California
-through Saturday, then begin to slowly weaken into early next
-week. High temperatures will continue to warm through Saturday
-with Saturday high temperatures around 5 degrees above average
-near the coast to 8 to 12 degrees above average farther inland.
-High temperatures on Saturday will range from the upper 70s to mid
-80s near the coast to 100 to 110 for the Inland Empire with 115 to
-120 for the lower deserts. High temperatures on Sunday will begin
-to cool a few degrees.
+The warming trend continues as the center of a growing high pressure
+system moves over Arizona today. The system will peak in intensity
+and be centered near the southern Colorado River Valley by Saturday.
+This is when we can expect the hottest temperatures with highs well
+into the 90s for valleys and mountains of Orange and San Diego
+Counties and over 115 degrees across the lower deserts. The high
+weakens slightly on Sunday, but temperatures will still remain hot
+away from the immediate coast.
 
-Nights will be warmer for the weekend, mostly in the mid 60s to
-lower 70s for the coast and valleys, in the 70s to around 80 for
-the Apple and Lucerne Valleys and for mountain areas below 5500
-feet, and in the upper 80s to mid 90s for the lower deserts.
+With the hot temperatures, please severely limit or postpone outdoor
+recreation if you are in areas away from the coast, since
+temperatures will be well into the 70s and 80s by the mid-morning
+hours. For those without A/C, make sure to go to air conditioned
+areas and drink plenty of water. Warm and humid nights in the
+60s/70s/80s will lead to less relief from the heat as well.
 
-The HeatRisk will peak on Saturday with widespread moderate or
-greater HeatRisk except at the beaches and for mountain elevations
-above 8000 feet. There will be moderate to major heat risk for
-the valleys and for mountain elevations below 5000 feet with major
-to locally extreme HeatRisk for the deserts.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-The slow cooling trend will continue for Monday and Tuesday with
-some model differences for Wednesday and Thursday with the
-strength and placement of the high across the central and
-southern Rockies westward to California. High temperatures for
-next Wednesday will be generally within a few degrees of average
-near the coast to 4 to 8 degrees above average for inland areas.
-High temperatures for next Wednesday will range from the mid 70s
-to lower 80s near the coast to the mid 90s to 105 for the Inland
-Empire with 110 to 114 for the lower deserts.
-
-Low temperatures will cool a few degrees on Monday and again on
-Tuesday, then change little for Wednesday and Thursday. Low
-temperatures on Wednesday will be mostly in the 60s and lower 70s
-for the coast and valleys, in the 70s for the Apple and Lucerne
-Valleys, and in the mid 80s to lower 90s for the lower deserts.
-
-There will be moderate HeatRisk for next Wednesday for the inland
-valleys and mountain elevations below 5500 feet with moderate to
-major HeatRisk for the deserts.
-
-Depending on the placement of the high, there could be some
-increase in moisture from the east during the latter half of next
-week. Through Friday of next week, NBM chances for measurable
-precipitation are greatest over the mountains for next Thursday
-afternoon at 10 to 15 percent.
+By early next week, the high weakens subtly. The position of where
+the high will go is still somewhat in flux. This will bring a
+degree or two of cooling for inland areas each day, but warm
+temperatures will still remain. Temperatures will stay near to
+slightly above normal by Monday onward next week. The high may go
+into a position that will bring in a subtle return of monsoonal
+moisture and greater humidity to the region, but rain chances
+still seem slim near 15% or less across our mountain areas by
+Wednesday into the latter half of next week.
 
 &&
 
 .AVIATION...
-310600Z....Coast/Valleys...Low clouds based around 800-1200ft MSL
-continue to spread up to 15 miles inland by 14z. VIS 5- 6SM for
-inland spots with HZ and 2-6SM where clouds intersect terrain and
-in some valleys. Scatter back towards the coast by 16- 18z, with
-mostly SKC for the afternoon. Very patchy low clouds develop again
-after 03z Sat, but don`t look to move inland or impact TAF sites
-until later, closer to 09-12z, with intermittent CIGs. Bases will
-be at or below 1000ft MSL.
+311730Z....Coast...Patchy low clouds will gradually develop after
+04Z tonight and mostly fill coastal areas overnight. Bases will be
+700-1000 feet MSL with vis 3-5SM over mesas and higher coastal
+terrain. Scatter out Saturday by 16Z.
 
-Mountains/Deserts...SKC and VFR through Friday evening. FEW-SCT
-high cu AOA 20,000ft MSL possible.
+.Valleys/Mountains/Deserts...VFR conditions with increasing high
+clouds AOA 20000 feet MSL through Saturday morning.
 
 &&
 
@@ -438,20 +410,20 @@ No hazardous marine weather is expected through Wednesday.
 &&
 
 .BEACHES...
-A southerly swell from Hurricane Genevieve will continue to generate
-elevated surf through Friday before diminishing over the weekend.
-Surf of 4-7 feet with sets up to 9 feet for south and southwest
-facing beaches. This will create conditions hazardous for
-inexperienced swimmers. In addition, high tides each evening will
-exceed 5 feet. The combination of high tides and high surf increases
-the risk of coastal flooding. Further information on all these
-hazards is found in the Coastal Hazard Message.
+A southerly swell from now Tropical Storm Genevieve will generate
+surf of 4-6 feet with sets up to 7 feet for south facing beaches
+today and tonight before diminishing Saturday. This will create
+hazardous conditions for inexperienced swimmers. In addition, high
+tide tonight will near 6 feet. The combination of the high tides and
+elevated surf increases the risk of coastal flooding. For more
+details, check the Coastal Hazard Message.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -462,20 +434,15 @@ CA...Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
      High Surf Advisory until 5 PM PDT Saturday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM this morning to 8 PM PDT Sunday for
-     Orange County Coastal Areas-San Diego County Coastal Areas.
+     Heat Advisory until 8 PM PDT Sunday for Orange County Coastal
+     Areas-San Bernardino County Mountains-San Diego County
+     Coastal Areas.
 
      Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
-     Valleys-Riverside County Mountains-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Mountains.
-
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Sunday
-     for Orange County Inland Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
-
-     Heat Advisory until 8 PM PDT Sunday for San Bernardino County
-     Mountains.
+     Valleys-Orange County Inland Areas-Riverside County
+     Mountains-San Bernardino and Riverside County Valleys-The
+     Inland Empire-San Diego County Mountains-San Diego County
+     Valleys-Santa Ana Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
      San Diego County Deserts-San Gorgonio Pass near Banning.
@@ -486,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...APR
+AVIATION/MARINE...MM
 
 
 </pre>
