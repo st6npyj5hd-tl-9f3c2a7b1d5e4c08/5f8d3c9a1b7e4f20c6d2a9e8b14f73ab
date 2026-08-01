@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-01T02:54:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-01T08:22:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-799
-FXUS66 KSGX 010002
+692
+FXUS66 KSGX 010618
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-502 PM PDT Fri Jul 31 2026
+1118 PM PDT Fri Jul 31 2026
 
 .SYNOPSIS...
 The heat is on across SoCal as high pressure strengthens over the
@@ -362,7 +362,6 @@ with a minimal chance for rainfall over the mountains.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -395,21 +394,26 @@ Wednesday into the latter half of next week.
 &&
 
 .AVIATION...
-010000Z....Coast...Patchy low clouds will gradually develop after
-04Z tonight and mostly fill coastal areas overnight. Bases will be
-700-1000 feet MSL with vis 3-5SM over mesas and higher coastal
-terrain. Intermittent scatter out with fluctuating IFR to VFR
-overnight is possible. Scatter out Saturday by 16Z. Similarly patchy
-low clouds will form locally along the coast after 06Z Sat, based at
-600-900 ft MSL.
+010600Z....Coasts...Very patchy low clouds based around 1200ft MSL
+have developed offshore and along the coast. Brief CIGs have already
+been observed at KSAN and KCRQ and intermittent CIGs will likely
+persist through the next several hours as these patchy clouds move
+in and out. Guidance is indicating that clouds should become more
+consistent in coverage closer to 10-12z, with bases closer to 0800-
+1100ft MSL and about 10 miles of inland extent. VIS restrictions to
+3-5SM expected over mesas and higher coastal terrain when clouds are
+present. Clouds will scatter out around 16z Saturday morning, with
+VFR prevailing into the afternoon. Similarly patchy low clouds will
+form locally along the coast after 06z Sunday, initially based at
+800-1100 ft MSL.
 
-.Valleys/Mountains/Deserts...VFR conditions with increasing high
-clouds AOA 20000 feet MSL through Saturday afternoon.
+.Valleys/Mountains/Deserts...VFR conditions prevails throughout
+the period with FEW high clouds AOA 20000 feet MSL.
 
 &&
 
 .MARINE...
-No hazardous marine weather is expected through Wednesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
@@ -451,7 +455,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
