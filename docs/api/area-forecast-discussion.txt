@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-01T08:22:18+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-01T13:23:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,18 +335,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-692
-FXUS66 KSGX 010618
+244
+FXUS66 KSGX 011204
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1118 PM PDT Fri Jul 31 2026
+504 AM PDT Sat Aug 1 2026
 
 .SYNOPSIS...
 The heat is on across SoCal as high pressure strengthens over the
@@ -363,33 +361,66 @@ with a minimal chance for rainfall over the mountains.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through tomorrow night...
 
-The warming trend continues as the center of a growing high pressure
-system moves over Arizona today. The system will peak in intensity
-and be centered near the southern Colorado River Valley by Saturday.
-This is when we can expect the hottest temperatures with highs well
-into the 90s for valleys and mountains of Orange and San Diego
-Counties and over 115 degrees across the lower deserts. The high
-weakens slightly on Sunday, but temperatures will still remain hot
-away from the immediate coast.
+The latest satellite imagery at midnight reveals that the marine
+layer continues to struggle over the inner socal bight waters,
+thanks partially in part to an eddy that has developed near Catalina
+and has helped to create a stronger offshore flow for San Diego
+County as a result. This is also helping to erode some of the marine
+layer that has already developed over Orange County, as SE`ly
+surface winds have picked up due to the coastal eddy. There will
+still likely be some additional low cloud development, and skies may
+periodically go broken right along the coastal areas through this
+morning, with ceilings hovering around 1000 ft MSL. Otherwise,
+mostly clear skies will prevail and set up for another very warm day
+with temperatures still running generally around 5 to 10 degrees
+above the average for this time of year. There has also been some
+recycled mid-level monsoonal moisture that has been streaming over
+the region this morning, which may allow for a very slight chance of
+a shower or two to develop over the mountains (likely only confined
+to the highest elevations), although confidence is low given the
+lack of instability over the region. Hi-res guidance also does not
+suggest much in the way of development later on, although given that
+there is some moisture present, and a monsoonal wave transitioning
+towards the area, which may help to destabilize the mid-levels later
+on, a possible shower or two cannot be ruled out. However, it is a
+lot less likely with very little instability aloft that these would
+become thunderstorms. Under a strengthening ridge, highs will still
+be running around 5 to 10 degrees above the seasonal average for
+this time of year for today.
 
-With the hot temperatures, please severely limit or postpone outdoor
-recreation if you are in areas away from the coast, since
-temperatures will be well into the 70s and 80s by the mid-morning
-hours. For those without A/C, make sure to go to air conditioned
-areas and drink plenty of water. Warm and humid nights in the
-60s/70s/80s will lead to less relief from the heat as well.
+By tomorrow, winds in the mid-levels will begin to shift to become
+more southwesterly, and draw in drier air along with it. This will
+help to impede the chance of afternoon shower and thunderstorm
+development over the mountains. The troughing upstream will also
+begin to influence the area with slightly lower heights that will
+begin a gradual cooling trend beginning tomorrow. There will also
+begin the presence of a more predominant onshore flow, and this will
+likely help to draw in the marine layer a little sooner, and with
+better coverage for the following night. In addition, this is also
+going to allow for winds to increase through San Gorgonio Pass, and
+along the desert slopes, with gusts up around 40 mph through the
+early evening. This will continue to likely be the case through
+Wednesday as stronger onshore flow remains in place.
 
-By early next week, the high weakens subtly. The position of where
-the high will go is still somewhat in flux. This will bring a
-degree or two of cooling for inland areas each day, but warm
-temperatures will still remain. Temperatures will stay near to
-slightly above normal by Monday onward next week. The high may go
-into a position that will bring in a subtle return of monsoonal
-moisture and greater humidity to the region, but rain chances
-still seem slim near 15% or less across our mountain areas by
-Wednesday into the latter half of next week.
+Monday through Friday...
+
+Subtle cooling will continue through the mid half of next week and
+conditions will remain dry, with temperatures still being above
+average. Thereafter, mid-level winds will begin to shift back to
+being from a more easterly direction, with better positioning of the
+high pressure center aloft to allow for some of these monsoonal
+waves to develop and advect moisture over our region. Temperatures
+will also start to gradually warm again during this period, with
+increased humidity values and an increasing chance of getting
+thunderstorm activity for our mountains and deserts (and possibly
+even all the way to the coastal locations, depending on the
+propagation of these monsoonal waves as they develop over the
+deserts to our southeast and then transition over our region. During
+this period, the marine layer will likely struggle to develop, given
+the increased mid to high level clouds moving overhead, in
+addition, with better offshore flow overnight.
 
 &&
 
@@ -428,12 +459,16 @@ more details, check the Coastal Hazard Message.
 
 &&
 
-.SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory until 3 AM PDT Saturday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
-     High Surf Advisory until 5 PM PDT Saturday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...High Surf Advisory until 5 PM PDT this afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
      Heat Advisory until 8 PM PDT Sunday for Orange County Coastal
      Areas-San Bernardino County Mountains-San Diego County
@@ -454,8 +489,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...Munyan
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
