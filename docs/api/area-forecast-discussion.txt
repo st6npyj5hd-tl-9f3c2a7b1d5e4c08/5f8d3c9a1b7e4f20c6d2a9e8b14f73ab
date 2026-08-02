@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-02T02:53:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-02T08:25:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-442
-FXUS66 KSGX 020103
+649
+FXUS66 KSGX 020558
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-603 PM PDT Sat Aug 1 2026
+1058 PM PDT Sat Aug 1 2026
 
 .SYNOPSIS...
 The peak of the heat will occur through the weekend as an area of
@@ -362,7 +362,6 @@ the end of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -398,26 +397,23 @@ increased humidity across the entire region.
 
 &&
 
-.AVIATION...020100Z....Coasts...Areas of low clouds based around
-700-1000 feet MSL will gradually form after 06Z and overnight, but
-in somewhat random and intermittent fashion. Local vis 3-5SM on
-higher coastal terrain. Any cigs Sunday morning will scatter out by
-16Z Sunday. Similarly patchy clouds with similar bases expected to
-again impact coastal areas after 06Z Mon.
+.AVIATION...
+020600Z....Coasts...Patchy low clouds have been developing off the
+coast and sporadically along the immediate coast at this hour.
+Intermittent CIGs expected across the coastal TAF sites over the
+next few hours, with more consistent coverage expected around 10-
+12z. Clouds extending around 10 miles inland with localized VIS
+restrictions to 3-5SM on higher coastal terrain. Any CIGs will
+scatter out by 16z Sunday. Slightly less patchy clouds with similar
+bases expected to develop again after 03z Mon.
 
 .Valleys/Mountains/Deserts...Mostly clear and VFR conditions to
-continue through Sunday afternoon.
+continue through Sunday evening.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Wednesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -442,7 +438,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...CSP
+AVIATION/MARINE...Munyan
 
 
 </pre>
