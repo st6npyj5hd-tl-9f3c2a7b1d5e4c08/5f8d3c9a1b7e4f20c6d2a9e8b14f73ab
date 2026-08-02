@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-02T08:25:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-02T13:23:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -335,27 +335,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-649
-FXUS66 KSGX 020558
+631
+FXUS66 KSGX 021214
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1058 PM PDT Sat Aug 1 2026
+514 AM PDT Sun Aug 2 2026
 
 .SYNOPSIS...
-The peak of the heat will occur through the weekend as an area of
-high pressure stays over the region. The weather system will weaken
-and push slowly eastward through the upcoming week, bringing a
-slight cool down and increasing winds across the mountains and the
-deserts. There will be increasing monsoonal moisture as well, but
-chances for rainfall in the mountains continues to look limited by
-the end of next week.
+Still very warm conditions are in place with a subtle cooldown
+through the middle of the week. There will be increasing
+monsoonal moisture for the latter half of the week, with
+increasing chances of precipitation, although this looks to be
+only a slight chance, with above average temperatures continuing
+on into the upcoming weekend.
 
 &&
 
@@ -363,49 +360,67 @@ the end of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through tomorrow night...
 
-The thin marine layer this morning allowed for only patchy clouds
-near the coast and far western valleys. The strength of the high
-pressure aloft is creating a larger inversion, where clouds may
-stick to the coast through the afternoon at times. This high has
-peaked near 600 dm, leading to the hottest temperatures of this heat
-wave. Temperatures were slightly increased for the afternoon based
-on yesterday`s heating. High temperatures will be well into the 90s
-for coastal valleys, near 100-110 across the inland empire and San
-Diego foothills, and upper 80s and 90s in the mountain areas. The
-high pressure system begins to weaken on Sunday, allowing for a few
-degrees of cooling. With the hot weather this weekend, heat risk
-will be moderate to high, so please take proper precautions if going
-outdoors. Outdoor recreation is discouraged during the daytime!
+The latest satellite imagery reveals that the marine layer has
+completely inundated all of the coastal areas of both Orange and
+San Diego counties, extending up to 10 miles inland for some
+portions of the inland areas, and even making its way far enough
+east for some areas of patchy fog in and around the I-15 corridor,
+so be advised and watch for quickly deteriorating visibilities if
+you happen to be traveling through some of these areas of fog
+this morning. Ceilings are generally hovering just under 1000 ft
+MSL for most locations , and a little lower from where they were
+yesterday. Otherwise, mostly clear skies will prevail and set up
+for another very warm day with temperatures still running
+generally around 5 to 10 degrees above the average for this time
+of year. Winds aloft in the mid-levels have began to shift and
+will become more southwesterly throughout today, drawing in drier
+air along with it. This will help to impede the chance of
+afternoon shower and thunderstorm development over the mountains.
+The troughing upstream will also begin to influence the area with
+slightly lower heights that will begin a gradual cooling trend
+that will continue through mid week. There will also begin the
+presence of a more predominant onshore flow, and this will likely
+help to draw in the marine layer a little sooner, and with better
+coverage for tonight. In addition, this is also going to allow for
+winds to increase through San Gorgonio Pass, and along the desert
+slopes, with gusts up around 40 mph through the early evening
+later today.
 
-The high weakens slowly, then stabilizes by Monday into the upcoming
-week. This will bring temperatures near to 5 degrees above normal
-with minimal day to day changes. Temperatures in the 90s to near 100
-in the Inland Empire can be expected, with lower deserts seeing a
-slower cooldown with highs remaining over 110 degrees. Highs will be
-in the 80s for coastal valleys. Marine layer clouds will form each
-night and morning within 15 miles of the coast next week.
+Tuesday through Saturday...
 
-The high pressure system will eventually move eastward by Wednesday
-into the latter part of next week, bringing in greater monsoonal
-moisture. PWAT`s rise over an inch in the mountain and desert
-regions, but rainfall does not seem likely over the mountains by
-Thursday and Friday with chances near 15% or less. Temperatures will
-stay relatively unchanged from the beginning of the week, with
-increased humidity across the entire region.
+The pattern remains rather stagnant through mid week, with the
+subtle cooling and conditions remaining dry, and gusty winds in the
+passes during the afternoon. Thereafter, mid-level winds will begin
+to shift back to being from a more easterly direction, with better
+positioning of the high pressure center aloft to allow for some of
+these monsoonal waves to develop and advect moisture over our
+region. Temperatures will also start to gradually warm again during
+this period, with increased humidity values and an increasing chance
+of getting thunderstorm activity for our mountains and deserts (and
+possibly even all the way to the coastal locations, depending on the
+propagation of these monsoonal waves as they develop over the
+deserts to our southeast and then transition over our region.
+Guidance has also been showing an increase in moisture content and
+precipitable water going into the beginning of the following
+weekend, which may further increase chances of developing
+thunderstorms during the afternoon over the mountains. During this
+period, the marine layer will likely struggle to develop, given
+the increased mid to high level clouds moving overhead, in
+addition, with better offshore flow overnight.
 
 &&
 
 .AVIATION...
-020600Z....Coasts...Patchy low clouds have been developing off the
-coast and sporadically along the immediate coast at this hour.
-Intermittent CIGs expected across the coastal TAF sites over the
-next few hours, with more consistent coverage expected around 10-
-12z. Clouds extending around 10 miles inland with localized VIS
-restrictions to 3-5SM on higher coastal terrain. Any CIGs will
-scatter out by 16z Sunday. Slightly less patchy clouds with similar
-bases expected to develop again after 03z Mon.
+021200Z....Coasts...Low clouds have filled in completely for the
+coastal sites, with bases generally around 800-1000 ft MSL. Clouds
+extending around 10 miles inland with localized VIS restrictions to
+3-5SM on higher coastal terrain. Any CIGs will begin scatter out by
+16z Sunday. Slightly less patchy clouds with similar bases expected
+to develop again after 03z Mon, then continue to fill in throughout
+the rest of the forecast period, with similar CIGs, only slightly
+lower. These low clouds will begin to scatter out 17Z Monday.
 
 .Valleys/Mountains/Deserts...Mostly clear and VFR conditions to
 continue through Sunday evening.
@@ -417,13 +432,20 @@ No hazardous marine conditions are expected through Wednesday.
 
 &&
 
-.SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Sunday for Orange County Coastal
-     Areas-San Bernardino County Mountains-San Diego County
-     Coastal Areas.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
-     Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
-     Valleys-Orange County Inland Areas-Riverside County
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Coastal Areas-San Bernardino County Mountains-San Diego
+     County Coastal Areas.
+
+     Extreme Heat Warning until 8 PM PDT this evening for Apple and
+     Lucerne Valleys-Orange County Inland Areas-Riverside County
      Mountains-San Bernardino and Riverside County Valleys-The
      Inland Empire-San Diego County Mountains-San Diego County
      Valleys-Santa Ana Mountains and Foothills.
@@ -437,8 +459,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Munyan
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
