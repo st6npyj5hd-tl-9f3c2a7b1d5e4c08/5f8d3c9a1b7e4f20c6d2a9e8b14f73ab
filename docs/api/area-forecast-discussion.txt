@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-03T02:54:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-03T09:47:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,24 +335,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-904
-FXUS66 KSGX 022338
+524
+FXUS66 KSGX 030924
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-438 PM PDT Sun Aug 2 2026
+224 AM PDT Mon Aug 3 2026
 
-.SYNOPSIS... Still very warm conditions are in place with a subtle
-cooldown through the middle of the week. Monsoonal moisture is
-expected to increase by the middle and end of the week, but chances
-for rainfall remain small. Temperatures will continue to be near to
-slightly above average as well.
+.SYNOPSIS...
+Not quite as hot for the latter half of the week, but with high
+temperatures still around 5 degrees above average for inland
+areas. Monsoonal moisture in easterly flow aloft may return for
+Thursday into next weekend, but with chances for measurable
+rainfall each afternoon for the mountains from showers or
+thunderstorms mostly less than 15 percent.
 
 &&
 
@@ -360,68 +360,82 @@ slightly above average as well.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Wednesday)...
+Temperatures will remain above average for this week through will
+moderate slightly with high temperatures for inland areas around 5
+to 10 degrees above average today and around 5 degrees above
+average for the latter half of the week. High temperatures for
+today will range from the mid 70s to lower 80s near the coast to
+the mid 90s to 105 for the Inland Empire with 112 to 116 for the
+lower deserts. Night and morning low clouds will spread into
+coastal areas and occasionally the far western valleys late each
+night.
 
-...UPDATED AVIATION DISCUSSION...
+&&
 
-High pressure has began to weaken across the Desert Southwest.
-This will begin to bring subtle increases in cooling and onshore
-flow over the next few days. Temperatures will not be as hot for
-areas west of the mountains this afternoon, though the desert
-regions will be similar to yesterday. Onshore winds will slightly
-stronger across the mountain desert slopes and adjacent deserts
-later this afternoon and evening nearing 25-40 MPH. These winds will
-occur again on Monday. The marine layer will remain thinner, with
-patchy clouds and fog closer to the coast each morning.
+.LONG TERM (Thursday through Sunday)...
+There may be some influx of monsoonal moisture in easterly flow
+aloft into the mountains and deserts for Thursday through next
+weekend. High temperatures will change little or may decrease
+slightly in the lower deserts depending on the amount of any
+moisture influx. Low temperatures will warm slightly.
 
-A few degrees of cooling can be expected into the middle of the week
-as subtle changes in high`s movement occur. Temperatures will still
-remain on the warmer side with highs slightly above normal for
-inland valleys, mountains, and deserts with areas of moderate heat
-risk. Models indicate an increase in monsoonal moisture moving into
-the area during this time period as well with the largest increase
-expected on Wednesday, so we can expect more humid conditions by
-this time onward. Cumulus clouds are likely to form over the
-mountains each afternoon starting Wednesday through later in the
-week. Chances for rainfall still look minimal near 20% or less each
-day over the higher terrain. Other areas look to see highs near to
-slightly above normal with dry weather.
+High temperatures for Thursday through Saturday will generally
+range from a few degrees above average near the coast to 4 to 8
+degrees above average for inland areas. High temperatures will
+range from the mid 70s to lower 80s near the coast to the 90s to
+104 for the Inland Empire with 108 to 114 for the lower deserts.
+
+Chances for measurable rainfall each afternoon for the mountains
+from showers or thunderstorms mostly less than 15 percent.
 
 &&
 
 .AVIATION...
-010000Z....Coasts/Valleys...Low clouds based 800-1200 ft MSL have
-started to develop along the immediate SD coastline; expect clouds
-to move into coastal regions after 03Z, increasing in coverage and
-moving in to 15-20 miles inland through 13Z. Vis 2-5 SM for higher
-coastal terrain. Low clouds will begin to clear from inland areas 15-
-16Z Monday then from the coast 16-17Z. Similar based clouds will
-develop and move inland again after 02-03Z Mon.
+010600Z....Coasts/Valleys...Low clouds based 1000-1400 ft MSL are
+increasing in coverage in the coastal areas at this hour. KSAN and
+KCRQ are already experiencing CIG impacts and KSNA will likely soon
+see CIG impacts. Low clouds could spread up to 15 miles inland by
+sunrise. Patches of fog could restrict VIS to 2-5 miles on higher
+coastal terrain. Low clouds and fog will begin to clear from inland
+areas 15-16Z then from the coast 16-17Z. Similar based clouds will
+develop and move inland again after 02-03Z Tue.
 
-.Mountains/Deserts...VFR conditions expected through the TAF period
-with predominantly clear skies.
+Mountains/Deserts...Expect mostly clear skies with unrestricted
+VIS.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Thursday.
+
+&&
+
+.CLIMATE...
+
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Warning until 8 PM PDT Monday for Coachella Valley-
-     Riverside County Mountains-San Bernardino and Riverside
-     County Valleys-The Inland Empire-San Diego County Deserts-
-     San Diego County Mountains-San Gorgonio Pass near Banning.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Apple and
-     Lucerne Valleys-Orange County Inland Areas-San Diego County
-     Valleys-Santa Ana Mountains and Foothills.
+CA...Extreme Heat Warning until 8 PM PDT Monday for Riverside County
+     Mountains-San Bernardino and Riverside County Valleys-The
+     Inland Empire-San Diego County Mountains.
 
      Heat Advisory until 8 PM PDT Monday for San Bernardino County
      Mountains.
+
+     Extreme Heat Warning from 10 AM Monday to 8 PM PDT Wednesday for
+     Apple and Lucerne Valleys.
+
+     Extreme Heat Warning until 8 PM PDT Tuesday for Coachella Valley-
+     San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -429,8 +443,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...CSP
+PUBLIC...17
+AVIATION/MARINE...PG
 
 
 </pre>
