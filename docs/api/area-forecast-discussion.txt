@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-04T02:38:52+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-04T08:38:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -336,19 +336,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-657
-FXUS66 KSGX 032333
+893
+FXUS66 KSGX 040755
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-433 PM PDT Mon Aug 3 2026
+1255 AM PDT Tue Aug 4 2026
 
-.SYNOPSIS...A ridge of high pressure will remain over the
-Desert Southwest for much of the week. Little day to day changes in
-temperatures is expected with warmer nights continuing. Monsoonal
-moisture and humidity will increase by Wednesday into the weekend,
-but chances for rainfall remain on the lower end.
+.SYNOPSIS...
+Moderate HeatRisk for the mountains and Inland Empire will
+continue through Saturday with major to locally moderate HeatRisk
+for the deserts. There could be some influx of monsoonal moisture
+in southeast flow aloft for next Sunday and Monday with a slight
+chance of afternoon showers and thunderstorms for the mountains.
 
 &&
 
@@ -356,54 +357,73 @@ but chances for rainfall remain on the lower end.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Thursday)...
+The strength of high pressure over southern California will change
+little through Wednesday, then slowly strengthen for Thursday
+through Saturday. There may be a shallow influx of lower level
+moisture into the lower deserts for tonight and Thursday from
+outflow from thunderstorms over northern Mexico. Nights would be a
+little warmer for the lower deserts and days a little cooler if
+that happens.
 
-...UPDATED AVIATION DISCUSSION...
+HeatRisk will decrease slightly for today and Wednesday, then
+increase slightly for Thursday through Saturday but will generally
+be moderate for the Inland Empire and for the mountains except at
+the highest elevations with major to occasionally moderate
+HeatRisk for the deserts. The Extreme Heat Warning for the deserts
+has been extended through Saturday and a Heat Advisory has been
+issued for the Inland Empire and for the mountains for today
+through Saturday.
 
-A 595 dm high has expanded over Southern California to New Mexico
-today. Models indicate this pressure system not moving very much
-through the work week, leading to minor day to day changes in the
-overall weather pattern. Temperatures will go down a touch through
-the middle of the week, but remain close to average for the coastal
-areas and adjacent valleys, with highs 5-10 degrees above normal for
-inland regions. Coastal low clouds will move into areas within 10
-miles of the coast each night and morning as the marine layer depth
-remains relatively unchanged this week.
+High temperatures through Thursday will be generally a few degrees
+above average near the coast to 5 to locally 10 degrees above
+average for some inland areas. High temperatures will range from
+the mid to upper 70s near the coast to the 90s to 103 for the
+Inland Empire with 110 to 115 for the lower deserts.
 
-Subtle movements in the high`s position, will dictate a change in
-the monsoonal moisture pattern. By Wednesday into the weekend,
-models indicate a slight shift in the high closer to the Four
-Corners region with better easterly flow aloft. This is looking more
-likely to occur, which will increase humidity overall for everyone;
-we will also see increasing yet subtle chances for showers and weak
-thunderstorms over the peninsular (Julian to Big Bear) mountain
-spine. Chances remain minimal to none by Thursday and Friday. Model
-agreement begins to diverge some on where the high exactly ends up
-by the weekend into early next week, somewhere between southern
-Nevada and the Four Corners. Ensemble members focus the best chance
-for rainfall by this weekend into early next week, but confidence on
-any rainfall occurring is low at this time. The high may strengthen
-again by later this week as well, which would increase temperatures
-slightly yet again. Our message remains the same that elevated heat
-risk continues through the week!
+Night and morning low clouds will spread into coastal areas late
+each night.
+
+&&
+
+.LONG TERM (Friday through Monday)...
+Slow warming of high temperatures will continue for inland areas
+through Saturday with high temperatures on Saturday ranging from
+the mid 70s to lower 80s near the coast to the mid 90s to 105 for
+the Inland Empire with 112 to 116 for the lower deserts.
+
+For Sunday and Monday, high pressure will begin to slowly weaken
+with the flow aloft becoming more southeasterly. This would allow
+for some additional influx of monsoonal moisture into the area.
+High temperatures for Monday of next week would be within a few
+degrees of average for the coast, valleys, and mountains and a
+few degrees above average for the deserts. Low temperatures would
+be a few degrees above average for the coast and valleys and 5 to
+10 degrees above average for the mountains and deserts.
+
+High temperatures for next Monday would range from the mid to
+upper 70s near the coast to the 90s for the Inland Empire with 106
+to 110 for the lower deserts. There will also be a slight chance
+of showers and thunderstorms for the mountains for Sunday
+afternoon and Monday afternoon.
 
 &&
 
 .AVIATION...
-032330Z....Coasts/Valleys...Some low clouds have been hanging around
-at 1,800ft MSL along the San Diego coast throughout the day. Low
-clouds will increase in coverage and move onshore into San Diego
-County beginning 01-03Z and Orange County 04-06Z. Low clouds will
-spread 15-20 miles inland by 06-09Z. Minor vis reductions (3-6SM)
-possible for elevated inland valleys where clouds intersect terrain.
-Low clouds clear 16-17Z with VFR conditions through 00Z.
+030500Z....Coasts/Valleys...Low clouds with bases 1200-1400 ft MSL
+moving ashore and increasing in coverage at this hour. Low clouds
+will spread up to 15 miles inland by 14Z. CIG impacts expected at
+coastal TAF sites from 06Z to 16Z. Patchy fog could reduce VIS to 3-
+5 miles where clouds and terrain intersect. Low clouds and fog clear
+to the coast 16-17Z followed by VFR conditions through 00Z Wed.
 
-.Mountains/Deserts...Mostly clear skies and VFR conditions expected
+.Mountains/Deserts...Mostly clear skies and unrestricted VIS
 through the TAF period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
@@ -411,22 +431,17 @@ No hazardous marine conditions are expected through Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning until 8 PM PDT this evening for Riverside
-     County Mountains-San Bernardino and Riverside County
-     Valleys-The Inland Empire-San Diego County Mountains.
+CA...Heat Advisory from 10 AM Tuesday to 8 PM PDT Saturday for
+     Riverside County Mountains-San Bernardino County Mountains-
+     San Bernardino and Riverside County Valleys-The Inland
+     Empire-San Diego County Mountains.
 
-     Heat Advisory until 8 PM PDT this evening for San Bernardino
-     County Mountains.
-
-     Extreme Heat Warning until 8 PM PDT Wednesday for Apple and
-     Lucerne Valleys.
-
-     Extreme Heat Warning until 8 PM PDT Tuesday for Coachella Valley-
-     San Diego County Deserts-San Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Saturday for Apple and
+     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
+     San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -434,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Villafane
+PUBLIC...17
+AVIATION/MARINE...PG
 
 
 </pre>
