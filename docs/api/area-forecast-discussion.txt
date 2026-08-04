@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-03T19:38:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-04T02:38:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,20 +333,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-560
-FXUS66 KSGX 031835
+657
+FXUS66 KSGX 032333
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1135 AM PDT Mon Aug 3 2026
+433 PM PDT Mon Aug 3 2026
 
 .SYNOPSIS...A ridge of high pressure will remain over the
 Desert Southwest for much of the week. Little day to day changes in
@@ -359,6 +355,9 @@ but chances for rainfall remain on the lower end.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 A 595 dm high has expanded over Southern California to New Mexico
 today. Models indicate this pressure system not moving very much
@@ -390,15 +389,16 @@ risk continues through the week!
 &&
 
 .AVIATION...
-031730Z....Coasts/Valleys...Low clouds based near 1300 ft MSL at the
-coastline will clear out within the next 1-2 hours. Low clouds based
-1000-1400 ft MSL return to coastal San Diego County starting 01-02z
-Tue and coastal Orange County starting 04-06z Tue. Clouds extend 15-
-20 miles inland by 10-11z. 20-30% chance for BKN cigs at KONT after
-12z. Minor vis reductions (3-6SM) possible for elevated inland
-valleys. Clouds scatter back to the coastline by 17-18z.
+032330Z....Coasts/Valleys...Some low clouds have been hanging around
+at 1,800ft MSL along the San Diego coast throughout the day. Low
+clouds will increase in coverage and move onshore into San Diego
+County beginning 01-03Z and Orange County 04-06Z. Low clouds will
+spread 15-20 miles inland by 06-09Z. Minor vis reductions (3-6SM)
+possible for elevated inland valleys where clouds intersect terrain.
+Low clouds clear 16-17Z with VFR conditions through 00Z.
 
-.Mountains/Deserts...Expect mostly clear skies with unrestricted VIS.
+.Mountains/Deserts...Mostly clear skies and VFR conditions expected
+through the TAF period.
 
 &&
 
@@ -410,6 +410,7 @@ No hazardous marine conditions are expected through Thursday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -434,7 +435,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
