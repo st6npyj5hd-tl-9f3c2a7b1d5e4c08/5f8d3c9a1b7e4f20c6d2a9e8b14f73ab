@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-05T14:10:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-05T19:36:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -330,26 +330,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-610
-FXUS66 KSGX 050812
+398
+FXUS66 KSGX 051905
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-112 AM PDT Wed Aug 5 2026
+1205 PM PDT Wed Aug 5 2026
 
 .SYNOPSIS...
-There will be a gradual warming trend through Saturday with slowly
-increasing HeatRisk. On Saturday, there will be moderate HeatRisk
-for the mountains and Inland Empire with major to locally extreme
-HeatRisk for the deserts. Night and morning low clouds will
-continue to spread into coastal areas and occasionally the far
-western valleys late each night. There will be slowly increasing
-monsoonal moisture in east to southeast flow aloft into early next
-week with a few showers over the mountains on Thursday afternoon
-and a slight chance of showers and thunderstorms for the mountains
-for each afternoon beginning on Friday. High temperatures for
-inland areas for Sunday and Monday will not be quite as hot.
+Increased HeatRisk expected through Saturday with moderate HeatRisk
+for the mountains and Inland Empire with major to extreme HeatRisk
+in the deserts. There is a chance of showers and isolated
+thunderstorms in the mountains each afternoon through Tuesday.
+Coastal areas will continue to see low clouds each night and morning
+through the forecast period.
 
 &&
 
@@ -357,58 +352,49 @@ inland areas for Sunday and Monday will not be quite as hot.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Friday)...
-Not much change in temperatures is expected for today with slight
-warming on Thursday and a little greater warming for Friday and
-Saturday. High temperatures for today through Saturday will warm a
-few degrees near the coast to around 5 degrees for inland areas.
+Visible satellite at 11 AM was showing marine layer low clouds
+slowly clearing from the coast. The inversion on the 12Z KNKX
+sounding was about 10 degrees so clearing at the beaches this
+afternoon may be patchy. Low clouds will remain constant at the
+coast each night and morning through the forecast period, reaching
+into portions of the western valleys at times.
 
-Night and morning low clouds will continue to spread inland into
-coastal areas each night and into the far western valleys
-occasionally late each night.
+Thursday through Saturday highs will be above average near the coast
+to 5 to locally 10 degrees above average for some inland areas. Low
+temperatures will also run above average, most noticeable in the
+mountains and deserts where lows will be 10 to 15 degrees above
+average. For the Inland Empire and mountains, widespread moderate
+HeatRisk is expected which means that folks who are sensitive heat,
+especially those without consistent cooling/hydration will be most
+impacted. In the deserts, major to locally extreme HeatRisk
+indicates anyone may see negative impacts from the heat if
+precautions aren`t taken. Make sure to stay hydrated and if possible
+avoid strenuous activity during the hottest parts of the day (10 AM
+to 4 PM).
 
-There could be a few showers over the mountains on Thursday
-afternoon as shown by some of the higher-resolution models
-including the HRRR, CANSAC WRF, and RRFS with a few showers and
-isolated thunderstorms possible on Friday afternoon. Chances for
-measurable rainfall are 15 percent or less each day.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High temperatures on Saturday will range from few degrees above
-average near the coast to 5 to 10 degrees above average for the
-deserts. High temperatures on Saturday will range from the mid 70s
-to lower 80s near the coast to the mid 90s to 105 for the Inland
-Empire with 112 to 116 for the lower deserts. On Saturday, there
-will be moderate HeatRisk for the mountains and Inland Empire with
-major to locally extreme HeatRisk for the deserts.
-
-For Sunday and Monday, high pressure will slowly weaken with the
-flow aloft becoming more southeasterly. Low-level moisture will
-slowly increase for the deserts with high temperatures becoming
-not quite as hot for inland areas.
-
-High temperatures on Monday will be mostly within a few degrees of
-average to a few to around 5 degrees above average for the
-deserts. High temperatures on Monday will range from the mid 70s
-to lower 80s near the coast to the 90s to around 100 for the
-Inland Empire with 106 to 110 for the lower deserts.
+The flow aloft will turn southeasterly Thursday and remain
+southeasterly into early next week. This would allow for some
+monsoonal moisture into the area and bring a 15 to 20 percent chance
+of showers and isolated thunderstorms to the mountains each
+afternoon. Through Friday, there is only a 15 percent chance of
+rainfall rates exceeding 0.50" per hour in any showers that develop
+in the mountains. Current forecast follows the NBM which has chances
+each afternoon, with most widespread coverage Sunday and Monday.
 
 &&
 
 .AVIATION...
-050500Z....Coasts/Valleys...Patchy low clouds at the beaches this
-hour will slowly increase in coverage and spread about 15 miles or
-more inland by 14Z. Expect bases 1000 to 1300 ft MSL with CIG
-impacts at coastal TAF sites 06Z-18Z. Minor CIG and VIS impacts
-possible at KONT around 14Z. Patchy fog could reduce VIS to 3-5
-miles where clouds and terrain intersect. Expect clearing from
-inland to the coast around 18Z followed by VFR conditions through
-00Z Thu.
+051800Z....Coasts/Valleys...Satellite shows low clouds are quickly
+eroding back towards the coast, with clearing expected for coastal
+TAF sites by 19z. Patchy stratus may linger at the beaches through
+the afternoon. Low clouds redevelop and move inland again this
+evening, likely after 03z Thur, with slightly lower bases around
+1000-1500ft MSL. VIS down to 3-5SM for inland valleys and coastal
+terrain. Clearing on Thursday will occur a little earlier, likely by
+16-18z.
 
-Mountains/Deserts...SCT-BKN clouds AOA 20,000ft MSL with
-unrestricted VIS through Wed afternoon.
+.Mountains/Deserts...SCT-BKN clouds AOA 20,000ft MSL with
+unrestricted VIS through Thursday.
 
 &&
 
@@ -420,6 +406,7 @@ No hazardous marine conditions are expected through Saturday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -439,8 +426,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...PG
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
