@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-06T08:37:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-06T14:11:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -325,24 +325,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=30&glossary=0">30</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-519
-FXUS66 KSGX 060611
+857
+FXUS66 KSGX 061212
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1111 PM PDT Wed Aug 5 2026
+515 AM PDT Thu Aug 6 2026
 
 .SYNOPSIS...
-Increased HeatRisk expected through Saturday with moderate HeatRisk
-for the mountains and Inland Empire with major to extreme HeatRisk
-in the deserts. There is a chance of showers and isolated
-thunderstorms in the mountains each afternoon through Tuesday.
-Coastal areas will continue to see low clouds each night and morning
-through the forecast period.
+The HeatRisk will continue to slowly increase through Saturday
+with widespread major HeatRisk for the deserts and widespread
+moderate HeatRisk for Inland Empire and for the mountains below
+6500 feet. There will be a slight chance of afternoon showers and
+thunderstorms for the mountains through next Tuesday with the
+relatively greater chances for this afternoon and again for Sunday
+through Tuesday. Gradual cooling and drying will then follow for
+the rest of next week.
 
 &&
 
@@ -350,60 +354,69 @@ through the forecast period.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Saturday)...
+Ensemble output shows precipitable water values peaking this
+afternoon, then declining into Saturday afternoon. The peak hourly REFS
+90th percentile rainfall is around 0.75 inch for this afternoon
+and around 0.25 inch for Friday afternoon. There is a slight
+chance of showers and thunderstorms for the mountains for this
+afternoon with slowly decreasing chances for Friday afternoon and
+Saturday afternoon.
 
-...UPDATED AVIATION DISCUSSION...
+The HeatRisk will continue to slowly increase through Saturday
+with widespread major HeatRisk for the deserts and widespread
+moderate HeatRisk for Inland Empire and for the mountains below
+6500 feet. High temperatures on Saturday will be a few degrees
+above average near the coast to 5 to 10 degrees above average for
+the deserts. High temperatures on Saturday will range from the mid
+70s to lower 80s near the coast to the mid 90s to 105 for the
+Inland Empire with 110 to 114 for the lower deserts.
 
-Visible satellite at 11 AM was showing marine layer low clouds
-slowly clearing from the coast. The inversion on the 12Z KNKX
-sounding was about 10 degrees so clearing at the beaches this
-afternoon may be patchy. Low clouds will remain constant at the
-coast each night and morning through the forecast period, reaching
-into portions of the western valleys at times.
+Night and morning will continue to spread into coastal areas, but
+with some occasional disruptions in coverage from mid level
+monsoonal moisture and clouds.
 
-Thursday through Saturday highs will be above average near the coast
-to 5 to locally 10 degrees above average for some inland areas. Low
-temperatures will also run above average, most noticeable in the
-mountains and deserts where lows will be 10 to 15 degrees above
-average. For the Inland Empire and mountains, widespread moderate
-HeatRisk is expected which means that folks who are sensitive heat,
-especially those without consistent cooling/hydration will be most
-impacted. In the deserts, major to locally extreme HeatRisk
-indicates anyone may see negative impacts from the heat if
-precautions aren`t taken. Make sure to stay hydrated and if possible
-avoid strenuous activity during the hottest parts of the day (10 AM
-to 4 PM).
+&&
 
-The flow aloft will turn southeasterly Thursday and remain
-southeasterly into early next week. This would allow for some
-monsoonal moisture into the area and bring a 15 to 20 percent chance
-of showers and isolated thunderstorms to the mountains each
-afternoon. Through Friday, there is only a 15 percent chance of
-rainfall rates exceeding 0.50" per hour in any showers that develop
-in the mountains. Current forecast follows the NBM which has chances
-each afternoon, with most widespread coverage Sunday and Monday.
+.LONG TERM (Sunday through Wednesday)...
+The Extreme Heat Warning for the deserts and Heat Advisory for the
+mountains and Inland Empire has been extended through Sunday with
+only a slight decline in HeatRisk on Sunday. Greater declines are
+expected for Monday and Tuesday with moderate HeatRisk for next
+Tuesday confined mostly to the deserts.
+
+Ensemble output shows another peak in precipitable water values
+for Sunday afternoon, similar to the peak for this afternoon, then
+a gradual slow decline through next week. A slight chance for
+afternoon showers and thunderstorms for the mountains will
+continue for Sunday through Tuesday with gradual cooling and
+drying for the rest of next week. For Thursday of next week, high
+temperatures for the deserts and near the coast will be around
+average and could be as much as 4 to 8 degrees below average for
+the inland valleys. For Thursday of next week, high temperatures
+could range from the 70s near the coast to the mid 80s to mid 90s
+for the Inland Empire with 106 to 110 for the lower deserts.
 
 &&
 
 .AVIATION...
-060600Z....Coasts/Valleys...Areas of low clouds based 1200-1700 ft
-MSL have developed over coastal areas late this evening.
-Intermittent cigs at coastal TAF sites should become more persistent
-by 12z Thu as the low cloud layer slowly becomes more uniform
-overnight. Clouds may reach up to 20 miles inland Thursday morning
-before scattering back to the coastline by 16z. VFR conditions
-expected Thursday afternoon and evening with low chances for any
-cigs before 06z Fri. Thereafter, clouds will slowly develop over
-coastal areas with slightly lower bases and patchier coverage than
-tonight.
+061100Z....Coasts/Valleys...Areas of low clouds based 1200-1700 ft
+MSL continue to linger over coastal areas and western valleys early
+this morning. Coverage will remain partial through this morning with
+clouds intermittently impacting coastal TAF sites. Clouds scatter to
+the coastline by 16z Thu. VFR conditions expected Thursday afternoon
+and evening with very low chances for any cigs before 06z Fri.
+Thereafter, clouds will slowly develop over coastal areas with
+slightly lower bases and patchier coverage than this morning.
 
-.Mountains/Deserts...ISO SHRA/TSRA (10% chance) may develop along
+.Mountains/Deserts...ISO SHRA/TSRA (15% chance) may develop along
 mtn ridges 20-23z Thu. Otherwise, SCT-BKN clouds AOA 20,000ft MSL
 with unrestricted VIS through Thursday evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
@@ -411,18 +424,17 @@ No hazardous marine conditions are expected through Saturday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Saturday for Riverside County
+CA...Heat Advisory until 8 PM PDT Sunday for Riverside County
      Mountains-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-San Diego
      County Mountains.
 
-     Extreme Heat Warning until 8 PM PDT Saturday for Apple and
-     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
-     San Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
+     Valleys-Coachella Valley-San Diego County Deserts-San
+     Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -430,7 +442,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...17
 AVIATION/MARINE...KW
 
 
