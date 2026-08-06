@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-06T02:39:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-06T08:37:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -328,13 +328,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-398
-FXUS66 KSGX 051905
+519
+FXUS66 KSGX 060611
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1205 PM PDT Wed Aug 5 2026
+1111 PM PDT Wed Aug 5 2026
 
 .SYNOPSIS...
 Increased HeatRisk expected through Saturday with moderate HeatRisk
@@ -349,6 +349,9 @@ through the forecast period.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Visible satellite at 11 AM was showing marine layer low clouds
 slowly clearing from the coast. The inversion on the 12Z KNKX
@@ -382,17 +385,20 @@ each afternoon, with most widespread coverage Sunday and Monday.
 &&
 
 .AVIATION...
-051800Z....Coasts/Valleys...Satellite shows low clouds are quickly
-eroding back towards the coast, with clearing expected for coastal
-TAF sites by 19z. Patchy stratus may linger at the beaches through
-the afternoon. Low clouds redevelop and move inland again this
-evening, likely after 03z Thur, with slightly lower bases around
-1000-1500ft MSL. VIS down to 3-5SM for inland valleys and coastal
-terrain. Clearing on Thursday will occur a little earlier, likely by
-16-18z.
+060600Z....Coasts/Valleys...Areas of low clouds based 1200-1700 ft
+MSL have developed over coastal areas late this evening.
+Intermittent cigs at coastal TAF sites should become more persistent
+by 12z Thu as the low cloud layer slowly becomes more uniform
+overnight. Clouds may reach up to 20 miles inland Thursday morning
+before scattering back to the coastline by 16z. VFR conditions
+expected Thursday afternoon and evening with low chances for any
+cigs before 06z Fri. Thereafter, clouds will slowly develop over
+coastal areas with slightly lower bases and patchier coverage than
+tonight.
 
-.Mountains/Deserts...SCT-BKN clouds AOA 20,000ft MSL with
-unrestricted VIS through Thursday.
+.Mountains/Deserts...ISO SHRA/TSRA (10% chance) may develop along
+mtn ridges 20-23z Thu. Otherwise, SCT-BKN clouds AOA 20,000ft MSL
+with unrestricted VIS through Thursday evening.
 
 &&
 
@@ -425,7 +431,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...KW
 
 
 </pre>
