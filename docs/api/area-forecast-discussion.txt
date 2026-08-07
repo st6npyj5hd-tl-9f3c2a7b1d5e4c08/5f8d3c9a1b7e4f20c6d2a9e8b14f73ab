@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T00:02:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T07:17:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,16 +327,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-600
-FXUS66 KSGX 061823
+742
+FXUS66 KSGX 070549
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1123 AM PDT Thu Aug 6 2026
+1049 PM PDT Thu Aug 6 2026
 
 .SYNOPSIS...
 Through Sunday moderate HeatRisk expected in the mountains and
@@ -351,6 +353,8 @@ forecast period.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 Visible satellite at 11 AM was showing areas of high clouds across
 the area with low clouds off the coast. There remain chances of
@@ -386,23 +390,21 @@ isolated again Tuesday and Wednesday.
 &&
 
 .AVIATION...
-061800Z....Coasts/Valleys...Satellite shows low clouds have cleared
-the coast with FEW-SCT high clouds AOA 20,000ft MSL moving in from
-the south. VFR through the remainder of the afternoon. Patchy low
-clouds based 800-1200ft MSL tonight develop and move inland likely
-after 03z Fri, spreading north into Orange County after 07z. 50%
-chance of a brief CIG at KCRQ. VIS potentially down to 3-5SM for
-valleys and coastal terrain. Clearing out on Friday should occur at
-a similar pace to this morning, around 16-18z.
+070600Z....Coasts...Very patchy low clouds based 1000-1400 ft MSL
+are lingering near the coastline late this evening. Coverage of low
+clouds should slowly increase overnight. Greatest chance for cigs at
+coastal TAF sites will be 12-15z Fri. Any low clouds should clear to
+the coastline by 16-17z. VFR conditions expected Friday afternoon
+and evening. Low clouds return late Friday night with similar bases
+and with similarly patchy coverage.
 
-.Mountains/Deserts...ISO SHRA/TSRA (15% chance) may develop along
-mtn ridges 20-23z. Otherwise, FEW-SCT cu AOA 20,000ft MSL with
-unrestricted VIS into Friday.
+.Valleys/Mountains/Deserts...SCT to locally BKN clouds AOA 10000
+feet MSL through Friday afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -430,7 +432,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...KW
 
 
 </pre>
