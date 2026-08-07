@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T13:05:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T18:58:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,23 +327,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-496
-FXUS66 KSGX 071058
+403
+FXUS66 KSGX 071846
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-358 AM PDT Fri Aug 7 2026
+1146 AM PDT Fri Aug 7 2026
 
 .SYNOPSIS...
-Through Sunday, moderate HeatRisk is expected in the mountains
-and Inland Empire with major HeatRisk in the deserts. There are
-chances of showers and isolated thunderstorms in the mountains
-each afternoon through Tuesday. Gradually cooler and drier for the
-latter half of next week.
+Through Sunday moderate HeatRisk expected for the inland valleys and
+mountains with major HeatRisk in the deserts. There are chances of
+showers and thunderstorms in the mountains each afternoon through
+Tuesday. There are lower chances today and Saturday with increased
+thunderstorm chances early next week. Coastal areas will continue to
+see low clouds each night and morning through the forecast period.
 
 &&
 
@@ -351,66 +354,55 @@ latter half of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-Thunderstorms developed late Thursday evening on the leading edge
-of a Mesoscale Convective Vortex that has been move westward along
-border between southern California and northern Baja into an
-atmosphere that the late Thursday afternoon NKX sounding showed
-had a most unstable CAPE of 1649 J/kg and an LI of -6. The 06Z
-RRFS shows the center of the MCV turning toward the northwest and
-tracking along the vicinity of the southern California coast from
-northwestern San Diego County into southern Los Angeles County
-this morning. So far, there`s no indication that there is
-sufficient instability in that area for new thunderstorm development
-to occur this morning.
+An isolated convective cell developed around 8 AM along the San
+Diego coast starting in La Jolla and eventually moving offshore near
+Encinitas. A few lightning strikes occurred near Solana
+Beach/Encinitas. Rainfall totals out of that cell ranged from 0.03
+inches of rain to 0.36 inches between La Jolla and Encinitas. For
+the rest of the day, dry conditions are expected west of the
+mountains but there remains slight chances of showers and isolated
+thunderstorms in the mountains and High Desert. Latest high
+resolution guidance is indicating showers that develop today and
+Saturday will see rainfall rates 0.10 inch per hour or less, with
+only a 10 percent chance of rainfall rates exceeding that.
 
-The thunderstorms that have been moving toward the west across
-southern San Diego County overnight should cross the coast around
-4 AM and continue to weaken. Gages across southern San Diego
-County have shown rainfall of 0.25 to 0.50 inch. Through 3 AM,
-there had been 86 cloud-to-ground lightning strikes across San
-Diego County since late Thursday evening with 499 lightning
-flashes of all types (cloud-to-ground, in-cloud, cloud-to-cloud,
-etc.). Chances for afternoon showers and thunderstorms for the
-mountains and deserts will decrease for today and Saturday, versus
-the coverage on Thursday afternoon. Chances for afternoon showers
-and thunderstorms for the mountains and deserts will increase
-again to 15 to 20 percent on Sunday.
+Through Sunday high temperatures are expected to run 5 to 10 degrees
+above average for inland areas. Low temperatures will also run above
+average, most noticeable in the mountains and deserts where lows
+will be 10 to 15 degrees above average. For the inland valleys and
+mountains moderate HeatRisk is expected which means that folks who
+are sensitive heat, especially those without consistent
+cooling/hydration will be most impacted. In the deserts, major
+HeatRisk indicates anyone may see negative impacts from the heat if
+precautions aren`t taken. Make sure to stay hydrated and if possible
+avoid strenuous activity during the hottest parts of the day (10 AM
+to 4 PM). High temperatures are expected to gradually decrease next
+week, bringing temperatures back down to near or slightly below
+average by the middle of next week.
 
-The HeatRisk is expected to peak on Saturday with widespread
-major HeatRisk for the deserts and moderate HeatRisk for the
-mountains and Inland Empire with only a slight decrease for
-Sunday.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-The slight chance for afternoon showers and thunderstorms for the
-mountains and deserts will continue through Wednesday followed by
-slow cooling and drying through the following weekend. A greater
-decrease in HeatRisk is still expected for Monday and Tuesday. It
-is unlikely the Extreme Heat Warning for the deserts and Heat
-Advisory for the mountains and Inland Empire will be extended
-beyond Sunday.
+Sunday through Tuesday, the ridge of high pressure will shift east
+more over the Four Corners region. This will allow for additional
+influxes of moisture into the area and increase our chances for
+showers and thunderstorms. Latest guidance doesn`t show a forcing
+mechanism outside of the usual daytime heating from the sun but that
+could change as we get closer. The current forecast keeps
+thunderstorm chances confined to the mountains, locally into the
+High Desert, in the afternoons each day Sunday through Tuesday. For
+Sunday, the latest REFS 90th percentile hourly rainfall rate peaks
+at 0.55 inches per hour, with only 10 percent chance of exceeding
+that.
 
 &&
 
 .AVIATION...
-071030Z....Coasts...Very patchy low clouds based 1000-1400 ft MSL
-will struggle to increase in coverage this morning. Greatest chance
-(30-40%) for cigs at coastal TAF sites will be 12-15z Fri. Any low
-clouds should clear to the coastline by 16z. VFR conditions expected
-Friday afternoon and evening. Low clouds return late Friday night
-with similar bases and patchy coverage.
+071830Z....Coasts...Low clouds have burned off with FEW-SCT high cu
+AOA 15,000ft MSL moving northward. Patchy low clouds develop again
+tonight after 02z Sat and move inland, with bases around 1000ft MSL.
+Clearing should occur back towards the coast by 16-17z Sat.
 
-Valleys/Mountains/Deserts...SCT to locally BKN clouds AOA 10000
-feet MSL through Friday afternoon.
-
-Otherwise, a cluster of showers and storms has a history of
-producing lightning over the far southern San Diego County. As
-this activity continues to move toward the west, there is a slight
-chance for lightning to affect other nearby airports (20% at
-KNRS, 10% at KSAN). Any storm activity should diminish by 6 AM PDT.
+.Valleys/Mountains/Deserts...VFR with FEW-SCT clouds AOA 20,000ft
+MSL through Saturday. Low chance (10%) for TSRA over the mountains
+this afternoon between 20z-02z.
 
 &&
 
@@ -423,6 +415,7 @@ No hazardous marine conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -430,6 +423,10 @@ CA...Heat Advisory until 8 PM PDT Sunday for Riverside County
      Mountains-San Bernardino County Mountains-San Bernardino
      and Riverside County Valleys-The Inland Empire-San Diego
      County Mountains.
+
+     Heat Advisory from 10 AM Saturday to 8 PM PDT Sunday for Orange
+     County Inland Areas-San Diego County Valleys-Santa Ana
+     Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
      Valleys-Coachella Valley-San Diego County Deserts-San
@@ -441,8 +438,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...KW
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
