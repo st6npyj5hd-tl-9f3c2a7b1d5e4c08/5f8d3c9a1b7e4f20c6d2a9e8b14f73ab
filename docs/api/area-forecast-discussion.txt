@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-06T14:11:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T00:02:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -330,23 +330,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-857
-FXUS66 KSGX 061212
+600
+FXUS66 KSGX 061823
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-515 AM PDT Thu Aug 6 2026
+1123 AM PDT Thu Aug 6 2026
 
 .SYNOPSIS...
-The HeatRisk will continue to slowly increase through Saturday
-with widespread major HeatRisk for the deserts and widespread
-moderate HeatRisk for Inland Empire and for the mountains below
-6500 feet. There will be a slight chance of afternoon showers and
-thunderstorms for the mountains through next Tuesday with the
-relatively greater chances for this afternoon and again for Sunday
-through Tuesday. Gradual cooling and drying will then follow for
-the rest of next week.
+Through Sunday moderate HeatRisk expected in the mountains and
+Inland Empire with major to extreme HeatRisk in the deserts. There
+are chances of showers and isolated thunderstorms in the
+mountains each afternoon through Tuesday. Coastal areas will
+continue to see low clouds each night and morning through the
+forecast period.
 
 &&
 
@@ -354,64 +352,52 @@ the rest of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Saturday)...
-Ensemble output shows precipitable water values peaking this
-afternoon, then declining into Saturday afternoon. The peak hourly REFS
-90th percentile rainfall is around 0.75 inch for this afternoon
-and around 0.25 inch for Friday afternoon. There is a slight
-chance of showers and thunderstorms for the mountains for this
-afternoon with slowly decreasing chances for Friday afternoon and
-Saturday afternoon.
+Visible satellite at 11 AM was showing areas of high clouds across
+the area with low clouds off the coast. There remain chances of
+isolated showers and thunderstorms in the mountains this afternoon.
+Latest REFS guidance indicates a decrease in the 90th percentile
+maximum hourly rainfall rate this afternoon, down to 0.45 inches per
+hour. There is only a 10 percent chance of hourly rainfall rates
+exceeding that. Guidance continues to indicate 15-20 percent
+chance of isolated showers and thunderstorms over area mountains
+through Saturday, with guidance indicating hourly rainfall rates
+will be less than 0.50 inch per hour.
 
-The HeatRisk will continue to slowly increase through Saturday
-with widespread major HeatRisk for the deserts and widespread
-moderate HeatRisk for Inland Empire and for the mountains below
-6500 feet. High temperatures on Saturday will be a few degrees
-above average near the coast to 5 to 10 degrees above average for
-the deserts. High temperatures on Saturday will range from the mid
-70s to lower 80s near the coast to the mid 90s to 105 for the
-Inland Empire with 110 to 114 for the lower deserts.
+Through Sunday high temperatures are expected to run 5 to 10 degrees
+above average for inland areas. Low temperatures will also run above
+average, most noticeable in the mountains and deserts where lows
+will be 10 to 15 degrees above average. For the Inland Empire,
+mountains, and portions of inland Orange County and San Diego
+valleys moderate HeatRisk is expected which means that folks who are
+sensitive heat, especially those without consistent
+cooling/hydration will be most impacted. In the deserts, major
+HeatRisk indicates anyone may see negative impacts from the heat if
+precautions aren`t taken. Make sure to stay hydrated and if possible
+avoid strenuous activity during the hottest parts of the day (10 AM
+to 4 PM). High temperatures are expected to gradually decrease next
+week, bringing temperatures back down to near or slightly below
+average by the middle of next week.
 
-Night and morning will continue to spread into coastal areas, but
-with some occasional disruptions in coverage from mid level
-monsoonal moisture and clouds.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-The Extreme Heat Warning for the deserts and Heat Advisory for the
-mountains and Inland Empire has been extended through Sunday with
-only a slight decline in HeatRisk on Sunday. Greater declines are
-expected for Monday and Tuesday with moderate HeatRisk for next
-Tuesday confined mostly to the deserts.
-
-Ensemble output shows another peak in precipitable water values
-for Sunday afternoon, similar to the peak for this afternoon, then
-a gradual slow decline through next week. A slight chance for
-afternoon showers and thunderstorms for the mountains will
-continue for Sunday through Tuesday with gradual cooling and
-drying for the rest of next week. For Thursday of next week, high
-temperatures for the deserts and near the coast will be around
-average and could be as much as 4 to 8 degrees below average for
-the inland valleys. For Thursday of next week, high temperatures
-could range from the 70s near the coast to the mid 80s to mid 90s
-for the Inland Empire with 106 to 110 for the lower deserts.
+For Sunday and Monday, precipitable water values are expected to
+peak which will result in more widespread shower and thunderstorm
+chances across the mountains. Shower chances will become more
+isolated again Tuesday and Wednesday.
 
 &&
 
 .AVIATION...
-061100Z....Coasts/Valleys...Areas of low clouds based 1200-1700 ft
-MSL continue to linger over coastal areas and western valleys early
-this morning. Coverage will remain partial through this morning with
-clouds intermittently impacting coastal TAF sites. Clouds scatter to
-the coastline by 16z Thu. VFR conditions expected Thursday afternoon
-and evening with very low chances for any cigs before 06z Fri.
-Thereafter, clouds will slowly develop over coastal areas with
-slightly lower bases and patchier coverage than this morning.
+061800Z....Coasts/Valleys...Satellite shows low clouds have cleared
+the coast with FEW-SCT high clouds AOA 20,000ft MSL moving in from
+the south. VFR through the remainder of the afternoon. Patchy low
+clouds based 800-1200ft MSL tonight develop and move inland likely
+after 03z Fri, spreading north into Orange County after 07z. 50%
+chance of a brief CIG at KCRQ. VIS potentially down to 3-5SM for
+valleys and coastal terrain. Clearing out on Friday should occur at
+a similar pace to this morning, around 16-18z.
 
 .Mountains/Deserts...ISO SHRA/TSRA (15% chance) may develop along
-mtn ridges 20-23z Thu. Otherwise, SCT-BKN clouds AOA 20,000ft MSL
-with unrestricted VIS through Thursday evening.
+mtn ridges 20-23z. Otherwise, FEW-SCT cu AOA 20,000ft MSL with
+unrestricted VIS into Friday.
 
 &&
 
@@ -423,6 +409,7 @@ No hazardous marine conditions are expected through Monday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -442,8 +429,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...KW
+PUBLIC...CO
+AVIATION/MARINE...Zuber
 
 
 </pre>
