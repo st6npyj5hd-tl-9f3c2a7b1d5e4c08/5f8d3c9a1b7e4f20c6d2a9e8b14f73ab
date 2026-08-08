@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T01:43:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T06:54:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -327,16 +327,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-858
-FXUS66 KSGX 072354
+225
+FXUS66 KSGX 080528
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-454 PM PDT Fri Aug 7 2026
+1028 PM PDT Fri Aug 7 2026
 
 .SYNOPSIS...
 Through Sunday moderate HeatRisk expected for the inland valleys and
@@ -351,7 +353,6 @@ see low clouds each night and morning through the forecast period.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -396,15 +397,16 @@ that.
 &&
 
 .AVIATION...
-072330Z....Coast...Patchy low clouds to gradually develop overnight,
-with cigs most likely between 10-16Z. Bases will be around 1000 feet
-MSL. Scatter out of any cigs by 16Z Saturday. Low clouds Saturday
-evening to develop after 05Z.
+080530Z....Coast...Patchy low clouds based 1000-1400 ft MSL have
+started to develop over coastal areas late this evening. Clouds will
+slowly increase in coverage overnight, with intermittent cigs at
+coastal TAF sites. Best chance for cigs will be 11-15z Sat. Any low
+clouds that develop will scatter back to the coastline by 16-17z.
+SKC and VFR through Saturday afternoon and evening.
 
-.Valleys/Mountains/Deserts...Isold TSRA in high desert through
-02Z. Mostly clear thereafter across the region through Saturday,
-except for SCT cumulus at 10000 feet MSL over mountains after 20Z
-with an isolated TSRA around KL35.
+.Valleys/Mountains/Deserts...Mostly clear across the region through
+Saturday, except for SCT cumulus at 10000 feet MSL over mountains
+after 20Z with an isolated TSRA around KL35.
 
 &&
 
@@ -416,6 +418,7 @@ No hazardous marine conditions are expected through Wednesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -440,7 +443,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...MM
+AVIATION/MARINE...KW
 
 
 </pre>
