@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-07T18:58:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T01:43:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,18 +327,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-403
-FXUS66 KSGX 071846
+858
+FXUS66 KSGX 072354
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1146 AM PDT Fri Aug 7 2026
+454 PM PDT Fri Aug 7 2026
 
 .SYNOPSIS...
 Through Sunday moderate HeatRisk expected for the inland valleys and
@@ -353,6 +351,9 @@ see low clouds each night and morning through the forecast period.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 An isolated convective cell developed around 8 AM along the San
 Diego coast starting in La Jolla and eventually moving offshore near
@@ -371,7 +372,7 @@ above average for inland areas. Low temperatures will also run above
 average, most noticeable in the mountains and deserts where lows
 will be 10 to 15 degrees above average. For the inland valleys and
 mountains moderate HeatRisk is expected which means that folks who
-are sensitive heat, especially those without consistent
+are sensitive to heat, especially those without consistent
 cooling/hydration will be most impacted. In the deserts, major
 HeatRisk indicates anyone may see negative impacts from the heat if
 precautions aren`t taken. Make sure to stay hydrated and if possible
@@ -395,26 +396,26 @@ that.
 &&
 
 .AVIATION...
-071830Z....Coasts...Low clouds have burned off with FEW-SCT high cu
-AOA 15,000ft MSL moving northward. Patchy low clouds develop again
-tonight after 02z Sat and move inland, with bases around 1000ft MSL.
-Clearing should occur back towards the coast by 16-17z Sat.
+072330Z....Coast...Patchy low clouds to gradually develop overnight,
+with cigs most likely between 10-16Z. Bases will be around 1000 feet
+MSL. Scatter out of any cigs by 16Z Saturday. Low clouds Saturday
+evening to develop after 05Z.
 
-.Valleys/Mountains/Deserts...VFR with FEW-SCT clouds AOA 20,000ft
-MSL through Saturday. Low chance (10%) for TSRA over the mountains
-this afternoon between 20z-02z.
+.Valleys/Mountains/Deserts...Isold TSRA in high desert through
+02Z. Mostly clear thereafter across the region through Saturday,
+except for SCT cumulus at 10000 feet MSL over mountains after 20Z
+with an isolated TSRA around KL35.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -439,7 +440,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Zuber
+AVIATION/MARINE...MM
 
 
 </pre>
