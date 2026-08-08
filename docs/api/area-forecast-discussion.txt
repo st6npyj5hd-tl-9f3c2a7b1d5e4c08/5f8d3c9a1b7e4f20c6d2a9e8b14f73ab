@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T06:54:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T12:50:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -332,21 +332,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-225
-FXUS66 KSGX 080528
+691
+FXUS66 KSGX 080800
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1028 PM PDT Fri Aug 7 2026
+100 AM PDT Sat Aug 8 2026
 
 .SYNOPSIS...
 Through Sunday moderate HeatRisk expected for the inland valleys and
-mountains with major HeatRisk in the deserts. There are chances of
-showers and thunderstorms in the mountains each afternoon through
-Tuesday. There are lower chances today and Saturday with increased
-thunderstorm chances early next week. Coastal areas will continue to
-see low clouds each night and morning through the forecast period.
+mountains with major HeatRisk in the deserts. The HeatRisk
+decreases through next week. There are chances of showers and
+thunderstorms in the mountains and deserts each afternoon through
+Tuesday. There are lower chances today with increased thunderstorm
+chances early next week. Coastal areas will continue to see low
+clouds each night and morning through the forecast period.
 
 &&
 
@@ -354,45 +355,41 @@ see low clouds each night and morning through the forecast period.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+This morning...The marine layer remains about 1500 ft deep and low clouds
+are slowly developing and increasing in coverage over the coastal areas.
+Low cloud formation could be disrupted by mid-level debris clouds moving
+in from the southeast as mesoscale Convective Systems over AZ and northern
+MX collapse. However, SoCal is unlikely to see a repeat of the nocturnal
+convection we saw Thursday night due to a less unstable environment.
 
-An isolated convective cell developed around 8 AM along the San
-Diego coast starting in La Jolla and eventually moving offshore near
-Encinitas. A few lightning strikes occurred near Solana
-Beach/Encinitas. Rainfall totals out of that cell ranged from 0.03
-inches of rain to 0.36 inches between La Jolla and Encinitas. For
-the rest of the day, dry conditions are expected west of the
-mountains but there remains slight chances of showers and isolated
-thunderstorms in the mountains and High Desert. Latest high
-resolution guidance is indicating showers that develop today and
-Saturday will see rainfall rates 0.10 inch per hour or less, with
-only a 10 percent chance of rainfall rates exceeding that.
+Numerical models are in good agreement through the middle of next
+week with respect to the large-scale pattern. High pressure centered
+over the Inter-Mountain West will dominate our weather through
+Monday then a low pressure trough will deepen along the west
+coast for the middle through the end of next week.
 
-Through Sunday high temperatures are expected to run 5 to 10 degrees
-above average for inland areas. Low temperatures will also run above
-average, most noticeable in the mountains and deserts where lows
-will be 10 to 15 degrees above average. For the inland valleys and
-mountains moderate HeatRisk is expected which means that folks who
-are sensitive to heat, especially those without consistent
-cooling/hydration will be most impacted. In the deserts, major
-HeatRisk indicates anyone may see negative impacts from the heat if
-precautions aren`t taken. Make sure to stay hydrated and if possible
-avoid strenuous activity during the hottest parts of the day (10 AM
-to 4 PM). High temperatures are expected to gradually decrease next
-week, bringing temperatures back down to near or slightly below
-average by the middle of next week.
+Although temperatures will very slowly trend lower, daytime high
+temperatures will remain about 5-10 degrees above normal for most
+areas through Monday while overnight low temps will remain 5-10
+degrees above normal only in the mountains and deserts. The
+monsoonal flow will persist and continue to bring us significant
+deep-layer moisture. This will maintain some chances for
+afternoon/evening showers/tstms through Tuesday. The marine layer
+will remain shallow and the night and morning low clouds will
+mostly be restricted to the coastal areas.
 
-Sunday through Tuesday, the ridge of high pressure will shift east
-more over the Four Corners region. This will allow for additional
-influxes of moisture into the area and increase our chances for
-showers and thunderstorms. Latest guidance doesn`t show a forcing
-mechanism outside of the usual daytime heating from the sun but that
-could change as we get closer. The current forecast keeps
-thunderstorm chances confined to the mountains, locally into the
-High Desert, in the afternoons each day Sunday through Tuesday. For
-Sunday, the latest REFS 90th percentile hourly rainfall rate peaks
-at 0.55 inches per hour, with only 10 percent chance of exceeding
-that.
+Conditions begin to change more noticeably for the middle through
+the end of next week as models consistently show a trough of low
+pressure deepening along the west coast and displacing the high
+pressure center as far to the southeast as the FL Panhandle by
+next Friday. This will bring us cooler and drier conditions with a
+deeper marine layer. By next Thursday, daytime high temps will be
+near normal along the coast and 5-10 degrees below normal for
+inland areas. The below-normal temps will likely continue into
+next weekend. The trough will bring dry southwest flow aloft,
+ending the chances for pm showers/tstms by Wed. Low clouds and fog
+could spread inland to cover most of the area west of the
+mountains by Thursday night.
 
 &&
 
@@ -419,7 +416,6 @@ No hazardous marine conditions are expected through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -428,9 +424,9 @@ CA...Heat Advisory until 8 PM PDT Sunday for Riverside County
      and Riverside County Valleys-The Inland Empire-San Diego
      County Mountains.
 
-     Heat Advisory from 10 AM Saturday to 8 PM PDT Sunday for Orange
-     County Inland Areas-San Diego County Valleys-Santa Ana
-     Mountains and Foothills.
+     Heat Advisory from 10 AM this morning to 8 PM PDT Sunday for
+     Orange County Inland Areas-San Diego County Valleys-Santa
+     Ana Mountains and Foothills.
 
      Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
      Valleys-Coachella Valley-San Diego County Deserts-San
@@ -442,7 +438,7 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
+PUBLIC...PG
 AVIATION/MARINE...KW
 
 
