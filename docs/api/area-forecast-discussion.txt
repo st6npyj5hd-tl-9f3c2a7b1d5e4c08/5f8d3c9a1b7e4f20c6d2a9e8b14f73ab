@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T06:57:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T12:52:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,24 +327,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-575
-FXUS66 KSGX 090532
+487
+FXUS66 KSGX 090835
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1032 PM PDT Sat Aug 8 2026
+135 AM PDT Sun Aug 9 2026
 
 .SYNOPSIS...
 Minor to major HeatRisk continues for much of the region through
-Sunday before cooler weather returns Tuesday and beyond.
-Thunderstorm chances each day in the mountains Sunday through
-Wednesday, with best chances and highest rain rates Monday and
-Tuesday. Patchy coastal fog through Sunday morning with a deeper
-marine layer after Monday.
+today before cooler weather returns for Tuesday and beyond.
+Thunderstorm chances continue each afternoon and evening in the
+mountains and deserts through Wednesday, with best chances and
+highest rain rates Monday and Tuesday. Patchy coastal low clouds
+and fog this morning followed by a deepening marine layer after
+Monday.
 
 &&
 
@@ -352,61 +355,43 @@ marine layer after Monday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+This morning...Outflow from a collapsed MCS (Mesoscale Convective
+System) over western AZ is moving westward across Riverside County
+and producing isolated, weak tstms. These storms will likely
+collapse before reaching western Riverside or San Bernardino
+Counties but there is a small chance that they could reach the
+Coachella Valley intact by 3 am. If any storms reach western
+Riverside County, they will likely be quite weak. Although locally
+gusty winds could still be produced. The marine layer remains
+quite shallow and low clouds are slow to develop. Low cloud
+development could be further disrupted as the outflow from the MCS
+over AZ moves west of the mtns, although the outflow will be much
+weakened as it moves westward.
 
-Mid level water vapor imagery shows high pressure firmly in place
-over the Four Corners, with ongoing heat impacts for Southern
-California. Highs both today and tomorrow will be around 3-7 degrees
-above normal with warm overnight lows 4-10 degrees above normal,
-resulting in minor to moderate HeatRisk for inland and valley areas
-and moderate to major HeatRisk for the deserts. A Heat Advisory
-and Extreme Heat Warning remain in effect through Sunday evening.
+The high pressure over the southwest will continue to dominate our
+weather through Tuesday even as it weakens in response to a series
+of shortwave troughs moving inland to the north. The position of
+the high will allow the monsoonal flow to continue bringing deep-
+layer moisture into SoCal from the southeast. This will continue
+to support the potential for afternoon/evening showers and tstms,
+mainly in the mtns and deserts. Daytime high temperatures will
+gradually lower through the week but remain above normal through
+Monday. Today, we will still have minor HeatRisk in the inland
+valleys and mtns, and major HeatRisk in the deserts. By Tuesday,
+daytime high temperatures will be near or a few degrees below
+normal. The marine layer will gradually deepen as the high aloft
+weakens.
 
-Outside of the heat, attention returns to monsoonal moisture as the
-upper level ridge will elongate and stretch this coming week,
-allowing for multiple weak waves to move across. Forcing this
-afternoon looks limited with lackluster low-level moisture for areas
-other than the southern mountains. If any storms manage to develop,
-they will likely be confined to the higher terrain this afternoon
-with limited impacts. The ridge will become a bit more compressed
-tonight and, as seen Friday morning, another very weak easterly wave
-may be able to move across Baja late tonight. Localized light
-rainfall will possible in San Diego County Sunday morning,
-although the best chances for any early morning precipitation will
-be in the San Diego County Mountains and foothills, or eastern
-I-8 corridor. This window will also allow for low and mid level
-moisture to begin to surge further northward, reaching Riverside
-and San Bernardino Counties by early Sunday afternoon as PW values
-return above 1.15. While not sensational, this, along with the
-slight breakdown in the ridge, may allow for a few decent
-thunderstorms to develop over the mountains, especially in
-Riverside and San Diego counties, Sunday afternoon (30-40%
-chance). Brief, heavy rainfall with rain rates up to
-0.50-0.75"/hr and lightning will be the main threats. There will
-be around a 10-20% chance for a storm to fire off of the San
-Bernardino Mountains around this time too, but rain rates that far
-north will likely be 0.40"/hr or less. If you are spending time
-in the mountains this weekend, ensure you are prepared to take
-shelter in a sturdy, enclosed structure should you find yourself
-caught in a thunderstorm. Trees are not a safe place to shelter
-from lightning!
-
-The pattern shifts cooler beginning Monday as high pressure slides
-east, with a deepening marine layer into the end of the week. The
-position of the high centered over the South Plains and a separate
-high off the coast will establish upper level troughing for much
-of CA as we cool back down to near normal for mid August by
-Tuesday. Monday and Tuesday will once again feature afternoon
-monsoonal convection in the mountains as moisture is pulled
-northward and PWs reach ~1.5. Both of these days could see more
-widespread storms and higher rain rates, with a slightly higher
-potential for storms to move off the mountains and into the
-deserts compared to Sunday. Afternoon storms over the mountains
-will be possible each day through the end of next week, but
-chances decrease after Tuesday as a more robust trough takes
-effect.
-
-You`ve been patient, and the cooler weather is finally in view!
+For Wed through next weekend (according to model consensus)...a
+trough of low pressure deepens along the coast. This will bring
+more pronounced cooling, with daytime high temperatures as much as
+10 degrees below normal in some inland areas by Thursday. The
+below-normal temperatures will continue into next weekend. The
+trough will also bring dry, southwest flow aloft, reducing the
+potential for pm showers/tstms by Wed and essentially eliminating
+it for Thursday through next weekend. In addition, the marine
+layer will deepen and low clouds and fog could spread inland to
+the coastal slopes during the nights and mornings.
 
 &&
 
@@ -443,19 +428,18 @@ parking lots.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Sunday for Orange County Inland
-     Areas-Riverside County Mountains-San Bernardino County
-     Mountains-San Bernardino and Riverside County Valleys-The
-     Inland Empire-San Diego County Mountains-San Diego County
-     Valleys-Santa Ana Mountains and Foothills.
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Inland Areas-Riverside County Mountains-San Bernardino
+     County Mountains-San Bernardino and Riverside County
+     Valleys-The Inland Empire-San Diego County Mountains-San
+     Diego County Valleys-Santa Ana Mountains and Foothills.
 
-     Extreme Heat Warning until 8 PM PDT Sunday for Apple and Lucerne
-     Valleys-Coachella Valley-San Diego County Deserts-San
-     Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT this evening for Apple and
+     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
+     San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -463,7 +447,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
+PUBLIC...PG
 AVIATION/MARINE/BEACHES...KW
 
 
