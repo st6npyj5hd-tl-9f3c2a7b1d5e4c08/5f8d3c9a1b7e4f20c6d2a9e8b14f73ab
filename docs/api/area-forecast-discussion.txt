@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T12:52:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T18:41:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,18 +327,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-487
-FXUS66 KSGX 090835
+359
+FXUS66 KSGX 091804
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-135 AM PDT Sun Aug 9 2026
+1104 AM PDT Sun Aug 9 2026
 
 .SYNOPSIS...
 Minor to major HeatRisk continues for much of the region through
@@ -354,6 +352,9 @@ Monday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 This morning...Outflow from a collapsed MCS (Mesoscale Convective
 System) over western AZ is moving westward across Riverside County
@@ -396,16 +397,19 @@ the coastal slopes during the nights and mornings.
 &&
 
 .AVIATION...
-090530Z....Coast...Very patchy low clouds based 900-1300 ft MSL have
-started to develop over coastal areas late this evening. Clouds will
-slowly expand in coverage Sunday morning with cigs most likely for
-coastal TAF sites between 11-15Z Sunday. Any cigs should scatter out
-Sunday by 16Z.
+091800Z....Coast...Low clouds are continuing to clear along the
+coast with a few clouds lingering around 1,200-1,500ft MLS. Low
+clouds with bases 1,000-1,500ft MSL will start to redevelop after 03-
+05Z Monday, increasing in coverage and moving further inland by 08-
+10Z. Intermittent lower cigs 500-800ft MSL along coastal sites 11-
+15Z. Low clouds scatter out 16-18Z.
 
-Valleys/Mountains/Deserts...SCT-BKN cumulus expected over mtns 19Z
-Sun-03Z Mon with 20-35% chance of TSRA in the mtns. High clouds may
-drift into the valleys and deserts with bases AOA 10000 ft MSL Sun
-afternoon and evening.
+Valleys/Mountains/Deserts...SCT-BKN cumulus still expected to
+develop over the mountains this afternoon with a 20-35% chance of
+TSRA in the mountains. Any storms that may develop could produce
+lightning, UDDFS and associated vis reductions. Mid/high clouds may
+drift into the valleys and deserts with bases AOA 10,000-15,000 ft
+MSL.
 
 &&
 
@@ -428,6 +432,7 @@ parking lots.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -448,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
