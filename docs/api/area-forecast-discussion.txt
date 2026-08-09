@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T01:49:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T06:57:39+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,18 +327,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-257
-FXUS66 KSGX 082344
+575
+FXUS66 KSGX 090532
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Sat Aug 8 2026
+1032 PM PDT Sat Aug 8 2026
 
 .SYNOPSIS...
 Minor to major HeatRisk continues for much of the region through
@@ -353,7 +351,6 @@ marine layer after Monday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
@@ -414,15 +411,16 @@ You`ve been patient, and the cooler weather is finally in view!
 &&
 
 .AVIATION...
-082230Z....Coast...Patchy low clouds with bases 800-1200 ft MSL will
-develop gradually overnight, with cigs most likely between 11-15Z
-Sunday. Any cigs should scatter out Sunday by 15-16Z.
+090530Z....Coast...Very patchy low clouds based 900-1300 ft MSL have
+started to develop over coastal areas late this evening. Clouds will
+slowly expand in coverage Sunday morning with cigs most likely for
+coastal TAF sites between 11-15Z Sunday. Any cigs should scatter out
+Sunday by 16Z.
 
-Valleys/Mountains/Deserts...SCT cumulus with bases at 10000 ft MSL
-over mtns through 01Z Sun. More widespread cumulus development over
-mtns 19Z Sun-03Z Mon with 20-35% chance of TSRA in the mtns. High
-clouds may drift into the valleys and deserts with bases AOA 10000
-ft MSL Sun afternoon and evening.
+Valleys/Mountains/Deserts...SCT-BKN cumulus expected over mtns 19Z
+Sun-03Z Mon with 20-35% chance of TSRA in the mtns. High clouds may
+drift into the valleys and deserts with bases AOA 10000 ft MSL Sun
+afternoon and evening.
 
 &&
 
@@ -438,6 +436,13 @@ large role in elevating the tides further, with a surf forecast of
 only 2-3 ft. Regardless, tides exceeding 7 ft can result in minor
 tidal overflow into low-lying areas along the beach, including beach
 parking lots.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -459,7 +464,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
