@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-08T18:38:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T01:49:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -332,22 +332,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-555
-FXUS66 KSGX 081725
+257
+FXUS66 KSGX 082344
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1025 AM PDT Sat Aug 8 2026
+444 PM PDT Sat Aug 8 2026
 
 .SYNOPSIS...
-Through Sunday moderate HeatRisk expected for the inland valleys and
-mountains with major HeatRisk in the deserts. The HeatRisk
-decreases through next week. There are chances of showers and
-thunderstorms in the mountains and deserts each afternoon through
-Tuesday. There are lower chances today with increased thunderstorm
-chances early next week. Coastal areas will continue to see low
-clouds each night and morning through the forecast period.
+Minor to major HeatRisk continues for much of the region through
+Sunday before cooler weather returns Tuesday and beyond.
+Thunderstorm chances each day in the mountains Sunday through
+Wednesday, with best chances and highest rain rates Monday and
+Tuesday. Patchy coastal fog through Sunday morning with a deeper
+marine layer after Monday.
 
 &&
 
@@ -356,68 +355,89 @@ SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
 
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
 
-This morning...The marine layer remains about 1500 ft deep and low clouds
-are slowly developing and increasing in coverage over the coastal areas.
-Low cloud formation could be disrupted by mid-level debris clouds moving
-in from the southeast as mesoscale Convective Systems over AZ and northern
-MX collapse. However, SoCal is unlikely to see a repeat of the nocturnal
-convection we saw Thursday night due to a less unstable environment.
+Mid level water vapor imagery shows high pressure firmly in place
+over the Four Corners, with ongoing heat impacts for Southern
+California. Highs both today and tomorrow will be around 3-7 degrees
+above normal with warm overnight lows 4-10 degrees above normal,
+resulting in minor to moderate HeatRisk for inland and valley areas
+and moderate to major HeatRisk for the deserts. A Heat Advisory
+and Extreme Heat Warning remain in effect through Sunday evening.
 
-Numerical models are in good agreement through the middle of next
-week with respect to the large-scale pattern. High pressure centered
-over the Inter-Mountain West will dominate our weather through
-Monday then a low pressure trough will deepen along the west
-coast for the middle through the end of next week.
+Outside of the heat, attention returns to monsoonal moisture as the
+upper level ridge will elongate and stretch this coming week,
+allowing for multiple weak waves to move across. Forcing this
+afternoon looks limited with lackluster low-level moisture for areas
+other than the southern mountains. If any storms manage to develop,
+they will likely be confined to the higher terrain this afternoon
+with limited impacts. The ridge will become a bit more compressed
+tonight and, as seen Friday morning, another very weak easterly wave
+may be able to move across Baja late tonight. Localized light
+rainfall will possible in San Diego County Sunday morning,
+although the best chances for any early morning precipitation will
+be in the San Diego County Mountains and foothills, or eastern
+I-8 corridor. This window will also allow for low and mid level
+moisture to begin to surge further northward, reaching Riverside
+and San Bernardino Counties by early Sunday afternoon as PW values
+return above 1.15. While not sensational, this, along with the
+slight breakdown in the ridge, may allow for a few decent
+thunderstorms to develop over the mountains, especially in
+Riverside and San Diego counties, Sunday afternoon (30-40%
+chance). Brief, heavy rainfall with rain rates up to
+0.50-0.75"/hr and lightning will be the main threats. There will
+be around a 10-20% chance for a storm to fire off of the San
+Bernardino Mountains around this time too, but rain rates that far
+north will likely be 0.40"/hr or less. If you are spending time
+in the mountains this weekend, ensure you are prepared to take
+shelter in a sturdy, enclosed structure should you find yourself
+caught in a thunderstorm. Trees are not a safe place to shelter
+from lightning!
 
-Although temperatures will very slowly trend lower, daytime high
-temperatures will remain about 5-10 degrees above normal for most
-areas through Monday while overnight low temps will remain 5-10
-degrees above normal only in the mountains and deserts. The
-monsoonal flow will persist and continue to bring us significant
-deep-layer moisture. This will maintain some chances for
-afternoon/evening showers/tstms through Tuesday. The marine layer
-will remain shallow and the night and morning low clouds will
-mostly be restricted to the coastal areas.
+The pattern shifts cooler beginning Monday as high pressure slides
+east, with a deepening marine layer into the end of the week. The
+position of the high centered over the South Plains and a separate
+high off the coast will establish upper level troughing for much
+of CA as we cool back down to near normal for mid August by
+Tuesday. Monday and Tuesday will once again feature afternoon
+monsoonal convection in the mountains as moisture is pulled
+northward and PWs reach ~1.5. Both of these days could see more
+widespread storms and higher rain rates, with a slightly higher
+potential for storms to move off the mountains and into the
+deserts compared to Sunday. Afternoon storms over the mountains
+will be possible each day through the end of next week, but
+chances decrease after Tuesday as a more robust trough takes
+effect.
 
-Conditions begin to change more noticeably for the middle through
-the end of next week as models consistently show a trough of low
-pressure deepening along the west coast and displacing the high
-pressure center as far to the southeast as the FL Panhandle by
-next Friday. This will bring us cooler and drier conditions with a
-deeper marine layer. By next Thursday, daytime high temps will be
-near normal along the coast and 5-10 degrees below normal for
-inland areas. The below-normal temps will likely continue into
-next weekend. The trough will bring dry southwest flow aloft,
-ending the chances for pm showers/tstms by Wed. Low clouds and fog
-could spread inland to cover most of the area west of the
-mountains by Thursday night.
+You`ve been patient, and the cooler weather is finally in view!
 
 &&
 
 .AVIATION...
-081730Z....Coast...Patchy low clouds with bases 800-1200 feet MSL
-will develop gradually but intermittently overnight, with cigs
-most likely between 11-15Z Sunday. Any cigs should scatter out
-Sunday by 15-16Z.
+082230Z....Coast...Patchy low clouds with bases 800-1200 ft MSL will
+develop gradually overnight, with cigs most likely between 11-15Z
+Sunday. Any cigs should scatter out Sunday by 15-16Z.
 
-Valleys/Mountains/Deserts...Mostly clear across the region through
-tonight, except for SCT cumulus at 10000 feet MSL over mountains 20-
-01Z.
-
-Regionwide...Increasing clouds AOA 10000 feet Sunday morning.
+Valleys/Mountains/Deserts...SCT cumulus with bases at 10000 ft MSL
+over mtns through 01Z Sun. More widespread cumulus development over
+mtns 19Z Sun-03Z Mon with 20-35% chance of TSRA in the mtns. High
+clouds may drift into the valleys and deserts with bases AOA 10000
+ft MSL Sun afternoon and evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+.BEACHES...
+Astronomical high tides are expected to exceed 7 ft Monday through
+Wednesday between 8-9:30 PM PDT. Surf is not expected to play a
+large role in elevating the tides further, with a surf forecast of
+only 2-3 ft. Regardless, tides exceeding 7 ft can result in minor
+tidal overflow into low-lying areas along the beach, including beach
+parking lots.
 
 &&
 
@@ -438,8 +458,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...MM
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
