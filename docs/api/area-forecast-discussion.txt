@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T01:53:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T07:43:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,16 +327,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-995
-FXUS66 KSGX 092340
+456
+FXUS66 KSGX 100549
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-440 PM PDT Sun Aug 9 2026
+1049 PM PDT Sun Aug 9 2026
 
 .SYNOPSIS...
 Minor to moderate HeatRisk continues through Monday with cooler
@@ -350,7 +352,6 @@ deepening marine layer through the end of the week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -400,16 +401,16 @@ at or above normal since early July.
 &&
 
 .AVIATION...
-092330Z....Coast...Patchy low clouds to gradually develop overnight,
-increasing in coverage and duration, with best chances of cigs
-between 11-15Z Tuesday. Bases around 700-1000 feet MSL. Scatter out
-of any cigs Tuesday by 16Z.
+100600Z....Coast...Patchy low clouds to gradually develop overnight,
+slowly increasing in coverage, with best chances of cigs at coastal
+TAF sites between 11-15Z Tuesday. Bases around 700-1100 feet MSL.
+Scatter out of any cigs Tuesday by 16Z. VFR conditions expected
+Monday afternoon and evening.
 
-Valleys/Mountains/Deserts...Isold TSRA mainly over mountains and
-high desert through 03Z. Bases around 10000 feet MSL with tops to
-40000 feet. Otherwise SCT-BKN debris clouds mostly above 15000 feet
-through 18Z Monday. Scattered TSRA after 18Z Monday with bases
-around 9000 feet MSL with tops to 50000 feet. Any TSRA could produce
+Valleys/Mountains/Deserts...SCT-BKN clouds mostly above 15000 feet
+through 18Z Monday. Scattered TSRA over mtns with an isold TSRA or
+two in the High Desert 19Z Monday to 02z Tuesday with bases around
+9000 feet MSL with tops to 50000 feet. Any TSRA could produce
 lightning, strong up/downdrafts and associated vis reductions.
 
 &&
@@ -432,22 +433,13 @@ Flood Advisory for details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory from 6 PM Monday to 11 PM PDT Wednesday
      for Orange County Coastal Areas-San Diego County Coastal
      Areas.
-
-     Heat Advisory until 8 PM PDT this evening for Orange County
-     Inland Areas-Riverside County Mountains-San Bernardino
-     County Mountains-San Bernardino and Riverside County
-     Valleys-The Inland Empire-San Diego County Mountains-San
-     Diego County Valleys-Santa Ana Mountains and Foothills.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Apple and
-     Lucerne Valleys-Coachella Valley-San Diego County Deserts-
-     San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -456,7 +448,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
