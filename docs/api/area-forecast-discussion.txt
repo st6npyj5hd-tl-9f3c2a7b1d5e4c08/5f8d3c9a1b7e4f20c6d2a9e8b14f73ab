@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T07:43:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T13:10:22+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -327,25 +327,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=31&glossary=0">31</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-456
-FXUS66 KSGX 100549
+413
+FXUS66 KSGX 100847
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1049 PM PDT Sun Aug 9 2026
+147 AM PDT Mon Aug 10 2026
 
 .SYNOPSIS...
-Minor to moderate HeatRisk continues through Monday with cooler
-weather Tuesday and beyond. Thunderstorm chances each day in the
-mountains through Wednesday, with best chances and highest rain
-rates Monday and Tuesday. Patchy coastal fog Monday morning with a
-deepening marine layer through the end of the week.
+Monsoonal moisture in east to southeast flow aloft will bring
+scattered showers and thunderstorms to the mountains, deserts, and
+inland valleys through Tuesday, mainly during the afternoon.
+Monsoonal moisture will then decrease through next weekend. High
+temperatures will gradually cool into the middle of this week with
+high temperatures for the mountains and valleys as much as 5 to
+10 degrees below average for Wednesday through Saturday.
 
 &&
 
@@ -353,50 +353,40 @@ deepening marine layer through the end of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Wednesday)...
+High pressure aloft will slowly weaken through midweek. Monsoonal
+moisture in east to southeast flow aloft will bring scattered
+showers and thunderstorms to the mountains, deserts, and inland
+valleys through Tuesday, mainly during the afternoon. Monsoonal
+moisture will then decrease through next weekend with only a
+slight chance of showers and thunderstorms for Wednesday
+afternoon.
 
-Satellite shows high clouds streaming into Riverside and San
-Bernardino counties from the southeast after a collapsed MCS this
-morning, although any precipitation died off before reaching our
-borders. Much of the high clouds should move out by the afternoon,
-and high pressure situated over the Four Corners will keep
-temperatures well above normal and allow for monsoonal thunderstorms
-to develop over the higher terrain this afternoon. PW values above
-1" indicate that brief, heavy rainfall will be possible with any
-storm, but realistic maximum rain rates are likely closer to
-0.60"/hr or less for Riverside and San Diego mountains and 0.40"/hr
-or less for San Bernardino this afternoon.
+There will be a cooling trend into the middle of the week with
+high temperatures for the mountains and inland valleys falling to
+as much as 5 to 10 degrees below average for Wednesday through
+Saturday. The HeatRisk will decrease each day through the middle
+of the week. There will widespread moderate HeatRisk for the
+deserts today with areas of moderate HeatRisk for the inland
+valleys and lower elevations of the mountains with any remaining
+moderate HeatRisk by Wednesday only for portions of the lower
+deserts.
 
-Soundings are a bit more optimistic for storm potential on
-Monday/Tuesday as the high becomes more compressed by upper level
-troughing over the PacNW, allowing for a more unstable environment
-and monsoonal moisture to surge up into the mountains of SoCal.
-Temperatures will also begin to cool on Monday as we shed the last
-of our heat products. While HeatRisk will be lower on Monday, highs
-will still be above 100 in the High Deserts and above 105 in the low
-deserts, so continue best practices when spending time outdoors -
-frequent water/AC breaks and avoid strenuous activity during the
-hottest parts of the day. If attempting to escape to the mountains
-to avoid the heat, be prepared for more widespread thunderstorms
-Monday afternoon with heavy rain, frequent lightning, and localized
-flooding possible as instability peaks on this day. With easterly
-flow and ample mid and low level moisture, PWs will be increasing
-closer to 1.5-1.6, and rain rates may potentially exceed 1-1.25"/hr
-at times with any anchored storm. The majority of the storms are
-expected to remain in the mountains, but a few stronger cells may
-make it off and migrate into the deserts.
+&&
 
-Temperatures will cool further Tuesday back down to near normal as
-heights continue to fall and the marine layer deepens into the end
-of the week. One final day of scattered monsoonal thunderstorms in
-the higher terrain as PWs remain at or above 1.5" and instability
-lingers across southeastern CA. After Tuesday, more robust upper
-level troughing and the high sliding further eastward will usher in
-slightly below normal temperatures into the end of the week, along
-with lower storm chances (10-15% chance for a storm or two off the
-higher terrain will exist each afternoon Wed-Fri). This cooler
-weather will be a welcome change after temperatures have remained
-at or above normal since early July.
+.LONG TERM (Thursday through Sunday)...
+Drier inland and not as hot through next weekend. High
+temperatures will cool a few degrees on Thursday, then slowly warm
+through next weekend. High temperatures on Thursday will be as
+much as 5 to 10 degrees below average for the mountains and inland
+valleys, then around 5 degrees below average for those areas for
+next Sunday.
+
+High temperatures on Thursday will range from the 70s near the
+coast to the mid 80s to around 90 for the Inland Empire with 100
+to 104 for the lower deserts. For Sunday, high temperatures will
+range from the 70s near the coast to the upper 80s to mid 90s for
+the Inland Empire with 104 to 108 for the lower deserts.
 
 &&
 
@@ -433,7 +423,6 @@ Flood Advisory for details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -447,7 +436,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
+PUBLIC...17
 AVIATION/MARINE/BEACHES...KW
 
 
