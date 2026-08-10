@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-09T18:41:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T01:53:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -330,22 +330,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-359
-FXUS66 KSGX 091804
+995
+FXUS66 KSGX 092340
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1104 AM PDT Sun Aug 9 2026
+440 PM PDT Sun Aug 9 2026
 
 .SYNOPSIS...
-Minor to major HeatRisk continues for much of the region through
-today before cooler weather returns for Tuesday and beyond.
-Thunderstorm chances continue each afternoon and evening in the
-mountains and deserts through Wednesday, with best chances and
-highest rain rates Monday and Tuesday. Patchy coastal low clouds
-and fog this morning followed by a deepening marine layer after
-Monday.
+Minor to moderate HeatRisk continues through Monday with cooler
+weather Tuesday and beyond. Thunderstorm chances each day in the
+mountains through Wednesday, with best chances and highest rain
+rates Monday and Tuesday. Patchy coastal fog Monday morning with a
+deepening marine layer through the end of the week.
 
 &&
 
@@ -356,75 +354,77 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-This morning...Outflow from a collapsed MCS (Mesoscale Convective
-System) over western AZ is moving westward across Riverside County
-and producing isolated, weak tstms. These storms will likely
-collapse before reaching western Riverside or San Bernardino
-Counties but there is a small chance that they could reach the
-Coachella Valley intact by 3 am. If any storms reach western
-Riverside County, they will likely be quite weak. Although locally
-gusty winds could still be produced. The marine layer remains
-quite shallow and low clouds are slow to develop. Low cloud
-development could be further disrupted as the outflow from the MCS
-over AZ moves west of the mtns, although the outflow will be much
-weakened as it moves westward.
+Satellite shows high clouds streaming into Riverside and San
+Bernardino counties from the southeast after a collapsed MCS this
+morning, although any precipitation died off before reaching our
+borders. Much of the high clouds should move out by the afternoon,
+and high pressure situated over the Four Corners will keep
+temperatures well above normal and allow for monsoonal thunderstorms
+to develop over the higher terrain this afternoon. PW values above
+1" indicate that brief, heavy rainfall will be possible with any
+storm, but realistic maximum rain rates are likely closer to
+0.60"/hr or less for Riverside and San Diego mountains and 0.40"/hr
+or less for San Bernardino this afternoon.
 
-The high pressure over the southwest will continue to dominate our
-weather through Tuesday even as it weakens in response to a series
-of shortwave troughs moving inland to the north. The position of
-the high will allow the monsoonal flow to continue bringing deep-
-layer moisture into SoCal from the southeast. This will continue
-to support the potential for afternoon/evening showers and tstms,
-mainly in the mtns and deserts. Daytime high temperatures will
-gradually lower through the week but remain above normal through
-Monday. Today, we will still have minor HeatRisk in the inland
-valleys and mtns, and major HeatRisk in the deserts. By Tuesday,
-daytime high temperatures will be near or a few degrees below
-normal. The marine layer will gradually deepen as the high aloft
-weakens.
+Soundings are a bit more optimistic for storm potential on
+Monday/Tuesday as the high becomes more compressed by upper level
+troughing over the PacNW, allowing for a more unstable environment
+and monsoonal moisture to surge up into the mountains of SoCal.
+Temperatures will also begin to cool on Monday as we shed the last
+of our heat products. While HeatRisk will be lower on Monday, highs
+will still be above 100 in the High Deserts and above 105 in the low
+deserts, so continue best practices when spending time outdoors -
+frequent water/AC breaks and avoid strenuous activity during the
+hottest parts of the day. If attempting to escape to the mountains
+to avoid the heat, be prepared for more widespread thunderstorms
+Monday afternoon with heavy rain, frequent lightning, and localized
+flooding possible as instability peaks on this day. With easterly
+flow and ample mid and low level moisture, PWs will be increasing
+closer to 1.5-1.6, and rain rates may potentially exceed 1-1.25"/hr
+at times with any anchored storm. The majority of the storms are
+expected to remain in the mountains, but a few stronger cells may
+make it off and migrate into the deserts.
 
-For Wed through next weekend (according to model consensus)...a
-trough of low pressure deepens along the coast. This will bring
-more pronounced cooling, with daytime high temperatures as much as
-10 degrees below normal in some inland areas by Thursday. The
-below-normal temperatures will continue into next weekend. The
-trough will also bring dry, southwest flow aloft, reducing the
-potential for pm showers/tstms by Wed and essentially eliminating
-it for Thursday through next weekend. In addition, the marine
-layer will deepen and low clouds and fog could spread inland to
-the coastal slopes during the nights and mornings.
+Temperatures will cool further Tuesday back down to near normal as
+heights continue to fall and the marine layer deepens into the end
+of the week. One final day of scattered monsoonal thunderstorms in
+the higher terrain as PWs remain at or above 1.5" and instability
+lingers across southeastern CA. After Tuesday, more robust upper
+level troughing and the high sliding further eastward will usher in
+slightly below normal temperatures into the end of the week, along
+with lower storm chances (10-15% chance for a storm or two off the
+higher terrain will exist each afternoon Wed-Fri). This cooler
+weather will be a welcome change after temperatures have remained
+at or above normal since early July.
 
 &&
 
 .AVIATION...
-091800Z....Coast...Low clouds are continuing to clear along the
-coast with a few clouds lingering around 1,200-1,500ft MLS. Low
-clouds with bases 1,000-1,500ft MSL will start to redevelop after 03-
-05Z Monday, increasing in coverage and moving further inland by 08-
-10Z. Intermittent lower cigs 500-800ft MSL along coastal sites 11-
-15Z. Low clouds scatter out 16-18Z.
+092330Z....Coast...Patchy low clouds to gradually develop overnight,
+increasing in coverage and duration, with best chances of cigs
+between 11-15Z Tuesday. Bases around 700-1000 feet MSL. Scatter out
+of any cigs Tuesday by 16Z.
 
-Valleys/Mountains/Deserts...SCT-BKN cumulus still expected to
-develop over the mountains this afternoon with a 20-35% chance of
-TSRA in the mountains. Any storms that may develop could produce
-lightning, UDDFS and associated vis reductions. Mid/high clouds may
-drift into the valleys and deserts with bases AOA 10,000-15,000 ft
-MSL.
+Valleys/Mountains/Deserts...Isold TSRA mainly over mountains and
+high desert through 03Z. Bases around 10000 feet MSL with tops to
+40000 feet. Otherwise SCT-BKN debris clouds mostly above 15000 feet
+through 18Z Monday. Scattered TSRA after 18Z Monday with bases
+around 9000 feet MSL with tops to 50000 feet. Any TSRA could produce
+lightning, strong up/downdrafts and associated vis reductions.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
 .BEACHES...
-Astronomical high tides are expected to exceed 7 ft Monday through
-Wednesday between 8-9:30 PM PDT. Surf is not expected to play a
-large role in elevating the tides further, with a surf forecast of
-only 2-3 ft. Regardless, tides exceeding 7 ft can result in minor
-tidal overflow into low-lying areas along the beach, including beach
-parking lots.
+High tides will exceed 7 feet during evenings Monday through
+Wednesday between 800-930 PM, resulting in minor tidal overflow of
+low-lying areas along the beach. Surf will be low and is not
+expected to add much to the flooding potential. Check the Coastal
+Flood Advisory for details.
 
 &&
 
@@ -432,11 +432,14 @@ parking lots.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
+CA...Coastal Flood Advisory from 6 PM Monday to 11 PM PDT Wednesday
+     for Orange County Coastal Areas-San Diego County Coastal
+     Areas.
+
+     Heat Advisory until 8 PM PDT this evening for Orange County
      Inland Areas-Riverside County Mountains-San Bernardino
      County Mountains-San Bernardino and Riverside County
      Valleys-The Inland Empire-San Diego County Mountains-San
@@ -452,8 +455,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
