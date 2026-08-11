@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-11T07:06:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-11T13:07:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -331,24 +331,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-004
-FXUS66 KSGX 110602 AAA
+356
+FXUS66 KSGX 111130
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1102 PM PDT Mon Aug 10 2026
+430 AM PDT Tue Aug 11 2026
 
 .SYNOPSIS...
-Minor to moderate HeatRisk today with cooler weather Tuesday and
-beyond, high temperatures falling below normal by Wednesday.
-Monsoon thunderstorm chances each day in the mountains through
-Wednesday, with best chances and heaviest rain today and Tuesday.
-Deepening marine layer through the end of the week with breezy
-winds in the mountains and deserts.
+Another round of monsoon thunderstorms is expected for the mountains
+on Tuesday with locally heavy rainfall rates. An isolated storm or
+two may pop up over the mountains again Wednesday, but otherwise
+drier conditions are expected for late week into the weekend. A
+cooling trend will bring below normal temperatures to the region
+from Wednesday onward along with breezy conditions for the mountains
+and deserts. For the coastal basin, the marine layer is expected
+to deepen each day through the weekend.
 
 &&
 
@@ -356,84 +360,85 @@ winds in the mountains and deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Mid level water vapor shows troughing to the northwest with the
-ridge in place over the Four Corners region, poised to weaken into
-Tuesday as the trough becomes more pronounced. Minor to moderate
-HeatRisk continues today for much of the region, although
-temperatures begin a cooling trend today, reaching near normal by
-Tuesday afternoon. High clouds will continue to move into the region
-today as southeasterly flow shunts moisture northward, but these
-clouds shouldn`t meaningfully limit storm potential in the mountains
-this afternoon. The morning sounding indicated decent CAPE and
-increasing PWs of 1.3-1.6", with models signaling a wide swath of
-instability to set up today stretching from southwestern Arizona
-into southeastern California. This instability, along with the ample
-moisture in the mid and lower levels, will be key for more
-widespread monsoonal thunderstorms today, likely kicking off as
-early as noon. While much of the convection today will be
-anchored to the mountains, a few storms may migrate into the
-deserts and/or far eastern valleys with brief, heavy rainfall.
-Rain rates in the higher terrain will be a bit more impressive
-today, with 1"/hr or higher not out of the question for the San
-Diego and Riverside county mountains. Further north in San
-Bernardino, there will be a significant cut off of the moisture
-near the border with LA County. Therefore, lesser max rain rates
-closer to 0.5-0.75"/hr can be expected, with the strongest storms
-likely on the eastern/northeastern slopes of the SB County
-mountains. While widespread flooding isn`t expected, some
-localized spots, especially near the peaks or eastern sides of the
-mountains, could see some brief flooding both today and tomorrow.
-As always with any thunderstorm, frequent lightning, gusty winds,
+Monsoon thunderstorms put on a show over the mountains Monday
+afternoon, particularly in Riverside and San Diego Counties. A
+similar set up today will likely allow for another round of
+thunderstorms over the mountains this afternoon. The ridge over the
+Four Corners region and the weak trough to the northwest remain
+locked in place. Another surge of monsoon moisture should provide
+PWATs around 1.5" or slightly higher, similar to what was seen
+yesterday. The latest CAM guidance suggests rainfall rates of up
+to 1" per hour once again with the highest rainfall rates over San
+Diego and Riverside Counties where the moisture is best. Further
+north, rainfall rates of 0.5-0.75" remain possible over the
+eastern San Bernardino County mountains and locally into the High
+Desert. Lower PWATs further west should limit storm activity
+closer to the LA County line.
+
+The only notable difference in today`s set up is that the mean
+flow is expected to weaken slightly and shift more out of the
+south by this afternoon. With the flow more parallel to ridge
+lines in San Diego and Riverside Counties, storms may be able to
+maintain themselves for longer and there may even be a few cases
+of training storms. This theoretically increases the risk of flash
+flooding today, but the outcome will depend on exactly where
+convection eventually sets up. Regardless, rainfall rates up to 1"
+per hour will be enough for a marginal risk of flash flooding in
+itself. Additionally, the southerly orientation of flow will all
+but eliminate any chance of a storm drifting into the eastern
+valleys, but a stray storm in the low deserts remains possible. As
+always with any thunderstorm, frequent lightning, gusty winds,
 and small hail will be possible. Ensure you are prepared to take
 shelter in a sturdy and enclosed structure should you hear
 thunder.
 
-The ridge continues to weaken on Tuesday with some models now
-indicating a weak easterly wave may move across Tuesday morning,
-which could allow for some morning rainfall for the deserts and far
-inland areas. Should this come to pass, a rumble of thunder or two
-cannot be ruled out. This will be something to closely watch as any
-morning convection could limit afternoon storms in the mountains. As
-it stands now, additional moisture will be pushed into the region on
-Tuesday with a slight decrease in the instability, allowing for
-another round of monsoonal thunderstorms Tuesday afternoon.
-Conditions look conducive for a rince-and-repeat of Monday, but with
-the potential for slightly higher rain rates/localized flooding as
-PWs peak above 1.5". Again, much of this will depend on what occurs
-Tuesday morning with any easterly wave, but for now, will continue
-to message widespread mountain thunderstorms for Tuesday afternoon.
+By Wednesday, the ridge over the Four Corners weakens some and
+retreats eastward and the trough to the west deepens. Increasing
+trough influence will turn the flow out of the southwest, which
+will cut off the monsoon moisture. Exactly when this occurs will
+determine whether or not a storm or two can develop over the
+mountains on Wednesday. If anything develops, rainfall rates
+should be lower than today with the most likely location for
+convection being near Big Bear Lake.
 
-After Tuesday, the aforementioned upper level trough will encompass
-much of California as the state experiences a significant cooldown,
-with temperatures falling to 3-10 degrees below normal Wed-Fri and
-the marine layer deepens each day. This will be the first time in
-nearly a month that highs will be below normal, so take advantage of
-the cooler weather! Monsoonal moisture will linger in the region
-which could allow for some abnormally warmer mornings, but with
-limited forcing, afternoon thunderstorm chances will be falling
-through the end of the week. Still, models continue to push for a
-few storms over the San Bernardinos Wednesday afternoon as the
-trough begins to move in. Otherwise, quieter weather for the end of
-the week and weekend with cooler weather/a more robust marine layer
-and afternoon breezy winds in the deserts and mountain passes.
+As the trough continues to deepen just offshore, the cooling
+trend will become more pronounced from Wednesday onward. Many
+areas will see their coolest temperatures since early July from
+Wednesday through the weekend with high temperatures ranging 3 to
+12 degrees below normal along with slightly below normal low
+temperatures. Also, the marine layer is expected to deepen as
+upper heights fall through the week. Marine layer clouds may fill
+most of the coastal basin Thu-Fri mornings. Increased onshore
+flow will create breezy conditions for the mountains and deserts
+with the strongest winds expected Wednesday and Thursday
+afternoons and evenings.
+
+From this weekend into early next week, model guidance deals with
+a battle between the rebuilding ridge to the east and a
+reinforcing trough diving out of the northwest. The timing,
+strength, and locations of these features creates minor differences
+in model solutions heading into next week. However, the ensemble
+mean suggests slightly below normal temperatures and little to no
+chance for a return of the monsoon through at least mid-next week.
 
 &&
 
 .AVIATION...
-110600Z....Coast...Patchy low clouds to gradually develop overnight,
-increasing in coverage and duration, with best chances of cigs
-between 11-15Z Tuesday. Bases around 700-1000 feet MSL. Scatter out
-of any cigs Tuesday by 16-17Z. Low clouds around 1000 feet MSL to
-develop after 04Z Wednesday with greater coverage and uniformity.
+111100Z....Coast...Patchy low clouds based 900-1200 ft MSL have
+developed over coastal areas early this morning. Clouds will slowly
+expand in coverage over the next few hours with the greatest chances
+of cigs at coastal TAF sites between 12-16Z. Scatter out of any cigs
+by 17Z. VFR conditions expected this afternoon and evening. Areas of
+low clouds return to coastal areas early Wednesday morning with
+similar bases and greater coverage.
 
-Valleys/Mountains/Deserts...Scattered TSRA over mountains and
-locally in deserts after 18Z Tuesday. Bases around 9000 feet MSL
+Mountains/Deserts...Scattered TSRA over mountains and
+locally in deserts after 18Z today. Bases around 9000 feet MSL
 with tops to 50000 feet. Any TSRA could produce lightning, strong
 up/downdrafts and associated vis reductions. Otherwise, SCT-BKN
-clouds mostly above 15000 feet MSL through Tuesday.
+clouds mostly above 15000 feet MSL through today.
 
 &&
 
@@ -451,10 +456,15 @@ for details.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory from 6 PM this evening to 11 PM PDT
-     Wednesday for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Coastal Flood Advisory until 11 PM PDT Wednesday for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -462,8 +472,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...MM/17
+PUBLIC...KW
+AVIATION/MARINE/BEACHES...17
 
 
 </pre>
