@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-11T01:49:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-11T07:06:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -329,16 +329,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=32&glossary=0">32</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=33&glossary=0">33</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-294
-FXUS66 KSGX 102346
+004
+FXUS66 KSGX 110602 AAA
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-445 PM PDT Mon Aug 10 2026
+1102 PM PDT Mon Aug 10 2026
 
 .SYNOPSIS...
 Minor to moderate HeatRisk today with cooler weather Tuesday and
@@ -421,18 +423,17 @@ and afternoon breezy winds in the deserts and mountain passes.
 &&
 
 .AVIATION...
-102340Z....Coast...Patchy low clouds to gradually develop overnight,
+110600Z....Coast...Patchy low clouds to gradually develop overnight,
 increasing in coverage and duration, with best chances of cigs
 between 11-15Z Tuesday. Bases around 700-1000 feet MSL. Scatter out
 of any cigs Tuesday by 16-17Z. Low clouds around 1000 feet MSL to
 develop after 04Z Wednesday with greater coverage and uniformity.
 
-Valleys/Mountains/Deserts...Through 03Z, scattered TSRA over
-mountains and locally in deserts. Bases around 9000 feet MSL with
-tops to 50000 feet. Any TSRA could produce lightning, strong
-up/downdrafts and associated vis reductions. Similar TSRA situation
-expected again after 18Z Tuesday. Otherwise, SCT-BKN clouds mostly
-above 15000 feet MSL through Tuesday.
+Valleys/Mountains/Deserts...Scattered TSRA over mountains and
+locally in deserts after 18Z Tuesday. Bases around 9000 feet MSL
+with tops to 50000 feet. Any TSRA could produce lightning, strong
+up/downdrafts and associated vis reductions. Otherwise, SCT-BKN
+clouds mostly above 15000 feet MSL through Tuesday.
 
 &&
 
@@ -462,7 +463,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE/BEACHES...MM/17
 
 
 </pre>
