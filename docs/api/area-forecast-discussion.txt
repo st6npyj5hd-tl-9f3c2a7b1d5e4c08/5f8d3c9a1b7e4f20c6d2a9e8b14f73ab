@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-10T18:58:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-11T01:49:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -332,13 +332,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-875
-FXUS66 KSGX 101813
+294
+FXUS66 KSGX 102346
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1113 AM PDT Mon Aug 10 2026
+445 PM PDT Mon Aug 10 2026
 
 .SYNOPSIS...
 Minor to moderate HeatRisk today with cooler weather Tuesday and
@@ -353,6 +353,9 @@ winds in the mountains and deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Mid level water vapor shows troughing to the northwest with the
 ridge in place over the Four Corners region, poised to weaken into
@@ -418,24 +421,32 @@ and afternoon breezy winds in the deserts and mountain passes.
 &&
 
 .AVIATION...
-101100Z....Coast...Patchy low clouds based 900-1200 ft MSL have
-developed over coastal areas early this morning. Clouds will slowly
-expand in coverage over the next few hours with the best chances of
-cigs at coastal TAF sites between 12-15Z. Scatter out of any cigs by
-16Z. VFR conditions expected this afternoon and evening. Areas of
-low clouds return to coastal areas early Tuesday morning with
-similar bases and better coverage.
+102340Z....Coast...Patchy low clouds to gradually develop overnight,
+increasing in coverage and duration, with best chances of cigs
+between 11-15Z Tuesday. Bases around 700-1000 feet MSL. Scatter out
+of any cigs Tuesday by 16-17Z. Low clouds around 1000 feet MSL to
+develop after 04Z Wednesday with greater coverage and uniformity.
 
-Valleys/Mountains/Deserts...SCT-BKN clouds mostly above 15000 feet
-through 18Z Mon. Scattered TSRA over mtns with an isold TSRA or two
-in the High Desert 19Z Mon to 02z Tue with bases around 9000 feet
-MSL with tops to 50000 feet. Any TSRA could produce lightning,
-strong up/downdrafts and associated vis reductions.
+Valleys/Mountains/Deserts...Through 03Z, scattered TSRA over
+mountains and locally in deserts. Bases around 9000 feet MSL with
+tops to 50000 feet. Any TSRA could produce lightning, strong
+up/downdrafts and associated vis reductions. Similar TSRA situation
+expected again after 18Z Tuesday. Otherwise, SCT-BKN clouds mostly
+above 15000 feet MSL through Tuesday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
+
+&&
+
+.BEACHES...
+High tides will exceed 7 feet this evening and again Wednesday
+evening between 800-930 PM, resulting in minor tidal overflow of low-
+lying areas along the beach. Surf will be low and is not expected to
+add much to the flooding potential. Check the Coastal Flood Advisory
+for details.
 
 &&
 
@@ -451,7 +462,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...Small
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
