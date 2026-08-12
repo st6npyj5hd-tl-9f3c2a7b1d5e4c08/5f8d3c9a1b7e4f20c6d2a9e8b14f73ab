@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T02:02:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T07:12:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -333,16 +333,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=34&glossary=0">34</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-265
-FXUS66 KSGX 112340
+463
+FXUS66 KSGX 120528
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-440 PM PDT Tue Aug 11 2026
+1028 PM PDT Tue Aug 11 2026
 
 .SYNOPSIS...
 Another round of monsoon thunderstorms is expected for the mountains
@@ -359,7 +361,6 @@ to deepen each day through the weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -408,18 +409,19 @@ remaining dry.
 &&
 
 .AVIATION...
-112330Z....Coast/Valleys...Areas of low clouds to develop after 03Z
-and gradually spread locally into western valleys overnight. Bases
-will be 900-1200 feet MSL with vis reduced to 1-5SM inland. Scatter
-out Wednesday 17-18Z.
+120515Z....Coast/Valleys...Areas of low clouds with bases 1100-1500
+ft MSL filling in along the coast 06-10Z and spreading around 15-20
+mi inland overnight. Coverage for inland portions of Orange County,
+including around KSNA, may remain patchy with low confidence in
+timing and duration of any CIGs. Low clouds clearing to the coast 15-
+18Z, then spreading back inland beginning around 13/01Z with bases
+around 1500-2000 ft MSL and tops to 2500 ft MSL.
 
-.Mountains/Deserts...Isold TSRA in mountains and deserts to end by
-03Z. Bases around 9000 feet MSL with tops to 50000 feet with any
-storm. Any TSRA could produce lightning, strong up/downdrafts and
-associated VIS reductions. Isold TSRA to develop again after 18Z
-Wednesday, most likely from KL35 north into the high desert.
-Otherwise, SCT to locally BKN clouds mostly above 150000 feet MSL
-through Wednesday.
+Mountains/Deserts...ISO SHRA/TSRA developing after 19Z Wednesday,
+most likely from KL35 north into the high desert. CB bases near
+15,000 ft MSL with tops to 30,000 ft MSL. Gusty outflow winds
+possible VCTY TSRA. Otherwise, increasing high clouds at/above
+20,000 ft MSL Wednesday afternoon.
 
 &&
 
@@ -429,17 +431,17 @@ No hazardous marine conditions are expected through Sunday.
 &&
 
 .BEACHES...
-High tides will exceed 7 feet this evening and again Wednesday
-evening between 800-930 PM, resulting in minor tidal overflow of low-
-lying areas along the beach. Surf will be low and is not expected to
-add much to the flooding potential. Check the Coastal Flood Advisory
-for details.
+High tides will exceed 7 feet Wednesday evening around 930 PM,
+resulting in minor tidal overflow of low-lying areas along the
+beach. Surf will be small and is not expected to contribute to the
+flooding potential. Check the Coastal Flood Advisory for details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -454,7 +456,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
