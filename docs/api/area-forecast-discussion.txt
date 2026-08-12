@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T07:12:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T13:11:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -335,26 +335,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-463
-FXUS66 KSGX 120528
+509
+FXUS66 KSGX 120937
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1028 PM PDT Tue Aug 11 2026
+237 AM PDT Wed Aug 12 2026
 
 .SYNOPSIS...
-Another round of monsoon thunderstorms is expected for the mountains
-on Tuesday with locally heavy rainfall rates. An isolated storm or
-two may pop up over the mountains again Wednesday, but otherwise
-drier conditions are expected for late week into the weekend. A
-cooling trend will bring below normal temperatures to the region
-from Wednesday onward along with breezy conditions for the mountains
-and deserts. For the coastal basin, the marine layer is expected
-to deepen each day through the weekend.
+The flow aloft will become gradually southwesterly with drying of
+monsoonal moisture the next few days. There remains a slight
+chance of showers and thunderstorms for the mountains and deserts
+from late this morning through this afternoon. In addition to
+drying aloft, there will also be gradual drying of lower level
+moisture through early next week. High temperatures will cool
+through Thursday, then slowly warm into the middle of next week.
 
 &&
 
@@ -362,66 +363,77 @@ to deepen each day through the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Today through tomorrow night...
+.SHORT TERM (Today through Friday)...
+A developing weak low pressure system near the West Coast will
+bring drier southwest flow aloft with drying of monsoonal moisture
+and gradual cooling through Thursday.
 
-Recycled monsoonal moisture is continuing to stream up over the
-region out of the southeast around the high positioned over the
-desert southwest. Given the amount of instability and abundance of
-moisture, there will be around a 40 to 50 percent chance of
-afternoon showers and thunderstorms developing, with the San
-Bernardinos mostly at play. Some of these storms will be capable of
-producing rainfall rates of 0.50 inches per hour. Expect that some
-of these storms will also produce strong and gusty winds due to
-outflows and high DCAPE values exceeding 1000 J/kg. There could also
-be some small hail associated with these storms. This will continue
-into the evening hours, with storms beginning to move towards the
-northeast by later in the day as mid-level flow begins to shift to
-being more out of a southwesterly direction. There may also be
-some isolated areas of flash flooding as a result of the storms,
-as they may rapidly intensity along the mountain/desert interface,
-especially where there are currently some SBCAPE values of 4000
-J/kg, with temperatures/dews of low 90s over low 70s within the
-Coachella Valley. These showers and storms will likely make their
-way into the high deserts with skies continuing to clear as these
-showers/storms dissipate and move out of the CWA. The marine layer
-will be rather dispersed and then fill back in by late into the
-night. As troughing continues to influence the region from
-upstream, with should allow bases to slightly rise into the
-morning hours tomorrow.
+Cooling of high temperatures will spread inland through Thursday
+with Thursday high temperatures near average at the coast to as
+much as 8 to 12 degrees below average for the mountains and inland
+valleys. High temperatures for Thursday will range from the 70s
+near the coast to the 80s for the Inland Empire with the lower
+deserts around 100. High temperatures on Friday will warm a few
+degrees.
 
-Thursday through Wednesday...
+Drying of monsoonal moisture will occur over the next few days as
+the flow aloft becomes southwesterly. There is a slight chance of
+showers and thunderstorms from late this morning through this
+afternoon, mainly near the mountains and extending into portions
+of the high desert. Any remaining chances for showers or
+thunderstorms for Thursday afternoon should be limited to the San
+Bernardino Mountains northeastward into the high desert.
 
-Troughing from upstream will continue to influence the region with
-gradually cooling temperatures through the end of the week, and
-temperatures becoming as much as 10 degrees below the seasonal
-average for some areas. This will also increase surface gusty winds,
-especially during the afternoon for the high deserts, and mountain
-canyons/passes by later in the week, with gusts approaching 60 mph
-within Gorgonio Pass. There will also become more persistence with
-onshore flow, with the marine layer becoming more prevalent
-overnight and into the morning hours. Going into early next week,
-ensembles reflect a breakdown of the troughing over the E Pacific
-waters and thus a return to more seasonal temperatures, while
-remaining dry.
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+For the weekend, high pressure to the east will strengthen while a
+trough of low pressure off the California coast maintains drier
+southwest flow aloft. For early next week, there are some
+differences in the placement of low pressure near or farther off
+the California coast with greater spread in the high temperature
+guidance. Cluster analysis shows the model solutions that are
+cooler are those with the low pressure along the California coast
+versus farther off the coast with those solutions with low
+pressure near the coast representing around 20 percent of
+ensemble solutions.
+
+High temperatures will slowly warm for Saturday through Tuesday.
+High temperatures on Saturday will range from around average near
+the coast to 4 to 8 degrees below average for the mountains and
+inland valleys. For next Tuesday, high temperatures will range
+from around average near the coast to around 5 degrees below
+average for the mountains and inland valleys with the lower
+deserts a few degrees above average for the lower deserts.
+
+High temperatures on Saturday will range from the 70s near the
+coast to the mid 80s to mid 90s for the Inland Empire with 100 to
+104 for the lower deserts. For next Tuesday, high temperatures
+will range from the 70s near the coast to the 90s in the Inland
+Empire with 106 to 110 for the lower deserts.
 
 &&
 
 .AVIATION...
-120515Z....Coast/Valleys...Areas of low clouds with bases 1100-1500
-ft MSL filling in along the coast 06-10Z and spreading around 15-20
-mi inland overnight. Coverage for inland portions of Orange County,
-including around KSNA, may remain patchy with low confidence in
-timing and duration of any CIGs. Low clouds clearing to the coast 15-
-18Z, then spreading back inland beginning around 13/01Z with bases
-around 1500-2000 ft MSL and tops to 2500 ft MSL.
+120930Z....Coast/Valleys...Areas of low clouds with bases 1700-2000
+ft MSL continuing to fill in over the San Diego County coasts and
+valleys and spreading around 15-20 mi inland through 15Z. Coverage
+for Orange County, including around KSNA, will remain patchy with
+low confidence in timing and duration of any CIGs. Low clouds
+clearing to the coast 15-18Z, then spreading back inland beginning
+around 13/00Z with bases around 1500-2000 ft MSL and tops to 2500 ft
+MSL. Low clouds moving into the inland valleys overnight with a 40-
+50% chance of CIGS at KONT and KSBD. Local vis 2-5 SM in BR where
+clouds near terrain in the valleys.
 
-Mountains/Deserts...ISO SHRA/TSRA developing after 19Z Wednesday,
-most likely from KL35 north into the high desert. CB bases near
-15,000 ft MSL with tops to 30,000 ft MSL. Gusty outflow winds
-possible VCTY TSRA. Otherwise, increasing high clouds at/above
-20,000 ft MSL Wednesday afternoon.
+Mountains/Deserts...ISO SHRA/TSRA developing after 19Z today, most
+likely from KL35 north into the high desert. CB bases near 15,000 ft
+MSL with tops to 30,000 ft MSL. Gusty outflow winds possible VCTY
+TSRA. Otherwise, increasing high clouds at/above 20,000 ft MSL
+this afternoon.
 
 &&
 
@@ -431,10 +443,10 @@ No hazardous marine conditions are expected through Sunday.
 &&
 
 .BEACHES...
-High tides will exceed 7 feet Wednesday evening around 930 PM,
-resulting in minor tidal overflow of low-lying areas along the
-beach. Surf will be small and is not expected to contribute to the
-flooding potential. Check the Coastal Flood Advisory for details.
+High tides will exceed 7 feet this evening around 930 PM, resulting
+in minor tidal overflow of low-lying areas along the beach. Surf
+will be small and is not expected to contribute to the flooding
+potential. Check the Coastal Flood Advisory for details.
 
 &&
 
@@ -446,7 +458,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory until 11 PM PDT Wednesday for Orange
+CA...Coastal Flood Advisory until 11 PM PDT this evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
@@ -455,7 +467,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
+PUBLIC...17
 AVIATION/MARINE/BEACHES...SS
 
 
