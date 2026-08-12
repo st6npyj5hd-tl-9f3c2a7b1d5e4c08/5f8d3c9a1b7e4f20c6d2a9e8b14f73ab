@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T13:11:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-12T19:02:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-509
-FXUS66 KSGX 120937
+605
+FXUS66 KSGX 121826
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-237 AM PDT Wed Aug 12 2026
+1126 AM PDT Wed Aug 12 2026
 
 .SYNOPSIS...
 The flow aloft will become gradually southwesterly with drying of
@@ -362,7 +362,6 @@ through Thursday, then slowly warm into the middle of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -418,22 +417,21 @@ Empire with 106 to 110 for the lower deserts.
 &&
 
 .AVIATION...
-120930Z....Coast/Valleys...Areas of low clouds with bases 1700-2000
-ft MSL continuing to fill in over the San Diego County coasts and
-valleys and spreading around 15-20 mi inland through 15Z. Coverage
-for Orange County, including around KSNA, will remain patchy with
-low confidence in timing and duration of any CIGs. Low clouds
-clearing to the coast 15-18Z, then spreading back inland beginning
-around 13/00Z with bases around 1500-2000 ft MSL and tops to 2500 ft
-MSL. Low clouds moving into the inland valleys overnight with a 40-
-50% chance of CIGS at KONT and KSBD. Local vis 2-5 SM in BR where
-clouds near terrain in the valleys.
+121800Z....Coast/Valleys...Increasing (FEW-SCT) cu AOA 20,000ft MSL
+today, becoming SCT-OVC by Thursday. Patchy low clouds develop
+tonight, likely right around 1800-2000ft MSL after 03z Thur near the
+coast, spreading to the Inland Empire after 09z with bases slowly
+rising to above 2000ft MSL. Bases may rise up to 3500ft MSL after
+sunrise and retreat back towards the coastline by 16-18z. Potential
+for lingering stratus through Thursday afternoon. Secondary layer
+closer to 20,000ft MSL will become more pronounced by then, with
+cloudy conditions through Thursday afternoon.
 
-Mountains/Deserts...ISO SHRA/TSRA developing after 19Z today, most
-likely from KL35 north into the high desert. CB bases near 15,000 ft
-MSL with tops to 30,000 ft MSL. Gusty outflow winds possible VCTY
-TSRA. Otherwise, increasing high clouds at/above 20,000 ft MSL
-this afternoon.
+.Mountains/Deserts...ISO SHRA/TSRA in the mountains today, most
+likely from KL35 north into the high desert. CB bases near 15,000ft
+MSL with tops to 30,000ft MSL. Gusty outflow winds possible VCTY
+TSRA. Otherwise, increasing high clouds AOA 20,000ft MSL this
+through Thursday morning with VFR.
 
 &&
 
@@ -450,13 +448,6 @@ potential. Check the Coastal Flood Advisory for details.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory until 11 PM PDT this evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
@@ -467,8 +458,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...SS
+PUBLIC...Martin
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
