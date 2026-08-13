@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-13T13:13:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-13T19:03:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -337,18 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-858
-FXUS66 KSGX 130948
+631
+FXUS66 KSGX 131901
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-248 AM PDT Thu Aug 13 2026
+1201 PM PDT Thu Aug 13 2026
 
 .SYNOPSIS...
 Southwest flow aloft will bring drying of monsoonal moisture the
@@ -361,7 +359,6 @@ around average for next Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -404,19 +401,16 @@ coast to the 90s to around 100 for the Inland Empire with 106 to
 &&
 
 .AVIATION...
-130945Z....Coast/Valleys...Low clouds with bases 2000-2500 ft MSL
-and tops to 3000 ft MSL will continue to spread into the inland
-valleys through 14Z. Local vis 3-5 SM where clouds near terrain in
-the valleys. Clouds clearing inland 15-17Z and closer to the coast
-17-19Z. There is a 60-80% chance of CIGS persisting at the beaches
-and up to around 10 mi inland in San Diego County through the
-afternoon. Low clouds will begin to spread back inland beginning
-around 14/00Z, filling in over the coastal basin again by 12Z Fri.
-Otherwise SCT-BKN clouds at/above 20,000 ft MSL through this
-evening.
+131800Z....Coast/Valleys...Patchy low clouds near KSAN will be
+stubborn to fully clear this afternoon, but otherwise VFR conditions
+will prevail. Low clouds will move inland early in San Diego County
+after 23Z with clouds extending into most valleys by 12Z. Bases will
+be around 2200 feet MSL with local vis 3-5SM inland. Scatter out
+Friday 16-18Z.
 
-Mountains/Deserts...SCT-BKN clouds at/above 20,000 ft MSL and
-unrestricted vis through this evening.
+Regionwide...BKN clouds at/above 15000 feet MSL (with SCT clouds
+10000 feet MSL over mountains through 00Z) and unrestricted vis,
+clearing west to east after 10Z Friday.
 
 &&
 
@@ -429,7 +423,6 @@ No hazardous marine conditions are expected through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -440,8 +433,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...SS
+PUBLIC...Martin
+AVIATION/MARINE...MM
 
 
 </pre>
