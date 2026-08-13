@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-13T02:04:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-13T07:35:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-037
-FXUS66 KSGX 130000
+972
+FXUS66 KSGX 130528
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-500 PM PDT Wed Aug 12 2026
+1028 PM PDT Wed Aug 12 2026
 
 .SYNOPSIS...
 The flow aloft will become gradually southwesterly with drying of
@@ -364,7 +364,6 @@ through Thursday, then slowly warm into the middle of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -411,44 +410,41 @@ warmup back to around seasonal temperatures for this time of year,
 and even a little above average temperatures will return going into
 the early half of next week as heights creep back above 595 dm. Due
 to this, there may need to be heat products issued for the deserts
-again by Monday, as temperatures look to sore north of 110F for much
-of the lower deserts and within the Coachella Valley. As this
-occurs, there will be some recycled monsoonal moisture that may make
-its way back into southern California, and may give our mountains
-and deserts a slight chance of afternoon thunderstorms towards the
-middle of next week, otherwise remaining dry elsewhere through then.
+again by Monday, as temperatures look to soar north of 110F for
+much of the lower deserts and within the Coachella Valley. As this
+occurs, there will be some recycled monsoonal moisture that may
+make its way back into southern California, and may give our
+mountains and deserts a slight chance of afternoon thunderstorms
+towards the middle of next week, otherwise remaining dry elsewhere
+through then.
 
 &&
 
 .AVIATION...
-130000Z....Coast/Valleys...Increasing (FEW-SCT) high clouds AOA
-20,000ft MSL through tonight, becoming SCT-OVC by Thursday. Low
-clouds based near 2000 ft MSL are currently developing over
-nearshore waters and along the San Diego County coastline. Clouds
-will spread into San Diego/Orange County coasts/valleys by 06z and
-will eventually fill into most of the coastal basin overnight. Bases
-may slowly rise to 2500 ft or so through the early morning hours.
-Clouds scatter out of inland areas 16-19z, but will likely linger
-through the afternoon for most areas within 10 miles of the
-coastline. 60-70% chance for clouds to last through the afternoon at
-KSAN and KCRQ with bases near 3000 ft MSL.
+130515Z....Coast/Valleys...Low clouds with bases 2000-2500 ft MSL
+and tops to 3000 ft MSL developing over the San Diego County valleys
+and coastal Orange County will spread into the inland valleys by 10-
+12Z. Local vis 3-5 SM where clouds near terrain in the valleys
+overnight. Clouds clearing inland 15-17Z and closer to the coast 17-
+19Z. There is a 60-80% chance of CIGS persisting at the beaches and
+up to around 10 mi inland in San Diego County through the afternoon.
+Low clouds will begin to push further inland beginning around
+14/00Z, filling in over the coastal basin again Thu night. Otherwise
+SCT-BKN clouds at/above 20,000 ft MSL through Thu evening.
 
-.Mountains/Deserts...VFR conditions expected through the
-TAF period with increasing high clouds AOA 20,000ft MSL through
-Thursday morning.
+Mountains/Deserts...SCT-BKN clouds at/above 20,000 ft MSL and
+unrestricted vis through Thursday evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
 .BEACHES...
-High tides will exceed 7 feet this evening around 930 PM, resulting
-in minor tidal overflow of low-lying areas along the beach. Surf
-will be small and is not expected to contribute to the flooding
-potential. Check the Coastal Flood Advisory for details.
+High tides of 7 feet occurred earlier this evening. High tides will
+be lower on Thursday, minimizing the threat of any coastal flooding.
 
 &&
 
@@ -470,7 +466,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
