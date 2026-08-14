@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-13T19:03:10+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T02:02:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -337,16 +337,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-631
-FXUS66 KSGX 131901
+006
+FXUS66 KSGX 132353
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1201 PM PDT Thu Aug 13 2026
+453 PM PDT Thu Aug 13 2026
 
 .SYNOPSIS...
 Southwest flow aloft will bring drying of monsoonal moisture the
@@ -360,57 +362,70 @@ around average for next Tuesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Saturday)...
-A trough of low pressure will bring drying of monsoonal moisture
-with southwest flow aloft. Surface dewpoints will decrease as well
-for inland areas. However, there will be a flow of higher level
-tropical moisture into the area from the southwest from Tropical
-Depression Eight-E near 18N/132W. That higher level moisture and
-clouds will move east of the area on Friday morning.
+Tonight through Saturday...
 
-High temperatures will continue to cool today with high
-temperatures as much as 8 to 12 degrees below average for the
-mountains and inland valleys. High temperatures for today will
-range from the the lower to mid 70s near the coast to the 80s for
-the Inland Empire with the lower deserts around 100.
+Low clouds have struggled to dissipate completely this morning under
+the blanket of a "baroclinic leaf" transitioning over the region
+that is associated with a shortwave trough approaching the area.
+This is also allowing for temperatures to be slightly cooler, and
+below the seasonal average for this time of year. There is some
+moisture still lingering over the region, along with just enough
+forcing to maybe allow for an isolated shower/storm or two to pop
+off later this afternoon. However, there is not high confidence of
+this since a majority of the instability is confined to the east of
+the CWA. Nonetheless, an isolated shower/storm or two developing
+over the eastern San Bernardino Mountains and then moving out over
+the high deserts cannot be ruled out. Some of the guidance does show
+the potential of this, although the consensus, especially with the
+mid-level flow being out of the southwest, which is not so favorable
+as more dry air is becoming advected in gives more credence to
+conditions remaining dry for today and through tomorrow. Winds
+will also increase later this afternoon across the higher terrain
+of possibly 50 mph or greater, and within the passes with possible
+gusts approaching 60 mph for Gorgonio Pass. This will also be the
+case for tomorrow, except that winds will be slightly lighter
+than this afternoon. Temperatures for tomorrow will also be
+slightly warmer, yet still below the seasonal average. The marine
+layer should fill in better by later this afternoon and into the
+evening with the presence of better onshore flow.
 
-For Friday through Tuesday of next week, low pressure near the
-California will move slowly toward the west as high pressure
-centered over the southeast states also moves slowly toward the
-west with gradually strengthening of high pressure aloft over
-southern California.
+Sunday through Thursday...
 
-High temperatures on Saturday will be around average at the coast
-to around 4 to 8 degrees above average for the mountains and
-inland valleys. High temperatures on Saturday will range from the
-70s near the coast to the mid 80s to mid 90s for the Inland Empire
-with 100 to 104 for the lower deserts.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-The slow warming trend will continue through Tuesday with Tuesday
-high temperatures within a few degrees of average to around 5
-degrees above average for the lower deserts. High temperatures for
-next Tuesday will range from the mid 70s to around 80 near the
-coast to the 90s to around 100 for the Inland Empire with 106 to
-110 for the lower deserts.
+Through the weekend, there will be a gradual warmup as the ridge to
+the east begins to expand back towards the west. Conditions should
+remain dry through then, as monsoonal moisture is suppressed
+further to the south. Temperatures will continue to warm into the
+early half of next week as the ridge further builds, and there
+could be pulses of monsoonal waves moving up from the southeast
+around the high centered over the desert southwest, which may
+increase chances of getting afternoon thunderstorms over our
+mountains and deserts during the afternoon hours. Best chances at
+this time look to be on Tuesday of next week, although even for
+this day, the mid-level flow initially beginning out of the
+southeast earlier in the morning turns more southwesterly by later
+in the day, with less favorability for development. Temperatures
+will return to around average through Wednesday, and then slowly
+begin to drop off going into the latter half of next week as the
+ridge weakens. Ensembles also reflect similar trends, with mostly
+dry conditions likely persisting through the end of next week.
 
 &&
 
 .AVIATION...
-131800Z....Coast/Valleys...Patchy low clouds near KSAN will be
-stubborn to fully clear this afternoon, but otherwise VFR conditions
-will prevail. Low clouds will move inland early in San Diego County
-after 23Z with clouds extending into most valleys by 12Z. Bases will
-be around 2200 feet MSL with local vis 3-5SM inland. Scatter out
-Friday 16-18Z.
+140000Z....Coast/Valleys...Patchy low clouds based near 2000 ft MSL
+over coastal San Diego County. Clouds will quickly expand in
+coverage and push into the San Diego/Orange County coasts and
+valleys in the next few hours. Thereafter, clouds move more slowly
+into the Inland Empire, eventually filling most of the coastal basin
+by 10-12z Fri. Low clouds rise to near 2500 ft MSL and scatter out
+of inland areas from 15-18z, but may linger into the early afternoon
+for coastal areas, particularly near KSAN.
 
-Regionwide...BKN clouds at/above 15000 feet MSL (with SCT clouds
-10000 feet MSL over mountains through 00Z) and unrestricted vis,
-clearing west to east after 10Z Friday.
+Regionwide...BKN clouds at/above 15000 feet MSL and unrestricted
+vis, clearing west to east after 12Z Friday.
 
 &&
 
@@ -423,6 +438,7 @@ No hazardous marine conditions are expected through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -433,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE...MM
+PUBLIC...Stewey
+AVIATION/MARINE...KW
 
 
 </pre>
