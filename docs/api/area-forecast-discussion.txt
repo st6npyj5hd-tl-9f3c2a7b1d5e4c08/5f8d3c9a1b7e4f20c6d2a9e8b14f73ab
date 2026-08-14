@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T07:25:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T13:08:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,22 +339,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-878
-FXUS66 KSGX 140548
+141
+FXUS66 KSGX 140941
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1048 PM PDT Thu Aug 13 2026
+241 AM PDT Fri Aug 14 2026
 
 .SYNOPSIS...
-Southwest flow aloft will bring drying of monsoonal moisture the
-next few days with surface drying for inland areas as well. High
-temperatures will continue to cool today, then slowly warm to
-around average for next Tuesday.
+Monsoonal moisture will slowly dry into next week, but with some
+continuing afternoon clouds near the mountains through the
+weekend. There will be a warming trend through the middle of next
+week with high temperatures warming from 5 to 10 degrees below
+average for inland areas today to within a few degrees of average
+for most areas for next Tuesday and Wednesday.
 
 &&
 
@@ -362,70 +366,74 @@ around average for next Tuesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Tonight through Saturday...
+.SHORT TERM (Today through Sunday)...
+A trough of low pressure along the California coast and high
+pressure centered over the southeast states will move slowly
+toward the west with high pressure aloft across southern
+California gradually strengthening into the middle of next week
+with a warming trend through the middle of next week.
 
-Low clouds have struggled to dissipate completely this morning under
-the blanket of a "baroclinic leaf" transitioning over the region
-that is associated with a shortwave trough approaching the area.
-This is also allowing for temperatures to be slightly cooler, and
-below the seasonal average for this time of year. There is some
-moisture still lingering over the region, along with just enough
-forcing to maybe allow for an isolated shower/storm or two to pop
-off later this afternoon. However, there is not high confidence of
-this since a majority of the instability is confined to the east of
-the CWA. Nonetheless, an isolated shower/storm or two developing
-over the eastern San Bernardino Mountains and then moving out over
-the high deserts cannot be ruled out. Some of the guidance does show
-the potential of this, although the consensus, especially with the
-mid-level flow being out of the southwest, which is not so favorable
-as more dry air is becoming advected in gives more credence to
-conditions remaining dry for today and through tomorrow. Winds
-will also increase later this afternoon across the higher terrain
-of possibly 50 mph or greater, and within the passes with possible
-gusts approaching 60 mph for Gorgonio Pass. This will also be the
-case for tomorrow, except that winds will be slightly lighter
-than this afternoon. Temperatures for tomorrow will also be
-slightly warmer, yet still below the seasonal average. The marine
-layer should fill in better by later this afternoon and into the
-evening with the presence of better onshore flow.
+Through Sunday, high temperatures will warm a few degrees per
+day. High temperatures 5 to 10 degrees below average for inland
+areas today will warm to a few to around 5 degrees below average
+for inland areas on Sunday. High temperatures on Saturday will
+range from the mid to upper 70s near the coast to the upper 80s
+to upper 90s for the Inland Empire with 104 to 108 for the lower
+deserts.
 
-Sunday through Thursday...
+There remains some mid level moisture across the area. Some clouds
+will continue to develop each afternoon near the mountains and
+along convergence boundaries into the Lucerne Valley. The greatest
+chance for any afternoon shower development is on Saturday at 10
+to 15 percent for the San Bernardino Mountains into the Lucerne
+Valley.
 
-Through the weekend, there will be a gradual warmup as the ridge to
-the east begins to expand back towards the west. Conditions should
-remain dry through then, as monsoonal moisture is suppressed
-further to the south. Temperatures will continue to warm into the
-early half of next week as the ridge further builds, and there
-could be pulses of monsoonal waves moving up from the southeast
-around the high centered over the desert southwest, which may
-increase chances of getting afternoon thunderstorms over our
-mountains and deserts during the afternoon hours. Best chances at
-this time look to be on Tuesday of next week, although even for
-this day, the mid-level flow initially beginning out of the
-southeast earlier in the morning turns more southwesterly by later
-in the day, with less favorability for development. Temperatures
-will return to around average through Wednesday, and then slowly
-begin to drop off going into the latter half of next week as the
-ridge weakens. Ensembles also reflect similar trends, with mostly
-dry conditions likely persisting through the end of next week.
+Night and morning coastal low clouds will spread into portions of
+the valleys late each night with the marine layer become gradually
+shallower during the weekend.
+
+&&
+
+.LONG TERM (Monday through Thursday)...
+Warming of high temperatures of a few degrees per day for inland
+areas will continue through Tuesday with not much change on
+Wednesday and slight cooling on Thursday. High temperatures for
+Tuesday and Wednesday will be within a few degrees of average for
+most areas with the lower deserts around 5 degrees above average.
+High temperatures will range from the mid 70s to around 80 near
+the coast to the 90s to around 100 for the Inland Empire with 108
+to 112 for the lower deserts.
+
+Dry weather will continue through next week. The marine layer will
+become slightly shallower through the middle of next week with
+night and morning coastal low clouds spreading inland into the far
+western valleys at times.
 
 &&
 
 .AVIATION...
-140530Z....Coast/Valleys...Patchy intermittent low clouds 1,800-
-2,000ft MSL along coastal locations will continue as higher clouds
-around 25,000ft MSL continue to pass overhead. Higher clouds will
-start to push east over the next few hours, allowing low clouds to
-increase in coverage and push inland after 07-09Z. Low clouds are
-expected to slowly fill into the Inland Empire 08-10Z, eventually
-filling most of the coastal basin by 11-13Z. Low clouds lift near
-2,500ft MSL and scatter out of inland areas 16-18z, but may linger
-into the early afternoon for coastal areas, particularly near KSAN.
+140930Z....Coast/Valleys...Patchy intermittent low clouds continue
+with bases 1,800-2,000ft MSL along coastal locations as higher
+clouds around 25,000ft MSL make their way east. As higher clouds
+push east, low clouds will increase in coverage and push inland over
+the next few hours. Low clouds are expected to slowly fill into the
+Inland Empire, eventually filling most of the coastal basin by 12-
+14Z. Low clouds lift near 2,500ft MSL and scatter out of inland
+areas 16-18z, but may linger into the early afternoon for coastal
+areas, particularly near KSAN. The south San Diego coast has a 50-70
+percent chance of staying under low cloud cover with bases 2,000-
+2,500ft MSL through the TAF period. Low clouds with similar bases
+will increase and fill into the San Diego valley 01-04Z Saturday,
+spreading north into Orange County 06-09Z Saturday.
 
-Regionwide...BKN-OVC high clouds AOA 25,000ft MSL will slowly make
-their way east and clear the area by 14-17Z.
+Regionwide...BKN-OVC high clouds AOA 25,000ft MSL continue to slowly
+push east, clearing the area by 14-17Z. Then, SCT clouds 10,000ft
+MSL over mountains in the afternoon through 00Z Saturday with
+unrestricted vis. High clouds return, moving in from the south 07-
+09Z Saturday.
 
 &&
 
@@ -449,7 +457,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
+PUBLIC...17
 AVIATION/MARINE...Villafane
 
 
