@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T02:02:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T07:25:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -342,13 +342,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-006
-FXUS66 KSGX 132353
+878
+FXUS66 KSGX 140548
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-453 PM PDT Thu Aug 13 2026
+1048 PM PDT Thu Aug 13 2026
 
 .SYNOPSIS...
 Southwest flow aloft will bring drying of monsoonal moisture the
@@ -361,7 +361,6 @@ around average for next Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -415,22 +414,23 @@ dry conditions likely persisting through the end of next week.
 &&
 
 .AVIATION...
-140000Z....Coast/Valleys...Patchy low clouds based near 2000 ft MSL
-over coastal San Diego County. Clouds will quickly expand in
-coverage and push into the San Diego/Orange County coasts and
-valleys in the next few hours. Thereafter, clouds move more slowly
-into the Inland Empire, eventually filling most of the coastal basin
-by 10-12z Fri. Low clouds rise to near 2500 ft MSL and scatter out
-of inland areas from 15-18z, but may linger into the early afternoon
-for coastal areas, particularly near KSAN.
+140530Z....Coast/Valleys...Patchy intermittent low clouds 1,800-
+2,000ft MSL along coastal locations will continue as higher clouds
+around 25,000ft MSL continue to pass overhead. Higher clouds will
+start to push east over the next few hours, allowing low clouds to
+increase in coverage and push inland after 07-09Z. Low clouds are
+expected to slowly fill into the Inland Empire 08-10Z, eventually
+filling most of the coastal basin by 11-13Z. Low clouds lift near
+2,500ft MSL and scatter out of inland areas 16-18z, but may linger
+into the early afternoon for coastal areas, particularly near KSAN.
 
-Regionwide...BKN clouds at/above 15000 feet MSL and unrestricted
-vis, clearing west to east after 12Z Friday.
+Regionwide...BKN-OVC high clouds AOA 25,000ft MSL will slowly make
+their way east and clear the area by 14-17Z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -450,7 +450,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
