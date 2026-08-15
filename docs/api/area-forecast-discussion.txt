@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-15T06:38:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-15T12:38:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,24 +341,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-516
-FXUS66 KSGX 150550
+948
+FXUS66 KSGX 151139
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1050 PM PDT Fri Aug 14 2026
+439 AM PDT Sat Aug 15 2026
 
 .SYNOPSIS...
-Subtle monsoonal moisture will provide a slight chance of showers
-across the mountains and adjacent deserts this afternoon and
-Saturday afternoon. A trough offshore will keep temperatures
-slightly below average through the weekend. A ridge of high pressure
-will expand by next week, leading to a warmer and drier weather
-trend across Southern California.
+Slight chance of showers and thunderstorms over the mountains and
+high desert this afternoon. A deep marine layer this morning
+becomes more shallow tonight into Sunday and high temperatures
+remain below normal this weekend. A ridge of high pressure will
+expand by next week, leading to warmer and drier weather across
+Southern California.
 
 &&
 
@@ -366,44 +368,66 @@ trend across Southern California.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-The marine layer deepened much more this morning with the passing of
-high clouds pushing to the east. Clouds will continue to erode
-near the coast, though there may be only intermittent clearing at
-the beaches into the afternoon, especially in San Diego County. A
-trough offshore will keep temperatures below normal again today
-into the weekend. Highs will remain in the 80s and 90s for most
-valley, foothill, and high desert locations during this time
-period. High pressure to the east and the trough to the west will
-help funnel in some monsoonal moisture through the weekend as
-well, making it feel more on the humid side. Lack of instability
-and drier southwest flow aloft remains the biggest proponent of
-any widespread storm activity, so rain chances remain small across
-the mountains and adjacent deserts. Moisture decreases slightly
-by Saturday, moreso into Sunday. If any rain falls over the next
-couple of days, it will be light and localized.
+Marine layer low clouds have spread into parts of the valleys this
+morning with otherwise mostly clear skies. Low clouds will
+continue to move into the inland valleys through sunrise, then
+retreat to the coast by late morning. Mid-level flow turns
+slightly more southerly today, bringing a marginal increase in
+monsoonal moisture. There is a 15-20% chance of showers and a
+10-15% chance of thunderstorms over the mountains and high desert
+this afternoon. Given how high based (700-500 mb) the moisture is,
+gusty outflow winds will be the primary threat. Otherwise, upper
+level troughing off the West Coast will maintain relatively cooler
+weather with high temperatures around 3 to 7 degrees below mid-
+August normals. Highs will be in the mid to upper 70s along the
+coast, low to mid 80s for inland Orange County and the western
+valleys, upper 80s to mid 90s for the inland valleys, mid 70s to
+upper 80s in the mountains, 90s in the high desert, and low 100s
+in the low deserts. High pressure begins to expand in from the
+east on Sunday for minor warming and more stable conditions,
+limiting the potential for any afternoon showers and thunderstorms
+over the mountains. This will also lead to a more shallow marine
+layer with low clouds not spreading as far inland Sunday morning.
 
-High pressure begins to expand by next week. By Monday,
-temperatures will warm to near seasonal averages. The high
-expands a bit further into the middle of next week, where
-temperatures will peak around 5 degrees above average. This trend
-will also lead to drier and lower humidity across the board. The
-marine layer is expected to remain in a healthy and shallower
-state next week as well, covering coastal areas and far western
-valleys with clouds and patchy fog each night and morning.
+The upper level ridge of high pressure continues to expand
+westward and strengthen through at least Thursday, bringing
+gradual warming and a shallower marine layer. High temperatures
+return to near normal by Monday, then rise to around 3 to 7
+degrees above normal on Thursday. Though some mid-level moisture
+lingers in mostly southerly flow, the ridge axis will be overhead
+and the subsidence inversion will act as a lid on any potential
+convection. While there may be some shallow cumulus over the
+mountains in the afternoon, shower/thunderstorm chances are less
+than 10%. While air temperatures themselves are nothing notable
+for this time of year, muggy conditions and warm nights will push
+the HeatRisk into moderate for parts of the valleys, lower
+elevation mountains, and deserts Wednesday through Saturday, with
+locally high HeatRisk in the low deserts.
+
+Ensembles begin to diverge on the position of the upper level high
+and a trough off the coast late in the week. Around 46% of the
+members have the trough further east (closer to the coast), which
+would provide some cooling, while the other 54% have the trough
+further off the coast with warmer weather here. The position of
+the trough and to a greater extent the upper high over the desert
+southwest will determine how much monsoon moisture hangs around.
+For now model consensus generally has the upper high in a more
+favorable position for convection Friday into next weekend.
 
 &&
 
 .AVIATION...
-150530Z....Coast/Valleys...Low clouds have moved into Orange County
-and areas of coastal San Diego, stretching into the valleys. Cloud
-bases are around 1,500-2,500ft MSL and will continue to move inland
-and spread into the Inland Empire after 08Z. Vis restrictions 3-5SM
-will be possible in areas where clouds intersect terrain. Low clouds
-will begin to clear the IE and SD valleys 15-16Z and inland OC 16-
-17Z. There is a 30-50% chance of patchy low clouds sticking to
-coastal SD through the TAF period.
+151130Z....Coast/Valleys...Low clouds are fully into Orange County
+and into the San Diego valley with bases around 1,500-2,000ft MSL.
+clouds are teasing the edges of the IE but no longer look as if it
+will fill in. Vis restrictions 3-5SM will be possible in areas where
+clouds intersect terrain. Low clouds will begin to clear inland
+areas 15-16Z and inland OC 16-17Z. There is a 30-50% chance of
+patchy low clouds sticking to coastal SD through the TAF period. Low
+clouds return after 01-03Z Sunday.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
 SCT-BKN clouds AOA 10,000ft MSL expected to form after 18Z with a
@@ -413,9 +437,9 @@ and in the high deserts.
 &&
 
 .MARINE...
-Brief gusty northwest winds 20-23 knots near San Clemente Island
-expected Sunday and Monday afternoon. Otherwise, no hazardous
-marine conditions are expected through Wednesday.
+Gusty northwest winds 20-23 knots near San Clemente Island expected
+Sunday and Monday afternoon. Otherwise, no hazardous marine
+conditions are expected through Wednesday.
 
 &&
 
@@ -434,7 +458,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...SS
 AVIATION/MARINE...Villafane
 
 
