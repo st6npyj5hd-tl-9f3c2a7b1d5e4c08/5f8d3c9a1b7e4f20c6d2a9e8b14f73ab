@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-14T18:55:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-15T01:17:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,20 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-977
-FXUS66 KSGX 141845
+190
+FXUS66 KSGX 142338
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1145 AM PDT Fri Aug 14 2026
+438 PM PDT Fri Aug 14 2026
 
 .SYNOPSIS...
 Subtle monsoonal moisture will provide a slight chance of showers
@@ -369,6 +365,9 @@ trend across Southern California.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The marine layer deepened much more this morning with the passing of
 high clouds pushing to the east. Clouds will continue to erode
@@ -398,15 +397,19 @@ valleys with clouds and patchy fog each night and morning.
 &&
 
 .AVIATION...
-141730Z....Coast/Valleys...After morning clearing by 19Z, expect low
-clouds around 1800-2000 feet MSL to redevelop after 01Z. First
-forming in San Diego County, extending northward and gradually
-filling many of the valleys overnight. Vis reduced far inland 1-5SM.
-Scatter out Saturday 16-18Z.
+152345Z....Coast/Valleys...Low clouds based 2000-2200 ft MSL have
+begun to redevelop along the San Diego County coastline late this
+afternoon. Clouds will quickly spread into San Diego Valleys this
+evening. Then, low clouds slowly spread northward into Orange County
+and the western/southern Inland Empire overnight with bases dropping
+to 1500-2000 ft MSL. 50-60% chance for cigs at KONT and 20-30% at
+KSBD. Clouds scatter back toward the coastline from 15-18z. VFR
+conditions expected through Saturday afternoon, though patchy low
+clouds may hang out along or just off the the coast near KSAN.
 
-Mountains/Deserts...SCT to locally BKN clouds 100000 feet MSL and a
-slight chance of TSRA mainly over mountains and high desert through
-01Z. Otherwise, mostly clear.
+Mountains/Deserts...VFR conditions with SCT to locally BKN clouds
+AOA 10000 feet MSL through the TAF period. Slight chance (10-20%)
+for a TSRA or two from 20z Sun to 01z Mon.
 
 &&
 
@@ -415,9 +418,14 @@ No hazardous marine conditions are expected through Tuesday.
 
 &&
 
+.BEACHES...
+
+&&
+
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -430,7 +438,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...MM
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
