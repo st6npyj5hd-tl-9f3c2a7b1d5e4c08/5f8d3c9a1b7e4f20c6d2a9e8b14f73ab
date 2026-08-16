@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T06:40:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T12:40:13+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,25 +343,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-273
-FXUS66 KSGX 160548
+076
+FXUS66 KSGX 161136
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1048 PM PDT Sat Aug 15 2026
+436 AM PDT Sun Aug 16 2026
 
 .SYNOPSIS...
-Slight chance of showers and thunderstorms over the mountains and
-high desert this afternoon. High pressure will begin to expand
-across the area through the upcoming week. This will lead to a
-warming trend over the next few days with temperatures remaining
-slightly above normal thereafter. This will also lead to a drier
-weather pattern with a shallower marine layer closer to the coast
-each night and morning.
+Slight chance of showers over the San Bernardino Mountains this
+afternoon. Upper level high pressure will slowly build in from
+the east this week, bringing gradual warming, a shallower marine
+layer, and dry weather. Shower and thunderstorm chances return for
+the mountains Thursday through Saturday with subtle cooling as
+the upper high shifts east.
 
 &&
 
@@ -369,65 +370,78 @@ each night and morning.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-A trough is draped across the State, leading to temperatures
-slightly below normal today. This pattern of greater onshore flow
-and cooler weather also allowed for a deeper marine layer that
-covered inland valleys of Orange and San Diego Counties earlier
-this morning. We`ll give the monsoon another try later this
-afternoon as some mid-level moisture is seen from this morning`s
-sounding. Cumulus building over the mountain ridges into the high
-desert may be able to produce a few showers or weak thunderstorms,
-accompanied by locally gusty winds.
+Marine layer low clouds are much slower to develop this morning
+with only patchy coverage near the San Diego County coast. Clouds
+should slowly fill in over the coastal areas and western valleys
+by sunrise. Otherwise a band of high clouds is moving northeast
+over Baja into Imperial County with clear skies elsewhere.
 
-High pressure off to the east will slowly expand across the region
-by Sunday into the middle of next week. This will bring a drying
-trend on Sunday, with chances for any showers across the
-mountains near 10 percent or less. Temperatures for Sunday will be
-very similar to those of today. Models continue to show high
-pressure expanding and strengthening over our area by Monday to
-around Wednesday or Thursday of next week. Temperatures will
-increase 2-4 degrees each day away from the coastal regions,
-where moderate to locally major heat risk is possible for inland
-valleys and desert regions. The strengthening weather system will
-also push the marine layer down further, limiting the marine layer
-to cover areas near the coast each night and morning.
+A slow warming trend begins today as a broad upper level high over
+the southern US begins to expand westward into So Cal. High
+temperatures today will be near to slightly below normal -
+generally mid to upper 70s along the coast, mid 80s for the
+western valleys, low to mid 90s for the inland valleys, upper 70s
+to mid 80s in the mountains, mid to upper 90s in the high desert,
+and 105-108 in the low desert. Some residual mid-level moisture
+remains, but with drying near 850 mb and the subsidence inversion
+strengthening, any convection over the mountains will be high-
+based and rather shallow. Can`t discount a few showers over the
+higher peaks of the San Bernardino Mountains, where there is a 15%
+chance of showers/thunderstorms this afternoon.
 
-Model ensembles show fair agreement on the high pressure system
-sticking around the Desert Southwest into the latter half of next
-week. The elongated form of the high will eventually become
-amplified over the region later in the week. How much
-amplification and exact location of the high is still to be
-determined. Depending on it`s position, it may be able to entrain
-some monsoonal moisture back into our region as early as
-Thursday, possibly lingering into next weekend, which would
-trigger showers/storms for the mountains and deserts.
+The warming trend continues into Thursday when high temperatures
+climb to 3 to 7 degrees above normal. For Wednesday through Friday,
+there is around a 15-20% chance of high temperatures of 105F or
+more over the interior portions of the Inland Empire (Lake
+Elsinore to Hemet), and a 45-65% chance of high temperatures of
+110F or more in the low desert. Widespread moderate HeatRisk is
+forecast for the valleys, lower elevation mountains, and deserts
+Wednesday through Friday, with areas of high HeatRisk in the low
+desert. Low elevation dew points/humidity remain elevated through
+the week as well, keeping minimum temperatures several degrees
+above normal. Basically another hot and muggy week is in store.
+The marine layer will become more shallow with areas of night and
+morning low clouds and fog becoming confined to the coastal areas
+and far western valleys.
+
+Thursday through Saturday, the upper level high shifts towards the
+Four Corners region, allowing for additional monsoonal moisture to
+track into CA and slow cooling to occur. There remains subtle
+spread in the ensembles with respect to the position of the high
+and the orientation of the ridge axis, which will determine how
+much moisture and instability we see. For now there is at least a
+slight (15-20%) chance of showers and thunderstorms over the
+mountains and high desert each afternoon Thursday through
+Saturday, with lower chances on Sunday as the upper high shifts
+east and moisture begins to decrease.
 
 &&
 
 .AVIATION...
-160545Z....Coast/Valleys...Patchy low clouds with bases 1,200-
-1,800ft MSL are drifting along coastal SD. These low clouds will
-increase in coverage over the next few hours, pushing inland 15-20
-miles 12-13Z. There is a 30-40% chance of low clouds pushing in to
-the northern IE and reaching KONT 13-14Z. Minor vis restrictions of
-3-5SM will be possible for elevated inland valleys. Low clouds will
-begin clearing 15-16Z at inland locations, clearing most coastal
-sites 17-18Z. There is a 30-50% chance that low clouds will stick to
-the southern SD coast through 20Z.
+161130Z....Coast/Valleys...Low clouds have increased over SD County
+with bases 1,200-1,500ft MSL. Low clouds will spread into OC within
+the next hour or two. There is a 30-40% chance of low clouds pushing
+in to the northern IE and reaching KONT 13-14Z. Minor vis
+restrictions of 3-5SM will be possible for elevated inland valleys.
+Low clouds will begin clearing 15-16Z at inland locations, clearing
+most coastal sites 17-18Z. There is a 30-50% chance that low clouds
+will stick to the southern SD coast through 20Z. Low clouds return
+to coastal SD 02-04Z and OC 10-12Z.
 
-Mountains/Deserts...VFR conditions prevail through the TAF period.
-SCT-BKN clouds AOA 20,000ft MSL are currently passing over the SD
-deserts. SCT-BKN cu AOA 10,000ft MSL are expected to form 18-21Z
-with a slight chance (10-15%) for TSRA over the Riverside and San
-Bernardino county mountains.
+Mountains/Deserts...VFR conditions prevail through the TAF period. A
+few clouds AOA 20,000ft MSL are currently passing over the area. SCT-
+BKN cu AOA 10,000ft MSL are expected to form 18-21Z with a slight
+chance (10-15%) for TSRA over the Riverside and San Bernardino
+county mountains. High clouds move in from the west 00-03Z Monday.
 
 &&
 
 .MARINE...
 Gusty northwest winds 20-23 knots near San Clemente Island expected
-Sunday and Monday afternoon. Otherwise, no hazardous marine
+this afternoon and Monday afternoon. Otherwise, no hazardous marine
 conditions are expected through Thursday.
 
 &&
@@ -447,7 +461,7 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
+PUBLIC...SS
 AVIATION/MARINE...Villafane
 
 
