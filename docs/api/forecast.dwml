@@ -22,7 +22,7 @@
 <moreWeatherInformation applicable-location="point1">https://forecast.weather.gov/MapClick.php?lat=32.8&amp;lon=-117.06</moreWeatherInformation>
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p12h-n14-1</layout-key>
-      <start-valid-time period-name="Tonight">2026-08-15T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Tonight">2026-08-15T23:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Sunday">2026-08-16T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Sunday Night">2026-08-16T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Monday">2026-08-17T06:00:00-07:00</start-valid-time>
@@ -40,7 +40,7 @@
 
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time period-name="Tonight">2026-08-15T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Tonight">2026-08-15T23:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Sunday Night">2026-08-16T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Monday Night">2026-08-17T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tuesday Night">2026-08-18T18:00:00-07:00</start-valid-time>
@@ -140,7 +140,7 @@
 
     <wordedForecast time-layout="k-p12h-n14-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
       <name>Text Forecast</name>
-        <text>Mostly cloudy, with a low around 67. Northwest wind 5 to 10 mph. </text>
+        <text>Mostly cloudy, with a low around 67. Northwest wind around 5 mph. </text>
         <text>Mostly cloudy, then gradually becoming sunny, with a high near 84. West wind 5 to 10 mph, with gusts as high as 20 mph. </text>
         <text>Partly cloudy, with a low around 67. Northwest wind 5 to 10 mph becoming light north  after midnight. </text>
         <text>Mostly sunny, with a high near 85. West wind 5 to 10 mph, with gusts as high as 20 mph. </text>
@@ -165,4 +165,4 @@
       <area-description>DW5256 La Mesa, CA</area-description>
       <height datum="mean sea level" height-units="feet">646.75</height>
   </location>
-  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-08-15T18:15:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>75</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>64</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>68</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>271</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.99</value>      </pressure>  </parameters></data></dwml>
+  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-08-15T23:30:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>68</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>62</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>81</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>315</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>30.0</value>      </pressure>  </parameters></data></dwml>

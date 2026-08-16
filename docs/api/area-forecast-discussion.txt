@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T01:21:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T06:40:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-445
-FXUS66 KSGX 152322
+273
+FXUS66 KSGX 160548
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-422 PM PDT Sat Aug 15 2026
+1048 PM PDT Sat Aug 15 2026
 
 .SYNOPSIS...
 Slight chance of showers and thunderstorms over the mountains and
@@ -368,7 +368,6 @@ each night and morning.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -408,22 +407,21 @@ trigger showers/storms for the mountains and deserts.
 &&
 
 .AVIATION...
-152330Z....Coast/Valleys...Very patchy low clouds are starting to
-develop over nearshore waters this afternoon. Low clouds will expand
-and slowly push into coastal San Diego County starting 01-03z.
-Clouds slowly push inland and northward into Orange County
-overnight, reaching up to 20 miles inland by 12z. Bases will be
-slightly lower than last night, around 1500-2000 ft MSL. Clouds may
-briefly push into the western Inland Empire 13-16z, with a 40-50%
-chance for cigs at KONT. Minor vis reductions (3-5SM) possible for
-elevated inland valleys (KONT, KRNM). Clouds clear toward the
-coastline 15-18z Sun with VFR conditions expected for Sunday
-afternoon.
+160545Z....Coast/Valleys...Patchy low clouds with bases 1,200-
+1,800ft MSL are drifting along coastal SD. These low clouds will
+increase in coverage over the next few hours, pushing inland 15-20
+miles 12-13Z. There is a 30-40% chance of low clouds pushing in to
+the northern IE and reaching KONT 13-14Z. Minor vis restrictions of
+3-5SM will be possible for elevated inland valleys. Low clouds will
+begin clearing 15-16Z at inland locations, clearing most coastal
+sites 17-18Z. There is a 30-50% chance that low clouds will stick to
+the southern SD coast through 20Z.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
-SCT-BKN cu AOA 10,000ft MSL expected this afternoon with a slight
-chance (10-20%) for TSRA over the Riverside County mountains and in
-the high deserts.
+SCT-BKN clouds AOA 20,000ft MSL are currently passing over the SD
+deserts. SCT-BKN cu AOA 10,000ft MSL are expected to form 18-21Z
+with a slight chance (10-15%) for TSRA over the Riverside and San
+Bernardino county mountains.
 
 &&
 
@@ -450,7 +448,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Villafane
 
 
 </pre>
