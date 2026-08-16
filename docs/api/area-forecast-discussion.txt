@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T12:40:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T18:30:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,16 +345,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-076
-FXUS66 KSGX 161136
+448
+FXUS66 KSGX 161736
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-436 AM PDT Sun Aug 16 2026
+1036 AM PDT Sun Aug 16 2026
 
 .SYNOPSIS...
 Slight chance of showers over the San Bernardino Mountains this
@@ -369,7 +371,6 @@ the upper high shifts east.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -421,21 +422,18 @@ east and moisture begins to decrease.
 &&
 
 .AVIATION...
-161130Z....Coast/Valleys...Low clouds have increased over SD County
-with bases 1,200-1,500ft MSL. Low clouds will spread into OC within
-the next hour or two. There is a 30-40% chance of low clouds pushing
-in to the northern IE and reaching KONT 13-14Z. Minor vis
-restrictions of 3-5SM will be possible for elevated inland valleys.
-Low clouds will begin clearing 15-16Z at inland locations, clearing
-most coastal sites 17-18Z. There is a 30-50% chance that low clouds
-will stick to the southern SD coast through 20Z. Low clouds return
-to coastal SD 02-04Z and OC 10-12Z.
+161735Z....Coast/Valleys...Low clouds will mostly remain off the
+coast through the early evening hours. Confidence increasing on a
+later time period for low clouds to impact coastal TAF sites. Low
+clouds near 1300-1700 ft MSL will move ashore in San Diego County
+after 04Z, closer to 07Z in Orange County. Cig impacts may be
+intermittent at KSNA. Low clouds clearing to the coast 15-17Z Mon.
 
-Mountains/Deserts...VFR conditions prevail through the TAF period. A
-few clouds AOA 20,000ft MSL are currently passing over the area. SCT-
-BKN cu AOA 10,000ft MSL are expected to form 18-21Z with a slight
-chance (10-15%) for TSRA over the Riverside and San Bernardino
-county mountains. High clouds move in from the west 00-03Z Monday.
+Mountains/Deserts...VFR conditions prevail through the TAF period.
+SCT-BKN cu AOA 10,000ft MSL building into the afternoon with a
+slight chance (10-20%) for TSRA over the Riverside and San
+Bernardino county mountains. Cu dissipates this evening with high
+clouds moving in from the west. Chance of rainfall nil on Monday.
 
 &&
 
@@ -462,7 +460,7 @@ PZ...None.
 $$
 
 PUBLIC...SS
-AVIATION/MARINE...Villafane
+AVIATION/MARINE...APR
 
 
 </pre>
