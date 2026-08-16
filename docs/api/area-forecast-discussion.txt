@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-15T18:30:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-16T01:21:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,24 +341,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-948
-FXUS66 KSGX 151139
+445
+FXUS66 KSGX 152322
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-439 AM PDT Sat Aug 15 2026
+422 PM PDT Sat Aug 15 2026
 
 .SYNOPSIS...
 Slight chance of showers and thunderstorms over the mountains and
-high desert this afternoon. A deep marine layer this morning
-becomes more shallow tonight into Sunday and high temperatures
-remain below normal this weekend. A ridge of high pressure will
-expand by next week, leading to warmer and drier weather across
-Southern California.
+high desert this afternoon. High pressure will begin to expand
+across the area through the upcoming week. This will lead to a
+warming trend over the next few days with temperatures remaining
+slightly above normal thereafter. This will also lead to a drier
+weather pattern with a shallower marine layer closer to the coast
+each night and morning.
 
 &&
 
@@ -369,75 +372,65 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-Marine layer low clouds have spread into parts of the valleys this
-morning with otherwise mostly clear skies. Low clouds will
-continue to move into the inland valleys through sunrise, then
-retreat to the coast by late morning. Mid-level flow turns
-slightly more southerly today, bringing a marginal increase in
-monsoonal moisture. There is a 15-20% chance of showers and a
-10-15% chance of thunderstorms over the mountains and high desert
-this afternoon. Given how high based (700-500 mb) the moisture is,
-gusty outflow winds will be the primary threat. Otherwise, upper
-level troughing off the West Coast will maintain relatively cooler
-weather with high temperatures around 3 to 7 degrees below mid-
-August normals. Highs will be in the mid to upper 70s along the
-coast, low to mid 80s for inland Orange County and the western
-valleys, upper 80s to mid 90s for the inland valleys, mid 70s to
-upper 80s in the mountains, 90s in the high desert, and low 100s
-in the low deserts. High pressure begins to expand in from the
-east on Sunday for minor warming and more stable conditions,
-limiting the potential for any afternoon showers and thunderstorms
-over the mountains. This will also lead to a more shallow marine
-layer with low clouds not spreading as far inland Sunday morning.
+A trough is draped across the State, leading to temperatures
+slightly below normal today. This pattern of greater onshore flow
+and cooler weather also allowed for a deeper marine layer that
+covered inland valleys of Orange and San Diego Counties earlier
+this morning. We`ll give the monsoon another try later this
+afternoon as some mid-level moisture is seen from this morning`s
+sounding. Cumulus building over the mountain ridges into the high
+desert may be able to produce a few showers or weak thunderstorms,
+accompanied by locally gusty winds.
 
-The upper level ridge of high pressure continues to expand
-westward and strengthen through at least Thursday, bringing
-gradual warming and a shallower marine layer. High temperatures
-return to near normal by Monday, then rise to around 3 to 7
-degrees above normal on Thursday. Though some mid-level moisture
-lingers in mostly southerly flow, the ridge axis will be overhead
-and the subsidence inversion will act as a lid on any potential
-convection. While there may be some shallow cumulus over the
-mountains in the afternoon, shower/thunderstorm chances are less
-than 10%. While air temperatures themselves are nothing notable
-for this time of year, muggy conditions and warm nights will push
-the HeatRisk into moderate for parts of the valleys, lower
-elevation mountains, and deserts Wednesday through Saturday, with
-locally high HeatRisk in the low deserts.
+High pressure off to the east will slowly expand across the region
+by Sunday into the middle of next week. This will bring a drying
+trend on Sunday, with chances for any showers across the
+mountains near 10 percent or less. Temperatures for Sunday will be
+very similar to those of today. Models continue to show high
+pressure expanding and strengthening over our area by Monday to
+around Wednesday or Thursday of next week. Temperatures will
+increase 2-4 degrees each day away from the coastal regions,
+where moderate to locally major heat risk is possible for inland
+valleys and desert regions. The strengthening weather system will
+also push the marine layer down further, limiting the marine layer
+to cover areas near the coast each night and morning.
 
-Ensembles begin to diverge on the position of the upper level high
-and a trough off the coast late in the week. Around 46% of the
-members have the trough further east (closer to the coast), which
-would provide some cooling, while the other 54% have the trough
-further off the coast with warmer weather here. The position of
-the trough and to a greater extent the upper high over the desert
-southwest will determine how much monsoon moisture hangs around.
-For now model consensus generally has the upper high in a more
-favorable position for convection Friday into next weekend.
+Model ensembles show fair agreement on the high pressure system
+sticking around the Desert Southwest into the latter half of next
+week. The elongated form of the high will eventually become
+amplified over the region later in the week. How much
+amplification and exact location of the high is still to be
+determined. Depending on it`s position, it may be able to entrain
+some monsoonal moisture back into our region as early as
+Thursday, possibly lingering into next weekend, which would
+trigger showers/storms for the mountains and deserts.
 
 &&
 
 .AVIATION...
-151130Z....Coast/Valleys...Low clouds are fully into Orange County
-and into the San Diego valley with bases around 1,500-2,000ft MSL.
-clouds are teasing the edges of the IE but no longer look as if it
-will fill in. Vis restrictions 3-5SM will be possible in areas where
-clouds intersect terrain. Low clouds will begin to clear inland
-areas 15-16Z and inland OC 16-17Z. There is a 30-50% chance of
-patchy low clouds sticking to coastal SD through the TAF period. Low
-clouds return after 01-03Z Sunday.
+152330Z....Coast/Valleys...Very patchy low clouds are starting to
+develop over nearshore waters this afternoon. Low clouds will expand
+and slowly push into coastal San Diego County starting 01-03z.
+Clouds slowly push inland and northward into Orange County
+overnight, reaching up to 20 miles inland by 12z. Bases will be
+slightly lower than last night, around 1500-2000 ft MSL. Clouds may
+briefly push into the western Inland Empire 13-16z, with a 40-50%
+chance for cigs at KONT. Minor vis reductions (3-5SM) possible for
+elevated inland valleys (KONT, KRNM). Clouds clear toward the
+coastline 15-18z Sun with VFR conditions expected for Sunday
+afternoon.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
-SCT-BKN clouds AOA 10,000ft MSL expected to form after 18Z with a
-slight chance (10-20%) for TSRA over the Riverside County mountains
-and in the high deserts.
+SCT-BKN cu AOA 10,000ft MSL expected this afternoon with a slight
+chance (10-20%) for TSRA over the Riverside County mountains and in
+the high deserts.
 
 &&
 
 .MARINE...
 Gusty northwest winds 20-23 knots near San Clemente Island expected
 Sunday and Monday afternoon. Otherwise, no hazardous marine
-conditions are expected through Wednesday.
+conditions are expected through Thursday.
 
 &&
 
@@ -456,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...Villafane
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
