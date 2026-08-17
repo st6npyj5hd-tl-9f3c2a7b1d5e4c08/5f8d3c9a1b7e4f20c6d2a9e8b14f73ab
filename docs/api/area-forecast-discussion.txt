@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-17T06:56:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-17T12:45:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,24 +345,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-687
-FXUS66 KSGX 170438
+277
+FXUS66 KSGX 171130
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-938 PM PDT Sun Aug 16 2026
+430 AM PDT Mon Aug 17 2026
 
 .SYNOPSIS...
-Slight chance of showers over the San Bernardino Mountains this
-afternoon. Upper level high pressure will slowly build in from
-the east this week, bringing gradual warming, a shallower marine
-layer, and dry weather. Shower and thunderstorm chances return for
-the mountains Thursday through Saturday with subtle cooling as
-the upper high shifts east.
+Upper level high pressure will slowly build in from the east this
+week, bringing gradual warming, a shallower marine layer, and dry
+weather. Shower and thunderstorm chances return for the mountains
+Thursday through Sunday with subtle cooling as the upper high
+shifts east.
 
 &&
 
@@ -370,56 +371,81 @@ the upper high shifts east.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Current temperatures are running a few degrees warmer than
-yesterday inland, though still generally near or slightly below
-average for this time of year. High based cumulus have developed
-over the mountain ridges, but are struggling to develop into deep
-vertical clouds at this time. A similar inversion at 15,000 feet was
-observed in yesterdays sounding and cells were able to develop later
-in the afternoon despite this. A shower or thunderstorm can thus not
-be ruled out this afternoon locally over the highest peaks of the
-San Bernardino County and Riverside County mountains. The marine
-layer is about 3000 feet deep as of this morning and is expected to
-become slightly shallower into the middle of the week. Patchy fog
-expected during the nighttime hours in inland valley spots where
-clouds intersect terrain.
+Marine layer low clouds are redeveloping over the coastal areas
+and western valleys this evening, elsewhere skies are clear. Low
+clouds will continue to spread around 15-20 mi inland through
+sunrise, clearing to the coast by mid morning. Water vapor imagery
+shows a broad upper level high across the southern US centered
+over Texas. This high slowly expands westward through Wednesday
+before shifting back eastward and amplifying on Thursday. This
+will produce a gradual warming trend through the middle of the
+week along with a shallower marine layer. Areas of night and
+morning low clouds and fog will generally be confined to the
+coastal areas and far western valleys Monday night through much of
+the week. With the ridge axis directly overhead, the subsidence
+inversion and mid-level drying will prevent any deep convection
+from developing. There could be a few shallow cumulus clouds over
+the mountains each afternoon through Wednesday, but no
+precipitation is forecast.
 
-The broad center of the 500mb ridge drifts into the Desert Southwest
-this week, increasing temperatures a few degrees per day through mid-
-week. High temperatures for inland areas likely peak Thursday (90s
-to low 100s), with similar temperatures lingering through at least
-the weekend. Through the forecast period, lower desert temperatures
-largely appear unaffected by the ebb and flow of the ridge, with
-highs consistently 108-111F throughout the week.
+In terms of temperatures, highs today will be near to a couple
+degrees above normal - upper 70s for the coastal areas, mid 80s to
+low 90s for the western valleys, mid to upper 90s in the inland
+valleys, mid 70s to upper 80s in the mountains, mid 90s to low
+100s in the high desert, and 105-110 in the low desert.
+Temperatures increase to around 3 to 7 degrees above normal by
+Thursday, which is still forecast to be the hottest day of the
+week for the mountains westward. Heat in the low deserts will
+likely peak earlier in the week as a return of monsoonal moisture
+on Thursday may limit heating there. By Wednesday, there is a
+90-100% chance of at least moderate HeatRisk over the inland
+valleys, lower elevation mountains, and deserts. Chances of major
+HeatRisk are around 10-30% over the far inland valleys, around 50%
+for the lower elevation pars of the high desert, and 55-85% for
+the low desert. While high temperatures won`t be significantly
+above normal, continued humidity and above normal overnight
+temperatures will contribute to the higher HeatRisk. These
+probabilities increase slightly on Thursday. Only a couple degrees
+of cooling is expected each day Friday through the weekend as the
+upper high shifts back eastward.
 
-As the center of the ridge migrates toward the Four Corners region,
-southeasterly flow will bring increasing mid-level moisture and
-shower/t-storm chances for the mountains through Saturday. Beyond
-Saturday, model clusters diverge into two general solutions: a
-ridge over the Northwest, which would keep the warmer than average
-temperatures around, and a ridge over the Central US, which could
-return temperatures back to near average.
+As the high becomes centered closer to the Four Corners region
+late in the week, south to southeasterly flow aloft will help
+bring in another round of monsoonal moisture. Moisture begins to
+increase by Thursday, but with the ridge still overhead
+instability is lacking, so precipitation chances over the
+mountains is only 10-15%. Chances increase to around 15-20% each
+afternoon for the mountains and parts of the deserts Friday
+through Monday.
 
 &&
 
 .AVIATION...
-170600Z....Coast/Valleys...Low clouds are sluggishly developing off
-the central San Diego County coast this evening, and will continue
-to develop and push ashore over the next few hours. Expecting CIGs
-to spread into San Diego County between 06-08z, eventually spreading
-inland and northward into Orange County by 09-12z. Low clouds
-clearing back to the coast around 15-17z Monday morning.
+171200Z....Coast...Areas of low clouds based around 1000-1200 feet
+MSL will continue with variable coverage. Scatter out of any cigs
+will occur by 16Z. Patchy low clouds to gradually increase overnight
+into Tuesday. Highest chance of cigs around 1000 feet MSL in San
+Diego County 12-16Z Tuesday.
 
-Mountains/Deserts...VFR conditions prevail through the TAF period.
+Otherwise...Increasing high clouds AOA 15000 feet MSL, decreasing
+after 03Z. SCT-BKN clouds 10000 feet MSL over mountains 19-00Z.
 
 &&
 
 .MARINE...
-Gusty northwest winds 20-23 knots near San Clemente Island expected
-Monday afternoon. Otherwise, no hazardous marine conditions are
-expected through Thursday.
+Occasional northwest wind gusts will exceed 20 knots in the outer
+waters near San Clemente Island this afternoon and evening.
+Otherwise, no hazardous marine conditions are expected through
+Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -431,8 +457,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...Zuber
+PUBLIC...SS
+AVIATION/MARINE...MM
 
 
 </pre>
