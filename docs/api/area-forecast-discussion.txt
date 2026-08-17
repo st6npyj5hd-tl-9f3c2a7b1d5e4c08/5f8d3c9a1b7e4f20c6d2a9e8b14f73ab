@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-17T01:19:18+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-17T06:56:43+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-448
-FXUS66 KSGX 170014
+687
+FXUS66 KSGX 170438
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-514 PM PDT Sun Aug 16 2026
+938 PM PDT Sun Aug 16 2026
 
 .SYNOPSIS...
 Slight chance of showers over the San Bernardino Mountains this
@@ -369,7 +369,6 @@ the upper high shifts east.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -406,17 +405,14 @@ return temperatures back to near average.
 &&
 
 .AVIATION...
-170000Z....Coast/Valleys...Aside from a few intermittent patches of
-clouds near central coastal San Diego County, clear skies prevails
-into the evening hours. Low clouds are expected to begin to
-redevelop and push ashore after 03z Monday, with CIGs filling in
-across San Diego County between 05-07z, eventually spreading
+170600Z....Coast/Valleys...Low clouds are sluggishly developing off
+the central San Diego County coast this evening, and will continue
+to develop and push ashore over the next few hours. Expecting CIGs
+to spread into San Diego County between 06-08z, eventually spreading
 inland and northward into Orange County by 09-12z. Low clouds
 clearing back to the coast around 15-17z Monday morning.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period.
-SCT-BKN cu AOA 10,000ft MSL over the desert slopes and High Desert
-this afternoon will dissipate by 03z.
 
 &&
 
@@ -436,7 +432,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...Zuber
 
 
 </pre>
