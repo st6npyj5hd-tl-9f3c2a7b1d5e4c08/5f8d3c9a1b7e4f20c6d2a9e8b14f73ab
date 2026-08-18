@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-18T06:43:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-18T12:48:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,26 +347,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-680
-FXUS66 KSGX 180442
+462
+FXUS66 KSGX 181145
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-942 PM PDT Mon Aug 17 2026
+445 AM PDT Tue Aug 18 2026
 
 .SYNOPSIS...
-High pressure aloft will slowly build in from the east this week,
-bringing gradual warming, a shallower marine layer, and mostly dry
-weather. For Thursday, temperatures will generally be about 3 to 7
-degrees above normal. Shower and thunderstorm chances return for
-the mountains Thursday through Sunday with marginal cooling as the
-upper high shifts east and weakens.
+High pressure to the east will slowly strengthen into the middle
+of this week with high temperatures for Wednesday and Thursday
+around 5 degrees above average for inland areas. High
+temperatures will cool slightly for Friday into early next week to
+within a few degrees of average for next Monday. Night and
+morning coastal low clouds will continue into next week. There is
+also a slight chance of afternoon showers and thunderstorms for
+the mountains and deserts on Thursday and Friday.
 
 &&
 
@@ -374,68 +374,64 @@ upper high shifts east and weakens.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION FOR 06Z TAF PACKAGE...
 
-This afternoon...Skies are mostly clear except for a few marine
-layer low clouds at the beaches. The marine layer remains about
-1400 ft deep with a strong inversion. Temperatures are near to
-about 4 degrees warmer than at this time yesterday in the coastal
-areas, up to 6 degrees warmer in the inland valleys, 2 to 6
-degrees warmer in the mountains and 2 to 4 degrees warmer in the
-deserts. High temperatures today will be in the 70s to low 80s
-near the coast, mid 80s to low 90s for the western valleys, mid to
-upper 90s in the Inland Empire, mid 70s to upper 80s in the mountains,
-mid 90s to low 100s in the high desert, and 105-110 in the low
-desert.
+...UPDATED AVIATION DISCUSSION...
 
-Numerical guidance is in good agreement through Friday with
-respect to the overall pattern, keeping SoCal sandwiched between
-high pressure to the east and a trough of low pressure to the
-northwest. There will be some minor differences in the forecast
-details but the trends should hold. We can expect gradual warming
-trend through Thursday when temperatures will be mostly 3-7
-degrees above normal. By Wednesday, there is a 90-100% chance of
-at least moderate HeatRisk over the inland valleys, lower
-elevation mountains and deserts. Chances of major HeatRisk are
-around 10-30% over the far inland valleys, around 50% for the
-lower elevation parts of the high desert and 55-85% for the low
-desert. While high temperatures won`t be significantly above
-normal, continued humidity and above normal overnight temperatures
-will contribute to the higher HeatRisk.The marine layer will
-slowly become shallower, with night and morning low clouds and fog
-restricted to the coastal areas for Wed-Fri.
+.SHORT TERM (Today through Thursday)...
+High temperatures will continue to warm a few degrees for today
+and Wednesday with not much change for Thursday. High temperatures
+for Wednesday and Thursday will be around 5 degrees above average
+for inland areas with high temperatures ranging from the mid 70s
+to lower 80s near the coast to the mid 90s to 105 for the Inland
+Empire with around 110 for the lower deserts.
 
-The position of the high will bring more of a southerly flow
-aloft and an increase in deep-layer monsoonal moisture for Thu
-through the weekend. The added moisture will bring chances for
-afternoon/evening showers/tstms, mainly to the mountains but the
-potential is there for showers/tstms in the deserts as well.
+Monsoonal moisture will continue to gradually decrease through
+tonight, then increase again for late Wednesday into Thursday. A
+slight chance of afternoon showers and thunderstorms for the
+mountains and deserts will return for Thursday.
 
-After Friday, model solutions begin to diverge but overall it
-seems more likely than not that the high pressure will weaken a
-little as it is displaced farther east and south. The effects will
-be marginal at best, with high temperatures remaining near or up
-to 6 degrees above normal on Monday.
+&&
+
+.LONG TERM (Friday through Monday)...
+Higher precipitable water values will continue through Friday
+though slightly below the peak on Thursday. A slight chance for
+afternoon showers and thunderstorms for the mountains and deserts
+will continue on Friday with decreasing chances for the weekend
+into early next week.
+
+High temperatures won`t change much or cool slightly for the
+weekend into early next week, though with increasing spread in the
+high temperature guidance for next week. High temperatures on
+Friday will be a few to around 5 degrees above average, ranging
+from the mid 70s to lower 80s near the coast to the mid 90s to
+102 for the Inland Empire with 106 to 110 for the lower deserts.
+
+For Monday of next week, high temperatures will be within a few
+degrees of average, ranging from the mid 70s to lower 80s near the
+coast to the 90s to around 100 for the Inland Empire with 104 to
+108 for the lower deserts.
 
 &&
 
 .AVIATION...
-180600Z....Coasts...Patchy, intermittent low clouds along the
-immediate coasts of SD county continue to linger this afternoon, but
-VFR conditions prevail at all terminals. Low clouds will gradually
-increase in coverage through 12z Tuesday but remain quite patchy.
-There is low confidence in persistent CIGs at KCRQ and KSNA
-overnight, but higher confidence at KSAN. Best window for CIGs
-tonight is generally 11-15z. Any clouds that pushed ashore will
-clear to the coast by 15-16z Tuesday.
+181200Z....Coasts...Areas of low clouds most likely in San Diego
+County based around 800-1000 feet MSL. Scatter out by 16-17Z. Patchy
+low clouds based around 700-900 feet MSL will gradually develop
+after 06Z Wednesday. Scatter out Wednesday by 16Z.
 
-Otherwise...VFR prevails with FEW-SCT high clouds AOA 15000 feet MSL
-increasing this evening, lingering into Tuesday.
+Otherwise...VFR prevails with SCT high clouds AOA 15000 feet MSL
+decreasing during the day.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -447,8 +443,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...Munyan
+PUBLIC...Martin
+AVIATION/MARINE...MM
 
 
 </pre>
