@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T01:18:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T06:44:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-837
-FXUS66 KSGX 182321
+328
+FXUS66 KSGX 190435
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-421 PM PDT Tue Aug 18 2026
+935 PM PDT Tue Aug 18 2026
 
 .SYNOPSIS...
 High pressure to the east will slowly strengthen into the middle
@@ -374,8 +374,7 @@ the mountains and deserts on Thursday and Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION DISCUSSION FOR 06Z CYCLE...
 
 This afternoon, scattered high clouds are streaming in from the
 Pacific, caught in the broader clockwise high pressure flow across
@@ -422,15 +421,15 @@ ridge moves eastward.
 &&
 
 .AVIATION...
-182300Z....Coast...SCT high clouds through the TAF period. Patchy
-BKN low clouds impacting coastal TAF sites intermittently between 09-
-16Z Wed with bases near 700-1000 ft MSL. Best chance for cigs will
-again be in San Diego County. Any clouds that develop will stay
-within 5-10 miles of the coastline. Low clouds scatter out between
-15-17Z.
+190500Z....Coast...Patchy BKN low clouds impacting coastal TAF sites
+intermittently between 09Z-16Z with bases 700-1000 ft MSL. Best
+chance for cigs will again be in San Diego County. Any clouds that
+develop will stay within 5-10 miles of the coastline. VIS locally
+reduced to 3-5 miles in fog at times on higher coastal terrain. Low
+clouds and fog clear to the beaches between 15-17Z.
 
-Otherwise...VFR prevails with SCT-BKN high clouds AOA 15000 feet MSL
-through the period.
+Otherwise...SCT-BKN high clouds AOA 15000 feet MSL through Wednesday
+afternoon.
 
 &&
 
@@ -442,7 +441,6 @@ No hazardous marine conditions are expected through Saturday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -457,7 +455,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...KW
+AVIATION/MARINE...PG
 
 
 </pre>
