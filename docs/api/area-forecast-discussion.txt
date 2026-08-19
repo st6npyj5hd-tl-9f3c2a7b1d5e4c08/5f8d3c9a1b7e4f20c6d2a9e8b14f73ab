@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-18T18:38:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T01:18:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-302
-FXUS66 KSGX 181735
+837
+FXUS66 KSGX 182321
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1035 AM PDT Tue Aug 18 2026
+421 PM PDT Tue Aug 18 2026
 
 .SYNOPSIS...
 High pressure to the east will slowly strengthen into the middle
@@ -376,51 +374,60 @@ the mountains and deserts on Thursday and Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Thursday)...
-High temperatures will continue to warm a few degrees for today
-and Wednesday with not much change for Thursday. High temperatures
-for Wednesday and Thursday will be around 5 degrees above average
-for inland areas with high temperatures ranging from the mid 70s
-to lower 80s near the coast to the mid 90s to 105 for the Inland
-Empire with around 110 for the lower deserts.
+This afternoon, scattered high clouds are streaming in from the
+Pacific, caught in the broader clockwise high pressure flow across
+much of the western US. Temperatures are running generally 1 to 4
+degrees F warmer than yesterday with more 100 degree readings
+expected across the Inland Empire and more 90 degree readings
+throughout inland areas east of I-5 in Orange County and east of I-
+15 in SD County.
 
-Monsoonal moisture will continue to gradually decrease through
-tonight, then increase again for late Wednesday into Thursday. A
-slight chance of afternoon showers and thunderstorms for the
-mountains and deserts will return for Thursday.
+Low clouds will struggle to develop initially tonight but will
+eventually fill into coastal areas in patchy fashion and lead to
+patchy fog in the some of the elevated inland valleys around I-15 in
+San Diego County. High clouds streaming through the region will
+continue to disrupt low cloud development in the following
+evenings as well.
 
-&&
+Hotter low-tropospheric air from the Desert Southwest will
+continue to stream into Southern California, which will allow
+temperatures to increase into Wednesday throughout the Inland
+Valleys. Similar high temperatures are expected Thursday: 98-105F
+in the Inland Empire and interior valleys like Ramona,
+Alpine...For these areas, highs may decrease a degree or two into
+Friday, then another few degrees into Saturday but still remain a
+degree or two above seasonal average.
 
-.LONG TERM (Friday through Monday)...
-Higher precipitable water values will continue through Friday
-though slightly below the peak on Thursday. A slight chance for
-afternoon showers and thunderstorms for the mountains and deserts
-will continue on Friday with decreasing chances for the weekend
-into early next week.
+Meanwhile, desert and coastal temperatures remain rather stable,
+mostly un-phased by the positioning of the ridge, but still a few
+degrees above average. Coastal communities will generally see highs
+in the low to mid 80s while cities more inland (Anaheim,
+Escondido...) will see highs in the upper 80s and low 90s. The
+Coachella Valley and San Diego County deserts will see highs between
+108-114F through next week.
 
-High temperatures won`t change much or cool slightly for the
-weekend into early next week, though with increasing spread in the
-high temperature guidance for next week. High temperatures on
-Friday will be a few to around 5 degrees above average, ranging
-from the mid 70s to lower 80s near the coast to the mid 90s to
-102 for the Inland Empire with 106 to 110 for the lower deserts.
-
-For Monday of next week, high temperatures will be within a few
-degrees of average, ranging from the mid 70s to lower 80s near the
-coast to the 90s to around 100 for the Inland Empire with 104 to
-108 for the lower deserts.
+As the ridge moves into the Four Corners region, the flow of
+monsoonal moisture opens up and brings along a slight chance for
+afternoon mountain thunderstorms Thursday through the weekend. At
+this time, there is great uncertainty in terms of how much t-storm
+activity occurs during this timeframe as long range model
+solutions range from scattered activity each day to none at all.
+PWAT`s are generally highest Thursday and Friday, though
+instability increases Saturday through early next week as the
+ridge moves eastward.
 
 &&
 
 .AVIATION...
-181740Z....Coast...SCT-BKN high clouds through the TAF period.
-Patchy BKN low clouds impacting TAF sites intermittently between 10-
-15Z Wed near 700-1000 ft MSL with moderate to high confidence.
-Best chance for cigs will again be in San Diego County. Complete
-scatter out between 15-17Z.
-
+182300Z....Coast...SCT high clouds through the TAF period. Patchy
+BKN low clouds impacting coastal TAF sites intermittently between 09-
+16Z Wed with bases near 700-1000 ft MSL. Best chance for cigs will
+again be in San Diego County. Any clouds that develop will stay
+within 5-10 miles of the coastline. Low clouds scatter out between
+15-17Z.
 
 Otherwise...VFR prevails with SCT-BKN high clouds AOA 15000 feet MSL
 through the period.
@@ -440,15 +447,17 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for San
+     Bernardino and Riverside County Valleys-The Inland Empire.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...APR
+PUBLIC...Westerink
+AVIATION/MARINE...KW
 
 
 </pre>
