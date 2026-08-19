@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T06:44:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T12:49:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,23 +350,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-328
-FXUS66 KSGX 190435
+166
+FXUS66 KSGX 191126
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-935 PM PDT Tue Aug 18 2026
+426 AM PDT Wed Aug 19 2026
 
 .SYNOPSIS...
-High pressure to the east will slowly strengthen into the middle
-of this week with high temperatures for Wednesday and Thursday
-around 5 degrees above average for inland areas. High
-temperatures will cool slightly for Friday into early next week to
-within a few degrees of average for next Monday. Night and
-morning coastal low clouds will continue into next week. There is
-also a slight chance of afternoon showers and thunderstorms for
-the mountains and deserts on Thursday and Friday.
+High temperatures for inland areas of around 4 to 8 degrees above
+average through Friday will cool slightly to a few to around 5
+degrees above average for early next week. Greater monsoonal
+moisture on Thursday and Friday and again around Monday of next
+week will bring a chance of afternoon showers and thunderstorms
+for the mountains and deserts. Night and morning low clouds will
+continue for the coastal waters into coastal areas.
 
 &&
 
@@ -374,67 +373,59 @@ the mountains and deserts on Thursday and Friday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION FOR 06Z CYCLE...
 
-This afternoon, scattered high clouds are streaming in from the
-Pacific, caught in the broader clockwise high pressure flow across
-much of the western US. Temperatures are running generally 1 to 4
-degrees F warmer than yesterday with more 100 degree readings
-expected across the Inland Empire and more 90 degree readings
-throughout inland areas east of I-5 in Orange County and east of I-
-15 in SD County.
+...UPDATED AVIATION DISCUSSION...
 
-Low clouds will struggle to develop initially tonight but will
-eventually fill into coastal areas in patchy fashion and lead to
-patchy fog in the some of the elevated inland valleys around I-15 in
-San Diego County. High clouds streaming through the region will
-continue to disrupt low cloud development in the following
-evenings as well.
+.SHORT TERM (Today through Friday)...
+For the coast and valleys, high temperatures will warm a few
+degrees today and cool a few degrees on Thursday with not much
+change on Friday. For the mountains and deserts, there will be
+slight day to day differences through Friday.
 
-Hotter low-tropospheric air from the Desert Southwest will
-continue to stream into Southern California, which will allow
-temperatures to increase into Wednesday throughout the Inland
-Valleys. Similar high temperatures are expected Thursday: 98-105F
-in the Inland Empire and interior valleys like Ramona,
-Alpine...For these areas, highs may decrease a degree or two into
-Friday, then another few degrees into Saturday but still remain a
-degree or two above seasonal average.
+High temperatures for today will be a few degrees above average
+near the coast to 4 to 8 degrees above average for the mountains,
+deserts, and inland valleys. High temperatures for today will
+range from the mid 70s to lower 80s near the coast to the mid 90s
+to 105 for the Inland Empire with 108 to 112 for the lower
+deserts.
 
-Meanwhile, desert and coastal temperatures remain rather stable,
-mostly un-phased by the positioning of the ridge, but still a few
-degrees above average. Coastal communities will generally see highs
-in the low to mid 80s while cities more inland (Anaheim,
-Escondido...) will see highs in the upper 80s and low 90s. The
-Coachella Valley and San Diego County deserts will see highs between
-108-114F through next week.
+Precipitable water values will increase for Thursday and Friday
+with a slight chance of afternoon showers and thunderstorms for
+the mountains and deserts. Night and morning low clouds will
+continue for the coastal waters into coastal areas.
 
-As the ridge moves into the Four Corners region, the flow of
-monsoonal moisture opens up and brings along a slight chance for
-afternoon mountain thunderstorms Thursday through the weekend. At
-this time, there is great uncertainty in terms of how much t-storm
-activity occurs during this timeframe as long range model
-solutions range from scattered activity each day to none at all.
-PWAT`s are generally highest Thursday and Friday, though
-instability increases Saturday through early next week as the
-ridge moves eastward.
+&&
+
+.LONG TERM (Saturday through Tuesday)...
+High temperatures will be slightly cooler by early next week with
+high temperatures for Monday and Tuesday a few degrees above
+average for the deserts and around 5 degrees above average for the
+coast and valleys. High temperatures for Monday and Tuesday will
+range from the mid 70s to lower 80s near the coast to the mid 90s
+to 103 for the Inland Empire with 106 to 110 for the lower
+deserts.
+
+There will be drying of monsoonal moisture for the weekend with
+another brief increase possible around Monday of next week.
+Chances for afternoon showers and thunderstorms for the mountains
+and deserts will decrease for the weekend, then may increase again
+around Monday of next week.
 
 &&
 
 .AVIATION...
-190500Z....Coast...Patchy BKN low clouds impacting coastal TAF sites
-intermittently between 09Z-16Z with bases 700-1000 ft MSL. Best
-chance for cigs will again be in San Diego County. Any clouds that
-develop will stay within 5-10 miles of the coastline. VIS locally
-reduced to 3-5 miles in fog at times on higher coastal terrain. Low
-clouds and fog clear to the beaches between 15-17Z.
+191130Z....Coast...Low clouds based around 800-1000 feet MSL will
+continue with good uniform coverage south of KSNA, but more patchy
+and intermittent KSNA north. Scatter out by 16Z. Low clouds with
+similar bases to gradually redevelop but in patchier fashion and
+not as far inland after 06Z tonight into Thursday.
 
-Otherwise...SCT-BKN high clouds AOA 15000 feet MSL through Wednesday
-afternoon.
+Otherwise...mostly clear today and tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday.
+No hazardous marine conditions are expected through Sunday.
 
 &&
 
@@ -445,8 +436,13 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM Wednesday to 8 PM PDT Thursday for San
-     Bernardino and Riverside County Valleys-The Inland Empire.
+CA...Heat Advisory from 10 AM this morning to 8 PM PDT Thursday for
+     San Bernardino and Riverside County Valleys-The Inland
+     Empire.
+
+     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Friday
+     for Coachella Valley-San Diego County Deserts-San Gorgonio
+     Pass near Banning.
 
 PZ...None.
 
@@ -454,8 +450,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...PG
+PUBLIC...Martin
+AVIATION/MARINE...MM
 
 
 </pre>
