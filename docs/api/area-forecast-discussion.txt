@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T01:17:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T06:47:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-558
-FXUS66 KSGX 192352
+164
+FXUS66 KSGX 200415
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-452 PM PDT Wed Aug 19 2026
+915 PM PDT Wed Aug 19 2026
 
 .SYNOPSIS...
 High temperatures for inland areas of around 4 to 8 degrees above
@@ -373,8 +373,7 @@ continue for the coastal waters into coastal areas.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION DISCUSSION for 06Z CYCLE...
 
 This afternoon, clear skies are prevailing across the region. The
 ridge is at its maximum westward reach today, yielding the
@@ -407,16 +406,17 @@ high cloud coverage, which could delay the formation of low clouds.
 &&
 
 .AVIATION...
-200000Z....Coast...Patchy low clouds based 800-1200 ft MSL over
-coastal waters are expected to remain mostly offshore through early
-Thursday morning. Low clouds slowly push into coastal areas 06-09z
-Thu with coverage remaining patchy. Coverage of low clouds increases
-after 10z, especially in San Diego County with areas of clouds
-reaching 5-10 miles inland. Scatter out expected by 15-16z.
+200500Z....Coast...Patchy low clouds with bases 800-1200 ft MSL are
+currently offshore but will slowly spread into coastal areas after
+07Z with coverage remaining patchy. Low cloud coverage increases
+after 09Z, especially in San Diego County, with areas of clouds
+reaching 5-10 miles inland. Local VIS reduced to 3-5 miles on
+elevated coastal terrain 10Z-15Z. Expect clearing to the beaches
+around 15-16z.
 
 Otherwise...mostly clear through Thursday morning. Slight chance (15-
-20%) of SHRA/TSRA over the mtns from 20z Thu - 01z Fri. SCT Cu based
-around 10 kft expected regardless of storm development.
+20%) of SHRA/TSRA over the mtns from 20z Thu - 01z Fri. SCT clouds
+based around 10 kft expected regardless of storm development.
 
 &&
 
@@ -429,6 +429,75 @@ No hazardous marine conditions are expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
+&&
+
+.PREV DISCUSSION... /issued 815 PM PDT Fri Aug 1 2025/
+
+SYNOPSIS...
+Temperatures near average and marine layer low clouds each night
+and morning along the coast and in the western valleys through
+Tuesday. High pressure over the Desert Southwest will likely
+strengthen by the late next week, bringing a warming trend with
+temperatures 5 to 10 degrees above average away from the coast.
+There is the potential for monsoon moisture to return late in the
+week but precipitation chances remain below 10 percent.
+
+DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+This evening, the marine layer is about as deep as it was at this
+time yesterday but the low clouds seem slower to increase in
+coverage and advance inland. This may be due to a weaker inversion
+as a result of some cooling just above the inversion.
+
+From previous discussion...
+Our weather continues to be controlled by the dominant upper
+ridge currently positioned over southern Arizona and the
+low/trough centered over the Gulf of Alaska. As a result, the
+marine layer mixed out efficiently today with sunny skies
+extending several miles out to sea this afternoon. High
+temperatures today coming in right around climatological normals
+to 5 degrees below normal - topping out in the 80s to low 90s for
+most with 100-110 degrees for the deserts. As we head through the
+weekend and into next week, this ridge doesn`t budge much and
+stays relatively weak. Still, temperatures increase very gradually
+through Tuesday, with high temperatures by Tuesday afternoon only
+a couple of degrees warmer than today. The marine layer will
+continue to spread inland each night and retreat back to sea each
+day with depth varying between 700 and 1400ft.
+
+By the middle part of next week, the center of the ridge slides a
+bit closer to New Mexico, but also broadens and strengthens
+considerably, bringing more substantial warming for Wednesday and
+Thursday. Thursday and Friday will likely be the hottest days of
+the next week, with widespread moderate HeatRisk stretching
+towards the coasts and high HeatRisk spreading out of the deserts
+locally to inland valleys. High temperatures reaching or
+exceeding 100 degrees for inland valleys Thurs/Fri with the
+deserts likely exceeding 115 degrees (~90% chance). Available
+moisture will likely be quite below normal for early August most
+of next week, but recover to closer to normal by the end of the
+week. Still, chances for any monsoonal thunderstorms by the end of
+next week stay low, about 10 percent or less.
+
+AVIATION...
+020300Z....Coasts/Western Valleys...Low clouds based 700-1200 feet
+MSL are slowly moving inland, reaching its full inland extent by
+07Z. VIS reduced 0-5SM over higher coastal terrain and western
+valleys. Scatter out Saturday 15-17Z. VFR conditions Saturday
+afternoon. Low clouds redevelop at the coast around 04z Sun.
+
+Inland Valleys/Mountains/Deserts...Mostly clear with VFR conditions
+through late Saturday.
+
+MARINE...
+No hazardous marine conditions are expected through Wednesday.
+
+SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -446,7 +515,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...KW
+AVIATION/MARINE...PG
 
 
 </pre>
