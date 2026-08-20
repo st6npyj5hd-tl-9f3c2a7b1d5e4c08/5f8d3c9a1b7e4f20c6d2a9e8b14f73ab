@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-19T18:36:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T01:17:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-166
-FXUS66 KSGX 191126
+558
+FXUS66 KSGX 192352
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-426 AM PDT Wed Aug 19 2026
+452 PM PDT Wed Aug 19 2026
 
 .SYNOPSIS...
 High temperatures for inland areas of around 4 to 8 degrees above
@@ -376,51 +376,47 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Friday)...
-For the coast and valleys, high temperatures will warm a few
-degrees today and cool a few degrees on Thursday with not much
-change on Friday. For the mountains and deserts, there will be
-slight day to day differences through Friday.
+This afternoon, clear skies are prevailing across the region. The
+ridge is at its maximum westward reach today, yielding the
+hottest temperatures for the inland valleys this week. Widespread
+100F to 105F readings are anticipated across the Inland Empire
+with mid to upper 90s in the interior valleys.
 
-High temperatures for today will be a few degrees above average
-near the coast to 4 to 8 degrees above average for the mountains,
-deserts, and inland valleys. High temperatures for today will
-range from the mid 70s to lower 80s near the coast to the mid 90s
-to 105 for the Inland Empire with 108 to 112 for the lower
-deserts.
+Highs Thursday may back off a degree or two, then remain very steady
+through early next week, only fluctuating by a degree or two each
+day. Today through early next week, highs will hover around 109-113F
+in the lower deserts with persistent areas of Major HeatRisk as a
+result of overnight lows only falling to the mid/upper 80s, about 5-
+8 degrees above average.
 
-Precipitable water values will increase for Thursday and Friday
-with a slight chance of afternoon showers and thunderstorms for
-the mountains and deserts. Night and morning low clouds will
-continue for the coastal waters into coastal areas.
+The center of the ridge retracts slightly eastward, spinning around
+the Four Corners region and opening the door for monsoonal moisture.
+Around a 15-25% chance for afternoon isolated showers and a t-storm
+Thursday and Friday over the mountains, with lesser chances over the
+weekend as the ridge axis moves south and PWAT`s decrease. Chances
+for more scattered shower/t-storm activity increase again early next
+week as the GFS shows the ridge access rotating and potentially re-
+opening the door to more mid-level moisture.
 
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High temperatures will be slightly cooler by early next week with
-high temperatures for Monday and Tuesday a few degrees above
-average for the deserts and around 5 degrees above average for the
-coast and valleys. High temperatures for Monday and Tuesday will
-range from the mid 70s to lower 80s near the coast to the mid 90s
-to 103 for the Inland Empire with 106 to 110 for the lower
-deserts.
-
-There will be drying of monsoonal moisture for the weekend with
-another brief increase possible around Monday of next week.
-Chances for afternoon showers and thunderstorms for the mountains
-and deserts will decrease for the weekend, then may increase again
-around Monday of next week.
+Throughout the forecast period, the marine layer will be fairly
+shallow, between 1,000-2000 feet deep, as the influence of the ridge
+continues. Low clouds should develop and push up to 20 miles inland
+as they typically do in the evening, except for nights with greater
+high cloud coverage, which could delay the formation of low clouds.
 
 &&
 
 .AVIATION...
-191130Z....Coast...Low clouds based around 800-1000 feet MSL will
-continue with good uniform coverage south of KSNA, but more patchy
-and intermittent KSNA north. Scatter out by 16Z. Low clouds with
-similar bases to gradually redevelop but in patchier fashion and
-not as far inland after 06Z tonight into Thursday.
+200000Z....Coast...Patchy low clouds based 800-1200 ft MSL over
+coastal waters are expected to remain mostly offshore through early
+Thursday morning. Low clouds slowly push into coastal areas 06-09z
+Thu with coverage remaining patchy. Coverage of low clouds increases
+after 10z, especially in San Diego County with areas of clouds
+reaching 5-10 miles inland. Scatter out expected by 15-16z.
 
-Otherwise...mostly clear today and tonight.
+Otherwise...mostly clear through Thursday morning. Slight chance (15-
+20%) of SHRA/TSRA over the mtns from 20z Thu - 01z Fri. SCT Cu based
+around 10 kft expected regardless of storm development.
 
 &&
 
@@ -433,16 +429,15 @@ No hazardous marine conditions are expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM this morning to 8 PM PDT Thursday for
-     San Bernardino and Riverside County Valleys-The Inland
-     Empire.
+CA...Heat Advisory until 8 PM PDT Thursday for San Bernardino and
+     Riverside County Valleys-The Inland Empire.
 
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Friday
-     for Coachella Valley-San Diego County Deserts-San Gorgonio
-     Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
+     San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
 
@@ -450,8 +445,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE...MM
+PUBLIC...Westerink
+AVIATION/MARINE...KW
 
 
 </pre>
