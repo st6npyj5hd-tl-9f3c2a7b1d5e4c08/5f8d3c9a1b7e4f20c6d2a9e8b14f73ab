@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T06:47:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T12:51:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,22 +350,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-164
-FXUS66 KSGX 200415
+859
+FXUS66 KSGX 201129
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-915 PM PDT Wed Aug 19 2026
+429 AM PDT Thu Aug 20 2026
 
 .SYNOPSIS...
-High temperatures for inland areas of around 4 to 8 degrees above
-average through Friday will cool slightly to a few to around 5
-degrees above average for early next week. Greater monsoonal
-moisture on Thursday and Friday and again around Monday of next
-week will bring a chance of afternoon showers and thunderstorms
-for the mountains and deserts. Night and morning low clouds will
-continue for the coastal waters into coastal areas.
+Monsoonal moisture will increase today and Friday with a slight
+chance of afternoon showers and thunderstorms for the mountains
+and deserts. There will be some drying of the monsoonal moisture
+over the weekend, then maybe a slight increase again for early
+next week. High temperatures will remain around 5 degrees above
+average for inland areas into next week with low temperatures 5 to
+10 degrees above average for inland areas.
 
 &&
 
@@ -373,55 +373,62 @@ continue for the coastal waters into coastal areas.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION for 06Z CYCLE...
+...UPDATED AVIATION DISCUSSION...
 
-This afternoon, clear skies are prevailing across the region. The
-ridge is at its maximum westward reach today, yielding the
-hottest temperatures for the inland valleys this week. Widespread
-100F to 105F readings are anticipated across the Inland Empire
-with mid to upper 90s in the interior valleys.
+.SHORT TERM (Today through Saturday)...
+Monsoonal moisture will increase for today into Friday, then
+decrease during the weekend. There is a slight chance of afternoon
+showers and thunderstorms for the mountains and deserts for today
+and Friday with decreasing chances on Saturday.
 
-Highs Thursday may back off a degree or two, then remain very steady
-through early next week, only fluctuating by a degree or two each
-day. Today through early next week, highs will hover around 109-113F
-in the lower deserts with persistent areas of Major HeatRisk as a
-result of overnight lows only falling to the mid/upper 80s, about 5-
-8 degrees above average.
+High temperatures around 4 to 8 degrees above average for inland
+areas today will cool slightly to around 5 degrees above average
+for Friday and Saturday. Low temperatures will remain a few
+degrees above average near the coast to 5 to 10 degrees above
+average for inland areas.
 
-The center of the ridge retracts slightly eastward, spinning around
-the Four Corners region and opening the door for monsoonal moisture.
-Around a 15-25% chance for afternoon isolated showers and a t-storm
-Thursday and Friday over the mountains, with lesser chances over the
-weekend as the ridge axis moves south and PWAT`s decrease. Chances
-for more scattered shower/t-storm activity increase again early next
-week as the GFS shows the ridge access rotating and potentially re-
-opening the door to more mid-level moisture.
+High temperatures will range from the mid 70s to lower 80s near
+the coast to the mid 90s to 105 for the Inland Empire with 106 to
+112 for the lower deserts. Moderate HeatRisk will continue for the
+inland valleys, the Apple and Lucerne Valleys, and the mountains
+for elevations below 6000 feet, with moderate to major HeatRisk
+for the lower deserts.
 
-Throughout the forecast period, the marine layer will be fairly
-shallow, between 1,000-2000 feet deep, as the influence of the ridge
-continues. Low clouds should develop and push up to 20 miles inland
-as they typically do in the evening, except for nights with greater
-high cloud coverage, which could delay the formation of low clouds.
+&&
+
+.LONG TERM (Sunday through Wednesday)...
+There will be some drying of precipitable water for the weekend.
+For next Monday and Tuesday for Thermal, ECMWF ensemble output for
+precipitable water has about half of the members with values
+similar to the higher values for today and Friday with about half
+having the same or lower values than the lower values for this
+weekend. There will be occasional slight chances for afternoon
+showers and thunderstorms for the mountains and deserts depending
+on moisture availability.
+
+There will be only slight day to day differences in high
+temperatures with high temperatures generally around 5 degrees
+above average with high temperatures ranging from the mid 70s to
+lower 80s near the coast to the mid 90s to 105 for the Inland
+Empire with 108 to 112 for the lower deserts.
 
 &&
 
 .AVIATION...
-200500Z....Coast...Patchy low clouds with bases 800-1200 ft MSL are
-currently offshore but will slowly spread into coastal areas after
-07Z with coverage remaining patchy. Low cloud coverage increases
-after 09Z, especially in San Diego County, with areas of clouds
-reaching 5-10 miles inland. Local VIS reduced to 3-5 miles on
-elevated coastal terrain 10Z-15Z. Expect clearing to the beaches
-around 15-16z.
+201130Z...Coast...Patchy low clouds with bases 800-1200 feet MSL
+should provide occasional cigs. Any cigs will scatter out by 16Z.
+Patchy and intermittent low clouds with similar bases after 06Z into
+Friday.
 
-Otherwise...mostly clear through Thursday morning. Slight chance (15-
-20%) of SHRA/TSRA over the mtns from 20z Thu - 01z Fri. SCT clouds
-based around 10 kft expected regardless of storm development.
+Otherwise...SCT to locally BKN clouds above 150000 feet MSL today
+through tonight. BKN cumulus at 10000 feet MSL towering over
+mountains and high desert with a 15-20% chance of TSRA 19-01Z.
+Gusty, erratic winds around any TSRA.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
@@ -429,83 +436,13 @@ No hazardous marine conditions are expected through Sunday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
-&&
-
-.PREV DISCUSSION... /issued 815 PM PDT Fri Aug 1 2025/
-
-SYNOPSIS...
-Temperatures near average and marine layer low clouds each night
-and morning along the coast and in the western valleys through
-Tuesday. High pressure over the Desert Southwest will likely
-strengthen by the late next week, bringing a warming trend with
-temperatures 5 to 10 degrees above average away from the coast.
-There is the potential for monsoon moisture to return late in the
-week but precipitation chances remain below 10 percent.
-
-DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
-SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
-COUNTIES...
-
-This evening, the marine layer is about as deep as it was at this
-time yesterday but the low clouds seem slower to increase in
-coverage and advance inland. This may be due to a weaker inversion
-as a result of some cooling just above the inversion.
-
-From previous discussion...
-Our weather continues to be controlled by the dominant upper
-ridge currently positioned over southern Arizona and the
-low/trough centered over the Gulf of Alaska. As a result, the
-marine layer mixed out efficiently today with sunny skies
-extending several miles out to sea this afternoon. High
-temperatures today coming in right around climatological normals
-to 5 degrees below normal - topping out in the 80s to low 90s for
-most with 100-110 degrees for the deserts. As we head through the
-weekend and into next week, this ridge doesn`t budge much and
-stays relatively weak. Still, temperatures increase very gradually
-through Tuesday, with high temperatures by Tuesday afternoon only
-a couple of degrees warmer than today. The marine layer will
-continue to spread inland each night and retreat back to sea each
-day with depth varying between 700 and 1400ft.
-
-By the middle part of next week, the center of the ridge slides a
-bit closer to New Mexico, but also broadens and strengthens
-considerably, bringing more substantial warming for Wednesday and
-Thursday. Thursday and Friday will likely be the hottest days of
-the next week, with widespread moderate HeatRisk stretching
-towards the coasts and high HeatRisk spreading out of the deserts
-locally to inland valleys. High temperatures reaching or
-exceeding 100 degrees for inland valleys Thurs/Fri with the
-deserts likely exceeding 115 degrees (~90% chance). Available
-moisture will likely be quite below normal for early August most
-of next week, but recover to closer to normal by the end of the
-week. Still, chances for any monsoonal thunderstorms by the end of
-next week stay low, about 10 percent or less.
-
-AVIATION...
-020300Z....Coasts/Western Valleys...Low clouds based 700-1200 feet
-MSL are slowly moving inland, reaching its full inland extent by
-07Z. VIS reduced 0-5SM over higher coastal terrain and western
-valleys. Scatter out Saturday 15-17Z. VFR conditions Saturday
-afternoon. Low clouds redevelop at the coast around 04z Sun.
-
-Inland Valleys/Mountains/Deserts...Mostly clear with VFR conditions
-through late Saturday.
-
-MARINE...
-No hazardous marine conditions are expected through Wednesday.
-
-SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Thursday for San Bernardino and
+CA...Heat Advisory until 8 PM PDT this evening for San Bernardino and
      Riverside County Valleys-The Inland Empire.
 
-     Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
+     Extreme Heat Warning until 8 PM PDT Sunday for Coachella Valley-
      San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
@@ -514,8 +451,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...PG
+PUBLIC...Martin
+AVIATION/MARINE...MM
 
 
 </pre>
