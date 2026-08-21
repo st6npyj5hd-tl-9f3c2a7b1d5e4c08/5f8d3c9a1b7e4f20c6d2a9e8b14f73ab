@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-20T18:39:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-21T01:07:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,27 +347,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-015
-FXUS66 KSGX 201806
+966
+FXUS66 KSGX 202323
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1106 AM PDT Thu Aug 20 2026
+423 PM PDT Thu Aug 20 2026
 
 .SYNOPSIS...
 Monsoonal moisture will increase today and Friday with a slight
 chance of afternoon showers and thunderstorms for the mountains
-and deserts. There will be some drying of the monsoonal moisture
-over the weekend, then maybe a slight increase again for early
-next week. High temperatures will remain around 5 degrees above
-average for inland areas into next week with low temperatures 5 to
-10 degrees above average for inland areas.
+and deserts. There will be some drying on Saturday, followed by
+the potential for a slight increase again early next week. High
+temperatures will remain around 5 degrees above average for inland
+areas into next week with low temperatures 5 to 10 degrees above
+average for inland areas.
 
 &&
 
@@ -375,60 +373,58 @@ average for inland areas into next week with low temperatures 5 to
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Saturday)...
-Monsoonal moisture will increase for today into Friday, then
-decrease during the weekend. There is a slight chance of afternoon
-showers and thunderstorms for the mountains and deserts for today
-and Friday with decreasing chances on Saturday.
+A weakening Mesoscale Convective Vortex (MCV) from earlier
+convection over AZ has moved into far Southeast California.
+Outflow from this system has helped kicked off convection over the
+San Diego County mountains, while further north we`ve only seen
+some cumulus clouds so far. Expect scattered thunderstorms over
+the mountains this afternoon with locally heavy rain, gusty winds,
+and small hail. Showers and thunderstorms will diminish this
+evening. Otherwise warm and humid weather continues today with
+highs around 5 to 8 degrees above normal inland. The Heat
+Advisory remains in effect for the Inland Empire through this
+evening.
 
-High temperatures around 4 to 8 degrees above average for inland
-areas today will cool slightly to around 5 degrees above average
-for Friday and Saturday. Low temperatures will remain a few
-degrees above average near the coast to 5 to 10 degrees above
-average for inland areas.
+The upper high begins to shift eastward as an upper level trough
+approaches the west coast. Overall this will lead to some drying
+Friday and Saturday though temperatures will only fluctuate a
+degree or two each day. Showers and thunderstorm chances lower to
+around 15-20% Friday afternoon, then less than 10% for Saturday
+afternoon. There is the potential for moisture to increase
+slightly on Sunday and Monday, though there is still some spread
+in the ensembles. For now we look to be on the fringes of the
+moisture, with the best chances of any afternoon storms limited to
+far southern San Diego County Sunday, perhaps shifting north into
+the remaining mountain ranges on Monday.
 
-High temperatures will range from the mid 70s to lower 80s near
-the coast to the mid 90s to 105 for the Inland Empire with 106 to
-112 for the lower deserts. Moderate HeatRisk will continue for the
-inland valleys, the Apple and Lucerne Valleys, and the mountains
-for elevations below 6000 feet, with moderate to major HeatRisk
-for the lower deserts.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-There will be some drying of precipitable water for the weekend.
-For next Monday and Tuesday for Thermal, ECMWF ensemble output for
-precipitable water has about half of the members with values
-similar to the higher values for today and Friday with about half
-having the same or lower values than the lower values for this
-weekend. There will be occasional slight chances for afternoon
-showers and thunderstorms for the mountains and deserts depending
-on moisture availability.
-
-There will be only slight day to day differences in high
-temperatures with high temperatures generally around 5 degrees
-above average with high temperatures ranging from the mid 70s to
-lower 80s near the coast to the mid 90s to 105 for the Inland
-Empire with 108 to 112 for the lower deserts.
+For much of next week, the upper high will remain centered over
+southern AZ/NM with the ridge axis extending west into So Cal and
+weak south to southwesterly flow aloft. Monsoonal moisture remains
+marginal for only low chances of showers and thunderstorms.
+Otherwise expect a minor warming trend for the middle of the week
+with widespread high HeatRisk in the low deserts and moderate
+HeatRisk elsewhere.
 
 &&
 
 .AVIATION...
-201800Z...Coast...Low clouds based 800-1200 ft MSL push onshore to
-coastal areas around 02z Fri, remaining very patchy and intermittent
-through 12z as high clouds disrupt their development. These low
-clouds briefly fill in coverage up to 15 miles inland through 16z
-Fri, then scatter out. Reduced VIS 0-5SM where clouds intersect
-terrain along elevated valleys.
+202330Z...Coast...Patchy low clouds based 800-1200 ft MSL over
+coastal waters may push ashore in San Diego County as early as 02-
+03z Fri. Similar to last night, coverage should remain patchy and
+intermittent at best for coastal areas through early Friday morning.
+Low clouds expand in coverage near sunrise on Friday with the best
+chance for cigs at coastal TAF sites from 12-15z. Clouds scatter out
+again by 16z with VFR conditions expected for Friday afternoon.
 
 
 Otherwise...SCT to locally BKN clouds above 15 kft MSL through
-Friday. BKN cumulus at 10 kft MSL towering over mountains and high
-desert with a 15-20% chance of TSRA 21-02Z. Gusty, erratic winds
-around any TSRA.
+Friday. ISO SHRA/TSRA along with Cu based near 10 kft will continue
+over the mtns through 02Z. Gusty, erratic winds around any TSRA.
+Slight chance (15-25%) for more SHRA/TSRA over mtns from 20z Fri -
+01z Sat.
 
 &&
 
@@ -457,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Westerink
+PUBLIC...SS
+AVIATION/MARINE...KW
 
 
 </pre>
