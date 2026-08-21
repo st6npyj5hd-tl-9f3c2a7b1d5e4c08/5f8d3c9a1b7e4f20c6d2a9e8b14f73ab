@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-21T12:49:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-21T18:37:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,16 +347,20 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-351
-FXUS66 KSGX 210932
+093
+FXUS66 KSGX 211755
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-232 AM PDT Fri Aug 21 2026
+1055 AM PDT Fri Aug 21 2026
 
 .SYNOPSIS...
 Monsoonal moisture will decrease into the weekend with a slight
@@ -374,7 +378,6 @@ major to extreme HeatRisk for the lower deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -437,18 +440,15 @@ next week, August 28th.
 &&
 
 .AVIATION...
-210930Z...Coast...Patchy low clouds based 800-1200 ft MSL over the
-coastal waters will remain patchy and intermittent at best for
-coastal areas through early this morning.
-Low clouds expand in coverage near sunrise with the best
-chance for cigs at coastal TAF sites 12-15z. VFR conditions expected
-this afternoon. Similar conditions expected tonight, with
-patchy low clouds generally remaining over the coastal waters with
-best chances for cigs at coastal sites Sat morning after 11z.
+211800Z...Coast...VFR conditions expected this afternoon with FEW-SCT
+high clouds AOA 20 kft. Patchy low clouds reforming after 08Z
+near the beaches, with low to moderate confidence in cigs near
+400-900 ft MSL impacting coastal SD County TAF sites between
+11-15Z Sat. Low clouds scatter thereafter.
 
-Otherwise...FEW to SCT clouds above 15 kft MSL through
-Friday. Slight chance (10-15%) for ISO SHRA/TSRA over mtns from
-20z Fri to 01z Sat.
+Otherwise...FEW to SCT clouds above 20 kft MSL through Friday.
+Slight chance (10-15%) for ISO SHRA/TSRA over mtns from 20z Fri to
+01z Sat.
 
 &&
 
@@ -474,8 +474,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...Martin
+AVIATION/MARINE...APR
 
 
 </pre>
