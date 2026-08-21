@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-21T01:07:10+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-21T06:49:03+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,16 +347,20 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-966
-FXUS66 KSGX 202323
+742
+FXUS66 KSGX 210528
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-423 PM PDT Thu Aug 20 2026
+1028 PM PDT Thu Aug 20 2026
 
 .SYNOPSIS...
 Monsoonal moisture will increase today and Friday with a slight
@@ -372,7 +376,6 @@ average for inland areas.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -411,20 +414,17 @@ HeatRisk elsewhere.
 &&
 
 .AVIATION...
-202330Z...Coast...Patchy low clouds based 800-1200 ft MSL over
-coastal waters may push ashore in San Diego County as early as 02-
-03z Fri. Similar to last night, coverage should remain patchy and
+210530Z...Coast...Patchy low clouds based 800-1200 ft MSL over the
+coastal waters will move in along parts of the coast overnight.
+Similar to last night, coverage should remain patchy and
 intermittent at best for coastal areas through early Friday morning.
 Low clouds expand in coverage near sunrise on Friday with the best
 chance for cigs at coastal TAF sites from 12-15z. Clouds scatter out
 again by 16z with VFR conditions expected for Friday afternoon.
 
-
-Otherwise...SCT to locally BKN clouds above 15 kft MSL through
-Friday. ISO SHRA/TSRA along with Cu based near 10 kft will continue
-over the mtns through 02Z. Gusty, erratic winds around any TSRA.
-Slight chance (15-25%) for more SHRA/TSRA over mtns from 20z Fri -
-01z Sat.
+Otherwise...FEW to SCT clouds above 15 kft MSL through
+Friday. Slight chance (10-15%) for more ISO SHRA/TSRA over mtns from
+20z Fri to 01z Sat.
 
 &&
 
@@ -437,14 +437,10 @@ No hazardous marine conditions are expected through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for San Bernardino and
-     Riverside County Valleys-The Inland Empire.
-
-     Extreme Heat Warning until 8 PM PDT Sunday for Coachella Valley-
+CA...Extreme Heat Warning until 8 PM PDT Sunday for Coachella Valley-
      San Diego County Deserts-San Gorgonio Pass near Banning.
 
 PZ...None.
@@ -453,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE...KW
+PUBLIC...PG
+AVIATION/MARINE...CSP
 
 
 </pre>
