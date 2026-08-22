@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-22T01:16:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-22T06:40:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-353
-FXUS66 KSGX 212338
+786
+FXUS66 KSGX 220529
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-438 PM PDT Fri Aug 21 2026
+1029 PM PDT Fri Aug 21 2026
 
 .SYNOPSIS...
 Monsoonal moisture will decrease into the weekend with a slight
@@ -372,7 +372,6 @@ major to extreme HeatRisk for the lower deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -427,12 +426,14 @@ shade, hydrate and seek A/C when possible!
 &&
 
 .AVIATION...
-212330Z...Coast...A few clouds have been lingering in and out along
-the coast around 5,000ft MSL and SCT high clouds AOA 20,000ft MSL.
-Expecting patchy low clouds to begin forming after 08Z along the
-coast, with a 30-40% chance of cigs near 400-900 ft MSL impacting
-coastal SD County TAF sites between 10-15Z. Low clouds scatter out
-15-16Z.
+220530Z...Coast...Patchy clouds based around 1000 ft MSL have formed
+along parts of the coastal waters. Clouds will remain somewhat
+patchy and intermittent overnight, but will start to move into
+coastal areas after 08Z, likely lowering slightly to 700-1000 ft
+MSL. There is a 60-70% chance for cigs at KSAN/KCRQ after 08Z. Low
+clouds scatter out 15-16Z Sat morning. Low clouds expected to be
+more patchy and isolated when they form Sat evening, with a 20-30%
+chance for cigs in coastal San Diego Co after 07Z Sun.
 
 Otherwise...FEW to SCT clouds above 20 kft MSL through the TAF
 period.
@@ -447,7 +448,6 @@ No hazardous marine conditions are expected through Tuesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -467,8 +467,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...Villafane
+PUBLIC...SS
+AVIATION/MARINE...CSP
 
 
 </pre>
