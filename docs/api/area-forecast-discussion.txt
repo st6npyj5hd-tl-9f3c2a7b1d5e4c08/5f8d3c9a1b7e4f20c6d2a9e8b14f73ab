@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-22T06:40:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-22T12:40:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,22 +350,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-786
-FXUS66 KSGX 220529
+084
+FXUS66 KSGX 220942
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1029 PM PDT Fri Aug 21 2026
+242 AM PDT Sat Aug 22 2026
 
 .SYNOPSIS...
-Monsoonal moisture will decrease into the weekend with a slight
-chance of showers and thunderstorms for the mountains and high
-desert for this afternoon. Above average high and low temperatures
-will continue through next week. Widespread moderate to locally
-major HeatRisk for the coast, valleys, and mountains except near
-the beaches and for the higher elevations in the mountains, with
-major to extreme HeatRisk for the lower deserts.
+Monsoonal moisture will decrease this weekend, with a slight
+chance of showers and thunderstorms for the mountains and lower
+deserts returning for Monday afternoon. Above average high and
+low temperatures will continue through next week. Widespread
+moderate to locally major HeatRisk for the coast, valleys, and
+mountains except near the beaches and for the higher elevations in
+the mountains, with major to extreme HeatRisk for the lower
+deserts.
 
 &&
 
@@ -373,67 +374,47 @@ major to extreme HeatRisk for the lower deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Outside of a few passing high clouds, most of the region is
-experiencing sunshine this afternoon. Cumulus clouds over San
-Gorgonio mountain have grown into showers and a thunderstorm. PWAT
-values in this mornings sounding have actually increased a bit from
-yesterday and thus there is still an outside (10%) chance for shower
-development where cumulus have already developed over the Peninsular
-Range later this afternoon.
+A couple of record high minimum temperatures were set yesterday
+as moisture aloft and high clouds inhibit radiation cooling at
+night. A few high clouds continue this morning as patchy marine
+layer low clouds form over the coastal areas.
 
-As of 1 PM, about 50% of temperature observations read 100F or above
-through the Inland Empire with readings approaching 100F through the
-interior and foothill valleys of San Diego County. Temperatures near
-the coast remain closer to average with more comfortable mid 70s
-across the San Diego County Coast and low 80s across the Orange
-County coast.
+Numerical models remain in good agreement with respect to the
+synoptic pattern. The dominant high pressure will remain in place
+over the southwest US with some variations in the location of the
+center and orientation of the ridge axis, with the ridge becoming
+less amplified at times as a couple of major shortwave troughs
+move inland over the Pacific Northwest. As a result, the marine
+layer will remain shallow with low clouds restricted to the
+coastal areas and little day-to-day change.
 
-This morning`s marine layer was slow to develop and quite shallow -
-around 1000 feet deep with patchy cloud cover and locally lower
-visibilities in the valleys surrounding the I-15 corridor. This
-pattern should continue in the coming days as the ridge continues to
-squash the boundary layer.
-
-Long range models are in solid agreement about keeping the upper
-level ridge strong and centered over the Desert Southwest for at
-least the next week, despite the jet stream flowing north of it
-across the Northwest. As a result, model guidance is foresting
-temperatures consistently 5 to 10 degrees above average across
-Southern California through the forecast period with little day-to-
-day change. Given we are in an already hot time of year, impacts
-from prolonged above normal heat will be more widespread. Most
-inland areas will experience moderate HeatRisk through next week
-with some areas of Major HeatRisk. The lower deserts will experience
-persistent Major HeatRisk through next week with temperatures
-forecast 110-115F everyday of the forecast period and low
-temperatures struggling to fall below 90F in some places.
-
-Despite the favorable positioning of the ridge, thunderstorm
-chances are limited this weekend and increasingly less impressive
-next week with less moisture in store. Chances are subject to
-change however, especially next week, as the mid-level flow
-remains generally southerly with the upper level high pressure
-spinning to the east.
-
-The Extreme Heat Warning continues for the lower deserts through
-next Friday and a Heat Advisory is now in place for the inland
-valleys and mountains (below 6000 feet in San Bernardino County)
-from Saturday morning through Monday evening. Take breaks in the
-shade, hydrate and seek A/C when possible!
+Daytime high temperatures will likely remain generally 5 to 10
+degrees above normal. Guidance also indicates that overnight low
+temperatures will remain above normal. These temperature trends make
+it more likely that the inland valleys, mountains and high desert
+will experience moderate HeatRisk through next week with some
+areas of Major HeatRisk. The lower deserts will likely experience
+persistent Major HeatRisk through next week. The one caveat is
+that the changes in position and orientation of the high could
+result in a reduction of deep-layer moisture aloft. This will
+certainly reduce the chances for pm showers/tstms in the mtns and
+deserts but could also allow for improved radiation cooling at
+night leading to lower overnight temperatures. At this time lower
+overnight temperatures seems to be a low probability of
+occurrence.
 
 &&
 
 .AVIATION...
-220530Z...Coast...Patchy clouds based around 1000 ft MSL have formed
-along parts of the coastal waters. Clouds will remain somewhat
-patchy and intermittent overnight, but will start to move into
-coastal areas after 08Z, likely lowering slightly to 700-1000 ft
-MSL. There is a 60-70% chance for cigs at KSAN/KCRQ after 08Z. Low
-clouds scatter out 15-16Z Sat morning. Low clouds expected to be
-more patchy and isolated when they form Sat evening, with a 20-30%
-chance for cigs in coastal San Diego Co after 07Z Sun.
+220930Z...Coast...Patchy low clouds based 700-1000 ft MSL will
+become more widespread, mostly in San Diego Co, through about 12Z
+this morning, with more intermittent clouds in coastal Orange Co.
+Clouds scatter out 15-16Z. Low clouds expected to be more patchy and
+isolated when they form Sat evening, with a 20-30% chance for cigs
+in coastal San Diego Co after 09Z Sun and lower chances elsewhere.
 
 Otherwise...FEW to SCT clouds above 20 kft MSL through the TAF
 period.
@@ -441,7 +422,7 @@ period.
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
@@ -449,11 +430,12 @@ No hazardous marine conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM Saturday to 8 PM PDT Monday for Orange
-     County Inland Areas-Riverside County Mountains-San
+CA...Heat Advisory from 10 AM this morning to 8 PM PDT Monday for
+     Orange County Inland Areas-Riverside County Mountains-San
      Bernardino County Mountains-San Bernardino and Riverside
      County Valleys-The Inland Empire-San Diego County Mountains-
      San Diego County Valleys-Santa Ana Mountains and Foothills.
@@ -467,7 +449,7 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
+PUBLIC...PG
 AVIATION/MARINE...CSP
 
 
