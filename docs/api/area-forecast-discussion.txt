@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-23T01:23:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-23T06:41:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-234
-FXUS66 KSGX 222349
+624
+FXUS66 KSGX 230604
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-449 PM PDT Sat Aug 22 2026
+1104 PM PDT Sat Aug 22 2026
 
 .SYNOPSIS...
 Monsoonal moisture will decrease this weekend, with a slight
@@ -373,7 +373,6 @@ deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -435,14 +434,13 @@ Take breaks in the shade, hydrate and seek A/C when possible!
 &&
 
 .AVIATION...
-222330Z...Coast...Mostly clear skies over the majority of the coast
-with just a few clouds based around 1,000ft MSL over south SD. Low
-to moderate (20-40%) chances of cigs returning after 04Z this
-evening. Confidence higher on cigs impacting coastal SD between 09-
-15Z Sun with bases 500-1,000ft MSL. Locally lower cigs near 200-
-400ft MSL in higher terrain. Expect lower Vis of 2-4 sm for most
-areas along the coast at times, locally below 1 sm. Clouds clear 14-
-16Z.
+230530Z...Coast...Mostly clear skies over the majority of the coast
+with just a few clouds based around 1,000ft MSL over south SD
+coastal waters. Clouds will become more widespread towards 9-10Z but
+remain patchy and intermittent majority of the night. Moderate
+confidence on cigs impacting coastal SD between 10-15Z with bases
+500-1,000ft MSL. Lowered vis 2-4 SM expected for higher coastal
+terrain, locally >= 1 SM. Clouds clear over land by 16Z.
 
 Otherwise...VFR conditions through the TAF period with mostly clear
 skies through 18Z. Mid/high clouds AOA 20,000ft MSL expected east of
@@ -451,9 +449,16 @@ the mountains in the afternoon Sunday.
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
-Increasing south swell mid to late next week starting Wednesday with
-waves up to 6 feet.
+No hazardous marine conditions are expected through Wednesday.
+
+&&
+
+.BEACHES...
+A 4-5 foot southerly swell at 13-15 seconds will move into the area
+Wednesday and Thursday, leading to elevated surf for the south
+facing beaches of northern San Diego County and Orange County.
+Breaking waves of 4 to 6 feet are likely, with the potential for
+localized sets to 8 feet. Surf gradually subsides on Friday.
 
 &&
 
@@ -488,8 +493,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...Villafane
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
