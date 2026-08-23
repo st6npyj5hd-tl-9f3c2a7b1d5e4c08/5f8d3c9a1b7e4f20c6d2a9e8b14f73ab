@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-23T12:41:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-23T18:30:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-640
-FXUS66 KSGX 230943
+437
+FXUS66 KSGX 231727
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-243 AM PDT Sun Aug 23 2026
+1027 AM PDT Sun Aug 23 2026
 
 .SYNOPSIS...
 Monsoonal moisture will decrease this weekend, with a slight
@@ -374,8 +374,7 @@ deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION, MARINE, BEACHES DISCUSSION...
 
 Today through tomorrow night...
 
@@ -411,38 +410,31 @@ areas for the most part.
 &&
 
 .AVIATION...
-230935Z...Coast...Patchy low clouds along the immediate San Diego Co
-coastline will continue to gradually become more widespread for
-coastal areas until just after sunrise. Moderate confidence on cigs
-impacting coastal SD between 10-15Z with bases 500-1,000ft MSL.
-Lowered vis 2-4 SM expected for higher coastal terrain, locally >= 1
-SM. Clouds clear over land by 16Z. Similar bases are expected for
-patchy low clouds late tonight, with highest chances for cigs 12-15Z
-Mon for southern SD Co including vcnty KSAN.
+231700Z...Coast...Low clouds and locally dense fog linger along the
+immediate coast in San Diego County. Moderate confidence in cigs and
+vis at the immediate coast clearing 20Z Sun-00Z Mon. Moderate
+confidence in cigs impacting coastal SD between 10-15Z Mon with
+bases 200-800ft MSL. Lowered vis 1-3 SM expected with vis less than
+1 SM near higher coastal terrain. Low clouds and vis restrictions
+may linger along the immediate coast after 15Z Mon.
 
 Otherwise...VFR conditions through the TAF period with FEW-SCT
-clouds AOA 20,000ft MSL expected later today.
+clouds AOA 20,000ft MSL after 20Z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
 .BEACHES...
-A 4-5 foot southerly swell at 13-15 seconds will move into the area
-Wednesday and Thursday, leading to elevated surf for the south
-facing beaches of northern San Diego County and Orange County.
-Breaking waves of 4 to 6 feet are likely, with the potential for
-local sets to 8 feet. Surf gradually subsides on Friday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+A 4-5 foot southerly swell (from 170 degrees) at 13-15 seconds will
+move into the area Wednesday and Thursday, leading to elevated surf
+for the south facing beaches of northern San Diego County and Orange
+County. Breaking waves of 4 to 6 feet expected, sets up to 8 feet
+possible at beaches that face due south. Surf gradually subsides on
+Friday.
 
 &&
 
@@ -471,7 +463,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
