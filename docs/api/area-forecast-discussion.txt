@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-22T18:31:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-23T01:23:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-765
-FXUS66 KSGX 221813
+234
+FXUS66 KSGX 222349
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1113 AM PDT Sat Aug 22 2026
+449 PM PDT Sat Aug 22 2026
 
 .SYNOPSIS...
 Monsoonal moisture will decrease this weekend, with a slight
@@ -376,49 +374,79 @@ deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-A couple of record high minimum temperatures were set yesterday
-as moisture aloft and high clouds inhibit radiation cooling at
-night. A few high clouds continue this morning as patchy marine
-layer low clouds form over the coastal areas.
+Another mostly clear day across the region. Over the San Bernardino
+Mountains, there is some cumulus development, though much less
+vertically developed than at this time yesterday. With southwesterly
+steering flow aloft and limited PWAT, chances for any showers this
+afternoon are around 10% over the southern San Diego County
+mountains and less elsewhere. The marine layer this morning was only
+around 500-1000 feet deep, yielding patchy fog west of the I-15
+corridor down to the coastal mesas. This pattern should continue for
+at least the next few nights with the marine layer expanding a few
+hundred feet Sunday night then contracting again Monday night.
 
-Numerical models remain in good agreement with respect to the
-synoptic pattern. The dominant high pressure will remain in place
-over the southwest US with some variations in the location of the
-center and orientation of the ridge axis, with the ridge becoming
-less amplified at times as a couple of major shortwave troughs
-move inland over the Pacific Northwest. As a result, the marine
-layer will remain shallow with low clouds restricted to the
-coastal areas and little day-to-day change.
+Thunderstorm chances look rather limited throughout the entire
+forecast period; Monday being the only day with more than zero
+confidence for perhaps a few showers/thunderstorms as PWAT`s may
+briefly rise above 1.3 inches. Model spread in PWAT values diverge
+quite significantly through the rest of the week, so precip chances
+remain uncertain.
 
-Daytime high temperatures will likely remain generally 5 to 10
-degrees above normal. Guidance also indicates that overnight low
-temperatures will remain above normal. These temperature trends make
-it more likely that the inland valleys, mountains and high desert
-will experience moderate HeatRisk through next week with some
-areas of Major HeatRisk. The lower deserts will likely experience
-persistent Major HeatRisk through next week. The one caveat is
-that the changes in position and orientation of the high could
-result in a reduction of deep-layer moisture aloft. This will
-certainly reduce the chances for pm showers/tstms in the mtns and
-deserts but could also allow for improved radiation cooling at
-night leading to lower overnight temperatures. At this time lower
-overnight temperatures seems to be a low probability of
-occurrence.
+In terms of heat, the ridge of high pressure across the Four Corners
+Region is here to stay through the end of August. The ridge tightens
+ever so slightly Sunday, allowing temperatures to back off a few
+degrees inland and in the deserts for Monday afternoon before slowly
+expanding and intensifying again through the middle of the week.
+Highs increase 2 to 4 degrees into Tuesday, then another few degrees
+into Wednesday with a net increase of 5 to 10 degrees over these two
+days (4-8 above average Monday to 10-14 above average Wednesday).
+These very hot temperatures stick around until at least Friday with
+limited guidance showing any weakening of the ridge through the end
+of the 7-day forecast period. HeatRisk for the inland valleys
+increase from predominantly moderate through Tuesday to Major
+through Friday. For coastal areas and higher elevations, HeatRisk
+transitions from Minor through Monday to Moderate and locally Major
+(all the way to the beaches) for the remainder of the week. The
+combination of hot daytime temperatures with overnight temperatures
+struggling to drop below the lower 70s will especially affect those
+without access to air conditioning.
+
+
+In raw numbers, Monday highs look like...
+
+... 80s at the coast, 90s inland, 100-105F in the IE and around 110F
+in the lower deserts.
+
+Wed/Thurs/Fri highs look like...
+
+... upper 80s/low 90s at the coast, 95-105F inland, 105-110F in
+the IE and 114-117F in the lower deserts.
+
+The Heat Advisory for inland areas through 10 AM Tuesday is then
+followed by an Extreme Heat Watch through Friday 8 PM for the whole
+region, except for the lower deserts which are already in an Extreme
+Heat Warning through Friday evening.
+
+Take breaks in the shade, hydrate and seek A/C when possible!
 
 &&
 
 .AVIATION...
-221810Z...Coast...Mostly clear by this afternoon through the evening
-hours. Low to moderate chance on cigs returning at the beaches after
-04Z this evening. Confidence higher on cigs impacting coastal TAF
-sites between 10-15Z Sun with bases near 500-1000 ft MSL. Locally
-lower cigs near 200-400 ft MSL in higher terrain. Vis lowering near
-2-4 sm for most areas, locally below 1 sm. Clouds clearing 14-16Z
-with moderate confidence on timing.
+222330Z...Coast...Mostly clear skies over the majority of the coast
+with just a few clouds based around 1,000ft MSL over south SD. Low
+to moderate (20-40%) chances of cigs returning after 04Z this
+evening. Confidence higher on cigs impacting coastal SD between 09-
+15Z Sun with bases 500-1,000ft MSL. Locally lower cigs near 200-
+400ft MSL in higher terrain. Expect lower Vis of 2-4 sm for most
+areas along the coast at times, locally below 1 sm. Clouds clear 14-
+16Z.
 
-Otherwise...Mostly clear through the TAF period.
+Otherwise...VFR conditions through the TAF period with mostly clear
+skies through 18Z. Mid/high clouds AOA 20,000ft MSL expected east of
+the mountains in the afternoon Sunday.
 
 &&
 
@@ -437,7 +465,15 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Monday for Orange County Inland
+CA...Extreme Heat Watch from Tuesday morning through Friday evening
+     for Apple and Lucerne Valleys-Orange County Coastal Areas-
+     Orange County Inland Areas-Riverside County Mountains-San
+     Bernardino County Mountains-San Bernardino and Riverside
+     County Valleys-The Inland Empire-San Diego County Coastal
+     Areas-San Diego County Mountains-San Diego County Valleys-
+     Santa Ana Mountains and Foothills.
+
+     Heat Advisory until 10 AM PDT Tuesday for Orange County Inland
      Areas-Riverside County Mountains-San Bernardino County
      Mountains-San Bernardino and Riverside County Valleys-The
      Inland Empire-San Diego County Mountains-San Diego County
@@ -452,8 +488,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...APR
+PUBLIC...Westerink
+AVIATION/MARINE...Villafane
 
 
 </pre>
