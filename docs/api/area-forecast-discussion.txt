@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T12:49:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T18:40:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-208
-FXUS66 KSGX 251133
+728
+FXUS66 KSGX 251753
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-433 AM PDT Tue Aug 25 2026
+1053 AM PDT Tue Aug 25 2026
 
 .SYNOPSIS...
 A slight chance of afternoon showers and thunderstorms will
@@ -411,17 +411,19 @@ Empire with 104 to 108 for the lower deserts.
 &&
 
 .AVIATION...
-251130Z...Coast...Patchy low clouds 600-1000 feet MSL will be random
-and intermittent through 16Z. Vis reductions 1-5SM possible where
-cigs form. Patchy low clouds will form again after 03Z and overnight
-into Wednesday. Isolated and random cigs would be 600-1000 feet MSL.
+251800Z...Coast...VFR through early Wednesday morning. Patchy low
+clouds based 600-900 ft MSL redevelop over coastal areas starting 08-
+10z Wed. Best chance for cigs will be in San Diego County from 12-
+15z. Minor vis reductions of 2-6SM down to sea level and patchy
+dense FG along elevated coastal terrain where cigs develop. Any low
+clouds scatter out by 16z.
 
-Mountains/Deserts...Cumulus based around 9000 feet MSL with CB
-clouds with tops to 40000 feet and ISO TSRA over mountains and
-locally into adjacent deserts 19-01Z. Any TS could produce gusty,
-erratic winds.
+Mountains/Deserts...Cumulus based around 9000 feet MSL with ISO TSRA
+and CB tops to 40000 feet over mountains 20-01Z. Any TS that
+develops could produce gusty, erratic winds. VFR conditions prevail
+otherwise.
 
-Otherwise...SCT clouds AOA 15000 feet MSL.
+Regionwide...FEW-SCT clouds AOA 15000 feet MSL through the period.
 
 &&
 
@@ -431,10 +433,11 @@ No hazardous marine conditions are expected through Saturday.
 &&
 
 .BEACHES...
-A 4-5 foot southerly swell (from 170 degrees) at 13-15 seconds will
-move into the area Wednesday and Thursday, leading to elevated surf
-for the south facing beaches of northern San Diego County and Orange
-County. Surf of 3 to 5 feet, with sets up to 7 feet are expected.
+A 4-5 foot southerly swell (from 170 degrees) at 12-14 seconds will
+move into the area Wednesday morning, leading to elevated surf for
+the south facing beaches of northern San Diego County and Orange
+County through Thursday. Surf of 3 to 6 feet, with sets up to 7 feet
+are expected.
 
 &&
 
@@ -442,24 +445,20 @@ County. Surf of 3 to 5 feet, with sets up to 7 feet are expected.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory from 10 AM this morning to 8 PM PDT Friday for
-     Orange County Coastal Areas-San Diego County Coastal Areas.
+CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
+     Areas-Riverside County Mountains-San Bernardino County
+     Mountains-San Diego County Coastal Areas.
 
-     Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
-     Orange County Inland Areas-San Bernardino and Riverside
-     County Valleys-The Inland Empire-San Diego County Deserts-
-     San Diego County Mountains-San Diego County Valleys-San
-     Gorgonio Pass near Banning-Santa Ana Mountains and
-     Foothills.
-
-     Heat Advisory until 8 PM PDT Friday for Riverside County
-     Mountains-San Bernardino County Mountains.
-
-     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Friday
-     for Apple and Lucerne Valleys.
+     Extreme Heat Warning until 8 PM PDT Friday for Apple and Lucerne
+     Valleys-Coachella Valley-Orange County Inland Areas-San
+     Bernardino and Riverside County Valleys-The Inland Empire-
+     San Diego County Deserts-San Diego County Mountains-San
+     Diego County Valleys-San Gorgonio Pass near Banning-Santa
+     Ana Mountains and Foothills.
 
 PZ...None.
 
@@ -468,7 +467,7 @@ PZ...None.
 $$
 
 PUBLIC...Martin
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
