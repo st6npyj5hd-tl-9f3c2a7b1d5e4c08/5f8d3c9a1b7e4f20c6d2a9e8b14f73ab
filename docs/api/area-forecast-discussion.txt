@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T01:18:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T06:50:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-402
-FXUS66 KSGX 242344
+683
+FXUS66 KSGX 250500
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Mon Aug 24 2026
+1000 PM PDT Mon Aug 24 2026
 
 .SYNOPSIS...
 Monsoonal moisture will maintain a slight chance of afternoon
@@ -370,7 +370,6 @@ expected to continue through next Saturday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -419,17 +418,19 @@ possible!
 &&
 
 .AVIATION...
-250000Z...Coast...Patchy low clouds 400-700 ft MSL expected to
+250600Z...Coast...Patchy low clouds 400-700 ft MSL expected to
 develop overnight, most likely to impact KSAN and KCRQ after 12Z.
 Low confidence in cigs reaching KSNA. Vis reductions 0-5 SM possible
 where cigs form. Any cigs and vis restrictions will clear around
-15Z.
+15Z. Patchy low clouds will form again after 01-03Z along the
+coastal areas, mainly for southern San Diego County, with cigs
+around 800-1500 MSL, occasionally going broken throughout the rest
+of the forecast period.
 
 Mountains/Deserts...Cumulus based around 9000 feet MSL with CB
-clouds with tops to 45000 feet and SCT TSRA over mountains and
-locally into adjacent deserts possible through 02Z. Any TS could
-produce gusty, erratic winds. TSRA chances with similar CB
-bases/tops for Tuesday afternoon after 20Z.
+clouds with tops to 40000 feet and ISO TSRA over mountains and
+locally into adjacent deserts possible Tuesday afternoon. Any TS
+could produce gusty, erratic winds.
 
 Otherwise...SCT to locally BKN clouds AOA 10-15 kfeet MSL becoming
 mostly clear after 03Z. Similar cloud cover Tue after 18Z.
@@ -454,6 +455,7 @@ Friday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -484,8 +486,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
