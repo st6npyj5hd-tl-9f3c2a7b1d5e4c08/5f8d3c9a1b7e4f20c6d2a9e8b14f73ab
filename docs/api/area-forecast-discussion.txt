@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-24T18:40:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T01:18:49+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,16 +343,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-352
-FXUS66 KSGX 241120
+402
+FXUS66 KSGX 242344
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-420 AM PDT Mon Aug 24 2026
+444 PM PDT Mon Aug 24 2026
 
 .SYNOPSIS...
 Monsoonal moisture will maintain a slight chance of afternoon
@@ -369,66 +371,73 @@ expected to continue through next Saturday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Wednesday)...
-There will be a warming trend through Thursday with high
-temperatures for today around 5 degrees above average for the
-mountains and deserts and 5 to 10 degrees above average for the
-coast and valleys. High temperatures for today will range from
-around 80 near the coast to the upper 90s to 106 for the Inland
-Empire with the lower deserts around 110.
+This morning featured clouds in all levels of the troposphere.
+Patchy fog covered San Diego County west of I-15 earlier in the
+morning, making way to photogenic skies of cumulus, altocumulus, and
+cirrus embedded with a few virga showers (sprinkles were reported in
+inland parts of San Diego). While these clouds signal to plentiful
+mid-level moisture, the broad coverage in SD County might be
+delaying convection over the mountains and thus shower/tstorm
+activity until later in the afternoon. Meanwhile, cumulus clouds
+have been persistently building on the eastern slopes of the San
+Bernardino and Riverside County mountains with some showers
+developing. More showers and thunderstorms are likely over these
+slopes through around 7 PM this evening. Any thunderstorm that
+develops could bring heavy downpours and up to an inch of rain
+locally.
 
-Precipitable water values will peak today and Tuesday, then
-decrease through next weekend. There is a slight chance of showers
-and thunderstorms for this afternoon and Tuesday afternoon for the
-mountains and deserts.
 
-&&
+Temperatures this afternoon are generally running a few degrees
+cooler than yesterday, expecting to reach the mid-90s inland,
+100- 105F in the IE and 106-110F in the lower deserts. Highs today
+are expected to be the noticeably the coolest for the week for
+the inland valleys and lower deserts.
 
-.LONG TERM (Thursday through Sunday)...
-The warming trend will continue through Thursday with high
-temperatures on Thursday around 10 degrees above average for the
-mountains and deserts to 10 to 15 degrees above average for the
-coast and valleys. High temperatures on Thursday will range from
-the 80s near the coast to 105 to 110 for the Inland Empire with
-112 to 116 for the lower deserts. Low temperatures on Thursday
-will be as much as 10 to 15 degrees above average for the
-mountains and inland valleys. Low temperatures for the coast and
-valleys will be mostly in the 70s. There could be a large number
-of records for warmest low temperatures tied or broken on
-Thursday and Friday.
+Thunderstorm chances peak this afternoon as PWAT`s fall through
+Wednesday, though isolated terrain driven shower/t-storm chances
+remain in the forecast for our mountains through Thursday as the mid-
+level flow remains southerly, tapping into modest mid-level
+moisture.
 
-Temperatures will gradually cool for Friday through Sunday with
-high temperatures for Sunday around 5 degrees above average. High
-temperatures on Sunday will range from around 80 near the coast to
-the mid 90s to 103 for the Inland Empire with 108 to 112 for the
-lower deserts.
+The ridge axis over the Desert Southwest shifts westward through the
+middle of the week and high temperatures peak Wednesday through
+Friday through Southern California. Highs are expected to reach the
+upper 90s to 105F in the inland valleys, 103-108F through the IE and
+up to 115F in the lower deserts.
 
-The HeatRisk is expected to peak on Thursday with major to extreme
-HeatRisk for the lower deserts, valleys, inland Orange County, and
-the Santa Ana Mountains with moderate to major HeatRisk elsewhere
-expected for the mountains above 7000 feet.
+Both the GFS and the ECMWF show a significant flattening of the
+ridge over the weekend, increasing confidence that temperatures will
+return closer to normal by early next week.
+
+
+In the meantime, take breaks in the shade, hydrate and seek A/C when
+possible!
 
 &&
 
 .AVIATION...
-241130Z...Coast...Patchy low clouds based around 300-800 feet MSL
-with vis reduced 0-5SM will continue temporarily through 16Z. Even
-fewer and patchier low clouds expected overnight into Tuesday.
+250000Z...Coast...Patchy low clouds 400-700 ft MSL expected to
+develop overnight, most likely to impact KSAN and KCRQ after 12Z.
+Low confidence in cigs reaching KSNA. Vis reductions 0-5 SM possible
+where cigs form. Any cigs and vis restrictions will clear around
+15Z.
 
-Mountains/Deserts...Building cumulus based around 9000 feet MSL
-leading to CB clouds with tops to 45000 feet and SCT TSRA over
-mountains and locally into adjacent deserts 19-02Z. Any TS could
-produce gusty, erratic winds.
+Mountains/Deserts...Cumulus based around 9000 feet MSL with CB
+clouds with tops to 45000 feet and SCT TSRA over mountains and
+locally into adjacent deserts possible through 02Z. Any TS could
+produce gusty, erratic winds. TSRA chances with similar CB
+bases/tops for Tuesday afternoon after 20Z.
 
-Otherwise...SCT to locally BKN clouds AOA 20000 feet MSL becoming
-mostly clear after 03Z.
+Otherwise...SCT to locally BKN clouds AOA 10-15 kfeet MSL becoming
+mostly clear after 03Z. Similar cloud cover Tue after 18Z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
@@ -475,8 +484,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
