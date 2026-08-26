@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-25T18:40:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-26T01:21:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,27 +347,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-728
-FXUS66 KSGX 251753
+396
+FXUS66 KSGX 260016
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1053 AM PDT Tue Aug 25 2026
+516 PM PDT Tue Aug 25 2026
 
 .SYNOPSIS...
 A slight chance of afternoon showers and thunderstorms will
 continue for the mountains through Wednesday as monsoonal moisture
-slowly decreases. High and low temperatures will continue to warm
+slowly decreases. High and low temperatures will continue to rise
 through Thursday, to as much as 10 to 15 degrees above average,
 with not much change for Friday. The highest HeatRisk is expected
 for Thursday and Friday with widespread Extreme HeatRisk for the
 inland valleys and inland Orange County. This will be followed by
-a cooling trend for the weekend into early next week with
-stronger onshore flow and drier southwest flow aloft with high
+a cooling trend for the weekend into early next week with stronger
+onshore flow and drier southwest flow aloft, with high
 temperatures falling to around average for next Monday.
 
 &&
@@ -378,13 +380,19 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Thursday)...
-The warming trend will continue through Thursday with warmer days
-and warmer nights. High temperatures on Thursday will range from
-the 80s near the coast to 106 to 112 for the Inland Empire with
-110 to 116 for the lower deserts. Low temperatures on Thursday
-will be mostly in the 70s for the coast and valleys and in the
-mid 80s to mid 90s for the lower deserts.
+This afternoon...Skies are clear except over the mountains where
+cumulus clouds have developed. There is a chance that some showers
+or tstms could develop over the mtns later this afternoon and may
+drift into the deserts. Temperatures are generally higher than at
+this time yesterday...especially in the lower deserts where
+temperatures are as much as 12 degrees higher.
+
+Extensive ridge of high pressure will continue the warming trend through
+Thursday, with warmer days and warmer nights. High temperatures
+on Thursday will range from the 80s near the coast to 106 to 112
+for the Inland Empire with 110 to 116 for the lower deserts. Low
+temperatures on Thursday will be mostly in the 70s for the coast
+and valleys and in the mid 80s to mid 90s for the lower deserts.
 
 The highest HeatRisk for the coast and valleys is expected on
 Thursday and Friday with widespread Extreme HeatRisk for the
@@ -396,34 +404,32 @@ slight decrease on Wednesday and a greater decrease on Thursday. A
 slight chance of afternoon showers and thunderstorms, mostly for
 the mountains, will continue through Wednesday.
 
-&&
-
-.LONG TERM (Friday through Monday)...
-For Saturday through Monday, high pressure will begin to weaken
+For Saturday through Tuesday, high pressure will begin to weaken
 across the area as a low pressure system develops near the
-California coast, strengthening onshore lower level flow. High
-temperatures will fall to around 5 degrees above average on Sunday
-and a few degrees below average for the mountains and inland
-valleys on Monday. Monday high temperatures will range from the
-mid 70s to lower 80s near the coast to the 90s for the Inland
+California coast, strengthening onshore flow at the surface. High
+temperatures will fall to around 5 degrees above average on
+Sunday and a few degrees below average for the mountains and
+inland valleys on Monday. Monday high temperatures will range from
+the mid 70s to lower 80s near the coast to the 90s for the Inland
 Empire with 104 to 108 for the lower deserts.
 
 &&
 
 .AVIATION...
-251800Z...Coast...VFR through early Wednesday morning. Patchy low
-clouds based 600-900 ft MSL redevelop over coastal areas starting 08-
-10z Wed. Best chance for cigs will be in San Diego County from 12-
-15z. Minor vis reductions of 2-6SM down to sea level and patchy
-dense FG along elevated coastal terrain where cigs develop. Any low
-clouds scatter out by 16z.
+260000Z...Coast...Patchy low clouds with bases 600-900 ft MSL will
+redevelop along the coast and begin moving onshore around 08-10z.
+Highest chances (30-60%) for cigs will be in San Diego County from
+11-16z. Expect minor vis reductions of 2-6SM down to sea level and
+patchy dense FG along elevated coastal terrain where cigs develop.
+Any low clouds that form will scatter out by 16-17Z.
 
-Mountains/Deserts...Cumulus based around 9000 feet MSL with ISO TSRA
-and CB tops to 40000 feet over mountains 20-01Z. Any TS that
-develops could produce gusty, erratic winds. VFR conditions prevail
-otherwise.
+Mountains/Deserts...Cumulus based around 9,000ft MSL with ISO TSRA
+and CB tops to 40,000 ft over mountains expected to continue through
+01Z. Any TS that develop could produce gusty, erratic winds.
+Activity will calm this evening with chances for TS once again
+Wednesday afternoon 20-01Z of 15-20% over the mountains.
 
-Regionwide...FEW-SCT clouds AOA 15000 feet MSL through the period.
+Regionwide...FEW-SCT clouds AOA 15,000ft MSL through the TAF period.
 
 &&
 
@@ -453,6 +459,10 @@ CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
      Areas-Riverside County Mountains-San Bernardino County
      Mountains-San Diego County Coastal Areas.
 
+     Beach Hazards Statement from 5 AM PDT Wednesday through Thursday
+     evening for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
      Extreme Heat Warning until 8 PM PDT Friday for Apple and Lucerne
      Valleys-Coachella Valley-Orange County Inland Areas-San
      Bernardino and Riverside County Valleys-The Inland Empire-
@@ -466,8 +476,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
