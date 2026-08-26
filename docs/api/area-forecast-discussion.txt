@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-26T12:53:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-26T19:48:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-494
-FXUS66 KSGX 261128
+459
+FXUS66 KSGX 261802
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-428 AM PDT Wed Aug 26 2026
+1102 AM PDT Wed Aug 26 2026
 
 .SYNOPSIS...
 Near-record high pressure for late August will continue hot days
@@ -422,18 +422,20 @@ moisture from a tropical system that has yet to develop.
 &&
 
 .AVIATION...
-261130Z...Coast...Isolated patches of low clouds with bases 600-900
-feet MSL and vis 2-6SM will have 20-30% chance of covering KSAN
-through 16Z and less chance of covering KSNA and KCRQ. Only isolated
-low clouds expected after 03Z tonight into Thursday, with less than
-20% chance of cigs at coastal airports.
+261800Z...Coast...VFR conditions prevail through early Thursday
+morning. Very patchy low clouds based 200-600 ft MSL develop over
+nearshore waters after 09z Thu, intermittently pushing ashore into
+coastal areas mainly in San Diego County. Vis reductions of 1SM or
+less possible where low clouds/FG develop. Greatest chances for
+cigs/vis reductions at coastal TAF sites will be from 12-15z (20% at
+KCRQ, 50% at KSAN). Any low clouds scatter out by 16z.
 
 Mountains/Deserts...Cumulus based around 9000 feet MSL with ISO TSRA
 and CB tops to 40000 feet MSL over mountains into adjacent deserts
 20-01Z. Any TS that develops could produce gusty, erratic winds.
 
-Regionwide...Gradually increasing clouds AOA 15000 feet MSL later
-today and tonight.
+Regionwide...FEW high clouds AOA 15000 feet MSL gradually becoming
+SCT-BKN this evening and tonight.
 
 &&
 
@@ -443,11 +445,16 @@ No hazardous marine conditions are expected through Sunday.
 &&
 
 .BEACHES...
-Southerly swell (from 170 degrees) at 12-14 seconds will arrive this
-morning, elevating surf especially for south-facing beaches of
-northern San Diego County and Orange County through Thursday. Surf
-of 3 to 5 feet, with sets up to 7 feet are expected. Check the
-Coastal Hazard Message for details on beach hazards.
+A 4-5 ft southerly swell (from 170 degrees) at 12-13 seconds will
+continue to produce elevated surf through Thursday, particularly for
+south-facing beaches of northern San Diego County and Orange County.
+Surf of 3 to 6 feet, with sets up to 7 feet are expected. Check the
+Coastal Hazard Message for details on Beach Hazards.
+
+&&
+
+.FIRE WEATHER...
+
 
 &&
 
@@ -479,8 +486,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...MM
+PUBLIC/FIRE WEATHER...Martin
+AVIATION/MARINE...KW
 
 
 </pre>
