@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-27T08:02:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-27T21:54:39+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,23 +350,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-569
-FXUS66 KSGX 270005
+489
+FXUS66 KSGX 272028
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-505 PM PDT Wed Aug 26 2026
+128 PM PDT Thu Aug 27 2026
 
 .SYNOPSIS...
-Persistent high pressure will continue hot days and near-record
-warm nights through Friday night, with a slight chance of showers
-and thunderstorms for the mountains this afternoon and Friday
-afternoon. High pressure will weaken for the weekend into early
-next week with high temperatures cooling to around average next
-Monday. For Tuesday and Wednesday of next week, there is a 10 to
-20 percent chance for an increase in clouds and a chance of
-precipitation from a tropical system that has yet to develop.
+High pressure remains locked in place in the near term as hot days
+and near-record warm nights continue through Friday night. Slight
+chance of showers and thunderstorms for the mountains this afternoon
+and Friday afternoon. High pressure weakens and slides east this
+weekend with temperatures cooling to near average by Sunday and
+below average by early next week. For Tuesday and Wednesday of next
+week, increased high cloud cover is likely along with a 20 to 30
+percent chance of precipitation from a tropical system that has
+yet to develop.
 
 &&
 
@@ -374,80 +375,85 @@ precipitation from a tropical system that has yet to develop.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The strong upper ridge centered over Arizona will remain in place
+through Friday with 500 mb heights hovering around 594 dm over
+southern California. High temperatures generally overperformed
+yesterday with daily record high maximums set in a few inland
+valley and desert locations. This overperforming trend will have
+to compete with increased cloud cover today, courtesy of the
+remnants of Tropical Storm Iselle, so forecast highs are few
+degrees lower than yesterday`s temps. Regardless of exact
+temperatures, hot days in combination with near-record warm nights
+will produce major to locally extreme HeatRisk through Friday for
+inland valleys and lower deserts. Moderate to locally major
+HeatRisk is expected for the mountains, High Desert, and areas
+near the coast.
 
-...UPDATED AVIATION DISCUSSION...
+There is a slight chance (10-20%) for thunderstorms over the
+mountains this afternoon and Friday afternoon. There is ample
+moisture present (PWATs around 1.4-1.5"), but the 12z KNKX sounding
+indicates the presence of substantial mid-level capping, which
+will keep convection quite limited.
 
-This afternoon...Mid and high clouds moving into San Diego County
-from the south could produce isolated light showers and possibly
-a tstm or two over the next several hours, mainly in the mountains
-but a few light showers could develop over the valleys and coastal
-areas. Temperatures are mostly a few degrees higher than at this
-time yesterday.
+By Saturday, the ridge begins to weaken and slide eastward as a
+robust upper trough pushes into the PNW. This will usher in a
+welcome cooling trend across the region. Temperatures are
+expected to return to near average by Sunday with highs further
+cooling to around 3 to 7 degrees below average early next week.
+This pattern change will also produce breezy westerly winds for
+the mountains and deserts and deepen the marine layer for Sunday
+and Monday.
 
-Through friday...High pressure will continue to bring hot weather to
-Socal. High temperatures will be around 10 degrees above average
-with low temperatures as much as 15 to 20 degrees above average
-for the lower elevations of the mountains. High temperatures will
-range from the 80s near the coast to 100 to 108 for the Inland
-Empire with 112 to 116 for the lower deserts. Low temperatures
-will be mostly in the 70s for the coast, valleys, and high desert
-and in the mid 80s to mid 90s for the lower deserts. Low
-temperatures will be around 80 for the lower elevations of the
-mountains. The highest HeatRisk is expected on Thursday with
-widespread Moderate to Extreme HeatRisk for the valleys, inland
-coastal areas, and lower deserts. While the high temperatures will
-likely not tie or exceed existing records, many records for
-warmest overnight low temperatures could be tied or broken, most
-likely on Thursday and Friday.
-
-A cooling trend is expected for Saturday into the middle of next
-week as high pressure aloft weakens and shifts to the southeast in
-response to a developing trough of low pressure near the
-California coast which will strengthen lower-level flow onshore.
-High temperatures will cool to around average for next Monday with
-low temperatures cooling to slightly above average.
-
-There could be some increase in clouds and a chance of
-precipitation around Tuesday or Wednesday of next week from
-moisture from a tropical system that has yet to develop.
+From next Tuesday onward, the forecast becomes more uncertain.
+The synoptic set up will remain generally unchanged on the
+synoptic scale with troughing over the PNW and ridging over the
+south-central CONUS resulting in southwesterly flow the region.
+Simultaneously, global models indicate that a tropical system
+will pass well to the southwest early next week. The exact
+evolution of this large scale set up and the track of the tropical
+system will determine how much moisture will be drawn into this
+region for the middle of next week. Most ensembles indicate a
+notable increase in PWATs over southern California next week, but
+only about 20-30% have any precipitation at this time.
 
 &&
 
 .AVIATION...
-270000Z...Coast...VFR conditions are expected to continue at most
-sites through the TAF period with low clouds mainly sticking to the
-near shore waters. Highest chances for low clouds to move inland
-will be over the southern SD County coast with bases starting around
-1,000-1,500ft MSL after 07-08Z. Patchy low clouds with bases 200-
-900ft MSL have a 30-40% chance of moving into SD up to 15 miles in
-some areas after 12-15Z. Vis reductions of 1SM or less will be
-possible where low clouds/FG develop. Low clouds clear the coast by
-16z.
+271800Z...Coast...Low clouds this morning have largely cleared out,
+but remain right along the immediate coast of extreme southwestern
+San Diego County. These clouds are generally based around 500ft MSL
+and within south-southwesterly flow, will linger in the vicinity of
+KSAN into the afternoon. Guidance suggests marine layer clouds will
+be even patchier tonight than this morning, with only stray patches
+off the northern SD/Orange County coasts. Best chances for CIGs
+overnight remain across the southern San Diego County coasts, with
+KSAN having a ~70% chance for CIGs between 11-15z Friday, with a
+~40% chance at KCRQ. Bases for any clouds would be around 500ft with
+VIS restrictions to 3-6 SM in BR. Any clouds that do push onshore
+will clear back out offshore by 16z.
 
-Mountains/Deserts...Cumulus based around 9,000ft MSL with ISO TSRA
-and CB tops to 40,000ft MSL over mountains into adjacent deserts
-continue through 01Z. Conditions calm overnight with lower
-chances(less than 10%) for TS forming over the SD mountains Thursday
-afternoon. There is a 15-20% chance for ISO TSRA over the Riverside
-and San Bernardino county mountains 21Z Thursday -01Z Friday. Any TS
-that develops could produce gusty, erratic winds.
+Mountains/Deserts...Cumulus based around 9000 feet MSL over the
+mountains this afternoon with isolated CB cloud tops rising to 40000
+feet MSL. There is a 15-20% chance of TSRA over the mountains and a
+5-15% chance in the deserts until 01z. Any TS that develops could
+produce gusty, erratic winds.
 
-Regionwide...High clouds AOA 15,000ft MSL will continue to increase
-overnight with BKN Cigs 15,000-20,000ft MSL after 08Z.
+Regionwide...High clouds AOA 15000 feet MSL will continue today and
+tonight, decreasing early Friday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
 .BEACHES...
-A 4-5 ft southerly swell (from 170 degrees) at 12-13 seconds will
-continue to produce elevated surf through Thursday, particularly for
-south-facing beaches of northern San Diego County and Orange County.
-Surf of 3 to 6 feet, with sets up to 7 feet are expected. Check the
-Coastal Hazard Message for details on Beach Hazards.
+A 4-foot southerly swell (from 170 degrees) at 12-13 seconds will
+continue to produce elevated surf through tonight, particularly for
+south-facing beaches of Orange County and northern San Diego County.
+Surf of 3 to 5 feet, with sets up to 7 feet is expected. See the
+Coastal Hazard Message for details on beach hazards.
 
 &&
 
@@ -459,12 +465,12 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Friday for Orange County Coastal
+CA...Beach Hazards Statement until 11 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+     Heat Advisory until 8 PM PDT Friday for Orange County Coastal
      Areas-Riverside County Mountains-San Bernardino County
      Mountains-San Diego County Coastal Areas.
-
-     Beach Hazards Statement through Thursday evening for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
 
      Extreme Heat Warning until 8 PM PDT Friday for Apple and Lucerne
      Valleys-Coachella Valley-Orange County Inland Areas-San
@@ -479,8 +485,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC/FIRE WEATHER...KW
+AVIATION/MARINE...Munyan
 
 
 </pre>
