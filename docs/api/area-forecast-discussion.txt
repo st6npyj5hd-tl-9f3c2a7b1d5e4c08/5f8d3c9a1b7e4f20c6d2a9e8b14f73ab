@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-26T19:48:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-27T08:02:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,29 +347,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-459
-FXUS66 KSGX 261802
+569
+FXUS66 KSGX 270005
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1102 AM PDT Wed Aug 26 2026
+505 PM PDT Wed Aug 26 2026
 
 .SYNOPSIS...
-Near-record high pressure for late August will continue hot days
-and near-record warm nights through Friday night with a slight
-chance of showers and thunderstorms for the mountains for this
-afternoon and Friday afternoon. High pressure will weaken for the
-weekend into early next week with high temperatures cooling to
-around average on Monday of next week. For Tuesday and Wednesday
-of next week, there is a 10 to 20 percent chance for an increase
-in clouds and a chance of precipitation from a tropical system
-that has yet to develop.
+Persistent high pressure will continue hot days and near-record
+warm nights through Friday night, with a slight chance of showers
+and thunderstorms for the mountains this afternoon and Friday
+afternoon. High pressure will weaken for the weekend into early
+next week with high temperatures cooling to around average next
+Monday. For Tuesday and Wednesday of next week, there is a 10 to
+20 percent chance for an increase in clouds and a chance of
+precipitation from a tropical system that has yet to develop.
 
 &&
 
@@ -377,43 +374,38 @@ that has yet to develop.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Friday)...
-High temperatures will be around 10 degrees above average with low
-temperatures as much as 15 to 20 degrees above average for the
-lower elevations of the mountains. Through Friday, high
-temperatures will range from the 80s near the coast to 100 to 110
-for the Inland Empire with 112 to 118 for the lower deserts. Low
-temperatures will be mostly in the 70s for the coast, valleys, and
-high desert and in the mid 80s to mid 90s for the lower deserts.
-Low temperatures will be around 80 for the lower elevations of the
+This afternoon...Mid and high clouds moving into San Diego County
+from the south could produce isolated light showers and possibly
+a tstm or two over the next several hours, mainly in the mountains
+but a few light showers could develop over the valleys and coastal
+areas. Temperatures are mostly a few degrees higher than at this
+time yesterday.
+
+Through friday...High pressure will continue to bring hot weather to
+Socal. High temperatures will be around 10 degrees above average
+with low temperatures as much as 15 to 20 degrees above average
+for the lower elevations of the mountains. High temperatures will
+range from the 80s near the coast to 100 to 108 for the Inland
+Empire with 112 to 116 for the lower deserts. Low temperatures
+will be mostly in the 70s for the coast, valleys, and high desert
+and in the mid 80s to mid 90s for the lower deserts. Low
+temperatures will be around 80 for the lower elevations of the
 mountains. The highest HeatRisk is expected on Thursday with
 widespread Moderate to Extreme HeatRisk for the valleys, inland
-coastal areas, and lower deserts.
+coastal areas, and lower deserts. While the high temperatures will
+likely not tie or exceed existing records, many records for
+warmest overnight low temperatures could be tied or broken, most
+likely on Thursday and Friday.
 
-While the high temperatures will mostly not tie or exceed existing
-high temperature records, many records for warmest overnight low
-temperatures will likely be tied or broken with the greatest
-number on Thursday and Friday.
-
-Swell from Tropical Storm Iselle and former Tropical Storm Julio
-will bring elevated surf of 4 to 6 feet to the beaches for today
-through Thursday evening.
-
-There may be enough residual monsoonal moisture for a few showers
-or thunderstorms for the mountains for this afternoon with
-additional drying for Thursday.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
 A cooling trend is expected for Saturday into the middle of next
-week as high pressure aloft weakens and a developing weak trough
-of low pressure near the California coast strengthens onshore
-lower-level flow. High temperatures will cool to around average
-for next Monday with low temperatures cooling to slightly above
-average.
+week as high pressure aloft weakens and shifts to the southeast in
+response to a developing trough of low pressure near the
+California coast which will strengthen lower-level flow onshore.
+High temperatures will cool to around average for next Monday with
+low temperatures cooling to slightly above average.
 
 There could be some increase in clouds and a chance of
 precipitation around Tuesday or Wednesday of next week from
@@ -422,20 +414,26 @@ moisture from a tropical system that has yet to develop.
 &&
 
 .AVIATION...
-261800Z...Coast...VFR conditions prevail through early Thursday
-morning. Very patchy low clouds based 200-600 ft MSL develop over
-nearshore waters after 09z Thu, intermittently pushing ashore into
-coastal areas mainly in San Diego County. Vis reductions of 1SM or
-less possible where low clouds/FG develop. Greatest chances for
-cigs/vis reductions at coastal TAF sites will be from 12-15z (20% at
-KCRQ, 50% at KSAN). Any low clouds scatter out by 16z.
+270000Z...Coast...VFR conditions are expected to continue at most
+sites through the TAF period with low clouds mainly sticking to the
+near shore waters. Highest chances for low clouds to move inland
+will be over the southern SD County coast with bases starting around
+1,000-1,500ft MSL after 07-08Z. Patchy low clouds with bases 200-
+900ft MSL have a 30-40% chance of moving into SD up to 15 miles in
+some areas after 12-15Z. Vis reductions of 1SM or less will be
+possible where low clouds/FG develop. Low clouds clear the coast by
+16z.
 
-Mountains/Deserts...Cumulus based around 9000 feet MSL with ISO TSRA
-and CB tops to 40000 feet MSL over mountains into adjacent deserts
-20-01Z. Any TS that develops could produce gusty, erratic winds.
+Mountains/Deserts...Cumulus based around 9,000ft MSL with ISO TSRA
+and CB tops to 40,000ft MSL over mountains into adjacent deserts
+continue through 01Z. Conditions calm overnight with lower
+chances(less than 10%) for TS forming over the SD mountains Thursday
+afternoon. There is a 15-20% chance for ISO TSRA over the Riverside
+and San Bernardino county mountains 21Z Thursday -01Z Friday. Any TS
+that develops could produce gusty, erratic winds.
 
-Regionwide...FEW high clouds AOA 15000 feet MSL gradually becoming
-SCT-BKN this evening and tonight.
+Regionwide...High clouds AOA 15,000ft MSL will continue to increase
+overnight with BKN Cigs 15,000-20,000ft MSL after 08Z.
 
 &&
 
@@ -450,11 +448,6 @@ continue to produce elevated surf through Thursday, particularly for
 south-facing beaches of northern San Diego County and Orange County.
 Surf of 3 to 6 feet, with sets up to 7 feet are expected. Check the
 Coastal Hazard Message for details on Beach Hazards.
-
-&&
-
-.FIRE WEATHER...
-
 
 &&
 
@@ -486,8 +479,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...Martin
-AVIATION/MARINE...KW
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Villafane
 
 
 </pre>
