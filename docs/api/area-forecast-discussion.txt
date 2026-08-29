@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-29T16:21:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-29T20:32:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,22 +350,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-194
-FXUS66 KSGX 290931
+853
+FXUS66 KSGX 291836
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-231 AM PDT Sat Aug 29 2026
+1136 AM PDT Sat Aug 29 2026
 
 .SYNOPSIS...
-Above average high and low temperatures will continue today,
-falling to around normal by Sunday. The cooling trend continues
-through the middle of next week. For Tuesday and Wednesday,
-increased high cloud cover is likely along with a 15 to 25
-percent chance of light precipitation as moisture from Tropical
-Storm Karina potentially gets pulled northward. This tropical
-system is forecast to remain well to our south.
+Gradual cooling trend through the middle of the upcoming week. For
+Tuesday and Wednesday, increased high cloud cover is likely along
+with a 15 to 25 percent chance of light precipitation as moisture
+from Tropical Cyclone Karina potentially gets pulled northward. This
+tropical system is forecast to remain well to our south. Gradual
+warming for the latter half of next week. Night and morning low
+clouds will be more widespread for the upcoming week, reaching into
+the western valleys at times.
 
 &&
 
@@ -373,82 +374,74 @@ system is forecast to remain well to our south.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+While high temperatures today will remain 3 to 7, locally up to 12
+degrees above average they`re forecast to be 3 to 5 degrees cooler
+than yesterday. That cooling trend will continue through Tuesday
+or Wednesday for most locations. By Wednesday, high temperatures
+are expected to be 3 to 7 degrees below average for this time of
+year. Additionally, marine layer low clouds and areas of fog will
+become more prevalent along the coast and in the western valleys
+at times.
 
-...UPDATED AVIATION DISCUSSION...
-
-Patchy low clouds have developed along the coast again this
-morning with just a few high clouds elsewhere. Low clouds and
-patchy fog are forecast to spread northward along the coast and a
-few miles inland through sunrise, clearing by mid-morning. Today
-will be the last day of the heat wave with temperatures a few
-degrees lower than yesterday. Highs will generally be in the low
-to mid 80s at the coast to the low 90s to low 100s for the inland
-coastal areas and valleys, mid 80s to mid 90s in the lower
-elevation mountains, mid 70s to mid 80s for the higher elevation
-mountains, mid to upper 90s in the high desert, and 105 to 112 in
-the low deserts. Monsoon moisture decreases today as flow aloft
-turns more southwesterly and precipitation chances this
-afternoon are less than 5%.
-
-For Sunday through Wednesday, the upper level high which brought
-the relentless heat retreats to the Southeast US as upper level
-troughing develops along the West Coast. This pattern change
-will bring gradual cooling to So Cal. By Sunday, highs will
-finally return to late-August normals, falling to as much as 5 to
-10 degrees below normal by Wednesday. This drier flow pattern will
-also offer some reprieve from the humidity and better cooling at
-night. Say goodbye to dew points in the 70s (for now). For Tuesday
-and Wednesday, there is still the potential from mid and upper
-level moisture from Tropical Storm Karina (which is forecast to
-become a hurricane later today), to be pulled northward into
-California. The storm itself is forecast to remain well to our
-south. Global ensembles still disagree greatly with respect to
-the amount of moisture that moves into our area. Some members of
-the GEFS and Canadian have Precipitable Water in excess of 2" and
-ensemble means near 1.5", while the EC ensemble is significantly
-drier due to differences in the track of the tropical system. Even
-with the increase in moisture, forcing will be weak, so if we do
-manage to get any precipitation it will most likely be light. For
-now PoPs remain around 15-25% for late Tuesday and Wednesday.
-Otherwise during this period expect the marine layer to rebuild
-and deepen, allowing low clouds and fog to spread slightly further
-into the coastal areas and far western valleys during the nights
-and mornings.
+Moisture from Tropical Cyclone Karina may be pulled into Southern
+California by mid-week. There is high confidence this will
+increase high cloud coverage across the area, with lesser
+confidence in chances of light rain. Current forecast has pulled
+rainfall chances back for much of Wednesday, leaving the highest
+chances on Tuesday at 15-25 percent. Model guidance still is yet
+to align on the amount of moisture that moves into our area. The
+EC continues to trend drier than the GFS/Canadian. How the
+tropical cyclone tracks will ultimately be the biggest influence
+in moisture influx, with a more westerly track being drier for us
+and a more easterly track being wetter. Current forecast closely
+follows the NBM.
 
 Thursday into next weekend, the upper level high begins to shift
-back westward, bringing warming and the potential return of
-monsoon moisture. High temperatures return to near average by
-Friday.
+back westward, bringing warming and the potential return of monsoon
+moisture. High temperatures return to near average by Friday.
 
 &&
 
 .AVIATION...
-290930Z...Coast...Low clouds based 400-700 ft MSL have become more
-widespread along the San Diego Co coastline and inland to about 10
-miles, with vis 2-5 SM over higher coastal terrain. Clouds will
-creep into parts of southern OC, with ~30% chance for impacts vcnty
-KSNA through 15Z this morning. More widespread low clouds 600-1000
-ft MSL will form after 06Z Sun, with impacts to coastal sites likely
-by 09Z.
+291800Z...Coast...Low clouds based around 600ft MSL remain situated
+along the beaches and offshore of south-central San Diego County
+this morning, and will likely continue into the early afternoon. Low
+clouds are expected to redevelop after 06z Sunday, likely becoming
+more widespread overnight compared to what has been seen in recent
+days. 80% chance of CIGs across coastal San Diego County (KSAN and
+KCRQ) by 09-11z, with a ~30% chance of CIGs reaching coastal Orange
+County (KSNA) for 12-16z. Bases are expected to be around 600-1000
+ft MSL. Any clouds that move inland will scatter back to the
+beaches/offshore by 16-17z.
 
-Regionwide...Mostly clear skies except for periods FEW upper lvl
-clouds AOA 15kft.
+Elsewhere...Widespread gusts to 15-25 kts in the mountains and
+deserts this afternoon/evening, locally up to 35 kts within mountain
+passes. Gusts weaken after 03z Sunday.
 
 &&
 
 .MARINE...
-Gusts around 20 knots expected this afternoon in the vicinity of San
-Clemete Island. Otherwise, no hazardous marine conditions are
-expected through Wednesday.
+Gusts around 20 knots expected each afternoon through Monday in the
+vicinity of San Clemente Island. Otherwise, no hazardous marine
+conditions are expected through Thursday.
 
 &&
 
 .BEACHES...
 A 3-foot swell from the south-southwest (200 degrees) at 15-17
-seconds moves into the region today and Sunday. This will bring
-localized elevated surf of 3-5 feet with sets to 6 feet, along with
-a high rip current risk to southwest-facing beaches, mostly in north
-San Diego County and Orange County.
+seconds will persist into Sunday. This will bring localized elevated
+surf of 3-5 feet with sets to 6 feet, along with a high rip current
+risk to southwest-facing beaches, mostly in north San Diego County
+and Orange County. A new pulse of southerly swell (180-190 degrees)
+from Tropical Storm Karina will keep surf elevated at 3-6 feet for
+Monday through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -469,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
