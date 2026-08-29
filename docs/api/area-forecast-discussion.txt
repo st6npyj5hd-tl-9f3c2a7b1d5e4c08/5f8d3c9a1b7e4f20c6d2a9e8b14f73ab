@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-28T21:46:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-29T06:03:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-024
-FXUS66 KSGX 281907
+764
+FXUS66 KSGX 290538
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1207 PM PDT Fri Aug 28 2026
+1038 PM PDT Fri Aug 28 2026
 
 .SYNOPSIS...
 Above average high and low temperatures will continue into Saturday.
@@ -374,6 +374,8 @@ south.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 West of the mountains, temperatures at noon were running 3 to 8
 degrees warmer than this time yesterday, likely due to the
@@ -419,20 +421,16 @@ keeping temperatures closer to midweek values.
 &&
 
 .AVIATION...
-281730Z...Coast...Patchy low clouds based 400-700 feet MSL will
-persist along some beaches. Patchy low clouds to expand in coverage
-after 06Z tonight into Saturday, yet still not widespread, uniform
-coverage by 13Z Saturday. Cigs around 500-800 feet MSL and vis 1-
-5SM, lowest on mesas, most likely 12-16Z Saturday.
+290530Z...Coast...Patchy low clouds currently offshore will slowly
+expand in coverage after 09Z, likely moving inland around 10Z.
+Coverage will be patchy in most areas with intermittent Cigs of 400-
+800ft MSL with vis 2-5SM in clouds/fog. Best chances (40-50%) for
+low cigs will be over coastal SD County. Any clouds that form will
+clear by 16Z. More widespread low clouds 600-1000 ft MSL will form
+after 06Z Sun.
 
-Mountains/Deserts...Cumulus based around 9000 feet MSL over the
-mountains with isolated CB cloud tops rising to 40000 feet MSL today
-20-01Z. There is a 10-15% chance of TSRA/SHRA over the mountains and
-a 5-10% chance in the deserts. Any TS that develops could produce
-gusty, erratic winds.
-
-Regionwide...SCT to locally BKN high clouds AOA 150000 feet MSL
-today, turning mostly clear tonight into Saturday.
+Regionwide...Mostly clear skies through the period with FEW upper
+lvl clouds AOA 15kft Saturday afternoon.
 
 &&
 
@@ -450,13 +448,6 @@ San Diego County and Orange County.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
      Areas-San Diego County Coastal Areas.
@@ -468,20 +459,14 @@ CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
      San Gorgonio Pass near Banning-Santa Ana Mountains and
      Foothills.
 
-     Heat Advisory until 8 PM PDT this evening for Riverside County
-     Mountains-San Bernardino County Mountains.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Apple and
-     Lucerne Valleys.
-
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
