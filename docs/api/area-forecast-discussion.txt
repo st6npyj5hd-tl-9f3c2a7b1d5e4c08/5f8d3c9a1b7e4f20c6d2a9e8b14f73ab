@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-30T04:11:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-30T11:26:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,23 +348,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-173
-FXUS66 KSGX 292344
+572
+FXUS66 KSGX 300924
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-444 PM PDT Sat Aug 29 2026
+224 AM PDT Sun Aug 30 2026
 
 .SYNOPSIS...
-Gradual cooling trend through the middle of the upcoming week. For
-Tuesday and Wednesday, increased high cloud cover is likely along
-with a 15 to 25 percent chance of light precipitation as moisture
-from Tropical Cyclone Karina potentially gets pulled northward. This
-tropical system is forecast to remain well to our south. Gradual
-warming for the latter half of next week. Night and morning low
-clouds will be more widespread for the upcoming week, reaching into
-the western valleys at times.
+Gradual cooling through the middle of the week. For Tuesday and
+Wednesday, increased mid and high cloud cover is likely along
+with a 5 to 15 percent chance of light precipitation as moisture
+from Tropical Cyclone Karina potentially gets pulled northward.
+This tropical system is forecast to remain well to our south.
+Gradual warming for the latter half of next week. Night and
+morning low clouds will be more widespread for the upcoming week,
+reaching into the western valleys at times.
 
 &&
 
@@ -372,91 +372,106 @@ the western valleys at times.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-While high temperatures today will remain 3 to 7, locally up to 12
-degrees above average they`re forecast to be 3 to 5 degrees cooler
-than yesterday. That cooling trend will continue through Tuesday
-or Wednesday for most locations. By Wednesday, high temperatures
-are expected to be 3 to 7 degrees below average for this time of
-year. Additionally, marine layer low clouds and areas of fog will
-become more prevalent along the coast and in the western valleys
-at times.
+Patchy low clouds are developing over the coastal areas and far
+western valleys this morning with just a few high clouds
+elsewhere. Marine layer low clouds will continue to develop
+through the morning with the greatest coverage in San Diego
+County, then clear by late morning.
 
-Moisture from Tropical Cyclone Karina may be pulled into Southern
-California by mid-week. There is high confidence this will
-increase high cloud coverage across the area, with lesser
-confidence in chances of light rain. Current forecast has pulled
-rainfall chances back for much of Wednesday, leaving the highest
-chances on Tuesday at 15-25 percent. Model guidance still is yet
-to align on the amount of moisture that moves into our area. The
-EC continues to trend drier than the GFS/Canadian. How the
-tropical cyclone tracks will ultimately be the biggest influence
-in moisture influx, with a more westerly track being drier for us
-and a more easterly track being wetter. Current forecast closely
-follows the NBM.
+Satellite water vapor imagery shows an upper level trough just off
+the West Coast and a weak short wave moving through the Bay Area.
+This trough will bring us some long-awaited cooling as high
+temperatures return to near normal today. Highs will be in the
+low to mid 80s in the coastal areas, upper 80s to mid 90s for the
+western valleys, mid to upper 90s in the inland valleys, 70s and
+80s in the mountains, mid 90s in the high desert, and around
+100-108 in the low desert. No signs of dew points dropping yet
+for the coastal areas and lower elevation valleys though, so
+despite some relief from the heat it will remain humid.
 
-Thursday into next weekend, the upper level high begins to shift
-back westward, bringing warming and the potential return of monsoon
-moisture. High temperatures return to near average by Friday.
+The upper level trough remains in place for much of the week with
+several short waves moving through the mean flow. This will
+maintain high temperatures near to a few degrees below normal
+through Friday. The marine layer rebuilds through this period for
+more widespread night and morning low clouds for the coastal areas
+and western valleys. The GEFS and Canadian ensembles have backed
+off on the amount of moisture that gets pulled into So Cal from
+Tropical Cyclone Karina on Tuesday and Wednesday. While we may
+still get an increase in mid and high clouds from this system,
+precipitation chances have lowered to around 5-15%.
+
+Late in the week, ensembles begin to diverge on the placement of
+the upper trough near the West Coast and the upper high over the
+Southern Rockies, with a trend towards a more eastward placement
+of each. This more eastward placement of the ridge and troughing
+closer to the coast would limit the amount of warming late in the
+week into next weekend. This would also affect the steering flow
+of a potential tropical system and any moisture and precipitation
+we`d receive from it over the weekend into early next week. While
+the National Hurricane Center has a 90% chance of this disturbance
+developing into a tropical cyclone off the coast of Mexico in the
+next 7 days, it is far too early to tell what, if any, impacts
+we`ll see locally, especially given the ensemble spread in the
+upper level pattern. Current forecast has at least a chance of
+precipitation next Sunday.
 
 &&
 
 .AVIATION...
-300000Z...Coast...Patchy low clouds around 500-700ft MSL continue
-near the coast, becoming more widespread and moving inland after 06z
-Sun. Intermittent CIGs at coastal TAF sites with highest confidence
-for a few hours of IFR CIGs at KSAN (70-80%) and KCRQ (50%) by 12z.
-There is only about a ~30% chance of CIGs reaching coastal Orange
-County (KSNA) for 12-16z. Bases are expected to be around 600-1000ft
-MSL. VIS down to 2-5SM for pockets of the coast and valleys, locally
-down to 1/2SM for coastal terrain. Any clouds that move inland will
-scatter back to the coast by 16-17z, with SKC thereafter.
+300930Z...Coast...Somewhat patchy low clouds based 800-1200 ft MSL
+have expanded to cover San Diego coastal regions to 10-15 miles
+inland. There is only about a ~30% chance of CIGs reaching northern
+coastal Orange County (vcnty KSNA) for 12-16Z. Fairly isolated vis
+down to 2-5 SM for higher coastal/western valley terrain. Low clouds
+will scatter back to the coast for most areas by 16Z. Clouds 1000-
+1500 ft MSL redevelop this evening, likely moving into coastal
+regions after 06Z Mon.
 
-.Elsewhere...Widespread gusts to 15-25 kts in the mountains and
-deserts this evening, locally up to 35 kts within mountain passes.
-Gusts weaken after 03z Sun. Otherwise, FEW high cu AOA 20,000ft MSL
-generally over mountains.
+.Mtns/Deserts...Occasional FEW high lvl clouds AOA 20,000ft MSL
+through the period. Breezy west to southwest winds 20Z Sun to about
+05Z Mon on the desert slopes into the deserts, with gusts to 25-40
+kts.
 
 &&
 
 .MARINE...
-Gusts around 20 knots expected each afternoon through Monday in the
-vicinity of San Clemente Island. Otherwise, no hazardous marine
-conditions are expected through Thursday.
+Gusts around 20 knots expected each afternoon through Thursday in
+the vicinity of San Clemente Island. Otherwise, no hazardous marine
+conditions are expected.
 
 &&
 
 .BEACHES...
 A 3-foot swell from the south-southwest (200 degrees) at 15-17
-seconds will persist into Sunday. This will bring localized elevated
-surf of 3-5 feet with sets to 6 feet, along with a high rip current
-risk to southwest-facing beaches, mostly in north San Diego County
-and Orange County. A new pulse of southerly swell (180-190 degrees)
-from Tropical Storm Karina will keep surf elevated at 3-6 feet for
-Monday through Wednesday.
+seconds will persist through today. This will bring localized
+elevated surf of 3-5 feet with sets to 6 feet, along with a high rip
+current risk to southwest-facing beaches, mostly in north San Diego
+County and Orange County. A new pulse of southerly swell (180-190
+degrees) from Tropical Storm Karina will keep surf elevated at 3-6
+feet for Monday through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Coachella
-     Valley-Orange County Inland Areas-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Deserts-San Diego County Mountains-San Diego County Valleys-
-     San Gorgonio Pass near Banning-Santa Ana Mountains and
-     Foothills.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
