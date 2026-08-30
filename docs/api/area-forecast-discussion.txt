@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-29T20:32:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-30T04:11:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,18 +345,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-853
-FXUS66 KSGX 291836
+173
+FXUS66 KSGX 292344
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1136 AM PDT Sat Aug 29 2026
+444 PM PDT Sat Aug 29 2026
 
 .SYNOPSIS...
 Gradual cooling trend through the middle of the upcoming week. For
@@ -373,6 +371,8 @@ the western valleys at times.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 While high temperatures today will remain 3 to 7, locally up to 12
 degrees above average they`re forecast to be 3 to 5 degrees cooler
@@ -403,20 +403,20 @@ moisture. High temperatures return to near average by Friday.
 &&
 
 .AVIATION...
-291800Z...Coast...Low clouds based around 600ft MSL remain situated
-along the beaches and offshore of south-central San Diego County
-this morning, and will likely continue into the early afternoon. Low
-clouds are expected to redevelop after 06z Sunday, likely becoming
-more widespread overnight compared to what has been seen in recent
-days. 80% chance of CIGs across coastal San Diego County (KSAN and
-KCRQ) by 09-11z, with a ~30% chance of CIGs reaching coastal Orange
-County (KSNA) for 12-16z. Bases are expected to be around 600-1000
-ft MSL. Any clouds that move inland will scatter back to the
-beaches/offshore by 16-17z.
+300000Z...Coast...Patchy low clouds around 500-700ft MSL continue
+near the coast, becoming more widespread and moving inland after 06z
+Sun. Intermittent CIGs at coastal TAF sites with highest confidence
+for a few hours of IFR CIGs at KSAN (70-80%) and KCRQ (50%) by 12z.
+There is only about a ~30% chance of CIGs reaching coastal Orange
+County (KSNA) for 12-16z. Bases are expected to be around 600-1000ft
+MSL. VIS down to 2-5SM for pockets of the coast and valleys, locally
+down to 1/2SM for coastal terrain. Any clouds that move inland will
+scatter back to the coast by 16-17z, with SKC thereafter.
 
-Elsewhere...Widespread gusts to 15-25 kts in the mountains and
-deserts this afternoon/evening, locally up to 35 kts within mountain
-passes. Gusts weaken after 03z Sunday.
+.Elsewhere...Widespread gusts to 15-25 kts in the mountains and
+deserts this evening, locally up to 35 kts within mountain passes.
+Gusts weaken after 03z Sun. Otherwise, FEW high cu AOA 20,000ft MSL
+generally over mountains.
 
 &&
 
@@ -438,13 +438,6 @@ Monday through Wednesday.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Heat Advisory until 8 PM PDT this evening for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -463,7 +456,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
