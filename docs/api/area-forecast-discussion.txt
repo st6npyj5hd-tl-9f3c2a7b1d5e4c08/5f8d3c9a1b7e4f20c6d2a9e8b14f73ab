@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T04:16:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T12:57:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,27 +343,31 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-003
-FXUS66 KSGX 302309
+091
+FXUS66 KSGX 311136
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-409 PM PDT Sun Aug 30 2026
+436 AM PDT Mon Aug 31 2026
 
 .SYNOPSIS...
-Gradual cooling trend through the middle of the upcoming week. For
-Tuesday and Wednesday, increased high cloud cover continues to look
-likely, but precipitation chances have decreased. Gradual warming
-for the latter half of next week, with temperatures remaining near
-or slightly above average. Night and morning coastal low clouds
-expected most mornings this week, reaching into the western valleys
-at times. We`re monitoring the potential for widespread
-precipitation over Labor Day Weekend, however there is high
-uncertainty in how the forecast will evolve.
+There will be cooling and drying for inland areas for early this
+week with high temperatures cooling to around 5 degrees below
+average for inland areas on Wednesday. Southwest to west winds for
+the mountains and deserts during the afternoon and evening will
+gust to 25 to 35 mph through mid week. For next weekend, there
+could be some influx of monsoonal and possibly tropical moisture
+from an area of disturbed weather well to the south of the
+southern tip of Baja that may develop this week and track towards
+the northwest.
 
 &&
 
@@ -371,91 +375,69 @@ uncertainty in how the forecast will evolve.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-At 11 AM, temperatures were running 2 to 8 degrees cooler than
-they were at that time yesterday across the area. A gradual
-cooling is expected each day through Tuesday, with minor warming
-expected for the latter half of the week. Even with the warming,
-temperatures are expected to stay near to slightly above average
-for this time of year.
+.SHORT TERM (Today through Wednesday)...
+The cooling trend will continue through Wednesday with high
+temperatures on Wednesday around 5 degrees below average for
+inland areas. High temperatures on Wednesday will range from the
+mid to upper 70s near the coast to the mid 80s to lower 90s for
+the Inland Empire with 100 to 104 for the lower deserts. Patchy
+night and morning low clouds will spread into portions of the
+western valleys. Onshore flow will be stronger with southwest to
+west winds for the deserts onto the desert slopes of the mountains
+during the afternoon and evening gusting to 25 to 35 mph.
 
-Broad troughing is expected prevail over the western United States
-through at least the middle of the week, which will keep the flow
-aloft southwesterly and cut down the humidity. In addition, winds
-will increase each afternoon with the sea breeze, most noticeable
-for mountains, passes, and canyons. Latest forecast has backed off
-on precipitation from Tropical Cyclone Karina, with current chances
-now less than 15 percent. The most likely scenario is there will be
-more widespread high cloud coverage Tuesday into Wednesday. The
-marine layer is expected to continue to rebuild over the next few
-days, with the potential for night and morning low clouds to reach
-into the western valleys. Depending on the extent of high cloud
-coverage mid-week, low cloud coverage may be disrupted again.
+&&
 
-Late in the week, ensembles begin to diverge on the placement of the
-upper trough near the West Coast and the upper high over the
-Southern Rockies, with a trend towards a more eastward placement of
-each. This more eastward placement of the ridge and troughing closer
-to the coast would limit the amount of warming late in the week into
-next weekend. This would also affect the steering flow of a
-potential tropical system and any moisture and precipitation we`d
-receive from it over the weekend into early next week. While the
-National Hurricane Center has a 90% chance of this disturbance
-developing into a tropical cyclone off the coast of Mexico in the
-next 7 days, it is far too early to tell what, if any, impacts we`ll
-see locally, especially given the ensemble spread in the upper level
-pattern. Current forecast has at least a chance of precipitation
-next weekend.
+.LONG TERM (Thursday through Sunday)...
+Low pressure will be centered in the vicinity of the West Coast
+from the Pacific Northwest into California with high pressure over
+the central states extending westward into northwest Mexico. An
+area of disturbed weather well to the south of the southern tip of
+Baja may develop this week and track towards the northwest.
+
+Depending on the development and track, there could be some influx
+of at least monsoonal moisture into portions of southern
+California for next weekend, but more direct impacts from a
+decaying tropical cyclone are less likely with support of less
+than 5 percent of ensemble solutions.
 
 &&
 
 .AVIATION...
-310000Z...Coasts/Valleys...Low clouds will begin to reform and
-gather this evening and fill in, with developing CIGs expected
-across coastal San Diego County by 05-06z. Overnight, low clouds
-expected to fill inland through about 15 miles, with patchy CIGs
-spreading into Orange County after 09z. There is about a 60% chance
-of CIGs impacting KSNA between 11-16z Monday. VIS restrictions
-limited to where clouds intersect higher terrain. Clouds scatter out
-by 16-17z. Clouds will regather and fill back in beginnning around
-01-03z Tue around the coastal areas of San Diego and continue to
-fill back in along the coastal sites through the rest of the
-forecast period.
+311130Z...Coasts/Valleys...Low clouds based at 1500-1900 feet MSL
+will cover most coastal areas and extend into parts of inland
+valleys this morning. Vis reduced 0-5SM along inland edge of clouds.
+Scatter out expected by 15-17Z. Patchier low clouds with similar
+bases and vis will redevelop after 04Z with similar extent, but
+spottier coverage.
 
-.Mtns/Deserts...Occasional FEW low clouds around 10,000 ft during
-the afternoon hours, and high lvl clouds AOA 20,000ft MSL through
-the period. Breezy west to southwest winds 20z this afternoon to
-about 05z Monday for the desert slopes into the deserts, with gusts
-to 20-30 kts, locally up to 35-40 kts through passes.
+.Mountains/Deserts...Mostly clear skies today and tonight. Breezy
+westerly winds mainly through mountain passes and desert slopes 21-
+07Z. Gusts 25-40 kts with pockets of up/downdrafts over and in lee
+of ridges.
 
 &&
 
 .MARINE...
-Gusts around 20 knots expected each afternoon through Thursday in
-the vicinity of San Clemente Island. Localized gusts near the island
-may reach 25 kts on Tuesday/Wednesday afternoons. Otherwise, no
-hazardous marine conditions are expected.
+No hazardous marine conditions are expected through Friday, except
+for gusts around 20 knots expected each afternoon through Thursday
+in the vicinity of San Clemente Island.
 
 &&
 
 .BEACHES...
-A 3-foot swell from the south-southwest (200 degrees) at 15 seconds
-will persist through this evening. This will bring localized
-elevated surf of 3-5 feet with sets to 6 feet, along with a high rip
-current risk to southwest-facing beaches, mostly in north San Diego
-County and Orange County. A new southerly swell (180-190 degrees)
-from Hurricane Karina will keep surf elevated at 3-5 feet with sets
-to 6 feet for Monday through Wednesday. Continued tropical swells
-look to keep surf elevated through the end of the week as well.
+A southerly swell from Hurricane Karina will maintain elevated surf
+on south and southwest facing beaches with sets up to 6 feet today
+and 5 feet Tuesday. Swells from tropical cyclones will continue
+to arrive much of this week.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -467,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Stewey
+PUBLIC...Martin
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
