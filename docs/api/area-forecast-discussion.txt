@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T12:57:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T22:35:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,24 +350,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-091
-FXUS66 KSGX 311136
+577
+FXUS66 KSGX 312028
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-436 AM PDT Mon Aug 31 2026
+128 PM PDT Mon Aug 31 2026
 
 .SYNOPSIS...
 There will be cooling and drying for inland areas for early this
 week with high temperatures cooling to around 5 degrees below
 average for inland areas on Wednesday. Southwest to west winds for
-the mountains and deserts during the afternoon and evening will
+the mountains and deserts during the afternoons and evenings will
 gust to 25 to 35 mph through mid week. For next weekend, there
 could be some influx of monsoonal and possibly tropical moisture
-from an area of disturbed weather well to the south of the
-southern tip of Baja that may develop this week and track towards
-the northwest.
+from an area of disturbed weather well to the south of southern
+Mexico that may develop this week and track towards the
+northwest.
 
 &&
 
@@ -375,43 +375,69 @@ the northwest.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through Wednesday...
 
-.SHORT TERM (Today through Wednesday)...
-The cooling trend will continue through Wednesday with high
-temperatures on Wednesday around 5 degrees below average for
-inland areas. High temperatures on Wednesday will range from the
-mid to upper 70s near the coast to the mid 80s to lower 90s for
-the Inland Empire with 100 to 104 for the lower deserts. Patchy
-night and morning low clouds will spread into portions of the
-western valleys. Onshore flow will be stronger with southwest to
-west winds for the deserts onto the desert slopes of the mountains
-during the afternoon and evening gusting to 25 to 35 mph.
+Current satellite and 500mb analysis reveals the upper ridge
+remains in control across the southeastern US with weak
+southwesterly flow aloft across southern California. The further
+displacement of the upper ridge allows for the continuation of the
+cooling trend observed through the last few days. High
+temperatures this afternoon are expected to be about 3-5 degrees
+cooler compared to yesterday. This has high temperatures running
+around average to 5 degrees below climatological averages - a much
+welcome change from the heat seen last week. Dewpoints and
+humidity remain high for the coastal areas, keeping overnight
+temperatures on the mild side while portions of the inland valleys
+will be allowed to fall into upper 50s.
 
-&&
+Moving into Tuesday, an embedded shortwave trough within a much
+larger upper trough across the northeast Pacific is progged to eject
+into central California. This will bring around 40 kts of southwest
+flow at 500mb for Tuesday-Wednesday, leading to breezy conditions in
+the mountains and adjacent deserts each afternoon. West to southwest
+winds generally 25-35 mph for the mountains and deserts, locally up
+to 45-50 mph within major mountain passes. While this is largely sub-
+advisory or headline levels, the main concern will be elevated to
+near-critical fire weather conditions in the mountains and deserts
+where afternoon humidity is expected to fall into the 20-25% range
+for the mountains and near 15% in the deserts. Temperatures will
+remain on the cool side through midweek, with highs a degree or two
+cooler than today.
 
-.LONG TERM (Thursday through Sunday)...
-Low pressure will be centered in the vicinity of the West Coast
-from the Pacific Northwest into California with high pressure over
-the central states extending westward into northwest Mexico. An
-area of disturbed weather well to the south of the southern tip of
-Baja may develop this week and track towards the northwest.
+Thursday into early next week...
 
-Depending on the development and track, there could be some influx
-of at least monsoonal moisture into portions of southern
-California for next weekend, but more direct impacts from a
-decaying tropical cyclone are less likely with support of less
-than 5 percent of ensemble solutions.
+Following the shortwave passing through Tuesday/Wednesday,
+southwesterly flow aloft stays in place as the large-scale trough
+remains in place across the western US. This will likely keep the
+below normal temperatures and breezy onshore wind in place through
+the end of the week. However, the evolution of this large upper
+trough and embedded shortwaves will play a pivotal role in the
+steering flow of a potential tropical cyclone. This potential storm
+is currently only Invest 95E as a cluster of disorganized
+thunderstorms off the far southern Mexican coast. There remains a
+significant amount of uncertainty in the expected evolution of
+this system, especially as a storm has yet to officially develop.
+The current spread of the grand ensemble favors 2 main clusters,
+one with a more westward track out to sea, and the other as a more
+northward track which could bring any remnants towards southern
+California. Latest ensembles are favoring more of the westward
+track, with only a ~5% chance of more direct/significant impacts
+to the region. Despite this uncertainty and the potential track of
+this storm, chances of precipitation increase as early as
+Saturday evening with the potential for an influx of tropical
+moisture aloft. Even still, plenty of cards need to fall in the
+right way for this to occur, so stay tuned over the next few days
+as the forecast becomes more refined and details become more
+clear.
 
 &&
 
 .AVIATION...
-311130Z...Coasts/Valleys...Low clouds based at 1500-1900 feet MSL
-will cover most coastal areas and extend into parts of inland
-valleys this morning. Vis reduced 0-5SM along inland edge of clouds.
-Scatter out expected by 15-17Z. Patchier low clouds with similar
-bases and vis will redevelop after 04Z with similar extent, but
-spottier coverage.
+311800Z...Coasts/Valleys...VFR this afternoon. Patchy low clouds
+based 1500-2000 ft MSL redevelop after 04z. Very patchy coverage
+through the inland valleys; patchy vis reductions 0-5SM where clouds
+intersect terrain and locally in elevated valleys. Scatter out 14-
+17z.
 
 .Mountains/Deserts...Mostly clear skies today and tonight. Breezy
 westerly winds mainly through mountain passes and desert slopes 21-
@@ -435,12 +461,6 @@ to arrive much of this week.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
 PZ...None.
@@ -449,8 +469,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Martin
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
