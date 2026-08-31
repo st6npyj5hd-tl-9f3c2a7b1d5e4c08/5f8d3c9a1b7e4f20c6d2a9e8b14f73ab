@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-30T20:41:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T04:16:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-938
-FXUS66 KSGX 301847
+003
+FXUS66 KSGX 302309
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1147 AM PDT Sun Aug 30 2026
+409 PM PDT Sun Aug 30 2026
 
 .SYNOPSIS...
 Gradual cooling trend through the middle of the upcoming week. For
@@ -372,6 +370,9 @@ uncertainty in how the forecast will evolve.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 At 11 AM, temperatures were running 2 to 8 degrees cooler than
 they were at that time yesterday across the area. A gradual
@@ -411,21 +412,23 @@ next weekend.
 &&
 
 .AVIATION...
-301800Z...Coasts/Valleys...Clouds have fully cleared out this
-morning, with VFR conditions prevailing through the afternoon.
-Clouds based 1000-1500ft MSL redevelop after 02z Monday, with full
-CIGs expected across coastal San Diego County by 05-06z. Overnight,
-low clouds expected to fill inland through about 15 miles, with
-patchy CIGs spreading into Orange County after 09z. There is about a
-60% chance of CIGs impacting KSNA between 11-16z Monday. VIS
-restrictions limited to where clouds intersect higher terrain.
-Clouds scatter out by 16-17z.
+310000Z...Coasts/Valleys...Low clouds will begin to reform and
+gather this evening and fill in, with developing CIGs expected
+across coastal San Diego County by 05-06z. Overnight, low clouds
+expected to fill inland through about 15 miles, with patchy CIGs
+spreading into Orange County after 09z. There is about a 60% chance
+of CIGs impacting KSNA between 11-16z Monday. VIS restrictions
+limited to where clouds intersect higher terrain. Clouds scatter out
+by 16-17z. Clouds will regather and fill back in beginnning around
+01-03z Tue around the coastal areas of San Diego and continue to
+fill back in along the coastal sites through the rest of the
+forecast period.
 
-.Mtns/Deserts...Occasional FEW high lvl clouds AOA 20,000ft MSL
-through the period. Breezy west to southwest winds 20z this
-afternoon to about 05z Monday for the desert slopes into the
-deserts, with gusts to 20-30 kts, locally up to 35-40 kts through
-passes.
+.Mtns/Deserts...Occasional FEW low clouds around 10,000 ft during
+the afternoon hours, and high lvl clouds AOA 20,000ft MSL through
+the period. Breezy west to southwest winds 20z this afternoon to
+about 05z Monday for the desert slopes into the deserts, with gusts
+to 20-30 kts, locally up to 35-40 kts through passes.
 
 &&
 
@@ -439,13 +442,13 @@ hazardous marine conditions are expected.
 
 .BEACHES...
 A 3-foot swell from the south-southwest (200 degrees) at 15 seconds
-will persist through today. This will bring localized elevated surf
-of 3-5 feet with sets to 6 feet, along with a high rip current risk
-to southwest-facing beaches, mostly in north San Diego County and
-Orange County. A new southerly swell (180-190 degrees) from
-Hurricane Karina will keep surf elevated at 3-5 feet with sets to 6
-feet for Monday through Wednesday. Continued tropical swells look to
-keep surf elevated through the end of the week as well.
+will persist through this evening. This will bring localized
+elevated surf of 3-5 feet with sets to 6 feet, along with a high rip
+current risk to southwest-facing beaches, mostly in north San Diego
+County and Orange County. A new southerly swell (180-190 degrees)
+from Hurricane Karina will keep surf elevated at 3-5 feet with sets
+to 6 feet for Monday through Wednesday. Continued tropical swells
+look to keep surf elevated through the end of the week as well.
 
 &&
 
@@ -465,7 +468,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
