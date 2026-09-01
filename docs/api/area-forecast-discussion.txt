@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T04:01:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T11:15:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,29 +345,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-372
-FXUS66 KSGX 312358
+867
+FXUS66 KSGX 010954
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-458 PM PDT Mon Aug 31 2026
+254 AM PDT Tue Sep 1 2026
 
 .SYNOPSIS...
-There will be cooling and drying for inland areas for early this
-week with high temperatures cooling to around 5 degrees below
-average for inland areas on Wednesday. Southwest to west winds for
-the mountains and deserts during the afternoons and evenings will
-gust to 25 to 35 mph through mid week. For next weekend, there
-could be some influx of monsoonal and possibly tropical moisture
-from an area of disturbed weather well to the south of southern
-Mexico that may develop this week and track towards the
-northwest.
+Cooler and drier weather will continue for inland areas this week
+with high temperatures as much as 4 to 8 degrees below averge for
+inland areas through Thursday. Lowest daytime relative humidity
+for the deserts will fall to 10 to 15 percent through Thursday.
+Southwest to west winds during the afternoon and early evening
+through Thursday will gust to 25 to 35 mph with near critical fire
+weather conditions on the desert slopes of the mountains. Warmer
+and more humid for the Labor Day weekend. Mid and higher level
+tropical moisture could interact with a trough of low pressure
+near the California coast to bring some showers and a slight
+chance of thunderstorms during the weekend.
 
 &&
 
@@ -375,63 +375,46 @@ northwest.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Thursday)...
+Cooler and drier weather will continue for inland areas through
+Thursday with high temperatures as much as 4 to 8 degrees below
+average. High temperatures will range from the mid to upper 70s
+near the coast to the mid 80s to lower 90s for the Inland Empire
+with the lower deserts around 100. Night and morning low clouds
+will be patchy, but may extend inland into portions of the western
+valleys at times.
 
-...UPDATED AVIATION DISCUSSION...
+&&
 
-Today through Wednesday...
+.LONG TERM (Friday through Monday)...
+Similar to the track density forecasts immediately pre-development
+for what became Hurricane Karina, ensemble members of the GFS and
+Canadian models have once again been the northern and eastern
+outliers with the track of newly-formed Tropical Storm Marie.
 
-Current satellite and 500mb analysis reveals the upper ridge
-remains in control across the southeastern US with weak
-southwesterly flow aloft across southern California. The further
-displacement of the upper ridge allows for the continuation of the
-cooling trend observed through the last few days. High
-temperatures this afternoon are expected to be about 3-5 degrees
-cooler compared to yesterday. This has high temperatures running
-around average to 5 degrees below climatological averages - a much
-welcome change from the heat seen last week. Dewpoints and
-humidity remain high for the coastal areas, keeping overnight
-temperatures on the mild side while portions of the inland valleys
-will be allowed to fall into upper 50s.
+The two Google AI ensembles and the EC AI ensemble are once again
+farther to the south and west with the core of the greater track
+density, moving Marie toward the west-northwest toward 22N/123W,
+then on a track toward the west along 22N, with only a few
+ensemble members deviating to the north of the core of greater
+track density. The 00Z GEFS has shown a substantial shift to the
+south and west with the greater track density toward those other
+ensembles, though with a smaller number of ensemble members still
+tracking across northern Baja.
 
-Moving into Tuesday, an embedded shortwave trough within a much
-larger upper trough across the northeast Pacific is progged to eject
-into central California. This will bring around 40 kts of southwest
-flow at 500mb for Tuesday-Wednesday, leading to breezy conditions in
-the mountains and adjacent deserts each afternoon. West to southwest
-winds generally 25-35 mph for the mountains and deserts, locally up
-to 45-50 mph within major mountain passes. While this is largely sub-
-advisory or headline levels, the main concern will be elevated to
-near-critical fire weather conditions in the mountains and deserts
-where afternoon humidity is expected to fall into the 20-25% range
-for the mountains and near 15% in the deserts. Temperatures will
-remain on the cool side through midweek, with highs a degree or two
-cooler than today.
+The most likely scenario for southern California from the current
+guidance would be for some mid and high level moisture from a
+strengthening Hurricane Marie, well to the southwest of the area,
+to be drawn northeastward across southern California into the
+Great Basin by the low pressure system off the West Coast. This
+would bring a chance of showers and a slight chance of
+thunderstorms.
 
-Thursday into early next week...
-
-Following the shortwave passing through Tuesday/Wednesday,
-southwesterly flow aloft stays in place as the large-scale trough
-remains in place across the western US. This will likely keep the
-below normal temperatures and breezy onshore wind in place through
-the end of the week. However, the evolution of this large upper
-trough and embedded shortwaves will play a pivotal role in the
-steering flow of a potential tropical cyclone. This potential storm
-is currently only Invest 95E as a cluster of disorganized
-thunderstorms off the far southern Mexican coast. There remains a
-significant amount of uncertainty in the expected evolution of
-this system, especially as a storm has yet to officially develop.
-The current spread of the grand ensemble favors 2 main clusters,
-one with a more westward track out to sea, and the other as a more
-northward track which could bring any remnants towards southern
-California. Latest ensembles are favoring more of the westward
-track, with only a ~5% chance of more direct/significant impacts
-to the region. Despite this uncertainty and the potential track of
-this storm, chances of precipitation increase as early as
-Saturday evening with the potential for an influx of tropical
-moisture aloft. Even still, plenty of cards need to fall in the
-right way for this to occur, so stay tuned over the next few days
-as the forecast becomes more refined and details become more
-clear.
+Over the next day or so, there should be some narrowing in the
+spread of potential solutions across southern California as there
+is better model initialization of the area around strengthening
+Tropical Storm Marie as well as some improvement in the forecast
+of the low pressure system just off the West Coast.
 
 &&
 
@@ -467,6 +450,13 @@ to arrive much of this week.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
 PZ...None.
@@ -475,7 +465,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Munyan
+PUBLIC...17
 AVIATION/MARINE/BEACHES...CSP
 
 
