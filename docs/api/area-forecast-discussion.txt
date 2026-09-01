@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T11:15:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T16:12:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-867
-FXUS66 KSGX 010954
+300
+FXUS66 KSGX 011153
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-254 AM PDT Tue Sep 1 2026
+437 AM PDT Tue Sep 1 2026
 
 .SYNOPSIS...
 Cooler and drier weather will continue for inland areas this week
@@ -374,6 +374,8 @@ chance of thunderstorms during the weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Thursday)...
 Cooler and drier weather will continue for inland areas through
@@ -419,34 +421,32 @@ of the low pressure system just off the West Coast.
 &&
 
 .AVIATION...
-010000Z...Coasts/Valleys...VFR this afternoon. Patchy low clouds
-based 1500-2000 ft MSL will develop after 03Z this evening,
-spreading into coastal SD Co 05-06Z and into inland SD and Orange Co
-after 08Z. Coverage inland will be very patchy with intermittent
-scatter out, with associated patchy vis reductions 0-5 SM where
-clouds intersect terrain in elevated western valley terrain. Scatter
-out 14-17Z. Clouds with similar bases develop and move inland late
-Tues evening, possibly as early as 04Z but more likely 06Z onwards.
+011130Z...Coasts/Valleys...Areas of low clouds based 1000-1500 feet
+MSL will give intermittent cigs through 16Z, but more likely
+around KSNA. Low clouds based around 1000 feet MSL will be patchy
+after 06Z with less chance and less coverage of cigs tonight into
+Wednesday morning.
+
 
 .Mountains/Deserts...Mostly clear skies today and tonight. Breezy
 westerly winds mainly through mountain passes and desert slopes
-through 07Z this evening. Gusts 25-40 kts with pockets of moderate
+through 22-07Z. Gusts 25-40 kts with pockets of moderate
 up/downdrafts over and in lee of ridges.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday, except
-for gusts around 20 knots expected each afternoon through Thursday
-in the vicinity of San Clemente Island.
+No hazardous marine conditions are expected through Saturday. Wind
+gusts around 20 knots are expected each afternoon and evening
+through Thursday in the vicinity of San Clemente Island.
 
 &&
 
 .BEACHES...
-A southerly swell from Hurricane Karina will maintain elevated surf
-on south and southwest facing beaches with sets up to 6 feet today
-and 5 feet Tuesday. Swells from tropical cyclones will continue
-to arrive much of this week.
+Southerly swells from tropical cyclones will continue this week.
+There is a chance of a swell capable of producing high surf arriving
+this weekend, however confidence on surf size and timing is rather
+low today. Stay tuned as details become clearer in coming days.
 
 &&
 
@@ -466,7 +466,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
