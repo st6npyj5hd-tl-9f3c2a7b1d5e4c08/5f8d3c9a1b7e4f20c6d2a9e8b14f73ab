@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-08-31T22:35:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T04:01:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-577
-FXUS66 KSGX 312028
+372
+FXUS66 KSGX 312358
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-128 PM PDT Mon Aug 31 2026
+458 PM PDT Mon Aug 31 2026
 
 .SYNOPSIS...
 There will be cooling and drying for inland areas for early this
@@ -374,6 +374,9 @@ northwest.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through Wednesday...
 
@@ -433,16 +436,19 @@ clear.
 &&
 
 .AVIATION...
-311800Z...Coasts/Valleys...VFR this afternoon. Patchy low clouds
-based 1500-2000 ft MSL redevelop after 04z. Very patchy coverage
-through the inland valleys; patchy vis reductions 0-5SM where clouds
-intersect terrain and locally in elevated valleys. Scatter out 14-
-17z.
+010000Z...Coasts/Valleys...VFR this afternoon. Patchy low clouds
+based 1500-2000 ft MSL will develop after 03Z this evening,
+spreading into coastal SD Co 05-06Z and into inland SD and Orange Co
+after 08Z. Coverage inland will be very patchy with intermittent
+scatter out, with associated patchy vis reductions 0-5 SM where
+clouds intersect terrain in elevated western valley terrain. Scatter
+out 14-17Z. Clouds with similar bases develop and move inland late
+Tues evening, possibly as early as 04Z but more likely 06Z onwards.
 
 .Mountains/Deserts...Mostly clear skies today and tonight. Breezy
-westerly winds mainly through mountain passes and desert slopes 21-
-07Z. Gusts 25-40 kts with pockets of up/downdrafts over and in lee
-of ridges.
+westerly winds mainly through mountain passes and desert slopes
+through 07Z this evening. Gusts 25-40 kts with pockets of moderate
+up/downdrafts over and in lee of ridges.
 
 &&
 
@@ -470,7 +476,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
