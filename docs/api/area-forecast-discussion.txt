@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T16:12:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T20:41:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,28 +345,30 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-300
-FXUS66 KSGX 011153
+110
+FXUS66 KSGX 011941
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-437 AM PDT Tue Sep 1 2026
+1241 PM PDT Tue Sep 1 2026
 
 .SYNOPSIS...
-Cooler and drier weather will continue for inland areas this week
-with high temperatures as much as 4 to 8 degrees below averge for
-inland areas through Thursday. Lowest daytime relative humidity
-for the deserts will fall to 10 to 15 percent through Thursday.
-Southwest to west winds during the afternoon and early evening
-through Thursday will gust to 25 to 35 mph with near critical fire
-weather conditions on the desert slopes of the mountains. Warmer
-and more humid for the Labor Day weekend. Mid and higher level
-tropical moisture could interact with a trough of low pressure
-near the California coast to bring some showers and a slight
+Cooler and drier weather will continue for inland areas this week,
+with high temperatures as much as 5 to 10 degrees below average
+through Friday. Lowest daytime relative humidity for the deserts
+will fall to 10 to 15 percent through Thursday. Southwest to west
+winds will gust 25 to 35 mph during the afternoons and early
+evenings through Thursday, with near critical fire weather
+conditions on the desert slopes of the mountains. Warmer and more
+humid for the Labor Day weekend. Mid and high level moisture from
+the tropics could interact with a trough of low pressure near the
+California coast, bringing a chance for showers and a slight
 chance of thunderstorms during the weekend.
 
 &&
@@ -375,58 +377,51 @@ chance of thunderstorms during the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Generally a little cooler than at this time yesterday under sunny
+skies. Sfc pressure gradients are still onshore but trending
+weaker. The windy locations in the mtns and on desert slopes are
+reporting wind gusts of about 25-35 mph.
 
-.SHORT TERM (Today through Thursday)...
-Cooler and drier weather will continue for inland areas through
-Thursday with high temperatures as much as 4 to 8 degrees below
-average. High temperatures will range from the mid to upper 70s
-near the coast to the mid 80s to lower 90s for the Inland Empire
-with the lower deserts around 100. Night and morning low clouds
+A low pressure system near the west coast will maintain onshore
+flow with a deeper marine layer and cooler, drier conditions
+through Friday. Inland high temperatures will be 5 to 10 degrees
+below average. High temperatures will range from the mid to upper 70s
+near the coast, the mid 80s to lower 90s for the Inland Empire and
+around 100 in the lower deserts. Night and morning low clouds
 will be patchy, but may extend inland into portions of the western
-valleys at times.
+valleys at times. Low humidity and gusty westerly winds will
+bring locally elevated fire weather conditions to the desert
+slopes during the afternoons.
 
-&&
+Tropical Storm Marie is currently about 1,300 miles south
+southeast of San Diego. It is expected to move to the northwest at
+about 9 mph and strengthen, becoming a hurricane on Thursday
+before beginning to weaken late Saturday. By Sunday, it is
+expected to be about 775 miles southwest of San Diego.
 
-.LONG TERM (Friday through Monday)...
-Similar to the track density forecasts immediately pre-development
-for what became Hurricane Karina, ensemble members of the GFS and
-Canadian models have once again been the northern and eastern
-outliers with the track of newly-formed Tropical Storm Marie.
+The most likely scenario for southern California would be for
+some mid and high level moisture from Hurricane Marie to be drawn
+northeastward across southern California into the Great Basin by
+the low pressure system off the West Coast. This would bring a
+chance of showers and a slight chance of thunderstorms from
+Saturday into next Monday.
 
-The two Google AI ensembles and the EC AI ensemble are once again
-farther to the south and west with the core of the greater track
-density, moving Marie toward the west-northwest toward 22N/123W,
-then on a track toward the west along 22N, with only a few
-ensemble members deviating to the north of the core of greater
-track density. The 00Z GEFS has shown a substantial shift to the
-south and west with the greater track density toward those other
-ensembles, though with a smaller number of ensemble members still
-tracking across northern Baja.
+Forecast details are still uncertain but a majority of ensemble
+members indicate periods of (generally) light precipitation for
+the weekend, although brief periods of locally heavier
+precipitation cannot be ruled out if tstms develop.
 
-The most likely scenario for southern California from the current
-guidance would be for some mid and high level moisture from a
-strengthening Hurricane Marie, well to the southwest of the area,
-to be drawn northeastward across southern California into the
-Great Basin by the low pressure system off the West Coast. This
-would bring a chance of showers and a slight chance of
-thunderstorms.
-
-Over the next day or so, there should be some narrowing in the
-spread of potential solutions across southern California as there
-is better model initialization of the area around strengthening
-Tropical Storm Marie as well as some improvement in the forecast
-of the low pressure system just off the West Coast.
+Warmer and drier weather will likely return for next Tuesday.
 
 &&
 
 .AVIATION...
-011130Z...Coasts/Valleys...Areas of low clouds based 1000-1500 feet
-MSL will give intermittent cigs through 16Z, but more likely
-around KSNA. Low clouds based around 1000 feet MSL will be patchy
-after 06Z with less chance and less coverage of cigs tonight into
-Wednesday morning.
-
+011800Z...Coasts/Valleys...Mostly SKC this afternoon. Low clouds
+based 1000-1500 ft MSL form in very patchy fashion after 04z Wed up
+to 15 miles inland, reaching maximum cloud coverage (~60%) around
+09z before retracting back to the coast by 13z. Coverage in coastal
+Orange County will be even patchier with only a 25% chance for more
+than an hour of cigs from 07-12z.
 
 .Mountains/Deserts...Mostly clear skies today and tonight. Breezy
 westerly winds mainly through mountain passes and desert slopes
@@ -454,7 +449,6 @@ low today. Stay tuned as details become clearer in coming days.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -465,8 +459,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
