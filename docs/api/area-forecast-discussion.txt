@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-01T20:41:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T03:23:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,20 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-110
-FXUS66 KSGX 011941
+581
+FXUS66 KSGX 012351
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1241 PM PDT Tue Sep 1 2026
+451 PM PDT Tue Sep 1 2026
 
 .SYNOPSIS...
 Cooler and drier weather will continue for inland areas this week,
@@ -376,6 +372,9 @@ chance of thunderstorms during the weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Generally a little cooler than at this time yesterday under sunny
 skies. Sfc pressure gradients are still onshore but trending
@@ -416,17 +415,17 @@ Warmer and drier weather will likely return for next Tuesday.
 &&
 
 .AVIATION...
-011800Z...Coasts/Valleys...Mostly SKC this afternoon. Low clouds
-based 1000-1500 ft MSL form in very patchy fashion after 04z Wed up
-to 15 miles inland, reaching maximum cloud coverage (~60%) around
-09z before retracting back to the coast by 13z. Coverage in coastal
-Orange County will be even patchier with only a 25% chance for more
-than an hour of cigs from 07-12z.
+020000Z...Coasts/Valleys...Mostly SKC this afternoon through early
+this evening. Low clouds based 1000-1500 ft MSL form in very patchy
+fashion after 04z Wed up to 15 miles inland, reaching maximum cloud
+coverage (~60%) around 09z before retracting back to the coast by
+15z. Coverage in coastal Orange County will be even patchier with
+only a 25% chance for more than an hour of cigs from 07-12z.
 
 .Mountains/Deserts...Mostly clear skies today and tonight. Breezy
 westerly winds mainly through mountain passes and desert slopes
-through 22-07Z. Gusts 25-40 kts with pockets of moderate
-up/downdrafts over and in lee of ridges.
+through 07Z. Gusts 25-40 kts with pockets of moderate up/downdrafts
+over and in lee of ridges. Similar winds after 20Z Wed.
 
 &&
 
@@ -438,16 +437,18 @@ through Thursday in the vicinity of San Clemente Island.
 &&
 
 .BEACHES...
-Southerly swells from tropical cyclones will continue this week.
-There is a chance of a swell capable of producing high surf arriving
-this weekend, however confidence on surf size and timing is rather
-low today. Stay tuned as details become clearer in coming days.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+Southerly swells from tropical cyclones will continue this week. A
+large south swell from Tropical Storm Marie will move into the
+region this Saturday, likely peaking Sunday-Monday. While there is
+uncertainty in the exact track of Marie which could result in
+differences in swell and surf direction and height, this will very
+likely result in elevated to high surf and strong rip and longshore
+currents for south and southwest-facing beaches. At this point,
+maximum surf of 6-10 feet is forecast for south/southwest beaches,
+with the potential for higher sets. This combined with higher-end
+astronomical tides will increase the potential for tidal overflow
+and coastal flooding Sat-Mon, highest chances Monday. Stay tuned as
+details become clearer in coming days.
 
 &&
 
@@ -460,7 +461,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
