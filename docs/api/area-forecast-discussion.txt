@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T16:07:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T20:39:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,25 +343,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-829
-FXUS66 KSGX 021130
+086
+FXUS66 KSGX 022034
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-430 AM PDT Wed Sep 2 2026
+134 PM PDT Wed Sep 2 2026
 
 .SYNOPSIS...
-Through Friday, it will remain cooler and drier for inland areas
-with patchy night and morning coastal low clouds spreading into
-portions of the western valleys at times. For the holiday weekend,
-Hurricane Marie is expected to remain well to the southwest of the
+It will remain cooler and drier for inland areas through Friday, with
+patchy night and morning coastal low clouds spreading into portions
+of the western valleys at times. For the holiday weekend into
+early next week, Tropical Storm Marie will likely become a
+hurricane and is expected to remain well to the southwest of the
 area. However, an increase in surf at the beaches is expected.
-There could also be an increase in humidity with more clouds and a
-chance of showers and slight chance of thunderstorms.
+There could also be an increase in humidity, with more clouds and
+a chance of showers and slight chance of thunderstorms.
 
 &&
 
@@ -369,37 +372,37 @@ chance of showers and slight chance of thunderstorms.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+This afternoon...The marine layer remains about 1500 ft deep and a
+few low clouds are lingering at the beaches. Otherwise skies are
+clear. Temperatures are generally near or a few degrees lower than
+at this time yesterday. Sfc pressure gradients remain onshore and
+are supporting westerly winds gusting 25 to 40 mph in the mtn
+passes and canyons, and on the desert slopes.
 
-.SHORT TERM (Today through Friday)...
+From previous discussion...
 A low pressure system along the West Coast will maintain stronger
-onshore low-level flow and drier southwest flow aloft through
-Friday with continuing near all-time record sea surface
+onshore flow at the surface and drier southwest flow aloft
+through Friday, with continuing near all-time record sea surface
 temperatures over the coastal waters. High temperatures for the
 mountains and inland valleys will remain as much as 5 to 10
 degrees below average while high temperatures near the coast
-remain around average.
+remain around average. High temperatures will range from the mid
+70s near the coast to the mid to upper 80s to lower 90s for the
+Inland Empire the lower deserts around 100. Low temperatures will
+be a few to around 5 degrees below average for inland areas. Low
+temperatures for coastal areas will be mostly in the 60s, in the
+mid 50s to lower 60s for the valleys, in the 40s to mid 50s for
+the mountains, and in the upper 60s to upper 70s for the lower
+deserts. Patchy night and morning low clouds will extend into
+portions of the western valleys at times.
 
-High temperatures will range from the mid 70s near the coast to
-the mid to upper 80s to lower 90s for the Inland Empire the lower
-deserts around 100. Low temperatures will be a few to around 5
-degrees below average for inland areas. Low temperatures for
-coastal areas will be mostly in the 60s, in the mid 50s to lower
-60s for the valleys, in the 40s to mid 50s for the mountains, and
-in the upper 60s to upper 70s for the lower deserts. Patchy night
-and morning low clouds will extend into portions of the western
-valleys at times.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
 Tropical Storm Marie continues to strengthen and is expected to
-become a hurricane today while continuing on a track toward the
-northwest. In the ensemble guidance, there continues to be a
-gradual slow shift toward the south and west with the highest
-track density. There continues to be somewhat greater spread in
-the track guidance once Marie reaches the longitude of Point
-Conception.
+become a hurricane in the next 12-24 hours while continuing on a
+track toward the northwest. In the ensemble guidance, there
+continues to be a gradual slow shift toward the south and west
+with the highest track density. There continues to be somewhat
+greater spread in the track guidance once Marie reaches the
+longitude of Point Conception.
 
 The most likely scenario remains that the core of Marie will
 remain well to the southwest of the area. Swell from Hurricane
@@ -432,20 +435,22 @@ amount of moisture influx and cloud coverage.
 &&
 
 .AVIATION...
-021130Z...Coast/Valleys...SCT to locally BKN low clouds based 1200-
-1600 feet MSL through 16Z. Patchy, random low clouds based
-around 1000-1500 feet MSL after 04Z tonight into early Thursday.
+021800Z...Coast/Valleys...SKC and VFR through this afternoon and
+evening. Patchy low clouds based 1400-1900 ft MSL redevelop over
+coastal areas and nearshore waters after 06z Thu. Best chance for
+intermittent cigs at coastal TAF sites will be around 12-15z. Any
+low clouds that develop will clear out again by 16-17z.
 
-.Mountains/Deserts...Mostly clear skies today and tonight.
-Breezy westerly winds mainly through mountain passes and desert
-slopes 21-07Z. Gusts 25-40 kts with pockets of moderate
+.Mountains/Deserts...Mostly clear skies through Thursday morning.
+Breezy westerly winds mainly through mountain passes and along
+desert slopes 21-07Z. Gusts 25-40 kts with pockets of moderate
 up/downdrafts over and in lee of ridges.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday. But wind
-gusts around 20 knots are expected each afternoon and evening
+No hazardous marine conditions are expected through Sunday. However,
+wind gusts around 20 knots are expected each afternoon and evening
 through Thursday in the vicinity of San Clemente Island.
 
 &&
@@ -479,8 +484,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
