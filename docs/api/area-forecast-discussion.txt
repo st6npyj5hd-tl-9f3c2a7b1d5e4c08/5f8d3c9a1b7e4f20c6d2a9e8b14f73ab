@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T10:49:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T16:07:57+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,29 +341,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-450
-FXUS66 KSGX 020530
+829
+FXUS66 KSGX 021130
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1030 PM PDT Tue Sep 1 2026
+430 AM PDT Wed Sep 2 2026
 
 .SYNOPSIS...
-Cooler and drier weather will continue for inland areas this week,
-with high temperatures as much as 5 to 10 degrees below average
-through Friday. Lowest daytime relative humidity for the deserts
-will fall to 10 to 15 percent through Thursday. Southwest to west
-winds will gust 25 to 35 mph during the afternoons and early
-evenings through Thursday, with near critical fire weather
-conditions on the desert slopes of the mountains. Warmer and more
-humid for the Labor Day weekend. Mid and high level moisture from
-the tropics could interact with a trough of low pressure near the
-California coast, bringing a chance for showers and a slight
-chance of thunderstorms during the weekend.
+Through Friday, it will remain cooler and drier for inland areas
+with patchy night and morning coastal low clouds spreading into
+portions of the western valleys at times. For the holiday weekend,
+Hurricane Marie is expected to remain well to the southwest of the
+area. However, an increase in surf at the beaches is expected.
+There could also be an increase in humidity with more clouds and a
+chance of showers and slight chance of thunderstorms.
 
 &&
 
@@ -373,53 +371,80 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-A low pressure system near the west coast will maintain onshore
-flow with a deeper marine layer and cooler, drier conditions
-through Friday. Inland high temperatures will be 5 to 10 degrees
-below average. High temperatures will range from the mid to upper
-70s near the coast, the mid 80s to lower 90s for the Inland Empire
-and around 100 in the lower deserts. Night and morning low clouds
-will be patchy, but may extend inland into portions of the
-western valleys at times. Low humidity and gusty westerly winds
-will bring locally elevated fire weather conditions to the desert
-slopes during the afternoons.
+.SHORT TERM (Today through Friday)...
+A low pressure system along the West Coast will maintain stronger
+onshore low-level flow and drier southwest flow aloft through
+Friday with continuing near all-time record sea surface
+temperatures over the coastal waters. High temperatures for the
+mountains and inland valleys will remain as much as 5 to 10
+degrees below average while high temperatures near the coast
+remain around average.
 
-Tropical Storm Marie is currently about 1,300 miles south
-southeast of San Diego. It is expected to move to the northwest at
-about 9 mph and strengthen, becoming a hurricane on Thursday
-before beginning to weaken late Saturday. By Sunday, it is
-expected to be about 775 miles southwest of San Diego.
+High temperatures will range from the mid 70s near the coast to
+the mid to upper 80s to lower 90s for the Inland Empire the lower
+deserts around 100. Low temperatures will be a few to around 5
+degrees below average for inland areas. Low temperatures for
+coastal areas will be mostly in the 60s, in the mid 50s to lower
+60s for the valleys, in the 40s to mid 50s for the mountains, and
+in the upper 60s to upper 70s for the lower deserts. Patchy night
+and morning low clouds will extend into portions of the western
+valleys at times.
 
-The most likely scenario for southern California would be for
-some mid and high level moisture from Hurricane Marie to be drawn
-northeastward across southern California into the Great Basin by
-the low pressure system off the West Coast. This would bring a
-chance of showers and a slight chance of thunderstorms from
-Saturday into next Monday.
+&&
 
-Forecast details are still uncertain but a majority of ensemble
-members indicate periods of (generally) light precipitation for
-the weekend, although brief periods of locally heavier
-precipitation cannot be ruled out if tstms develop.
+.LONG TERM (Saturday through Tuesday)...
+Tropical Storm Marie continues to strengthen and is expected to
+become a hurricane today while continuing on a track toward the
+northwest. In the ensemble guidance, there continues to be a
+gradual slow shift toward the south and west with the highest
+track density. There continues to be somewhat greater spread in
+the track guidance once Marie reaches the longitude of Point
+Conception.
 
-Warmer and drier weather will likely return for next Tuesday.
+The most likely scenario remains that the core of Marie will
+remain well to the southwest of the area. Swell from Hurricane
+Marie is expected to bring an increase in surf to southern
+California beaches during the weekend with the biggest surf for
+beaches in Orange and San Diego Counties from Oceanside northward.
+
+Even with the relatively drier solutions, those with the core of
+Marie remaining well to the southwest, increase precipitable water
+values to more than one inch over the weekend. At the drier end
+of the guidance, the NBM 10th percentile precipitable water value
+at San Diego increases from around 1 inch for early Saturday
+morning to 1.7 inches for early Sunday morning with the
+corresponding 50th percentile values at the same times 1.5 and 2
+inches.
+
+The low pressure system near the West Coast could draw some of the
+mid and high level moisture from Marie into southern California
+and the Great Basin bringing a chance of showers and a slight
+chance of thunderstorms. Over time from Saturday into Sunday,
+where that might occur would be moving slowly northward with time
+with the rainfall potential increasing with time as well with the
+increasing moisture content of the atmosphere. However, there
+remains larger spread in the details.
+
+Nights should be warmer for the holiday weekend. High temperatures
+for some inland areas could be a little cooler depending on the
+amount of moisture influx and cloud coverage.
 
 &&
 
 .AVIATION...
-020530Z...Coasts...SCT to locally BKN low clouds based 1200-1600
-feet MSL through Wednesday morning. Cigs most likely 07-12Z. Very
-patchy, isolated low clouds after 04Z Wednesday night.
+021130Z...Coast/Valleys...SCT to locally BKN low clouds based 1200-
+1600 feet MSL through 16Z. Patchy, random low clouds based
+around 1000-1500 feet MSL after 04Z tonight into early Thursday.
 
-.Valleys/Mountains/Deserts...Mostly clear skies through Wednesday.
+.Mountains/Deserts...Mostly clear skies today and tonight.
 Breezy westerly winds mainly through mountain passes and desert
-slopes 21-07Z Wednesday afternoon and eve. Gusts 25-40 kts with
-pockets of moderate up/downdrafts over and in lee of ridges.
+slopes 21-07Z. Gusts 25-40 kts with pockets of moderate
+up/downdrafts over and in lee of ridges.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday. Wind
+No hazardous marine conditions are expected through Sunday. But wind
 gusts around 20 knots are expected each afternoon and evening
 through Thursday in the vicinity of San Clemente Island.
 
@@ -428,16 +453,15 @@ through Thursday in the vicinity of San Clemente Island.
 .BEACHES...
 Southerly swells from tropical cyclones will continue this week. A
 large south swell from Tropical Storm Marie will move into the
-region this Saturday, likely peaking Sunday-Monday. While there is
+region Saturday, likely peaking Sunday-Monday. While there is
 uncertainty in the exact track of Marie which could result in
 differences in swell and surf direction and height, this will very
 likely result in elevated to high surf and strong rip and longshore
-currents for south and southwest-facing beaches. At this point,
-maximum surf of 6-10 feet is forecast for south/southwest beaches,
-with the potential for higher sets. This combined with higher-end
-astronomical tides will increase the potential for tidal overflow
-and coastal flooding Sat-Mon, highest chances Monday. Stay tuned as
-details become clearer in coming days.
+currents. Maximum surf of 6-10 feet is forecast for south/southwest
+beaches. This will combine with high astronomical tides to increase
+the potential for tidal overflow and coastal flooding Saturday
+through Monday, highest chances Monday. Stay tuned as details become
+clearer in coming days.
 
 &&
 
@@ -455,7 +479,7 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
+PUBLIC...17
 AVIATION/MARINE/BEACHES...MM
 
 

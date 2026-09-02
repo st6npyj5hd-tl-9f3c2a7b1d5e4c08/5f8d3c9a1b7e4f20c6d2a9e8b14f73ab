@@ -21,10 +21,9 @@
   </location>
 <moreWeatherInformation applicable-location="point1">https://forecast.weather.gov/MapClick.php?lat=32.8&amp;lon=-117.06</moreWeatherInformation>
   <time-layout time-coordinate="local" summarization="12hourly">
-    <layout-key>k-p12h-n14-1</layout-key>
-      <start-valid-time period-name="Overnight">2026-09-02T03:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Wednesday">2026-09-02T06:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Wednesday Night">2026-09-02T18:00:00-07:00</start-valid-time>
+    <layout-key>k-p12h-n13-1</layout-key>
+      <start-valid-time period-name="Today">2026-09-02T09:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Tonight">2026-09-02T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Thursday">2026-09-03T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Thursday Night">2026-09-03T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Friday">2026-09-04T06:00:00-07:00</start-valid-time>
@@ -40,18 +39,7 @@
 
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time period-name="Overnight">2026-09-02T03:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Wednesday Night">2026-09-02T18:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Thursday Night">2026-09-03T18:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Friday Night">2026-09-04T18:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Saturday Night">2026-09-05T18:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Sunday Night">2026-09-06T18:00:00-07:00</start-valid-time>
-      <start-valid-time period-name="Monday Night">2026-09-07T18:00:00-07:00</start-valid-time>
-  </time-layout>
-
-  <time-layout time-coordinate="local" summarization="12hourly">
-    <layout-key>k-p24h-n7-2</layout-key>
-      <start-valid-time period-name="Wednesday">2026-09-02T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Today">2026-09-02T09:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Thursday">2026-09-03T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Friday">2026-09-04T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Saturday">2026-09-05T06:00:00-07:00</start-valid-time>
@@ -60,21 +48,20 @@
       <start-valid-time period-name="Tuesday">2026-09-08T06:00:00-07:00</start-valid-time>
   </time-layout>
 
+  <time-layout time-coordinate="local" summarization="12hourly">
+    <layout-key>k-p24h-n6-2</layout-key>
+      <start-valid-time period-name="Tonight">2026-09-02T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Thursday Night">2026-09-03T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Friday Night">2026-09-04T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Saturday Night">2026-09-05T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Sunday Night">2026-09-06T18:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Monday Night">2026-09-07T18:00:00-07:00</start-valid-time>
+  </time-layout>
+
 
   <parameters applicable-location="point1">
 
-    <temperature type="minimum" units="Fahrenheit" time-layout="k-p24h-n7-1">
-      <name>Daily Minimum Temperature</name>
-        <value>65</value>
-        <value>64</value>
-        <value>63</value>
-        <value>67</value>
-        <value>70</value>
-        <value>70</value>
-        <value>69</value>
-    </temperature>
-
-    <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n7-2">
+    <temperature type="maximum" units="Fahrenheit" time-layout="k-p24h-n7-1">
       <name>Daily Maximum Temperature</name>
         <value>82</value>
         <value>81</value>
@@ -85,7 +72,17 @@
         <value>85</value>
     </temperature>
 
-    <probability-of-precipitation  type="12 hour" units="percent" time-layout="k-p12h-n14-1">
+    <temperature type="minimum" units="Fahrenheit" time-layout="k-p24h-n6-2">
+      <name>Daily Minimum Temperature</name>
+        <value>64</value>
+        <value>63</value>
+        <value>67</value>
+        <value>70</value>
+        <value>70</value>
+        <value>69</value>
+    </temperature>
+
+    <probability-of-precipitation  type="12 hour" units="percent" time-layout="k-p12h-n13-1">
       <name>12 Hourly Probability of Precipitation</name>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
@@ -93,8 +90,7 @@
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
-        <value xsi:nil="true"></value>
-        <value xsi:nil="true"></value>
+        <value>20</value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
         <value xsi:nil="true"></value>
@@ -103,9 +99,8 @@
         <value xsi:nil="true"></value>
     </probability-of-precipitation>
 
-    <weather time-layout="k-p12h-n14-1">
+    <weather time-layout="k-p12h-n13-1">
       <name>Weather Type, Coverage, Intensity</name>
-        <weather-conditions weather-summary="Mostly Clear"/>
         <weather-conditions weather-summary="Sunny"/>
         <weather-conditions weather-summary="Mostly Clear"/>
         <weather-conditions weather-summary="Sunny"/>
@@ -121,15 +116,14 @@
         <weather-conditions weather-summary="Slight Chance Showers then Sunny"/>
     </weather>
 
-    <conditions-icon type="forecast-NWS" time-layout="k-p12h-n14-1">
-      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/newimages/medium/nfew.png</icon-link>
-        <icon-link>https://forecast.weather.gov/newimages/medium/skc.png</icon-link>
+    <conditions-icon type="forecast-NWS" time-layout="k-p12h-n13-1">
+      <name>Conditions Icon</name>        <icon-link>https://forecast.weather.gov/newimages/medium/skc.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nfew.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nfg.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/few.png</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nsct.png</icon-link>
-        <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=bkn&amp;ip=0</icon-link>
+        <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=bkn&amp;ip=20</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nshra.png</icon-link>
         <icon-link>https://forecast.weather.gov/DualImage.php?i=shra&amp;j=bkn&amp;ip=0</icon-link>
         <icon-link>https://forecast.weather.gov/newimages/medium/nsct.png</icon-link>
@@ -138,16 +132,15 @@
         <icon-link>https://forecast.weather.gov/DualImage.php?i=hi_shwrs&amp;j=few&amp;ip=0</icon-link>
     </conditions-icon>
 
-    <wordedForecast time-layout="k-p12h-n14-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
+    <wordedForecast time-layout="k-p12h-n13-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
       <name>Text Forecast</name>
-        <text>Mostly clear, with a low around 65. North wind around 5 mph. </text>
-        <text>Sunny, with a high near 82. Light and variable wind becoming west 5 to 10 mph in the afternoon. </text>
+        <text>Sunny, with a high near 82. Light northwest wind becoming west 5 to 10 mph in the afternoon. </text>
         <text>Mostly clear, with a low around 64. West wind around 5 mph becoming east after midnight. </text>
         <text>Sunny, with a high near 81. Light and variable wind becoming west 5 to 10 mph in the morning. Winds could gust as high as 20 mph. </text>
         <text>Patchy fog after 11pm.  Otherwise, mostly clear, with a low around 63. Northwest wind around 5 mph becoming calm  in the evening. </text>
-        <text>Sunny, with a high near 82.</text>
+        <text>Sunny, with a high near 82. East wind 5 to 10 mph becoming west in the afternoon. </text>
         <text>Partly cloudy, with a low around 67.</text>
-        <text>A slight chance of showers before 11am.  Patchy fog before 11am.  Otherwise, partly sunny, with a high near 85.</text>
+        <text>A slight chance of showers before 11am.  Patchy fog before 11am.  Otherwise, partly sunny, with a high near 85. Chance of precipitation is 20%.</text>
         <text>A slight chance of showers.  Mostly cloudy, with a low around 70.</text>
         <text>A slight chance of showers before 11am.  Partly sunny, with a high near 89.</text>
         <text>Partly cloudy, with a low around 70.</text>
@@ -165,4 +158,4 @@
       <area-description>DW5256 La Mesa, CA</area-description>
       <height datum="mean sea level" height-units="feet">646.75</height>
   </location>
-  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-09-02T03:45:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>65</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>60</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>85</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>302</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.95</value>      </pressure>  </parameters></data></dwml>
+  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-09-02T09:00:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>67</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>60</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>79</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>329</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.97</value>      </pressure>  </parameters></data></dwml>
