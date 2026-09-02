@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T03:23:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T10:49:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,18 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-581
-FXUS66 KSGX 012351
+450
+FXUS66 KSGX 020530
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-451 PM PDT Tue Sep 1 2026
+1030 PM PDT Tue Sep 1 2026
 
 .SYNOPSIS...
 Cooler and drier weather will continue for inland areas this week,
@@ -373,23 +371,17 @@ chance of thunderstorms during the weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
-
-Generally a little cooler than at this time yesterday under sunny
-skies. Sfc pressure gradients are still onshore but trending
-weaker. The windy locations in the mtns and on desert slopes are
-reporting wind gusts of about 25-35 mph.
 
 A low pressure system near the west coast will maintain onshore
 flow with a deeper marine layer and cooler, drier conditions
 through Friday. Inland high temperatures will be 5 to 10 degrees
-below average. High temperatures will range from the mid to upper 70s
-near the coast, the mid 80s to lower 90s for the Inland Empire and
-around 100 in the lower deserts. Night and morning low clouds
-will be patchy, but may extend inland into portions of the western
-valleys at times. Low humidity and gusty westerly winds will
-bring locally elevated fire weather conditions to the desert
+below average. High temperatures will range from the mid to upper
+70s near the coast, the mid 80s to lower 90s for the Inland Empire
+and around 100 in the lower deserts. Night and morning low clouds
+will be patchy, but may extend inland into portions of the
+western valleys at times. Low humidity and gusty westerly winds
+will bring locally elevated fire weather conditions to the desert
 slopes during the afternoons.
 
 Tropical Storm Marie is currently about 1,300 miles south
@@ -415,17 +407,14 @@ Warmer and drier weather will likely return for next Tuesday.
 &&
 
 .AVIATION...
-020000Z...Coasts/Valleys...Mostly SKC this afternoon through early
-this evening. Low clouds based 1000-1500 ft MSL form in very patchy
-fashion after 04z Wed up to 15 miles inland, reaching maximum cloud
-coverage (~60%) around 09z before retracting back to the coast by
-15z. Coverage in coastal Orange County will be even patchier with
-only a 25% chance for more than an hour of cigs from 07-12z.
+020530Z...Coasts...SCT to locally BKN low clouds based 1200-1600
+feet MSL through Wednesday morning. Cigs most likely 07-12Z. Very
+patchy, isolated low clouds after 04Z Wednesday night.
 
-.Mountains/Deserts...Mostly clear skies today and tonight. Breezy
-westerly winds mainly through mountain passes and desert slopes
-through 07Z. Gusts 25-40 kts with pockets of moderate up/downdrafts
-over and in lee of ridges. Similar winds after 20Z Wed.
+.Valleys/Mountains/Deserts...Mostly clear skies through Wednesday.
+Breezy westerly winds mainly through mountain passes and desert
+slopes 21-07Z Wednesday afternoon and eve. Gusts 25-40 kts with
+pockets of moderate up/downdrafts over and in lee of ridges.
 
 &&
 
@@ -452,6 +441,12 @@ details become clearer in coming days.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
 PZ...None.
@@ -461,7 +456,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
