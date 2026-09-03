@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-02T20:39:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-03T03:25:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-086
-FXUS66 KSGX 022034
+551
+FXUS66 KSGX 030002
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-134 PM PDT Wed Sep 2 2026
+502 PM PDT Wed Sep 2 2026
 
 .SYNOPSIS...
 It will remain cooler and drier for inland areas through Friday, with
@@ -371,6 +369,9 @@ a chance of showers and slight chance of thunderstorms.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 This afternoon...The marine layer remains about 1500 ft deep and a
 few low clouds are lingering at the beaches. Otherwise skies are
@@ -435,16 +436,18 @@ amount of moisture influx and cloud coverage.
 &&
 
 .AVIATION...
-021800Z...Coast/Valleys...SKC and VFR through this afternoon and
+030000Z...Coast/Valleys...SKC and VFR through this afternoon and
 evening. Patchy low clouds based 1400-1900 ft MSL redevelop over
-coastal areas and nearshore waters after 06z Thu. Best chance for
+coastal areas and nearshore waters after 06z. Best chance for
 intermittent cigs at coastal TAF sites will be around 12-15z. Any
-low clouds that develop will clear out again by 16-17z.
+low clouds that develop will clear out again by 16-17z, followed by
+SKC and VFR again for Thu afternoon and evening.
 
 .Mountains/Deserts...Mostly clear skies through Thursday morning.
 Breezy westerly winds mainly through mountain passes and along
-desert slopes 21-07Z. Gusts 25-40 kts with pockets of moderate
-up/downdrafts over and in lee of ridges.
+desert slopes through 07z. Gusts 25-40 kts with pockets of moderate
+up/downdrafts over and in lee of ridges. Slightly weaker winds in
+similar areas expected 20Z Thu through 07Z Fri.
 
 &&
 
@@ -458,21 +461,15 @@ through Thursday in the vicinity of San Clemente Island.
 .BEACHES...
 Southerly swells from tropical cyclones will continue this week. A
 large south swell from Tropical Storm Marie will move into the
-region Saturday, likely peaking Sunday-Monday. While there is
-uncertainty in the exact track of Marie which could result in
-differences in swell and surf direction and height, this will very
-likely result in elevated to high surf and strong rip and longshore
-currents. Maximum surf of 6-10 feet is forecast for south/southwest
-beaches. This will combine with high astronomical tides to increase
-the potential for tidal overflow and coastal flooding Saturday
-through Monday, highest chances Monday. Stay tuned as details become
-clearer in coming days.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+region Saturday, likely peaking Sunday-Monday, before diminishing
+through Tuesday. While there is uncertainty in the exact track of
+Marie which could result in differences in swell and surf direction
+and height, this will very likely result in elevated to high surf
+and strong rip and longshore currents. Maximum surf of 6-10 feet is
+forecast for south/southwest beaches. This will combine with high
+astronomical tides to increase the potential for tidal overflow and
+coastal flooding Saturday through Tuesday, highest chances Monday.
+Stay tuned as details become clearer in coming days.
 
 &&
 
@@ -485,7 +482,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
