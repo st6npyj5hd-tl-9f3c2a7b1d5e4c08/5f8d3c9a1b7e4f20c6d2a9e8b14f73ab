@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-03T15:57:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-03T20:38:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-687
-FXUS66 KSGX 031200
+537
+FXUS66 KSGX 031820
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-500 AM PDT Thu Sep 3 2026
+1120 AM PDT Thu Sep 3 2026
 
 .SYNOPSIS...
 It will remain cooler and drier for inland areas through Friday, with
@@ -371,6 +371,9 @@ valleys for Sunday afternoon.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Saturday)...
 Cooler and drier conditions will continue for inland areas through
@@ -415,16 +418,16 @@ Surf from Hurricane Marie is expected to increase on Saturday and
 Saturday night, peak on Sunday and Sunday night, then begin to
 slowly diminish on Labor Day.
 
-
 &&
 
 .AVIATION...
-031130Z...Coast/Valleys...Patchy low clouds based 1500-2000 feet MSL
-will continue this morning, with random and intermittent cigs
-through 16Z. A very similar patchy low cloud situation will develop
-tonight after 08Z into Friday.
+031800Z...Coast/Valleys...Patchy, intermittent low clouds based 1500-
+2000 feet MSL will will develop tonight after 02z into Friday.
+Clouds may briefly move into coastal San Diego Co 03-05z before
+scattering again (40% chance), with the greatest chances for 1 hour
++ impacts 11-15Z. Any clouds will clear by 16Z Fri.
 
-Mountains/Deserts...Mostly clear skies today and tonight. Breezy
+Mountains/Deserts...Mostly clear skies today and tomorrow. Breezy
 westerly winds mainly through mountain passes and along desert
 slopes 20-07Z. Gusts 25-35 kts with pockets of moderate
 up/downdrafts over and in lee of ridges.
@@ -440,13 +443,22 @@ around San Clemente Island.
 
 .BEACHES...
 A large south swell from Hurricane Marie will move into the region
-Friday night and Saturday, likely peaking Sunday-Monday, before
-diminishing Tuesday. This will likely result in elevated to high
-surf and strong rip and longshore currents. Maximum surf of 6-10
-feet is forecast for south/southwest-facing beaches. This will
-combine with high astronomical tides to increase the potential for
-tidal overflow and coastal flooding Saturday through Tuesday. Stay
-tuned as details become clearer in coming days.
+Friday night and Saturday, peaking Sunday into Monday, before
+gradually diminishing Tuesday. This will result in elevated to high
+surf and strong rip and longshore currents at majority of beaches.
+Additionally, waves will occasionally run much farther up the beach
+than expected, especially during increasing and evening high tides.
+
+For south and southwest-facing beaches, expecting high surf 6-10
+feet. This includes Orange County and north San Diego County
+beaches. For west-facing beaches, expecting elevated surf 4-7 feet.
+This includes most of southern San Diego County beaches.
+
+High surf combined with high astronomical tides 6 to about 6.5 feet
+will lead to tidal overflow and coastal flooding Saturday through
+Tuesday during evening high tides, especially for those south and
+southwest-facing beaches as well as low-lying, typically impacted
+areas.
 
 &&
 
@@ -457,15 +469,29 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
-PZ...None.
+CA...Coastal Flood Advisory from midnight Friday night to 11 PM PDT
+     Tuesday for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
+     High Surf Advisory from midnight Friday night to 11 PM PDT
+     Tuesday for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
+PZ...Coastal Flood Advisory from midnight Friday night to 11 PM PDT
+     Tuesday for Coastal Waters from San Mateo Point to the
+     Mexican Border and out to 10 nm.
+
+     High Surf Advisory from midnight Friday night to 11 PM PDT
+     Tuesday for Coastal Waters from San Mateo Point to the
+     Mexican Border and out to 10 nm.
+
 
 &&
 
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
