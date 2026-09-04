@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-04T15:54:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-04T20:24:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,27 +341,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-328
-FXUS66 KSGX 040941
+771
+FXUS66 KSGX 041838
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-241 AM PDT Fri Sep 4 2026
+1138 AM PDT Fri Sep 4 2026
 
 .SYNOPSIS...
-The center of Hurricane Marie is expected to remain well to the
-southwest of the area through the holiday weekend. Surf from Marie
-will begin to arrive tonight and is expected peak on Sunday, then
-only slowly subside for Monday into Tuesday. Mid and high level
-moisture from Marie will bring the greatest chances for showers on
-Sunday. Then warmer and gradually drier for Monday through
-Wednesday of next week.
+Patchy marine layer low clouds and fog can be expected overnight and
+in the morning as high level clouds from Tropical Cyclone Marie move
+over the area this weekend. Periods of light to locally moderate
+precipitation are possible Saturday and Sunday. There is a slight
+(10-15%) chance of thunderstorms, mainly over the San Bernardino
+Mountains and High Desert on Sunday afternoon. Warmer and drier
+conditions Monday and Tuesday. Slight chance of mountain showers
+and thunderstorms return for mid-week.
 
 &&
 
@@ -369,80 +368,65 @@ Wednesday of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
-
-.SHORT TERM (Today through Sunday)...
 Hurricane Marie remains on a track toward the west-northwest with
 the center to remain well to the southwest of the area through the
 holiday weekend. The current NHC forecast has Marie weakening to a
-tropical storm on Sunday.
+tropical storm on Sunday. The main impacts expected for Southern
+California over the weekend are increased surf, coastal flooding,
+and periods of light to locally moderate precipitation.
 
-A dry air mass remains in place across inland areas early today and
-high temperatures for inland areas will remain around 5 to 10
-degrees below average for today. High temperatures for today will
-range from the mid 70s near the coast to the mid to upper 80s for
-the Inland Empire with the lower deserts around 100.
+Mid to high level moisture from Marie will begin to increase from
+the south tonight into Saturday, increasing chances of showers
+for San Diego County. The moisture will continue to shift north
+Saturday into Sunday, increasing precipitation chances for Orange,
+Riverside, and San Bernardino Counties. For much of the area the
+most likely peak rainfall rates will be 0.20-0.40 inches per hour.
+There is a slight chance (10-15%) of thunderstorms over the San
+Bernardino mountains and High Desert Sunday afternoon. Current
+guidance indicates we`ll be on the edge of the bulk of the
+instability. If the high cloud coverage is widespread enough to
+limit heating from the sun any afternoon convection may be
+thwarted.
 
-Swell and resulting surf from Hurricane Marie will begin to
-increase for the beaches for Orange and San Diego Counties for
-tonight and Saturday with the highest surf for late Saturday night
-into Sunday evening with the the highest surf from Oceanside
-northward.
+For this weekend, high temperatures will remain below average inland
+with highs near the coast running a few degrees above average.
+Overnight lows will also return to above average for this time of
+year by Sunday. By Wednesday, high temperatures will be within a few
+degrees of average for the mountains and deserts and a few to around
+5 degrees above average for the coast and valleys. Above average low
+temperatures will be maintained into next weekend. High temperatures
+will gradually cool into next Friday.
 
-Mid and high level moisture from Marie will begin to increase
-from the south for late tonight and Saturday with a chance of
-showers for portions of San Diego County on Saturday afternoon.
-The moisture will continue to increase and spread northward for
-Saturday night and Sunday.
-
-For Sunday night and Monday, the chance for 0.25 inch or more of
-rainfall for the coast and valleys is 5 to 15 percent. For the
-mountains, the chance for 0.25 inch or more of rainfall is 20 to
-40 percent with the chance for one inch or more less than 10
-percent. Thunderstorm probabilities remain highest on Sunday
-afternoon, but are now less than 15 percent.
-
-&&
-
-.LONG TERM (Labor Day through Thursday)...
-Higher surf will continue into Labor Day, then slowly subside
-into Tuesday and Wednesday. Mid and higher level tropical
-moisture will be decreasing on Labor Day into Tuesday.
-
-Warmer nights will continue into early next week with warmer high
-temperatures for Labor Day through Wednesday as drying occurs.
-High temperatures for next Wednesday will be within a few degrees
-of average for the mountains and deserts and a few to around 5
-degrees above average for the coast and valleys.
-
-High temperatures for next Wednesday will range from around 80
-near the coast to the 90s for the Inland Empire with the lower
-deserts around 105. Low temperatures will be mostly in the mid 60s
-to lower 70s for the coast and valleys and in the mid 70s to mid
-80s for the lower deserts.
+The upper level flow turns south/southeasterly Wednesday and
+Thursday, which may allow for some additional moisture to creep into
+the area. There remains some uncertainty in the upper level pattern
+with the position of the upper level ridge over the southern US
+and a trough off the US West Coast. A more easterly position of
+the trough would result in drier conditions with a more westerly
+position of the ridge allowing more moisture into the area.
+Current forecast follows the NBM which has 20 to 35 percent chance
+of precipitation over the mountains Wednesday and Thursday
+afternoon and a slight chance of thunderstorms.
 
 &&
 
 .AVIATION...
-040930Z...Coast/Valleys...Low clouds with bases 1,800-2,200ft MSL
-have increased in coverage over the southern San Diego coast and
-have moved into portions of the San Diego Valley. Low BKN clouds
-will continue to be intermittent and extremely patchy through 15-
-16Z. Clouds clear after 16-17Z with VFR conditions through 03Z
-Saturday. Low clouds with similar bases will begin to move inland
+041800Z...Coast/Valleys...Widespread VFR conditions expected through 03Z
+Saturday. Low clouds based 1800-2400 ft MSL will begin to move inland
 after 03Z Saturday with very patchy and intermittent coverage once
-again.
+again. Any low level clouds will clear very early Sat morning,
+likely by 12Z. Mid-level clouds 8000-10000 ft MSL will move in over
+the day Saturday, bringing chances for -SHRA which are not expected
+to bring any significant cig/vis changes.
 
 Mountains/Deserts...VFR conditions prevail through the period.
-Expect high clouds developing after 02Z Saturday, increasing towards
-the end of the period. Breezy westerly winds mainly through mountain
-passes and along desert slopes. Gusts 25-35 kts with pockets of
-moderate up/downdrafts over and in lee of ridges. Winds taper off
-slightly after 12Z but will pick up again after 20Z.
+Breezy westerly winds mainly through mountain passes and along
+desert slopes. Gusts 25-35 kts with pockets of moderate
+up/downdrafts over and in lee of ridges. Winds taper off after 03Z
+Sat. Increasing mid-level clouds 8-10kft through Sat, bringing
+chances for -SHRA.
 
 &&
-
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
@@ -451,29 +435,22 @@ No hazardous marine conditions are expected through Tuesday.
 
 .BEACHES...
 A large south swell from Hurricane Marie will move into the region
-Friday night and Saturday, peaking Sunday into Monday, before
-gradually diminishing Tuesday. This will result in elevated to high
-surf and strong rip and longshore currents at majority of beaches.
+tonight and Saturday, peaking Sunday into Monday, before gradually
+diminishing Tuesday. This will result in elevated to high surf and
+strong rip and longshore currents at majority of beaches.
 Additionally, waves will occasionally run much farther up the beach
-than expected, especially during increasing and evening high tides.
+than expected, especially during increasing and high tides.
 
 For south and southwest-facing beaches, expecting high surf 6-10
 feet. This includes Orange County and north San Diego County
 beaches. For west-facing beaches, expecting elevated surf 4-7 feet.
 This includes most of southern San Diego County beaches.
 
-High surf combined with high astronomical tides 6 to about 6.5 feet
+High surf combined with high astronomical tides 6 to about 6.8 feet
 will lead to tidal overflow and coastal flooding Saturday through
 Tuesday during evening high tides, especially for those south and
 southwest-facing beaches as well as low-lying, typically impacted
 areas.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -491,8 +468,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...Villafane
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
