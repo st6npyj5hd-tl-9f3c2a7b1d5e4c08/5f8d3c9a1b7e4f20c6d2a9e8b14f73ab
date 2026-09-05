@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-04T20:24:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-05T03:25:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-771
-FXUS66 KSGX 041838
+391
+FXUS66 KSGX 050000
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1138 AM PDT Fri Sep 4 2026
+500 PM PDT Fri Sep 4 2026
 
 .SYNOPSIS...
 Patchy marine layer low clouds and fog can be expected overnight and
@@ -367,6 +367,9 @@ and thunderstorms return for mid-week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Hurricane Marie remains on a track toward the west-northwest with
 the center to remain well to the southwest of the area through the
@@ -411,20 +414,22 @@ afternoon and a slight chance of thunderstorms.
 &&
 
 .AVIATION...
-041800Z...Coast/Valleys...Widespread VFR conditions expected through 03Z
-Saturday. Low clouds based 1800-2400 ft MSL will begin to move inland
-after 03Z Saturday with very patchy and intermittent coverage once
-again. Any low level clouds will clear very early Sat morning,
-likely by 12Z. Mid-level clouds 8000-10000 ft MSL will move in over
-the day Saturday, bringing chances for -SHRA which are not expected
-to bring any significant cig/vis changes.
+050000Z...Coast/Valleys...Patchy low clouds based around 2000 ft MSL
+will develop over nearshore waters in the next few hours. Clouds
+will intermittently creep into coastal areas later, mainly from 04-
+10z Sat. Greatest chances for intermittent cigs will be in San Diego
+County (60-70% at KSAN, 40-50% at KCRQ). Any clouds clear out early
+(10-13z Sat). SCT-BKN mid-level clouds at 8-10kft move into the
+region Saturday afternoon along with a slight chance for -SHRA in
+San Diego County.
+
 
 Mountains/Deserts...VFR conditions prevail through the period.
 Breezy westerly winds mainly through mountain passes and along
 desert slopes. Gusts 25-35 kts with pockets of moderate
 up/downdrafts over and in lee of ridges. Winds taper off after 03Z
 Sat. Increasing mid-level clouds 8-10kft through Sat, bringing
-chances for -SHRA.
+slight chance for -SHRA by the afternoon, mainly in San Diego County.
 
 &&
 
@@ -454,6 +459,13 @@ areas.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory from 6 AM Saturday to 11 PM PDT Tuesday
      for Orange County Coastal Areas-San Diego County Coastal
@@ -469,7 +481,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
