@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-05T10:06:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-05T14:45:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,21 +339,23 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-090
-FXUS66 KSGX 051000
+950
+FXUS66 KSGX 051158
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-300 AM PDT Sat Sep 5 2026
+458 AM PDT Sat Sep 5 2026
 
 .SYNOPSIS...
-Patchy marine layer low clouds and fog can be expected overnight and
-in the morning as mid to high level clouds from Hurricane Marie
-move over the area this weekend. Due to this, periods of light to
+Patchy marine layer low clouds and fog can be expected this morning
+as mid to high level clouds from Hurricane Marie begin to move
+over the area by later today. Due to this, periods of light to
 locally moderate precipitation later this evening through Sunday.
 There is a slight (10-15%) chance of thunderstorms, mainly over
 the San Bernardino Mountains and High Desert on Sunday afternoon.
@@ -365,6 +367,9 @@ mountain showers and thunderstorms return for mid-week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through tomorrow night...
 
@@ -383,17 +388,17 @@ San Bernardino Mountains, tapering to lesser amounts to the south of
 San Diego County. Given the timing and position of where these bands
 of light to moderate rain establish themselves in a southwest to
 northeast orientation, the better chance of rain looks to be during
-the morning hours of Sunday with the highest PWAT values . Total
-rainfall amounts may reach over a half an inch over the San
-Bernardino Mountains, and generally 0.20 to 0.30 inches within the
-IE, with slightly lesser amounts to the coastal areas of Orange
-County, and drastically tapering off to lesser amounts over San
-Diego County (with possibly some areas over southern San Diego
-County receiving little to no precip). These bands of rain will
-eventually dissipate by later in the evening on Sunday.
+the morning hours of Sunday with the highest PWAT values overhead.
+Total rainfall amounts may reach over a half an inch over the San
+Bernardino Mountains, and generally 0.20 to 0.30 inches within
+the IE, with slightly lesser amounts to the coastal areas of
+Orange County, and drastically tapering off to lesser amounts over
+San Diego County (with possibly some areas over southern San
+Diego County receiving little to no precip). These bands of rain
+will eventually dissipate by later in the evening on Sunday.
 Temperatures will remain on the cooler side, around and slightly
-below the seasonal average for this time of year, and especially for
-tomorrow as extensive cloud cover increases over the region.
+below the seasonal average for this time of year, and especially
+for tomorrow as extensive cloud cover increases over the region.
 
 Monday through Friday...
 
@@ -416,23 +421,26 @@ throughout this next week.
 &&
 
 .AVIATION...
-050530Z...Coast/Valleys...Current;y there are some patchy low clouds
-out over the local waters with a few wafting in across the Orange
-County coast. Not expecting any significant impact with Cigs
-overnight tonight with very patchy coverage around 2,000ft MSL. Low
-clouds are not expected to push very far inland with any Cigs that
-may develop to be SCT or briefly BKN. Any low clouds will clear out
-10-13z. SCT-BKN mid-level clouds at 8-10kft move into the region
+051200Z...Coast/Valleys...Some patchy low clouds with cigs will
+remain very patchy coverage around 2,000ft MSL through this morning.
+Low clouds are not expected to push very far inland with any Cigs
+that may develop to be SCT or briefly BKN. Any low clouds will clear
+out 10-13z. SCT-BKN mid-level clouds at 8-10kft move into the region
 after 18Z along with a slight chance for -SHRA in San Diego County.
-
+Low clouds will be even more patchy for tonight into tomorrow
+morning, with increasing clouds and cigs lowering to around 6000-
+8000 ft MSL, with a slight chance of -SHRA after 12Z, and increasing
+chances thereafter throughout the rest of the forecast period.
 
 Mountains/Deserts...VFR conditions prevail through the period.
 Breezy westerly winds mainly through mountain passes and along
 desert slopes. Gusts 25-35 kts with pockets of moderate
 up/downdrafts over and in lee of ridges. Winds taper off slightly
 after 09Z. Mid-level clouds 8-10kft will increase after 18Z,
-bringing slight chance for -SHRA in the afternoon, mainly in San
-Diego County.
+bringing slight chance for -SHRA late evening, mainly in San Diego
+County initially, then Riverside and San Bernardino counties with
+higher chances of precipitation towards the end of the forecast
+period.
 
 &&
 
@@ -470,13 +478,11 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory from 6 AM this morning to 11 PM PDT
-     Tuesday for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Coastal Flood Advisory until 11 PM PDT Tuesday for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
-     High Surf Advisory from 6 AM this morning to 11 PM PDT Tuesday
-     for Orange County Coastal Areas-San Diego County Coastal
-     Areas.
+     High Surf Advisory until 11 PM PDT Tuesday for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -485,7 +491,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...Villafane
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
