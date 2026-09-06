@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-06T10:27:22+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-06T15:04:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-148
-FXUS66 KSGX 060933
+103
+FXUS66 KSGX 061152
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-233 AM PDT Sun Sep 6 2026
+452 AM PDT Sun Sep 6 2026
 
 .SYNOPSIS...
 Patchy marine layer low clouds and fog can be expected this
@@ -365,6 +367,9 @@ mountain showers and thunderstorms return for mid-week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through tomorrow night...
 
@@ -419,12 +424,12 @@ to be displaced and patchy throughout this next week.
 &&
 
 .AVIATION...
-060600Z...Coast/Valleys/Mountains...Mid/high clouds around 10,000-
+061200Z...Coast/Valleys/Mountains...Mid/high clouds around 10,000-
 20,000ft MSL currently over San Diego and eastern Riverside counties
-will continue to move across and spread north to cover the rest of
-the area by 10Z. Light showers will be possible at times, mainly in
-the mountains, through 12Z. Rain chances increase after 12Z over
-much of the area with the highest chances over Orange County, the
+will continue to increase with some lowering cigs doqn to 6000-8000
+ft MSL . Scattered light rain showers will be possible at times,
+mainly in the mountains, this morning. Rain chances increase into
+the afternoon with the highest chances over Orange County, the
 Inland Empire, the high deserts and the San Bernardino and Riverside
 County mountains 16-23Z. Isolated TSRA over mountain areas,
 especially in the San Bernardino mountains, 18Z Sunday-01Z Monday.
@@ -485,7 +490,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...Villafane
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
