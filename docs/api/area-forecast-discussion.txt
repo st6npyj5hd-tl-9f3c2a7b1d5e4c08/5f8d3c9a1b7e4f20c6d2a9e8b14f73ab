@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-07T03:25:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-07T11:49:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,23 +341,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-207
-FXUS66 KSGX 070031
+251
+FXUS66 KSGX 071129
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-531 PM PDT Sun Sep 6 2026
+429 AM PDT Mon Sep 7 2026
 
 .SYNOPSIS...
-Widespread mid to high level clouds and periods of light to locally
-moderate precipitation will taper off this evening. Warming high
-and low temperatures through the middle of next week. Slight
-chance of mountain showers and thunderstorms each afternoon
-through the middle of the week. Gradual cooling into next weekend.
+Warmer and drier conditions today with any lingering showers
+coming to an end early this morning. Warming high and low
+temperatures through the middle of next week. Slight chance of
+mountain showers and thunderstorms during the afternoon through
+Thursday. Gradual cooling will follow with drier conditions going
+into the following weekend.
 
 &&
 
@@ -365,76 +370,86 @@ through the middle of the week. Gradual cooling into next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Widespread cloud coverage is being observed associated with
-moisture from Tropical Cyclone Marie with showers expected to stop
-early this evening. Lingering moisture tomorrow and Tuesday will
-continue chances of precipitation, mainly over the mountains.
-Afternoon shower and potentially thunderstorm chances will
-continue into Thursday. A ridge of high pressure will build from
-the south for the middle of the week which will turn the upper
-level flow southeasterly. Currently Wednesday looks like the most
-likely day for showers and thunderstorms to develop over the
-mountains in the afternoon. Low confidence in details surrounding
-rainfall rates at this time. Shower and thunderstorm chances have
-decreased for Thursday, with the potential for the ridge of high
-pressure moving right over Southern California, which would result
-in a very stable air mass aloft.
+Today through tomorrow night...
 
-High temperatures Monday are expected to be 5 to 10 degrees
-warmer than today, with less cloud coverage expected. High
-temperatures will continue to increase into Wednesday for areas
-west of the mountains and Thursday for the deserts. Above average
-high and low temperatures can be expected for the majority of this
-week. Widespread minor to moderate HeatRisk is expected for
-inland areas Tuesday through Thursday.
+Latest night fog reveals that there are some areas of low patchy
+clouds out over the inner waters of the SOCAL bight, yet the coastal
+areas remain clear themselves at this hour, and will likely remain
+that way through the morning as there are still a substantial amount
+of mid to upper level clouds moving over the region. There are still
+a few lingering showers, although the majority of the rain has now
+come to an end as the moisture associated with a decaying
+Tropical Storm Marie well to our southwest continues to move west
+out of the area. Skies will begin to clear later in the day. The
+ridge in place will further build going into the middle of the
+week. Coincidentally, a warming trend will also take place, with
+highs returning to above average temperatures by tomorrow. For the
+overnight hours, there will be a struggling marine layer
+attempting to form and establish itself, and there could be areas
+of patchy fog developing within some of the higher wind-sheltered
+valleys, especially where there is antecedent soil moisture from
+recent rainfall. Lows will still be balmy as well, with humidity
+still being above average. Tomorrow will bring about further
+warming and drying.
+
+Wednesday through Sunday...
+
+As the ridge continues to build into the middle of the week,
+temperatures will warm back above the seasonal average, with highs
+peaking on Wednesday, which will find high temperatures returning
+back into the 90s for much of the inland areas, and back over 100
+within the IE. The deserts will also see temperatures reaching back
+into the 110s. This, in combination with humidity will produce some
+high heat indices for the lower elevations of the deserts. There
+will still be moisture in place that will move up clockwise around
+the high pressure centered over the Four Corners area that will keep
+a slight chance of afternoon showers and thunderstorms for the
+mountains and adjacent deserts, along with a gradual cooldown
+throughout the rest of the work week, especially on Wednesday and
+Thursday during the afternoon hours. From there, troughing is
+going to help displace mid level moisture further to the east and
+suppress the chance of afternoon showers and thunderstorms for
+the mountains and deserts. From there, further cooling will occur
+going into the following weekend with drier and breezier
+conditions. The marine layer will likely also continue to be
+displaced and patchy throughout the rest of the work week, and
+then should become more prevalent thereafter going into the
+weekend as better onshore flow returns.
 
 &&
 
 .AVIATION...
-070030Z...Coast/Valleys/Mountains...Mid/high level clouds SCT-OVC
-AOA 10,000-20,000ft will persist through the TAF period. Ongoing -SHRA
-north of San Diego County and W/N of the Coachella Valley will begin to
-taper off after 03Z Monday. SCT-BKN cigs near 5000-8000 ft beginning to
-clear out as well with high clouds and drier weather into Monday.
-
-Deserts...Mid/high level clouds SCT-OVC AOA 10,000-20,000ft will
-persist through the TAF period. -SHRA in the High Desert ending near 03Z
-Monday. Otherwise, VFR with no significant impacts expected.
+071130Z...SCT-BKN clouds mostly between 10000-20000 feet MSL today,
+thinning out tonight. Occasional -SHRA north of San Diego County
+through 19Z. Additional cumulus formation around 9000 feet MSL over
+mountains along with a slight chance of SHRA/TSRA 19-00Z. VFR
+conditions to continue into Tuesday morning.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
 .BEACHES...
-A large south swell from Hurricane Marie is set to peak into
-Monday before gradually diminishing Tuesday. This will result in
-elevated to high surf and strong rip and longshore currents at the
-majority of beaches. Additionally, waves will occasionally run much
-farther up the beach than expected, especially during increasing and
-high tides.
-
-For south and southwest-facing beaches, expecting high surf 6-10
-feet. This includes Orange County and north San Diego County
-beaches. For west-facing beaches, expecting elevated surf 4-7 feet.
-This includes most of southern San Diego County beaches.
-
-High surf combined with high astronomical tides 6.2 to about 6.8
-feet will lead to tidal overflow and coastal flooding through
-Tuesday during evening high tides, especially for south and
-southwest-facing beaches as well as low-lying areas.
+A large south swell from Hurricane Marie will continue to produce
+large surf of 4 to 7 feet, with sets up to 10 feet this morning,
+highest on south and southwest facing beaches. This will result in
+elevated to high surf and strong rip and longshore currents,
+creating hazardous swimming conditions. Additionally, high tides
+during the evenings will combine with the high surf to produce minor
+tidal overflow, coastal flooding, and localized beach erosion. Swell
+and surf will gradually diminish later today through Tuesday. Check
+the Coastal Hazard Message for details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -451,8 +466,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...APR
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
