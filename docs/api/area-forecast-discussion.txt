@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-06T20:06:01+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-07T03:25:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,22 +344,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-743
-FXUS66 KSGX 061824
+207
+FXUS66 KSGX 070031
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1124 AM PDT Sun Sep 6 2026
+531 PM PDT Sun Sep 6 2026
 
 .SYNOPSIS...
 Widespread mid to high level clouds and periods of light to locally
-moderate precipitation will continue today. There is a slight (5-
-10%) chance of thunderstorms, mainly over the San Bernardino
-Mountains and High Desert this afternoon. Warming high and low
-temperatures through the middle of next week. Slight chance of
-mountain showers and thunderstorms each afternoon through the
-middle of the week. Gradual cooling into next weekend.
+moderate precipitation will taper off this evening. Warming high
+and low temperatures through the middle of next week. Slight
+chance of mountain showers and thunderstorms each afternoon
+through the middle of the week. Gradual cooling into next weekend.
 
 &&
 
@@ -367,29 +365,23 @@ middle of the week. Gradual cooling into next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Widespread cloud coverage is being observed this morning associated
-with moisture from Tropical Cyclone Marie. Light to locally moderate
-showers have been observed across much of the area through the
-morning, with the bulk of the rain at 11 AM north of San Diego
-County. There remains a 5 to 10 percent chance of thunderstorms over
-the San Bernardino Mountains and High Desert this afternoon. Current
-forecast has an additional 0.30 to 0.50 inches of rain accumulating
-over the San Bernardino Mountains, with an additional 0.05 to 0.15
-inches elsewhere north of San Diego County. Less than 0.05 inches of
-additional rain are expected for San Diego County.
 
-Lingering moisture tomorrow and Tuesday will continue chances of
-precipitation, mainly over the mountains. Afternoon shower and
-potentially thunderstorm chances will continue into Thursday. A
-ridge of high pressure will build from the south for the middle of
-the week which will turn the upper level flow southeasterly.
-Currently Wednesday looks like the most likely day for showers and
-thunderstorms to develop over the mountains in the afternoon. Low
-confidence in details surrounding rainfall rates at this time.
-Shower and thunderstorm chances have decreased for Thursday, with
-the potential for the ridge of high pressure moving right over
-Southern California, which would result in a very stable air mass
-aloft.
+...UPDATED AVIATION DISCUSSION...
+
+Widespread cloud coverage is being observed associated with
+moisture from Tropical Cyclone Marie with showers expected to stop
+early this evening. Lingering moisture tomorrow and Tuesday will
+continue chances of precipitation, mainly over the mountains.
+Afternoon shower and potentially thunderstorm chances will
+continue into Thursday. A ridge of high pressure will build from
+the south for the middle of the week which will turn the upper
+level flow southeasterly. Currently Wednesday looks like the most
+likely day for showers and thunderstorms to develop over the
+mountains in the afternoon. Low confidence in details surrounding
+rainfall rates at this time. Shower and thunderstorm chances have
+decreased for Thursday, with the potential for the ridge of high
+pressure moving right over Southern California, which would result
+in a very stable air mass aloft.
 
 High temperatures Monday are expected to be 5 to 10 degrees
 warmer than today, with less cloud coverage expected. High
@@ -402,20 +394,15 @@ inland areas Tuesday through Thursday.
 &&
 
 .AVIATION...
-061800Z...Coast/Valleys/Mountains...Mid/high level clouds SCT-OVC
-AOA 10,000-20,000ft will persist through the TAF period. Ongoing -RA
-for Orange and Riverside counties, spreading into San Bernardino
-County currently. Intermittent VIS down to 2-4SM with -RA. VCSH
-elsewhere, clearing San Diego County over the next two hours.
-Highest rain expected in SB Mountains. Generally light winds below
-10 mph. BKN050 or lower with any -RA. Isolated TSRA over mountain
-areas, especially in the SB mountains, through 00z Mon.
-Precipitation will end after 03z.
+070030Z...Coast/Valleys/Mountains...Mid/high level clouds SCT-OVC
+AOA 10,000-20,000ft will persist through the TAF period. Ongoing -SHRA
+north of San Diego County and W/N of the Coachella Valley will begin to
+taper off after 03Z Monday. SCT-BKN cigs near 5000-8000 ft beginning to
+clear out as well with high clouds and drier weather into Monday.
 
 Deserts...Mid/high level clouds SCT-OVC AOA 10,000-20,000ft will
-persist through the TAF period. VCSH through 22z with instances of
--SHRA in the High Desert. Otherwise, VFR with no significant impacts
-expected.
+persist through the TAF period. -SHRA in the High Desert ending near 03Z
+Monday. Otherwise, VFR with no significant impacts expected.
 
 &&
 
@@ -425,7 +412,7 @@ No hazardous marine conditions are expected through Thursday.
 &&
 
 .BEACHES...
-A large south swell from Hurricane Marie is set to peak today into
+A large south swell from Hurricane Marie is set to peak into
 Monday before gradually diminishing Tuesday. This will result in
 elevated to high surf and strong rip and longshore currents at the
 majority of beaches. Additionally, waves will occasionally run much
@@ -465,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...APR
 
 
 </pre>
