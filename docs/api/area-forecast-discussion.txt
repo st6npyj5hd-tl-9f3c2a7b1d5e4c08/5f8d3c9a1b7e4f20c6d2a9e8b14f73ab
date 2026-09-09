@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-09T03:35:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-09T10:53:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -335,27 +335,30 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=35&glossary=0">35</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-310
-FXUS66 KSGX 090035
+863
+FXUS66 KSGX 090943
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-535 PM PDT Tue Sep 8 2026
+243 AM PDT Wed Sep 9 2026
 
 .SYNOPSIS...
-The ongoing heatwave in San Diego County will spread to
-include all of Southern California from now through Thursday. A
-combination of above average temperatures and high humidity will
-create major to extreme heatRisk through the coastal basin.
-Moderate to locally major HeatRisk expected elsewhere. A cooling
-trend starting Friday will bring temperatures back to near or
-slightly below normal from Sunday onward. Scattered thunderstorms
-expected in the mountains this afternoon. Only a slight chance for
-showers or storms Wednesday and Thursday.
+The heat and humidity is expected to peak for the coast and
+valleys today with Extreme HeatRisk for portions of the coast into
+the western valleys. Gradual cooling of high temperatures will
+begin to spread inland on Thursday and Friday and will continue to
+spread inland through Sunday with not much change for Monday and
+Tuesday of next week. A tropical air mass will remain in place
+into Friday, then much drier for inland areas for this weekend
+through Tuesday with are turn of the marine layer for coastal
+areas. There is a  chance for showers and thunderstorms for this
+afternoon and a slight chance of showers for Thursday afternoon.
 
 &&
 
@@ -363,80 +366,86 @@ showers or storms Wednesday and Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Friday)...
+There were showers and thunderstorms on Tuesday afternoon with the
+heavier rainfall mostly tied to peak heating during the mid
+and late afternoon though there was some isolated development
+less tied to terrain. For Riverside and San Diego Counties,
+development was generally on convergence boundaries on the coastal
+slopes of the mountains with a slow drift of the thunderstorms
+toward the northwest. Rainfall near the core of the thunderstorms
+was generally 0.25 to 0.5 inch, locally exceeding one inch. There
+was a thunderstorm wind gust to 61 mph at 5:20 PM on Tuesday near
+Rainbow near the pass along Interstate 15 between Riverside and
+San Diego Counties.
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+It is once again a very warm night with temperatures at 2 AM of 5
+to as much as 10 degrees warmer than 24 hours ago for the valleys
+and inland coastal areas with temperatures for the coast and
+valleys mostly in the 70s and 80s.
 
-A number of factors came together to create a scorching afternoon in
-San Diego County yesterday. First, the tropical moisture that has
-been funneling into the region for a few days effectively wiped out
-any cooling marine layer influence. Also, subsidence was likely
-sourced from multiple locations yesterday; the building high
-pressure to the east and the compensating sinking air associated
-with the shower activity over Orange County and areas further north.
+Today will once again be a very hot and humid day for the coast
+and valleys. High temperatures will range from the mid 80s to
+lower 90s near the beaches to 104 to 110 for the Inland Empire
+with 110 to 114 for the lower deserts with Extreme HeatRisk for
+portions of the coast and western valleys. There were a number of
+locations near the Orange County coast on Tuesday where the
+temperature warmed to around 95 to 100 during the early afternoon.
+When a weak seabreeze arrived in the afternoon, surface dewpoints
+increased into the mid 70s with heat index values increasing to
+around 110.
 
-As high pressure continues to build into Southern California,
-tropical clouds and showers will be pushed northward and
-anomalously hot conditions will expand to include the entire
-region from today through Thursday. Additionally, southeasterly
-flow today and Wednesday will bring exceptionally high humidity to
-the region, which will not only exacerbate the heat during the
-day, but will also limit the amount of cooling expected overnight.
-High and low temperatures running around 5 to 15 (locally 20)
-degrees above normal along with high humidity will create major to
-extreme HeatRisk throughout the coastal basin today and
-Wednesday. Similarly anomalous temperatures will create moderate
-HeatRisk in the mountains and deserts with areas of major HeatRisk
-in the low deserts. Note that this set up will be particularly
-anomalous and uncomfortable for coastal areas where the typical
-marine layer influence will be weak or absent. It is advised to
-seek shelter in air-conditioned buildings and stay hydrated during
-this heatwave.
+Low temperatures for the coast and valleys for today and Thursday
+will be mostly in the 70s with the most likely recordsetting
+temperatures for record warm overnight temperatures. Cooling of
+high temperatures of a few degrees will begin to spread inland
+into the coast and valleys on Thursday and again on Friday.
 
-As flow turns more southerly today, there will be sufficient
-moisture for isolated to scattered monsoon showers and thunderstorms
-along the mountain ridges from San Diego County northward up through
-the Big Bear Lake area. The morning sounding at KNKX recorded PWATs
-around 1.8 inches, but modest CAPE values and capping will limit how
-much of that moisture can be realized as precipitation. Still,
-thunderstorms may locally produce rain rates over 0.5" per hour
-along with gusty winds, mainly in San Diego County. As high pressure
-moves overhead on Wednesday, mountain thunderstorm chances will
-become quite limited (10-20%). Further capping on Thursday may
-inhibit any shower or storm development entirely.
+&&
 
-The high pressure slowly begins to weaken from Thursday onward.
-Moderate to major HeatRisk is expected to linger through Thursday
-across the region and into Friday for the deserts. Thereafter,
-temperatures continue to cool over the weekend, returning to near or
-slightly below normal from Sunday onward. Additionally, marine layer
-clouds will finally return beginning on Friday or Saturday.
-Increasing onshore flow will allow the marine layer to deepen into
-early next week.
+.LONG TERM (Saturday through Tuesday)...
+Substantial drying aloft is expected for Saturday and Sunday.
+Precipitable water values exceeding 1.5 inch into Friday will
+decrease to around 1.25 inch on Saturday and 0.75 inch for Sunday
+through Tuesday.
+
+In addition to the drying aloft, high temperatures on Saturday
+will cool a few to around 5 degrees with another few degrees of
+cooling on Sunday with slight day to day differences for Sunday
+through Tuesday. High temperatures for Sunday through Tuesday will
+be a few degrees below average at lower elections to around 4 to
+8 degrees below average for the inland valleys. High temperatures
+for Sunday through Tuesday will range from the 70s near the coast
+to the mid 80s to lower 90s for the Inland Empire with 100 to 104
+for the lower deserts.
+
+Nights will be cooler by Sunday and Monday with low pressure on
+Sunday and Monday mostly in the 50s for the inland valleys and in
+the 60s for coastal areas into the western valleys.
 
 &&
 
 .AVIATION...
-090030Z...Mostly VFR conditions expected across the region through
-the TAF period with SCT to locally BKN clouds between 10-20 kft. CBs
-based at 9 kft MSL leading to isolated SHRA/TSRA over mountains with
-tops to 35 kft through 02Z. Localized gusty winds and heavy rain in
-and near any TSRA.
+090530Z...Mostly VFR conditions expected across the region through
+Wednesday with SCT to locally BKN clouds between 10-20 kft. CBs
+based at 9 kft MSL leading to some SHRA/TSRA mainly over mountains,
+but locally into deserts or inland valleys 19-01Z Wednesday. Tops
+will reach 35 kft. Localized gusty winds and heavy rain in and near
+any TSRA.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
-
+ at 2 AM
 &&
 
 .BEACHES...
-High tides (peaking near 7 ft) this evening combined with surf of 3
-to 6 feet, with sets up to 8 feet, may produce minor tidal overflow,
-coastal flooding, and localized beach erosion. Additionally the
-elevated surf will generate strong rip and longshore currents,
-creating hazardous swimming conditions. Swell and surf will
-gradually diminish into Wednesday. Check the Coastal Hazard Message
-for details.
+High tides peaking near 7 feet this evening and again Wednesday
+evening could produce minor tidal overflow, coastal flooding, and
+localized beach erosion. The surf has diminished and will not
+continue to pose a hazard. Check the Coastal Hazard Message for
+details.
 
 &&
 
@@ -448,19 +457,16 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning until 8 PM PDT Wednesday for Orange County
-     Coastal Areas-Orange County Inland Areas-San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Coastal Areas-San Diego County Valleys-Santa Ana Mountains
-     and Foothills.
+CA...Extreme Heat Warning until 8 PM PDT this evening for Orange
+     County Coastal Areas-Orange County Inland Areas-San
+     Bernardino and Riverside County Valleys-The Inland Empire-
+     San Diego County Coastal Areas-San Diego County Valleys-
+     Santa Ana Mountains and Foothills.
 
-     Coastal Flood Advisory until 11 PM PDT Wednesday for Orange
+     Coastal Flood Advisory until 11 PM PDT this evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     High Surf Advisory until 11 PM PDT this evening for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Heat Advisory from 8 PM Wednesday to 8 PM PDT Thursday for
+     Heat Advisory from 8 PM this evening to 8 PM PDT Thursday for
      Orange County Coastal Areas-Orange County Inland Areas-San
      Bernardino and Riverside County Valleys-The Inland Empire-
      San Diego County Coastal Areas-San Diego County Valleys-
@@ -469,9 +475,9 @@ CA...Extreme Heat Warning until 8 PM PDT Wednesday for Orange County
      Heat Advisory until 8 PM PDT Thursday for Riverside County
      Mountains-San Diego County Mountains.
 
-     Extreme Heat Warning from 10 AM Wednesday to 8 PM PDT Friday for
-     Coachella Valley-San Diego County Deserts-San Gorgonio Pass
-     near Banning.
+     Extreme Heat Warning from 10 AM this morning to 8 PM PDT Friday
+     for Coachella Valley-San Diego County Deserts-San Gorgonio
+     Pass near Banning.
 
 PZ...None.
 
@@ -479,8 +485,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE/BEACHES...CO/SW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
