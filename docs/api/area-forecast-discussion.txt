@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-09T10:53:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-09T16:05:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -340,13 +340,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-863
-FXUS66 KSGX 090943
+860
+FXUS66 KSGX 091129
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-243 AM PDT Wed Sep 9 2026
+409 AM PDT Wed Sep 9 2026
 
 .SYNOPSIS...
 The heat and humidity is expected to peak for the coast and
@@ -356,15 +356,17 @@ begin to spread inland on Thursday and Friday and will continue to
 spread inland through Sunday with not much change for Monday and
 Tuesday of next week. A tropical air mass will remain in place
 into Friday, then much drier for inland areas for this weekend
-through Tuesday with are turn of the marine layer for coastal
-areas. There is a  chance for showers and thunderstorms for this
-afternoon and a slight chance of showers for Thursday afternoon.
+through Tuesday with a return of the marine layer for coastal areas.
+There is a  chance for showers and thunderstorms for this afternoon
+and a slight chance of showers for Thursday afternoon.
 
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 There were showers and thunderstorms on Tuesday afternoon with the
@@ -396,7 +398,7 @@ increased into the mid 70s with heat index values increasing to
 around 110.
 
 Low temperatures for the coast and valleys for today and Thursday
-will be mostly in the 70s with the most likely recordsetting
+will be mostly in the 70s with the most likely record-setting
 temperatures for record warm overnight temperatures. Cooling of
 high temperatures of a few degrees will begin to spread inland
 into the coast and valleys on Thursday and again on Friday.
@@ -413,7 +415,7 @@ In addition to the drying aloft, high temperatures on Saturday
 will cool a few to around 5 degrees with another few degrees of
 cooling on Sunday with slight day to day differences for Sunday
 through Tuesday. High temperatures for Sunday through Tuesday will
-be a few degrees below average at lower elections to around 4 to
+be a few degrees below average at lower elevations to around 4 to
 8 degrees below average for the inland valleys. High temperatures
 for Sunday through Tuesday will range from the 70s near the coast
 to the mid 80s to lower 90s for the Inland Empire with 100 to 104
@@ -426,33 +428,29 @@ the 60s for coastal areas into the western valleys.
 &&
 
 .AVIATION...
-090530Z...Mostly VFR conditions expected across the region through
-Wednesday with SCT to locally BKN clouds between 10-20 kft. CBs
-based at 9 kft MSL leading to some SHRA/TSRA mainly over mountains,
-but locally into deserts or inland valleys 19-01Z Wednesday. Tops
-will reach 35 kft. Localized gusty winds and heavy rain in and near
-any TSRA.
+091130Z...Mostly VFR conditions expected across the region today
+and tonight with SCT-BKN clouds between 10-20 kft. CBs based at 9
+kft MSL with tops reaching to 35 kft will lead to some SHRA/TSRA
+mainly over mountains, but locally into deserts or inland valleys
+19-01Z. Localized gusty winds and heavy rain in and near any TSRA.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
- at 2 AM
+
 &&
 
 .BEACHES...
-High tides peaking near 7 feet this evening and again Wednesday
-evening could produce minor tidal overflow, coastal flooding, and
-localized beach erosion. The surf has diminished and will not
-continue to pose a hazard. Check the Coastal Hazard Message for
-details.
+High tides peaking near 7 feet this evening could produce tidal
+overflow, coastal flooding, and localized beach erosion. Check the
+Coastal Hazard Message for details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
