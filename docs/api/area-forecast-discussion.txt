@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-09T20:35:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-10T03:33:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -337,18 +337,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=36&glossary=0">36</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-273
-FXUS66 KSGX 092019
+232
+FXUS66 KSGX 092346
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-119 PM PDT Wed Sep 9 2026
+446 PM PDT Wed Sep 9 2026
 
 .SYNOPSIS...
 Another very hot and humid day is on tap for Southern California
@@ -370,13 +368,16 @@ afternoon breezes for the mountains and deserts.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
+...UPDATED AVIATION DISCUSSION...
+
 The stage has been set for another dangerously hot and humid
 afternoon and evening in Southern California. Several locations
 in the coastal basin astonishingly did not drop below 80 degrees
 this morning. Strong upper ridging is peaking today and tonight
 with 500 mb heights around 595-596 mb. Also, surface analysis
 reveals a thermal trough sitting near or just offshore as of this
-morning, which will hinder the attemps of the seabreeze to cool
+morning, which will hinder the attempt of the seabreeze to cool
 the coastal basin. Temperatures this afternoon are currently
 ranging from 100-110 for inland areas and generally in the 90s
 near the coast. The combination of heat and humidity have pushed
@@ -424,27 +425,20 @@ over the weekend. By late next week model solutions diverge, but
 the mean of the guidance tilts toward high pressure and monsoonal
 moisture building back into the region from the east.
 
-
 &&
 
-.AVIATION... 091800Z...Mostly VFR conditions expected across the
-region through Thursday morning with SCT-BKN clouds between 10-20
-kft. CBs based at 9 kft MSL with tops reaching to 35 kft will lead
-to some SHRA/TSRA mainly over mountains, but locally into deserts or
-inland valleys 19-01Z. Localized gusty winds and heavy rain in and
-near any TSRA.
+.AVIATION... 092345Z...Mostly VFR conditions expected across the
+region through Thursday afternoon with SCT-BKN clouds between 10-20
+kft. ISO SHRA/TSRA possible over mountains and eastern inland
+valleys through 03z Thu. SCT SHRA/TSRA expected again after 19z
+Thursday afternoon over mountain peaks and desert slopes; CB`s based
+8-12 kft MSL. Localized gusty winds and heavy rain in and near any
+TSRA.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Sunday.
-
-&&
-
-.BEACHES...
-High tides peaking near 7 feet this evening could produce tidal
-overflow, coastal flooding, and localized beach erosion. Check the
-Coastal Hazard Message for details.
 
 &&
 
@@ -456,20 +450,14 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory until 11 PM PDT this evening for Orange
+CA...Extreme Heat Warning until 8 PM PDT Thursday for Orange County
+     Coastal Areas-Orange County Inland Areas-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Coastal Areas-San Diego County Valleys-Santa Ana Mountains
+     and Foothills.
+
+     Coastal Flood Advisory until 11 PM PDT this evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Orange
-     County Coastal Areas-Orange County Inland Areas-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Coastal Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
-
-     Heat Advisory from 8 PM this evening to 8 PM PDT Thursday for
-     Orange County Coastal Areas-Orange County Inland Areas-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Coastal Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
 
      Heat Advisory until 8 PM PDT Thursday for Riverside County
      Mountains-San Diego County Mountains.
@@ -484,7 +472,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE...Westerink
 
 
 </pre>
