@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T10:46:15+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T16:01:54+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,16 +341,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-757
-FXUS66 KSGX 110946
+752
+FXUS66 KSGX 111049
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-246 AM PDT Fri Sep 11 2026
+349 AM PDT Fri Sep 11 2026
 
 .SYNOPSIS...
 Drying and gradual cooling is expected through the weekend with
@@ -366,6 +368,8 @@ week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Sunday)...
 High pressure over southern California will weaken as a low
@@ -425,14 +429,14 @@ is expected to continue for Monday through Thursday of next week.
 &&
 
 .AVIATION...
-110530Z...Coast...Patchy low clouds and fog will gradually develop
-overnight with bases around 600-900 feet MSL and vis 1-5SM, lowest
-on coastal mesas. Cigs most likely 10-16Z, and around KSAN. Low
-clouds to return after 02Z Friday eve with more uniform and
-expansive coverage. Bases around 900-1200 feet MSL.
+111100Z...Coast...Patchy low clouds with bases around 600-900 feet
+MSL and local vis 3-5SM, lowest on coastal mesas, will continue
+through 16Z. Cigs most likely around KSAN. Low clouds to return
+after 02Z with more uniform and expansive coverage. Bases around 900-
+1200 feet MSL.
 
-Otherwise, SCT clouds above 15 kft and VFR conditions through Friday
-with cumulus clouds around 10 kft over mountains 19-00Z.
+Otherwise, SCT clouds above 15 kft and VFR conditions today and
+tonight, with cumulus clouds around 10 kft over mountains 19-00Z.
 
 &&
 
