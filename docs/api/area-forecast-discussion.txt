@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T16:01:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T20:37:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,22 +346,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-752
-FXUS66 KSGX 111049
+133
+FXUS66 KSGX 111836
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-349 AM PDT Fri Sep 11 2026
+1136 AM PDT Fri Sep 11 2026
 
 .SYNOPSIS...
-Drying and gradual cooling is expected through the weekend with
-HeatRisk for most areas below Moderate by the end of the weekend.
-Patchy night and morning coastal low clouds will increase in
-coverage and spread locally into the western valleys at times for
-the weekend into early next week. High pressure to the east is
-expected to bring a warming trend for the latter half of next
-week.
+A cooling and drying trend will occur across the region into the
+weekend and early next week. This will be accompanied by a building
+marine layer with clouds returning closer to the coastal areas each
+night and morning. An area of high pressure may strengthen by the
+end of next week, nudging temperatures back above average.
 
 &&
 
@@ -369,71 +367,46 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+High pressure continues to weaken over the region today with
+stronger onshore flow seen at current observations. This has allowed
+for a deepening marine layer, where some places along the coast saw
+low clouds and patchy fog earlier this morning. Looking toward the
+lunch hour, temperatures a relatively cooler with highs in the 70s
+to near 90 west of the mountains. Elevated westerly winds will also
+be felt across the mountains and deserts with wind gusts 20-40 MPH.
 
-.SHORT TERM (Today through Sunday)...
-High pressure over southern California will weaken as a low
-pressure system moves southward off the British Columbia coast
-today and inland through the Pacific Northwest on Saturday. This
-will strengthen the onshore flow across southern California with
-drier southwest flow aloft. Cooling began to spread inland on
-Thursday and that will continue through the weekend. High
-temperatures will be a few degrees cooler for most areas for today
-and again on Saturday with a little greater cooling for the
-valleys of around 5 degrees on Sunday.
+An area of low pressure off the west coast of British Columbia will
+continue to push southward today, eventually moving into the Pacific
+Northwest this weekend. This weather pattern will help bring in more
+cooler air and greater extent to the marine layer into far western
+valleys. We can expect to cool a few degrees each day with breezy
+westerly winds across the mountains and deserts each afternoon and
+evening. Temperatures will be near average by the weekend, with
+highs dipping below average by next Monday and Tuesday.  High
+temperatures may stay below 90 degrees for areas west of the
+mountains with highs closer to 100 degrees over the Coachella
+Valley. Low temperatures will also begin to cool off through early
+next week as well with lows in the 50s and 60s along and west of the
+mountains and up in the high desert.
 
-High temperatures for today will still be 5 to locally 10 degrees
-above average with high temperatures ranging from the upper 70s to
-mid 80s near the coast to the 90s for the Inland Empire with 106
-to 110 for the lower deserts. While not quite as hot as recent
-days, Moderate HeatRisk will continue for the valleys and inland
-coastal areas and a Heat Advisory has been issued for these areas
-through 8 PM today.
+High pressure over the Southern Plains may expand further into the
+desert southwest by the end of next week. The placement and strength
+of this system is still uncertain, but many models are hinting that
+another subtle warm up may take place by this time. NBM shows highs
+approaching 100 across inland valleys with 70s and 80s closer to the
+coast and across the mountains.
 
-For Sunday, high temperatures near the coast will be near average
-with the lower deserts a few degrees above average with the
-valleys around 5 degrees below average. High temperatures on
-Sunday will range from the mid to upper 70s near the coast to the
-upper 80s and lower 90s for the Inland Empire with 102 to 106 for
-the lower deserts.
-
-Low temperatures will cool as the atmosphere cools and inland
-areas dry with low temperatures on Sunday still a few degrees
-above average for the coast into the valleys and around 5 degrees
-above average for the mountains and deserts. Low temperatures on
-Sunday for the coast and valleys will be mostly in the 60s with a
-few of the cooler protected valleys in the mid 50s.
-
-With drying of mid and higher level moisture, patchy night and
-morning coastal low clouds will increase in coverage and spread
-locally into the far western valleys at times over the weekend as
-the marine layer slowly deepens.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-Low pressure near the California will weaken early next week. High
-pressure to the east may begin to expand across the area for the
-latter half of next week. Temperatures will continue to cool for
-early next week with Tuesday high temperatures ranging from the
-70s near the coast to the 80s for the Inland Empire with the lower
-deserts around 100. This will be followed by a warming trend for
-Wednesday through Friday of next week, but with increase spread
-in just how much warming may occur. The NBM 50th percentile would
-warm temperatures to around average for Friday of next week with
-high temperatures for next Friday ranging from the mid 70s to
-lower 80s near the coast to the upper 80s and lower 90s for the
-Inland Empire with 100 to 104 for the lower deserts. Dry weather
-is expected to continue for Monday through Thursday of next week.
 
 &&
 
 .AVIATION...
-111100Z...Coast...Patchy low clouds with bases around 600-900 feet
-MSL and local vis 3-5SM, lowest on coastal mesas, will continue
-through 16Z. Cigs most likely around KSAN. Low clouds to return
-after 02Z with more uniform and expansive coverage. Bases around 900-
-1200 feet MSL.
+111800Z...Coasts...Patchy low clouds based around 1000ft continue to
+stream up from the S-SE within a coastal eddy with low clouds just
+offshore at KSAN and along the beaches of Orange County late this
+morning. Low clouds to return after 02z Saturday with more uniform
+and expansive coverage. Bases initially around 800-1000ft MSL should
+lift to 1000-1400 feet MSL after 06z Saturday. CIGs expected to
+scatter out and pull back offshore/to the beaches by 16-17z Saturday.
 
 Otherwise, SCT clouds above 15 kft and VFR conditions today and
 tonight, with cumulus clouds around 10 kft over mountains 19-00Z.
@@ -442,12 +415,6 @@ tonight, with cumulus clouds around 10 kft over mountains 19-00Z.
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -467,8 +434,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...APR
+AVIATION/MARINE...Munyan
 
 
 </pre>
