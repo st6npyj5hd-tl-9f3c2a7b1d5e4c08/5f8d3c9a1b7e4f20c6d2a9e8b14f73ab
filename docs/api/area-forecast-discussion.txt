@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-10T20:30:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T03:30:55+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,18 +341,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-132
-FXUS66 KSGX 101902
+857
+FXUS66 KSGX 110053
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1202 PM PDT Thu Sep 10 2026
+553 PM PDT Thu Sep 10 2026
 
 .SYNOPSIS...
 The hot and humid high pressure system over the desert southwest
@@ -362,7 +360,7 @@ next few days as an area of low pressure is expected to move
 through the West Coast by the weekend. Monsoonal moisture hangs on
 for one more day this afternoon with a slight chance of
 thunderstorms across the mountains and adjacent deserts. The weak
-troughing pattern will stick around into at leat the first half
+troughing pattern will stick around into at least the first half
 of next week, bringing a deeper marine layer and cooler weather.
 
 &&
@@ -370,6 +368,9 @@ of next week, bringing a deeper marine layer and cooler weather.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Another hot day out there as high pressure continues to dominate
 the desert southwest. Weakening is seen in this system today
@@ -409,21 +410,33 @@ average with dry weather.
 &&
 
 .AVIATION...
-101815Z...VFR conditions expected across the region through this
-evening, with FEW clouds between 10-20 kft and SCT cumulus over
-mountains. ISO SHRA/TSRA over mountains and near desert slopes 19-
-00Z, with CB clouds based 8-12 kft MSL and tops rising to 30 kft.
-Localized gusty winds and heavy rain in and near any TSRA. Areas of
-coastal low clouds based 600-1000 ft MSL and fog will gradually
-increase after 07Z Friday, with cigs most likely 11-16Z Friday in
-vcnty KSAN and patchy cigs 13-16z in vcnty KCRQ. Vis 1-5SM over
-higher coastal terrain. FG and vis 0-1SM locally in valleys east of
-I-15 (SD County) above 600 ft MSL. Scatter out 16-18z Fri.
+110045Z...Cumulus, mid-level clouds and ISO SHRA/TSRA are
+dissipating over the mountains and desert slopes through 02z.
+
+Confidence is increasing that bases will be low and visibility will
+be reduced for SD county coastal areas, especially South County
+tonight. Clouds begin developing in these areas by 06z, increasing
+in coverage through 10z, then lingering up to a few miles inland of
+the coast through 15z, then scattering out through 17z. Low
+confidence on precise bases - likely between 300-800 ft MSL. Coastal
+mesas within a few miles of the coast could experience patchy FG and
+VIS 0-1SM (~40% chance), including vcnty KCRQ (12-15z); vis down to
+1-5SM for areas around sea level, including vcnty KSAN (10-15z).
+
+Otherwise, mostly SKC and VFR through the TAF period with FEW clouds
+above 15 kft.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
