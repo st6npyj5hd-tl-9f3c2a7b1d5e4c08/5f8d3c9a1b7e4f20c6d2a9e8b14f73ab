@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T03:30:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T10:46:15+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,24 +344,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-857
-FXUS66 KSGX 110053
+757
+FXUS66 KSGX 110946
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-553 PM PDT Thu Sep 10 2026
+246 AM PDT Fri Sep 11 2026
 
 .SYNOPSIS...
-The hot and humid high pressure system over the desert southwest
-will continue to weaken into the weekend. Hot conditions this
-afternoon will bring a cooling trend with lower humidity over the
-next few days as an area of low pressure is expected to move
-through the West Coast by the weekend. Monsoonal moisture hangs on
-for one more day this afternoon with a slight chance of
-thunderstorms across the mountains and adjacent deserts. The weak
-troughing pattern will stick around into at least the first half
-of next week, bringing a deeper marine layer and cooler weather.
+Drying and gradual cooling is expected through the weekend with
+HeatRisk for most areas below Moderate by the end of the weekend.
+Patchy night and morning coastal low clouds will increase in
+coverage and spread locally into the western valleys at times for
+the weekend into early next week. High pressure to the east is
+expected to bring a warming trend for the latter half of next
+week.
 
 &&
 
@@ -369,67 +367,77 @@ of next week, bringing a deeper marine layer and cooler weather.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Sunday)...
+High pressure over southern California will weaken as a low
+pressure system moves southward off the British Columbia coast
+today and inland through the Pacific Northwest on Saturday. This
+will strengthen the onshore flow across southern California with
+drier southwest flow aloft. Cooling began to spread inland on
+Thursday and that will continue through the weekend. High
+temperatures will be a few degrees cooler for most areas for today
+and again on Saturday with a little greater cooling for the
+valleys of around 5 degrees on Sunday.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures for today will still be 5 to locally 10 degrees
+above average with high temperatures ranging from the upper 70s to
+mid 80s near the coast to the 90s for the Inland Empire with 106
+to 110 for the lower deserts. While not quite as hot as recent
+days, Moderate HeatRisk will continue for the valleys and inland
+coastal areas and a Heat Advisory has been issued for these areas
+through 8 PM today.
 
-Another hot day out there as high pressure continues to dominate
-the desert southwest. Weakening is seen in this system today
-though, as observations show better onshore flow closer to the
-coast. This is keeping temperatures a bit cooler than at this
-time yesterday with more places in the 80s instead of the 90s, so
-the high temperature forecast may be overdone in some places. One
-last chance for thunderstorms will occur later this afternoon
-across the mountain spine from the Mexican border to Big Bear, as
-well as some of the desert areas. Chances for precip range from
-20-40 percent.
+For Sunday, high temperatures near the coast will be near average
+with the lower deserts a few degrees above average with the
+valleys around 5 degrees below average. High temperatures on
+Sunday will range from the mid to upper 70s near the coast to the
+upper 80s and lower 90s for the Inland Empire with 102 to 106 for
+the lower deserts.
 
-A troughing pattern begins to develop over the West Coast by
-Friday, which will help weaken the high pressure system further
-and bring in more cooling. High temperatures were raised slightly
-from the previous forecast, but still shows a steeper decline in
-temperatures mainly west of the mountains from 5-10 degrees cooler
-than today. A stronger low pressure system develops from this
-troughing pattern to the north, swinging through the Pacific
-Northwest this weekend. This will bring further cooling to our
-region with temperatures lowering closer to normal for the middle
-of September. Welcome highs in the 80s/90s for western valleys,
-most mountain areas, and locales in the high desert can be
-expected. Overnight temperatures and humid conditions will also
-decrease into the weekend as well as drier southwest flow moves
-into our area. Morning temperatures in the 70s will be replaced
-with 60s west of the mountains making it feel much more
-comfortable for us. The marine layer will also slowly return for
-coastal and western valley areas over the next few days as well.
+Low temperatures will cool as the atmosphere cools and inland
+areas dry with low temperatures on Sunday still a few degrees
+above average for the coast into the valleys and around 5 degrees
+above average for the mountains and deserts. Low temperatures on
+Sunday for the coast and valleys will be mostly in the 60s with a
+few of the cooler protected valleys in the mid 50s.
 
-The area of low pressure moves out of the Pacific Northwest by
-Monday, leaving behind a weak troughing pattern over the region
-for at least the first half of next week. This will bring similar
-temperatures each day with highs and lows near to slightly below
-average with dry weather.
+With drying of mid and higher level moisture, patchy night and
+morning coastal low clouds will increase in coverage and spread
+locally into the far western valleys at times over the weekend as
+the marine layer slowly deepens.
+
+&&
+
+.LONG TERM (Monday through Thursday)...
+Low pressure near the California will weaken early next week. High
+pressure to the east may begin to expand across the area for the
+latter half of next week. Temperatures will continue to cool for
+early next week with Tuesday high temperatures ranging from the
+70s near the coast to the 80s for the Inland Empire with the lower
+deserts around 100. This will be followed by a warming trend for
+Wednesday through Friday of next week, but with increase spread
+in just how much warming may occur. The NBM 50th percentile would
+warm temperatures to around average for Friday of next week with
+high temperatures for next Friday ranging from the mid 70s to
+lower 80s near the coast to the upper 80s and lower 90s for the
+Inland Empire with 100 to 104 for the lower deserts. Dry weather
+is expected to continue for Monday through Thursday of next week.
 
 &&
 
 .AVIATION...
-110045Z...Cumulus, mid-level clouds and ISO SHRA/TSRA are
-dissipating over the mountains and desert slopes through 02z.
+110530Z...Coast...Patchy low clouds and fog will gradually develop
+overnight with bases around 600-900 feet MSL and vis 1-5SM, lowest
+on coastal mesas. Cigs most likely 10-16Z, and around KSAN. Low
+clouds to return after 02Z Friday eve with more uniform and
+expansive coverage. Bases around 900-1200 feet MSL.
 
-Confidence is increasing that bases will be low and visibility will
-be reduced for SD county coastal areas, especially South County
-tonight. Clouds begin developing in these areas by 06z, increasing
-in coverage through 10z, then lingering up to a few miles inland of
-the coast through 15z, then scattering out through 17z. Low
-confidence on precise bases - likely between 300-800 ft MSL. Coastal
-mesas within a few miles of the coast could experience patchy FG and
-VIS 0-1SM (~40% chance), including vcnty KCRQ (12-15z); vis down to
-1-5SM for areas around sea level, including vcnty KSAN (10-15z).
-
-Otherwise, mostly SKC and VFR through the TAF period with FEW clouds
-above 15 kft.
+Otherwise, SCT clouds above 15 kft and VFR conditions through Friday
+with cumulus clouds around 10 kft over mountains 19-00Z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -437,21 +445,17 @@ No hazardous marine conditions are expected through Monday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning until 8 PM PDT this evening for Orange
-     County Coastal Areas-Orange County Inland Areas-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Coastal Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Inland Areas-San Bernardino and Riverside County Valleys-
+     The Inland Empire-San Diego County Coastal Areas-San Diego
+     County Valleys.
 
-     Heat Advisory until 8 PM PDT this evening for Riverside County
-     Mountains-San Diego County Mountains.
-
-     Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
-     San Diego County Deserts-San Gorgonio Pass near Banning.
+     Extreme Heat Warning until 8 PM PDT this evening for Coachella
+     Valley-San Diego County Deserts-San Gorgonio Pass near
+     Banning.
 
 PZ...None.
 
@@ -459,8 +463,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
