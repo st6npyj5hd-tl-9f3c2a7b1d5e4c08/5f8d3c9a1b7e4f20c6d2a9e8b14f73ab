@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-11T20:37:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T03:36:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-133
-FXUS66 KSGX 111836
+024
+FXUS66 KSGX 120001
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1136 AM PDT Fri Sep 11 2026
+501 PM PDT Fri Sep 11 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -366,6 +366,9 @@ end of next week, nudging temperatures back above average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 High pressure continues to weaken over the region today with
 stronger onshore flow seen at current observations. This has allowed
@@ -396,25 +399,34 @@ another subtle warm up may take place by this time. NBM shows highs
 approaching 100 across inland valleys with 70s and 80s closer to the
 coast and across the mountains.
 
-
 &&
 
 .AVIATION...
-111800Z...Coasts...Patchy low clouds based around 1000ft continue to
-stream up from the S-SE within a coastal eddy with low clouds just
-offshore at KSAN and along the beaches of Orange County late this
-morning. Low clouds to return after 02z Saturday with more uniform
-and expansive coverage. Bases initially around 800-1000ft MSL should
-lift to 1000-1400 feet MSL after 06z Saturday. CIGs expected to
-scatter out and pull back offshore/to the beaches by 16-17z Saturday.
+120000Z...Coasts...Low clouds are beginning to reform over nearshore
+waters late this afternoon. Clouds should move ashore starting 01-
+02z Sat with bases around 600-1000 ft MSL. Clouds slowly move 10-15
+miles inland overnight, likely rising above 1000 ft MSL sometime
+Saturday morning. Minor vis reductions (1-5SM) expected along
+elevated coastal terrain and locally into western valleys. Clouds
+clear toward the coastline 16-18z with SKC expected for the
+afternoon.
 
-Otherwise, SCT clouds above 15 kft and VFR conditions today and
-tonight, with cumulus clouds around 10 kft over mountains 19-00Z.
+Otherwise, FEW clouds above 15 kft and VFR conditions through
+Saturday afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+West-northwest winds expected to gust up to 20 knots Saturday and
+Sunday afternoons over outer coastal waters. Otherwise, no hazardous
+marine conditions are expected through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -435,7 +447,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...KW
 
 
 </pre>
