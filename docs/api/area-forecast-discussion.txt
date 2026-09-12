@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T10:15:18+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T15:10:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-941
-FXUS66 KSGX 120818
+931
+FXUS66 KSGX 121155
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-118 AM PDT Sat Sep 12 2026
+455 AM PDT Sat Sep 12 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -366,6 +366,9 @@ end of next week, nudging temperatures back above average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Nighttime satellite currently shows patchy low clouds caught in the
 flow of a weak coastal eddy drifting into coastal Orange County.
@@ -409,22 +412,22 @@ of the peak ridge axis.
 &&
 
 .AVIATION...
-120500Z...Coasts...Patchy low clouds with bases around 600-1000 ft
-MSL developing along the coast. Clouds will move 10-15 miles inland
-overnight, likely rising above 1000 ft MSL sometime 16-18Z Sat.
-Minor vis reductions (1-5SM) expected along elevated coastal terrain
-and locally into western valleys. Clouds clear toward the coastline
-16-18z with SKC expected for the afternoon.
+121130Z...Coasts...Very patchy low clouds with bases around 700-1500
+ft MSL along the coast. Minor vis reductions (1-5SM) expected along
+elevated coastal terrain and locally into western valleys. Clouds
+clear toward the coastline 16-18z with SKC expected for the
+afternoon. Cigs may redevelop early, 01-03Z Sun, bases will likely
+be 1000-2000 ft MSL. Vis reductions most likely on higher coastal
+terrain.
 
-Otherwise, FEW clouds above 15 kft and VFR conditions through
-Sat afternoon.
+Otherwise, FEW clouds above 15 kft and VFR conditions through Sunday.
 
 &&
 
 .MARINE...
-West-northwest winds expected to gust up to 20 knots Saturday and
-Sunday afternoons over outer coastal waters. Otherwise, no hazardous
-marine conditions are expected through Wednesday.
+West-northwest winds expected to gust up to 20 knots in the
+afternoons through Sunday over outer coastal waters. Otherwise, no
+hazardous marine conditions are expected through Wednesday.
 
 &&
 
