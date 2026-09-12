@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T03:36:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T10:15:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-024
-FXUS66 KSGX 120001
+941
+FXUS66 KSGX 120818
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-501 PM PDT Fri Sep 11 2026
+118 AM PDT Sat Sep 12 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -367,52 +367,57 @@ end of next week, nudging temperatures back above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Nighttime satellite currently shows patchy low clouds caught in the
+flow of a weak coastal eddy drifting into coastal Orange County.
+Clouds should eventually fill in over coastal areas overnight with
+greater inland coverage to the western valleys (and patchy fog) in
+the following nights.
 
-...UPDATED AVIATION DISCUSSION...
+The ridge that spiked coastal temperatures over the past week
+continues to move inland into the south central US. This has
+increased the depth of our marine layer influence to reach into the
+interior valleys with overnight humidities reaching 80-100% in these
+lower areas for the next few nights.
 
-High pressure continues to weaken over the region today with
-stronger onshore flow seen at current observations. This has allowed
-for a deepening marine layer, where some places along the coast saw
-low clouds and patchy fog earlier this morning. Looking toward the
-lunch hour, temperatures a relatively cooler with highs in the 70s
-to near 90 west of the mountains. Elevated westerly winds will also
-be felt across the mountains and deserts with wind gusts 20-40 MPH.
+Today`s temperatures will be similar to yesterday`s: upper 70s near
+the beaches, 80s in coastal areas, low 90s inland, mid-to-upper 90s
+in the IE and high desert and 100s in the lower deserts.
 
-An area of low pressure off the west coast of British Columbia will
-continue to push southward today, eventually moving into the Pacific
-Northwest this weekend. This weather pattern will help bring in more
-cooler air and greater extent to the marine layer into far western
-valleys. We can expect to cool a few degrees each day with breezy
-westerly winds across the mountains and deserts each afternoon and
-evening. Temperatures will be near average by the weekend, with
-highs dipping below average by next Monday and Tuesday.  High
-temperatures may stay below 90 degrees for areas west of the
-mountains with highs closer to 100 degrees over the Coachella
-Valley. Low temperatures will also begin to cool off through early
-next week as well with lows in the 50s and 60s along and west of the
-mountains and up in the high desert.
+Sunday`s temperatures fall another 3-5 degrees as the trough to the
+north moving through the PacNW continues to displace the remaining
+ridge influence from SoCal, restoring near average max and min
+temperatures region-wide.
 
-High pressure over the Southern Plains may expand further into the
-desert southwest by the end of next week. The placement and strength
-of this system is still uncertain, but many models are hinting that
-another subtle warm up may take place by this time. NBM shows highs
-approaching 100 across inland valleys with 70s and 80s closer to the
-coast and across the mountains.
+There is moderate confidence that cooling continues into Tuesday
+given the northern trough looks to expand in length and maintain
+its influence as it moves eastward. Temperatures early week could
+be a few degrees below average with highs back to the mid-70s at
+the coast, only reaching to around 90 degrees in the interior
+valleys/IE/high desert and around 100-102 degrees in the lower
+deserts. Low temperatures in the interior valleys Tuesday and
+Wednesday mornings could drop into the mid-50s, offering
+significantly cooler nighttime air as compared to last week.
+Elsewhere in the coastal basin, lows will drop into the lower 60s.
+
+Although model uncertainty is higher Wednesday onward, both the GFS
+and ECMWF show the ridge in the Southern Plains expanding westward,
+initiating another warming trend to some degree. Inland temperatures
+may increase once again another 5-15 degrees while there is greater
+uncertainty for coastal areas as this will depend on the placement
+of the peak ridge axis.
 
 &&
 
 .AVIATION...
-120000Z...Coasts...Low clouds are beginning to reform over nearshore
-waters late this afternoon. Clouds should move ashore starting 01-
-02z Sat with bases around 600-1000 ft MSL. Clouds slowly move 10-15
-miles inland overnight, likely rising above 1000 ft MSL sometime
-Saturday morning. Minor vis reductions (1-5SM) expected along
-elevated coastal terrain and locally into western valleys. Clouds
-clear toward the coastline 16-18z with SKC expected for the
-afternoon.
+120500Z...Coasts...Patchy low clouds with bases around 600-1000 ft
+MSL developing along the coast. Clouds will move 10-15 miles inland
+overnight, likely rising above 1000 ft MSL sometime 16-18Z Sat.
+Minor vis reductions (1-5SM) expected along elevated coastal terrain
+and locally into western valleys. Clouds clear toward the coastline
+16-18z with SKC expected for the afternoon.
 
 Otherwise, FEW clouds above 15 kft and VFR conditions through
-Saturday afternoon.
+Sat afternoon.
 
 &&
 
@@ -431,23 +436,15 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
-     Inland Areas-San Bernardino and Riverside County Valleys-
-     The Inland Empire-San Diego County Coastal Areas-San Diego
-     County Valleys.
-
-     Extreme Heat Warning until 8 PM PDT this evening for Coachella
-     Valley-San Diego County Deserts-San Gorgonio Pass near
-     Banning.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...KW
+PUBLIC...Westerink
+AVIATION/MARINE...CO
 
 
 </pre>
