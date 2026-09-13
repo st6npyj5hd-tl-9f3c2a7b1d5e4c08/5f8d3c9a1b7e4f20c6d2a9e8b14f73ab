@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T03:37:47+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T11:15:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-603
-FXUS66 KSGX 122356
+501
+FXUS66 KSGX 130839
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-456 PM PDT Sat Sep 12 2026
+139 AM PDT Sun Sep 13 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -371,59 +371,63 @@ end of next week, nudging temperatures back above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The 00z San Diego sounding shows a well mixed marine layer in the
+lowest 2,000 feet of the atmosphere with a strong inversion above
+it. Nighttime satellite imagery also shows this as tonight`s
+clouds are filled in over a very broad extent, from over the
+coastal waters up to 20 miles inland throughout SD County and
+Orange County. Clouds are likely to eventually reach into the
+Inland Empire in the early morning hours. Communities like
+Riverside, Ontario and possibly San Bernardino will wake up to a
+low stratus deck overhead. Nighttime temperatures are generally
+running 2-7 degrees cooler than yesterday at this time, with
+morning lows expected to reach below 70 degrees across the coastal
+basin for the first time in over a week.
 
-...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF PACKAGE...
+Today`s temperatures will be similar to yesterday`s (maybe a degree
+or two cooler inland) : upper 70s near the beaches, 80s in coastal
+areas, low 90s inland, mid-to-upper 90s in the IE and high desert
+and 100s in the lower deserts.
 
-High pressure continues to weaken over the region today with
-stronger onshore flow seen at current observations. This has allowed
-for a deepening marine layer, where some places along the coast saw
-low clouds and patchy fog earlier this morning. Looking toward the
-lunch hour, temperatures a relatively cooler with highs in the 70s
-to near 90 west of the mountains. Elevated westerly winds will also
-be felt across the mountains and deserts with wind gusts 20-40 MPH.
+The trough over the PacNW which is bringing cooler weather to SoCal
+looks to move through fairly slowly, maintaining its influence
+through Monday. While the main trough elongates over Canada and
+moves eastward, the GFS and ECMWF show another lobe of cool mid-
+level air dropping down straight south out of British Columbia and
+ejecting out of the main jet stream. This lobe looks likely to
+become a closed upper low over NorCal and Oregon Wednesday and
+Thursday, which would keep temperatures close to average despite
+the ridge over the southeastern US intensifying and expanding
+westward.
 
-An area of low pressure off the west coast of British Columbia will
-continue to push southward today, eventually moving into the Pacific
-Northwest this weekend. This weather pattern will help bring in more
-cooler air and greater extent to the marine layer into far western
-valleys. We can expect to cool a few degrees each day with breezy
-westerly winds across the mountains and deserts each afternoon and
-evening. Temperatures will be near average by the weekend, with
-highs dipping below average by next Monday and Tuesday.  High
-temperatures may stay below 90 degrees for areas west of the
-mountains with highs closer to 100 degrees over the Coachella
-Valley. Low temperatures will also begin to cool off through early
-next week as well with lows in the 50s and 60s along and west of the
-mountains and up in the high desert.
+WPC 500mb height clusters indicate high confidence that this
+ridge will eventually build Friday and Saturday, increasing temps
+around 5-15 degrees above average into next weekend.
 
-High pressure over the Southern Plains may expand further into the
-desert southwest by the end of next week. The placement and strength
-of this system is still uncertain, but many models are hinting that
-another subtle warm up may take place by this time. NBM shows highs
-approaching 100 across inland valleys with 70s and 80s closer to the
-coast and across the mountains.
+Throughout the forecast period, winds remain likely onshore with a
+coastal eddy spinning through Wednesday and typical late afternoon
+south and west winds over desert slopes.
+
 
 &&
 
 .AVIATION...
-130000Z...Coasts/Valleys...Low clouds (based around 1400ft MSL) have
-stuck near the beaches through the afternoon and have snuck back in
-a few miles onshore, bringing intermittent CIGs to KSAN and KCRQ.
-Over the next few hours, expecting these marine layer clouds to
-surge inland, spreading inland and into Orange County through 03-06z
-Sunday. By 06z, marine layer clouds should stretch around 20 miles
-inland with overnight bases around 1300-1500ft MSL. There is about a
-60% chance that CIGs reach KONT between 11-16z with a ~30% chance to
-reach KSBD during this window. VIS reductions limited to higher
-inland terrain. Clouds begin to scatter out 16z Sunday morning,
-eventually scattering at the coasts around 18z. As with what was
-seen today, clouds may linger near the beaches or just offshore into
-Sunday afternoon, with a chance for intermittent CIGs to return to
-the coastal TAF sites as early as 21-22z Sun.
+130600Z...Coasts/Valleys...Low clouds based 1300-1700 ft MSL have
+filled the coastal lowlands and inland valleys of SD County and
+Orange County, reaching up to the foothills. Clouds move into the
+Inland Empire after around 10z; 50% chance for cigs for KONT by 11z,
+increasing to 65% from 13-16z, 40-55% for KSBD from 11-16z. VIS
+reduced 3-5SM in elevated inland valleys (HZ/BR) and down to 0-5SM
+where clouds intersect terrain in the IE and surrounding foothills.
+Scatter out 16-18z, though intermittent SCT-BKN cigs possible after
+21z along the beaches. Clouds with slightly lower bases (~1000-1500
+ft MSL) return to coastal areas 02-04z Mon.
 
-Mountains/Deserts...S/W winds gusting over 30 kts at times until 06z
-Sunday through mountain passes into the deserts. Otherwise, VFR
-conditions prevail through Sunday evening.
+
+
+Mountains/Deserts...VFR conditions prevail through Sunday evening
+with typical late afternoon S/W winds gusting 15-25 kts (up to 35
+kts through the Banning Pass).
 
 &&
 
@@ -431,6 +435,13 @@ conditions prevail through Sunday evening.
 West-northwest winds expected to gust up to 20 knots in the outer
 coastal waters Sunday afternoon. Otherwise, no hazardous marine
 conditions are expected through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -442,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Munyan
+PUBLIC...Westerink
+AVIATION/MARINE...Westerink
 
 
 </pre>
