@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T11:15:24+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T15:45:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-501
-FXUS66 KSGX 130839
+299
+FXUS66 KSGX 131140
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-139 AM PDT Sun Sep 13 2026
+440 AM PDT Sun Sep 13 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -370,6 +370,9 @@ end of next week, nudging temperatures back above average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The 00z San Diego sounding shows a well mixed marine layer in the
 lowest 2,000 feet of the atmosphere with a strong inversion above
@@ -408,33 +411,29 @@ Throughout the forecast period, winds remain likely onshore with a
 coastal eddy spinning through Wednesday and typical late afternoon
 south and west winds over desert slopes.
 
-
 &&
 
 .AVIATION...
-130600Z...Coasts/Valleys...Low clouds based 1300-1700 ft MSL have
-filled the coastal lowlands and inland valleys of SD County and
-Orange County, reaching up to the foothills. Clouds move into the
-Inland Empire after around 10z; 50% chance for cigs for KONT by 11z,
-increasing to 65% from 13-16z, 40-55% for KSBD from 11-16z. VIS
-reduced 3-5SM in elevated inland valleys (HZ/BR) and down to 0-5SM
-where clouds intersect terrain in the IE and surrounding foothills.
-Scatter out 16-18z, though intermittent SCT-BKN cigs possible after
-21z along the beaches. Clouds with slightly lower bases (~1000-1500
-ft MSL) return to coastal areas 02-04z Mon.
+131130Z...Coasts/Valleys...Low clouds based 1300-1700 ft MSL have
+filled in the majority of the coastal basin. VIS reductions of 3-5SM
+in elevated inland valleys (HZ/BR) and down to 0-5SM where clouds
+intersect terrain in the IE and surrounding foothills. Scatter out
+16-18z, though intermittent SCT-BKN cigs possible after 21z along
+the beaches. Low clouds will return to coastal areas 02-04z Mon and
+inland areas 07-09Z, with similar bases and vis reductions.
 
 
 
-Mountains/Deserts...VFR conditions prevail through Sunday evening
-with typical late afternoon S/W winds gusting 15-25 kts (up to 35
-kts through the Banning Pass).
+Mountains/Deserts...VFR conditions prevail through this evening with
+typical late afternoon S/W winds gusting 15-25 kts (up to 35 kts
+through the Banning Pass).
 
 &&
 
 .MARINE...
 West-northwest winds expected to gust up to 20 knots in the outer
-coastal waters Sunday afternoon. Otherwise, no hazardous marine
-conditions are expected through Wednesday.
+coastal waters this afternoon. Otherwise, no hazardous marine
+conditions are expected through Thursday.
 
 &&
 
@@ -454,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...Westerink
+AVIATION/MARINE...CO
 
 
 </pre>
