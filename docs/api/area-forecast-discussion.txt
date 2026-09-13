@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-12T20:17:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T03:37:47+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-037
-FXUS66 KSGX 121905
+603
+FXUS66 KSGX 122356
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1205 PM PDT Sat Sep 12 2026
+456 PM PDT Sat Sep 12 2026
 
 .SYNOPSIS...
 A cooling and drying trend will occur across the region into the
@@ -372,6 +370,9 @@ end of next week, nudging temperatures back above average.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF PACKAGE...
 
 High pressure continues to weaken over the region today with
 stronger onshore flow seen at current observations. This has allowed
@@ -405,30 +406,31 @@ coast and across the mountains.
 &&
 
 .AVIATION...
-121730Z...Coasts...VFR through the late afternoon, though some low
-clouds near 1500 ft MSL may stick to the beaches. High confidence on
-low clouds returning to coastal TAF sites and up to 15 miles inland
-after 01Z Sun with bases 1200-1700 ft MSL. Low confidence on cigs
-making into the Inland Empire and VCTY KONT after 10z. Vis
-reductions most likely on higher coastal terrain. Scatter out Sunday
-similar to this morning near 16-18Z.
+130000Z...Coasts/Valleys...Low clouds (based around 1400ft MSL) have
+stuck near the beaches through the afternoon and have snuck back in
+a few miles onshore, bringing intermittent CIGs to KSAN and KCRQ.
+Over the next few hours, expecting these marine layer clouds to
+surge inland, spreading inland and into Orange County through 03-06z
+Sunday. By 06z, marine layer clouds should stretch around 20 miles
+inland with overnight bases around 1300-1500ft MSL. There is about a
+60% chance that CIGs reach KONT between 11-16z with a ~30% chance to
+reach KSBD during this window. VIS reductions limited to higher
+inland terrain. Clouds begin to scatter out 16z Sunday morning,
+eventually scattering at the coasts around 18z. As with what was
+seen today, clouds may linger near the beaches or just offshore into
+Sunday afternoon, with a chance for intermittent CIGs to return to
+the coastal TAF sites as early as 21-22z Sun.
 
-S/W winds gusting over 30 kts at times 20z Sat-06z across mountain
-passes into the deserts. Otherwise, FEW clouds above 15 kft and VFR
-conditions through Sunday.
+Mountains/Deserts...S/W winds gusting over 30 kts at times until 06z
+Sunday through mountain passes into the deserts. Otherwise, VFR
+conditions prevail through Sunday evening.
 
 &&
 
 .MARINE...
-West-northwest winds expected to gust up to 20 knots in the
-afternoons through Sunday over outer coastal waters. Otherwise, no
-hazardous marine conditions are expected through Wednesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+West-northwest winds expected to gust up to 20 knots in the outer
+coastal waters Sunday afternoon. Otherwise, no hazardous marine
+conditions are expected through Wednesday.
 
 &&
 
@@ -440,7 +442,8 @@ PZ...None.
 
 $$
 
-PUBLIC/AVIATION/MARINE...APR
+PUBLIC...APR
+AVIATION/MARINE...Munyan
 
 
 </pre>
