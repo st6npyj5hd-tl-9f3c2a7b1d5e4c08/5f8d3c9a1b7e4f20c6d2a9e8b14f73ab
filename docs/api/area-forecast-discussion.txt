@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T15:45:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T20:27:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,23 +347,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-299
-FXUS66 KSGX 131140
+313
+FXUS66 KSGX 131912
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-440 AM PDT Sun Sep 13 2026
+1212 PM PDT Sun Sep 13 2026
 
 .SYNOPSIS...
-A cooling and drying trend will occur across the region into the
-weekend and early next week. This will be accompanied by a building
-marine layer with clouds returning closer to the coastal areas each
-night and morning. An area of high pressure may strengthen by the
-end of next week, nudging temperatures back above average.
+Cooler weather each day with a deeper marine layer making it
+further inland into mid-week. Afternoon temperatures through
+Wednesday will generally be 2-5 degrees below normal. High
+pressure strengthens late week with warmer temperatures into the
+weekend.
 
 &&
 
@@ -371,62 +373,55 @@ end of next week, nudging temperatures back above average.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Mid level water vapor satellite places an upper level low over
+Oregon and Washington, poised to continue to move across the
+northern portion of CONUS. This low brought an end to the abnormally
+hot weather SoCal had experienced the past week, and allowed for the
+marine layer to redevelop and thicken this morning. This system also
+has aided in tightening the gradient, producing stronger onshore
+flow with afternoon gusts today and tomorrow around 35-50 mph
+through wind-prone passes and along the desert slopes. While this
+low will meander eastward along the border with Canada on Monday,
+a second trough will swing down from the PacNW and form a closed
+low over southern Oregon and NorCal by Wednesday. This secondary
+low will reinforce the cooler weather we`ve had, maintaining a
+cooling trend through at least Wednesday. As such, high
+temperatures Mon-Wed will hover around 2-5 degrees below normal
+with overnight low temperatures also slightly below normal for
+everywhere but the deserts which will remain a bit hotter with
+slightly better humidity to the east. The marine layer will
+continue to deepen and make it further inland each morning into at
+least mid-week, with some hi-res guidance indicating it may be
+deep enough to sustain some patchy morning drizzle on Tuesday,
+although chances of this occurring are low.
 
-...UPDATED AVIATION DISCUSSION...
-
-The 00z San Diego sounding shows a well mixed marine layer in the
-lowest 2,000 feet of the atmosphere with a strong inversion above
-it. Nighttime satellite imagery also shows this as tonight`s
-clouds are filled in over a very broad extent, from over the
-coastal waters up to 20 miles inland throughout SD County and
-Orange County. Clouds are likely to eventually reach into the
-Inland Empire in the early morning hours. Communities like
-Riverside, Ontario and possibly San Bernardino will wake up to a
-low stratus deck overhead. Nighttime temperatures are generally
-running 2-7 degrees cooler than yesterday at this time, with
-morning lows expected to reach below 70 degrees across the coastal
-basin for the first time in over a week.
-
-Today`s temperatures will be similar to yesterday`s (maybe a degree
-or two cooler inland) : upper 70s near the beaches, 80s in coastal
-areas, low 90s inland, mid-to-upper 90s in the IE and high desert
-and 100s in the lower deserts.
-
-The trough over the PacNW which is bringing cooler weather to SoCal
-looks to move through fairly slowly, maintaining its influence
-through Monday. While the main trough elongates over Canada and
-moves eastward, the GFS and ECMWF show another lobe of cool mid-
-level air dropping down straight south out of British Columbia and
-ejecting out of the main jet stream. This lobe looks likely to
-become a closed upper low over NorCal and Oregon Wednesday and
-Thursday, which would keep temperatures close to average despite
-the ridge over the southeastern US intensifying and expanding
-westward.
-
-WPC 500mb height clusters indicate high confidence that this
-ridge will eventually build Friday and Saturday, increasing temps
-around 5-15 degrees above average into next weekend.
-
-Throughout the forecast period, winds remain likely onshore with a
-coastal eddy spinning through Wednesday and typical late afternoon
-south and west winds over desert slopes.
+The low will weaken a bit as it becomes absorbed in the upper
+level pattern and pulled northward later this week. As the low
+departs, subsidence over the Pacific to the southwest of San Diego
+will increase, with upper level ridging developing over CA Friday
+and Saturday. This will return the area to warming trend for the
+late week, although guidance is chaotic with the long-range
+pattern as the GFS attempts to return the region to troughing
+Sunday and beyond while the ECMWF maintains the warmer ridge.
 
 &&
 
 .AVIATION...
-131130Z...Coasts/Valleys...Low clouds based 1300-1700 ft MSL have
-filled in the majority of the coastal basin. VIS reductions of 3-5SM
-in elevated inland valleys (HZ/BR) and down to 0-5SM where clouds
-intersect terrain in the IE and surrounding foothills. Scatter out
-16-18z, though intermittent SCT-BKN cigs possible after 21z along
-the beaches. Low clouds will return to coastal areas 02-04z Mon and
-inland areas 07-09Z, with similar bases and vis reductions.
+131800Z...Coasts/Valleys...Low clouds near 1500 ft MSL will begin to
+clear this morning, with mostly clear skies this afternoon.
+Increasing confidence for cigs to return to coastal TAF sites after
+01Z this evening. Cigs will be near 1200-1700 ft MSL ft MSL covering
+coastal TAF sites. Confidence low to moderate on cigs making it into
+KONT after 08Z, better confidence KSBD stays clear. VIS reductions
+of 3-5SM in elevated inland valleys (HZ/BR) and down to 0-5SM where
+clouds intersect terrain in the IE and surrounding foothills.
 
+Scatter out 16-18z Mon. with intermittent SCT-BKN cigs possible
+after 21z along the beaches.
 
-
-Mountains/Deserts...VFR conditions prevail through this evening with
+Mountains/Deserts...VFR conditions prevail through the TAF period;
 typical late afternoon S/W winds gusting 15-25 kts (up to 35 kts
-through the Banning Pass).
+through the Banning Pass) expected.
 
 &&
 
@@ -434,13 +429,6 @@ through the Banning Pass).
 West-northwest winds expected to gust up to 20 knots in the outer
 coastal waters this afternoon. Otherwise, no hazardous marine
 conditions are expected through Thursday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -452,8 +440,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...CO
+PUBLIC...Zuber
+AVIATION/MARINE...APR
 
 
 </pre>
