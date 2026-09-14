@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-14T12:04:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-14T21:35:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,23 +352,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-728
-FXUS66 KSGX 141134
+775
+FXUS66 KSGX 141844
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-434 AM PDT Mon Sep 14 2026
+1144 AM PDT Mon Sep 14 2026
 
-.SYNOPSIS...
-Low pressure over the western states will bring a gradual cooling
-trend through Wednesday with high temperatures cooling to as much
-as 5 to 10 degrees below average for the Inland Empire. Night and
-morning coastal low clouds will increase in coverage and spread
-farther into the western valleys for early Tuesday and early
-Wednesday as the marine layer slowly deepens. This will be
-followed by a gradual warming trend for Thursday into next
-weekend.
+SYNOPSIS...
+Subtle cooling will continue through the middle of the week as a
+troughing pattern remains over the West Coast with temperatures near
+to up to 10 degrees below average. This pattern will bring night and
+morning low clouds for areas west of the mountains with breezy winds
+across the desert slopes and deserts each day. Subtle warming is
+expected by later this week with temperatures rising back to near
+normal.
 
 &&
 
@@ -376,54 +375,51 @@ weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+A rinse and repeat sort of day across the region today as low clouds
+dissipate this morning near the coast with a coastal eddy offshore.
+formed last night, bringing in low clouds to coastal areas this
+morning. Temperatures will be more comfortable today with highs near
+normal across the region.
 
-.SHORT TERM (Today through Wednesday)...
-Low pressure along the West Coast will continue a cooling trend
-through Wednesday. High temperatures today will cool a few
-degrees, cool another few to around 5 degrees on Tuesday, with a
-few more degrees of cooling on Wednesday.
+A weak troughing pattern over the West will be reinforced with
+another shot of cooler air as another low pressure system moves
+southward Tuesday through Thursday. Pressure heights will continue
+fall, leading to a continued subtle cooling trend. Wednesday and
+Thursday will see the coolest temperatures of the week. There is a
+75-100% chance of temperatures across the Inland Empire, Coachella
+Valley and the large High Desert cities staying below 90 degrees
+these days; plentiful 70s and 80s expected for areas along and west
+of the mountains. Low temperatures will also begin to cool off
+through the next few nights as well, with lows in the 50s and 60s
+along and west of the mountains and in the high desert. Increased
+sea breeze winds will be felt along the desert slopes and into the
+deserts each afternoon and evening through Thursday, some areas
+gusting over 35 MPH in the passes and High Desert.
 
-High temperatures on Wednesday will be near average at the San
-Diego County coast, and elsewhere a few degrees below average to
-as much as 5 to 10 degrees below average for the Inland Empire.
-High temperatures on Wednesday will range from the 70s near the
-coast to the lower to mid 80s for the Inland Empire with the
-lower deserts near 100.
-
-A weak coastal eddy will bring slow deepening of the marine layer
-with night and morning coastal low clouds spreading into portions
-of the western valleys for early Tuesday and early Wednesday.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-Low pressure over the western states will weaken with a warming
-trend for southwestern California for Thursday into next weekend.
-with high temperatures on Saturday a few degrees above average
-for the deserts to a few degrees below average for the valleys.
-High temperatures on Saturday will range from the 70s near the
-coast to the mid 80s to lower 90s for the Inland Empire with 102
-to 106 for the lower deserts. Not much change is expected for
-Sunday.
+The low pressure system to the north will move out by Friday into
+the weekend. Models begin to diverge on what exact pressure systems
+move over the area, but consensus continues to shift toward whatever
+does form will be weak in nature. This will lead to temperatures
+staying near average for the latter part of the week with weaker
+winds across the mountains and deserts.
 
 &&
 
 .AVIATION...
-141130Z...Coast/Valleys...Low clouds based around 1500-2000 feet MSL
-will continue their march into the Inland Empire through 14Z. Vis
-reduced over higher coastal terrain and valleys 3-5SM. Scatter out
-15-17Z. Low clouds to redevelop and push ashore after 02Z and inland
-again overnight into Tuesday, with very similar coverage eventually,
-and similar bases/vis.
+141800Z...Coast/Valleys...SKC and VFR this afternoon, but low clouds
+based 1700-2100 ft MSL will move back ashore starting 01-02z Tue.
+Clouds spread inland overnight, filling most of the coastal basin
+by 12z. Minor vis reductions (3-6SM) for elevated inland valleys
+(KONT, KSBD, KL18). Clouds scatter back toward the coastline
+16-18z.
 
-Mountains/Deserts...Mostly clear and VFR conditions today and
-tonight.
+Mountains/Deserts...Mostly clear and VFR conditions through
+Tuesday morning.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday morning.
 
 &&
 
@@ -441,8 +437,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...APR
+AVIATION/MARINE...KW
 
 
 </pre>
