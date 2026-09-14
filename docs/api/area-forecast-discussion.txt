@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-13T20:27:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-14T03:51:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-313
-FXUS66 KSGX 131912
+729
+FXUS66 KSGX 140007
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1212 PM PDT Sun Sep 13 2026
+507 PM PDT Sun Sep 13 2026
 
 .SYNOPSIS...
 Cooler weather each day with a deeper marine layer making it
@@ -372,6 +372,9 @@ weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION FOR 00Z TAF PACKAGE...
 
 Mid level water vapor satellite places an upper level low over
 Oregon and Washington, poised to continue to move across the
@@ -407,21 +410,21 @@ Sunday and beyond while the ECMWF maintains the warmer ridge.
 &&
 
 .AVIATION...
-131800Z...Coasts/Valleys...Low clouds near 1500 ft MSL will begin to
-clear this morning, with mostly clear skies this afternoon.
-Increasing confidence for cigs to return to coastal TAF sites after
-01Z this evening. Cigs will be near 1200-1700 ft MSL ft MSL covering
-coastal TAF sites. Confidence low to moderate on cigs making it into
-KONT after 08Z, better confidence KSBD stays clear. VIS reductions
-of 3-5SM in elevated inland valleys (HZ/BR) and down to 0-5SM where
-clouds intersect terrain in the IE and surrounding foothills.
-
-Scatter out 16-18z Mon. with intermittent SCT-BKN cigs possible
-after 21z along the beaches.
+140000Z...Coasts/Valleys...There is much less cloud cover across the
+California Bight this afternoon, with only stray patches of FEW low
+clouds above 2000ft MSL across the coastal areas. However, expect
+low clouds to increase in coverage between 02-06z, with widespread
+CIGs across San Diego County by 06z Monday. Clouds spread northward
+into Orange County through 09z with about 20 miles of inland extent.
+Slightly less inland extent expected across the Inland Empire
+compared to last night, with only a 30-40% chance of CIGs between 12-
+16z. VIS reductions of 4-6 SM in elevated inland valleys in HZ/BR,
+and down to 0-5 SM where clouds intersect terrain in the IE and
+surrounding foothills. Clouds scatter back out between 15-17z Monday.
 
 Mountains/Deserts...VFR conditions prevail through the TAF period;
 typical late afternoon S/W winds gusting 15-25 kts (up to 35 kts
-through the Banning Pass) expected.
+through the Banning Pass) expected, weakening after 06z Monday.
 
 &&
 
@@ -441,7 +444,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...APR
+AVIATION/MARINE...Munyan
 
 
 </pre>
