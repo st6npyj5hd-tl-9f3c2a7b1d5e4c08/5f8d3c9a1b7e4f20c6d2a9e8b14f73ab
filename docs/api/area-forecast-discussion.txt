@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T03:51:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T11:17:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,18 +349,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-008
-FXUS66 KSGX 150000
+175
+FXUS66 KSGX 150735
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-500 PM PDT Mon Sep 14 2026
+1235 AM PDT Tue Sep 15 2026
 
-
+.SYNOPSIS...
+Gradual cooling will continue through Wednesday following by slow
+warming for Thursday through Saturday, then slow cooling for
+Sunday and Monday. Night and morning coastal low clouds will
+extend will inland overnight across much of the valleys into
+Wednesday morning, then decrease in coverage and inland extent
+into the weekend.
 
 &&
 
@@ -368,59 +376,64 @@ National Weather Service San Diego CA
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Thursday)...
+A low pressure system moving southward along the West Coast into
+California will continue the cooling trend through Wednesday
+with Wednesday high temperatures a few degrees below average near
+the coast and in the lower deserts to 5 to 10 degrees below
+average for the Inland Empire. High temperatures on Wednesday will
+range from the lower to mid 70s near the coast to the lower to mid
+80s for the Inland Empire with the lower deserts in the upper 90s
+to around 100. Low pressure will begin to weaken over California on
+Thursday with warming of high temperatures of a few degrees per
+day for Thursday through Friday.
 
-...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF PACKAGE...
+A coastal eddy with slow deepening of the marine layer will
+continue into early Wednesday. The marine layer will deepen to
+2500 to 3000 feet with night and morning coastal low clouds
+extending well inland overnight and across much of the valleys.
 
-A rinse and repeat sort of day across the region today as low clouds
-dissipate this morning near the coast with a coastal eddy offshore.
-formed last night, bringing in low clouds to coastal areas this
-morning. Temperatures will be more comfortable today with highs near
-normal across the region.
+&&
 
-A weak troughing pattern over the West will be reinforced with
-another shot of cooler air as another low pressure system moves
-southward Tuesday through Thursday. Pressure heights will continue
-fall, leading to a continued subtle cooling trend. Wednesday and
-Thursday will see the coolest temperatures of the week. There is a
-75-100% chance of temperatures across the Inland Empire, Coachella
-Valley and the large High Desert cities staying below 90 degrees
-these days; plentiful 70s and 80s expected for areas along and west
-of the mountains. Low temperatures will also begin to cool off
-through the next few nights as well, with lows in the 50s and 60s
-along and west of the mountains and in the high desert. Increased
-sea breeze winds will be felt along the desert slopes and into the
-deserts each afternoon and evening through Thursday, some areas
-gusting over 35 MPH in the passes and High Desert.
+.LONG TERM (Friday through Monday)...
+The warming trend will continue through Saturday with Saturday
+high temperatures ranging from a few degrees below average for the
+valleys to a few degrees above average for the deserts. High
+temperatures on Saturday will range from the mid to upper 70s near
+the coast to the mid 80s to lower 90s for the Inland Empire with
+100 to 104 for the lower deserts.
 
-The low pressure system to the north will move out by Friday into
-the weekend. Models begin to diverge on what exact pressure systems
-move over the area, but consensus continues to shift toward whatever
-does form will be weak in nature. This will lead to temperatures
-staying near average for the latter part of the week with weaker
-winds across the mountains and deserts.
+During the weekend, a weak upper level low pressure system may
+develop off the California coast and move into California on
+Monday. This will bring a few degrees of cooling for Sunday and
+Monday with Monday high temperatures ranging from the lower to mid
+70s near the coast to the 80s for the Inland Empire with the lower
+deserts around 100. Moisture is limited with the chance of
+measurable rainfall in the mountains on Monday less than 5
+percent.
 
 &&
 
 .AVIATION...
-150000Z...Coast/Valleys...Low clouds based 1700-2100ft MSL have
-started to develop across coastal San Diego County. Intermittent
-CIGs are already spreading into the first few miles along coastal
-San Diego County, with full CIGs expected by 03z. CIGs spread
-northward into Orange County and through the inland valleys of SD
-County through 03-06z, with most of the coastal basin and Inland
-Empire seeing low clouds by 12z. Minor VIS reductions (3-6 SM) for
-elevated inland valleys (KONT, KSBD, KL18), with obscurations down
-to 0-3 SM where clouds intersect higher terrain and within far
-inland valleys like KRNM. Clouds scatter back toward the coastline
-16-18z.
+150600Z...Coast/Valleys...Low clouds based 1700-2000 feet MSL will
+gradually fill most of the coastal basin overnight. Vis reduced
+inland 2-5SM. Scatter out 16-18Z. Low clouds to push ashore after
+03Z Tuesday eve and spread inland overnight again with bases around
+1800-2200 feet MSL.
 
 Mountains/Deserts...Mostly clear and VFR conditions through
-Tuesday morning.
+Tuesday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday morning.
+No hazardous marine conditions are expected through Saturday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -432,8 +445,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE...Munyan
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
