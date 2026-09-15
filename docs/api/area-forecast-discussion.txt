@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-14T21:35:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T03:51:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,28 +352,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-775
-FXUS66 KSGX 141844
+008
+FXUS66 KSGX 150000
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1144 AM PDT Mon Sep 14 2026
+500 PM PDT Mon Sep 14 2026
 
-SYNOPSIS...
-Subtle cooling will continue through the middle of the week as a
-troughing pattern remains over the West Coast with temperatures near
-to up to 10 degrees below average. This pattern will bring night and
-morning low clouds for areas west of the mountains with breezy winds
-across the desert slopes and deserts each day. Subtle warming is
-expected by later this week with temperatures rising back to near
-normal.
+
 
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF PACKAGE...
 
 A rinse and repeat sort of day across the region today as low clouds
 dissipate this morning near the coast with a coastal eddy offshore.
@@ -406,11 +402,16 @@ winds across the mountains and deserts.
 &&
 
 .AVIATION...
-141800Z...Coast/Valleys...SKC and VFR this afternoon, but low clouds
-based 1700-2100 ft MSL will move back ashore starting 01-02z Tue.
-Clouds spread inland overnight, filling most of the coastal basin
-by 12z. Minor vis reductions (3-6SM) for elevated inland valleys
-(KONT, KSBD, KL18). Clouds scatter back toward the coastline
+150000Z...Coast/Valleys...Low clouds based 1700-2100ft MSL have
+started to develop across coastal San Diego County. Intermittent
+CIGs are already spreading into the first few miles along coastal
+San Diego County, with full CIGs expected by 03z. CIGs spread
+northward into Orange County and through the inland valleys of SD
+County through 03-06z, with most of the coastal basin and Inland
+Empire seeing low clouds by 12z. Minor VIS reductions (3-6 SM) for
+elevated inland valleys (KONT, KSBD, KL18), with obscurations down
+to 0-3 SM where clouds intersect higher terrain and within far
+inland valleys like KRNM. Clouds scatter back toward the coastline
 16-18z.
 
 Mountains/Deserts...Mostly clear and VFR conditions through
@@ -423,12 +424,6 @@ No hazardous marine conditions are expected through Saturday morning.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
 PZ...None.
@@ -438,7 +433,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Munyan
 
 
 </pre>
