@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T11:17:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T16:28:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-175
-FXUS66 KSGX 150735
+749
+FXUS66 KSGX 151128
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1235 AM PDT Tue Sep 15 2026
+428 AM PDT Tue Sep 15 2026
 
 .SYNOPSIS...
 Gradual cooling will continue through Wednesday following by slow
@@ -375,6 +375,8 @@ into the weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Thursday)...
 A low pressure system moving southward along the West Coast into
@@ -415,14 +417,14 @@ percent.
 &&
 
 .AVIATION...
-150600Z...Coast/Valleys...Low clouds based 1700-2000 feet MSL will
-gradually fill most of the coastal basin overnight. Vis reduced
-inland 2-5SM. Scatter out 16-18Z. Low clouds to push ashore after
-03Z Tuesday eve and spread inland overnight again with bases around
-1800-2200 feet MSL.
+151130Z...Coast/Valleys...Low clouds based 1800-2200 feet MSL will
+fill the coastal basin by sunrise. Vis reduced far inland 1-5SM.
+Scatter out expected 16-18Z. Low clouds to push ashore after 03Z and
+spread inland overnight, filling the coastal basin by 12Z Wednesday.
+Bases around 1900-2400 feet MSL and reduced vis far inland.
 
-Mountains/Deserts...Mostly clear and VFR conditions through
-Tuesday.
+Mountains/Deserts...Mostly clear and VFR conditions today and
+tonight.
 
 &&
 
