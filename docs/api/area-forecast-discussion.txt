@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-15T20:57:10+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-16T03:48:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-203
-FXUS66 KSGX 151852
+979
+FXUS66 KSGX 152347
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1152 AM PDT Tue Sep 15 2026
+447 PM PDT Tue Sep 15 2026
 
 .SYNOPSIS...
 Area temperatures will be up to 10 degrees below average through
@@ -373,6 +373,8 @@ next week, where temperatures will rise closer to normal.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 An area of low pressure is beginning to form near Seattle and
 Vancouver. This system will work its way southward through Thursday,
@@ -404,28 +406,23 @@ temperatures once again.
 &&
 
 .AVIATION...
-151800Z...Coast/Valleys...Remaining low clouds over coastal areas
-will clear out within the next hour or so. SKC and VFR for this
-afternoon. Low clouds based 1900-2400 ft MSL push back ashore 00-02z
-Wed in San Diego County and 02-04z in Orange County. Clouds quickly
-fill the coastal basin overnight. Patchy drizzle for coastal sites
-early Wed morning with intermittent minor cig/vis reductions
-possible. Clouds scatter back to the coastline 16-19z, though patchy
-low clouds may linger through Wed afternoon near the coast.
+160000Z...Coast/Valleys...Low clouds based around 2200-2800ft MSL
+move to the coast around 01-02z, pushing inland after 03z and
+filling in most of the coastal basin by 06z. Expect clouds to push
+into the Inland Empire after 05z, widespread by 10z. Patchy drizzle
+for coastal sites early Wed morning with intermittent minor VIS
+reductions possible. Clouds scatter back to the coastline 16-19z,
+though patchy low clouds may linger through Wed afternoon near the
+coast.
 
 Mountains/Deserts...Mostly clear and VFR conditions today and
-tonight.
+tonight. FEW cu AOA 25,000ft MSL near mountain peaks this evening
+and again Wednesday afternoon.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Saturday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
 
 &&
 
@@ -438,7 +435,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...KW
+AVIATION/MARINE...Zuber
 
 
 </pre>
