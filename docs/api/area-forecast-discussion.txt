@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-16T10:59:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-16T16:19:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-209
-FXUS66 KSGX 160811
+961
+FXUS66 KSGX 161132
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-111 AM PDT Wed Sep 16 2026
+432 AM PDT Wed Sep 16 2026
 
 .SYNOPSIS...
 High temperatures will remain as much as 5 to 10 degrees below
@@ -377,6 +375,8 @@ spreading inland much past the far western valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 Low pressure moving southward into California today will weaken
@@ -425,14 +425,14 @@ locations.
 &&
 
 .AVIATION...
-160600Z...Coast/Valleys...Low clouds based around 2000-2500 feet MSL
-will continue to gradually move inland overnight, but are not
-expected to uniformly cover the inland coastal basin. Vis reduced
-far inland 1-5SM. Clouds scatter out by 16-18Z. Low clouds based
-similarly will move ashore after 03Z Wednesday eve.
+161130Z...Coast/Valleys...Low clouds based around 2800-3500 feet MSL
+will cover most of the coastal basin this morning. Clouds scatter
+out by 16-18Z. Low clouds around 2500-3000 feet MSL will move ashore
+after 03Z and again fill most of the coastal basin overnight into
+Thursday morning.
 
-Mountains/Deserts...Mostly clear and VFR conditions through
-Wednesday.
+Mountains/Deserts...Mostly clear and VFR conditions today and
+tonight.
 
 &&
 
@@ -444,7 +444,6 @@ No hazardous marine conditions are expected through Sunday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
