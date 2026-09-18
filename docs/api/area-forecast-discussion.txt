@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-18T15:59:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-18T20:33:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,26 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-019
-FXUS66 KSGX 180932
+130
+FXUS66 KSGX 181946
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-232 AM PDT Fri Sep 18 2026
+1246 PM PDT Fri Sep 18 2026
 
 .SYNOPSIS...
-High temperatures will warm a few degrees for today and Saturday
-and cool a few degrees for Sunday and Monday, but remain at least
-a few degrees below average for the valleys. High pressure to the
-east will bring a warming trend beginning on Tuesday with high
-temperatures warming to around average for next Wednesday and a
-few degrees above average for next Thursday. The marine layer will
-become shallower over the weekend with night and morning coastal
-low clouds not spreading as far into the valleys.
+Temperatures remain below normal into Wednesday with a present
+marine layer. Warmer weather returns for the end of next week as
+high pressure builds.
 
 &&
 
@@ -370,67 +369,49 @@ low clouds not spreading as far into the valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Mid-level water vapor satellite imagery shows a trough over the
+PacNW with a squished ridge just off the OR coast on the heels of
+the trough. Temperatures warm Saturday as the trough is pushed
+eastward and the ridge sets up over the West Coast, increasing
+heights. Even with this pattern change, temperatures will still
+remain below normal by about 1-4 degrees, with highs in the mid 70s
+for the coast & mountains, 80s for inland spots and High Desert, and
+near 100 for the lower deserts. The marine layer both Saturday and
+Sunday morning will be slightly shallower than its been the past few
+days, burning off quicker and not making it as far inland.
 
-...UPDATED AVIATION DISCUSSION...
+The ridge won`t remain in place for very long as a secondary trough
+immediately behind it punts it eastward. This next trough is poised
+to become a closed low, settling over Central CA by Monday. Onshore
+flow will increase late Sunday and Monday while the marine layer
+will deepen once again. Temperatures in turn will be cooler Sun-Tue,
+coldest Monday, with highs 5-12 degrees below normal.
 
-.SHORT TERM (Today through Sunday)...
-Low pressure over California will weaken and move inland today
-with high pressure aloft moving inland across California on
-Saturday. A low pressure system will develop off the California
-coast on Sunday and move inland into California on Monday.
-
-High temperatures will warm a few degrees today and a few more
-degrees on Saturday with high temperatures on Saturday still as
-much as 5 degrees below average for the valleys. High temperatures
-on Saturday will range from the 70s near the coast to the mid 80s
-to lower 90s for the Inland Empire with the lower deserts around
-100. High temperatures on Sunday will be a degree or two cooler
-for the coast and valleys.
-
-The marine layer is around 3500 to 4000 feet, lower than the 4500
-to 5000 feet for early Thursday. Coastal low clouds will extend
-inland across much of the valleys into this morning, then not as
-far into the valleys during the weekend as the marine layer
-becomes shallower.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-High temperatures on Monday will cool another few to around 5
-degrees with the greatest cooling for the inland valleys onto the
-the coastal slopes of the mountains. High temperatures on Monday
-will be as much as 5 to 10 degrees below average for the mountains
-and valleys with high temperatures ranging from the lower to mid
-70s near the coast to the upper 70s to mid 80s for the Inland
-Empire with the lower deserts in the upper 90s.
-
-High pressure over Texas and northern Mexico is expected to bring
-a warming trend beginning on Tuesday and continuing for much of
-the rest of next week, though with increasing spread in just how
-much warming may occur. NBM has the greater warming for Tuesday
-and Wednesday with lesser additional warming for Thursday and
-Friday.
-
-High temperatures would warm to within a few degrees above and
-below average on Wednesday and to a few degrees above average on
-Thursday. High temperatures on Thursday would range from the mid
-to upper 70s near the coast to the upper 80s to mid 90s for the
-Inland Empire with 100 to 104 for the lower deserts. Dry weather
-is expected to continue through much of next week.
+The pattern changes once again Wednesday as the trough becomes
+absorbed into the upper level pattern with a massive low sitting off
+the Canadian coastline. High pressure slides over the SoCal waters
+and builds quickly late next week. This should return us to a
+warming trend, rebounding temperatures back above normal. At this
+point, models disagree on the overall placement of the high, as well
+as how the aforementioned Canadian low might move. As such, models
+show a significant temperature spread for the end of next week and
+into the weekend, with some resolving highs closer to near normal
+with others around 5-8 degrees above. Some guidance also indicates
+that the southwesterly flow could push monsoonal moisture back up
+into the SoCal mountains, but a clearer picture of where the high
+pressure may be is needed before there is significant confidence in
+this.
 
 &&
 
 .AVIATION...
-180930Z...Coast/Valleys...Low clouds based around 2000-3000 ft MSL
-are covering most of the San Diego County lowlands up to the
-foothills. While some clouds may develop in the southern Inland
-Empire after 10z, chances for intermittent cigs across Orange County
-and the northern Inland Empire have dropped below 25%, through 17z.
-Cigs are expected to scatter out in inland SD County through 14z as
-bases rise to 2500-4000 ft MSL before fully scattering out at the
-coast 16-17z. SKC through the afternoon, then clouds develop
-throughout lower SD County 04-08z Sat with similar bases.
-
+181800Z...Coast/Valleys...Low clouds based 3000-4000 ft MSL are
+swiftly retreating west, with clearing expected by 19-20z. SKC
+through the afternoon, then clouds develop throughout lower SD
+County 04-08z Sat at 2000-3000 ft MSL, before spreading into OC and
+the south IE early Sat morning. Clouds are unlikely to make their
+way into vcnty KONT/KSBD (only about a 15% chance for cigs). Clouds
+clear offshore again 16-18z Sat.
 
 Mountains/Deserts...Mostly clear and VFR conditions through Sat.
 
@@ -438,13 +419,6 @@ Mountains/Deserts...Mostly clear and VFR conditions through Sat.
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -456,8 +430,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...Westerink
+PUBLIC...Zuber
+AVIATION/MARINE...CSP
 
 
 </pre>
