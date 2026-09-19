@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T10:27:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T15:31:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-049
-FXUS66 KSGX 190851
+207
+FXUS66 KSGX 191132
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-151 AM PDT Sat Sep 19 2026
+432 AM PDT Sat Sep 19 2026
 
 .SYNOPSIS...
 Temperatures remain below normal into Wednesday with a present
@@ -368,6 +368,9 @@ high pressure builds.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The 00z sounding Friday afternoon shows a well mixed marine boundary
 layer, around 3000 feet deep. Low clouds will be patchy overnight
@@ -415,16 +418,16 @@ average or dip below average again.
 &&
 
 .AVIATION...
-190415Z...Coast/Valleys...Patchy low clouds based 1800-2500 ft MSL
-are developing over coastal San Diego County. Clouds will become
-more uniform and spread north into Orange County and east in
-portions of the valleys early Sat morning. Clouds are unlikely to
-make their way into vcnty KONT/KSBD (only about a 15% chance for
-cigs). Clouds clear offshore again 16-18z Sat. Moderate confidence
-in low clouds with similar bases developing after 06Z Sun, with low
-confidence in timing.
+191130Z...Coast/Valleys...Low clouds based 2000-3000ft MSL will be
+intermittent for parts of the Inland Empire and Orange County this
+morning. Low to moderate confidence on cigs covering KONT and KSNA
+this morning between 13-16Z. Clearing from valleys to coast 16-18Z.
+Cigs slightly lower 1500-2500 ft MSL tonight into Sunday morning.
+Low clouds pushing ashore 02-04Z Sunday with lower confidence on
+cigs covering areas of the Inland Empire after 12Z Sun.
 
-Mountains/Deserts...Mostly clear and VFR conditions through Sat.
+Mountains/Deserts...Mostly clear and VFR conditions through the
+weekend.
 
 &&
 
@@ -437,7 +440,6 @@ No hazardous marine conditions are expected through Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -449,7 +451,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...CO
+AVIATION/MARINE...APR
 
 
 </pre>
