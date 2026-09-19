@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-18T20:33:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T03:37:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-130
-FXUS66 KSGX 181946
+451
+FXUS66 KSGX 190009
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1246 PM PDT Fri Sep 18 2026
+509 PM PDT Fri Sep 18 2026
 
 .SYNOPSIS...
 Temperatures remain below normal into Wednesday with a present
@@ -368,6 +368,9 @@ high pressure builds.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Mid-level water vapor satellite imagery shows a trough over the
 PacNW with a squished ridge just off the OR coast on the heels of
@@ -405,20 +408,26 @@ this.
 &&
 
 .AVIATION...
-181800Z...Coast/Valleys...Low clouds based 3000-4000 ft MSL are
-swiftly retreating west, with clearing expected by 19-20z. SKC
-through the afternoon, then clouds develop throughout lower SD
-County 04-08z Sat at 2000-3000 ft MSL, before spreading into OC and
-the south IE early Sat morning. Clouds are unlikely to make their
-way into vcnty KONT/KSBD (only about a 15% chance for cigs). Clouds
-clear offshore again 16-18z Sat.
+190000Z...Coast/Valleys...Low clouds expected to develop starting in
+San Diego County 04-08z Sat at 2000-3000 ft MSL. Clouds will spread
+north into Orange County and east in portions of the valleys early
+Sat morning. Clouds are unlikely to make their way into vcnty
+KONT/KSBD (only about a 15% chance for cigs). Clouds clear offshore
+again 16-18z Sat.
 
 Mountains/Deserts...Mostly clear and VFR conditions through Sat.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -431,7 +440,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...CSP
+AVIATION/MARINE...CO
 
 
 </pre>
