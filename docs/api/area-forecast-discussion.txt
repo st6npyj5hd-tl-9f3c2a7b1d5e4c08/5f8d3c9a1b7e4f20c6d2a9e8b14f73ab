@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T03:37:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T10:27:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-451
-FXUS66 KSGX 190009
+049
+FXUS66 KSGX 190851
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-509 PM PDT Fri Sep 18 2026
+151 AM PDT Sat Sep 19 2026
 
 .SYNOPSIS...
 Temperatures remain below normal into Wednesday with a present
@@ -369,51 +369,60 @@ high pressure builds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The 00z sounding Friday afternoon shows a well mixed marine boundary
+layer, around 3000 feet deep. Low clouds will be patchy overnight
+through the coastal basin and scatter out to the coast between 8-11
+AM this morning.
 
-...UPDATED AVIATION DISCUSSION...
+While the coastal basin will maintain modest minimum relative
+humidity values (30-60% inland, 60-80% coast) this afternoon,
+conditions will be very dry for higher mountain communities and
+eastward into the deserts, dropping to 8-15%. These low daytime
+humidities improve for mountains/deserts through Monday afternoon
+with more typical minimum RH values down to 15-30%.
 
-Mid-level water vapor satellite imagery shows a trough over the
-PacNW with a squished ridge just off the OR coast on the heels of
-the trough. Temperatures warm Saturday as the trough is pushed
-eastward and the ridge sets up over the West Coast, increasing
-heights. Even with this pattern change, temperatures will still
-remain below normal by about 1-4 degrees, with highs in the mid 70s
-for the coast & mountains, 80s for inland spots and High Desert, and
-near 100 for the lower deserts. The marine layer both Saturday and
-Sunday morning will be slightly shallower than its been the past few
-days, burning off quicker and not making it as far inland.
+The closed upper low over Idaho continues to trek eastward and is
+being replaced by a shortwave ridge, bumping up our temperatures
+this afternoon by 3-6 degrees relative to yesterday. The ridge moves
+out of the region quickly as another closed low approaches from the
+west Sunday, centering over Central California by Monday.
+Temperatures once again drop to 6-12 degrees below average across
+inland areas Monday as the marine layer deepens and low clouds fill
+the coastal basin during the nights and early mornings of early next
+week.
 
-The ridge won`t remain in place for very long as a secondary trough
-immediately behind it punts it eastward. This next trough is poised
-to become a closed low, settling over Central CA by Monday. Onshore
-flow will increase late Sunday and Monday while the marine layer
-will deepen once again. Temperatures in turn will be cooler Sun-Tue,
-coldest Monday, with highs 5-12 degrees below normal.
+The upper closed low weakens and combines with the main jet stream
+in the Northern Rockies, leaving behind very weak higher pressure
+anomalies over the eastern Great Basin and thus perhaps a very
+weak N/E low level offshore pressure gradient Wednesday (~20%
+chance). The extent of the effects would be limited to how dry the
+air would be through the deserts and mountains and thus how much
+the daytime temperatures could spike for inland later in the week.
+With the trough already moving out, temperatures are already
+forecast to jump up 5-10 degrees into Wednesday with highs later
+in the week (including Wednesday) reaching back into the low-100s
+in the low deserts, mid-90s in the IE, mid/upper 80s inland and
+around 80 for coastal areas. These are all temperatures typical
+for mid-September, though maybe a few degrees above average at the
+coast.
 
-The pattern changes once again Wednesday as the trough becomes
-absorbed into the upper level pattern with a massive low sitting off
-the Canadian coastline. High pressure slides over the SoCal waters
-and builds quickly late next week. This should return us to a
-warming trend, rebounding temperatures back above normal. At this
-point, models disagree on the overall placement of the high, as well
-as how the aforementioned Canadian low might move. As such, models
-show a significant temperature spread for the end of next week and
-into the weekend, with some resolving highs closer to near normal
-with others around 5-8 degrees above. Some guidance also indicates
-that the southwesterly flow could push monsoonal moisture back up
-into the SoCal mountains, but a clearer picture of where the high
-pressure may be is needed before there is significant confidence in
-this.
+Beyond, WPC model clusters are converging on solutions showing
+another trough developing off of the west coast by next weekend.
+The amplitude and intensity of this trough are uncertain, and
+there is thus uncertainty about whether temperatures stay near
+average or dip below average again.
 
 &&
 
 .AVIATION...
-190000Z...Coast/Valleys...Low clouds expected to develop starting in
-San Diego County 04-08z Sat at 2000-3000 ft MSL. Clouds will spread
-north into Orange County and east in portions of the valleys early
-Sat morning. Clouds are unlikely to make their way into vcnty
-KONT/KSBD (only about a 15% chance for cigs). Clouds clear offshore
-again 16-18z Sat.
+190415Z...Coast/Valleys...Patchy low clouds based 1800-2500 ft MSL
+are developing over coastal San Diego County. Clouds will become
+more uniform and spread north into Orange County and east in
+portions of the valleys early Sat morning. Clouds are unlikely to
+make their way into vcnty KONT/KSBD (only about a 15% chance for
+cigs). Clouds clear offshore again 16-18z Sat. Moderate confidence
+in low clouds with similar bases developing after 06Z Sun, with low
+confidence in timing.
 
 Mountains/Deserts...Mostly clear and VFR conditions through Sat.
 
@@ -439,7 +448,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
+PUBLIC...Westerink
 AVIATION/MARINE...CO
 
 
