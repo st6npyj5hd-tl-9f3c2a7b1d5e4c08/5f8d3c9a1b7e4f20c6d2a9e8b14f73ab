@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T10:49:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T15:37:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-913
-FXUS66 KSGX 200704
+992
+FXUS66 KSGX 201155
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1204 AM PDT Sun Sep 20 2026
+455 AM PDT Sun Sep 20 2026
 
 .SYNOPSIS...
 Temperatures remain below normal until Wednesday with a deep
@@ -366,6 +366,9 @@ weather returns for the end of next week as high pressure builds.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The 00z sounding Saturday afternoon shows a well mixed marine
 boundary layer, around 2500 feet deep with an inversion up to 5,000
@@ -394,29 +397,32 @@ across the Southern US replaces the low and fills in over SoCal,
 immediately spiking the temperatures back to near average for
 inland areas for Wednesday, a jump of nearly 8-12F. That
 corresponds to highs within a few degrees of 80 at the coast,
-upper 80s inland, mid- 90s in the IE and low-100s in the lower
+upper 80s inland, mid-90s in the IE and low-100s in the lower
 deserts Wednesday through Friday.
 
 At this time, both the ECMWF and GFS are in agreement that a trough
-will move through NorCal and the PNW next weekend though it remains
-uncertain how much it will have an influence on temperatures in
-SoCal.
-
+will move through NorCal and the PNW next weekend, though it
+remains uncertain how much it will have an influence on
+temperatures in SoCal.
 
 &&
 
 .AVIATION...
-200430Z...Coast/Valleys...Low clouds with cigs ~1500-2200ft MSL will
-become more widespread and reach up to 20 miles inland by 12z. There
-is a ~30-40% chance for cigs to reach KONT between 12-16z. Cigs
-scatter back out 16-18z Sunday, with highest confidence in scatter
-out timing for inland locations. It`s possible clearing will be
-slower along the coast. Low clouds will return 01-04Z Mon along the
-coast with increased chances of cigs filling in the coastal basin by
-Mon AM.
+201200Z...Coast/Valleys...Low clouds currently covering much of the
+coastal basin will begin to scatter back toward the coast after 16Z.
+Confidence increasing that coastal TAF sites in San Diego County
+will see intermittent cigs through the afternoon hours; better
+chance of longer scatter out at KSNA.
 
-Mountains/Deserts...VFR conditions through Sunday with SCT high
-clouds AOA 20000 ft MSL in the desert.
+BKN high clouds AOA 20K ft becoming more scattered into the
+afternoon. Low clouds with higher bases returning 01-04Z Mon along
+the coast near 1800-2800ft MSL. Moderate to high confidence in low
+clouds filling the entire coastal basin early Monday morning with
+scatter out time slightly later than today for inland valleys.
+
+Mountains/Deserts...VFR conditions through Sunday. BKN high clouds
+AOA 20000 ft MSL becoming SCT to FEW in the afternoon and
+overnight.
 
 &&
 
@@ -429,7 +435,6 @@ No hazardous marine conditions are expected through Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -441,7 +446,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE...CO
+AVIATION/MARINE...APR
 
 
 </pre>
