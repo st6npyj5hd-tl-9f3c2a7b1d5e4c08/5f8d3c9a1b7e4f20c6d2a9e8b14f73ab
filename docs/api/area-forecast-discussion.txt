@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T15:37:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T20:27:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,21 +345,23 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-992
-FXUS66 KSGX 201155
+855
+FXUS66 KSGX 201821
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-455 AM PDT Sun Sep 20 2026
+1121 AM PDT Sun Sep 20 2026
 
 .SYNOPSIS...
 Temperatures remain below normal until Wednesday with a deep
 marine layer and perhaps morning drizzle early week. Warmer
-weather returns for the end of next week as high pressure builds.
+weather returns for the end of the week as high pressure builds.
 
 &&
 
@@ -367,73 +369,70 @@ weather returns for the end of next week as high pressure builds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The marine layer pushed in efficiently this morning, filling in
+the coastal basin and western valleys. High clouds associated with
+an upper level low over Central CA will continue to stream into
+SoCal through the afternoon. Even as the low marine layer clouds
+burn off, these higher clouds will keep temperatures a bit cooler
+today as well as decreasing heights thanks to the aforementioned
+low. Highs this afternoon will be 2-6 degrees below normal, in the
+mid 70s for coastal areas, 80s for inland spots and High Desert,
+and 90s for the lower deserts. The cooling trend continues into
+Monday as the low deepens to the north, encouraging stronger
+southwest flow and a deeper marine layer both Monday and Tuesday.
+While moisture isn`t robust, both mornings may feature a deep
+enough marine layer to be sufficient for some localized patchy
+drizzle.
 
-...UPDATED AVIATION DISCUSSION...
+The low will become absorbed into the larger trough and sweep
+northward on Tuesday. Behind it, CA will be in transition between a
+strengthening high over Texas and a large Canadian low north of
+Washington. The Texas high will attempt to elongate and return the
+region to at least weak ridging, but influence from the Canadian low
+may limit the heating towards the end of the week. For now, high
+temperatures should return to near normal or slightly above,
+especially for Thursday/Friday as the ridge becomes compressed by
+the low propagating eastward along the Canadian/US border. This
+could shift the thermal axis closer to CA and increase
+temperatures on Thursday around 10-15 degrees compared to Monday`s
+cooler temps. The spread remains wide on high temps later this
+week, but confidence is growing on a backdoor trough behind the
+main Canadian low that will stretch down to CA sometime over the
+weekend, likely cooling temperatures back to normal by Sunday as
+the ridge is pushed east.
 
-The 00z sounding Saturday afternoon shows a well mixed marine
-boundary layer, around 2500 feet deep with an inversion up to 5,000
-feet and very dry air within and above it. Patchy low clouds are
-expected to fill over the lowlands of San Diego and Orange Counties
-as well as parts of the Inland Empire through this morning. The
-closed upper low continues to approach our region through Monday,
-deepening the marine layer to about 4000-5000 feet tonight into
-early Monday and significantly improving minimum humidities Monday
-afternoon across mountains (12-25% this afternoon to 25-50%
-Monday) and deserts (10-15% this afternoon to 18-30% Monday). With
-the deepening marine layer, there is a moderate chance for
-drizzle in the coastal basin early Monday and early Tuesday.
-
-Monday will also likely be the coolest and breeziest day of the
-week as the main trough axis passes through the region. W/SW
-winds will be slightly elevated Monday afternoon and evening over
-desert slopes, gusting 20-35 mph and higher through the Banning
-Pass. Temperatures will likely struggle to reach the 80s across
-the Coastal Basin with perhaps a few low-80s in the IE while low
-desert temperatures are likely (80% chance) to remain below 100F
-both Monday AND Tuesday.
-
-As the closed low departs the region, the longwave background ridge
-across the Southern US replaces the low and fills in over SoCal,
-immediately spiking the temperatures back to near average for
-inland areas for Wednesday, a jump of nearly 8-12F. That
-corresponds to highs within a few degrees of 80 at the coast,
-upper 80s inland, mid-90s in the IE and low-100s in the lower
-deserts Wednesday through Friday.
-
-At this time, both the ECMWF and GFS are in agreement that a trough
-will move through NorCal and the PNW next weekend, though it
-remains uncertain how much it will have an influence on
-temperatures in SoCal.
+Models are beginning to show the development of a tropical cyclone
+south of Baja late this week. NHC indicates that there is about a
+90% chance of development here in the next 48 hours, although there
+is no confidence on track until after formation. Early indications
+suggest should something form, the elongated high may influence the
+propagation of such a system, and we will keep a close eye on any
+development here or if there are any impacts associated. Further
+information can be found at NHC`s website at nhc.noaa.gov.
 
 &&
 
 .AVIATION...
-201200Z...Coast/Valleys...Low clouds currently covering much of the
-coastal basin will begin to scatter back toward the coast after 16Z.
-Confidence increasing that coastal TAF sites in San Diego County
-will see intermittent cigs through the afternoon hours; better
-chance of longer scatter out at KSNA.
+201800Z...Coast/Valleys...Partially masked on satellite by SCT-BKN
+high clouds, lower marine layer clouds (based near 2500ft MSL) that
+spread well inland overnight have begun to erode across the inland
+valleys. Under the influence of a larger storm system spreading into
+California, SCT marine layer clouds look to remain present along the
+coasts into the afternoon. Intermittent BKN CIGs remain possible
+into the afternoon. Come 00z Monday, expecting these low clouds to
+redevelop and surge back inland, filling the entire coastal basin by
+09z. Bases will generally lift to around 2500-3000ft MSL, but could
+lift above 3000ft overnight. Clouds begin to scatter around 16-18z,
+but could take until as late as 21z Monday to fully clear out.
 
-BKN high clouds AOA 20K ft becoming more scattered into the
-afternoon. Low clouds with higher bases returning 01-04Z Mon along
-the coast near 1800-2800ft MSL. Moderate to high confidence in low
-clouds filling the entire coastal basin early Monday morning with
-scatter out time slightly later than today for inland valleys.
-
-Mountains/Deserts...VFR conditions through Sunday. BKN high clouds
-AOA 20000 ft MSL becoming SCT to FEW in the afternoon and
+Mountains/Deserts...VFR conditions prevail into Monday. BKN high
+clouds AOA 20000 ft MSL becoming SCT to FEW in the afternoon and
 overnight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
@@ -445,8 +444,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE...APR
+PUBLIC...Zuber
+AVIATION/MARINE...Munyan
 
 
 </pre>
