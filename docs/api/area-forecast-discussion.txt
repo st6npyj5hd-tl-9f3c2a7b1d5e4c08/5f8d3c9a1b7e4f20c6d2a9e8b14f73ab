@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-19T20:10:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T03:53:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-801
-FXUS66 KSGX 191915
+359
+FXUS66 KSGX 200023
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1215 PM PDT Sat Sep 19 2026
+523 PM PDT Sat Sep 19 2026
 
 .SYNOPSIS...
 Temperatures remain below normal until Wednesday with a present
@@ -366,6 +366,9 @@ high pressure builds.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Not much change to the forecast over the past 24 hours. In the short
 term, upper level riding will allow for temperatures to warm closer
@@ -404,21 +407,25 @@ pattern, but quieter weather seems to prevail for now.
 &&
 
 .AVIATION...
-191800Z...Coast/Valleys...Low clouds have scattered out this
-morning, with VFR prevailing into the late afternoon. CIGs slightly
-lower (~1500-2200ft MSL) may return as early as 03z Sunday, but
-could be initially somewhat patchy between 03-06z. Clouds spread
-into Orange County and through 15-20 miles inland by 12z. There is a
-~30-40% chance for CIGs to reach KONT between 12-16z. CIGs scatter
-back out 16-18z Sunday.
+200000Z...Coast/Valleys...CIGs slightly lower (~1500-2200ft MSL) may
+return as early as 03z Sunday, but could be initially patchy between
+03-06z. Clouds spread into Orange County and up to 20 miles inland
+by 12z. There is a ~30-40% chance for CIGs to reach KONT between 12-
+16z. CIGs scatter back out 16-18z Sunday.
 
-Mountains/Deserts...Mostly clear and VFR conditions through the
-weekend.
+Mountains/Deserts...Mostly clear and VFR conditions through Sunday.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Thursday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -431,7 +438,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...CO
 
 
 </pre>
