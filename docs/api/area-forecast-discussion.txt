@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T03:53:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T10:49:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,18 +348,18 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-359
-FXUS66 KSGX 200023
+913
+FXUS66 KSGX 200704
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-523 PM PDT Sat Sep 19 2026
+1204 AM PDT Sun Sep 20 2026
 
 .SYNOPSIS...
-Temperatures remain below normal until Wednesday with a present
-marine layer. Warmer weather returns for the end of next week as
-high pressure builds.
+Temperatures remain below normal until Wednesday with a deep
+marine layer and perhaps morning drizzle early week. Warmer
+weather returns for the end of next week as high pressure builds.
 
 &&
 
@@ -367,53 +367,56 @@ high pressure builds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The 00z sounding Saturday afternoon shows a well mixed marine
+boundary layer, around 2500 feet deep with an inversion up to 5,000
+feet and very dry air within and above it. Patchy low clouds are
+expected to fill over the lowlands of San Diego and Orange Counties
+as well as parts of the Inland Empire through this morning. The
+closed upper low continues to approach our region through Monday,
+deepening the marine layer to about 4000-5000 feet tonight into
+early Monday and significantly improving minimum humidities Monday
+afternoon across mountains (12-25% this afternoon to 25-50%
+Monday) and deserts (10-15% this afternoon to 18-30% Monday). With
+the deepening marine layer, there is a moderate chance for
+drizzle in the coastal basin early Monday and early Tuesday.
 
-...UPDATED AVIATION DISCUSSION...
+Monday will also likely be the coolest and breeziest day of the
+week as the main trough axis passes through the region. W/SW
+winds will be slightly elevated Monday afternoon and evening over
+desert slopes, gusting 20-35 mph and higher through the Banning
+Pass. Temperatures will likely struggle to reach the 80s across
+the Coastal Basin with perhaps a few low-80s in the IE while low
+desert temperatures are likely (80% chance) to remain below 100F
+both Monday AND Tuesday.
 
-Not much change to the forecast over the past 24 hours. In the short
-term, upper level riding will allow for temperatures to warm closer
-to normal today, with highs in the mid 70s along the coast, 80s for
-inland spots and High Desert, and around 100 for the lower deserts.
-Afternoon humidity will fall to around 10% for areas east of the
-mountains today, with these drier conditions prevailing into Sunday
-even as temperatures cool a degree or two for Sunday afternoon.
+As the closed low departs the region, the longwave background ridge
+across the Southern US replaces the low and fills in over SoCal,
+immediately spiking the temperatures back to near average for
+inland areas for Wednesday, a jump of nearly 8-12F. That
+corresponds to highs within a few degrees of 80 at the coast,
+upper 80s inland, mid- 90s in the IE and low-100s in the lower
+deserts Wednesday through Friday.
 
-Mid-level water vapor satellite shows a deepening low off the coast
-of CA which is expected to move inland late this weekend, kicking
-the aforementioned ridge eastward. With that, a cooling trend sets
-in beginning Sunday, with more significant cooling Monday as the low
-settles over Central CA. Southwest flow and lower heights will
-encourage a deeper marine layer Monday and Tuesday mornings, with
-low (10-15% chance) of some localized marine layer drizzle either of
-those mornings. Clouds will make it further inland, with slow
-clearing at the coastline in the afternoons. Highs on Monday may not
-break above the 70s for many locations, with only double digits in
-the lower deserts. These highs will generally be 5-13 degrees below
-where they normally are for the latter half of September.
+At this time, both the ECMWF and GFS are in agreement that a trough
+will move through NorCal and the PNW next weekend though it remains
+uncertain how much it will have an influence on temperatures in
+SoCal.
 
-The cooler weather won`t prevail beyond Tuesday as the low becomes
-absorbed into the upper level pattern and swings northward thanks to
-a massive low sitting off the Canadian coastline. With the
-departure, subsidence will start to build over the SoCal waters late
-next week. Models still disagree on the extent of high pressure and
-where it might set up, as well as the propagation of the Canadian
-low. Due to this, there remains a large spread on forecasted high
-temperatures for the latter half of next week and into the weekend,
-although general consensus is that temperatures will warm at least
-to near or slightly above normal. The forecast may change in the
-coming days as models become better aligned with the overall
-pattern, but quieter weather seems to prevail for now.
 
 &&
 
 .AVIATION...
-200000Z...Coast/Valleys...CIGs slightly lower (~1500-2200ft MSL) may
-return as early as 03z Sunday, but could be initially patchy between
-03-06z. Clouds spread into Orange County and up to 20 miles inland
-by 12z. There is a ~30-40% chance for CIGs to reach KONT between 12-
-16z. CIGs scatter back out 16-18z Sunday.
+200430Z...Coast/Valleys...Low clouds with cigs ~1500-2200ft MSL will
+become more widespread and reach up to 20 miles inland by 12z. There
+is a ~30-40% chance for cigs to reach KONT between 12-16z. Cigs
+scatter back out 16-18z Sunday, with highest confidence in scatter
+out timing for inland locations. It`s possible clearing will be
+slower along the coast. Low clouds will return 01-04Z Mon along the
+coast with increased chances of cigs filling in the coastal basin by
+Mon AM.
 
-Mountains/Deserts...Mostly clear and VFR conditions through Sunday.
+Mountains/Deserts...VFR conditions through Sunday with SCT high
+clouds AOA 20000 ft MSL in the desert.
 
 &&
 
@@ -437,7 +440,7 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
+PUBLIC...Westerink
 AVIATION/MARINE...CO
 
 
