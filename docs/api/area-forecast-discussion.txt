@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-20T20:27:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-21T03:50:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-855
-FXUS66 KSGX 201821
+950
+FXUS66 KSGX 210006
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1121 AM PDT Sun Sep 20 2026
+506 PM PDT Sun Sep 20 2026
 
 .SYNOPSIS...
 Temperatures remain below normal until Wednesday with a deep
@@ -368,6 +368,9 @@ weather returns for the end of the week as high pressure builds.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF ISSUANCE...
 
 The marine layer pushed in efficiently this morning, filling in
 the coastal basin and western valleys. High clouds associated with
@@ -413,26 +416,27 @@ information can be found at NHC`s website at nhc.noaa.gov.
 &&
 
 .AVIATION...
-201800Z...Coast/Valleys...Partially masked on satellite by SCT-BKN
-high clouds, lower marine layer clouds (based near 2500ft MSL) that
-spread well inland overnight have begun to erode across the inland
-valleys. Under the influence of a larger storm system spreading into
-California, SCT marine layer clouds look to remain present along the
-coasts into the afternoon. Intermittent BKN CIGs remain possible
-into the afternoon. Come 00z Monday, expecting these low clouds to
-redevelop and surge back inland, filling the entire coastal basin by
-09z. Bases will generally lift to around 2500-3000ft MSL, but could
-lift above 3000ft overnight. Clouds begin to scatter around 16-18z,
-but could take until as late as 21z Monday to fully clear out.
+210000Z...Coast/Valleys...FEW low clouds with bases around 2500 ft
+MSL. Expecting these low clouds to increase in coverage and surge
+back inland after 02Z, filling the entire coastal basin by 09z.
+Bases will generally lift to around 2500-3000 ft MSL, but could lift
+above 3000 ft overnight. Clouds begin to clear around 16-18z, but
+could take until as late as 21z Monday to fully clear to the beaches.
 
-Mountains/Deserts...VFR conditions prevail into Monday. BKN high
-clouds AOA 20000 ft MSL becoming SCT to FEW in the afternoon and
-overnight.
+Mountains/Deserts...BKN clouds AOA 20000 ft MSL becoming SCT to FEW
+Monday afternoon, with unrestricted VIS.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Friday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -445,7 +449,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE...Munyan
+AVIATION/MARINE...PG
 
 
 </pre>
