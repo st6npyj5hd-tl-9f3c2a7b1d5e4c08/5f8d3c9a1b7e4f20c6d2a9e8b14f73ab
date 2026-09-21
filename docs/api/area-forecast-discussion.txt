@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-21T03:50:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-21T12:14:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,18 +350,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-950
-FXUS66 KSGX 210006
+882
+FXUS66 KSGX 211156
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-506 PM PDT Sun Sep 20 2026
+456 AM PDT Mon Sep 21 2026
 
 .SYNOPSIS...
-Temperatures remain below normal until Wednesday with a deep
-marine layer and perhaps morning drizzle early week. Warmer
-weather returns for the end of the week as high pressure builds.
+A weak low pressure system moving inland through central and
+southern California today will bring a few more degrees of
+cooling and maintain a marine layer deep enough for night and
+morning coastal low clouds to cover much for the coast and valleys
+into Tuesday morning. Strengthening high pressure to the east and
+weak offshore flow in the mountains for Wednesday and Thursday
+will bring warming of high temperatures to within a few degrees
+of average on Wednesday with more gradual warming for Thursday
+into the weekend.
 
 &&
 
@@ -369,62 +375,72 @@ weather returns for the end of the week as high pressure builds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION DISCUSSION...
 
-...UPDATED AVIATION DISCUSSION FOR THE 00Z TAF ISSUANCE...
+.SHORT TERM (Today through Wednesday)...
+A weak upper level low pressure system will move inland through
+central and southern California today with high temperatures a few
+to around 5 degrees cooler than Sunday and as much as 5 to 10
+degrees below average for the valleys. High temperatures for today
+will range from the lower to mid 70s near the coast to the lower
+80s for the Inland Empire with the lower deserts in the mid to
+upper 90s.
 
-The marine layer pushed in efficiently this morning, filling in
-the coastal basin and western valleys. High clouds associated with
-an upper level low over Central CA will continue to stream into
-SoCal through the afternoon. Even as the low marine layer clouds
-burn off, these higher clouds will keep temperatures a bit cooler
-today as well as decreasing heights thanks to the aforementioned
-low. Highs this afternoon will be 2-6 degrees below normal, in the
-mid 70s for coastal areas, 80s for inland spots and High Desert,
-and 90s for the lower deserts. The cooling trend continues into
-Monday as the low deepens to the north, encouraging stronger
-southwest flow and a deeper marine layer both Monday and Tuesday.
-While moisture isn`t robust, both mornings may feature a deep
-enough marine layer to be sufficient for some localized patchy
-drizzle.
+The upper level low pressure system will weaken and move east on
+Tuesday with high pressure to the east strengthening for Wednesday
+into next weekend. There will be east winds gusting to 15 to 25
+mph for the mountains during the morning on Wednesday and
+Thursday.
 
-The low will become absorbed into the larger trough and sweep
-northward on Tuesday. Behind it, CA will be in transition between a
-strengthening high over Texas and a large Canadian low north of
-Washington. The Texas high will attempt to elongate and return the
-region to at least weak ridging, but influence from the Canadian low
-may limit the heating towards the end of the week. For now, high
-temperatures should return to near normal or slightly above,
-especially for Thursday/Friday as the ridge becomes compressed by
-the low propagating eastward along the Canadian/US border. This
-could shift the thermal axis closer to CA and increase
-temperatures on Thursday around 10-15 degrees compared to Monday`s
-cooler temps. The spread remains wide on high temps later this
-week, but confidence is growing on a backdoor trough behind the
-main Canadian low that will stretch down to CA sometime over the
-weekend, likely cooling temperatures back to normal by Sunday as
-the ridge is pushed east.
+High temperatures on Tuesday will warm a few to around 5 degrees
+with the greatest warming for the inland valleys. Warming will
+continue on Wednesday with high temperatures as much as another 4
+to 8 degrees warmer for the Inland Empire. With the warming, high
+temperatures on Wednesday will be within a few degrees of average
+for most areas. High temperatures on Wednesday will range from the
+mid to upper 70s near the coast to the upper 80s to mid 90s for
+the Inland Empire with the lower deserts around 100.
 
-Models are beginning to show the development of a tropical cyclone
-south of Baja late this week. NHC indicates that there is about a
-90% chance of development here in the next 48 hours, although there
-is no confidence on track until after formation. Early indications
-suggest should something form, the elongated high may influence the
-propagation of such a system, and we will keep a close eye on any
-development here or if there are any impacts associated. Further
-information can be found at NHC`s website at nhc.noaa.gov.
+The marine layer will remain around 3000 to 3500 feet deep into
+Tuesday morning with night and morning coastal low clouds
+spreading inland across most of the coast and valleys overnight.
+The marine layer will become shallower on Wednesday and Thursday
+with coastal low clouds not spreading nearly as far into the
+valleys.
+
+&&
+
+.LONG TERM (Thursday through Sunday)...
+High pressure aloft will remain across northern Mexico and
+adjacent southwest states through the weekend with high
+temperatures warming to around 5 degrees above average for
+Thursday and Friday, and possibly to 5 to 10 degrees above average
+for the coast and valleys on Saturday with an increase in surface
+dewpoints into the mid to upper 60s for coastal areas on Saturday.
+
+Tropical Storm Polo, off the southwest coast of Mexico, is
+forecast by the National Hurricane center to become a major
+hurricane over the new few days with a track eventually and
+generally toward the west northwest which might put the center a
+few hundred miles south of the southern tip of Baja on late Friday
+afternoon. The track uncertainty is even greater beyond Friday.
+There could eventually be at least some peripheral impacts to
+portions of southern California for late in the weekend into early
+next week.
 
 &&
 
 .AVIATION...
-210000Z...Coast/Valleys...FEW low clouds with bases around 2500 ft
-MSL. Expecting these low clouds to increase in coverage and surge
-back inland after 02Z, filling the entire coastal basin by 09z.
-Bases will generally lift to around 2500-3000 ft MSL, but could lift
-above 3000 ft overnight. Clouds begin to clear around 16-18z, but
-could take until as late as 21z Monday to fully clear to the beaches.
+211130Z...Coast/Valleys...Low clouds with bases around 1800-2800
+feet MSL filling the coastal basin, will gradually clear this
+morning around 17-20Z. Patchy low clouds could persist near the
+coast thereafter. Low clouds with similar bases will spread inland
+after 23Z, starting around KSAN and moving northward overnight into
+Tuesday.
 
-Mountains/Deserts...BKN clouds AOA 20000 ft MSL becoming SCT to FEW
-Monday afternoon, with unrestricted VIS.
+Otherwise...BKN clouds AOA 15000 feet MSL over the southeast part of
+the region will gradually clear from west to east this morning. Then
+mostly clear skies with unrestricted VIS after 17Z through tonight.
 
 &&
 
@@ -437,7 +453,6 @@ No hazardous marine conditions are expected through Friday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -448,8 +463,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE...PG
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
