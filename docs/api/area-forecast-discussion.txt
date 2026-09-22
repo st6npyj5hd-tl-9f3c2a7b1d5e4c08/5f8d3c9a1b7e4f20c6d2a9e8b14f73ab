@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-21T21:46:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T03:47:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-936
-FXUS66 KSGX 211826
+275
+FXUS66 KSGX 220027
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1126 AM PDT Mon Sep 21 2026
+527 PM PDT Mon Sep 21 2026
 
 .SYNOPSIS...
 Cooler conditions today with gradual warming for the middle of the
@@ -372,6 +372,9 @@ dry conditions expected to prevail.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Low clouds are hanging on this morning across the coastal basin with
 areas of high clouds streaming to the northeast across the area.
@@ -409,7 +412,7 @@ confidence in any potential impacts, especially in the way of
 flooding. The spread in NBM guidance between 10th percentile and
 90th percentile for 24 hour rainfall is 0 and 0.55 inches
 respectively.
-
+30
 Tropical Cyclone Polo, off the southwest coast of Mexico, is
 forecast by the National Hurricane center to become a major
 hurricane over the new few days with a track eventually and
@@ -422,11 +425,13 @@ peripheral impacts to portions of Southern California.
 &&
 
 .AVIATION...
-211800Z...Coast/Valleys...SCT-BKN low clouds with bases 2000-3500
-feet MSL still cover much of the coastal basin but CIGs are mostly
-above 3000 ft MSL. Low clouds with similar bases will begin to
-increase in coverage around 23Z, covering the coastal basin by 12Z
-Tue. Most CIGs are likely to be above 2000 ft MSL.
+220015Z...Coast/Valleys...SCT-BKN low clouds with bases 2500-3500
+feet MSL are building over Orange County, expanding this evening to
+cover most of the coastal basin by 05z, though there may be some
+areas that remain SKC-FEW in coverage at times. Clouds scatter very
+slowly in coverage after 14z from the coast to the valleys
+through around 18z, then SKC and VFR prevail in the early
+afternoon.
 
 
 Elsewhere...SCT clouds AOA 15000 feet MSL with unrestricted VIS
@@ -455,7 +460,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...PG
+AVIATION/MARINE...Westerink
 
 
 </pre>
