@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T03:47:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T11:07:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,22 +350,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-275
-FXUS66 KSGX 220027
+383
+FXUS66 KSGX 220933
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-527 PM PDT Mon Sep 21 2026
+233 AM PDT Tue Sep 22 2026
 
 .SYNOPSIS...
-Cooler conditions today with gradual warming for the middle of the
-week. Minimal change in temperatures expected for the end of the
-week into the weekend. A deep marine layer will be maintained into
-Tuesday morning with night and morning low clouds spreading into the
-valleys. There is a a slight chance of showers and isolated
-thunderstorms over the mountains Thursday afternoon, with otherwise
-dry conditions expected to prevail.
+High temperatures will warm several degrees for today and
+Wednesday to within a few degrees of average on Wednesday with
+the greatest warming for the inland valleys. Monsoonal moisture
+from the south on Thursday will bring a slight chance of showers
+and thunderstorms during the afternoon. Drying aloft with not
+much change in temperatures for Friday and Saturday with a low
+pressure system moving inland along the West Coast bringing
+cooling for Sunday and Monday.
 
 &&
 
@@ -373,74 +374,63 @@ dry conditions expected to prevail.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Thursday)...
+A weak low pressure system will develop off the coast of northern
+Baja today and linger into Thursday with weak lower-level easterly
+flow and east winds for the mountains at times on Wednesday and
+Thursday. High temperatures for today will warm a few degrees
+near the coast to 5 to locally 10 degrees for the inland valleys
+onto the coastal slopes of the mountains. Similar warming will
+occur again on Wednesday from the coast to the mountains with
+warming also spreading into the deserts. There will be little
+additional warming on Thursday.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures on Wednesday will be within a few degrees above
+or below average for most areas with high temperatures ranging
+from the mid to upper 70s near the coast to the upper 80s to mid
+90s for the Inland Empire with the lower deserts around 100.
 
-Low clouds are hanging on this morning across the coastal basin with
-areas of high clouds streaming to the northeast across the area.
-Cloud coverage could be fairly persistent today for some areas as
-a closed upper level low move east across the US West Coast.
-There were a few sprinkles across the coastal basin this morning
-with continued precipitation to our east in the desert Southwest,
-but there is less than 15 percent chance of accumulating
-precipitation through the afternoon. Under the influence of the
-low, the marine layer will stay 3000 to 3500 ft deep into Tuesday
-morning with low clouds expected to fill in much of the coastal
-basin overnight.
+On Thursday, that weak low pressure system off the northern Baja
+coast could draw some mid-level monsoonal moisture northward into
+southwestern California with a slight chance of showers and
+thunderstorms for the mountains during the afternoon.
 
-Highs today will be a few to around 5 degrees cooler than Sunday and
-as much as 5 to 10 degrees below average for the valleys. High
-temperatures on Tuesday will warm a few to around 5 degrees with the
-greatest warming for the inland valleys. Warming will continue on
-Wednesday with high temperatures as much as another 5 to 10 degrees
-warmer for the Inland Empire and inland Orange County. With the
-warming, high temperatures on Wednesday will be within a few degrees
-of average for most areas. Another few degrees of warming is
-expected Thursday and Friday with temperatures along the coast with
-the highest departure from normal at 7 to 12 degrees. For the latter
-half of the week, overnight lows will increase to the mid-60s to
-70 west of the mountains and in the upper 70s to low 80s in the
-low desert.
+The marine layer is still around 4500 feet deep with low clouds
+over the coastal waters extending well inland across the coast and
+valleys and onto the lower coastal slopes of the mountains. The
+marine layer is expected to decrease in depth for Wednesday and
+Thursday with night and morning coastal low clouds not spreading
+as far inland.
 
-For Thursday, a closed low lingering to our southwest will start to
-move east. This low will have some upper level moisture entrained in
-it which may bring some precipitation to the area, most likely for
-the mountains. The low will bring some increase in instability, so a
-slight chance of isolated thunderstorms (15-20%) has been introduced
-to the forecast, mainly confined to the mountains. There is low
-confidence in any potential impacts, especially in the way of
-flooding. The spread in NBM guidance between 10th percentile and
-90th percentile for 24 hour rainfall is 0 and 0.55 inches
-respectively.
-30
-Tropical Cyclone Polo, off the southwest coast of Mexico, is
-forecast by the National Hurricane center to become a major
-hurricane over the new few days with a track eventually and
-generally toward the west northwest which might put the center a few
-hundred miles south of the southern tip of Baja early Saturday.
-There remains a lot of uncertainty in the forecast for late in the
-weekend into next week but there could eventually be at least some
-peripheral impacts to portions of Southern California.
+&&
+
+.LONG TERM (Friday through Monday)...
+That weak low pressure system off the northern Baja coast will
+weaken and move inland on Thursday with drier westerly flow aloft
+for Friday and Saturday. High pressure aloft over northern Mexico
+and southern Texas will expand westward across Baja during the
+weekend with Hurricane Polo remaining on a west-northwest track
+along the southern edge of the upper high.
+
+Not much change in high temperatures is expected for Friday and
+Saturday with a low pressure system moving inland across the
+western states bringing cooling for Sunday and Monday.
 
 &&
 
 .AVIATION...
-220015Z...Coast/Valleys...SCT-BKN low clouds with bases 2500-3500
-feet MSL are building over Orange County, expanding this evening to
-cover most of the coastal basin by 05z, though there may be some
-areas that remain SKC-FEW in coverage at times. Clouds scatter very
-slowly in coverage after 14z from the coast to the valleys
-through around 18z, then SKC and VFR prevail in the early
-afternoon.
+220530Z...Coast/Valleys...Low clouds with bases 1800-3800 feet MSL
+will gradually increase to produce cigs around 2000-2500 feet MSL
+over most of the coastal basin. Relatively early scatter out vcnty
+KSAN 14-16Z Tuesday, and 15-18Z elsewhere. Low clouds based around
+1500-2000 feet MSL to develop vcnty KSAN after 03Z Tuesday evening.
 
-
-Elsewhere...SCT clouds AOA 15000 feet MSL with unrestricted VIS
-through tonight.
+Otherwise...mostly clear skies through Tuesday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
@@ -459,8 +449,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...MM
 
 
 </pre>
