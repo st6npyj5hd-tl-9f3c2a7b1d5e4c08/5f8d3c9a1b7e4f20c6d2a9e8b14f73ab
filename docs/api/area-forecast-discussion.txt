@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T11:07:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T16:28:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-383
-FXUS66 KSGX 220933
+773
+FXUS66 KSGX 221141
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-233 AM PDT Tue Sep 22 2026
+441 AM PDT Tue Sep 22 2026
 
 .SYNOPSIS...
 High temperatures will warm several degrees for today and
@@ -373,6 +373,8 @@ cooling for Sunday and Monday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Thursday)...
 A weak low pressure system will develop off the coast of northern
@@ -419,13 +421,16 @@ western states bringing cooling for Sunday and Monday.
 &&
 
 .AVIATION...
-220530Z...Coast/Valleys...Low clouds with bases 1800-3800 feet MSL
-will gradually increase to produce cigs around 2000-2500 feet MSL
-over most of the coastal basin. Relatively early scatter out vcnty
-KSAN 14-16Z Tuesday, and 15-18Z elsewhere. Low clouds based around
-1500-2000 feet MSL to develop vcnty KSAN after 03Z Tuesday evening.
+221130Z...Coast/Valleys...Low clouds with bases 3500-4000 feet
+MSL, but with occasional cigs around 2500 feet, will continue over
+most of the coastal basin this morning. Scatter out vcnty KSAN
+15-17Z, and 16-18Z elsewhere. Areas of low clouds based around
+1500-2500 feet MSL to develop vcnty KSAN after 03Z, gradually
+spreading across coastal areas northward overnight. Most bases
+will lower to around 1500 feet MSL after 06Z overnight into
+Wednesday.
 
-Otherwise...mostly clear skies through Tuesday.
+Otherwise...mostly clear skies today and tonight.
 
 &&
 
@@ -437,7 +442,6 @@ No hazardous marine conditions are expected through Saturday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
