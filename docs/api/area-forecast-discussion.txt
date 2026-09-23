@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-22T20:58:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-23T03:46:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-007
-FXUS66 KSGX 222021
+298
+FXUS66 KSGX 230021
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-121 PM PDT Tue Sep 22 2026
+521 PM PDT Tue Sep 22 2026
 
 .SYNOPSIS...
 Warmer conditions for the middle to end of the week with above
@@ -374,6 +374,9 @@ early next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION for 00Z TAF ISSUANCE...
 
 Sunnier skies are expected this afternoon with high temperatures
 running near to up to 7 degrees warmer than yesterday. The marine
@@ -413,17 +416,17 @@ intensity, and duration of the cyclone.
 &&
 
 .AVIATION...
-221800Z...Coast/Valleys...Nearly all low clouds have cleared out
-this morning, with VFR conditions expected to prevail into the
-afternoon. Clouds with lower bases (initially around 2000-2500ft
-MSL) look to redevelop across coastal San Diego County after 00z
-Wednesday. High confidence in CIGs at KSAN, lower confidence at KCRQ
-between 00-06z. After 06z, CIGs look to spread throughout coastal SD
-County and northward towards Orange County, with bases likely
-lowering to around 1500ft MSL. Moderate confidence in CIGs at KSNA
-between 11-16z. Clouds scatter out between 16-17z Wednesday.
+230000Z...Coast/Valleys...SCT locally BKN low clouds - with bases at
+1500 ft MSL - in coastal San Diego County will increase in coverage
+and spread inland overnight. Reaching about 10 miles inland in San
+Diego County by 12Z. High confidence in CIGs at KSAN before 06Z, low
+confidence at KCRQ before 06z. After 06z, CIGs will spread
+throughout coastal SD County and northward towards Orange County.
+About a 40 percent chance of CIGs at KSNA between 11-16Z. low clouds
+clear to the coast between 16-17z Wednesday.
 
-Otherwise...Mostly clear skies today and tonight.
+Otherwise...Mostly clear skies with unrestricted VIS through
+Wednesday.
 
 &&
 
@@ -447,8 +450,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE...Munyan
+PUBLIC...Zuber
+AVIATION/MARINE...PG
 
 
 </pre>
