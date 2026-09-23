@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-23T10:49:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-23T16:18:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-396
-FXUS66 KSGX 230945
+475
+FXUS66 KSGX 231132
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-245 AM PDT Wed Sep 23 2026
+432 AM PDT Wed Sep 23 2026
 
 .SYNOPSIS...
 It will be warmer through Saturday with moderate HeatRisk on
@@ -374,6 +374,8 @@ Then warmer under high pressure for next Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 A weak upper level low pressure system off the coast of northern
@@ -441,13 +443,14 @@ the coast for early next week.
 &&
 
 .AVIATION...
-230530Z...Coast...Gradually increasing low clouds based around
-1500 feet MSL overnight, first in San Diego County, after 11Z
-vcnty KSNA. Scatter out Wednesday 16-18Z. Low clouds to increase
-after 03Z Wednesday eve, with similar bases.
+231130Z...Coast/Valleys...Areas of low clouds based around 1500
+feet MSL this morning mainly in San Diego County. Any cigs to
+scatter out 16- 17Z. Low clouds based around 1500 feet MSL to
+gradually increase after 02Z this eve, becoming rather uniform
+after 10Z.
 
-Otherwise...mostly clear skies with unrestricted VIS through
-Wednesday.
+Otherwise...mostly clear skies with unrestricted vis today and
+tonight.
 
 &&
 
