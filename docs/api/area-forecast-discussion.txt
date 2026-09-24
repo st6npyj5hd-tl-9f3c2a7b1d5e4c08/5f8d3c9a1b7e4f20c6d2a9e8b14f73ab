@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T11:16:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T16:40:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-677
-FXUS66 KSGX 240857
+945
+FXUS66 KSGX 241139
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-154 AM PDT Thu Sep 24 2026
+439 AM PDT Thu Sep 24 2026
 
 .SYNOPSIS...
 Warmer through Saturday with moderate HeatRisk for the coast and
@@ -379,15 +379,17 @@ valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION DISCUSSION...
+
 .SHORT TERM (Today through Saturday)...
-A weak upper level low pressure system off coast of northern Baja
-will bring an increase in mid-level monsoonal moisture today with
-a slight chance of showers for the mountains for this afternoon.
-This moisture will then decrease for tonight and Friday with the
-drying continuing into Saturday. The marine layer is around 2000
-feet deep and is expected to continue to slowly decrease in depth
-into Saturday with night and morning coastal low clouds spreading
-inland late each night into the western valleys.
+A weak upper level low pressure system off the coast of northern
+Baja will bring an increase in mid-level monsoonal moisture today
+with a slight chance of showers for the mountains for this
+afternoon. This moisture will then decrease for tonight and Friday
+with the drying continuing into Saturday. The marine layer is
+around 2000 feet deep and is expected to continue to slowly
+decrease in depth into Saturday with night and morning coastal low
+clouds spreading inland late each night into the western valleys.
 
 High temperatures will continue to warm a few degrees per day for
 the coast into the western valleys through Saturday with lesser
@@ -396,10 +398,10 @@ mountains, deserts, and Inland Empire will be around 5 degrees
 above average with Orange County 5 to 10 degrees above average and
 the coast and western valleys in San Diego County 10 to 15
 degrees above average. High temperatures on Saturday will range
-from the 80s near the coast to the 90s for the valleys with 100
-to 104 for the lower deserts. Low temperatures early Saturday will
-be 5 to 10 degrees above average at lower elevations to as much
-as 10 to 15 degrees above average for the San Diego County
+from the 80s near the coast to the 90s for the valleys with 100 to
+104 for the lower deserts. Low temperatures early Saturday will
+be 5 to 10 degrees above average at lower elevations to as much as
+10 to 15 degrees above average for the San Diego County
 mountains. This will result in moderate HeatRisk on Friday and
 Saturday and isolated major HeatRisk on Saturday for the Orange
 County coastal plain and for the coast into the valleys in San
@@ -429,17 +431,17 @@ additional warming for the coast and valleys on those days.
 &&
 
 .AVIATION...
-240530Z...Coast/Valleys...Low clouds based near 1500 feet MSL
-will continue to cover coastal areas and eventually spread into
-western valleys overnight. Some inland vis reduced 3-5SM. Scatter
-out Thursday 16-19Z. Low clouds based around 1000 feet MSL to move
-ashore Thursday eve after 02Z, but in somewhat random fashion.
+241130Z...Coast/Valleys...Low clouds based near 1200 feet MSL will
+continue to cover coastal areas and western valleys this morning.
+Some inland vis reduced 3-5SM. Scatter out 16-19Z. Low clouds based
+around 1000-1200 feet MSL to move ashore after 02Z, but in somewhat
+random fashion. Eventually, a very similar areal coverage is
+expected by early Friday.
 
-Mountains/Deserts...mostly clear through Thursday, except for SCT
-cumulus based near 10 kft over mountains and isolated SHRA/TSRA
-20- 01Z Thursday afternoon. Any storm that develops will be
-capable of producing gusty, erratic winds, lightning, and vis
-reductions.
+Otherwise...mostly clear today and tonight. Except for SCT cumulus
+based near 10 kft over mountains and isolated SHRA/TSRA 20-01Z. Any
+storm that develops will be capable of producing gusty, erratic
+winds, lightning, and vis reductions.
 
 &&
 
@@ -449,17 +451,15 @@ No hazardous marine conditions are expected through Monday.
 &&
 
 .BEACHES...
-The combination of a 3 foot swell from 190 degrees on Sunday
-shifting to 160 degrees for Monday and Tuesday with a 12 to 15
-second period coinciding with our bimonthly elevated high tides will
-increase chances for coastal flooding and erosion. Predicted high
-tides of 6.5 and 7.0 ft MSL will occur between 10 and 11 AM Sunday
-through Tuesday. The listed tide predictions have been corrected to
-reflect current trends in actual tide observations. Surf will be
-elevated, especially for south facing beaches with sets up to 5 feet
-on Sunday. Surf heights and direction of the swell remain uncertain
-for Monday and Tuesday and will be most influenced by the track of
-Tropical Cyclone Polo.
+Southerly swell from Hurricane Polo is expected to increase Sunday,
+peak Monday, and decrease Tuesday. Preliminary indications with low
+to moderate confidence today show a swell of 3-4 feet with a period
+of 14-16 seconds coming from a direction of 160-190 degrees.
+Elevated surf and high tides will combine to increase chances for
+coastal flooding and beach erosion during the high tides of 6.5 to
+7.0 feet between 10 and 11 AM Sunday through Tuesday (listed tide
+predictions have been adjusted to reflect actual measured tide
+observations). Stay tuned as details become clearer in coming days.
 
 &&
 
