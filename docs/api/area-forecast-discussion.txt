@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-23T21:12:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T03:37:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-917
-FXUS66 KSGX 232031
+671
+FXUS66 KSGX 232347
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-131 PM PDT Wed Sep 23 2026
+447 PM PDT Wed Sep 23 2026
 
 .SYNOPSIS...
 Warmer conditions through Saturday with moderate HeatRisk for the
@@ -374,6 +374,9 @@ conditions next Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Temperatures at 1 PM were running 10 to 18 degrees warmer than
 yesterday in the Inland Empire, 5 to 7 degrees warmer than yesterday
@@ -417,12 +420,17 @@ each day Tuesday and Wednesday.
 &&
 
 .AVIATION...
-231900Z...Coast/Valleys...Low clouds based 1000-1500 feet MSL will
-gradually increase after 02Z Thu, becoming rather uniform after 10Z.
-Low clouds are not expected to reach KONT/KSBD. Low clouds will
-scatter out 16-18Z Thu.
+240000Z...Coast/Valleys...Low clouds based near 1500 ft MSL are
+developing over coastal San Diego County currently. Clouds spread
+northward (into Orange County) and inland overnight reaching about
+15 miles inland by 10-12z Thu. Bases may lower a few hundred feet
+overnight with minor vis reductions (2-6SM) for elevated inland
+valleys. Clouds scatter toward the coastline 16-18z.
 
-Otherwise...mostly clear skies with unrestricted vis through Thu.
+.Mountains/Deserts...SCT Cu based near 12 kft expected over mtns
+20z Thu - 01z Fri along with ISO SHRA/TSRA. Any storm that develops
+will be capable of producing up/downdrafts, lightning, and vis
+reductions.
 
 &&
 
@@ -462,7 +470,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
