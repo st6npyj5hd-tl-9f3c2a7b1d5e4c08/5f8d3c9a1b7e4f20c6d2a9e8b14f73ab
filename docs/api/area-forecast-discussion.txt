@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T03:37:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T11:16:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,25 +349,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-671
-FXUS66 KSGX 232347
+677
+FXUS66 KSGX 240857
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-447 PM PDT Wed Sep 23 2026
+154 AM PDT Thu Sep 24 2026
 
 .SYNOPSIS...
-Warmer conditions through Saturday with moderate HeatRisk for the
-coast and western valleys on Friday and Saturday. Night and morning
-low clouds and fog will stay confined to the coastal areas for the
-next few nights. There is a a slight chance of showers and isolated
-thunderstorms over the mountains Thursday afternoon. Cooler
-conditions expected Sunday and Monday, with potentially warmer
-conditions next Tuesday.
+Warmer through Saturday with moderate HeatRisk for the coast and
+western valleys on Friday and Saturday. Night and morning low
+clouds and fog will stay confined to the coastal areas for the next
+few nights. There is a slight chance of showers over the mountains
+this afternoon. Tropical mid and high level moisture will bring more
+clouds and a chance of showers on Sunday followed by drying from the
+northwest some time for Monday into Tuesday.
+Warmer for Tuesday and Wednesday, especially for the coast and
+valleys.
 
 &&
 
@@ -375,61 +379,66 @@ conditions next Tuesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Saturday)...
+A weak upper level low pressure system off coast of northern Baja
+will bring an increase in mid-level monsoonal moisture today with
+a slight chance of showers for the mountains for this afternoon.
+This moisture will then decrease for tonight and Friday with the
+drying continuing into Saturday. The marine layer is around 2000
+feet deep and is expected to continue to slowly decrease in depth
+into Saturday with night and morning coastal low clouds spreading
+inland late each night into the western valleys.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures will continue to warm a few degrees per day for
+the coast into the western valleys through Saturday with lesser
+changes elsewhere. For Saturday, high temperatures for the
+mountains, deserts, and Inland Empire will be around 5 degrees
+above average with Orange County 5 to 10 degrees above average and
+the coast and western valleys in San Diego County 10 to 15
+degrees above average. High temperatures on Saturday will range
+from the 80s near the coast to the 90s for the valleys with 100
+to 104 for the lower deserts. Low temperatures early Saturday will
+be 5 to 10 degrees above average at lower elevations to as much
+as 10 to 15 degrees above average for the San Diego County
+mountains. This will result in moderate HeatRisk on Friday and
+Saturday and isolated major HeatRisk on Saturday for the Orange
+County coastal plain and for the coast into the valleys in San
+Diego County.
 
-Temperatures at 1 PM were running 10 to 18 degrees warmer than
-yesterday in the Inland Empire, 5 to 7 degrees warmer than yesterday
-for other inland locations, and were within a few degrees of
-yesterday for the coast. Most locations will see an increase in
-temperatures each day through Saturday, with high temperatures 5 to
-7 degrees above average for inland locations and 7 to 12 degrees
-above average for the coast. Overnight lows will increase to the mid-
-60s to 70 west of the mountains and in the upper 70s to low 80s in
-the low desert. Moderate HeatRisk is expected along the coast Friday
-and Saturday and in the low deserts for the second half of the week.
-Moderate HeatRisk has the most impacts on those sensitive to heat,
-especially those without cooling/hydration.
+&&
 
-For Thursday, a closed low lingering to our south will start to
-move east. This low will draw moisture into Southern California
-from the southeast increasing chances for precipitation, mainly in
-the mountains. Latest high resolutions guidance indicates
-rainfall rates will mostly be 0.20-0.30 inches per hour, where
-thunderstorms develop rates could be closer to 0.50 inches per
-hour. There remains a 5-10% chance of thunderstorms over the
-mountains with the higher chances over the San Diego and Riverside
-County mountains.
+.LONG TERM (Sunday through Wednesday)...
+For late Saturday night into Sunday and possibly Monday, mid and
+high level moisture from tropical cyclones Odalys and Polo will
+spread into the area from the southwest and south. Sunday will be
+mostly cloudy with a chance of showers. A low pressure system
+moving inland through California is expected to bring drying from
+the northwest some time Monday into Tuesday.
 
-For Sunday, an incoming trough of low pressure is expected to move
-inland across northern California. The low will dig south Monday and
-be to our east Tuesday or early Wednesday. There is good agreement
-that temperatures will cool 3 to 8 degrees between Saturday and
-Sunday and another 2 to 4 degrees for Monday. Additionally cloud
-coverage will increase. The trough looks like it will pull in
-moisture from our southwest, but there remains uncertainty in how
-much moisture will actually get pulled into Southern California.
-Ensemble members from both the GFS and ECMWF are showing increases
-in precipitable water and some potential for precipitation.
+High temperatures on Sunday will be 5 to 10 degrees cooler and
+another few to 5 degrees cooler for Monday with Monday high
+temperatures near average near the coast and around 5 degrees
+below average for inland areas. High temperatures on Monday will
+range from the 70s near the coast to the lower to mid 80s for the
+Inland Empire with the lower deserts in the lower 90s.
 
-For next Tuesday and Wednesday, the forecast solutions diverge with
-60% of solutions showing ridging and 40% maintaining weak troughing.
-Current forecast follows the NBM and shows a few degrees of warming
-each day Tuesday and Wednesday.
+High pressure aloft is expected to bring warming for Tuesday and
+Wednesday. If east to northeast winds develop, there could be
+additional warming for the coast and valleys on those days.
 
 &&
 
 .AVIATION...
-240000Z...Coast/Valleys...Low clouds based near 1500 ft MSL are
-developing over coastal San Diego County currently. Clouds spread
-northward (into Orange County) and inland overnight reaching about
-15 miles inland by 10-12z Thu. Bases may lower a few hundred feet
-overnight with minor vis reductions (2-6SM) for elevated inland
-valleys. Clouds scatter toward the coastline 16-18z.
+240530Z...Coast/Valleys...Low clouds based near 1500 feet MSL
+will continue to cover coastal areas and eventually spread into
+western valleys overnight. Some inland vis reduced 3-5SM. Scatter
+out Thursday 16-19Z. Low clouds based around 1000 feet MSL to move
+ashore Thursday eve after 02Z, but in somewhat random fashion.
 
-.Mountains/Deserts...SCT Cu based near 12 kft expected over mtns
-20z Thu - 01z Fri along with ISO SHRA/TSRA. Any storm that develops
-will be capable of producing up/downdrafts, lightning, and vis
+Mountains/Deserts...mostly clear through Thursday, except for SCT
+cumulus based near 10 kft over mountains and isolated SHRA/TSRA
+20- 01Z Thursday afternoon. Any storm that develops will be
+capable of producing gusty, erratic winds, lightning, and vis
 reductions.
 
 &&
@@ -458,7 +467,6 @@ Tropical Cyclone Polo.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -469,8 +477,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
