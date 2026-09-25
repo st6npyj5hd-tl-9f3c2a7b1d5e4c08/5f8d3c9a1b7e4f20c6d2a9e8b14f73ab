@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T03:54:49+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T11:21:55+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,27 +349,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-997
-FXUS66 KSGX 250125
+248
+FXUS66 KSGX 250909
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-625 PM PDT Thu Sep 24 2026
+209 AM PDT Fri Sep 25 2026
 
 .SYNOPSIS...
-Warmer through Saturday with moderate HeatRisk for the coast and
-western valleys Friday and Saturday. Night and morning low clouds
-and fog will stay confined to the coastal areas for the next few
-nights. There is a slight chance of showers and thunderstorms over
-the mountains this afternoon. Tropical mid and high level
-moisture will bring more clouds and cooler temperatures late
-weekend early next week. Warming trend after Monday.
+
+Warmer weather moves into the region through Saturday with low
+clouds and patchy fog closer to the coast each morning. Tropical
+mid and high level moisture will bring more clouds and cooler
+temperature, along with a slight chance of showers for much of
+our area by Sunday and Monday. Weak high pressure moves into the
+area by next Tuesday, bringing warming and drying.
 
 &&
 
@@ -377,80 +375,72 @@ weekend early next week. Warming trend after Monday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
+Low clouds are still struggling to form early this morning over
+the coastal waters. The marine layer will remain thin over the
+next couple of days, bringing low clouds and patchy fog to areas
+within around 10 miles of the coast each late night and morning.
+One of the reasons for this will be high pressure aloft over
+Mexico beginning to expand further into our region during this
+time, bringing slightly warmer weather. With highs in the 90s for
+the lower deserts yesterday, there is a very high chance (85+ %)
+to see highs eclipse 100 degrees today and Saturday. Valleys west
+of the mountains will see the largest warm up of around 5 degrees
+with highs in the 90s from Escondido to Temecula to Ontario.
 
-Ample cloud cover this morning from a very robust and shallower
-marine layer, with satellite still showing some inland coverage as
-of 11am. Areas of patchy fog were reported, mostly in part thanks to
-increasing heights as a weak ridge attempts to take hold of SoCal
-and a shortwave trough moves eastward today. The morning sounding
-already shows drier air in the mid and upper levels with the
-departure of the trough, also evident on mid-level water vapor
-satellite with additional subsidence 150 miles southwest of San
-Diego. This lack of moisture will be a main limiting factor for
-storms in the mountains this afternoon, although a few thunderstorms
-remain possible for primarily the San Diego and Riverside County
-Mountains. Anything that develops will be diurnally driven and
-unlikely to produce flash flooding, with storms ending by sunset.
+Model trends beginning to come together on a deep trough dropping
+in from the north by Sunday and becoming a closed low by Monday.
+As it does so, Hurricane Polo moves north on Sunday and
+northeastward on Monday, where it is expected to make landfall
+somewhere in southern Baja California later on Monday. The
+troughing pattern will act as a mechanism to help pull in some of
+this tropical moisture, mainly in the form of clouds and humidity.
 
-Southern California will be in a push-and-pull for the remainder of
-the week between a deepening low over the PacNW, high pressure over
-Texas, and two tropical cyclones in the eastern Pacific. The
-aforementioned weak ridge will hold through at least Friday and keep
-temperatures well above normal with highs in the 90s for inland and
-High Desert, 80s for the coast and mountains, and 100-103 for the
-low deserts. Things start to change this weekend as the ridge is
-compressed and the high over Texas shifts southward, allowing for
-tropical moisture to shift up Baja and into Southern California and
-western Arizona. This could mean some very warm morning temperatures
-both Saturday and Sunday as the moisture reduces radiational cooling,
-and temperatures in the afternoon remain elevated as heights will be
-slow to fall. This is likely to bring about some Moderate HeatRisk
-for the coastal areas on Saturday with temperatures around 10-12
-degrees above normal and warm overnight lows above 71 degrees. A lot
-of this will depend heavily on cloud cover associated with the
-tropical cyclones well to our south, which could impact peak heating
-on Saturday, limiting our warming.
+The key will be where exactly our low pressure system sets up.
+Models continue to push the system slightly further to the south,
+which would not entrain as much moisture. Two things look more
+certain however: increased humidity (though high temperatures
+will not be as hot as today and Saturday), and increased swell and
+coastal flooding/erosion. Warmer nights can be expected near the
+coast with some places staying above 70 degrees. Monday will be
+the coolest day overall with highs in the 70s and 80s from the
+coastal to the foothills as well as the high desert. NBM gives
+Palm Springs only a 50-50 chance to reach over 90 degrees on
+Monday as well.
 
-By late weekend, a trough off the aforementioned larger low in the
-PacNW will swing down and become a closed low by Monday. This could
-help initiate some convection while mixing with the influx of
-moisture. For now, much of any precipitation looks to stay east of
-the region, as drier air on the backside of the trough looks to push
-in as tropical moisture is shunted east of the mountains. Should
-SoCal get dry slotted (80-90% confidence), Sunday and Monday would at
-least feature cooler weather thanks to the deepening low as it
-meanders into Arizona and Utah. Meanwhile, other states in the
-Desert SW may experience multiple rounds of precipitation and some
-heavy rainfall. At this point, the tracks of Polo and Odalys and
-where the larger upper level pattern will be are not conducive to
-precipitation for SoCal.
+Though moisture increases are seen with PWAT values exceeding one
+inch, the low`s track will be important on determining any
+accumulating rainfall for area. Moisture in the form of high
+clouds may spread over SoCal during this time, but lack of forcing
+mechanisms may only provide us cloudier, humid days. These clouds
+may also inhibit max temperatures as well.
 
-With building high pressure to the west and drier air filter in, the
-region will return to a warming trend after Monday along with
-quieter weather.
-
-A few impacts that may be observed early next week due to the
-tropical cyclones:
--higher humidity for the deserts, especially the low deserts, late
-weekend into early next week.
--coastal flooding and coastal erosion, especially for south-facing
-beaches, Sunday through Tuesday. Additional details on this can be
-found in the Beaches discussion below.
+The area of low pressure should begin to move out of the region by
+Tuesday. Depending on its location, offshore flow may accompany
+this exit. The strength is still uncertain as well as how hot we
+become by Tuesday and Wednesday. This is seen in quite the large
+spread in temperature guidance. Take the Miramar Base in San
+Diego: near a 15 degree spread in high temperatures from
+25th-75th percentiles with highs in the upper 70s to lower 90s.
+With these factors, confidence is high that there will be less
+humidity and warmer temperatures, just not sure how warm. Weak
+high pressure looks to stick around into at least the middle of
+next week, keeping temperatures slightly above normal west of the
+mountains and closer to normal for the mountains and deserts.
 
 &&
 
 .AVIATION...
-250000Z...Coast/Valleys...While patchy low clouds 900-1200 ft MSL
-will intermittently impact the immediate coastline this evening, they
-are expected to be somewhat limited in coverage before becoming more
-widespread and moving inland 04-07Z this evening. Clouds move inland
-to about 20 miles by 12Z, including a 35% chance for cigs vcnty KONT
-12-15Z. Clouds clear to the coast 16-18Z Friday. Clouds with lower
-bases will begin to spread inland again after 03Z Sat.
+250530Z...Coast/Valleys...Patchy and intermittent low clouds
+based at 800-1200 feet MSL will eventually congeal overnight with
+widespread uniform coverage. Local vis on mesas or inland reduced
+3-5SM. Scatter out by 16-18Z Friday. Patchy low clouds to
+redevelop after 03Z Friday eve, based at around 600-1000 feet MSL.
 
-Otherwise...Remnant Cu based AOA 10kft will clear this evening
-through about 04Z. Mostly clear tonight and Friday.
+Mountains...Mostly clear skies through Friday morning. Cumulus and
+local CBs to redevelop and lead to isolated SHRA/TSRA 19-01Z Friday.
+
+Deserts...Mostly clear skies into Friday, with increasing clouds
+above 10 kft after 19Z Friday.
 
 &&
 
@@ -459,46 +449,16 @@ No hazardous marine conditions are expected through Tuesday.
 
 &&
 
-.BEACHES...
-Southwesterly swell (3-4 ft at 12 seconds from ~210 degrees) from
-Hurricane Odalys begins to increase on Friday, bringing surf up to 3-
-5 feet with sets up to 6 feet to most beaches. This swell from
-Odalys is expected to persist into this weekend. Given tides are
-already observed over 6 feet and are expected to gradually increase
-into this weekend, a Beach Hazard Statement has been issued for
-Friday morning through Sunday evening. Minor tidal overflow and
-minor coastal erosion are the primary impacts during this period.
-
-The swell associated with Hurricane Polo (4-5 ft at 14 seconds from
-~160 degrees) increases on Monday. Given this direction, most of San
-Diego County beaches will be largely sheltered from this swell, but
-Orange County beaches still look to be impacted. Meanwhile, a
-northwesterly swell (3-4 ft at 8 seconds from ~290 degrees) from an
-incoming storm system will also be building Sunday into Monday.
-Between these two swells, surf of 4-6 feet look to remain possible
-along all beaches into Tuesday. Tides see their bi-monthly
-astronomical peak Monday-Wednesday morning, with peak tides near 7.0
-ft. Between the combination of higher tides and the expected surf,
-there is a risk for minor-moderate coastal flooding during the late
-morning/early afternoon high tides. Stay tuned as details continue
-to become more clear in the coming days.
-
-Please note - listed tide predictions have been adjusted to reflect
-actual measured tide observations.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from 5 AM PDT Friday through Sunday
-     afternoon for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Beach Hazards Statement from 5 AM PDT early this morning through
+     Sunday afternoon for Orange County Coastal Areas-San Diego
+     County Coastal Areas.
 
 PZ...None.
 
@@ -506,8 +466,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...APR
+AVIATION/MARINE...MM
 
 
 </pre>
