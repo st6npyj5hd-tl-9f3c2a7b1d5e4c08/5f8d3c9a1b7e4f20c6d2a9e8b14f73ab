@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T11:21:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T16:45:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-248
-FXUS66 KSGX 250909
+452
+FXUS66 KSGX 251140
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-209 AM PDT Fri Sep 25 2026
+440 AM PDT Fri Sep 25 2026
 
 .SYNOPSIS...
 
@@ -374,6 +376,8 @@ area by next Tuesday, bringing warming and drying.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 Low clouds are still struggling to form early this morning over
 the coastal waters. The marine layer will remain thin over the
@@ -430,22 +434,51 @@ mountains and closer to normal for the mountains and deserts.
 &&
 
 .AVIATION...
-250530Z...Coast/Valleys...Patchy and intermittent low clouds
-based at 800-1200 feet MSL will eventually congeal overnight with
-widespread uniform coverage. Local vis on mesas or inland reduced
-3-5SM. Scatter out by 16-18Z Friday. Patchy low clouds to
-redevelop after 03Z Friday eve, based at around 600-1000 feet MSL.
+251130Z...Coast/Valleys...Low clouds based around 700-1000 feet MSL
+will reach into far western valleys this morning. Local vis reduced
+3-5SM on mesas or inland. Scatter out 16-18Z. Patchy low clouds to
+redevelop after 05Z, based at around 600-900 feet MSL, but will
+continue rather patchy and intermittent mainly in coastal areas
+through 10Z Saturday.
 
-Mountains...Mostly clear skies through Friday morning. Cumulus and
-local CBs to redevelop and lead to isolated SHRA/TSRA 19-01Z Friday.
+Mountains/Deserts...Clear skies this morning. Cumulus and isolated
+CBs to develop over mountains and lead to isolated SHRA/TSRA
+20-00Z.
 
-Deserts...Mostly clear skies into Friday, with increasing clouds
-above 10 kft after 19Z Friday.
+Regionwide...Increasing SCT-BKN clouds around 20 kft after 00Z.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Tuesday.
+
+&&
+
+.BEACHES...
+Southwesterly swell (3-4 ft at 13 seconds from ~210 degrees) from
+Hurricane Odalys increases today, bringing surf up to 2-4 feet with
+sets up to 5 feet to most beaches. This swell from Odalys is
+expected to persist into this weekend. Given tides are already
+observed over 6 feet and are expected to gradually increase into
+this weekend, a Beach Hazard Statement is in effect through Sunday
+evening. Minor tidal overflow and minor coastal erosion are the
+primary impacts during this period.
+
+The swell from Hurricane Polo (3-4 ft at 14 seconds from ~170
+degrees) increases on Monday. Given this direction, most of San
+Diego County beaches will be largely sheltered from this swell, but
+Orange County beaches especially in north county should be impacted.
+Meanwhile, a northwesterly swell (3-4 ft at 8 seconds from ~290
+degrees) arrives late Sunday and Monday. Between these two swells,
+surf of 3-5 feet with sets to 6 feet look probable especially along
+south or southwest facing beaches. Tides peak Monday-Wednesday
+mornings near 7.0 ft. Higher tides and elevated surf will combine to
+generate a risk for minor-moderate coastal flooding during the late
+morning/early afternoon high tides. Stay tuned as details continue
+to become more clear in the coming days.
+
+Please note - listed tide predictions have been adjusted to reflect
+actual measured tide observations.
 
 &&
 
@@ -456,9 +489,8 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from 5 AM PDT early this morning through
-     Sunday afternoon for Orange County Coastal Areas-San Diego
-     County Coastal Areas.
+CA...Beach Hazards Statement through Sunday afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -467,7 +499,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...MM
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
