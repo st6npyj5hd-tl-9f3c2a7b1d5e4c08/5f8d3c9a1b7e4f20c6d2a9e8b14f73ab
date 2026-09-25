@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T16:45:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T21:12:34+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,22 +354,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-452
-FXUS66 KSGX 251140
+156
+FXUS66 KSGX 252019
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-440 AM PDT Fri Sep 25 2026
+119 PM PDT Fri Sep 25 2026
 
 .SYNOPSIS...
-
-Warmer weather moves into the region through Saturday with low
-clouds and patchy fog closer to the coast each morning. Tropical
-mid and high level moisture will bring more clouds and cooler
-temperature, along with a slight chance of showers for much of
-our area by Sunday and Monday. Weak high pressure moves into the
-area by next Tuesday, bringing warming and drying.
+Warmer weather through Saturday with low clouds and patchy fog
+closer to the coast each morning. Tropical mid and high level
+moisture brings more clouds and cooler temperature, along with a
+slight chance of light showers for our southeastern regions by
+Sunday and Monday. Weak high pressure moves into the area by next
+Tuesday, returning to warmer and drier.
 
 &&
 
@@ -377,73 +376,68 @@ area by next Tuesday, bringing warming and drying.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Low clouds are still struggling to form early this morning over
-the coastal waters. The marine layer will remain thin over the
-next couple of days, bringing low clouds and patchy fog to areas
-within around 10 miles of the coast each late night and morning.
-One of the reasons for this will be high pressure aloft over
-Mexico beginning to expand further into our region during this
-time, bringing slightly warmer weather. With highs in the 90s for
-the lower deserts yesterday, there is a very high chance (85+ %)
-to see highs eclipse 100 degrees today and Saturday. Valleys west
-of the mountains will see the largest warm up of around 5 degrees
-with highs in the 90s from Escondido to Temecula to Ontario.
+Mid-level water vapor imagery shows a deep low over the PacNW and
+Hurricane Odalys strengthening to the southwest of Baja. Weak
+ridging remains over SoCal with drier air aloft, allowing
+temperatures to warm both today and tomorrow to around 5-8
+degrees above normal. A trough off the backside of the larger low
+to the north will swing down late Saturday and attempt to capture
+some of the moisture associated with Hurricane Polo and Hurricane
+Odalys, increasing PWs above 1-1.5". This could lead to elevated
+overnight temperatures both Saturday and Sunday for coastal areas
+and moderate HeatRisk is expected for Saturday. By Sunday, heavier
+cloud cover and decreasing heights will help moderate
+temperatures a bit, which look to cool almost 10 degrees below
+Saturday`s highs.
 
-Model trends beginning to come together on a deep trough dropping
-in from the north by Sunday and becoming a closed low by Monday.
-As it does so, Hurricane Polo moves north on Sunday and
-northeastward on Monday, where it is expected to make landfall
-somewhere in southern Baja California later on Monday. The
-troughing pattern will act as a mechanism to help pull in some of
-this tropical moisture, mainly in the form of clouds and humidity.
+Right now, GFS guidance attempts to bring in drier air on the
+backside of the trough late weekend, which could shunt the
+moisture to the east as the trough moves across, severely limiting
+precipitation chances for Sunday night and Monday. The ECMWF
+remains the more wet model, indicating some light precipitation
+for SoCal. With such disagreement in global models even 48-72
+hours out, confidence in rainfall amounts in this forecast package
+remain very low. For now, the aforementioned trough may bring
+about some light rain showers for at least the San Diego County
+Mountains, Riverside County Mountains and lower deserts (including
+Coachella Valley), about a 20-25% chance, although any
+accumulation isn`t expected to be very high, likely 0.2" or less.
+Even if no accumulation occurs for our region, ample high clouds
+over nearly the entire region and mid-level moisture for the
+mountains and further east will likely lead to some uncomfortable
+humidity. Outside of the humidity and low precipitation chances,
+some other observable impacts associated with the tropical
+cyclones include coastal flooding and erosion, which is further
+discussed in the Beaches section below.
 
-The key will be where exactly our low pressure system sets up.
-Models continue to push the system slightly further to the south,
-which would not entrain as much moisture. Two things look more
-certain however: increased humidity (though high temperatures
-will not be as hot as today and Saturday), and increased swell and
-coastal flooding/erosion. Warmer nights can be expected near the
-coast with some places staying above 70 degrees. Monday will be
-the coolest day overall with highs in the 70s and 80s from the
-coastal to the foothills as well as the high desert. NBM gives
-Palm Springs only a 50-50 chance to reach over 90 degrees on
-Monday as well.
-
-Though moisture increases are seen with PWAT values exceeding one
-inch, the low`s track will be important on determining any
-accumulating rainfall for area. Moisture in the form of high
-clouds may spread over SoCal during this time, but lack of forcing
-mechanisms may only provide us cloudier, humid days. These clouds
-may also inhibit max temperatures as well.
-
-The area of low pressure should begin to move out of the region by
-Tuesday. Depending on its location, offshore flow may accompany
-this exit. The strength is still uncertain as well as how hot we
-become by Tuesday and Wednesday. This is seen in quite the large
-spread in temperature guidance. Take the Miramar Base in San
-Diego: near a 15 degree spread in high temperatures from
-25th-75th percentiles with highs in the upper 70s to lower 90s.
-With these factors, confidence is high that there will be less
-humidity and warmer temperatures, just not sure how warm. Weak
-high pressure looks to stick around into at least the middle of
-next week, keeping temperatures slightly above normal west of the
-mountains and closer to normal for the mountains and deserts.
+As the trough starts to propagate into Arizona on Monday, any
+lingering moisture will be pushed eastward as drier air filters in
+and ridging begins to build to the west, with PWs falling
+sharply. Temperatures will begin to warm, and weak offshore flow
+looks to set up by mid to late week which could push temperatures
+even higher with dry downsloping winds. Since models remain
+misaligned even in the short term, trying to dictate the upper
+level pattern after Wednesday is extremely difficult. Ultimately,
+how the trough moves out and how quickly ridging build behind will
+play a large impact in the general trend for the end of next
+week.
 
 &&
 
 .AVIATION...
-251130Z...Coast/Valleys...Low clouds based around 700-1000 feet MSL
-will reach into far western valleys this morning. Local vis reduced
-3-5SM on mesas or inland. Scatter out 16-18Z. Patchy low clouds to
-redevelop after 05Z, based at around 600-900 feet MSL, but will
-continue rather patchy and intermittent mainly in coastal areas
-through 10Z Saturday.
+251900Z...Coast/Valleys...VFR conditions expected through this
+evening. Patchy low clouds to redevelop after 05Z Sat, based at
+around 600-900 feet MSL. Clouds may become more uniform and push up
+to 10-15 miles inland for a period from 10-15z. Minor vis reductions
+(1-5SM) expected for higher coastal terrain and western valleys.
+Clouds scatter out around 15-16z.
 
-Mountains/Deserts...Clear skies this morning. Cumulus and isolated
-CBs to develop over mountains and lead to isolated SHRA/TSRA
-20-00Z.
+Mountains/Deserts...Cumulus and isolated CBs are currently
+developing over mountains and may lead to an isolated SHRA/TSRA 20-
+00Z.
 
 Regionwide...Increasing SCT-BKN clouds around 20 kft after 00Z.
 
@@ -456,26 +450,29 @@ No hazardous marine conditions are expected through Tuesday.
 
 .BEACHES...
 Southwesterly swell (3-4 ft at 13 seconds from ~210 degrees) from
-Hurricane Odalys increases today, bringing surf up to 2-4 feet with
-sets up to 5 feet to most beaches. This swell from Odalys is
-expected to persist into this weekend. Given tides are already
-observed over 6 feet and are expected to gradually increase into
-this weekend, a Beach Hazard Statement is in effect through Sunday
-evening. Minor tidal overflow and minor coastal erosion are the
-primary impacts during this period.
+Hurricane Odalys increases today, bringing surf of 3-5 feet with
+sets up to 6 feet, highest along south and southwest facing beaches.
+This swell from Odalys is expected to persist through this weekend.
+Tides are already observed over 6 feet and are expected to gradually
+increase into this weekend, therefore a Beach Hazard Statement is
+now in effect and will continue through next Wednesday afternoon.
+Minor tidal overflow and minor coastal erosion are the primary
+impacts.
 
-The swell from Hurricane Polo (3-4 ft at 14 seconds from ~170
-degrees) increases on Monday. Given this direction, most of San
-Diego County beaches will be largely sheltered from this swell, but
-Orange County beaches especially in north county should be impacted.
-Meanwhile, a northwesterly swell (3-4 ft at 8 seconds from ~290
-degrees) arrives late Sunday and Monday. Between these two swells,
-surf of 3-5 feet with sets to 6 feet look probable especially along
-south or southwest facing beaches. Tides peak Monday-Wednesday
-mornings near 7.0 ft. Higher tides and elevated surf will combine to
-generate a risk for minor-moderate coastal flooding during the late
-morning/early afternoon high tides. Stay tuned as details continue
-to become more clear in the coming days.
+The swell from Hurricane Polo (3 ft at 14 seconds from ~170 degrees)
+increases on Monday. Given this direction, most of San Diego County
+beaches will be largely sheltered from this swell, but Orange County
+beaches especially in north county should be impacted. Meanwhile, a
+northwesterly swell (3-4 ft at 8 seconds from ~290 degrees) arrives
+late Sunday and early Monday. Between these two swells, surf of 3-5
+feet with sets to 6 feet looks probable along south/southwest facing
+beaches with surf 2-4 feet along west-facing beaches through
+Tuesday. Tides peak Monday-Wednesday mornings near 7.0 ft. Higher
+tides and elevated surf will combine to generate a risk for minor-
+moderate coastal flooding during the late morning/early afternoon
+high tides, especially along south/southwest facing beaches. An
+upgrade to a Coastal Flood Advisory appears likely for the Monday-
+Tuesday time frame.
 
 Please note - listed tide predictions have been adjusted to reflect
 actual measured tide observations.
@@ -486,10 +483,11 @@ actual measured tide observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through Sunday afternoon for Orange
+CA...Beach Hazards Statement through Wednesday afternoon for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
@@ -498,8 +496,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
