@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-24T21:15:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T03:54:49+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-443
-FXUS66 KSGX 241941
+997
+FXUS66 KSGX 250125
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1241 PM PDT Thu Sep 24 2026
+625 PM PDT Thu Sep 24 2026
 
 .SYNOPSIS...
 Warmer through Saturday with moderate HeatRisk for the coast and
@@ -376,7 +376,6 @@ weekend early next week. Warming trend after Monday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
 
@@ -442,21 +441,16 @@ found in the Beaches discussion below.
 &&
 
 .AVIATION...
-241800Z...Coast/Valleys...Low clouds from last night`s marine layer
-intrusion have lifted (with bases now around 1500-1700ft MSL) and
-been scattering out this morning. While CIG scattering is expected
-at the coastal TAF sites (KSAN, KCRQ, KSNA) by 19z Thurs, SCT-BKN
-clouds may linger along the beaches/immediate coasts through the
-afternoon. Low clouds begin to fill back in as early as 02z Friday,
-but could be somewhat limited in pushing ashore until around 06-07z.
-Afterwards, clouds will fill back in with similar areal coverage and
-bases compared to this morning. Clouds clear back to the coast by 17-
-19z Friday.
+250000Z...Coast/Valleys...While patchy low clouds 900-1200 ft MSL
+will intermittently impact the immediate coastline this evening, they
+are expected to be somewhat limited in coverage before becoming more
+widespread and moving inland 04-07Z this evening. Clouds move inland
+to about 20 miles by 12Z, including a 35% chance for cigs vcnty KONT
+12-15Z. Clouds clear to the coast 16-18Z Friday. Clouds with lower
+bases will begin to spread inland again after 03Z Sat.
 
-Otherwise...Mostly clear today and tonight. Except for SCT cumulus
-based near 10 kft over mountains and isolated SHRA/TSRA 20-01z. Any
-storm that develops will be capable of producing gusty, erratic
-winds, lightning, and vis reductions in SHRA/BLDU.
+Otherwise...Remnant Cu based AOA 10kft will clear this evening
+through about 04Z. Mostly clear tonight and Friday.
 
 &&
 
@@ -476,26 +470,33 @@ Friday morning through Sunday evening. Minor tidal overflow and
 minor coastal erosion are the primary impacts during this period.
 
 The swell associated with Hurricane Polo (4-5 ft at 14 seconds from
-~160 degrees) increases on Monday. However, given this direction,
-most of San Diego County beaches will be largely sheltered from this
-swell, but Orange County beaches still look to be impacted by this
-swell. Meanwhile, a northwesterly swell (3-4 ft at 8 seconds from
-~290 degrees) from an incoming storm system will also be building
-Sunday into Monday. Between these two swells, surf of 4-6 feet look
-to remain possible along all beaches into Tuesday. Tides see their
-bi-monthly astronomical peak Monday-Wednesday morning, with peak
-tides near 7.0 ft Between the combination of higher tides and the
-expected surf, there is a risk for minor-moderate coastal flooding
-during the late morning/early afternoon high tides. Stay tuned as
-details continue to become more clear in the coming days.
+~160 degrees) increases on Monday. Given this direction, most of San
+Diego County beaches will be largely sheltered from this swell, but
+Orange County beaches still look to be impacted. Meanwhile, a
+northwesterly swell (3-4 ft at 8 seconds from ~290 degrees) from an
+incoming storm system will also be building Sunday into Monday.
+Between these two swells, surf of 4-6 feet look to remain possible
+along all beaches into Tuesday. Tides see their bi-monthly
+astronomical peak Monday-Wednesday morning, with peak tides near 7.0
+ft. Between the combination of higher tides and the expected surf,
+there is a risk for minor-moderate coastal flooding during the late
+morning/early afternoon high tides. Stay tuned as details continue
+to become more clear in the coming days.
 
 Please note - listed tide predictions have been adjusted to reflect
 actual measured tide observations.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from late tonight through Sunday
+CA...Beach Hazards Statement from 5 AM PDT Friday through Sunday
      afternoon for Orange County Coastal Areas-San Diego County
      Coastal Areas.
 
@@ -506,7 +507,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
