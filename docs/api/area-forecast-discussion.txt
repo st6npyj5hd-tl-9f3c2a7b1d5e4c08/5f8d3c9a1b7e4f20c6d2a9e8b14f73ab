@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-25T21:12:34+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-26T03:56:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-156
-FXUS66 KSGX 252019
+116
+FXUS66 KSGX 260019
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-119 PM PDT Fri Sep 25 2026
+519 PM PDT Fri Sep 25 2026
 
 .SYNOPSIS...
 Warmer weather through Saturday with low clouds and patchy fog
@@ -375,7 +375,6 @@ Tuesday, returning to warmer and drier.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -428,18 +427,20 @@ week.
 &&
 
 .AVIATION...
-251900Z...Coast/Valleys...VFR conditions expected through this
+260000Z...Coast/Valleys...VFR conditions expected through this
 evening. Patchy low clouds to redevelop after 05Z Sat, based at
-around 600-900 feet MSL. Clouds may become more uniform and push up
-to 10-15 miles inland for a period from 10-15z. Minor vis reductions
-(1-5SM) expected for higher coastal terrain and western valleys.
-Clouds scatter out around 15-16z.
+around 600-900 feet MSL. Clouds likely remain patchy through most of
+the night before becoming more uniform and push up to 10-15 miles
+inland for a period from 10-15z. Local vis reductions (1-5SM)
+expected for higher coastal terrain and western valleys. Clouds
+scatter out around 15-16z, followed by VFR conditions through late
+Sat.
 
-Mountains/Deserts...Cumulus and isolated CBs are currently
-developing over mountains and may lead to an isolated SHRA/TSRA 20-
-00Z.
+Mountains/Deserts...Cumulus over mtn ridges AOA 10kft will clear
+this evening.
 
-Regionwide...Increasing SCT-BKN clouds around 20 kft after 00Z.
+Regionwide...Increasing SCT-BKN clouds around 20 kft through the
+period.
 
 &&
 
@@ -450,29 +451,26 @@ No hazardous marine conditions are expected through Tuesday.
 
 .BEACHES...
 Southwesterly swell (3-4 ft at 13 seconds from ~210 degrees) from
-Hurricane Odalys increases today, bringing surf of 3-5 feet with
-sets up to 6 feet, highest along south and southwest facing beaches.
-This swell from Odalys is expected to persist through this weekend.
-Tides are already observed over 6 feet and are expected to gradually
-increase into this weekend, therefore a Beach Hazard Statement is
-now in effect and will continue through next Wednesday afternoon.
-Minor tidal overflow and minor coastal erosion are the primary
-impacts.
+Hurricane Odalys persists through this weekend, bringing surf of 3-5
+feet with sets up to 6 feet, highest along south and southwest
+facing beaches. Tides are already observed over 6 feet and are
+expected to gradually increase into this weekend, therefore a Beach
+Hazard Statement is now in effect and will continue through next
+Wednesday afternoon. Minor tidal overflow and minor coastal erosion
+are the primary impacts.
 
 The swell from Hurricane Polo (3 ft at 14 seconds from ~170 degrees)
 increases on Monday. Given this direction, most of San Diego County
 beaches will be largely sheltered from this swell, but Orange County
-beaches especially in north county should be impacted. Meanwhile, a
+beaches (especially in north OC) should be impacted. Meanwhile, a
 northwesterly swell (3-4 ft at 8 seconds from ~290 degrees) arrives
 late Sunday and early Monday. Between these two swells, surf of 3-5
 feet with sets to 6 feet looks probable along south/southwest facing
 beaches with surf 2-4 feet along west-facing beaches through
 Tuesday. Tides peak Monday-Wednesday mornings near 7.0 ft. Higher
-tides and elevated surf will combine to generate a risk for minor-
+tides and elevated surf will combine to generate a risk for minor to
 moderate coastal flooding during the late morning/early afternoon
-high tides, especially along south/southwest facing beaches. An
-upgrade to a Coastal Flood Advisory appears likely for the Monday-
-Tuesday time frame.
+high tides, especially along south/southwest facing beaches.
 
 Please note - listed tide predictions have been adjusted to reflect
 actual measured tide observations.
@@ -497,7 +495,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
