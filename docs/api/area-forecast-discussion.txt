@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-26T03:56:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-26T10:57:48+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-116
-FXUS66 KSGX 260019
+094
+FXUS66 KSGX 260943
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-519 PM PDT Fri Sep 25 2026
+243 AM PDT Sat Sep 26 2026
 
 .SYNOPSIS...
 Warmer weather through Saturday with low clouds and patchy fog
@@ -376,71 +376,71 @@ Tuesday, returning to warmer and drier.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Nighttime satellite shows patchy low clouds struggling to develop at
+the coast with some high clouds above streaming in from the weak
+subtropical jet. At the moment, there is nothing else remarkable on
+satellite over our region.
 
-Mid-level water vapor imagery shows a deep low over the PacNW and
-Hurricane Odalys strengthening to the southwest of Baja. Weak
-ridging remains over SoCal with drier air aloft, allowing
-temperatures to warm both today and tomorrow to around 5-8
-degrees above normal. A trough off the backside of the larger low
-to the north will swing down late Saturday and attempt to capture
-some of the moisture associated with Hurricane Polo and Hurricane
-Odalys, increasing PWs above 1-1.5". This could lead to elevated
-overnight temperatures both Saturday and Sunday for coastal areas
-and moderate HeatRisk is expected for Saturday. By Sunday, heavier
-cloud cover and decreasing heights will help moderate
-temperatures a bit, which look to cool almost 10 degrees below
-Saturday`s highs.
+A few hundred miles southwest of the coast, two visible weather
+features give us important context into the weather pattern this
+weekend into early next week. The stratocumulus deck is moving
+southwestward, as it does with northeasterly flow circulating around
+the North Pacific surface high pressure. Meanwhile, high clouds are
+moving the opposite direction - carried by the southwest winds of
+the jet stream. The flow reveals a fairly stationary trough as the
+clouds flow through a stationary path. What cannot be seen on
+satellite is the cyclonic flow at 850 and 700mb off the Baja coast
+which is beginning to advect an elevated but deep and moist airmass
+above 850 mbs associated with Hurricane Polo and Hurricane Odalys.
+PWAT`s will generally increase to 1-1.5" tonight into Sunday,
+blanketing the region in mid and upper level clouds through Monday
+afternoon until the upper level trough moves through and brings much
+drier air moves in and replaces the entire airmass.
 
-Right now, GFS guidance attempts to bring in drier air on the
-backside of the trough late weekend, which could shunt the
-moisture to the east as the trough moves across, severely limiting
-precipitation chances for Sunday night and Monday. The ECMWF
-remains the more wet model, indicating some light precipitation
-for SoCal. With such disagreement in global models even 48-72
-hours out, confidence in rainfall amounts in this forecast package
-remain very low. For now, the aforementioned trough may bring
-about some light rain showers for at least the San Diego County
-Mountains, Riverside County Mountains and lower deserts (including
-Coachella Valley), about a 20-25% chance, although any
-accumulation isn`t expected to be very high, likely 0.2" or less.
-Even if no accumulation occurs for our region, ample high clouds
-over nearly the entire region and mid-level moisture for the
-mountains and further east will likely lead to some uncomfortable
-humidity. Outside of the humidity and low precipitation chances,
-some other observable impacts associated with the tropical
-cyclones include coastal flooding and erosion, which is further
-discussed in the Beaches section below.
+Despite the moisture, rain chances remain rather low across the
+region. While the highest PWAT`s will likely be Sunday, a noticeably
+drier layer between the surface and around 800 mbs will
+significantly limit how much rain falls over the lowlands, with the
+most likely outcomes ranging from virga overhead to some spotty
+light rain accumulations. Higher chances for rain and higher precip
+totals will occur over mountain terrain above the dry layer, though
+convection will likely be very limited from extensive cloud cover.
 
-As the trough starts to propagate into Arizona on Monday, any
-lingering moisture will be pushed eastward as drier air filters in
-and ridging begins to build to the west, with PWs falling
-sharply. Temperatures will begin to warm, and weak offshore flow
-looks to set up by mid to late week which could push temperatures
-even higher with dry downsloping winds. Since models remain
-misaligned even in the short term, trying to dictate the upper
-level pattern after Wednesday is extremely difficult. Ultimately,
-how the trough moves out and how quickly ridging build behind will
-play a large impact in the general trend for the end of next
-week.
+While the trough will help provide lift for showers in the deserts
+(and areas east) on Monday, models shows the troughs drier air
+moving in just ahead of the lift from the cyclonic vorticity over
+the rest of the region. The mountains and deserts will have the
+greatest chances for rain Sunday (15-25%) and Monday (15-35%).
+Chances stay around 10-25% both days elsewhere, generally higher
+moving south and east across Socal.
+
+In terms of temperatures, highs will be around 5-10 degrees above
+average today as the ridge to the east maintains its presence for
+one more day. Highs in the mid-to-upper-70s in higher mountain
+communities and beaches, 80s for coastal areas and lower mountain
+areas, 90s for inland valleys and Inland Empire, and around 100-105
+in the Coachella Valley. Highs Sunday drop several degrees inland
+due to the extensive cloud cover, then drop more significantly
+Monday, another 6-12 degrees regionwide, as the upper level trough
+moves through. Highs slowly rebound through the rest of the week
+back to average for late September as another ridge develops and
+expands off of the coast. As a result, coastal temperatures will be
+a wild card in the late week forecast, depending on where the
+thermal through sets up.
 
 &&
 
 .AVIATION...
-260000Z...Coast/Valleys...VFR conditions expected through this
-evening. Patchy low clouds to redevelop after 05Z Sat, based at
-around 600-900 feet MSL. Clouds likely remain patchy through most of
-the night before becoming more uniform and push up to 10-15 miles
-inland for a period from 10-15z. Local vis reductions (1-5SM)
-expected for higher coastal terrain and western valleys. Clouds
-scatter out around 15-16z, followed by VFR conditions through late
-Sat.
+260530Z...Coast/Valleys...Patchy low clouds over land and off the
+coast will slowly fill into most of the coastal areas and far
+western valleys through the early morning hours. Clouds will be
+based at around 600-900 feet MSL with elevated coastal terrain 1-5SM
+in in BR/FG. Clouds covering up to 15 miles inland until around 15-
+17Z, retreating off the coast. VFR conditions through late Sat with
+SCT-BKN clouds AOA 20k ft. Increasing confidence in less low cloud
+coverage Saturday night.
 
-Mountains/Deserts...Cumulus over mtn ridges AOA 10kft will clear
-this evening.
-
-Regionwide...Increasing SCT-BKN clouds around 20 kft through the
-period.
+Mountains/Deserts...SCT-BKN clouds AOA 20 kft through the period.
 
 &&
 
@@ -494,8 +494,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...APR
 
 
 </pre>
