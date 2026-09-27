@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T11:35:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T16:34:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,16 +349,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-017
-FXUS66 KSGX 270816
+953
+FXUS66 KSGX 271151
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-116 AM PDT Sun Sep 27 2026
+451 AM PDT Sun Sep 27 2026
 
 .SYNOPSIS...
 Cloudy and cooler today along with a slight chance of light
@@ -374,12 +376,13 @@ weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+
 Satellite shows upper level clouds streaming through the region,
 sourced from moisture from Hurricane Odalys hundreds of miles to the
 south-southwest and carried through the jet stream. The 00z 9/26
 sounding shows a shallow moist profile at around 25,000 feet, which
 is expected to deepen down to around 10,000 feet by this afternoon.
-
 
 Today through Monday...Despite the near surface remaining drier,
 PWAT`s today will increase to around 1.50" for San Diego County and
@@ -429,21 +432,18 @@ reach at least into the upper 80s and perhaps (20-60% chance) above
 &&
 
 .AVIATION...
-270500Z...Coast/Valleys...BKN-OVC high clouds AOA 20,000ft MSL
-continue to stream over the region, gradually lowering to about
-10kft through the period. Low clouds will struggle to develop
-tonight with high clouds in place, and any clouds that do develop
-will be brief and intermittent. There is a 25% chance for
-intermittent cigs vcnty KCRQ/KSNA, so have maintained TEMPO groups
-through 12Z. For any clouds that do develop, bases will generally
-800-1200ft MSL, with VIS 1-5SM in BR/FG for elevated coastal
-terrain, clearing out by 14Z. High clouds prevail throughout the day
-Sunday.
+271145Z...Coast/Valleys...BKN-OVC high clouds AOA 15,000ft MSL will
+continue for much of the TAF period. Very patchy low clouds mainly
+offshore should stay over the waters this morning, where cigs are
+near 500-800 ft MSL. Low clouds clearing completely by 15Z.
+Increasing confidence on very patchy low clouds (if any) forming
+tonight, with minimal cigs for coastal TAF sites through Monday
+morning.
 
 Mountains/Deserts...VFR prevails with BKN-OVC clouds 10-20 kft
-through the period. Pockets of -SHRA possible near the very end of
-the TAF period with little to no surface impact, but some brief
-lower cigs below 5000ft.
+through the period. Pockets of -SHRA possible between 00-14Z Monday,
+little to no surface impact, but some brief lower cigs below 5000ft
+possible. Best chance in eastern San Diego County.
 
 &&
 
@@ -460,22 +460,22 @@ Southwesterly swell (3-4 ft at 13 seconds from ~200 degrees) from
 Hurricane Odalys persists through this weekend, bringing surf of 3-5
 feet with sets up to 6 feet, highest along south and southwest
 facing beaches. The swell from Hurricane Polo (3 ft at 14 seconds
-from ~170 degrees) then increases on Monday. Given this direction,
+from ~180 degrees) then increases on Monday. Given this direction,
 most of San Diego County beaches will be largely sheltered from this
 swell, but Orange County beaches (especially in north OC) should be
 impacted. Meanwhile, a northwesterly swell (3-4 ft at 7 seconds from
-~290 degrees) arrives late Sunday and Monday. Between these two
-swells, surf of 3-5 feet with sets to 6 feet looks probable along
+~280 degrees) arrives later today and Monday. Between these two
+swells, surf of 3-5 feet with sets to 7 feet looks probable along
 south/southwest facing beaches with surf 3-5 feet along west-facing
 beaches through Tuesday. With this elevated surf, there is a high
 risk for rip currents through Tuesday.
 
 Tides are already observed over 6.2 feet and are expected to
-gradually increase into early next week, peaking around 6.9-7.0ft
-for the late-morning high tides on Monday-Wednesday. A Beach Hazard
-Statement remains is in effect through Sunday night for due to the
-risk of minor tidal overflow and minor coastal erosion. A Coastal
-Flood Advisory has been issued, in effect from early Monday morning
+gradually increase into early next week, peaking around 7.0ft for
+the late-morning high tides on Monday-Wednesday, highest on Tuesday.
+A Beach Hazard Statement remains in effect through tonight due to
+the risk of minor tidal overflow and minor coastal erosion. A
+Coastal Flood Advisory is in effect from early Monday morning
 through Wednesday afternoon to account for the highest tides
 combining with the expected elevated surf. Primary impacts during
 the morning high tides Monday-Wednesday will be minor coastal
@@ -508,7 +508,7 @@ PZ...None.
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE...APR
 
 
 </pre>
