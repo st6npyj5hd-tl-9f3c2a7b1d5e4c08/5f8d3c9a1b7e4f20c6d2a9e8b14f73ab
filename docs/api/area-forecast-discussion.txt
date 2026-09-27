@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-26T20:32:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T04:11:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-764
-FXUS66 KSGX 261958
+358
+FXUS66 KSGX 262346
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1258 PM PDT Sat Sep 26 2026
+446 PM PDT Sat Sep 26 2026
 
 .SYNOPSIS...
 A little warmer today under mostly sunny skies then cooler through
@@ -372,6 +372,8 @@ will bring dry and warmer weather for Tuesday into next weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 This afternoon...Temperatures are near or a few degrees higher
 than at this time yesterday. Today will likely be warmer than
@@ -416,21 +418,18 @@ layer to return to the coastal areas.
 &&
 
 .AVIATION...
-261800Z...Coast/Valleys...Clouds struggled to push ashore overnight,
-with only a few intermittent patches of near IFR CIGs observed. All
-clouds have cleared out or linger well offshore this morning, with
-VFR conditions expected to prevail into this evening with SCT-BKN
-clouds filtering in AOA 20k ft. Clouds are expected to be very
-patchy once again tonight as the marine layer will be inhibited by
-the cirrus cloud cover. There is a window for intermittent CIGs
-across San Diego County around 7-11z Sunday before weak offshore
-winds likely keep clouds over the waters, with a window for
-intermittent CIGs across Orange County around 10-14z Sunday. Should
-any CIGs develop, bases will generally 800-1200 ft MSL, with VIS 1-
-5SM in BR/FG for elevated coastal terrain.
+270000Z...Coast/Valleys...High cu AOA 20,000ft MSL is beginning to
+move in, expected to become BKN-OVC everywhere by 06z. Low cu will
+struggle to develop tonight with high clouds in place, so maintain
+TEMPOs at most coastal sites through 12z. Should any CIGs develop,
+bases will generally 800-1200ft MSL, with VIS 1-5SM in BR/FG for
+elevated coastal terrain, clearing out by 14z. High clouds prevail
+throughout the day Sunday.
 
-Mountains/Deserts...VFR prevails with increasing SCT-BKN clouds AOA
-20 kft through the period.
+Mountains/Deserts...VFR prevails with increasing BKN-OVC clouds AOA
+20 kft through the period. Pockets of -SHRA possible near the very
+end of the TAF period with little to no surface impact, but some
+brief lower cu below 5000ft.
 
 &&
 
@@ -472,12 +471,6 @@ actual measured tide observations.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Beach Hazards Statement through late Sunday night for Orange
      County Coastal Areas-San Diego County Coastal Areas.
@@ -493,7 +486,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
