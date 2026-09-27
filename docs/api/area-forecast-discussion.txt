@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T04:11:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T11:35:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,20 +352,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-358
-FXUS66 KSGX 262346
+017
+FXUS66 KSGX 270816
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-446 PM PDT Sat Sep 26 2026
+116 AM PDT Sun Sep 27 2026
 
 .SYNOPSIS...
-A little warmer today under mostly sunny skies then cooler through
-Monday. Mid and high level moisture from the tropics brings more
-clouds along with a slight chance of light showers for our
-southeastern regions for Sunday and Monday. Weak high pressure
-will bring dry and warmer weather for Tuesday into next weekend.
+Cloudy and cooler today along with a slight chance of light
+showers for our southeastern regions through early Monday. The
+main trough moves through Monday, bringing back the marine layer
+and breezy conditions to the mountains and deserts. Weak high
+pressure will then bring dry and warmer weather Tuesday into next
+weekend.
 
 &&
 
@@ -373,70 +374,84 @@ will bring dry and warmer weather for Tuesday into next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Satellite shows upper level clouds streaming through the region,
+sourced from moisture from Hurricane Odalys hundreds of miles to the
+south-southwest and carried through the jet stream. The 00z 9/26
+sounding shows a shallow moist profile at around 25,000 feet, which
+is expected to deepen down to around 10,000 feet by this afternoon.
 
-This afternoon...Temperatures are near or a few degrees higher
-than at this time yesterday. Today will likely be warmer than
-yesterday, with high temperatures anywhere from a few degrees
-above normal in the deserts to as much as 10-15 degrees above
-normal in the inland valleys of San Diego County. There were
-patchy marine layer low clouds this morning which have cleared
-out. Southwest flow aloft ahead of a low pressure system to the
-northwest has brought a few high clouds today.
 
-Sunday and Monday...The low to the northwest will move southeastward
-into SoCal by Monday while hurricane Odalys (currently about 950
-miles southwest of San Diego) slowly moves north and weakens,
-becoming a remnant low about 500 miles southwest of San Diego by
-Monday. The flow aloft will draw mid and high level moisture from
-Odalys into SoCal, resulting in slight chances for mostly light
-precipitation Sunday and Monday. The best chances for rainfall
-accumulations will be in the mountains during the afternoons.
-Current estimates are for rainfall totals range from 0.00 in
-Orange County up to 0.15 inch in the mountains. This scenario will
-bring lower temperatures, and Monday is expected to be the
-coolest day with temperatures near normal in the coastal areas to
-as much as 10-15 degrees below normal in the mountains. The
-increasing mid and high clouds could disrupt the marine layer and
-hinder the formation of low clouds tonight through Monday night.
-As the low pressure moves in from the northwest, it will bring
-stronger onshore flow on Monday, with westerly winds gusting
-30-40 mph in the wind-prone locations of the mountains and
-adjacent desert slopes.
+Today through Monday...Despite the near surface remaining drier,
+PWAT`s today will increase to around 1.50" for San Diego County and
+deserts east of the mountains, enough for extensive cloud cover
+throughout the day but not enough for precipitation without any
+background instability or forcing. As a result, precip chances above
+10% have been reduced to southeastern portions of San Diego County
+and other mountain peaks from this afternoon through early Monday
+morning. Elsewhere, virga showers aloft may bring some sprinkles to
+briefly reach the ground. Because of the cloud cover region-wide,
+high temperatures will be noticeably cooler today relative to
+yesterday, around 6-12 degrees cooler. A sharp boundary of drier air
+aloft moves through SoCal during the day Monday, out ahead of the
+trough axis, which barely dips south enough to bring cooler
+temperatures aloft and thus cooler daytime temperatures despite
+increasing sunshine. Monday will be the coolest day of the week by
+far with highs 75-85 degrees across the coastal basin, 60s for the
+mountains and mid-90s in the lower deserts. With the troughs gradual
+passage in the afternoon, onshore winds will be breezy east of
+mountain passes and along desert slopes (25-35 mph, higher through
+Banning Pass) and the marine later will build into the evening, with
+low clouds likely Monday night for much of the coastal basin.
 
-For Tuesday through the end of next week...The low pressure system
-begins to move eastward into AZ on Tuesday and high pressure aloft
-moves into SoCal. This will bring dry and warmer weather with the
-potential for weak offshore flow on Tuesday and Wednesday. The
-warming begins on Tuesday and peaks next Saturday with daytime
-high temperatures up to 7 degrees above normal in the deserts and
-as much as 10-15 degrees above normal in the low elevations west
-of the mountains. The lack of mid and high clouds with high
-pressure aloft could allow the low clouds of a shallow marine
-layer to return to the coastal areas.
+Tuesday...With the trough axis moving east, a weak offshore gradient
+between the Coastal Basin and the High Desert coupled with modest
+northerly flow aloft will bring a decent (60%) chance for weak
+northerly offshore flow. This would noticeably drop the relative
+humidity Monday night into Tuesday for the deserts, mountains and
+Inland Empire (especially near the Cajon Pass). High temperatures
+increase noticeably to mid-80s to low-90s across the Coastal Basin
+with perhaps a few low 80s at the coast.
+
+Wednesday through the weekend...While offshore winds dissipate
+Wednesday, daytime temperatures increase through the end of the week
+while relative humidities generally continue to decrease for inland
+areas. A ridge will be slowly developing out in the Pacific, moving
+toward the southwest US through the end of the week.
+
+By the end of the week, daytime RH`s drop to 15-25% for elevated
+interior valleys, the Inland Empire, mountains and deserts (locally
+down to 10% in the High Desert) while temperatures reach into the
+mid-90s to low-100s in these areas. Even the lowland urban areas
+just a few miles inland of the coast will likely (50-80% chance)
+reach at least into the upper 80s and perhaps (20-60% chance) above
+90F for Thurs/Fri/Sat.
 
 &&
 
 .AVIATION...
-270000Z...Coast/Valleys...High cu AOA 20,000ft MSL is beginning to
-move in, expected to become BKN-OVC everywhere by 06z. Low cu will
-struggle to develop tonight with high clouds in place, so maintain
-TEMPOs at most coastal sites through 12z. Should any CIGs develop,
-bases will generally 800-1200ft MSL, with VIS 1-5SM in BR/FG for
-elevated coastal terrain, clearing out by 14z. High clouds prevail
-throughout the day Sunday.
+270500Z...Coast/Valleys...BKN-OVC high clouds AOA 20,000ft MSL
+continue to stream over the region, gradually lowering to about
+10kft through the period. Low clouds will struggle to develop
+tonight with high clouds in place, and any clouds that do develop
+will be brief and intermittent. There is a 25% chance for
+intermittent cigs vcnty KCRQ/KSNA, so have maintained TEMPO groups
+through 12Z. For any clouds that do develop, bases will generally
+800-1200ft MSL, with VIS 1-5SM in BR/FG for elevated coastal
+terrain, clearing out by 14Z. High clouds prevail throughout the day
+Sunday.
 
-Mountains/Deserts...VFR prevails with increasing BKN-OVC clouds AOA
-20 kft through the period. Pockets of -SHRA possible near the very
-end of the TAF period with little to no surface impact, but some
-brief lower cu below 5000ft.
+Mountains/Deserts...VFR prevails with BKN-OVC clouds 10-20 kft
+through the period. Pockets of -SHRA possible near the very end of
+the TAF period with little to no surface impact, but some brief
+lower cigs below 5000ft.
 
 &&
 
 .MARINE...
-Increasing confidence in northwest wind gusts of 20-25 knots in the
-outer waters Monday afternoon and evening. Otherwise, no hazardous
-marine conditions are expected through Thursday.
+There will likely be northwest wind gusts of 20-25 knots in the
+outer waters Monday afternoon and evening, accompanied by choppy
+mixed seas. Otherwise, no hazardous marine conditions are expected
+through Thursday.
 
 &&
 
@@ -445,8 +460,8 @@ Southwesterly swell (3-4 ft at 13 seconds from ~200 degrees) from
 Hurricane Odalys persists through this weekend, bringing surf of 3-5
 feet with sets up to 6 feet, highest along south and southwest
 facing beaches. The swell from Hurricane Polo (3 ft at 14 seconds
-from ~170 degrees) increases on Monday. Given this direction, most
-of San Diego County beaches will be largely sheltered from this
+from ~170 degrees) then increases on Monday. Given this direction,
+most of San Diego County beaches will be largely sheltered from this
 swell, but Orange County beaches (especially in north OC) should be
 impacted. Meanwhile, a northwesterly swell (3-4 ft at 7 seconds from
 ~290 degrees) arrives late Sunday and Monday. Between these two
@@ -471,9 +486,16 @@ actual measured tide observations.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through late Sunday night for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement through late tonight for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
      Coastal Flood Advisory from 5 AM Monday to 5 PM PDT Wednesday
      for Orange County Coastal Areas-San Diego County Coastal
@@ -485,8 +507,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
