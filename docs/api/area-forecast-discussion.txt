@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-28T13:09:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-28T23:00:25+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,24 +347,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-355
-FXUS66 KSGX 281148
+849
+FXUS66 KSGX 281950
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-448 AM PDT Mon Sep 28 2026
+1250 PM PDT Mon Sep 28 2026
 
 .SYNOPSIS...
-The thick band of mid and high level moisture and clouds will move
-east of the area by early this afternoon. High temperatures will
-be a few degrees cooler today, followed by a warming trend into
-next weekend with widespread moderate or greater HeatRisk for the
-coast and valleys for Thursday through Sunday with near record
-warm overnight temperatures for Friday through Sunday.
+The thick band of mid and high level moisture and clouds has
+moved east of the area this afternoon. High temperatures will be a
+few degrees lower today, followed by a warming trend into early next
+week, with widespread moderate or greater HeatRisk in the coastal
+and valley areas for Thursday through the weekend. Those areas
+could see near record warm overnight temperatures Friday through
+Sunday.
 
 &&
 
@@ -372,35 +375,38 @@ warm overnight temperatures for Friday through Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+This afternoon...the thick band of mid and high clouds that
+brought us rain and showers overnight has moved east and south as
+the low pressure system to our northwest moves to the southeast.
+This low pressure system has brought us cooler conditions and
+stronger onshore flow. Temperatures are mostly lower than at this
+time yesterday, especially in the mountains and deserts where
+temperatures are anywhere from 3-12 degrees lower. High
+temperatures will be a few degrees lower today, followed by
+warming on Tuesday and greater inland warming on Wednesday. High
+temperatures on Wednesday will range from around 80 near the coast
+to the upper 80s to mid 90s for the Inland Empire with the lower
+deserts in the upper 90s. The onshore flow is currently producing
+westerly winds gusting 25-30 mph in the mountain passes, canyons
+and on adjacent desert slopes. The gusty westerly winds will
+weaken this evening. Low clouds persist over and west of the
+mountains. Significant moisture remains through a depth of the
+atmosphere and the possibility of showers over the mtns can`t be
+eliminated, but conditions are stable enough to make that outcome
+unlikely.
 
-.SHORT TERM (Today through Wednesday)...
-Mid and high level moisture from former Hurricane Odalys continues
-to stream northeastward and across about the southeastern half of
-southern California early this morning. A band of mostly light
-showers is across about the southeastern third of San Diego County
-with hourly rainfall of less than one-tenth inch per hour. The
-greatest totals since Sunday are in the far southern San Diego
-County valleys and mountains with 0.15 to 0.25 inch through
-midnight. The western edge of the showers will move slowly to the
-east overnight with the band of thicker mid and high clouds
-decreasing from the northwest during this morning.
+By Tuesday morning, the low pressure system will move far enough
+to the southeast so that the upper low is over the lower Colorado
+River valley with northerly winds aloft on the west side of the
+upper low. A warming trend begins on Tuesday with locally gusty north
+to northeast winds at the surface.
 
-High temperatures will be a few degrees cooler today, followed by
-warming on Tuesday and greater inland warming on Wednesday. With
-the warming, high temperatures on Wednesday will range from around
-80 near the coast to the upper 80s to mid 90s for the Inland
-Empire with the lower deserts in the upper 90s.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-High pressure aloft will continue the warming trend into next
-weekend with only slight cooling on Sunday. Widespread moderate or
-greater HeatRisk is expected for the coast and valleys for
-Thursday through Sunday with widespread major HeatRisk for inland
-coastal areas into the western San Diego County valleys for next
-weekend.
+Thursday into early next week... High pressure aloft will
+continue the warming trend into the weekend with only slight
+cooling on Sunday. Widespread moderate or greater HeatRisk is
+expected for the coast and valleys for Thursday through the
+weekend, with widespread major HeatRisk for inland coastal areas
+and the western San Diego County valleys.
 
 High temperatures for next weekend will range from a few degrees
 above average for the lower deserts to as much as 12 to 18 degrees
@@ -409,23 +415,26 @@ temperatures for next weekend will range from the 80s near the
 coast to the mid 90s to around 100 for the inland valleys with the
 lower deserts around 100.
 
-For next weekend, low temperatures for the Orange County coastal
-plain, and for the coast and western valleys in San Diego County
-will be mostly in the lower to mid 70s. For Friday through Sunday,
-there could be several records tied or broken for record warm low
-temperatures, mostly for coastal and valley locations. The
-existing records for some of those locations was from 1997.
+For the weekend, overnight low temperatures for the Orange County
+coastal plain, and for the coast and western valleys in San Diego
+County will be mostly in the lower to mid 70s. For Friday through
+Sunday, there could be several records tied or broken for record
+warm low temperatures, mostly for coastal and valley locations.
+The existing records for some of those locations was from 1997.
 
 &&
 
 .AVIATION...
-281130Z...BKN middle and high clouds above 9 kft MSL will continue
-to exit to the southeast this morning. Very patchy low clouds based
-at around 1500 feet MSL at the coast are expected through 17Z, but
-any cigs at coastal airports would be brief and intermittent. Some
-cumulus based at around 10 kft should develop over mountains and
-deserts after 20Z into tonight. Patchy coastal low clouds based at
-1200 feet MSL to develop after 03Z, but random and intermittent.
+281800Z...BKN middle and high clouds above 9k ft MSL will continue
+to exit to the southeast this morning. Some cumulus based at around
+10 kft should develop over mountains and deserts after 20Z into
+tonight. Patchy coastal low clouds based at 1200 feet MSL to develop
+after 03Z, but random and intermittent. There will be better
+coverage right along the coastal areas after 06Z, but remain patchy,
+with best chance of cigs remaining close proximity to the coasts.
+Bases expected to be around 1000-1500 ft MSL; slowly rising towards
+early morning, with any cigs beginning to scatter out by 14-16Z from
+east to west.
 
 &&
 
@@ -457,23 +466,24 @@ adjusted to reflect actual measured tide observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory until 5 PM PDT Wednesday for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-PZ...Small Craft Advisory from 11 AM this morning to 11 PM PDT this
-     evening for Waters from San Mateo Point to the Mexican
-     Border Extending 10 to 60 nm out including San Clemente
-     Island.
+PZ...Small Craft Advisory until 11 PM PDT this evening for Waters
+     from San Mateo Point to the Mexican Border Extending 10 to
+     60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
