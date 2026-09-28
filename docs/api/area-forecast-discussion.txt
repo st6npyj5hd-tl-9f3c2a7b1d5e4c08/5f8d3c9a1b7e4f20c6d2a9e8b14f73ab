@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-27T20:58:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-28T04:13:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-626
-FXUS66 KSGX 271955
+546
+FXUS66 KSGX 272355
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1255 PM PDT Sun Sep 27 2026
+455 PM PDT Sun Sep 27 2026
 
 .SYNOPSIS...
 Cloudy and cooler through Monday, along with a slight chance of
@@ -372,6 +372,8 @@ marine layer for coastal low clouds during the nights and mornings.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 This afternoon...Satellite imagery shows widespread mid and high
 clouds covering the region. These clouds are associated with the
@@ -422,18 +424,17 @@ mornings.
 &&
 
 .AVIATION...
-271800Z...Coast/Valleys...Layers of BKN-OVC mid/high clouds 15,000-
-25,000ft MSL will continue for much of the TAF period. FEW-SCT
-patches of low clouds near 1,000ft MSL may linger near the coasts
-through the afternoon. These low clouds will remain very patchy the
-the overnight period, with very low chances for long duration CIGs
-at the coastal TAF sites. Mid/high cloud cover is set to decrease in
-coverage Monday afternoon.
+280000Z...Coast/Valleys...Ongoing BKN-OVC high clouds AOA 15,000ft
+MSL will prevail through about 16z Mon, becoming FEW-SCT thereafter.
+Patchy low clouds around 1000ft MSL will be possible along the
+coastline, but maintaining no CIGs at any TAF sites. VCSH for most
+locations through Monday morning, dry thereafter.
 
-Mountains/Deserts...VFR prevails with BKN-OVC clouds 10-20 kft
-through the period. Pockets of -SHRA possible between 00-14Z Monday.
-Little to no surface impacts expected, but some brief lower CIGs
-below 5000ft are possible. Best chance in eastern San Diego County.
+Mountains/Deserts...VFR prevails with BKN-OVC clouds AOA 15,000ft
+MSL through Monday morning. Pockets of -SHRA possible between 00-14Z
+Monday. Little to no surface impacts expected, but some brief lower
+CIGs below 5000ft are possible. Best chance in eastern San Diego
+County. High clouds become FEW-SCT after 20z Mon.
 
 &&
 
@@ -442,8 +443,8 @@ Northwesterly flow gusting to 20-25 knots in the outer waters is
 expected Monday afternoon and evening. A Small Craft Advisory has
 been issued for this hazard. Additionally, choppy, mixed seas is
 expected Monday afternoon/evening. Winds and the choppy seas are set
-to diminish Sunday night into Monday. No hazardous marine conditions
-are expected Tuesday onward.
+to diminish Monday night into Tuesday. No hazardous marine
+conditions are expected Tuesday onward.
 
 &&
 
@@ -477,13 +478,6 @@ actual measured tide observations.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Beach Hazards Statement through late tonight for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -502,7 +496,7 @@ PZ...Small Craft Advisory from 11 AM to 11 PM PDT Monday for Waters
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
