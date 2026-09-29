@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-28T23:00:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-29T04:44:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-849
-FXUS66 KSGX 281950
+488
+FXUS66 KSGX 290036
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1250 PM PDT Mon Sep 28 2026
+536 PM PDT Mon Sep 28 2026
 
 .SYNOPSIS...
 The thick band of mid and high level moisture and clouds has
@@ -374,6 +374,9 @@ Sunday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 This afternoon...the thick band of mid and high clouds that
 brought us rain and showers overnight has moved east and south as
@@ -425,37 +428,37 @@ The existing records for some of those locations was from 1997.
 &&
 
 .AVIATION...
-281800Z...BKN middle and high clouds above 9k ft MSL will continue
-to exit to the southeast this morning. Some cumulus based at around
-10 kft should develop over mountains and deserts after 20Z into
-tonight. Patchy coastal low clouds based at 1200 feet MSL to develop
-after 03Z, but random and intermittent. There will be better
-coverage right along the coastal areas after 06Z, but remain patchy,
-with best chance of cigs remaining close proximity to the coasts.
-Bases expected to be around 1000-1500 ft MSL; slowly rising towards
-early morning, with any cigs beginning to scatter out by 14-16Z from
-east to west.
+290000Z...SCT cumulus based at around 10 kft over mountains and
+deserts. Slight (20%) chance ISO -SHRA for desert slopes / deserts
+through 06z.
+
+For the coastal basin...Patchy SCT-BKN low clouds based at 1200-1600
+feet MSL to develop after 01Z, passing over SD County coastal areas
+intermittently, diminishing in coverage later in the evening and
+becoming even more patchy and intermittent after 07z throughout the
+coast. Full scatter out of low clouds 15-17z, then VFR prevails
+across the region.
 
 &&
 
 .MARINE...
 Northwest winds gusting to 20-25 knots in the outer waters this
-afternoon and evening, generating choppy seas. The Small Craft
-Advisory contains more details. No hazardous marine conditions are
-expected Tuesday through Friday.
+evening, generating choppy seas. The Small Craft Advisory contains
+more details. No hazardous marine conditions are expected Tuesday
+through Friday.
 
 &&
 
 .BEACHES...
-Southwest swell from former Hurricane Odalys will combine with south-
-southeast swell from Hurricane Polo today. This will elevate surf
-with expected sets up to 6 feet today in northern Orange County.
-There is a high risk for strong rip and longshore currents through
-Tuesday. In addition to elevated surf, high tides will peak at 6.8-
-7.1 feet during the late mornings today through Wednesday, highest
-on Tuesday. High tides and elevated surf will combine to generate
-minor coastal flooding in low lying areas and coastal erosion. A
-Coastal Flood Advisory is in effect through Wednesday afternoon.
+Southwest swell from former Hurricane Odalys has combined with south-
+southeast swell from Hurricane Polo. Elevated surf with sets to 6
+feet has been observed today in northern Orange County. There is a
+high risk for strong rip and longshore currents through Tuesday. In
+addition to elevated surf, high tides will peak at 6.8-7.1 feet
+during the late mornings today through Wednesday, highest on
+Tuesday. High tides and elevated surf will combine to generate minor
+coastal flooding in low lying areas and coastal erosion. A Coastal
+Flood Advisory is in effect through Wednesday afternoon.
 
 Please note - mentioned tide predictions in the Advisory have been
 adjusted to reflect actual measured tide observations.
@@ -483,7 +486,7 @@ PZ...Small Craft Advisory until 11 PM PDT this evening for Waters
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...Stewey
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
