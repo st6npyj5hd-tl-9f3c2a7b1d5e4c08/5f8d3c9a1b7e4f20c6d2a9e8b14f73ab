@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-30T04:29:39+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-30T12:04:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,21 +352,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-254
-FXUS66 KSGX 292338
+612
+FXUS66 KSGX 301130
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-438 PM PDT Tue Sep 29 2026
+430 AM PDT Wed Sep 30 2026
 
 .SYNOPSIS...
-Strengthening high pressure will bring warming this week. A long-
-duration heat wave, with widespread Major to locally Extreme
-HeatRisk for the coast and valleys, is likely for this weekend
-through much of next week into the following weekend. Record warm
-overnight temperatures are likely for the coast and valleys for
-Saturday through Monday.
+Strengthening high pressure aloft will bring a warming trend with
+a long-duration heat wave likely for this weekend through much of
+next week into the following weekend. The highest HeatRisk is
+expected for the coast and valleys with widespread Moderate or
+greater HeatRisk for the coast and valleys for Friday through next
+week with widespread Major to Extreme HeatRisk for the weekend
+into next week for inland coastal areas into the western valleys.
 
 &&
 
@@ -374,108 +375,86 @@ Saturday through Monday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Tonight through Wednesday...
+.SHORT TERM (Today through Friday)...
+High pressure aloft will strengthen across California through
+Friday with 500 mb heights rising to near or slightly above the
+90th percentile. This will bring a warming trend into the weekend
+with warming for today ranging from a few degrees near the coast
+to around 10 degrees for the mountains. The warming for Thursday
+and Friday will be mainly for the coast and valleys.
 
-An upper level low is continuing to exit the southwestern region,
-with northerly flow filtering in behind it. These winds will
-translate to weak off shore winds mixing in overnight, which will
-help to impede the development of the marine layer overnight. There
-may still be some patchy areas of low clouds, with the best
-probability for the coastal areas of San Diego County, due to the
-development of an eddy in close proximity of San Clemente Island. A
-few factors are also contributing to the lack of marine layer
-development overnight, given that there are relatively warmer sea
-surface temperatures currently, which has made it difficult for a
-good inversion to establish itself. This, in combination with weak
-offshore flow and drier air mixing into the boundary layer will
-likely give way to the marine layer struggling to form throughout
-the night.
+High temperatures for today will be mostly a few to around 5
+degrees above average, ranging from the mid to upper 70s near the
+coast to the upper 80s to mid 90s for the Inland Empire with the
+lower deserts in the upper 90s. On Friday, high temperatures for
+the coast and valleys will be 10 to 15 degrees above average to
+locally 15 to 20 degrees above average for portions of the western
+valleys in San Diego County. High temperatures on Friday will
+range from the 80s near the coast to the upper 90s to 105 for the
+Inland Empire with the lower deserts around 100. This will result
+in Moderate to Major HeatRisk for the coast and valleys on Friday.
 
-High pressure is going to continue to build back in tomorrow, with a
-positively-tilted ridge axis extending up and over the region from
-the southwest. This will result in high temperatures further
-increasing. There will be better onshore flow for tomorrow, which
-may also help to advect in a little more moisture within the
-boundary layer, and aid in the development of better marine layer
-coverage for tomorrow night. It will also allow for westerly winds
-to increase and become gusty during the afternoon for mostly of the
-coastal and inland basin, with enhanced onshore flow as the
-compelling factor. Higher wind gusts are also expected for San
-Gorgonio Pass, near Banning, where there could be some gusts
-approaching 40-45 mph. For overnight, there may also be some patchy
-areas of fog developing within some of the higher inland valleys,
-also also where low level clouds intersect the west-facing slopes.
-As the ridge further expands and strengthens, heights will increase
-to values approaching 590 dm over the region, which will allow for
-the temperature warming trend to continue into Wednesday, with highs
-generally up to around 5 degrees above the seasonal average for this
-time of year.
+There could also be weak easterly offshore winds on Friday with
+gusts to 20 to 30 mph along the coastal slopes of the mountains
+into the adjacent inland valleys in Riverside and San Diego
+Counties. Areas of late night and early morning low clouds for
+coastal areas will become much patchier by the weekend.
 
-Thursday through next Tuesday...
+&&
 
-The ridge will further strengthen from Thursday into Friday, which
-will bring temperatures roughly around 5 to 10 degrees above
-average, and then 10 to 15 degrees above average for both days,
-respectively, for locations west of the mountains. For the deserts,
-temperatures will warm through Wednesday, and then plateau on
-Thursday. However, for locations west of the mountains, temperatures
-will be notably warmer on Thursday as the ridge expands back a
-little further to the west. By Saturday, some locations will for the
-coastal and inland basins will be around 20 degrees above average,
-with triple digit heat for most localities within the Inland
-Empire. At the moment, the highest probability for the warmest
-afternoon temperatures will be on Monday of next week, as heights
-top 590 dm over our deserts. Given the duration of the week, there
-will likely need to be some heat products warranted for issuance.
-There is one caveat, and that is overnight lows being well too
-mild towards the end of the week as a recent bias due to warmer
-nights with relatively higher moisture content under a more
-tropical environment in recent weeks, that is not reflected well
-within the national blend of models, as guidance has been
-overperforming. Because of this, the projected temperatures in
-the current forecast package might be a bit underdone with
-temperatures not being cool enough, as the pattern is showing a
-drier airmass mixing in, with better confidence of more efficient
-radiational cooling as a result. There will also likely be a
-better marine layer establishing itself, towards the end of the
-week, with a stronger inversion in place. This may also allow for
-there to be a higher probability of patchy fog developing for some
-of the coastal areas by this upcoming weekend. Only a slight
-weakening in the ridge will translate to slightly cooler
-temperatures for next Tuesday.
+.LONG TERM (Saturday through Tuesday)...
+A weak trough of low pressure moving inland into northern and
+central California on Sunday and Monday could bring slight cooling
+for coastal areas for Sunday through Tuesday followed by weaker
+onshore flow near the coast returning by Wednesday.
+
+ECMWF ensemble output for Campo is strongest with the offshore
+winds on Saturday with uncalibrated gusts to around 40 mph. High
+temperatures on Saturday could be another 5 or so degrees warmer
+for coastal areas into the western valleys with high temperatures
+ranging from around 90 near the coast to the upper 90s to 108 for
+the valleys with the lower deserts around 100. Low temperatures
+on Saturday will be mostly in the lower 70s for coastal areas,
+around 10 degrees above average. Widespread Major HeatRisk is
+expected for the coast and valleys on Saturday.
+
+For Sunday through Tuesday, low temperatures for the coast into
+the western valleys will warm into the lower to mid 70s, 10 to 15
+degrees above average. Moderate HeatRisk will continue for the far
+inland valleys with Major to Extreme HeatRisk for inland coastal
+areas into the western valleys.
+
+This long-dursation heat wave, with highest HeatRisk for the
+coast and valleys, may continue through much of next week into
+the following weekend.
 
 &&
 
 .AVIATION...
-292345Z...Coast/Valleys...SKC through early this evening. A
-coastal eddy will generate southerly flow along the coast and fill
-in coastal areas with low clouds from south around Imperial Beach
-to north up through Orange County from 06-11z. Bases are expected
-to be around 1500-2000 ft MSL. Clouds scatter back to the coast
-15-17z. Otherwise, SKC Wednesday afternoon.
+301130Z...Coast/western valleys: Low clouds based at around 1000-
+1200 feet MSL will continue this morning, most uniform in San Diego
+County, more patchy in Orange County. Scatter out should occur by 16-
+18Z. Low clouds based around 1000 feet MSL to move ashore 03-08Z
+this eve and locally into western valleys by sunrise Thursday.
 
-Mountains/Deserts...Breezy N/NW winds gusting 20-35 kts through 02z,
-remaining elevated in the mountains and turning westerly before
-weakening altogether around 09z.
-
-Otherwise...mostly clear skies through Wednesday afternoon.
+Otherwise...clear skies today and tonight.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday.
+No hazardous marine conditions are expected through Sunday.
 
 &&
 
 .BEACHES...
-High tides will peak at 6.8-7.1 feet late Wednesday morning, leading
-to minor coastal flooding in low lying areas and coastal erosion. A
-Coastal Flood Advisory is in effect through Wednesday afternoon.
+High tides will peak at 6.8-7.1 feet between 11 AM and 1 PM today,
+leading to minor coastal flooding in low-lying areas and coastal
+erosion. A Coastal Flood Advisory is in effect through this
+afternoon.
 
-Please note - mentioned tide predictions in the Advisory have been
+Please note: mentioned tide predictions in the Advisory have been
 adjusted to reflect actual measured tide observations.
 
 &&
@@ -484,12 +463,17 @@ adjusted to reflect actual measured tide observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory until 5 PM PDT Wednesday for Orange
+CA...Coastal Flood Advisory until 5 PM PDT this afternoon for Orange
      County Coastal Areas-San Diego County Coastal Areas.
+
+     Extreme Heat Watch from Friday morning through Wednesday evening
+     for Orange County Coastal Areas-Orange County Inland Areas-
+     San Bernardino and Riverside County Valleys-The Inland
+     Empire-San Diego County Coastal Areas-San Diego County
+     Valleys-Santa Ana Mountains and Foothills.
 
 PZ...None.
 
@@ -497,8 +481,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
