@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-01T12:37:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-01T22:25:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,25 +350,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-777
-FXUS66 KSGX 010923
+492
+FXUS66 KSGX 011947
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-223 AM PDT Thu Oct 1 2026
+1247 PM PDT Thu Oct 1 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft will bring a warming trend with
-a long-duration heat wave likely for this weekend through much of
-next week into the following weekend. The highest HeatRisk is
-expected for the coast and valleys with widespread Moderate or
-greater HeatRisk for the coast and valleys for Friday through next
-week with widespread Major to Extreme HeatRisk for the weekend
-into next week for inland coastal areas into the western valleys.
-There will also be periods of gusty easterly Santa Ana winds along
-and below the coastal slopes of the mountains in Riverside and San
-Diego Counties for Friday through Sunday.
+Strengthening high pressure aloft will bring a warming trend with a
+long-duration heat wave likely for this weekend through much of next
+week into the following weekend. The coastal basin will be
+particularly hot through this weekend as offshore flow reinforces
+hot and dry conditions. This will also produce elevated fire weather
+conditions for inland valleys and mountains through this weekend.
+Major HeatRisk is expected for most of the coastal basin from Friday
+through next week with areas of extreme HeatRisk for coastal zones
+and western valleys. Moderate HeatRisk through next week in the low
+deserts with minor HeatRisk elsewhere.
 
 &&
 
@@ -376,56 +376,53 @@ Diego Counties for Friday through Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+A building strong high pressure today will center itself over
+southern NV and northern AZ this weekend. Easterly flow aloft will
+allow for periods of offshore winds through the weekend, especially
+in San Diego County. This will amplify already hot and dry
+conditions in the coastal basin. Model guidance suggests 500 mb
+heights will peak around 590 dm and 850 mb temps will reach 24-25
+Celsius over the weekend. With offshore flow in place, this
+translates to surface temperatures well over 100 degrees through
+inland areas of the coastal basin Friday through Sunday. For western
+valleys, highs will locally reach 105 or higher, especially in San
+Diego County on Saturday and Sunday. This will combine with lows in
+the upper 60s to low 70s to create major HeatRisk throughout the
+coastal basin from Friday onward. Areas of extreme HeatRisk expected
+for coastal areas and western valleys.
 
-...UPDATED AVIATION DISCUSSION...
+Easterly flow of 10-20 kts at 700 mb through the weekend will
+support weak Santa Ana winds gusting 25-45 mph (locally higher)
+along west-facing slopes, adjacent foothills and locally into the
+inland valleys. The orientation of winds will favor San Diego County
+and downwind of the Banning Pass. Offshore winds in combination with
+heat and afternoon RH values of 15-25% will create elevated fire
+weather conditions for inland valleys and mountains through the
+weekend.
 
-.SHORT TERM (Today through Saturday)...
-High pressure aloft will strengthen across southern California
-through the weekend with periods of easterly offshore flow for
-Friday through Sunday, strongest on Friday and Saturday with east
-winds along and below the coastal slopes of the mountains in
-Riverside and San Diego Counties gusting to 30 to 40 mph. The
-ECMWF Extreme Forecast Index has those easterly wind gusts locally
-reaching the 80th to 90th percentile on Saturday and Sunday.
+Outside of the coastal basin, heat will be less anomalous. High
+temperatures will range from the 70s in the mountains to near 100 in
+the low deserts, which is only about 5-10 degrees above normal.
+Thus, HeatRisk is minor outside of moderate risk in the low deserts.
 
-High temperatures for the coast and valleys will warm 5 to locally
-10 degrees with downslope warming from the easterly offshore flow
-bringing the greater warming on Friday to the western valleys and
-inland coastal areas in San Diego County. High temperatures for
-Friday and Saturday for the coast and valleys will be mostly 15
-to 20 degrees above average, except locally 20 to 25 degrees
-above average for inland coastal and western valley areas in San
-Diego County.
+Heading into early next week, the mean of model guidance backs off
+somewhat with the heat in the coastal basin as the high pressure
+weakens a touch and slides east. This will likely reduce or remove
+offshore wind potential for Monday and Tuesday. However, high
+temperatures in the 90s to near 100 inland from the coastline will
+keep major HeatRisk in place for most of the coastal basin. By mid
+to late next week, the general consensus is that upper ridging will
+strengthen slightly again, keeping this heatwave firmly in place.
 
-High temperatures on Friday and Saturday will be around 90 at the
-beaches with the hottest temperatures for the coast and valleys of
-100 to 106 for inland coastal areas into the western valleys.
-Warming low temperatures for Saturday for the coast and valleys
-will be mostly in the mid 60s to mid 70s, 10 to 15 degrees above
-average and locally 20 to 25 degrees above average near the
-coastal foothills of the mountains in San Diego County.
-
-&&
-
-.LONG TERM (Sunday through Wednesday)...
-While some coastal and western valleys areas could be slightly
-cooler for Monday and Tuesday, this long duration heat wave is
-expected to continue through much of next week. HeatRisk will be
-highest for the coast and valleys with at least Moderate HeatRisk
-with mostly Major to Extreme HeatRisk areas just inland from the
-beaches into the western valleys.
 
 &&
 
 .AVIATION...
-010930Z...Coast/western valleys: Somewhat patchy low clouds based
-700-1000 ft MSL will continue to fill into western valleys through
-about 13Z. Areas of vis reductions (1-5SM) expected for areas of
-elevated coastal terrain and western valleys (I-15 corridor). Clouds
-scatter back toward the coast 15-17Z. Clouds will be far patchier
-and intermittent when they reform late Thursday evening, impacting
-coastal sites late, if they do (30-50% chance for cigs, highest
-vcnty KSAN).
+011845Z...Coast/western valleys: Very patchy low clouds based 700-
+1000 ft MSL with local vis reductions (1-5SM) inland edge of the low
+clouds. Clouds will be far patchier and intermittent when they
+reform late Thursday evening, impacting coastal sites late, if they
+do at all(30-50% chance for cigs, highest probability vcnty KSAN).
 
 Otherwise...clear skies today and tonight.
 
@@ -433,6 +430,13 @@ Otherwise...clear skies today and tonight.
 
 .MARINE...
 No hazardous marine conditions are expected through Monday.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -449,8 +453,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...KW
+AVIATION/MARINE...Small
 
 
 </pre>
