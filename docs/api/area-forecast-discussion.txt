@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-09-30T21:57:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-01T04:40:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-280
-FXUS66 KSGX 302038
+109
+FXUS66 KSGX 302318
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-138 PM PDT Wed Sep 30 2026
+418 PM PDT Wed Sep 30 2026
 
 .SYNOPSIS...
 Strengthening high pressure aloft will bring a warming trend with
@@ -374,6 +374,9 @@ into next week for inland coastal areas into the western valleys.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Tonight through Thursday...
 
@@ -415,33 +418,25 @@ down into the 15-25% range for the inland areas and elevate fire
 concerns. As the ridge remains locked in place going into the mid
 part of next week, so will the heat, and there will not be much
 relief from this looking into the foreseeable future until the
-ridge begins to finally break down. &&
+ridge begins to finally break down.
+
+&&
 
 .AVIATION...
-301800Z...Coast/western valleys: SKC and VFR through this afternoon.
-Patchy low clouds based 700-1200 ft MSL return to coastal areas
-starting 01-02z Thu. Clouds become more uniform in coverage after
-06z and push 10-15 miles inland overnight. Areas of minor vis
-reductions (1-5SM) expected for elevated coastal terrain and western
-valleys (I-15 corridor). Clouds scatter back toward the coast 15-16z.
+302330Z...Coast/western valleys: Patchy low clouds based near 800-
+1200 ft MSL return to coastal areas starting 01-02z Thu. Clouds
+become more uniform in coverage after 06z and push 10-15 miles
+inland overnight. Bases may lower by a few hundred feet through the
+early morning hours. Areas of minor vis reductions (1-5SM) expected
+for elevated coastal terrain and western valleys (I-15 corridor).
+Clouds scatter back toward the coast 15-16z.
 
-Otherwise...clear skies today and tonight.
+Otherwise...clear skies through Thursday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
-
-&&
-
-.BEACHES...
-High tides will peak at 6.8-7.1 feet between 11 AM and 1 PM today,
-leading to minor coastal flooding in low-lying areas and coastal
-erosion. A Coastal Flood Advisory is in effect through this
-afternoon.
-
-Please note: mentioned tide predictions in the Advisory have been
-adjusted to reflect actual measured tide observations.
+No hazardous marine conditions are expected through Monday.
 
 &&
 
@@ -453,10 +448,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory until 5 PM PDT this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Extreme Heat Watch from Friday morning through Wednesday evening
+CA...Extreme Heat Watch from Friday morning through Wednesday evening
      for Orange County Coastal Areas-Orange County Inland Areas-
      San Bernardino and Riverside County Valleys-The Inland
      Empire-San Diego County Coastal Areas-San Diego County
@@ -469,7 +461,7 @@ PZ...None.
 $$
 
 PUBLIC...Stewey
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE...KW
 
 
 </pre>
