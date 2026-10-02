@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T04:32:35+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T12:02:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,25 +350,29 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-145
-FXUS66 KSGX 020048
+417
+FXUS66 KSGX 020940
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-548 PM PDT Thu Oct 1 2026
+240 AM PDT Fri Oct 2 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft will bring a warming trend with a
-long-duration heat wave likely for this weekend through much of next
-week into the following weekend. The coastal basin will be
-particularly hot through this weekend as offshore flow reinforces
-hot and dry conditions. This will also produce elevated fire weather
-conditions for inland valleys and mountains through this weekend.
-Major HeatRisk is expected for most of the coastal basin from Friday
-through next week with areas of extreme HeatRisk for coastal zones
-and western valleys. Moderate HeatRisk through next week in the low
-deserts with minor HeatRisk elsewhere.
+Strengthening high pressure aloft and offshore flow will bring
+much warmer high temperatures for coastal areas into the western
+valleys today will a long-duration heatwave expected to last
+through much of next week. Easterly Santa Ana winds for today will
+gust to 30 to 40 mph with winds on Saturday gusting to 35 to 45
+mph with isolated gusts to 55 mph for the San Diego County
+mountains and inland valleys. Moderate or greater HeatRisk is
+expected for the coast and valleys through next Thursday with
+Major HeatRisk for the coast into the western valleys for today
+and Saturday and Extreme HeatRisk for locations just inland of the
+beaches into the western valleys for Sunday through Thursday.
+Nights will be quite warm for the coast and valleys with low
+temperatures for Saturday through Tuesday mostly in the 70s.
+Gradual cooling could develop around Friday of next week.
 
 &&
 
@@ -379,66 +383,75 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-A building strong high pressure today will center itself over
-southern NV and northern AZ this weekend. Easterly flow aloft will
-allow for periods of offshore winds through the weekend, especially
-in San Diego County. This will amplify already hot and dry
-conditions in the coastal basin. Model guidance suggests 500 mb
-heights will peak around 590 dm and 850 mb temps will reach 24-25
-Celsius over the weekend. With offshore flow in place, this
-translates to surface temperatures well over 100 degrees through
-inland areas of the coastal basin Friday through Sunday. For western
-valleys, highs will locally reach 105 or higher, especially in San
-Diego County on Saturday and Sunday. This will combine with lows in
-the upper 60s to low 70s to create major HeatRisk throughout the
-coastal basin from Friday onward. Areas of extreme HeatRisk expected
-for coastal areas and western valleys.
+.SHORT TERM (Today through Sunday)...
+Strengthening high pressure aloft and offshore flow will bring
+much warmer high temperatures for coastal areas into the western
+valleys today will a long-duration heatwave expected to last
+through much of next week. High temperatures for today will range
+from around 90 at the beaches to 100 to 105 for the western
+valleys with Major HeatRisk for the coast into much of the
+valleys. Easterly Santa Ana winds will develop this morning and
+continue into early this evening with gusts to 30 to 40 along the
+coastal slopes of the mountains in Riverside and San Diego
+Counties into the adjacent inland valleys.
 
-Easterly flow of 10-20 kts at 700 mb through the weekend will
-support weak Santa Ana winds gusting 25-45 mph (locally higher)
-along west-facing slopes, adjacent foothills and locally into the
-inland valleys. The orientation of winds will favor San Diego County
-and downwind of the Banning Pass. Offshore winds in combination with
-heat and afternoon RH values of 15-25% will create elevated fire
-weather conditions for inland valleys and mountains through the
-weekend.
+High temperatures on Saturday will be 15 to 20 degrees above
+average for the coast and valleys, locally exceeding 25 degrees
+above average for San Diego County coastal areas on Saturday. High
+temperatures on Saturday for the coast and valleys will be mostly
+in the 90s to around 105 with the hottest temperatures for inland
+coastal areas into the western valleys. Easterly Santa Ana winds
+are expected to be stronger and more widespread on Saturday with
+gusts to 35 to 45 mph, locally to 45 to 55 mph for the San Diego
+County mountains into the adjacent inland valleys. These winds
+will strengthen around sunrise, then diminish from north to south
+during the afternoon and early evening. Winds for Sunday are
+expected to be weaker and more localized.
 
-Outside of the coastal basin, heat will be less anomalous. High
-temperatures will range from the 70s in the mountains to near 100 in
-the low deserts, which is only about 5-10 degrees above normal.
-Thus, HeatRisk is minor outside of moderate risk in the low deserts.
+Low temperatures for the coast and valleys for early today will be
+mostly in the 60s and lower 70s. Low temperatures will warm into
+the 70s for Saturday and Saturday. HeatRisk on Saturday will be
+similar to today with Extreme HeatRisk on Sunday for coastal areas
+into the western valleys.
 
-Heading into early next week, the mean of model guidance backs off
-somewhat with the heat in the coastal basin as the high pressure
-weakens a touch and slides east. This will likely reduce or remove
-offshore wind potential for Monday and Tuesday. However, high
-temperatures in the 90s to near 100 inland from the coastline will
-keep major HeatRisk in place for most of the coastal basin. By mid
-to late next week, the general consensus is that upper ridging will
-strengthen slightly again, keeping this heatwave firmly in place.
+&&
+
+.LONG TERM (Monday through Thursday)...
+With the weakening of offshore flow, a weak sea breeze will begin
+to spread some cooling into coastal areas with high temperatures
+near the beaches cooling into the mid 80s with more elevated and
+inland coastal areas still warming into the mid to upper 90s. High
+temperatures for the valleys will be mostly into the mid 90s to
+105. Low temperatures for the coast and valleys will gradually
+cool into the upper 60s to mid 70s for Wednesday and Thursday.
+Extreme HeatRisk will continue through Thursday from just inland
+of the beaches into the western valleys with Moderate to Major
+HeatRisk elsewhere for the coast and valleys.
+
+Some gradual cooling may develop beginning around Friday of next
+week.
 
 &&
 
 .AVIATION...
-020015Z...Coast/western valleys: low clouds based 400-800 ft MSL
-increase in coverage at the coast 03-06z over coastal SD County,
-then patchy coverage develops over coastal Orange County 09-12z.
-Visibility starts off 2-5SM at the immediate coast and 0-2SM (FG)
-over coastal mesas (including KCRQ where cigs are present), then
-bases fall to 100-500 ft MSL 10-14z, reducing VIS to 0-2SM with
-patchy fog at the immediate coast. Clouds scatter out 15-17z, then
-SKC.
+020930Z...Coast/western valleys: Patchy low clouds/fog have formed
+along parts of the coastline this morning. Bases 300-700 ft MSL are
+leading to vis reductions 0-3SM. Clouds will continue to be somewhat
+patchy and intermittent through the morning before clearing 15-16Z.
+Clear skies follow through the period as offshore winds aloft
+prevent low cloud formation this evening.
 
 Inland Valleys/Foothills/Mountains: East winds increase over west-
 facing foothills, inland valleys and in parts of the Inland Empire
-after 15z, gusting 25-40 kts Friday afternoon.
+after 17Z, gusting 25-40 kts by this afternoon. Winds diminish after
+01Z Sat.
 
 Otherwise...Clear skies through the TAF period.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
@@ -450,11 +463,17 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning from 10 AM Friday to 8 PM PDT Thursday for
-     Orange County Coastal Areas-Orange County Inland Areas-San
-     Bernardino and Riverside County Valleys-The Inland Empire-
-     San Diego County Coastal Areas-San Diego County Valleys-
-     Santa Ana Mountains and Foothills.
+CA...Extreme Heat Warning from 10 AM this morning to 8 PM PDT
+     Thursday for Orange County Coastal Areas-Orange County
+     Inland Areas-San Bernardino and Riverside County Valleys-
+     The Inland Empire-San Diego County Coastal Areas-San Diego
+     County Valleys-Santa Ana Mountains and Foothills.
+
+     Wind Advisory from 6 AM to 6 PM PDT Saturday for Orange County
+     Inland Areas-Riverside County Mountains-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Mountains-San Diego County Valleys-San Gorgonio Pass near
+     Banning-Santa Ana Mountains and Foothills.
 
 PZ...None.
 
@@ -462,8 +481,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE...Westerink
+PUBLIC...17
+AVIATION/MARINE...CSP
 
 
 </pre>
