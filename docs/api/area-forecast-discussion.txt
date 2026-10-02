@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-01T22:25:33+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T04:32:35+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-492
-FXUS66 KSGX 011947
+145
+FXUS66 KSGX 020048
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1247 PM PDT Thu Oct 1 2026
+548 PM PDT Thu Oct 1 2026
 
 .SYNOPSIS...
 Strengthening high pressure aloft will bring a warming trend with a
@@ -375,6 +375,9 @@ deserts with minor HeatRisk elsewhere.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 A building strong high pressure today will center itself over
 southern NV and northern AZ this weekend. Easterly flow aloft will
@@ -414,17 +417,23 @@ keep major HeatRisk in place for most of the coastal basin. By mid
 to late next week, the general consensus is that upper ridging will
 strengthen slightly again, keeping this heatwave firmly in place.
 
-
 &&
 
 .AVIATION...
-011845Z...Coast/western valleys: Very patchy low clouds based 700-
-1000 ft MSL with local vis reductions (1-5SM) inland edge of the low
-clouds. Clouds will be far patchier and intermittent when they
-reform late Thursday evening, impacting coastal sites late, if they
-do at all(30-50% chance for cigs, highest probability vcnty KSAN).
+020015Z...Coast/western valleys: low clouds based 400-800 ft MSL
+increase in coverage at the coast 03-06z over coastal SD County,
+then patchy coverage develops over coastal Orange County 09-12z.
+Visibility starts off 2-5SM at the immediate coast and 0-2SM (FG)
+over coastal mesas (including KCRQ where cigs are present), then
+bases fall to 100-500 ft MSL 10-14z, reducing VIS to 0-2SM with
+patchy fog at the immediate coast. Clouds scatter out 15-17z, then
+SKC.
 
-Otherwise...clear skies today and tonight.
+Inland Valleys/Foothills/Mountains: East winds increase over west-
+facing foothills, inland valleys and in parts of the Inland Empire
+after 15z, gusting 25-40 kts Friday afternoon.
+
+Otherwise...Clear skies through the TAF period.
 
 &&
 
@@ -454,7 +463,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE...Small
+AVIATION/MARINE...Westerink
 
 
 </pre>
