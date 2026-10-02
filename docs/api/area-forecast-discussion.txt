@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T12:02:05+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T21:55:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,36 +343,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-417
-FXUS66 KSGX 020940
+429
+FXUS66 KSGX 021848
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-240 AM PDT Fri Oct 2 2026
+1148 AM PDT Fri Oct 2 2026
 
 .SYNOPSIS...
-Strengthening high pressure aloft and offshore flow will bring
-much warmer high temperatures for coastal areas into the western
-valleys today will a long-duration heatwave expected to last
-through much of next week. Easterly Santa Ana winds for today will
-gust to 30 to 40 mph with winds on Saturday gusting to 35 to 45
-mph with isolated gusts to 55 mph for the San Diego County
-mountains and inland valleys. Moderate or greater HeatRisk is
-expected for the coast and valleys through next Thursday with
-Major HeatRisk for the coast into the western valleys for today
-and Saturday and Extreme HeatRisk for locations just inland of the
-beaches into the western valleys for Sunday through Thursday.
-Nights will be quite warm for the coast and valleys with low
-temperatures for Saturday through Tuesday mostly in the 70s.
-Gradual cooling could develop around Friday of next week.
+High pressure will intensify into the weekend and linger into next
+week. This will bring a long-duration heat wave for areas west of
+the mountains. Increased Santa Ana winds will also occur today
+through the weekend as well. The peak of the heat will be this
+weekend, but confidence is still low on how long the heat lasts into
+the end of next week.
 
 &&
 
@@ -380,71 +368,63 @@ Gradual cooling could develop around Friday of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+The thin marine layer gave it one last try this morning, with foggy
+conditions within 5 miles of the coastline. High pressure aloft will
+subtly strengthen into the weekend, causing the marine layer to thin
+even further with mainly clear skies going forward each night.
+Clockwise flow around the high pressure system to our northwest has
+allowed Santa Ana winds to move into the area. We have already
+gusted over 50 mph in some spots this morning across the San Diego
+County Mountains. Locally gusty conditions will continue this
+afternoon and overnight, before strengthening further late Saturday
+morning and afternoon. Model guidance shows a fairly good chance (60-
+65%) chance of far inland valley locations like Ramona gust to 35
+MPH. Since this wind will be mainly easterly, the strongest winds
+will once again be across the San Diego Co mts and inland valleys,
+as well as the Inland Empire. Winds become weaker by Sunday in these
+areas with gusts closer to 20-25 MPH. Gusty winds and lower relative
+humidity each day will lead to elevated to near-critical fire
+weather conditions, so make sure to do your part that leads to one
+less spark!
 
-...UPDATED AVIATION DISCUSSION...
+The main story will be the heat wave that is expected for areas west
+of the mountains. Much warmer weather is already occurring today
+with highs 10-15 degrees warmer than yesterday. The area of high
+pressure over the Desert Southwest will not move very much, with
+slight fluctuations in intensity. This, combined with increased
+Santa Ana winds on Saturday, will most make this day to be the
+hottest day of the event. Those within about 10 miles or more of the
+coast have a 60-90% chance of seeing triple digit heat on Saturday,
+similar chances on Sunday. Always a tricky forecast with an offshore
+winds pattern, where locations that do see an elevated east or
+northeast winds will be hotter than those who do not. The same will
+go for overnight temperatures as light offshore winds and a warm air
+mass will keep lower temperatures well into the 70s for areas west
+of the mountains. Other locations across the mountains and deserts
+will still see highs 5 to 10 degrees above normal.
 
-.SHORT TERM (Today through Sunday)...
-Strengthening high pressure aloft and offshore flow will bring
-much warmer high temperatures for coastal areas into the western
-valleys today will a long-duration heatwave expected to last
-through much of next week. High temperatures for today will range
-from around 90 at the beaches to 100 to 105 for the western
-valleys with Major HeatRisk for the coast into much of the
-valleys. Easterly Santa Ana winds will develop this morning and
-continue into early this evening with gusts to 30 to 40 along the
-coastal slopes of the mountains in Riverside and San Diego
-Counties into the adjacent inland valleys.
-
-High temperatures on Saturday will be 15 to 20 degrees above
-average for the coast and valleys, locally exceeding 25 degrees
-above average for San Diego County coastal areas on Saturday. High
-temperatures on Saturday for the coast and valleys will be mostly
-in the 90s to around 105 with the hottest temperatures for inland
-coastal areas into the western valleys. Easterly Santa Ana winds
-are expected to be stronger and more widespread on Saturday with
-gusts to 35 to 45 mph, locally to 45 to 55 mph for the San Diego
-County mountains into the adjacent inland valleys. These winds
-will strengthen around sunrise, then diminish from north to south
-during the afternoon and early evening. Winds for Sunday are
-expected to be weaker and more localized.
-
-Low temperatures for the coast and valleys for early today will be
-mostly in the 60s and lower 70s. Low temperatures will warm into
-the 70s for Saturday and Saturday. HeatRisk on Saturday will be
-similar to today with Extreme HeatRisk on Sunday for coastal areas
-into the western valleys.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-With the weakening of offshore flow, a weak sea breeze will begin
-to spread some cooling into coastal areas with high temperatures
-near the beaches cooling into the mid 80s with more elevated and
-inland coastal areas still warming into the mid to upper 90s. High
-temperatures for the valleys will be mostly into the mid 90s to
-105. Low temperatures for the coast and valleys will gradually
-cool into the upper 60s to mid 70s for Wednesday and Thursday.
-Extreme HeatRisk will continue through Thursday from just inland
-of the beaches into the western valleys with Moderate to Major
-HeatRisk elsewhere for the coast and valleys.
-
-Some gradual cooling may develop beginning around Friday of next
-week.
+The area of high pressure may weaken slightly by the first half of
+next week, but changes in temperatures will be rather minimal.
+Multiple days of the heat will lead to high heat risk west of the
+mountains, so make sure to be in areas of A/C and check on those
+without effective cooling. Models hint at the high becoming weaker
+by the end of next week, but just how weak it becomes is still
+uncertain. The forecast still has an outlook of temperatures above
+normal, but please keep up with the latest forecast for additional
+details.
 
 &&
 
 .AVIATION...
-020930Z...Coast/western valleys: Patchy low clouds/fog have formed
-along parts of the coastline this morning. Bases 300-700 ft MSL are
-leading to vis reductions 0-3SM. Clouds will continue to be somewhat
-patchy and intermittent through the morning before clearing 15-16Z.
-Clear skies follow through the period as offshore winds aloft
-prevent low cloud formation this evening.
+021700Z...Coast/western valleys: Mostly clear skies expected through
+the period. East winds with gusts up to 25 kts near Camp Pendleton
+and southern Orange County between 12-21Z Sat.
 
-Inland Valleys/Foothills/Mountains: East winds increase over west-
-facing foothills, inland valleys and in parts of the Inland Empire
-after 17Z, gusting 25-40 kts by this afternoon. Winds diminish after
-01Z Sat.
+Inland Valleys/Foothills/Mountains: East winds over west-facing
+foothills, inland valleys and in parts of the Inland Empire, gusting
+25-40 kts. Winds diminish after 01Z Sat. Stronger east winds
+expected after 15Z Saturday into the afternoon. MOD UDDFS with wind
+gusts 30-45 kts.
 
 Otherwise...Clear skies through the TAF period.
 
@@ -459,15 +439,14 @@ No hazardous marine conditions are expected through Tuesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Extreme Heat Warning from 10 AM this morning to 8 PM PDT
-     Thursday for Orange County Coastal Areas-Orange County
-     Inland Areas-San Bernardino and Riverside County Valleys-
-     The Inland Empire-San Diego County Coastal Areas-San Diego
-     County Valleys-Santa Ana Mountains and Foothills.
+CA...Extreme Heat Warning until 8 PM PDT Thursday for Orange County
+     Coastal Areas-Orange County Inland Areas-San Bernardino and
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Coastal Areas-San Diego County Valleys-Santa Ana Mountains
+     and Foothills.
 
      Wind Advisory from 6 AM to 6 PM PDT Saturday for Orange County
      Inland Areas-Riverside County Mountains-San Bernardino and
@@ -481,8 +460,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...CSP
+PUBLIC...APR
+AVIATION/MARINE...APR
 
 
 </pre>
