@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-02T21:55:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-03T04:15:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-429
-FXUS66 KSGX 021848
+282
+FXUS66 KSGX 022347
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1148 AM PDT Fri Oct 2 2026
+447 PM PDT Fri Oct 2 2026
 
 .SYNOPSIS...
 High pressure will intensify into the weekend and linger into next
@@ -367,6 +367,9 @@ the end of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The thin marine layer gave it one last try this morning, with foggy
 conditions within 5 miles of the coastline. High pressure aloft will
@@ -416,15 +419,17 @@ details.
 &&
 
 .AVIATION...
-021700Z...Coast/western valleys: Mostly clear skies expected through
+022345Z...Coast/western valleys: Mostly clear skies expected through
 the period. East winds with gusts up to 25 kts near Camp Pendleton
-and southern Orange County between 12-21Z Sat.
+and southern Orange County after 14z Sat, then weak onshore W/NW
+sea breeze prevails after 21z.
 
 Inland Valleys/Foothills/Mountains: East winds over west-facing
 foothills, inland valleys and in parts of the Inland Empire, gusting
-25-40 kts. Winds diminish after 01Z Sat. Stronger east winds
-expected after 15Z Saturday into the afternoon. MOD UDDFS with wind
-gusts 30-45 kts.
+to 30 kts, to diminish this evening, staying locally elevated
+overnight over the western slopes in the mountains. Stronger east
+winds expand back throughout inland areas after 15Z Saturday into
+the afternoon. MOD UDDFS with wind gusts 30-45 kts.
 
 Otherwise...Clear skies through the TAF period.
 
@@ -438,6 +443,7 @@ No hazardous marine conditions are expected through Tuesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -461,7 +467,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...APR
+AVIATION/MARINE...Westerink
 
 
 </pre>
