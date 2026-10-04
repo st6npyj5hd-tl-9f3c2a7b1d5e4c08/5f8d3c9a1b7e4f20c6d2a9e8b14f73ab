@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-03T20:42:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-04T04:46:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-717
-FXUS66 KSGX 031837
+110
+FXUS66 KSGX 040010
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1137 AM PDT Sat Oct 3 2026
+510 PM PDT Sat Oct 3 2026
 
 .SYNOPSIS...
 An area of high pressure will remain over the Desert Southwest
@@ -368,6 +368,9 @@ the heat lasts into the end of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Santa Ana winds have been observed this morning. East flow around an
 area of high pressure has resulted in gusts near 30-45 MPH across
@@ -406,16 +409,18 @@ further south into California by next weekend.
 &&
 
 .AVIATION...
-031800Z...Coast/western valleys: East/southeast winds along the
-coast will begin to turn onshore by the 19Z hour. E winds near 15-
-20kts in the the valleys will weaken later this afternoon.
-Otherwise, mostly clear with VFR conditions through the period.
+040000Z...Coast/western valleys: SKC and VFR through the period.
+E/SE winds gusting 10-20 kts could reach parts of the coast from 15-
+19z Sun, including at KSAN and KCRQ, then turn onshore W/NW Sun
+afternoon.
 
-Inland Valleys/Foothills/Mountains: East winds over west-facing
-foothills, inland valleys and in parts of the Inland Empire and San
-Diego County will be gusting near 20-35 kts, locally over 40 kts,
-through the afternoon. MOD UDDFS expected until 01Z Sun, with winds
-becoming more localized to the mountains.
+Inland Valleys/Foothills/Mountains: East winds weaken inland,
+remaining elevated over higher west facing slopes near mountain
+ridges tonight. E/SE winds increase and expand westward to valleys
+in the early morning hours ~11-15z, peaking between 15-19z with
+gusts to 15-30 kts (locally to 35 kts). MOD UDDFS expected over
+coastal slopes. Winds gradually turn westerly Sunday afternoon
+through the valleys as the sea breeze moves inland.
 
 Otherwise...Clear skies through the TAF period.
 
@@ -429,6 +434,7 @@ No hazardous marine conditions are expected through Wednesday.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -452,7 +458,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...APR
+AVIATION/MARINE...Westerink
 
 
 </pre>
