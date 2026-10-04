@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-04T16:35:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-04T20:58:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,24 +341,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-107
-FXUS66 KSGX 040937
+960
+FXUS66 KSGX 041847
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-237 AM PDT Sun Oct 4 2026
+1147 AM PDT Sun Oct 4 2026
 
 .SYNOPSIS...
-Hot days and warm nights, mainly west of the mountains, will
-continue through Thursday. Locally gusty Santa Ana winds will
-continue today, strongest near the coastal mountain slopes. Today
-will likely be the hottest day, but confidence is improving that
-Friday will be noticeably less hot and next weekend will be
-cooler.
+High pressure remains over the region, bringing a prolonged period
+of hot weather, most notable west of the mountains. Breezy Santa Ana
+winds will continue through Monday; highest winds will be near the
+coastal-facing mountain slopes with an elevated fire weather risk.
+Confidence is increasing that cooler weather enters the picture by
+the end of the week, but details in how cool we become and if any
+wet weather arrives is still uncertain.
 
 &&
 
@@ -366,65 +369,57 @@ cooler.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Weaker Santa Ana winds have been observed this morning, mainly below
+35 MPH. This pattern has contributed to very hot temperatures
+this morning for areas west of the mountains. Valley and coastal
+locations are close to 95-100 degrees. Subtle increases in onshore
+flow and a weakening of the high pressure system overhead will
+allow increased onshore flow closer to the coast, bringing a few
+degrees of cooling each day. By Wednesday, confidence starts to
+increase to see highs below 100 degrees for the valleys and
+coastal areas of Orange and San Diego Counties. 850mb temperatures
+increase by Wednesday and Thursday with a thermal ridge poking
+into the Desert Southwest, leading to an increase in temperatures
+over the mountains and deserts a few degrees from what we have
+seen this weekend. Nights will still remain warm for many areas in
+the lower to mid 70s for the lower deserts and places west of the
+mountains. Please make sure to be in areas of A/C and check on
+those without effective cooling.
 
-...UPDATED AVIATION DISCUSSION...
+Models begin to diverge on our next story starting Friday into next
+weekend. Cluster analysis starts to break down the ridge on Friday,
+leading to greater onshore flow and cooling for places from the
+foothills to the coast. Highs for coastal areas and valleys will
+lower mainly into the 80s and 90s by this time with a better chance
+to see lows below 70 degrees.
 
-This morning...Temperatures are near or a few degrees higher than
-at this time yesterday under clear skies. Offshore flow continues,
-with the windy locations reporting easterly winds gusting 20-35
-mph at this hour. Several locations reported broken or tied high
-temperature records. Please see our Record Event Report.
-
-Today will likely be the hottest day of the week as high pressure
-aloft and gusty Santa Ana winds combine to produce daytime high
-temperatures ranging from the mid 90s to low triple digits in the
-coastal areas and inland valleys. These temperatures are about
-15-25 degrees above normal. Daytime high temperatures remain well
-above normal west of the mountains through Thursday with moderate
-to high HeatRisk, although slight cooling from the sea breeze will
-incrementally spread farther inland each day as the offshore flow
-weakens.
-
-The high pressure ridge aloft will weaken a little on Monday and
-conditions become a little less stable. Enough for there to be
-clouds and a slight chance for showers Monday afternoon over the
-San Bernardino and Riverside County mountains. Any precipitation
-that occurs will likely be localized and light. The earliest that
-any model guidance shows marine layer clouds/fog returning to the
-coastal areas is Wed night/Thu morning, but the models have
-historically been slow with the return of the marine layer after a
-Santa Ana event so we`ll be monitoring this closely.
-
-Most model solutions are now indicating noticeable cooling on
-Friday as the high pressure ridge weakens and gets displaced to
-the south and east in response to a low pressure trough moving in
-from the northwest. Conditions will still be warm west of the
-mountains, with daytime high temperatures 10-15 degrees above
-normal. The coastal areas will likely see high temps in the 80s
-while the inland valleys will still see high temps in the mid to
-upper 90s.
-
-For next weekend...Significant cooling is likely as a majority of
-ensemble members show a low pressure trough deepening along the
-west coast. Current indications are for temperatures lowering to a
-few degrees above normal on Saturday then lowering further to a
-few degrees below normal on Sunday. A slim majority of ensemble
-members also show slight chances for widespread light rain on
-Sunday but confidence is still low.
+As the ridge weakens, a trough is expected to enter the PacNW around
+Friday or Saturday. Model guidance is continuing to struggle on
+where exactly this weather system progresses and how amplified it
+becomes. A deeper trough across California would lead to more
+significant cooling next weekend with some model ensembles showing
+light amounts of precipitation around Sunday or the following
+Monday (October 12th). Others show the trough staying further
+north, which would still bring cooler weather, but keep us on the
+drier side. Would not be surprised to see a sort of mesh between
+these depictions to the forecast in the coming days, where cooler
+weather arrives but dry conditions continue.
 
 &&
 
 .AVIATION...
-040530Z...Coast/western valleys: SKC and VFR through the period.
+041730Z...Coast/western valleys: SKC and VFR through the period.
 There is a 20-40% chance E/SE winds gusting 10-20 kts could reach
-parts of the coast from 15-19z Sun, including at KSAN and KCRQ
-(highest chance at KCRQ). Winds turn onshore W/NW late Sun morning.
+parts of the coast this morning through 19z Sun, including at KSAN
+and KCRQ (highest chance at KCRQ). Winds turn onshore W/NW by late
+morning.
 
 Inland Valleys/Foothills/Mountains: E/SE winds increase and expand
-westward to valleys in the early morning hours 12-15z, peaking
-between 16-20z with gusts to 15-35 kts. MOD UDDFS expected over
-coastal slopes. Winds gradually turn westerly this afternoon through
-the valleys as the sea breeze moves inland.
+westward to valleys this morning, peaking through 20z with gusts to
+15-35 kts. MOD UDDFS expected over coastal slopes. Winds gradually
+turn westerly this afternoon through the valleys as the sea breeze
+moves inland. Winds will weaken and return to being light and
+offshore (easterly) after 03z Mon.
 
 Otherwise...Clear skies through the TAF period.
 
@@ -439,7 +434,6 @@ No hazardous marine conditions are expected through Thursday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -449,14 +443,18 @@ CA...Extreme Heat Warning until 8 PM PDT Thursday for Orange County
      Coastal Areas-San Diego County Valleys-Santa Ana Mountains
      and Foothills.
 
+     Beach Hazards Statement from Tuesday afternoon through Friday
+     evening for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE...CSP
+PUBLIC...APR
+AVIATION/MARINE...Stewey
 
 
 </pre>
