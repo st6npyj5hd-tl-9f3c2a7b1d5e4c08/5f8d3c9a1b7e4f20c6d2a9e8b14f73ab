@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-05T04:35:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-05T13:52:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,25 +343,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-211
-FXUS66 KSGX 050024
+101
+FXUS66 KSGX 051206
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-524 PM PDT Sun Oct 4 2026
+506 AM PDT Mon Oct 5 2026
 
 .SYNOPSIS...
-High pressure remains over the region, bringing a prolonged period
-of hot weather, most notable west of the mountains. Breezy Santa Ana
-winds will continue through Monday; highest winds will be near the
-coastal-facing mountain slopes with an elevated fire weather risk.
-Confidence is increasing that cooler weather enters the picture by
-the end of the week, but details in how cool we become and if any
-wet weather arrives is still uncertain.
+Widespread Major to locally Extreme HeatRisk will continue for the
+coastal areas into the western valleys through Thursday with high
+temperatures for the valleys of 100 to 105 each day. A low pressure
+system developing over the western states for Monday of next week
+will bring a cooling trend for Friday through next weekend with
+high temperatures cooling to 4 to 8 degrees below average for next
+Sunday.
 
 &&
 
@@ -369,79 +371,98 @@ wet weather arrives is still uncertain.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Weaker Santa Ana winds have been observed this morning, mainly below
-35 MPH. This pattern has contributed to very hot temperatures
-this morning for areas west of the mountains. Valley and coastal
-locations are close to 95-100 degrees. Subtle increases in onshore
-flow and a weakening of the high pressure system overhead will
-allow increased onshore flow closer to the coast, bringing a few
-degrees of cooling each day. By Wednesday, confidence starts to
-increase to see highs below 100 degrees for the valleys and
-coastal areas of Orange and San Diego Counties. 850mb temperatures
-increase by Wednesday and Thursday with a thermal ridge poking
-into the Desert Southwest, leading to an increase in temperatures
-over the mountains and deserts a few degrees from what we have
-seen this weekend. Nights will still remain warm for many areas in
-the lower to mid 70s for the lower deserts and places west of the
-mountains. Please make sure to be in areas of A/C and check on
-those without effective cooling.
+.SHORT TERM (Today through Wednesday)...
+A weak sea breeze will cool high temperatures near the coast a few
+more degrees today with not much change farther inland with the
+hottest high temperatures for today, of 100 to 105, for the
+western valleys and inland Orange County. Onshore flow on Tuesday
+will cool high temperatures a few more degrees along the coast
+with slight cooling extending inland into the valleys. On
+Wednesday, high temperatures will cool a few more degrees near the
+coast with the mountains, deserts, and inland valleys warming a
+few to around 5 degrees.
 
-Models begin to diverge on our next story starting Friday into next
-weekend. Cluster analysis starts to break down the ridge on Friday,
-leading to greater onshore flow and cooling for places from the
-foothills to the coast. Highs for coastal areas and valleys will
-lower mainly into the 80s and 90s by this time with a better chance
-to see lows below 70 degrees.
+On Wednesday, high temperatures will still be mostly 15 to 20
+degrees above average for the valleys and inland coastal areas
+with the coast 10 to 15 degrees above average. High temperatures
+on Wednesday will be in the mid 80s to lower 90s near the coast to
+the upper 90s to 105 for the Inland Empire.
 
-As the ridge weakens, a trough is expected to enter the PacNW around
-Friday or Saturday. Model guidance is continuing to struggle on
-where exactly this weather system progresses and how amplified it
-becomes. A deeper trough across California would lead to more
-significant cooling next weekend with some model ensembles showing
-light amounts of precipitation around Sunday or the following
-Monday (October 12th). Others show the trough staying further
-north, which would still bring cooler weather, but keep us on the
-drier side. Would not be surprised to see a sort of mesh between
-these depictions to the forecast in the coming days, where cooler
-weather arrives but dry conditions continue.
+&&
+
+.LONG TERM (Thursday through Sunday)...
+On Thursday, there will only be slight changes in high
+temperatures for most areas with inland Orange County and the
+Inland Empire cooling a few to around 5 degrees. A low pressure
+system developing over the western states for Monday of next week
+will bring a cooling trend for Friday through next weekend with
+high temperatures cooling a few to around 5 degrees on Friday and
+another 4 to 8 degrees on Saturday and again on Sunday. High
+temperatures on Sunday will be around 4 to 8 degrees below
+average, ranging from the 70s near the coast to the lower to mid
+80s for the Inland Empire with the lower deserts in the lower to
+mid 90s.
 
 &&
 
 .AVIATION...
-050000Z...Coast/western valleys: SKC and VFR through the period.
-Moderate to high confidence for typical onshore W/NW winds through
-late Monday morning and afternoon.
-
-
-Inland Valleys/Foothills/Mountains: Westerly and easterly winds
-converging over the foothills to weaken by 03z. Easterly flow
-increases again slightly after 10z over west facing foothills and
-eastern valleys, gusting to 15-25 kts, turning westerly once again
-over the eastern valleys Monday afternoon. MOD UDDFS expected over
-coastal slopes. Otherwise...Clear skies through the TAF period.
+051130Z...SKC and VFR today and tonight. Local easterly breezes
+through 20Z gusting to 25 knots in foothills and eastern valleys.
+MOD UDDFS expected over coastal slopes.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday.
+
+&&
 
 .BEACHES...
-A 4-5ft 12-13 second South swell arrives in Southern California
-Tuesday afternoon. Elevated surf of 3-6 feet on south and southwest-
-beaches expected. High tides are expected to peak between 6.5 and
-7.0 feet during the morning and evenings. In combination with the
-elevated surf, minor coastal flooding and beach erosion will be
-possible during high tides through the end of the week.
+Increasing south swell this week, along with high tides during the
+evenings could lead to minor coastal flooding and beach erosion. A
+Beach Hazards Statement contains the details.
+
+&&
+
+.CLIMATE...
+San Diego International Airport had a high temperature of 105 on
+Saturday and 100 on Sunday, both new daily record high
+temperatures. Prior to this past weekend, the last time San Diego
+had a high temperature of 100 or higher was in 2020 on September
+6th at 100. The last time San Diego had a high temperature of 100
+or higher more than once in a year was in 1979 with high
+temperatures of 101 on June 10th and 100 on September 15th. The
+last time San Diego had a high temperature of 100 or higher on
+consecutive days was in 1965 on October 21st and 22nd at 101 and
+104.
+
+Consecutive days with high temperatures of 100 or higher at San
+Diego has now only happened four times with temperature records
+dating back to 1874. That also happened in 1963 in September on
+the 26th and 27th with 111 and 104 with 111 the all-time record
+high temperature for San Diego. It also happened in 1939 on three
+consecutive days on September 20th through 22nd with high
+temperatures of 100, 106, and 102. That was during the heatwave
+that preceded the tropical storm that made landfall near San Pedro
+on September 25th, 1939.
+
+San Diego has now had high temperatures of 100 or higher on only 31
+days since 1874, 27 of which were in September (20) or October (7).
+
+There have been only three times that San Diego has had a low
+temperature of 74 or higher with a high temperature of 100 or
+higher. There were low temperatures in 1939 of 74 on September
+20th and 76 on September 21st. The low temperature on Sunday,
+October 4th of this year was 74, tied for the second warmest low
+temperature on a day with a high temperature of 100 or higher.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -462,8 +483,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
