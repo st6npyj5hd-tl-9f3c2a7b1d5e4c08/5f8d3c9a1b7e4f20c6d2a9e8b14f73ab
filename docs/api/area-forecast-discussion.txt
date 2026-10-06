@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-06T05:21:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-06T12:55:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,22 +348,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-894
-FXUS66 KSGX 052333
+995
+FXUS66 KSGX 061138
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-433 PM PDT Mon Oct 5 2026
+438 AM PDT Tue Oct 6 2026
 
 .SYNOPSIS...
-High pressure remains over the region, bringing a prolonged period
-of hot weather, most notable west of the mountains. Elevated fire
-weather risk continues through today with light Santa Ana winds
-easing throughout the day. An area of low pressure will move over
-the western part of the country by the end of the week. This will
-bring cooler weather and a deeper marine layer to our region, with
-low confidence on the weather system giving us any wet weather.
+This long-duration heatwave will continue for the coast and
+valleys through Thursday and through Friday for the lower deserts.
+Cooling will spread inland for Friday and Saturday with Saturday
+high temperatures still around 5 degrees above average. For Sunday
+through early next week, a low pressure system along the West
+Coast and off the coast of Baja may draw moisture from what was
+Hurricane Rachel northeastward and into the area with a chance of
+showers.
 
 &&
 
@@ -371,88 +372,74 @@ low confidence on the weather system giving us any wet weather.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Another hot day is in store as high pressure remains over the
-Southwest. Valley and coastal locations soaring into the 90s again
-this morning as weak offshore winds hold across the area. Models
-show better onshore flow (west winds) closer to the coast and far
-western valleys over the next couple of days. Still thinking
-temperatures from today into Tuesday will be relatively similar. A
-subtle increase in temperatures will be seen at the coast as a
-thermal ridge expands northward Wednesday into Thursday. This will
-mainly be felt across the mountains and the deserts with highs
-increasing 3-5 degrees from where they are today. Low temperatures
-will still remain warm over the region with many places staying into
-the 70s overnight in the lower deserts and west of the mountains.
-Light offshore flow at night will be the main driver of low
-temperatures. Wind-sheltered valleys will lower into the 60s in some
-areas, while communities that see wind the whole night will stay in
-the mid 70s to near 80. Please continue to practice heat safety by
-finding places with A/C and checking on friends and family. The
-marine layer will also subtly build on Wednesday into Thursday, but
-confidence is lower on when low clouds and fog reach coastal areas.
-Forecast now shows fog possibly moving along the coast by Wednesday
-morning. Chances for low clouds and fog will increase Thursday into
-Friday, and most definitely by the weekend for much of the coastal
-basin.
+.SHORT TERM (Today through Thursday)...
+Widespread Major to Extreme HeatRisk for the coast and valleys
+for today will decrease to Moderate to Major HeatRisk on Thursday.
+High temperatures on Thursday will still be 12 to 18 degrees
+above average for the coast and valleys and 10 to 15 degrees above
+average for the mountains and deserts. High temperatures on
+Thursday will range from the 80s near the coast to the upper 90s
+to 104 for the Inland Empire with 104 to 108 for the lower deserts
+with Major HeatRisk for the lower deserts.
 
-Models are starting to come into better agreement on when a trough
-of low pressure enters the Pacific Northwest, sometime later on
-Friday into early Saturday. This system will help weaken the high
-pressure system over area. Height falls will lead to greater onshore
-flow and cooling. Highs from Thursday to Friday will drop another 1-
-4 degrees, with the greater cooling occurring from Friday to
-Saturday with highs lowering another 5-10 degrees. Friday will see
-highs closer to 100 degrees for the lower deserts and inland coastal
-valleys, with 80s more common near the coast. Models start to
-diverge once again on where this trough will go and how far south it
-plunges across the western U.S. For now, another significant
-temperature drop is in the forecast from Saturday to Sunday with
-highs lowering another 5-10 degrees. On Sunday, there`s around a 50-
-50 chance of temperatures staying below 80 degrees for the valleys
-west of the mountains as well as the large cities of the high
-desert.
+A shallow marine layer will return around early Wednesday or early
+Thursday and slowly deepen into the weekend with the return of low
+clouds and fog initially in the form of dense fog near the coast.
 
-The path of the weather system will determine how cool we become and
-if we are able to see any precipitation along and west of the
-mountains. Global models continue to show large discrepancies on how
-this feature evolves. Taking a look at model ensembles, ECMWF brings
-a wetter pattern with about 3/4 of the guidance showing light
-precipitation while the GFS ensembles show a dry pattern with about
-1/4 of ensembles showing light precipitation Sunday through possibly
-next Tuesday. Low confidence remains on any precipitation across the
-region, but confidence is much higher in seeing cooler and breezier
-weather, along with low clouds each morning west of the mountains.
+&&
+
+.LONG TERM (Friday through Monday)...
+High pressure across the area will weaken as low pressure develops
+along the West Coast and the adjacent eastern Pacific. High
+temperatures will cool a few degrees on Friday and another 4 to 8
+degrees on Saturday with high temperatures on Saturday still
+around 5 degrees above average. High temperatures on Saturday will
+range from the mid 70s to the lower 80s near the coast to the mid
+80s to lower 90s for the Inland Empire with the lower deserts in
+the upper 90s.
+
+On Sunday into early next week, that low pressure system along the
+West Coast and off the coast of Baja may draw moisture from what
+was Hurricane Rachel northeastward and into the area with a chance
+of showers. For early Sunday to early Tuesday, the NBM chance for
+0.10 inch or more of rainfall is 30 to 40 percent for the coast
+to the mountains with the chance for 0.50 or more 15 to 25 percent
+and the chance for 1 inch or more 10 to 15 percent.
+
+High temperatures for the coast and valleys will cool from the mid
+70s to lower 80s on Sunday to the 70s on Monday with the lower
+deserts cooling from the lower 90s on Sunday to the 80s on Monday.
 
 &&
 
 .AVIATION...
-052330Z...SKC and VFR through Tuesday evening.
+061130Z...SCT to locally BKN clouds based at 8-12 kft, staying
+mostly inland after 18Z. Patchy low clouds and fog based around
+500-900 feet MSL vcnty KSAN after 03Z into Wednesday morning, but
+cigs at KSAN not likely.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday.
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .BEACHES...
-Increasing south-southwest swell will create elevated surf of 3-6
-feet, with sets to 7 feet along south and southwest facing beaches
-starting late Tuesday. Strong rip currents expected. Additionally,
-this will coincide with high tides during the mornings and evenings
-to create minor coastal flooding and beach erosion. A Beach Hazards
-Statement and a Coastal Flood Advisory have been issued with more
-details.
+Increasing south swell will create surf of 3-5 feet with sets to 6
+feet at south and southwest facing beaches starting Wednesday.
+Strong rip currents are expected. In addition, this elevated surf
+will combine with high tides during the mornings and evenings to
+generate local coastal flooding and beach erosion. The Beach Hazards
+Statement and Coastal Flood Advisory contain the details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -463,13 +450,17 @@ CA...Extreme Heat Warning until 8 PM PDT Thursday for Orange County
      Coastal Areas-San Diego County Valleys-Santa Ana Mountains
      and Foothills.
 
-     Beach Hazards Statement from Tuesday afternoon through Friday
-     evening for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+     Beach Hazards Statement from 4 PM PDT this afternoon through
+     Friday evening for Orange County Coastal Areas-San Diego
+     County Coastal Areas.
 
      Coastal Flood Advisory from 6 AM Wednesday to 11 AM PDT Friday
      for Orange County Coastal Areas-San Diego County Coastal
      Areas.
+
+     Extreme Heat Watch from Wednesday morning through Friday evening
+     for Coachella Valley-San Diego County Deserts-San Gorgonio
+     Pass near Banning.
 
 PZ...None.
 
@@ -477,8 +468,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
