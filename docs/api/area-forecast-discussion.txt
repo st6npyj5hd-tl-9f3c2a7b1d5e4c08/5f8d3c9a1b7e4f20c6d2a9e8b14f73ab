@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-06T22:23:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-07T04:49:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,14 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-323
-FXUS66 KSGX 062046
+211
+FXUS66 KSGX 062351
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-Issued by National Weather Service Los Angeles/Oxnard CA
-146 PM PDT Tue Oct 6 2026
+451 PM PDT Tue Oct 6 2026
 
 .SYNOPSIS...
 This long-duration heatwave will continue for the coast and
@@ -371,6 +370,8 @@ into the area with a chance of showers.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 
@@ -425,32 +426,34 @@ passes mountains and deserts Sunday or Monday.
 &&
 
 .AVIATION...
-061830Z...SCT to locally BKN clouds based at 8-12 kft inland
-through Wed O3Z. Patchy low clouds and fog based around 500-900
-feet MSL vcnty KSAN after 03Z into Wednesday morning, but cigs at
-KSAN not likely.
-
+062240Z...SCT shallow cumulus clouds based near 10 kft over the
+mountain ridges dissipating by 03Z. There is a 40% chance of CIGS
+below 500 ft and fog with vis 1 SM or less developing along the
+coast 09-18Z, though chances of these low CIGs/VIS at the coastal
+TAF sites are less than 30%. Higher chances of low clouds and fog
+returning to the coastal areas Wed night.
 
 &&
 
-.MARINE....
-No hazardous marine conditions are expected today through
-Wednesday.
+.MARINE...
+No hazardous marine conditions are expected through Saturday.
 
 &&
 
 .BEACHES...
-Increasing south swell will create surf of 3-5 feet with sets to 6
-feet at south and southwest facing beaches starting Wednesday.
-Strong rip currents are expected. In addition, this elevated surf
-will combine with high tides during the mornings and evenings to
-generate local coastal flooding and beach erosion. The Beach Hazards
-Statement and Coastal Flood Advisory contain the details.
+Increasing south swells will create surf of 3-5 feet with sets to 6
+feet on south and southwest facing beaches Wednesday through Friday.
+Strong rip and longshore currents are expected. In addition, this
+elevated surf will combine with high tides during the mornings and
+evenings to generate local coastal flooding and beach erosion. The
+Beach Hazards Statement and Coastal Flood Advisory contain the
+details.
 
 &&
 
 .SKYWARN...
-Skywarn activation will not be needed today.
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 
 &&
@@ -462,17 +465,16 @@ CA...Extreme Heat Warning until 8 PM PDT Thursday for Orange County
      Coastal Areas-San Diego County Valleys-Santa Ana Mountains
      and Foothills.
 
-     Beach Hazards Statement from 4 PM PDT this afternoon through
-     Friday evening for Orange County Coastal Areas-San Diego
-     County Coastal Areas.
+     Beach Hazards Statement through Friday evening for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
      Coastal Flood Advisory from 6 AM Wednesday to 11 AM PDT Friday
      for Orange County Coastal Areas-San Diego County Coastal
      Areas.
 
-     Extreme Heat Watch from Wednesday morning through Friday evening
-     for Coachella Valley-San Diego County Deserts-San Gorgonio
-     Pass near Banning.
+     Extreme Heat Warning from 10 AM Wednesday to 8 PM PDT Friday for
+     Coachella Valley-San Diego County Deserts-San Gorgonio Pass
+     near Banning.
 
 PZ...None.
 
@@ -480,8 +482,8 @@ PZ...None.
 
 $$
 
-PUBLIC...RS/RM
-AVIATION/MARINE/BEACHES...DB
+PUBLIC...RM/RS
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
