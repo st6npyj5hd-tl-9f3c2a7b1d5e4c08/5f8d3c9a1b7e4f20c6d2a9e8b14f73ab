@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-07T22:50:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-08T05:00:05+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-246
-FXUS66 KSGX 072112
+308
+FXUS66 KSGX 072357
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-120 PM PDT Wed Oct 7 2026
+457 PM PDT Wed Oct 7 2026
 
 .SYNOPSIS...
 The long duration heatwave is past its halfway point, but extreme
@@ -364,13 +364,25 @@ expected for the weekend onward. A low pressure system will
 combine with tropical moisture, bringing showers Sunday into
 Tuesday, with the greatest chances of rain on Sunday into Monday.
 
-
 &&
 
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION DISCUSSION...
+
+KEY POINTS
+
+1. Coastal flooding and beach erosion from high tides 6.5 to 7 ft
+and elevated surf at times is expected through next week.
+
+2. Rain chances increase for Sunday through Tuesday across the
+area. Highest chances of rain are Sunday into Monday. We`re
+monitoring the potential for flash and urban flooding.
+
+3. There is a potential for increased winds from the coastal
+waters to the deserts Sunday into Monday
 
 .SHORT TERM (Today through Saturday)...
 
@@ -397,20 +409,6 @@ Friday morning as the marine layer slowly deepens.
 &&
 
 .LONG TERM (Sunday through Wednesday)...
-
-KEY POINTS
-
-1. Coastal flooding and beach erosion from high tides 6.5 to 7 ft
-and elevated surf at times is expected through next week.
-
-2. Rain chances increase for Sunday through Tuesday across the
-area. Highest chances of rain are Sunday into Monday. We`re
-monitoring the potential for flash and urban flooding.
-
-3. There is a potential for increased winds from the coastal
-waters to the deserts Sunday into Monday
-
-DISCUSSION
 
 The cooling trend will continue into early next week, with high
 temperatures falling to as much as 10 to 15 degrees below average
@@ -445,41 +443,34 @@ due to remnants of Rachel.
 &&
 
 .AVIATION...
-071130Z...Coast: Isolated and intermittent patches of low clouds and
-fog may occur from 03Z-10Z Thu. Any cigs would be around 200-600
-feet MSL with vis possibly falling as low as 1SM. Greater coverage
-of low clouds and fog more likely after 10Z Thursday. Bases would
-be 200-600 feet MSL and vis likely 3-6SM.
+072345Z...Coast...Patchy low clouds with bases below 500 ft MSL
+continue at the beaches afternoon, becoming more widespread and
+moving 5 to locally 10 mi inland after 09Z. There is a 50-60% chance
+of CIGS below 300 ft MSL with vis 1/2 SM or less in FG at KSAN and
+KCRQ 11-15Z, and around a 40% chance at KSNA during that time frame.
 
-Otherwise...clear skies except for cumulus based around 10 kft over
-mountains 19-01Z.
-
+Otherwise...Shallow cumulus over the mountain crests through 01Z
+then clear with unrestricted vis through Thursday afternoon.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Saturday.
-Gusty winds and choppy seas are expected Sunday into early next
-week. Please stay tuned for more details in the coming days.
-
+Southwest to west winds strengthen Sunday and continue into Monday,
+potentially creating conditions hazardous to small craft.
 
 &&
 
 .BEACHES...
-Increasing south swells due to current Hurricane Rachel will
-create surf of 3-5 feet with sets to 6 feet on south and southwest
-facing beaches through at least Friday. Additionally, elevated
-surf is expected to return for beaches from Sunday into early next
-week. Swimming conditions will be hazardous especially for
-inexperienced swimmers due to both the surf and rip current risk.
-
-High tides and associated minor coastal flooding and beach erosion
-will continue into Tuesday, with Sunday being the main day to
-watch with the greatest impacts. Tides will be high during both
-the mornings and evenings through Friday, then Saturday onward the
-morning tides will be the highest. Please see the Beach Hazards
-Statement and Coastal Flood Advisory contain the details. Stay
-tuned for more details in the coming days.
+Increasing south swells will create surf of 3-5 feet with sets to 6
+feet on south and southwest facing beaches through Friday. Elevated
+surf and strong rip and longshore currents will create hazardous
+swimming conditions. This elevated surf will combine with high tides
+during the mornings and evenings to generate local coastal flooding
+and beach erosion. Another south swell and continued morning high
+tides near 7 feet will maintain a threat of coastal flooding and
+beach erosion into Tuesday. The Beach Hazards Statement and Coastal
+Flood Advisory contain the details.
 
 &&
 
@@ -506,7 +497,6 @@ CA...Beach Hazards Statement through Friday evening for Orange County
      Extreme Heat Warning until 8 PM PDT Friday for Coachella Valley-
      San Diego County Deserts-San Gorgonio Pass near Banning.
 
-
 PZ...None.
 
 &&
@@ -514,7 +504,7 @@ PZ...None.
 $$
 
 PUBLIC...RS
-AVIATION/MARINE/BEACHES...RS
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
