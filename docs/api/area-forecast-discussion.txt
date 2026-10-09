@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-09T12:44:38+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-09T22:22:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,27 +345,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-854
-FXUS66 KSGX 091207
+832
+FXUS66 KSGX 092047
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-507 AM PDT Fri Oct 9 2026
+147 PM PDT Fri Oct 9 2026
 
 .SYNOPSIS...
-Cooling will spread inland into the weekend with high temperatures
-lowering to around average on Saturday. High temperatures for the
-coast and valleys will be mostly in the 70s for Sunday through
-Tuesday. One low pressure system from the southwest on Sunday and
-a second from the north on Monday and Tuesday combined with
-tropical moisture will bring showers for late Saturday night
-through Sunday night with continuing chances for showers through
-Tuesday night. There will also be stronger southwest to west winds
-on Sunday.
+Tropical Storm Rachel will approach the region Saturday evening into
+Sunday. Cooler weather will continue to spread inland this weekend
+into early next week as a stronger trough moves in from the north.
+These systems will bring showers and locally heavy rainfall, gusty
+winds, and coastal impacts to the region. Quieter and warmer weather
+will begin to move into the region for the latter half of next week.
 
 &&
 
@@ -374,154 +373,124 @@ SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
 
-...UPDATED AVIATION DISCUSSION FOR 12Z TAF ISSUANCE...
+Mostly clear skies were seen over SoCal with cumulus clouds across
+the mountain areas. A trough is beginning to gain strength over the
+Pacific NW as Tropical Storm Rachel churns 800 miles to the SW of
+San Diego. The deepening troughing pattern over the West Coast will
+bring in more cooler air to the region by Saturday with a few
+degrees cooler than today near the coast, closer to 10 degrees
+cooler for all other areas. Widespread 70s and 80s will be seen for
+areas below 6,000 feet with 90s in the lower deserts. The marine
+layer will also build, bringing low clouds and less fog to coastal
+areas.
 
-As of 12:30 AM local time, a few low clouds were covering parts of
-coastal San Diego County. Perhaps some very localized fog exists
-where clouds and terrain are intersecting, reducing visibility`s
-below 1 mile. Nearly 800 nautical miles to the southwest,
-Tropical Storm Rachel has begun its turn northeastward moving at
-less than 10 miles per hour. Its path will have a significant
-influence on the upcoming weather as its remnants and surface low
-pressure approach the west coast of North America.
+Tropical Storm Rachel is expected to make landfall somewhere near
+the US/Mexico Border late Saturday night. While there remains some
+uncertainty in the track, tropical storm level impacts have the
+potential to impact San Diego County. A Tropical Storm Watch is in
+effect for all of San Diego County, including coastal flooding,
+wind, and periods of heavy rain Saturday night into Sunday. There is
+expected to be a gradient in rainfall amounts with the higher
+amounts on the southeastern side of the storm. There still remains
+some uncertainty in the track, but a continued northern shift would
+increase potential for heavy rain across the county with a southern
+shift making it more localized. Areas of flash and urban flooding
+are possible, especially where the maximum rainfall rates occur some
+mountain areas 0.50-1.00 inch. The San Diego River at Fashion Valley
+is currently forecast to peak at 7.4 feet (which is just below
+monitor stage) Sunday afternoon.
 
-Temperatures...Today marks the last day of significant heat
-(especially in the low deserts) before a significant pattern change
-to the region, regardless of the tropical activity. What is most
-certain in this forecast is that temperatures are bound to cool off
-significantly into early next week. Highs today fall a few degrees
-from yesterday - 80s coastal / mid-90s inland / 100s low desert - as
-a closed upper low and broad west coast trough dip into California.
-Broad cloud coverage from Rachel`s remnants during the day Saturday
-drop highs around 10 degrees from Friday. The trough continues to
-deepen Sunday, dropping highs another 5-10 degrees and then finally
-the trough axis moves over SoCal on Monday, bringing the coolest
-temperatures some areas have seen since last April. The current
-forecast has high temperatures Monday in the mid/upper 60s across
-the coastal basin and high deserts with highs in the 40s in the
-mountains and 70s in the low deserts. If the closed low positions
-itself over Socal instead of the Great Basin as the GFS is showing,
-we could see 700mb temperatures around -5 C and highs could be even
-a few degrees cooler than forecast. Minimum temperatures are also
-expected to drop a few degrees each night inland, from around 70
-this morning to around 50 for early Tuesday (and to the upper 50s
-at the coast).
+Increased winds are expected with the onset and passage of Tropical
+Storm Rachel. Sustained winds of 39+ mph are expected on the
+southeast side of the storm. If the track continues to move further
+north, that would put more of San Diego county in a position to see
+winds of that magnitude. Based on the current track, more southern
+parts of the county are most likely to see winds of this magnitude.
+Regardless, strong sustained winds and wind gusts can be expected on
+Sunday. Winds may be enhanced by local terrain with gusts 40 to 55
+mph on the desert slopes of the mountains and into the deserts.
+Local gusts up to 60 mph possible on mountain ridges.
 
-Rainfall...Tropical Storm Rachel approaches the coast this weekend,
-bringing a chance for an initial soaking rain Sunday. The broader
-trough very slowly moves through Monday with its own moisture and
-mid-level vorticity from the trough axis could bring another round
-of showers Monday into Tuesday. The first wave comes from TS
-Rachel, which is timing periodic rainfall between 1 AM-5 PM
-Sunday. While there isn`t much background instability (almost no
-CAPE), PWAT`s will generally range from 1.3-1.8 inches (>2 inches
-for high end scenario) and the surface low could generate periods
-of persistent moderate rainfall with rain rates over 0.5 in/hr in
-the mountains. Rainfall amounts from TS Rachel will largely depend
-on its track, especially for some of the mountain areas. If the
-surface low from TS Rachel landfalls farther south (>100 miles
-south of SD) and it continues to track east, the amount of
-rainfall especially in the coastal basin and desert slopes would
-be very limited as there is initially not much instability to
-generate rain. Based on NBM probabilities, this scenario
-represents around 25% of solutions, yielding to rainfall less than
-0.25" for the entire coastal basin and less than 0.10" for areas
-farther west like Orange County. The most likely scenario,
-accounting for around 50% of solutions, brings the coastal
-basin/deserts a soaking rain between 0.25-1" during this first
-wave with 1-2 inches in the mountains. Assuming the low tracks
-close enough to the mountains, easterly flow over the desert
-slopes could yield surprisingly high rates (>0.5/hr) and totals
-(1-2 inches). The higher end case (~25% chance) brings 1- 2" over
-the coastal basin/deserts and 2-4" over the mountains, which could
-result in more numerous impacts across the region. The remnants
-of TS Rachel should move out of the region quickly Sunday evening,
-yielding breaks in rainfall. The following waves of showers
-Monday and Tuesday will be driven by the upper level dynamics of
-the trough and will feature a much drier airmass. Totals
-Monday/Tuesday should look more similar to a light wet season
-system: 0.10-0.25" for the coastal basin, higher amounts in the
-mountains and less than 0.10" for desert communities. Since the
-trough will drive in much colder air, light snow accumulations are
-possible with this second round above 8,000 feet.
-
-Winds...There is similar uncertainty with the winds. A track farther
-southeast would yield to much lighter winds gusting below 20 mph
-through the coastal basin while the most likely scenario (~50%
-chance) that the surface low makes a close approach yielding to wind
-gusts 20-40 mph through the coastal basin, with gusts 50-70 mph in
-the mountains and passes during the day Sunday. Winds remain onshore
-Monday but much less strong than Sunday.
-
-Once the trough passes through the region, temperatures rebound
-through the end of next week as the active weather clears.
+Temperatures will continue to tumble on Sunday, dropping another 10
+degrees from those of Saturday. Models continue to differ on the
+exact path of where the trough to the north goes by early next week.
+As of now, the coolest day of the week will be Monday with highs
+struggling to reach 70 west of the mountains with 50s and 60s for
+places below 6,000 feet. Colder temperatures will also be expected
+for the Big Bear region with highs in the 40s and lows in the 20s
+and 30s. Depending on the exact track of the low, chances for
+showers continue into Monday, possibly Tuesday. Models are in fair
+agreement on trough beginning to lift out of the area by Wednesday
+as high pressure off the coast gains strength. This will lead to a
+warmer and drier weather trend for the latter half of next week.
 
 &&
 
 .AVIATION...
-091200Z...Coast...Patchy low clouds with bases 500-900 ft MSL are
-increasing in coverage at this hour and will spread up to 10 miles
-inland by 15Z. Areas of vis 1-5 SM on the coastal mesas and far
-western valleys. Clouds clearing to the coast with vis becoming
-unrestricted 15-17Z. Patchy low clouds returning to the coast after
-03Z Saturday with bases closer to 1000-1500 ft MSL.
+091820Z...Coast...Patchy low clouds returning to the coast after 03Z
+Saturday with bases closer to 1000-1500 ft MSL, best chance for cigs
+in San Diego County. Lower confidence on clearing times for low
+clouds, most likely sometime between 16-18Z Saturday.
 
-Otherwise...Mostly clear with unrestricted vis through Friday
-evening.
+Otherwise...Mostly clear with unrestricted vis through this evening.
+BKN high clouds AOA 20k ft moving into the region tonight into
+Saturday.
 
 &&
 
 .MARINE...
 No hazardous marine conditions are expected through Saturday. Gusty
-northwest to west winds developing Sunday then weakening on Monday.
-Wind gusts 20-30 kt and choppy seas will produce conditions
-hazardous to small craft on Sunday.
-
-&&
-
-.BEACHES...
-Surf of 3-5 feet with sets to 6 feet will continue on south and
-southwest facing beaches through Friday. Elevated surf and strong
-rip and longshore currents will create hazardous swimming
-conditions. This elevated surf will combine with high tides during
-the mornings and evenings to produce local coastal flooding and
-beach erosion.
-
-Another south swell arriving Sunday along with wind waves and
-continued morning high tides near 7 feet will maintain a threat of
-coastal flooding and beach erosion into Tuesday. Surf on Sunday is
-currently expected to be 5 to 7 feet with local sets to 9 feet,
-decreasing to 3-6 feet for Monday and Tuesday. There is still a lot
-of uncertainty in exact surf heights. The Beach Hazards Statement
-and Coastal Flood Advisory contain more details.
+northwest to west winds 20-30 kts developing Sunday then weakening
+on Monday. Choppy seas with swells up to 8 feet and 8 second
+period will produce conditions hazardous to small craft on Sunday.
 
 &&
 
 .SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+Skywarn activation is requested for early Sunday morning through
+Sunday night. Weather spotters are encouraged to report
+significant weather conditions.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this evening for Orange County
+CA...Coastal Flood Warning until 3 PM PDT Sunday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Coastal Flood Advisory until 2 PM PDT Tuesday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+     Tropical Storm Watch for San Diego County Coastal Areas-San
+     Diego County Deserts-San Diego County Mountains-San Diego
+     County Valleys.
+
+     Flood Watch from Saturday evening through Sunday evening for
+     Apple and Lucerne Valleys-Coachella Valley-Riverside County
+     Mountains-San Bernardino County Mountains-San Diego County
+     Coastal Areas-San Diego County Deserts-San Diego County
+     Mountains-San Diego County Valleys-San Gorgonio Pass near
+     Banning.
+
+     Beach Hazards Statement from Sunday morning through Sunday
+     evening for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
+
+     Coastal Flood Advisory from 3 PM Sunday to 2 PM PDT Tuesday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
 
      Extreme Heat Warning until 8 PM PDT this evening for Coachella
      Valley-San Diego County Deserts-San Gorgonio Pass near
      Banning.
 
-PZ...None.
+PZ...Tropical Storm Watch for Coastal Waters from San Mateo Point to
+     the Mexican Border and out to 10 nm-Waters from San Mateo
+     Point to the Mexican Border Extending 10 to 60 nm out
+     including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...PG
+PUBLIC...APR
+AVIATION/MARINE...APR
 
 
 </pre>
