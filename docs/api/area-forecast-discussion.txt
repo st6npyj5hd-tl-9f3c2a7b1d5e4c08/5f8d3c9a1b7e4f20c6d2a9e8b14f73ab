@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-11T12:13:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-11T21:36:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,27 +345,28 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-298
-FXUS66 KSGX 110507
+731
+FXUS66 KSGX 112010
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1007 PM PDT Sat Oct 10 2026
+110 PM PDT Sun Oct 11 2026
 
 .SYNOPSIS...
-Tropical Storm Rachel will impact Southern California tonight into
-Sunday afternoon. Cooler conditions expected into early next week.
-Widespread showers and locally heavy rainfall, coastal flooding, and
-increased winds are expected Sunday. Elevated winds over the
-mountains and into the deserts will continue into Monday morning.
-Scattered showers will continue across the coastal basin through the
-day Monday. Drier conditions expected for Tuesday onward, with an
-increase in temperatures and potential for Santa Ana winds during
-the latter half of the week.
+Remnants from Rachel will continue to move out of the region today
+with isolated showers, mainly along and west of the mountains. An
+area low pressure will drop southward across the Western U.S.
+through early Tuesday, bringing breezy, cool conditions and a chance
+of light showers again over our region. High pressure begins to move
+over the Southwestern U.S. for the latter half of the week, and may
+interact with an area of low pressure to bring Santa Ana winds along
+with warmer/drier weather for all.
 
 &&
 
@@ -373,178 +374,115 @@ the latter half of the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Through this evening, showers ahead of now Post-TS Rachel moved
-through the region, bringing light totals (less than 0.10") for most
-of the coastal basin, with higher totals in the San Diego inland
-valleys(0.10-0.25") and SD County mountains (0.25-0.50"). The storms
-low level circulation is now tens of miles off the coast of Baja
-California and is expected to reach land around 10PM to midnight
-near Ensenada.
+Rachel`s remnants brought widespread rainfall across the region.
+Valleys and coastal areas west of the mountains saw near one half
+inch to over 2 inches of rainfall in total, with mountain areas
+receiving 3-5"+ of rainfall. Current radar mosaic depicts light
+showers weakening over the area. Low level cumulus will continue to
+funnel in off the ocean through afternoon, but most lower elevations
+should see a brief lull in the rain. Coastal-facing slopes will see
+isolated light showers ongoing.
 
-Post-TS Rachel is now fully embedded within the upper
-level trough and the rainfall core, out ahead of the core, is
-actively decoupling with the low level circulation. As of 9PM, the
-rainfall core has moved into southern San Diego County and winds are
-increasing out of the east along the higher SD Co. coast facing
-slopes with gusts 25-50 mph. Farther east into Imperial County,
-clusters of thunderstorms are forming in a CAPE environment of 500-
-1000 J/kg. These thunderstorms have the potential to move into the
-Coachella Valley and desert slopes through around 2 AM yielding to
-rain rates above 0.50"/hr and thus increased risk for urban and
-flash flooding.
+A 550 mb low pressure over eastern Oregon will continue drop
+southward into the Great Basin on Monday and Tuesday. This will
+bring a continued cooler and wetter pattern to start the work week
+across SoCal. As the low moves closer later tonight through Monday
+afternoon, we can expect an increase in coverage in light to locally
+moderate showers. The best chance for showers will be along and west
+of the mountains. Accumulations will be light, with most valley and
+coastal areas seeing less than one quarter of an inch of rainfall.
+This system will also bring colder air with it, with 850mb
+temperatures falling near 5-8C and 700mb temperatures falling near
+-3C. Snow levels will begin to drop further, most likely near 8000
+ft, giving some light snowfall to some of our highest peaks late
+tonight into Monday evening. Monday will be the coolest day overall
+as the weather system moves in. High temperatures will be in the 40s
+and 50s across the mountains, with 60s and 70s elsewhere.
+Temperatures by early Tuesday morning will be in the 40s and 50s for
+western valleys, closer to 60 degrees at the coast. Remnant clouds
+and light showers may linger into Tuesday morning west of the
+mountains, but mostly clear conditions should prevail by Tuesday
+afternoon.
 
-By around 2 AM, the most widespread heavy rain bands start moving
-through the region from south to north. Models indicate widespread
-rain rates across all lower elevation areas of 0.2-0.5"/hr with
-pockets of more intense rain possibly over 1"/hr through mid-morning
-(~8-11AM). Areas receiving such rain rates are at an increased risk
-for urban and flash flooding; remain alert and heed advice of local
-officials. Simultaneously, northerly winds west of the foothills
-will increase throughout the night, gusting 15-35 mph (highest at
-the coast) through around 3-5AM Sunday. Easterly winds over the
-coastal foothills through the desert slopes will also increase
-significantly over the next several hours, from south to north, with
-wind gusts 45-65 mph, locally to 75 mph through passes and exposed
-ridges.
-
-The strongest winds move through around 4/5 AM through 10 AM through
-SD County (~7AM-12PM for northern areas) as Post-TS Rachel makes a
-close approach. Wind gusts will increase to 25-45 mph across lower
-elevations and winds abruptly turn westerly and increase even more
-over the mountains, passes and desert slopes with gusts 50-80 mph
-(locally higher). By the afternoon, Post-TS Rachel will have moved
-north out of the region very fast. Precipitation scatters to showers
-across the lower elevations with more persistent (though weakening)
-showers and wind over the foothills and mountains for a few hours
-longer (through ~2-4PM). By evening, winds will be significantly
-reduced everywhere. Isolated showers continue for lower elevations,
-remaining scattered over the foothills/mountains through Monday
-morning. During the day Monday, the trough axis moves through,
-bringing a much more traditional round of light rainfall of around
-0.05-0.25" through the coastal basin, with higher amounts in the
-mountains (light snow above ~8,000 feet) and rain shadowing the
-deserts (less than 0.05" and breezy downslope winds). Shower
-activity looks to persist until Tuesday morning before clearing out
-Tuesday afternoon.
-
-As conditions clear out, morning temperatures Tues/Wed will drop
-noticeably inland into the low 50s/upper 40s and in the mountain
-valleys down into the low 30s and 20s.
-
-High temperatures steadily rebound, returning to 80s across the
-lower elevation by Thursday and possibly into the 90s for coastal
-areas Fri/Sat courtesy of offshore winds.
+The low pressure system will push eastward into the southern Rockies
+by Wednesday, as high pressure off the Pacific begins to expand over
+California. This will bring a drying and warming trend with flow
+switching to weakly offshore. Temperatures will be closer to normal
+for the coastal and western valley locations in the 70s to near 80
+degrees. By Thursday, models show a potential area of low pressure
+forming somewhere over the Desert Southwest as a ridge amplifies
+over the West Coast. The tighter gradient between these would create
+a stronger offshore flow pattern, where increased Santa Ana winds
+will become possible from the coastal slopes into the western
+valleys. There is still low confidence on where the low tracks,
+which will help determine not only how strong winds will be, but
+also how warm areas west of the mountains and how cool the mountains
+and deserts become.
 
 &&
 
 .AVIATION...
-110500Z...All Areas...Bands of moderate precipitation from Tropical
-Storm Rachel are moving from south to north through the area this
-evening. While there is some uncertainty WRT timing, these are
-expected to continue to move through the region through about 15Z
-for coastal/western valley areas, and 16-20Z for inland valleys and
-mtns. Cloud bases lowering 2000-4000 ft and vis down to 3-5SM in
-heavy rain in general, with periods of cigs 700-1500 and vis 1-2 SM
-in heaviest rain. 30% chance for TSRA over any one point in low
-deserts/desert slopes, including vcnty KPSP, through about 15Z.
+111730Z...Coastal/Inland Basin...SCT SHRA/-SHRA through this early
+afternoon, then becoming ISO SHRA by around 23z through the
+remainder of the TAF period. MVFR CIGs and VIS 3-6SM with SHRA/RA.
+Gusty SW winds gusting 20-25 kts (up to 35 kts in the foothills)
+through 20z. Otherwise, SCT-OVC clouds based 3-5 kft through much of
+the TAF period.
 
-Towards 10-12Z, expect NW winds to increase, then shift to the WSW
-through mid morning for coasts and valleys. Gusty winds in San Diego
-County coast/valleys with a 40% chance of winds gusting over 30 kts
-at KSAN between 12-16Z. For mountains and deserts: brisk E winds 25-
-35 kts over SD mtns and desert slopes 09Z through about 12Z, the SW
-winds increase after 12Z with gusts along all desert slopes 35-55
-kts, gusts closer to 25-35 kts in all deserts. Very low certainty in
-wind directions in the Coachella Valley, including KPSP/KTRM, as
-localized wind circulations could change direction freq. Strong
-winds becoming more localized after 03Z Mon.
-
-Showers becoming lighter and more scattered Sunday afternoon and
-evening with SCT-BKN mid level cloud cover lingering.
+Mountains and deserts...ISO to SCT -SHRA/SHRA in the mountains, and
+more ISO for the deserts, gradually tapering off throughout the TAF
+period. Gusty SW winds gusting to 35-55 kts over ridgetops, mountain
+passes and desert slopes through 03z Mon, becoming more localized
+thereafter.
 
 &&
 
 .MARINE...
-Breezy northerly winds this evening will strengthen late tonight,
-then turn westerly later in the morning. Winds 20 to 30 knots
-expected throughout the coastal waters through late Sunday
-afternoon. Large fresh swell from the northwest will combine with
-south swell associated with Tropical Storm Rachel and wind waves to
-create combined seas 6 to 10 feet Sunday. Choppy, steep, mixed seas
-and gusty winds will produce conditions hazardous to small craft on
-Sunday.
+West winds gusting 20-30 knots expected throughout the coastal
+waters through this afternoon. Large fresh swell from the northwest
+will combine with south swell associated with Tropical Storm Rachel
+and wind waves to create combined seas 6 to 10 feet today. Choppy,
+steep, mixed seas and gusty winds will produce conditions hazardous
+to small craft.
 
 Calmer winds and seas expected Monday through the work week.
 
 &&
 
-.BEACHES...
-Fresh south swell associated with Tropical Storm Rachel will arrive
-late tonight through Sunday. This will combine with a larger
-northwest swell and strong winds to produce elevated to high surf
-Sunday for all area beaches, peaking at 5 to 8 feet with sets to 9
-feet. This will pose a hazard to swimmers and lead to very strong
-rip currents. In addition, morning high tides will continue to be 7
-to 7.5 feet, continuing the threat for significant coastal flooding
-through Sunday afternoon. A Coastal Flood Warning is in effect for
-these hazards through Sunday at 3 PM. Take the necessary actions to
-protect flood-prone property and avoid the beaches during high tide.
-
-Both winds and swells subside for Monday-Tuesday, and surf will
-decrease to 3 to 6 feet, though strong rip currents will continue.
-Morning high tides will continue to be near 7 feet, meaning that
-minor coastal flooding will continue to be an issue through this
-period. The Coastal Flood Warning will be replaced with a Coastal
-Flood Advisory at 3 PM Sunday and continue through 2 PM Tuesday.
-
-&&
-
 .SKYWARN...
-Skywarn activation is requested.
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning until 3 PM PDT Sunday for Orange County
+CA...Coastal Flood Warning until 3 PM PDT this afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+     Beach Hazards Statement until 10 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+     Coastal Flood Advisory until 2 PM PDT Tuesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Tropical Storm Watch for San Diego County Coastal Areas-San
-     Diego County Deserts-San Diego County Mountains-San Diego
-     County Valleys.
+     Wind Advisory until 5 AM PDT Monday for Apple and Lucerne
+     Valleys-Coachella Valley-Riverside County Mountains-San
+     Bernardino County Mountains-San Diego County Deserts-San
+     Diego County Mountains-San Gorgonio Pass near Banning.
 
-     Flood Watch through Sunday evening for Apple and Lucerne Valleys-
-     Coachella Valley-Riverside County Mountains-San Bernardino
-     County Mountains-San Diego County Coastal Areas-San Diego
-     County Deserts-San Diego County Mountains-San Diego County
-     Valleys-San Gorgonio Pass near Banning.
-
-     Beach Hazards Statement from 6 AM PDT Sunday through Sunday
-     evening for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
-
-     Coastal Flood Advisory from 3 PM Sunday to 2 PM PDT Tuesday for
-     Orange County Coastal Areas-San Diego County Coastal Areas.
-
-     Wind Advisory from 5 AM Sunday to 5 AM PDT Monday for Apple and
-     Lucerne Valleys-San Bernardino County Mountains.
-
-     Wind Advisory from 2 AM Sunday to 5 AM PDT Monday for Coachella
-     Valley-Riverside County Mountains-San Gorgonio Pass near
-     Banning.
-
-PZ...Tropical Storm Watch for Coastal Waters from San Mateo Point to
-     the Mexican Border and out to 10 nm-Waters from San Mateo
-     Point to the Mexican Border Extending 10 to 60 nm out
-     including San Clemente Island.
+PZ...Small Craft Advisory until 10 PM PDT this evening for Coastal
+     Waters from San Mateo Point to the Mexican Border and out
+     to 10 nm-Waters from San Mateo Point to the Mexican Border
+     Extending 10 to 60 nm out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...APR
+AVIATION/MARINE...Stewey
 
 
 </pre>
