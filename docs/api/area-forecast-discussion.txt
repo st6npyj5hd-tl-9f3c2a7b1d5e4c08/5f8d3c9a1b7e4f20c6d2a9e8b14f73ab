@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-10T21:05:25+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-11T04:34:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-234
-FXUS66 KSGX 101902
+904
+FXUS66 KSGX 110027
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1202 PM PDT Sat Oct 10 2026
+527 PM PDT Sat Oct 10 2026
 
 .SYNOPSIS...
 Tropical Storm Rachel will impact Southern California tonight into
@@ -374,6 +374,9 @@ the latter half of the week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Widespread high cloud coverage can be expected across the area today
 as Tropical Storm Rachel quickly approaches Northern Baja. Radar
@@ -428,40 +431,44 @@ the end of next week. Low confidence in details.
 &&
 
 .AVIATION...
-101800Z...Coast/Valleys....Mostly cloudy with BKN-OVC skies AOA 15k
-ft MSL through the period. ISO SHRA/TSRA as early as 20Z, weakening
-from south to north, best chance for this in San Diego County inland
-valleys. Heaviest rain from Tropical Storm Rachel arrives from south
-to north after 08Z Sun, arriving near 09-10Z VCTY KSAN.  As rain
-nears, expect NW winds to increase and shift to the WSW through mid
-morning. Highest winds over San Diego County with a 40% chance of
-winds gusting over 30 kts at KSAN between 12Z-16Z. Cloud bases
-lowering near 3000 ft and vis down to 3-5SM in heavy rain. Showers
-becoming lighter and scattered about Sunday afternoon with high
-clouds remaining.
+110000Z...All Areas...Early bands of high-based -SHRA associated
+with Tropical Storm Rachel are moving into the region from the
+south, bringing generally light rain with few impacts to either cigs
+or vis. Isolated gusts to about 25 knots possible with these, as
+well as isolated lightning strikes.
 
-Mountains/Deserts...Mostly cloudy with BKN-OVC skies AOA 15k ft MSL
-through Sunday morning. ISO SHRA/TSRA as early as 20Z, weakening
-from south to north. Low confidence on TSRA activity across the
-lower deserts, including VCTY KPSP. Heaviest rain from Tropical
-Storm Rachel arrives from south to north after 10Z Sun, heaviest
-rainfall expected 10Z-18Z Sun with cigs lowering near 5000-1000 ft
-MSL in any rain. SW winds increase after 12Z with gusts along the
-desert slopes 35-55 kts, gusts closer to 25-35kts in the deserts.
-Winds becoming more localized after 03Z Mon. Clouds beginning to
-scatter out Sunday afternoon/evening.
+The heaviest rain from Tropical Storm Rachel arrives from south to
+north after 08Z Sun. While there is some uncertainty WRT timing,
+this will likely arrive near 09-10Z for southern SD Co including
+VCTY KSAN, then continue north into rest of SD Co through 15Z, and
+up into IE, SDB and Riverside mtns, and Coachella Valley/High Desert
+12-19Z. Cloud bases lowering 2000-4000 ft and vis down to 3-5SM in
+heavy rain in general, with periods of cigs 700-1500 and vis 1-2 SM
+in heaviest rain. 15% chance for TSRA over low deserts/desert
+slopes, including vcnty KPSP, through about 15Z.
+
+As rain nears, expect NW winds to increase and shift to the
+WSW through mid morning for coasts and valleys. Gusty winds in San
+Diego County coast/valleys with a 40% chance of winds gusting over
+30 kts at KSAN between 12Z-16Z. For mountains and deserts: brisk E
+winds 25-35 kts over SD mtns and desert slopes 09Z through about
+12Z, the SW winds increase after 12Z with gusts along all desert
+slopes 35-55 kts, gusts closer to 25-35 kts in all deserts.
+Strong winds becoming more localized after 03Z Mon.
+
+Showers becoming lighter and scattered about Sunday afternoon with
+SCT-BKN mid level cloud cover lingering.
 
 &&
 
 .MARINE...
-Isolated thunderstorms possible over the waters through this
-evening. Gusty northerly winds develop later this evening,
-turning westerly later in the morning. Winds 20 to 30 knots
-expected throughout the coastal waters during these time periods.
-Large fresh swell from the northwest will combine with south swell
-associated with Tropical Storm Rachel and wind waves to create
-combined seas 6 to 10 feet Sunday. Choppy, steep, mixed seas and
-gusty winds will produce conditions hazardous to small craft on
+Breezy northerly winds this evening will strengthen late tonight,
+then turn westerly later in the morning. Winds 20 to 30 knots
+expected throughout the coastal waters through late Sunday
+afternoon. Large fresh swell from the northwest will combine with
+south swell associated with Tropical Storm Rachel and wind waves to
+create combined seas 6 to 10 feet Sunday. Choppy, steep, mixed seas
+and gusty winds will produce conditions hazardous to small craft on
 Sunday.
 
 Calmer winds and seas expected Monday through the work week.
@@ -470,22 +477,17 @@ Calmer winds and seas expected Monday through the work week.
 
 .BEACHES...
 Surf of 3-5 feet with local sets to 6 feet will continue on south
-and southwest facing beaches through Saturday. Elevated surf and
-strong rip and longshore currents will create hazardous swimming
-conditions. This elevated surf will combine with high tides over 7
-feet during the mornings and evenings to produce significant coastal
-flooding and beach erosion.
-
-Fresh south swell associated with Tropical Storm Rachel will arrive
-late tonight into Sunday. This will combine with a larger northwest
-swell and strong winds to produce elevated to high surf Sunday for
-all area beaches, peaking at 5 to 8 feet with sets to 9 feet. This
-will pose a hazard to swimmers and lead to very strong rip currents.
-In addition, morning high tides will continue to be 7 to locally 7.5
-feet, continuing the threat for significant coastal flooding through
-Sunday afternoon. A Coastal Flood Warning is in effect for these
-hazards through Sunday at 3 PM. Take the necessary actions to
-protect flood-prone property.
+and southwest facing beaches through this evening. Fresh south swell
+associated with Tropical Storm Rachel will arrive late tonight into
+Sunday. This will combine with a larger northwest swell and strong
+winds to produce elevated to high surf Sunday for all area beaches,
+peaking at 5 to 8 feet with sets to 9 feet. This will pose a hazard
+to swimmers and lead to very strong rip currents. In addition,
+morning high tides will continue to be 7 to 7.5 feet, continuing the
+threat for significant coastal flooding through Sunday afternoon. A
+Coastal Flood Warning is in effect for these hazards through Sunday
+at 3 PM. Take the necessary actions to protect flood-prone property
+and avoid the beaches during high tide.
 
 Both winds and swells subside for Monday-Tuesday, and surf will
 decrease to 3 to 6 feet, though strong rip currents will continue.
@@ -493,13 +495,6 @@ Morning high tides will continue to be near 7 feet, meaning that
 minor coastal flooding will continue to be an issue through this
 period. The Coastal Flood Warning will be replaced with a Coastal
 Flood Advisory at 3 PM Sunday and continue through 2 PM Tuesday.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -543,7 +538,7 @@ PZ...Tropical Storm Watch for Coastal Waters from San Mateo Point to
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...APR
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
