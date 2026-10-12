@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-11T21:36:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-12T04:49:42+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-731
-FXUS66 KSGX 112010
+542
+FXUS66 KSGX 112346
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-110 PM PDT Sun Oct 11 2026
+446 PM PDT Sun Oct 11 2026
 
 .SYNOPSIS...
 Remnants from Rachel will continue to move out of the region today
@@ -373,6 +373,9 @@ with warmer/drier weather for all.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Rachel`s remnants brought widespread rainfall across the region.
 Valleys and coastal areas west of the mountains saw near one half
@@ -422,30 +425,41 @@ and deserts become.
 &&
 
 .AVIATION...
-111730Z...Coastal/Inland Basin...SCT SHRA/-SHRA through this early
-afternoon, then becoming ISO SHRA by around 23z through the
-remainder of the TAF period. MVFR CIGs and VIS 3-6SM with SHRA/RA.
-Gusty SW winds gusting 20-25 kts (up to 35 kts in the foothills)
-through 20z. Otherwise, SCT-OVC clouds based 3-5 kft through much of
-the TAF period.
+120000Z...Coastal/Inland Basin...SCT -SHRA will pick up again after
+about 05Z, bringing MVFR cigs 2000-3000 ft MSL mostly to the inland
+valleys and occ to coastal sites through Sunday morning. Occasional
+vis 3-6 SM with -SHRA. -SHRA tapers off again Mon afternoon.
+Otherwise, SCT-OVC clouds based 3-5 kft through much of the TAF
+period.
 
-Mountains and deserts...ISO to SCT -SHRA/SHRA in the mountains, and
-more ISO for the deserts, gradually tapering off throughout the TAF
-period. Gusty SW winds gusting to 35-55 kts over ridgetops, mountain
-passes and desert slopes through 03z Mon, becoming more localized
-thereafter.
+Mountains and deserts...SCT -SHRA will pick up again for the mtns
+after about 05Z, gradually tapering off Mon afternoon. SCT-BKN MVFR
+cigs and obscured terrain will linger through most of the TAF
+period, with occ vis 2-5 SM with -SHRA. Gusty SW winds gusting to 30-
+50 kts over ridgetops, mountain passes and desert slopes through 03z
+Mon, becoming more localized thereafter.
 
 &&
 
 .MARINE...
-West winds gusting 20-30 knots expected throughout the coastal
-waters through this afternoon. Large fresh swell from the northwest
-will combine with south swell associated with Tropical Storm Rachel
-and wind waves to create combined seas 6 to 10 feet today. Choppy,
-steep, mixed seas and gusty winds will produce conditions hazardous
-to small craft.
+While winds have diminished to 10-20 kt, swell from the northwest
+combined with south swell will continue to create combined seas 6 to
+9 feet through this evening. Choppy, steep, mixed seas will produce
+conditions hazardous to small craft.
 
 Calmer winds and seas expected Monday through the work week.
+
+&&
+
+.BEACHES...
+Surf 5 to 7 feet will local sets to 8 feet will continue through
+this evening. Swells and surf subside for Monday-Tuesday, but surf
+will continue to be elevated with breaking waves of 3-6 feet with
+local sets to 7 feet and strong rip currents. Morning high tides
+near 7 feet continues through Tuesday, meaning that minor coastal
+flooding will continue to be an issue through this period. A Coastal
+Flood Advisory is in effect for these hazards and continues through
+2 PM Tuesday.
 
 &&
 
@@ -457,10 +471,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning until 3 PM PDT this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Beach Hazards Statement until 10 PM PDT this evening for Orange
+CA...Beach Hazards Statement until 10 PM PDT this evening for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
      Coastal Flood Advisory until 2 PM PDT Tuesday for Orange County
@@ -482,7 +493,7 @@ PZ...Small Craft Advisory until 10 PM PDT this evening for Coastal
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Stewey
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
