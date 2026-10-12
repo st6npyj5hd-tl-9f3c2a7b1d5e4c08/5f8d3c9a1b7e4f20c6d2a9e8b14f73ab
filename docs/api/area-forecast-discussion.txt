@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-12T04:49:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-12T14:41:00+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,28 +345,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-542
-FXUS66 KSGX 112346
+437
+FXUS66 KSGX 121151
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-446 PM PDT Sun Oct 11 2026
+451 AM PDT Mon Oct 12 2026
 
 .SYNOPSIS...
-Remnants from Rachel will continue to move out of the region today
-with isolated showers, mainly along and west of the mountains. An
-area low pressure will drop southward across the Western U.S.
-through early Tuesday, bringing breezy, cool conditions and a chance
-of light showers again over our region. High pressure begins to move
-over the Southwestern U.S. for the latter half of the week, and may
-interact with an area of low pressure to bring Santa Ana winds along
-with warmer/drier weather for all.
+A low pressure system moving southward into the Great Basin will
+maintain cool, showery weather today with showers ending from the
+northwest tonight. It will be warmer and dry for Wednesday through
+Saturday with developing Santa Ana winds strengthening for Friday
+into Saturday. Moderate HeatRisk could return for the coast into
+the western valleys for Friday through Sunday.
 
 &&
 
@@ -377,89 +373,102 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-Rachel`s remnants brought widespread rainfall across the region.
-Valleys and coastal areas west of the mountains saw near one half
-inch to over 2 inches of rainfall in total, with mountain areas
-receiving 3-5"+ of rainfall. Current radar mosaic depicts light
-showers weakening over the area. Low level cumulus will continue to
-funnel in off the ocean through afternoon, but most lower elevations
-should see a brief lull in the rain. Coastal-facing slopes will see
-isolated light showers ongoing.
+.SHORT TERM (Today through Wednesday)...
+A closed low pressure system centered over Oregon early this
+morning will move southward into Nevada today and tonight, then
+move east for Tuesday night and Wednesday.
 
-A 550 mb low pressure over eastern Oregon will continue drop
-southward into the Great Basin on Monday and Tuesday. This will
-bring a continued cooler and wetter pattern to start the work week
-across SoCal. As the low moves closer later tonight through Monday
-afternoon, we can expect an increase in coverage in light to locally
-moderate showers. The best chance for showers will be along and west
-of the mountains. Accumulations will be light, with most valley and
-coastal areas seeing less than one quarter of an inch of rainfall.
-This system will also bring colder air with it, with 850mb
-temperatures falling near 5-8C and 700mb temperatures falling near
--3C. Snow levels will begin to drop further, most likely near 8000
-ft, giving some light snowfall to some of our highest peaks late
-tonight into Monday evening. Monday will be the coolest day overall
-as the weather system moves in. High temperatures will be in the 40s
-and 50s across the mountains, with 60s and 70s elsewhere.
-Temperatures by early Tuesday morning will be in the 40s and 50s for
-western valleys, closer to 60 degrees at the coast. Remnant clouds
-and light showers may linger into Tuesday morning west of the
-mountains, but mostly clear conditions should prevail by Tuesday
-afternoon.
+More widespread showers will continue along and west of the
+mountains through the morning. The greater coverage during the
+afternoon will be for the inland valleys into the mountains.
+Showers will continue into the evening, then decrease and end from
+the northwest by Tuesday morning.
 
-The low pressure system will push eastward into the southern Rockies
-by Wednesday, as high pressure off the Pacific begins to expand over
-California. This will bring a drying and warming trend with flow
-switching to weakly offshore. Temperatures will be closer to normal
-for the coastal and western valley locations in the 70s to near 80
-degrees. By Thursday, models show a potential area of low pressure
-forming somewhere over the Desert Southwest as a ridge amplifies
-over the West Coast. The tighter gradient between these would create
-a stronger offshore flow pattern, where increased Santa Ana winds
-will become possible from the coastal slopes into the western
-valleys. There is still low confidence on where the low tracks,
-which will help determine not only how strong winds will be, but
-also how warm areas west of the mountains and how cool the mountains
-and deserts become.
+Through tonight, additional rainfall could range from 0.10 to 0.25
+inch near the coast to 0.50 to 0.75 inch in the mountains, locally
+to 1.25 inches on the coastal slopes of the San Bernardino
+Mountains. The snow level will lower to 7500 feet for this
+afternoon and to 6500 feet by late this evening. There could be a
+few inches of snowfall on the higher peaks, mainly above 7500
+feet. For areas that clear late tonight, there could be some
+patchy dense fog for late tonight into early Tuesday for lower-
+lying portions of the Inland Empire and the adjacent mountains in
+San Bernardino and Riverside Counties.
+
+High temperatures for today will remain around 5 degrees below
+average near the coast to 15 to 20 degrees below average for the
+mountain, deserts, and inland valleys. High temperatures for today
+for the coast and valleys will range from the lower to mid 60s for
+the inland valleys to around 70 near the coast. High temperatures
+in the lower deserts will be mostly in the mid to upper 70s. Not
+much change is expected in high temperatures on Tuesday for the
+desert. There will be warming of a few degrees near the coast to
+around 5 degrees for the inland valleys into the mountains.
+
+High pressure off the California coast and developing offshore
+flow on Wednesday will bring greater warming with high
+temperatures warming around 5 degrees near the coast to 8 to 12
+degrees for the inland valleys into the mountains. High
+temperatures on Wednesday will be mostly in the mid 70s to around
+80 for the coast and valleys with some of the western valleys
+reaching the lower 80s. High temperatures for the lower deserts
+will be in the lower to mid 80s.
+
+&&
+
+.LONG TERM (Thursday through Sunday)...
+High pressure off the California coast will expand across northern
+and central California while low pressure develops over northern
+and central Baja. High temperatures will continue to warm through
+Friday. High temperatures on Friday will be a few degrees below
+average for the deserts to 5 to 10 degrees below average for the
+mountains. For the coast and valleys, high temperatures will range
+from a few degrees above average for the inland valleys to 10 to
+15 degrees above average for coastal areas. High temperatures on
+Friday for the coast and valleys will range from the upper 70s for
+the far inland valleys to the lower to mid 90s for the western
+valleys and inland coastal areas. Areas near the coast will be
+mostly in the 80s.
+
+High temperatures on Saturday will cool a few degrees while inland
+areas warm a few to around 5 degrees on Sunday. For Friday through
+Sunday where will be Moderate HeatRisk for coastal areas into the
+western valleys, the result of hot days and warmer nights. That
+Moderate HeatRisk would be supportive of Heat Advisories for those
+areas.
+
+There could be moderate strength east to northeast Santa Ana winds
+at times for Thursday through Saturday with ECMWF ensemble output
+strongest on Friday.
 
 &&
 
 .AVIATION...
-120000Z...Coastal/Inland Basin...SCT -SHRA will pick up again after
-about 05Z, bringing MVFR cigs 2000-3000 ft MSL mostly to the inland
-valleys and occ to coastal sites through Sunday morning. Occasional
-vis 3-6 SM with -SHRA. -SHRA tapers off again Mon afternoon.
-Otherwise, SCT-OVC clouds based 3-5 kft through much of the TAF
-period.
+121130Z...Coastal/Inland Basin...SCT -SHRA will continue today with
+cigs 2500-3000 feet MSL in -SHRA, otherwise bases 3500 feet MSL.
+-SHRA tapering off and gradually scattering out after 03Z KSNA/KONT
+and after 12Z Tuesday at KCRQ/KSAN.
 
-Mountains and deserts...SCT -SHRA will pick up again for the mtns
-after about 05Z, gradually tapering off Mon afternoon. SCT-BKN MVFR
-cigs and obscured terrain will linger through most of the TAF
-period, with occ vis 2-5 SM with -SHRA. Gusty SW winds gusting to 30-
-50 kts over ridgetops, mountain passes and desert slopes through 03z
-Mon, becoming more localized thereafter.
+Mountains...SCT -SHRA will continue through 00Z. BKN-OVC MVFR cigs
+and obscured terrain will linger through Mon afternoon, with
+occasional vis 2-5 SM with -SHRA. Clearing north to south tonight.
+
+Deserts...SCT -SHRA with occasional BKN clouds based around 5000-
+7000 feet MSL this morning, scattering out during the afternoon.
 
 &&
 
 .MARINE...
-While winds have diminished to 10-20 kt, swell from the northwest
-combined with south swell will continue to create combined seas 6 to
-9 feet through this evening. Choppy, steep, mixed seas will produce
-conditions hazardous to small craft.
-
-Calmer winds and seas expected Monday through the work week.
+No hazardous marine conditions are expected through Friday.
 
 &&
 
 .BEACHES...
-Surf 5 to 7 feet will local sets to 8 feet will continue through
-this evening. Swells and surf subside for Monday-Tuesday, but surf
-will continue to be elevated with breaking waves of 3-6 feet with
-local sets to 7 feet and strong rip currents. Morning high tides
-near 7 feet continues through Tuesday, meaning that minor coastal
-flooding will continue to be an issue through this period. A Coastal
-Flood Advisory is in effect for these hazards and continues through
-2 PM Tuesday.
+A combo southerly and westerly swell will continue through Tuesday,
+generating surf 3-5 feet with local sets to 7 feet, along with
+strong rip currents. Late morning high tides near 7 feet will
+continue, producing minor coastal flooding. Check the Coastal Flood
+Advisory for details.
 
 &&
 
@@ -467,33 +476,20 @@ Flood Advisory is in effect for these hazards and continues through
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 10 PM PDT this evening for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Coastal Flood Advisory until 2 PM PDT Tuesday for Orange County
+CA...Coastal Flood Advisory until 2 PM PDT Tuesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Wind Advisory until 5 AM PDT Monday for Apple and Lucerne
-     Valleys-Coachella Valley-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
-
-PZ...Small Craft Advisory until 10 PM PDT this evening for Coastal
-     Waters from San Mateo Point to the Mexican Border and out
-     to 10 nm-Waters from San Mateo Point to the Mexican Border
-     Extending 10 to 60 nm out including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
