@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-12T14:41:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-13T00:15:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,21 +348,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-437
-FXUS66 KSGX 121151
+520
+FXUS66 KSGX 130015
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-451 AM PDT Mon Oct 12 2026
+515 PM PDT Mon Oct 12 2026
 
 .SYNOPSIS...
-A low pressure system moving southward into the Great Basin will
-maintain cool, showery weather today with showers ending from the
-northwest tonight. It will be warmer and dry for Wednesday through
-Saturday with developing Santa Ana winds strengthening for Friday
-into Saturday. Moderate HeatRisk could return for the coast into
-the western valleys for Friday through Sunday.
+A low pressure system moving through the area and into the Great
+Basin will maintain cool and showery weather today, with showers
+ending from the northwest tonight. It will be warmer and dry for
+Wednesday through Saturday with developing Santa Ana winds
+strengthening for Friday into Saturday. Moderate HeatRisk could
+return for the coast into the western valleys for Friday through
+Sunday.
 
 &&
 
@@ -373,88 +374,91 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Wednesday)...
-A closed low pressure system centered over Oregon early this
-morning will move southward into Nevada today and tonight, then
-move east for Tuesday night and Wednesday.
+Tonight through Wednesday...
 
-More widespread showers will continue along and west of the
-mountains through the morning. The greater coverage during the
-afternoon will be for the inland valleys into the mountains.
-Showers will continue into the evening, then decrease and end from
-the northwest by Tuesday morning.
+The area of low pressure is continuing to slide slowly southward
+just off the coast of central California, and will propagate more
+eastward by later in the day, and eventually exit the region. Until
+then, there will still be a few lingering light to moderate showers,
+mainly west of the mountains. A general consensus of the high res
+models shows the precipitation completely coming to an end by early
+tomorrow morning. Any remaining showers should not amount to anymore
+than an additional tenth of an inch or less for the coastal areas
+to a quarter of an inch for the mountains, with the highest
+amounts expected for the western-facing coastal slopes and inland
+foothills. Clearing tonight will allow for temperatures to cool
+off efficiently, and lead to our coldest night in recent months,
+with lows dipping down into the upper 40s to lower 50s for some of
+the higher inland valleys. With antecedent rainfall, there could
+also be some areas of patchy radiational fog also developing
+within some of the higher valleys. High pressure will build in
+over the region through tomorrow, with a gradual warming, although
+highs will still be running around 10 to 15 degrees below the
+seasonal average for most locations for this time of year for
+tomorrow due to the colder air advection behind the low. The
+marine layer for tonight will fill in slightly overnight, but
+remain rather broken and dispersed, with a few isolated showers
+still being possible through the early morning hours tomorrow.
+Skies will further clear by tomorrow afternoon as the upper level
+low pulls away from the region, with drying conditions
+establishing themselves as we begin to transition into Santa Ana
+conditions.
 
-Through tonight, additional rainfall could range from 0.10 to 0.25
-inch near the coast to 0.50 to 0.75 inch in the mountains, locally
-to 1.25 inches on the coastal slopes of the San Bernardino
-Mountains. The snow level will lower to 7500 feet for this
-afternoon and to 6500 feet by late this evening. There could be a
-few inches of snowfall on the higher peaks, mainly above 7500
-feet. For areas that clear late tonight, there could be some
-patchy dense fog for late tonight into early Tuesday for lower-
-lying portions of the Inland Empire and the adjacent mountains in
-San Bernardino and Riverside Counties.
+Thursday through Monday...
 
-High temperatures for today will remain around 5 degrees below
-average near the coast to 15 to 20 degrees below average for the
-mountain, deserts, and inland valleys. High temperatures for today
-for the coast and valleys will range from the lower to mid 60s for
-the inland valleys to around 70 near the coast. High temperatures
-in the lower deserts will be mostly in the mid to upper 70s. Not
-much change is expected in high temperatures on Tuesday for the
-desert. There will be warming of a few degrees near the coast to
-around 5 degrees for the inland valleys into the mountains.
-
-High pressure off the California coast and developing offshore
-flow on Wednesday will bring greater warming with high
-temperatures warming around 5 degrees near the coast to 8 to 12
-degrees for the inland valleys into the mountains. High
-temperatures on Wednesday will be mostly in the mid 70s to around
-80 for the coast and valleys with some of the western valleys
-reaching the lower 80s. High temperatures for the lower deserts
-will be in the lower to mid 80s.
-
-&&
-
-.LONG TERM (Thursday through Sunday)...
-High pressure off the California coast will expand across northern
-and central California while low pressure develops over northern
-and central Baja. High temperatures will continue to warm through
-Friday. High temperatures on Friday will be a few degrees below
-average for the deserts to 5 to 10 degrees below average for the
-mountains. For the coast and valleys, high temperatures will range
-from a few degrees above average for the inland valleys to 10 to
-15 degrees above average for coastal areas. High temperatures on
-Friday for the coast and valleys will range from the upper 70s for
-the far inland valleys to the lower to mid 90s for the western
-valleys and inland coastal areas. Areas near the coast will be
-mostly in the 80s.
-
-High temperatures on Saturday will cool a few degrees while inland
-areas warm a few to around 5 degrees on Sunday. For Friday through
-Sunday where will be Moderate HeatRisk for coastal areas into the
-western valleys, the result of hot days and warmer nights. That
-Moderate HeatRisk would be supportive of Heat Advisories for those
-areas.
-
-There could be moderate strength east to northeast Santa Ana winds
-at times for Thursday through Saturday with ECMWF ensemble output
-strongest on Friday.
+High pressure is going to begin to build in over the Great Basin as
+the upper level low becomes stalled out over the Four Corners
+Region. This will begin to establish Santa Ana conditions. By
+Thursday, highs will still be slightly below average for the
+mountains and deserts, although around average, and even slightly
+higher for the coastal locations as offshore winds settle in over
+the region. By Friday, a strong supergradient jet maxima at the 300
+mb level is going to move in from the north over central CONUS, and
+force the U/L low to cut off and retrograde back towards the
+southwest. This will help the enhance the offshore winds on Friday
+into early Saturday, with some of the coastal and inland basins
+climbing to afternoon temperatures being as much as 15 degrees
+above average for Friday afternoon, and possible return of
+Moderate HeatRisk returning to portions of these locations. Winds
+will also be rather strong and gusty for some of the higher
+terrain and within mountain canyons and passes, and there might
+even need to be Wind Advisories issued for a few locations, which
+will be decided in the next day or two once there is better
+agreement and confidence as to where these winds will be. RH
+values will drop on Thursday, but then slightly increase on Friday
+as the retrograded low taps into some subtropical moisture to the
+south. However, fire concerns with the strong and gusty easterly
+winds will remain elevated for both days. These winds will begin
+to subside going into the upcoming weekend, as max temperatures
+begin to flatline a bit, with a gradual cooling occurring each day
+into early next week. There will also be a very slight chance of
+precipitation for the mountains and deserts during the afternoon
+hours on Friday as a result of some moisture being introduced,
+along with a slight increase in instability, yet this will likely
+remain east of our CWA. The return of onshore flow going into late
+Saturday/early Sunday may result in the onset of some areas of
+dense fog during the early morning hours. Otherwise, conditions
+look to be rather tranquil in comparison as weak ridging returns
+over the region, with the transition back into more zonal flow and
+troughing upstream becoming the predominant features going into
+the early part of next week.
 
 &&
 
 .AVIATION...
-121130Z...Coastal/Inland Basin...SCT -SHRA will continue today with
-cigs 2500-3000 feet MSL in -SHRA, otherwise bases 3500 feet MSL.
--SHRA tapering off and gradually scattering out after 03Z KSNA/KONT
-and after 12Z Tuesday at KCRQ/KSAN.
+130000Z...Coastal/Inland Basin...SCT -SHRA to continue through 07z
+for OC/IE, and through 13z through San Diego County. Otherwise, SCT-
+BKN clouds ~4-6 kft MSL through early Tuesday, with temporarily MVFR
+bases/cigs under -SHRA. Mostly SKC and VFR Tuesday afternoon.
 
-Mountains...SCT -SHRA will continue through 00Z. BKN-OVC MVFR cigs
-and obscured terrain will linger through Mon afternoon, with
-occasional vis 2-5 SM with -SHRA. Clearing north to south tonight.
+Mountains...SCT -SHRA will continue through 06z for northern areas
+and through 12z in SD County. BKN-OVC MVFR cigs and obscured
+terrain will linger through 04-16z Tue, clearing gradually from
+north to south.
 
-Deserts...SCT -SHRA with occasional BKN clouds based around 5000-
-7000 feet MSL this morning, scattering out during the afternoon.
+Deserts...West winds up to 35 kts (locally higher through Banning
+Pass) to continue along the desert slopes, weakening 06-12z Tue.
+Otherwise, mostly SKC and VFR through the TAF period.
 
 &&
 
@@ -476,6 +480,7 @@ Advisory for details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -488,8 +493,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
