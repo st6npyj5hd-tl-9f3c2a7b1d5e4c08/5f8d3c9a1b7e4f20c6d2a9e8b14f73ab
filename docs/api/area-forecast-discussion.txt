@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T16:43:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T21:10:06+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,23 +348,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-635
-FXUS66 KSGX 141127
+709
+FXUS66 KSGX 141902
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-427 AM PDT Wed Oct 14 2026
+1202 PM PDT Wed Oct 14 2026
 
 .SYNOPSIS...
-North to northeasterly offshore flow will develop today, becoming
-northeast to east with Santa Ana winds for Thursday and Friday
-strengthening and becoming more widespread with gusts to 35 to 45
-mph on Thursday and 45 to 55 mph on Friday, then diminishing to 35
-to 45 mph on Saturday. There will be a warming trend through
-Friday. Cooling will begin to spread inland on Sunday with
-greater cooling and a chance of showers for next Tuesday and
-Wednesday.
+Santa Ana winds expected Thursday through Saturday, with the
+strongest and most widespread on Friday. Additionally, moderate to
+major HeatRisk is expected for coastal areas. Cooler conditions will
+spread inland Sunday, with greater cooling and chance of showers
+next Tuesday and Wednesday.
 
 &&
 
@@ -372,60 +369,64 @@ Wednesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+We`re already seeing an offshore pressure gradient from San Diego to
+Tonopah, NV. As of 11 AM there were weak north to northeast winds
+being observed with gusts mainly 20 to 25 mph, a few local gusts to
+30 mph in windier locations. For Thursday, an upper level high will
+develop over Northern California, with low pressure retrograding
+back towards Southern California. That will strengthen the offshore
+pressure gradient and increase winds. For Friday and Saturday, that
+low will remain just southwest of San Diego off the coast of
+northern Baja, maintaining a strong offshore pressure gradient.
 
-.SHORT TERM (Today through Friday)...
-High pressure aloft off the California coast will expand across
-northern California while a cutoff low pressure system develops
-over southern California and northern Baja. North to northeasterly
-offshore flow will develop today, becoming northeast to east with
-Santa Ana winds for Thursday and Friday strengthening and becoming
-more widespread.
+Winds on Thursday will be mainly out of the north/northeast, with
+the strongest winds on the foothills and below passes in the San
+Bernardino and Santa Ana mountains. Winds are expected to be
+strongest and most widespread Friday and they develop more of an
+easterly component. The ECMWF Extreme Forecast Index on Friday has
+gusts in the 80th to 90th percentile and locally into the 95th to
+99th percentile. Wind gusts have the potential to exceed 65 mph in
+the typically windy spots like near the Cajon Pass, in wind prone
+canyons in the Santa Ana mountains, and in wind prone spots in the
+San Diego mountains. Santa Ana winds could extended to coastal areas
+on Friday, with a 30 to 50 percent chance of local wind gusts
+greater than 35 mph. Winds become weaker and easterly on Saturday,
+with gust 30 to 40 mph in the valleys and below passes, and gusts up
+to 50 mph on mountain foothills and below passes. Weaker offshore
+winds may continue on the coastal mountain slopes Sunday with
+onshore flow expected to return by Monday.
 
-ECMWF ensemble output for Campo continues to trend stronger with
-the Santa Ana winds for Friday with the winds for Saturday now
-nearly as strong as the winds for Thursday with the strongest
-winds expected on Friday. The ECMWF Extreme Forecast Index on
-Friday has gusts in the 80th to 90th percentile and locally into
-the 95th to 99th percentile. The ECMWF ensemble mean for Campo has
-uncalibrated gusts to 45 to 50 mph on Thursday and Saturday and
-55 to 60 mph on Friday. Santa Ana winds could extended nearly to
-the coast in San Diego County on Friday.
-
-There will be a warming trend with high temperatures for today
-warming as much as 8 to 12 degrees for the valleys and mountains.
-The warming will continue on Thursday with high temperatures
-warming from around 5 degrees to 10 to locally 15 degrees for
-coastal areas into the western valleys in San Diego County.
+The location of the upper level low to the southwest of San Diego,
+will help keep relative humidity elevated and could elevate chances
+of showers in the deserts. Right now chances are 10 percent or less,
+with low confidence in measurable rain.
 
 High temperatures on Thursday will be a few degrees below average
-for the mountains and valleys with coastal areas as much as 12 to
-18 degrees above average. High temperatures near the coast will
-be in the mid 80s to lower 90s with the rest of the coast and
-valleys ranging for the lower to mid 80s in the far inland valleys
-to the upper 80s and lower 90s for inland coastal areas into the
-western valleys. High temperatures on Friday will be a few degrees
-warmer or cooler than Thursday depending on location.
+for the mountains and valleys with coastal areas as much as 12 to 18
+degrees above average. High temperatures on Friday will be a few
+degrees warmer for most locations, bringing highs closer to 15 to 20
+degrees above average for coastal locations. Moderate HeatRisk is
+expected for the coast into the western San Diego County valleys for
+Thursday through Saturday with Major HeatRisk for some coastal areas
+on Friday. Conditions will remain above average but cool a few
+degrees on Saturday with continued cooling west of the mountains
+into next week.
 
-Moderate HeatRisk is expected for the coast into the western San
-Diego County valleys for Thursday through Saturday with Major
-HeatRisk for some coastal areas on Friday. A Heat Advisory remains
-in effect for coastal areas for Thursday through Saturday.
+We`re monitoring the potential for precipitation Tuesday and
+Wednesday of next week. There remains differences in the models with
+the GEFS guidance trending more inside and the ECMWF showing a more
+westerly track. While there remains the most uncertainty in the
+precipitation forecast, there is higher confidence in cooler and
+windier conditions.
 
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-High temperatures will begin to cool on Saturday with cooling
-spreading inland on Sunday and Monday. A low pressure system from
-the north could bring greater cooling and a chance of showers for
-Tuesday and Wednesday of next week.
 
 &&
 
 .AVIATION...
-141130Z...SKC and VFR today and tonight. Areas of northeast winds
-intermittently gusting to 30 mph in foothills through 16Z. Same
-winds in same areas increasing after 10Z Thursday.
+141800Z...SKC and VFR today and tonight. Areas of northeast
+localized winds gusting 15-20 kts in the mountain foothills
+increasing after 10Z with gusts 20-45 kts, spreading into inland
+valleys after 12Z, including into parts of the IE.
 
 &&
 
@@ -437,11 +438,11 @@ through Sunday.
 &&
 
 .BEACHES...
-A prevailing southerly swell will continue through Thursday,
-generating surf 3-5 feet with sets to 6 feet, along with strong rip
-currents. Late morning high tides near 6.5 feet will continue
-through Thursday, producing minor coastal flooding. Tides are
-expected fall below 6.5 ft MHHW after the Thursday morning high
+A prevailing southerly swell will continue most of this week,
+generating surf 3-6 feet with local sets to 7 feet, along with
+strong rip currents. Late morning high tides near 6.5 feet will
+continue through Thursday, producing minor coastal flooding. Tides
+are expected fall below 6.5 ft MLLW after the Thursday morning high
 tide, diminishing the threat for coastal flooding.
 
 &&
@@ -449,6 +450,7 @@ tide, diminishing the threat for coastal flooding.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -460,14 +462,25 @@ CA...Beach Hazards Statement through Thursday afternoon for Orange
      Orange County Coastal Areas-Orange County Inland Areas-San
      Diego County Coastal Areas.
 
-     High Wind Watch from Thursday morning through Friday evening for
-     Riverside County Mountains-San Bernardino County Mountains-
+     High Wind Warning from 6 AM Thursday to 8 PM PDT Saturday for
      San Bernardino and Riverside County Valleys-The Inland
-     Empire-San Gorgonio Pass near Banning-Santa Ana Mountains
-     and Foothills.
+     Empire.
 
-     High Wind Watch from Thursday morning through Saturday evening
-     for San Diego County Mountains-San Diego County Valleys.
+     High Wind Warning from 8 PM Thursday to 8 PM PDT Saturday for
+     San Diego County Valleys.
+
+     High Wind Warning from 6 AM Thursday to 8 PM PDT Friday for San
+     Bernardino County Mountains.
+
+     High Wind Warning from 6 AM Thursday to midnight PDT Saturday
+     night for Riverside County Mountains-San Diego County
+     Mountains-San Gorgonio Pass near Banning.
+
+     High Wind Warning from 6 AM Thursday to noon PDT Saturday for
+     Santa Ana Mountains and Foothills.
+
+     Wind Advisory from 6 AM Thursday to noon PDT Saturday for Orange
+     County Inland Areas.
 
 PZ...None.
 
@@ -475,8 +488,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
