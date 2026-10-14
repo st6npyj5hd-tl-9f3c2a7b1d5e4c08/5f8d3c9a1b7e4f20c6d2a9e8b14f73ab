@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-13T22:22:50+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T03:55:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-206
-FXUS66 KSGX 132103
+696
+FXUS66 KSGX 140036
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-203 PM PDT Tue Oct 13 2026
+536 PM PDT Tue Oct 13 2026
 
 .SYNOPSIS...
 The trough over the Desert Southwest will continue to push eastward
@@ -369,6 +369,9 @@ as another trough moves over the West Coast.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 A 559 mb low currently over Southern Nevada continues to bring the
 much cooler (and welcoming for some) weather pattern. Current
@@ -423,18 +426,28 @@ week.
 &&
 
 .AVIATION...
-131900Z...FEW-SCT low to mid clouds 2500-4500 ft MSL for the coast
-and valleys and SCT-BKN cumulus based at 8000-10000 ft MSL over all
-mountains through the afternoon. North winds gusting 25-30 kts after
-20Z in San Bernardino Mountain foothills and locally into northeast
-Inland Empire through 03Z. Weak ENE winds expected early Wed AM
-across the coastal basin.
+140000Z...SKC and VFR through Wednesday evening. North winds
+intermittently gusting 20-30 mph along coastal slopes of the
+mountains and locally into northeast Inland Empire through 15-18Z.
+Weak ENE winds expected early Wed AM across the coastal basin.
 
 &&
 
 .MARINE...
 Isolated northeast wind gusts could briefly exceed 20 kt Thursday
 afternoon through Friday morning.
+
+&&
+
+.BEACHES...
+A prevailing southerly swell will continue today, generating surf 3-
+6 feet with local sets to 7 feet, along with strong rip currents.
+Southerly swell will decrease slightly tomorrow, though surf 3-5
+feet with local sets to 6 feet will continue through the weekend.
+Late morning high tides near 6.5 feet will continue through
+Thursday, producing minor coastal flooding. Tides are expected fall
+below 6.5 ft MHHW after the Thursday morning high tide, ending any
+threat for coastal flooding.
 
 &&
 
@@ -469,7 +482,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
