@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T11:22:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T16:43:14+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-772
-FXUS66 KSGX 140838
+635
+FXUS66 KSGX 141127
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-138 AM PDT Wed Oct 14 2026
+427 AM PDT Wed Oct 14 2026
 
 .SYNOPSIS...
 North to northeasterly offshore flow will develop today, becoming
@@ -371,6 +371,8 @@ Wednesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Friday)...
 High pressure aloft off the California coast will expand across
@@ -421,25 +423,25 @@ Tuesday and Wednesday of next week.
 &&
 
 .AVIATION...
-140530Z...SKC and VFR through Wednesday evening. North winds
-intermittently gusting 20-30 mph along coastal slopes of the
-mountains and locally into northeast Inland Empire through 16Z.
+141130Z...SKC and VFR today and tonight. Areas of northeast winds
+intermittently gusting to 30 mph in foothills through 16Z. Same
+winds in same areas increasing after 10Z Thursday.
 
 &&
 
 .MARINE...
-Isolated northeast wind gusts could briefly exceed 20 kt Thursday
-afternoon through Friday morning. Otherwise, no hazardous marine
-conditions are expected through Sunday.
+Isolated northeast gusts could exceed 20 knots Friday into early
+Saturday. Otherwise, no hazardous marine conditions are expected
+through Sunday.
 
 &&
 
 .BEACHES...
 A prevailing southerly swell will continue through Thursday,
-generating surf 3-6 feet with local sets to 7 feet, along with
-strong rip currents. Late morning high tides near 6.5 feet will
-continue through Thursday, producing minor coastal flooding. Tides
-are expected fall below 6.5 ft MHHW after the Thursday morning high
+generating surf 3-5 feet with sets to 6 feet, along with strong rip
+currents. Late morning high tides near 6.5 feet will continue
+through Thursday, producing minor coastal flooding. Tides are
+expected fall below 6.5 ft MHHW after the Thursday morning high
 tide, diminishing the threat for coastal flooding.
 
 &&
@@ -474,7 +476,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
