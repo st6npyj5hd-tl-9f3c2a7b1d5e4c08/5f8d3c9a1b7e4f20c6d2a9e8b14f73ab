@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-14T21:10:06+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T03:37:50+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-709
-FXUS66 KSGX 141902
+181
+FXUS66 KSGX 150017
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1202 PM PDT Wed Oct 14 2026
+517 PM PDT Wed Oct 14 2026
 
 .SYNOPSIS...
 Santa Ana winds expected Thursday through Saturday, with the
@@ -368,6 +368,9 @@ next Tuesday and Wednesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 We`re already seeing an offshore pressure gradient from San Diego to
 Tonopah, NV. As of 11 AM there were weak north to northeast winds
@@ -419,14 +422,14 @@ westerly track. While there remains the most uncertainty in the
 precipitation forecast, there is higher confidence in cooler and
 windier conditions.
 
-
 &&
 
 .AVIATION...
-141800Z...SKC and VFR today and tonight. Areas of northeast
+150015Z...SKC and VFR today and tonight. Areas of northeast
 localized winds gusting 15-20 kts in the mountain foothills
 increasing after 10Z with gusts 20-45 kts, spreading into inland
-valleys after 12Z, including into parts of the IE.
+valleys after 12Z, including into parts of the IE through the rest
+of the TAF period.
 
 &&
 
@@ -489,7 +492,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Suk
 
 
 </pre>
