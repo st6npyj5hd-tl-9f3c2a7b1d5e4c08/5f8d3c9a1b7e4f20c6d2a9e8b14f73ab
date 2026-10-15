@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T10:59:17+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T16:28:41+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-120
-FXUS66 KSGX 151021
+665
+FXUS66 KSGX 151126
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-321 AM PDT Thu Oct 15 2026
+426 AM PDT Thu Oct 15 2026
 
 .SYNOPSIS...
 Santa Ana winds expected today through Saturday, with the
@@ -368,6 +368,8 @@ showers next Tuesday and Wednesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through tomorrow night...
 
@@ -385,13 +387,13 @@ remnant tropical moisture from Simon, it will provide a slight
 increase in humidity tomorrow, and there will be slight chance of a
 shower or two developing over the mountains during the afternoon
 hours. RH values will diminish to 15-25 percent by later this
-afteroon, but then gradually increase to 20 to 30 percent minimum
-values from Friday, with the influx of moisture. (see fire weather
-section below). Temperatures will be warmest for the coastal
-locations, due to the offshore flow. This will also help to impede
-the marine layer from forming overnight. Highs will be the warmest
-tomorrow, and fore the coastal regions, ranging from upper 80s to
-low 90s, hence the reason for the Heat Advisory.
+afternoon, but then gradually increase to 20 to 30 percent
+minimum values from Friday, with the influx of moisture. (see fire
+weather section below). Temperatures will be warmest for the
+coastal locations, due to the offshore flow. This will also help
+to impede the marine layer from forming overnight. Highs will be
+the warmest tomorrow, and for the coastal regions, ranging from
+upper 80s to low 90s, hence the reason for the Heat Advisory.
 
 This weekend through next Wednesday...
 
@@ -405,34 +407,6 @@ trough towards the middle part of next week, which will bring
 chances of precipitation back into the picture by late Tuesday
 into Wednesday, along with the return of much cooler temperatures.
 
-
-&&
-
-.AVIATION...
-150530Z...SKC and VFR through Thursday. Areas of northeast winds
-gusting 15-20 kts in the mountain foothills increasing after 10Z
-with gusts 20-45 kts, expanding in coverage and spreading into
-inland valleys after 13Z. Areas of MOD-STG up/downdrafts in lee of
-(south and west of) mountains along with areas of LLWS where strong
-winds do not surface in valleys.
-
-&&
-
-.MARINE...
-Isolated northeast gusts could exceed 20 knots Friday into early
-Saturday. Otherwise, no hazardous marine conditions are expected
-through Sunday.
-
-&&
-
-.BEACHES...
-A prevailing southerly swell will continue most of this week,
-generating surf 3-6 feet with local sets to 7 feet, along with
-strong rip currents. Late morning high tides near 6.5 feet will
-continue through Thursday, producing minor coastal flooding. Tides
-are expected fall below 6.5 ft MLLW after the Thursday morning high
-tide, diminishing the threat for coastal flooding.
-
 &&
 
 .FIRE WEATHER...
@@ -440,23 +414,48 @@ Elevated fire weather conditions with near critical conditions in
 locations with abundant dry fuels where topography and wind
 direction are well aligned for today through Saturday.
 
-Northeast to east with Santa Ana winds are expected to increase
-later today and continue through Saturday, with the strongest and
-most widespread winds on Friday. Winds will be mostly out of the
-north and northeast Thursday, becoming more northeast to east by
-Friday, and easterly on Saturday. Gusts for the valleys will
-mainly be 35 to 55 mph, with the strongest winds below passes and
-near mountain foothills. For the coastal slopes and through
-passes, local gusts have the potential to exceed 65 mph. Lowest
-daytime relative humidity for the valleys and inland coastal areas
-will fall to 15 to 25 percent by later this afternoon, then
-recover to 20 to 30 percent for Friday and Saturday. Winds will
-weaken from Friday`s peak on Saturday but remain elevated. Much
-weaker offshore winds expected Sunday, with the pressure gradient
-returning to onshore by Monday. There will be a slight chance of a
-shower or two developing over the mountains and adjacent deserts
-during the afternoon on Friday, although very little probability
-of there being any significant wetting rain.
+Northeast to east Santa Ana winds are expected to increase later
+today and continue through Saturday, with the strongest and most
+widespread winds on Friday. Winds will be mostly out of the north
+and northeast today, becoming more northeast to east by Friday,
+and easterly on Saturday. Gusts for the valleys will mainly be 35
+to 55 mph, with the strongest winds below passes and near mountain
+foothills. For the coastal slopes and through passes, local gusts
+have the potential to exceed 65 mph. Lowest daytime relative
+humidity for the valleys and inland coastal areas will fall to 15
+to 25 percent by later this afternoon, then recover to 20 to 30
+percent for Friday and Saturday. Winds will weaken from Friday`s
+peak on Saturday but remain elevated. Much weaker offshore winds
+expected Sunday, with the pressure gradient returning to onshore
+by Monday. There will be a slight chance of a shower or two
+developing over the mountains and adjacent deserts during the
+afternoon on Friday, although very little probability of there
+being any significant wetting rain.
+
+&&
+
+.AVIATION...
+151130Z...SKC and VFR today and tonight. Areas of northeast winds in
+mountain foothills becoming stronger gusting 25-45 kts and spreading
+into valleys and inland coastal areas after 16Z. Areas of MOD-STG
+up/downdrafts in lee of (south and west of) mountains along with
+areas of LLWS where strong winds do not surface in valleys.
+
+&&
+
+.MARINE...
+Isolated northeast gusts could exceed 20 knots Friday into early
+Saturday. Otherwise, no hazardous marine conditions are expected
+through Monday.
+
+&&
+
+.BEACHES...
+A prevailing southerly swell will generate surf 3-5 feet with local
+sets to 6 feet today, and produce strong rip currents. Late morning
+high tide near 6.5 feet today, producing minor coastal flooding.
+Tides are expected to fall thereafter, diminishing the threat for
+coastal flooding. Check the Beach Hazards Statement for details.
 
 &&
 
@@ -475,25 +474,24 @@ CA...Beach Hazards Statement until 2 PM PDT this afternoon for Orange
      Orange County Coastal Areas-Orange County Inland Areas-San
      Diego County Coastal Areas.
 
-     High Wind Warning from 6 AM this morning to 8 PM PDT Saturday
-     for San Bernardino and Riverside County Valleys-The Inland
-     Empire.
+     High Wind Warning until 8 PM PDT Saturday for San Bernardino and
+     Riverside County Valleys-The Inland Empire.
 
      High Wind Warning from 8 PM this evening to 8 PM PDT Saturday
      for San Diego County Valleys.
 
-     High Wind Warning from 6 AM this morning to 8 PM PDT Friday for
-     San Bernardino County Mountains.
+     High Wind Warning until 8 PM PDT Friday for San Bernardino
+     County Mountains.
 
-     High Wind Warning from 6 AM this morning to midnight PDT
-     Saturday night for Riverside County Mountains-San Diego
-     County Mountains-San Gorgonio Pass near Banning.
+     High Wind Warning until midnight PDT Saturday night for
+     Riverside County Mountains-San Diego County Mountains-San
+     Gorgonio Pass near Banning.
 
-     High Wind Warning from 6 AM this morning to noon PDT Saturday
-     for Santa Ana Mountains and Foothills.
+     High Wind Warning until noon PDT Saturday for Santa Ana
+     Mountains and Foothills.
 
-     Wind Advisory from 6 AM this morning to noon PDT Saturday for
-     Orange County Inland Areas.
+     Wind Advisory until noon PDT Saturday for Orange County Inland
+     Areas.
 
 PZ...None.
 
