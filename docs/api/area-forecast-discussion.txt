@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T16:28:41+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T21:01:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,20 +348,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-665
-FXUS66 KSGX 151126
+555
+FXUS66 KSGX 152016
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-426 AM PDT Thu Oct 15 2026
+116 PM PDT Thu Oct 15 2026
 
 .SYNOPSIS...
 Santa Ana winds expected today through Saturday, with the
-strongest and most widespread on Friday. Additionally, moderate to
-major HeatRisk is expected for coastal areas. Cooler conditions
-will spread inland Sunday, with greater cooling and chance of
-showers next Tuesday and Wednesday.
+strongest and most widespread winds on Friday. Additionally,
+moderate to major HeatRisk is expected for coastal areas. Cooler
+conditions will spread inland Sunday as Santa Anas weaken, with
+greater cooling and chance of showers next Tuesday through next
+Thursday.
 
 &&
 
@@ -369,77 +370,114 @@ showers next Tuesday and Wednesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM...Today through Saturday, Oct 17...Mid-level low
+pressure has settled into western AZ and southeastern CA, with a
+strong surface high pressure in the northern Intermountain West.
+This has resulted in moderately to locally quite strong Santa Ana
+winds from the northeast. Fairly widespread offshore winds are
+broadly gusting 15 to 30 mph even towards some of the coastal
+areas (especially in Orange County), with gusts towards 25 to 40
+mph along the foothills into the inland valleys, including the
+Inland Empire. Our typically gusty canyons and mountain passes
+are, as per usual, winning the gust- off with peak gusts 45 to 60
+mph.
 
-Today through tomorrow night...
+The strong downward motion of these winds has lead to much warmer
+temperatures than yesterday from the foothills to the coast. In
+terms of change in temperature from yesterday, temperatures this
+afternoon are anywhere from 5 to 20 degrees warmer in this area,
+with highs from 80 to just above 90 degrees. While temperatures in
+the valleys and coastal regions are 5 to 15 degrees above average,
+temperatures in the mountains and deserts are actually below
+average thanks to the colder air mass moving into the region. This
+has also lead to lower humidity, with values generally 20-25% in
+the valleys/non-immediate coast and localized areas around
+15-20%.
 
-As an upper level low that has been cut off east of the region
-establishes itself to the southwest of San Diego, with a high
-positioned to the north over northwestern Nevada in a rex blocking
-pattern, the pressure gradient between the two are going to allow
-for offshore winds to strengthen, initally out of the north to
-northeasterly direction today, and then becoming more easterly
-tomorrow. These winds are expected to peak tomorrow, with gusts at
-around 35 to 55 mph for the inland valleys, and stronger gusts along
-the slopes, with local gusts approaching 70 mph within some of the
-higher terrain passes and canyons. As the low taps into some of the
-remnant tropical moisture from Simon, it will provide a slight
-increase in humidity tomorrow, and there will be slight chance of a
-shower or two developing over the mountains during the afternoon
-hours. RH values will diminish to 15-25 percent by later this
-afternoon, but then gradually increase to 20 to 30 percent
-minimum values from Friday, with the influx of moisture. (see fire
-weather section below). Temperatures will be warmest for the
-coastal locations, due to the offshore flow. This will also help
-to impede the marine layer from forming overnight. Highs will be
-the warmest tomorrow, and for the coastal regions, ranging from
-upper 80s to low 90s, hence the reason for the Heat Advisory.
+Surface high pressure gradually moves southward into the Great
+Plains tonight into Friday as the mid-level low moves southwest.
+This will turn offshore winds from northeast to more due easterly,
+which will lead to stronger and more widespread winds for the
+east Inland Empire and San Diego and Orange counties Friday, while
+winds in the San Bernardino Mtn foothills into the northern IE
+will weaken slightly, though remain gusty. Winds will be in the 20
+to 30 mph range with gusts 45 to 60 mph for foothills and inland
+valleys, while coastal areas will see gusts closer to 15 to up to
+about 30 mph. This will drive temperatures even warmer for Friday,
+especially for coastal regions. Low temperatures in this region
+will struggle to dip far below 70 degrees, with highs in the mid
+80s to mid 90s.
 
-This weekend through next Wednesday...
+This flow pattern will actually help to drag some moisture from
+the south/southeast into the region Friday, so unlike the
+typical Santa Ana pattern where stronger winds = drier conditions,
+humidity will actually increase slightly for Friday. This, along
+with recent substantial rainfall, will help temper the danger for
+fire weather, though conditions will be elevated to locally near
+critical for fire weather through Saturday. This moisture will
+also lead to increased cloud cover for Friday into Saturday, and
+even lead to the possibility of elevated storms late Friday into
+Saturday. The majority of precipitation will evaporate in the dry
+layer beneath the cloud, but there`s about a 10% chance for some
+very light precipitation during this time period, mostly for the
+mountains/deserts and perhaps for far south-central/southeastern
+San Diego Co. There will be a little bit of elevated instability
+(MUCAPE ~100-300 J/kg) that could result in an isolated
+thunderstorm, but chances look pretty small (around 5%).
 
-Santa Ana conditions will persist through Saturday, and then these
-offshore winds will begin to weaken. Temperatures will gradually
-cool throughout the weekend, and onshore flow will eventually
-return going into Sunday, whcih may bring about the onset of some
-dense fog for portions of the coastal areas during the early
-morning hours. There will also be an approaching major shortwave
-trough towards the middle part of next week, which will bring
-chances of precipitation back into the picture by late Tuesday
-into Wednesday, along with the return of much cooler temperatures.
+Saturday, the central U.S. ridge and associated surface high
+weakens and shifts eastwards, and offshore winds will weaken,
+though they`ll be breezy. Temperatures will decrease a few
+degrees.
 
 &&
 
-.FIRE WEATHER...
-Elevated fire weather conditions with near critical conditions in
-locations with abundant dry fuels where topography and wind
-direction are well aligned for today through Saturday.
+.LONG TERM...Sunday, Oct 18 through Friday, Oct 23...As the high
+continues its eastward shuffle, winds continue to weaken late
+Saturday into Sunday, so while winds will be offshore Sunday
+morning, they will be much weaker. Winds will switch to onshore
+Sunday afternoon, bring additional cooling, a trend that will
+continue into Monday as weak low pressure hangs out in southern
+California. At least patchy marine layer low clouds will likely
+return Monday morning, resulting in patchy coastal fog.
 
-Northeast to east Santa Ana winds are expected to increase later
-today and continue through Saturday, with the strongest and most
-widespread winds on Friday. Winds will be mostly out of the north
-and northeast today, becoming more northeast to east by Friday,
-and easterly on Saturday. Gusts for the valleys will mainly be 35
-to 55 mph, with the strongest winds below passes and near mountain
-foothills. For the coastal slopes and through passes, local gusts
-have the potential to exceed 65 mph. Lowest daytime relative
-humidity for the valleys and inland coastal areas will fall to 15
-to 25 percent by later this afternoon, then recover to 20 to 30
-percent for Friday and Saturday. Winds will weaken from Friday`s
-peak on Saturday but remain elevated. Much weaker offshore winds
-expected Sunday, with the pressure gradient returning to onshore
-by Monday. There will be a slight chance of a shower or two
-developing over the mountains and adjacent deserts during the
-afternoon on Friday, although very little probability of there
-being any significant wetting rain.
+A large- scale, stronger mid- level low pressure system starts
+moving down from the Gulf of Alaska late Monday into Tuesday,
+bringing breezier onshore flow and even cooler temperatures for
+Tuesday, along with a chance for showers that will increase from
+north to south later Tuesday into Wednesday morning. Global
+weather models already have pretty good agreement on timing of the
+trough, with the large majority of ensemble members agreeing on
+widespread rain showers. There are some location differences in
+the trough placement which is leading to differences in how much
+precipitation exactly, but at this range precipitation is looking
+light to locally moderate. Temperatures will continue to decrease
+through Wed-Thu, with highs in the 60s-70s for the coastal
+basin/high deserts, 40-55 for the mountains, and mid 70s in the
+low deserts. Breezy onshore winds are likely for Tuesday into
+Wednesday in the usual areas (coastal waters, mountains and desert
+foothills). Keep your eye on the forecast this upcoming week.
+
+Models diverge Friday into next weekend, but general agreement is in
+some strength of large-scale mid-level troughing continuing, so
+while any precip will likely taper off by late next Thursday,
+temperatures look to remain in the cool to average zone through
+next week.
 
 &&
 
 .AVIATION...
-151130Z...SKC and VFR today and tonight. Areas of northeast winds in
-mountain foothills becoming stronger gusting 25-45 kts and spreading
-into valleys and inland coastal areas after 16Z. Areas of MOD-STG
-up/downdrafts in lee of (south and west of) mountains along with
-areas of LLWS where strong winds do not surface in valleys.
+151830Z...SKC and VFR through Fri. Northeast winds will remain
+elevated into Fri, when the strongest and most widespread winds are
+expected. For the mountain foothills peak gusts of 45 to 55 kt are
+expected. For the valleys, gusts 30 to 45 kt, locally higher near
+mountain foothills are likely. Coast and Coachella Valley will also
+see elevated winds with gusts 20 to 30 kt. There is a potential for
+gusts of 50 kt to occur at KONT early Fri AM. Winds may decrease
+briefly after 00Z Fri, increasing around 10Z Fri. Winds Fri will
+weaken from north to south 18-22Z. Areas of MOD-STG up/downdrafts in
+lee of (south and west of) mountains along with areas of LLWS where
+strong winds do not surface. East winds continue into Sat.
 
 &&
 
@@ -451,11 +489,9 @@ through Monday.
 &&
 
 .BEACHES...
-A prevailing southerly swell will generate surf 3-5 feet with local
-sets to 6 feet today, and produce strong rip currents. Late morning
-high tide near 6.5 feet today, producing minor coastal flooding.
-Tides are expected to fall thereafter, diminishing the threat for
-coastal flooding. Check the Beach Hazards Statement for details.
+A south swell from 190 to 200 degrees at 3 to 4 feet with a 15-17
+second period will generate elevated surf of 3 to 6 feet, with local
+sets to 7 feet. There is an increased risk of strong rip currents.
 
 &&
 
@@ -470,9 +506,9 @@ encouraged to report significant weather conditions.
 CA...Beach Hazards Statement until 2 PM PDT this afternoon for Orange
      County Coastal Areas-San Diego County Coastal Areas.
 
-     Heat Advisory from 10 AM this morning to 8 PM PDT Saturday for
-     Orange County Coastal Areas-Orange County Inland Areas-San
-     Diego County Coastal Areas.
+     Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
+     Areas-Orange County Inland Areas-San Diego County Coastal
+     Areas.
 
      High Wind Warning until 8 PM PDT Saturday for San Bernardino and
      Riverside County Valleys-The Inland Empire.
@@ -499,8 +535,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...Stewey
-AVIATION/MARINE...MM
+PUBLIC...CSP
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
