@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-15T21:01:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T03:33:43+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-555
-FXUS66 KSGX 152016
+747
+FXUS66 KSGX 152349
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-116 PM PDT Thu Oct 15 2026
+449 PM PDT Thu Oct 15 2026
 
 .SYNOPSIS...
 Santa Ana winds expected today through Saturday, with the
@@ -369,6 +369,9 @@ Thursday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM...Today through Saturday, Oct 17...Mid-level low
 pressure has settled into western AZ and southeastern CA, with a
@@ -467,17 +470,17 @@ next week.
 &&
 
 .AVIATION...
-151830Z...SKC and VFR through Fri. Northeast winds will remain
+160000Z...SKC and VFR through Fri. Northeast winds will remain
 elevated into Fri, when the strongest and most widespread winds are
 expected. For the mountain foothills peak gusts of 45 to 55 kt are
 expected. For the valleys, gusts 30 to 45 kt, locally higher near
 mountain foothills are likely. Coast and Coachella Valley will also
 see elevated winds with gusts 20 to 30 kt. There is a potential for
-gusts of 50 kt to occur at KONT early Fri AM. Winds may decrease
-briefly after 00Z Fri, increasing around 10Z Fri. Winds Fri will
-weaken from north to south 18-22Z. Areas of MOD-STG up/downdrafts in
-lee of (south and west of) mountains along with areas of LLWS where
-strong winds do not surface. East winds continue into Sat.
+gusts of 50 kt to occur at KONT early Fri AM, increasing around 10Z
+Fri. Winds Fri will weaken from north to south 18-22Z. Areas of MOD-
+STG up/downdrafts in lee of (south and west of) mountains along with
+areas of LLWS where strong winds do not surface. East winds continue
+into Sat.
 
 &&
 
@@ -503,10 +506,7 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 2 PM PDT this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
+CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
      Areas-Orange County Inland Areas-San Diego County Coastal
      Areas.
 
@@ -535,8 +535,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CSP
-AVIATION/MARINE/BEACHES...CO
+PUBLIC/FIRE WEATHER...CSP
+AVIATION/MARINE...Castro
 
 
 </pre>
