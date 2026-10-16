@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T16:14:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T20:36:40+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,25 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-611
-FXUS66 KSGX 161201
+701
+FXUS66 KSGX 162011
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-501 AM PDT Fri Oct 16 2026
+111 PM PDT Fri Oct 16 2026
 
 .SYNOPSIS...
-Santa Ana winds will continue through Saturday, with the strongest
-winds expected today. Hot and dry conditions expected for the
-coastal basin with moderate to locally major HeatRisk for coastal
-areas. Santa Ana winds weaken by Sunday, allowing the coastal basin
-to cool off. Further cooling expected region-wide for next week with
-widespread rain as a low pressure system moves in from the
-northwest.
+Santa Ana winds expected through Saturday, with the strongest and
+most widespread winds today. Additionally, moderate to major
+HeatRisk is expected for coastal areas. Cooler conditions will
+spread inland Sunday, with greater cooling, increase in westerly
+winds, and chance of showers for the middle of next week.
 
 &&
 
@@ -369,86 +369,69 @@ northwest.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
-
-Upper-level northeasterly flow has combined with a strong offshore
-surface pressure gradient to produce moderate to locally strong
-Santa Ana winds. Thus far, the winds have been primarily out of the
-northeast with the typically windy corridors north of San Diego
-County being more favored. Upper level winds will turn due east
-across the region this morning as an upper cut-off low moves to the
-south. Concurrently, the strong surface high over the northern
-Plains will migrate southward over the next day. As a result, winds
-will turn easterly and strengthen in favored zones (San Diego
-County, southern OC, and the eastern Inland Empire) and weaken
-slightly elsewhere.
-
-Wind gusts today will peak around 50-65 mph along coastal slopes and
-adjacent foothills (locally higher for east-facing slopes and
-downwind of the Banning Pass). For the valley, corridors of wind
-gusts 35-55 mph expected, especially in eastern San Diego County.
-Winds slowly weaken tonight into Saturday as the easterly flow aloft
-and the surface pressure gradient both weaken. Gusts on Saturday are
-expected to peak around 40-55 mph along coastal slopes and foothills
-(locally higher for east-facing slopes. Corridors of gusts 30-45 mph
-will continue for the valleys. Santa Ana winds weaken further
-Saturday night and diminish entirely by Sunday.
+Gusty winds are being observed across Southern California, with the
+strongest winds being observed on mountain foothills and below
+passes and canyons. Top 3 wind gusts over the past 48 hours were
+Buckman Springs with a gust of 82 mph, a 80 mph gust in Hellhole
+Canyon, and a 78 mph gust in Sill Hill. Over the past 12 hours the
+top 3 wind gusts are Hellhole Canyon, Sill Hill, and Banning with a
+gust of 73 mph. A more comprehensive peak wind gust report is
+headlined on our weather.gov/sandiego homepage. Winds have peaked
+across the area and are expected to begin to weaken through this
+evening into Saturday. That being said, winds will remain elevated
+into Saturday especially for places prone to east winds. Peak wind
+gusts for Saturday will be 35 to 55 mph, with gusts to 60 mph
+confined to wind prone locations.
 
 Elevated to near-critical fire weather conditions will continue
-through Saturday, though relative humidity values will be slightly
-higher than they were on Thursday. Some influx of moisture from the
-south will keep RH values mainly above 15% through the remainder of
-the event. In fact, there is a slight chance of light showers for
-southern San Diego County Saturday morning, though there is an even
-lower chance (5-10%) for any wetting rainfall.
+through Saturday, though relative humidity values will increase on
+Saturday. Some influx of moisture from the south will keep relative
+humidity values above 15% through the remainder of the event. In
+fact, there is a slight chance of light showers for southern San
+Diego County Saturday morning, though there is an even lower chance
+(5-10%) for any wetting rainfall.
 
-Looking forward to next week, the return of onshore flow on Monday
-will bring cooler weather for the coastal basin. Patchy fog is
-expected Mon/Tue mornings as the marine layer rebuilds itself.
-Models continue to become better aligned regarding the strength and
-track of a robust upper-low pressure system expected to swing
-through the region mid-next week. This will bring a widespread
-cooling trend starting next Tuesday and widespread precipitation
-next Wed-Thu. Precipitation will likely remain light to moderate due
-to lack of any notable moisture source, though model guidance has
-trended wetter since yesterday. There is still some disagreement on
-precipitation amounts and extent of cooling at this time. Elevated
-winds are also expected for mountains, deserts, and coastal waters.
-Model solutions diverge by next weekend, though the mean of the
-guidance leans slightly toward upper troughing.
+High temperatures will peak today, gradually decreasing through the
+weekend into early next week. By Tuesday, most locations are
+expected to be running a few degrees below average near the coast to
+up to 10 degrees below average for inland locations. With those
+cooling conditions we`re monitoring for the potential for elevated
+westerly winds and precipitation. The most likely time for
+precipitation looks to be Wednesday and Thursday, but some locations
+further north have the potential to see precipitation as early as
+Tuesday afternoon or evening. Precipitation will likely remain light
+to moderate due to lack of any notable moisture source, though model
+guidance has trended wetter since yesterday. There is still some
+disagreement on precipitation amounts. We`ll have more details in
+the coming days.
 
 &&
 
 .AVIATION...
-161200Z...SKC and VFR expected for all TAF sites throughout the
-forecast period. Northeast winds will remain elevated through
-tonight, with the strongest and most widespread winds are expected
-later this afternoon/early evening. For the mountain foothills peak
-gusts of 45 to 55 kt are expected. For the valleys, gusts 30 to 45
-kt, locally higher near mountain foothills are likely. Coast and
-Coachella Valley will also see elevated winds with gusts 20 to 30
-kt. There is a potential for gusts of 50 kt to occur at KONT early
-this morning through around 16Z before they veer to being more out
-of the east. Winds will weaken from north to south by 23-03Z Mon.
-Areas of MOD-STG up/downdrafts in lee of (south and west of)
-mountains along with areas of LLWS where strong winds do not
-surface. East winds continue into Sat; gradually coming down in the
-process.
+161800Z...Northeast to east winds strongest through and below
+foothills gusting 30-50 kts, locally 60 kts. This will cause MOD-STG
+downdrafts in lee (south and west) of mountains, along with areas of
+LLWS. Winds will gradually weaken after 00Z, but continue with a
+slightly more easterly direction. More weakening expected Saturday
+after 11Z.
+
+Otherwise...SCT high clouds and VFR conditions expected through this
+evening, with increasing clouds above 10 kft especially near Mexico.
 
 &&
 
 .MARINE...
 Isolated northeast gusts could exceed 20 knots today into early
 Saturday. Otherwise, no hazardous marine conditions are expected
-through Monday.
+through Tuesday.
 
 &&
 
 .BEACHES...
-A south swell from 190 to 200 degrees at 3 to 4 feet with a 15-17
-second period will generate elevated surf of 3 to 6 feet, with local
-sets to 7 feet. There is an increased risk of strong rip currents.
+A south swell increasing Sunday and Monday will bring elevated surf
+of 3 to 5 feet with sets to 7 feet for Monday and Tuesday. While
+surf and rip currents will be elevated, high tides will not be
+particularly high, and the threat of coastal flooding is minimal.
 
 &&
 
@@ -487,8 +470,8 @@ PZ...None.
 
 $$
 
-PUBLIC...KW
-AVIATION/MARINE/BEACHES...Stewey
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
