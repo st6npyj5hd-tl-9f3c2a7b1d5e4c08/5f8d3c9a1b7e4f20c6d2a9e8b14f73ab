@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T10:54:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T16:14:30+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-684
-FXUS66 KSGX 160832
+611
+FXUS66 KSGX 161201
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-132 AM PDT Fri Oct 16 2026
+501 AM PDT Fri Oct 16 2026
 
 .SYNOPSIS...
 Santa Ana winds will continue through Saturday, with the strongest
@@ -368,6 +368,9 @@ northwest.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Upper-level northeasterly flow has combined with a strong offshore
 surface pressure gradient to produce moderate to locally strong
@@ -418,17 +421,20 @@ guidance leans slightly toward upper troughing.
 &&
 
 .AVIATION...
-160540Z...SKC and VFR today. Northeast winds will remain elevated
-through tonight, when the strongest and most widespread winds are
-expected. For the mountain foothills peak gusts of 45 to 55 kt are
-expected. For the valleys, gusts 30 to 45 kt, locally higher near
-mountain foothills are likely. Coast and Coachella Valley will also
-see elevated winds with gusts 20 to 30 kt. There is a potential for
-gusts of 50 kt to occur at KONT early this morning, increasing
-around 10Z Fri. Winds will weaken from north to south by 18-22Z.
+161200Z...SKC and VFR expected for all TAF sites throughout the
+forecast period. Northeast winds will remain elevated through
+tonight, with the strongest and most widespread winds are expected
+later this afternoon/early evening. For the mountain foothills peak
+gusts of 45 to 55 kt are expected. For the valleys, gusts 30 to 45
+kt, locally higher near mountain foothills are likely. Coast and
+Coachella Valley will also see elevated winds with gusts 20 to 30
+kt. There is a potential for gusts of 50 kt to occur at KONT early
+this morning through around 16Z before they veer to being more out
+of the east. Winds will weaken from north to south by 23-03Z Mon.
 Areas of MOD-STG up/downdrafts in lee of (south and west of)
 mountains along with areas of LLWS where strong winds do not
-surface. East winds continue into Sat.
+surface. East winds continue into Sat; gradually coming down in the
+process.
 
 &&
 
@@ -462,7 +468,7 @@ CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
      Riverside County Valleys-The Inland Empire-San Diego County
      Valleys.
 
-     High Wind Warning until 8 PM PDT Friday for San Bernardino
+     High Wind Warning until 8 PM PDT this evening for San Bernardino
      County Mountains.
 
      High Wind Warning until midnight PDT Saturday night for
@@ -482,7 +488,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE/BEACHES...Castro
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
