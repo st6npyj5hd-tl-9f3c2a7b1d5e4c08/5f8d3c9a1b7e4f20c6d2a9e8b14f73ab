@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T03:33:43+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T10:54:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,26 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-747
-FXUS66 KSGX 152349
+684
+FXUS66 KSGX 160832
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-449 PM PDT Thu Oct 15 2026
+132 AM PDT Fri Oct 16 2026
 
 .SYNOPSIS...
-Santa Ana winds expected today through Saturday, with the
-strongest and most widespread winds on Friday. Additionally,
-moderate to major HeatRisk is expected for coastal areas. Cooler
-conditions will spread inland Sunday as Santa Anas weaken, with
-greater cooling and chance of showers next Tuesday through next
-Thursday.
+Santa Ana winds will continue through Saturday, with the strongest
+winds expected today. Hot and dry conditions expected for the
+coastal basin with moderate to locally major HeatRisk for coastal
+areas. Santa Ana winds weaken by Sunday, allowing the coastal basin
+to cool off. Further cooling expected region-wide for next week with
+widespread rain as a low pressure system moves in from the
+northwest.
 
 &&
 
@@ -370,122 +369,71 @@ Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Upper-level northeasterly flow has combined with a strong offshore
+surface pressure gradient to produce moderate to locally strong
+Santa Ana winds. Thus far, the winds have been primarily out of the
+northeast with the typically windy corridors north of San Diego
+County being more favored. Upper level winds will turn due east
+across the region this morning as an upper cut-off low moves to the
+south. Concurrently, the strong surface high over the northern
+Plains will migrate southward over the next day. As a result, winds
+will turn easterly and strengthen in favored zones (San Diego
+County, southern OC, and the eastern Inland Empire) and weaken
+slightly elsewhere.
 
-...UPDATED AVIATION DISCUSSION...
+Wind gusts today will peak around 50-65 mph along coastal slopes and
+adjacent foothills (locally higher for east-facing slopes and
+downwind of the Banning Pass). For the valley, corridors of wind
+gusts 35-55 mph expected, especially in eastern San Diego County.
+Winds slowly weaken tonight into Saturday as the easterly flow aloft
+and the surface pressure gradient both weaken. Gusts on Saturday are
+expected to peak around 40-55 mph along coastal slopes and foothills
+(locally higher for east-facing slopes. Corridors of gusts 30-45 mph
+will continue for the valleys. Santa Ana winds weaken further
+Saturday night and diminish entirely by Sunday.
 
-.SHORT TERM...Today through Saturday, Oct 17...Mid-level low
-pressure has settled into western AZ and southeastern CA, with a
-strong surface high pressure in the northern Intermountain West.
-This has resulted in moderately to locally quite strong Santa Ana
-winds from the northeast. Fairly widespread offshore winds are
-broadly gusting 15 to 30 mph even towards some of the coastal
-areas (especially in Orange County), with gusts towards 25 to 40
-mph along the foothills into the inland valleys, including the
-Inland Empire. Our typically gusty canyons and mountain passes
-are, as per usual, winning the gust- off with peak gusts 45 to 60
-mph.
+Elevated to near-critical fire weather conditions will continue
+through Saturday, though relative humidity values will be slightly
+higher than they were on Thursday. Some influx of moisture from the
+south will keep RH values mainly above 15% through the remainder of
+the event. In fact, there is a slight chance of light showers for
+southern San Diego County Saturday morning, though there is an even
+lower chance (5-10%) for any wetting rainfall.
 
-The strong downward motion of these winds has lead to much warmer
-temperatures than yesterday from the foothills to the coast. In
-terms of change in temperature from yesterday, temperatures this
-afternoon are anywhere from 5 to 20 degrees warmer in this area,
-with highs from 80 to just above 90 degrees. While temperatures in
-the valleys and coastal regions are 5 to 15 degrees above average,
-temperatures in the mountains and deserts are actually below
-average thanks to the colder air mass moving into the region. This
-has also lead to lower humidity, with values generally 20-25% in
-the valleys/non-immediate coast and localized areas around
-15-20%.
-
-Surface high pressure gradually moves southward into the Great
-Plains tonight into Friday as the mid-level low moves southwest.
-This will turn offshore winds from northeast to more due easterly,
-which will lead to stronger and more widespread winds for the
-east Inland Empire and San Diego and Orange counties Friday, while
-winds in the San Bernardino Mtn foothills into the northern IE
-will weaken slightly, though remain gusty. Winds will be in the 20
-to 30 mph range with gusts 45 to 60 mph for foothills and inland
-valleys, while coastal areas will see gusts closer to 15 to up to
-about 30 mph. This will drive temperatures even warmer for Friday,
-especially for coastal regions. Low temperatures in this region
-will struggle to dip far below 70 degrees, with highs in the mid
-80s to mid 90s.
-
-This flow pattern will actually help to drag some moisture from
-the south/southeast into the region Friday, so unlike the
-typical Santa Ana pattern where stronger winds = drier conditions,
-humidity will actually increase slightly for Friday. This, along
-with recent substantial rainfall, will help temper the danger for
-fire weather, though conditions will be elevated to locally near
-critical for fire weather through Saturday. This moisture will
-also lead to increased cloud cover for Friday into Saturday, and
-even lead to the possibility of elevated storms late Friday into
-Saturday. The majority of precipitation will evaporate in the dry
-layer beneath the cloud, but there`s about a 10% chance for some
-very light precipitation during this time period, mostly for the
-mountains/deserts and perhaps for far south-central/southeastern
-San Diego Co. There will be a little bit of elevated instability
-(MUCAPE ~100-300 J/kg) that could result in an isolated
-thunderstorm, but chances look pretty small (around 5%).
-
-Saturday, the central U.S. ridge and associated surface high
-weakens and shifts eastwards, and offshore winds will weaken,
-though they`ll be breezy. Temperatures will decrease a few
-degrees.
-
-&&
-
-.LONG TERM...Sunday, Oct 18 through Friday, Oct 23...As the high
-continues its eastward shuffle, winds continue to weaken late
-Saturday into Sunday, so while winds will be offshore Sunday
-morning, they will be much weaker. Winds will switch to onshore
-Sunday afternoon, bring additional cooling, a trend that will
-continue into Monday as weak low pressure hangs out in southern
-California. At least patchy marine layer low clouds will likely
-return Monday morning, resulting in patchy coastal fog.
-
-A large- scale, stronger mid- level low pressure system starts
-moving down from the Gulf of Alaska late Monday into Tuesday,
-bringing breezier onshore flow and even cooler temperatures for
-Tuesday, along with a chance for showers that will increase from
-north to south later Tuesday into Wednesday morning. Global
-weather models already have pretty good agreement on timing of the
-trough, with the large majority of ensemble members agreeing on
-widespread rain showers. There are some location differences in
-the trough placement which is leading to differences in how much
-precipitation exactly, but at this range precipitation is looking
-light to locally moderate. Temperatures will continue to decrease
-through Wed-Thu, with highs in the 60s-70s for the coastal
-basin/high deserts, 40-55 for the mountains, and mid 70s in the
-low deserts. Breezy onshore winds are likely for Tuesday into
-Wednesday in the usual areas (coastal waters, mountains and desert
-foothills). Keep your eye on the forecast this upcoming week.
-
-Models diverge Friday into next weekend, but general agreement is in
-some strength of large-scale mid-level troughing continuing, so
-while any precip will likely taper off by late next Thursday,
-temperatures look to remain in the cool to average zone through
-next week.
+Looking forward to next week, the return of onshore flow on Monday
+will bring cooler weather for the coastal basin. Patchy fog is
+expected Mon/Tue mornings as the marine layer rebuilds itself.
+Models continue to become better aligned regarding the strength and
+track of a robust upper-low pressure system expected to swing
+through the region mid-next week. This will bring a widespread
+cooling trend starting next Tuesday and widespread precipitation
+next Wed-Thu. Precipitation will likely remain light to moderate due
+to lack of any notable moisture source, though model guidance has
+trended wetter since yesterday. There is still some disagreement on
+precipitation amounts and extent of cooling at this time. Elevated
+winds are also expected for mountains, deserts, and coastal waters.
+Model solutions diverge by next weekend, though the mean of the
+guidance leans slightly toward upper troughing.
 
 &&
 
 .AVIATION...
-160000Z...SKC and VFR through Fri. Northeast winds will remain
-elevated into Fri, when the strongest and most widespread winds are
+160540Z...SKC and VFR today. Northeast winds will remain elevated
+through tonight, when the strongest and most widespread winds are
 expected. For the mountain foothills peak gusts of 45 to 55 kt are
 expected. For the valleys, gusts 30 to 45 kt, locally higher near
 mountain foothills are likely. Coast and Coachella Valley will also
 see elevated winds with gusts 20 to 30 kt. There is a potential for
-gusts of 50 kt to occur at KONT early Fri AM, increasing around 10Z
-Fri. Winds Fri will weaken from north to south 18-22Z. Areas of MOD-
-STG up/downdrafts in lee of (south and west of) mountains along with
-areas of LLWS where strong winds do not surface. East winds continue
-into Sat.
+gusts of 50 kt to occur at KONT early this morning, increasing
+around 10Z Fri. Winds will weaken from north to south by 18-22Z.
+Areas of MOD-STG up/downdrafts in lee of (south and west of)
+mountains along with areas of LLWS where strong winds do not
+surface. East winds continue into Sat.
 
 &&
 
 .MARINE...
-Isolated northeast gusts could exceed 20 knots Friday into early
+Isolated northeast gusts could exceed 20 knots today into early
 Saturday. Otherwise, no hazardous marine conditions are expected
 through Monday.
 
@@ -511,10 +459,8 @@ CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
      Areas.
 
      High Wind Warning until 8 PM PDT Saturday for San Bernardino and
-     Riverside County Valleys-The Inland Empire.
-
-     High Wind Warning from 8 PM this evening to 8 PM PDT Saturday
-     for San Diego County Valleys.
+     Riverside County Valleys-The Inland Empire-San Diego County
+     Valleys.
 
      High Wind Warning until 8 PM PDT Friday for San Bernardino
      County Mountains.
@@ -535,8 +481,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...CSP
-AVIATION/MARINE...Castro
+PUBLIC...KW
+AVIATION/MARINE/BEACHES...Castro
 
 
 </pre>
