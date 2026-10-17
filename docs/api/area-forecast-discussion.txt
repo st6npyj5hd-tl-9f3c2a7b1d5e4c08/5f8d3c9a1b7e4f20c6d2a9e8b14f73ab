@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-16T20:36:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-17T03:24:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-701
-FXUS66 KSGX 162011
+222
+FXUS66 KSGX 170001
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-111 PM PDT Fri Oct 16 2026
+501 PM PDT Fri Oct 16 2026
 
 .SYNOPSIS...
 Santa Ana winds expected through Saturday, with the strongest and
@@ -368,6 +366,9 @@ winds, and chance of showers for the middle of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Gusty winds are being observed across Southern California, with the
 strongest winds being observed on mountain foothills and below
@@ -408,10 +409,7 @@ the coming days.
 &&
 
 .AVIATION...
-161800Z...Northeast to east winds strongest through and below
-foothills gusting 30-50 kts, locally 60 kts. This will cause MOD-STG
-downdrafts in lee (south and west) of mountains, along with areas of
-LLWS. Winds will gradually weaken after 00Z, but continue with a
+170000Z...Winds will gradually weaken after 00Z, but continue with a
 slightly more easterly direction. More weakening expected Saturday
 after 11Z.
 
@@ -435,10 +433,120 @@ particularly high, and the threat of coastal flooding is minimal.
 
 &&
 
-.SKYWARN...
+.FIRE WEATHER...
+Elevated to near-critical fire weather conditions will continue
+through Saturday, though relative humidity values will increase on
+Saturday. Some influx of moisture from the south will keep relative
+humidity values above 15% through the remainder of the event. In
+fact, there is a slight chance of light showers for southern San
+Diego County Saturday morning, though there is an even lower chance
+(5-10%) for any wetting rainfall.
+
+
+&&
+
+.PREV DISCUSSION... /issued 1231 PM PDT Sat Sep 26 2026/
+
+SYNOPSIS...
+A little warmer today under mostly sunny skies then cooler through
+Monday. Mid and high level moisture from the tropics brings more
+clouds along with a slight chance of light showers for our
+southeastern regions for Sunday and Monday. Weak high pressure
+will bring dry and warmer weather for Tuesday into next weekend.
+
+DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
+SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
+COUNTIES...
+
+This afternoon...Temperatures are near or a few degrees higher
+than at this time yesterday. Today will likely be warmer than
+yesterday, with high temperatures anywhere from a few degrees
+above normal in the deserts to as much as 10-15 degrees above
+normal in the inland valleys of San Diego County. There were
+patchy marine layer low clouds this morning which have cleared
+out. Southwest flow aloft ahead of a low pressure system to the
+northwest has brought a few high clouds today.
+
+Through Monday...The low to the northwest will move southeastward into
+SoCal by Monday while hurricane Odalys (currently about 950 miles
+southwest of San Diego) slowly moves north and weakens, becoming
+a remnant low about 500 miles southwest of San Diego by Monday.
+The flow aloft will draw mid and high level moisture from Odalys
+into SoCal, resulting in slight chances for mostly light
+precipitation Sunday and Monday. The best chances for rainfall
+accumulations will be in the mountains during the afternoons. This
+scenario will bring lower temperatures, and Monday is expected to
+be the coolest day with temperatures near normal in the coastal
+areas to as much as 10-15 degrees below normal in the mountains.
+The increasing mid and high clouds could disrupt the marine layer
+and hinder the formation of low clouds tonight through Monday
+night.
+
+For Tuesday through the end of next week...The low pressure system
+begins to move eastward into AZ on Tuesday and high pressure aloft
+moves into SoCal. This will bring dry and warmer weather with the
+potential for weak offshore flow on Tuesday and Wednesday. The
+warming begins on Tuesday and peaks next Saturday with daytime
+high temperatures up to 7 degrees above normal in the deserts and
+as much as 10-15 degrees above normal in the low elevations west
+of the mountains. The lack of mid and high clouds with high
+pressure aloft could allow the low clouds of a shallow marine
+layer to return to the coastal areas.
+
+AVIATION...
+261800Z...Coast/Valleys...Clouds struggled to push ashore overnight,
+with only a few intermittent patches of near IFR CIGs observed. All
+clouds have cleared out or linger well offshore this morning, with
+VFR conditions expected to prevail into this evening with SCT-BKN
+clouds filtering in AOA 20k ft. Clouds are expected to be very
+patchy once again tonight as the marine layer will be inhibited by
+the cirrus cloud cover. There is a window for intermittent CIGs
+across San Diego County around 7-11z Sunday before weak offshore
+winds likely keep clouds over the waters, with a window for
+intermittent CIGs across Orange County around 10-14z Sunday. Should
+any CIGs develop, bases will generally 800-1200 ft MSL, with VIS 1-
+5SM in BR/FG for elevated coastal terrain.
+
+Mountains/Deserts...VFR prevails with increasing SCT-BKN clouds AOA
+20 kft through the period.
+
+MARINE...
+Increasing confidence in northwest wind gusts of 20-25 knots in the
+outer waters Monday afternoon and evening. Otherwise, no hazardous
+marine conditions are expected through Thursday.
+
+BEACHES...
+Southwesterly swell (3-4 ft at 13 seconds from ~200 degrees) from
+Hurricane Odalys persists through this weekend, bringing surf of 3-5
+feet with sets up to 6 feet, highest along south and southwest
+facing beaches. The swell from Hurricane Polo (3 ft at 14 seconds
+from ~170 degrees) increases on Monday. Given this direction, most
+of San Diego County beaches will be largely sheltered from this
+swell, but Orange County beaches (especially in north OC) should be
+impacted. Meanwhile, a northwesterly swell (3-4 ft at 7 seconds from
+~290 degrees) arrives late Sunday and Monday. Between these two
+swells, surf of 3-5 feet with sets to 6 feet looks probable along
+south/southwest facing beaches with surf 3-5 feet along west-facing
+beaches through Tuesday. With this elevated surf, there is a high
+risk for rip currents through Tuesday.
+
+Tides are already observed over 6.2 feet and are expected to
+gradually increase into early next week, peaking around 6.9-7.0ft
+for the late-morning high tides on Monday-Wednesday. A Beach Hazard
+Statement remains is in effect through Sunday night for due to the
+risk of minor tidal overflow and minor coastal erosion. A Coastal
+Flood Advisory has been issued, in effect from early Monday morning
+through Wednesday afternoon to account for the highest tides
+combining with the expected elevated surf. Primary impacts during
+the morning high tides Monday-Wednesday will be minor coastal
+flooding in low lying areas in addition to coastal erosion.
+
+Please note - listed tide predictions have been adjusted to reflect
+actual measured tide observations.
+
+SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -470,8 +578,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...MM
+PUBLIC/FIRE WEATHER...CO
+AVIATION/MARINE...Castro
 
 
 </pre>
