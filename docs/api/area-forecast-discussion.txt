@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-17T03:24:20+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-17T10:17:15+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,20 +346,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-222
-FXUS66 KSGX 170001
+216
+FXUS66 KSGX 170946
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-501 PM PDT Fri Oct 16 2026
+246 AM PDT Sat Oct 17 2026
 
 .SYNOPSIS...
-Santa Ana winds expected through Saturday, with the strongest and
+Santa Ana winds expected through tomorrow; gradually weakening by
+later this evening into tomorrow morning, with the strongest and
 most widespread winds today. Additionally, moderate to major
 HeatRisk is expected for coastal areas. Cooler conditions will
-spread inland Sunday, with greater cooling, increase in westerly
-winds, and chance of showers for the middle of next week.
+spread inland tomorrow, with greater cooling, increase in
+westerly winds, and chance of showers for the middle of next week.
 
 &&
 
@@ -367,209 +368,136 @@ winds, and chance of showers for the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Today through tomorrow night...
 
-...UPDATED AVIATION DISCUSSION...
+With strong and gusty winds in place throughout the night for most
+locations, temperatures have remained rather warm overnight, with
+increasing clouds (mostly mid to high level) as an upper level low
+advanced towards the region from the south. There are some showers
+(and even a few embedded thunderstorms) viewable on radar over
+northern Baja California, and this moisture will provide the region
+with a few light to moderate rain showers being possible, although
+the lower levels are so dry that if anything were to fall, it would
+most likely evaporate before it reaches the ground. Still, it cannot
+be ruled out.
 
-Gusty winds are being observed across Southern California, with the
-strongest winds being observed on mountain foothills and below
-passes and canyons. Top 3 wind gusts over the past 48 hours were
-Buckman Springs with a gust of 82 mph, a 80 mph gust in Hellhole
-Canyon, and a 78 mph gust in Sill Hill. Over the past 12 hours the
-top 3 wind gusts are Hellhole Canyon, Sill Hill, and Banning with a
-gust of 73 mph. A more comprehensive peak wind gust report is
-headlined on our weather.gov/sandiego homepage. Winds have peaked
-across the area and are expected to begin to weaken through this
-evening into Saturday. That being said, winds will remain elevated
-into Saturday especially for places prone to east winds. Peak wind
-gusts for Saturday will be 35 to 55 mph, with gusts to 60 mph
-confined to wind prone locations.
+Santa Ana winds will continue today and into tomorrow, but gradually
+begin to weaken as the pressure gradient loosens with the U/L low
+pulling away by later this evening and the high pressure centered
+over the Great Basin weakening as the ridge begins to flatten over
+the western CONUS. Expect winds to generally gust between 35 and 55
+mph for the most wind-proned areas, with local gusts possibly over
+60 mph below passes and along mountains slopes/foothills. These
+downsloping winds will continue to keep temperatures rather warm,
+especially for the coasts, with low to mid 90s being possible. It
+should be a couple degrees cooler for most locations than yesterday,
+especially with the extensive cloud coverage moving in over the
+region this morning due to the U/L low being in the vicinity. These
+warm temperatures will also likely keep temperatures elevated
+overnight, with record high minimums may occur, where winds remain
+gusty and mixing persists within the PBL. There will be somewhat a
+decoupling of the winds for tomorrow night, and some areas might
+have winds become calm enough for there to be some more efficient
+cooling. For all other locations, the elevated winds will keep
+overnight lows mild again for tomorrow night. Although there are
+strong winds in place, RH values have increased a bit from where
+they were a couple of days ago, with the valleys dropping to around
+20 to 30 percent minimums by later this afternoon. This translates
+to fire concerns still remaining elevated throughout the day. There
+will only be a very slight chance of there being a few showers this
+morning for San Diego County, mainly over the mountains and deserts
+of the southeastern portion of the county. With offshore flow
+continuing into tomorrow, it will inhibit the marine layer for one
+more night.
 
-Elevated to near-critical fire weather conditions will continue
-through Saturday, though relative humidity values will increase on
-Saturday. Some influx of moisture from the south will keep relative
-humidity values above 15% through the remainder of the event. In
-fact, there is a slight chance of light showers for southern San
-Diego County Saturday morning, though there is an even lower chance
-(5-10%) for any wetting rainfall.
+Monday through Thursday...
 
-High temperatures will peak today, gradually decreasing through the
-weekend into early next week. By Tuesday, most locations are
-expected to be running a few degrees below average near the coast to
-up to 10 degrees below average for inland locations. With those
-cooling conditions we`re monitoring for the potential for elevated
-westerly winds and precipitation. The most likely time for
-precipitation looks to be Wednesday and Thursday, but some locations
-further north have the potential to see precipitation as early as
-Tuesday afternoon or evening. Precipitation will likely remain light
-to moderate due to lack of any notable moisture source, though model
-guidance has trended wetter since yesterday. There is still some
-disagreement on precipitation amounts. We`ll have more details in
-the coming days.
+By Sunday evening into Monday morning, winds will gradually weaken
+and return to being onshore. Some of the high res members are
+revealing some low level moisture moving back into the inner SOCAL
+waters, which alludes to the possibility of there being some patchy
+fog over the coastal waters, and also along portions of the coastal
+areas. Some of these areas of patchy fog may also yield denser fog
+down to below a quarter of a mile. The notable cooldown will begin
+on Monday as a longwave trough advances towards the region. This
+will allow for the onshore flow to strengthen going into Tuesday
+morning, and bring about the possibility of more patchy fog, with
+better coverage extending further inland. Temperatures by Tuesday
+will generally be anywhere from 5 to 10 degrees below average. By
+later in the evening, there may be a few developing showers west of
+the mountains as an associated major shortwave trough begins to
+propagate over the region going into Wednesday. This will allow for
+winds and rain to become more widespread over the region from
+Wednesday into Thursday as the area of low pressure aloft moves over
+the area. This will keep the cool and inclement weather sticking
+around through then, with highs on both Wednesday and Thursday
+running around 15 to 20 degrees below average for most locations.
+Snow levels will also drop down to around 8000-8500 ft MSL, with a
+few inches of snowfall for the higher terrain above. Preliminary
+rainfall amounts for this storm system look to be around a half an
+inch to three quarters of an inch for most of the coastal and inland
+areas, with higher amounts up to around an inch for the San
+Bernardino Mountains and the Santa Ana Mountains. Stay tuned for
+more details about this low pressure system in the coming days
+again.
 
 &&
 
 .AVIATION...
-170000Z...Winds will gradually weaken after 00Z, but continue with a
-slightly more easterly direction. More weakening expected Saturday
-after 11Z.
+171000Z...Easterly winds have weakened somewhat across the area.
+Local gusts 25-35 kts will continue through this morning in the
+valleys with more persistent gusts 30-45 kts along coastal slopes
+and adjacent foothills, locally higher for east-facing slopes.
+Intermittent LLWS expected where winds decouple from the surface
+(KONT, KSNA, and maybe KCRQ). Easterly winds 20-35 kts continue for
+coastal slopes and portions of the valleys this afternoon. Winds
+weaken further and become confined to coastal slopes after 06z Sun.
 
-Otherwise...SCT high clouds and VFR conditions expected through this
-evening, with increasing clouds above 10 kft especially near Mexico.
+Otherwise...VFR conditions expected with SCT-BKN high clouds through
+today. High clouds scatter out across the area tonight.
 
 &&
 
 .MARINE...
-Isolated northeast gusts could exceed 20 knots today into early
-Saturday. Otherwise, no hazardous marine conditions are expected
-through Tuesday.
+Isolated northeast gusts could exceed 20 knots through this
+afternoon. Otherwise, no hazardous marine conditions are expected
+through Wednesday.
 
 &&
 
 .BEACHES...
 A south swell increasing Sunday and Monday will bring elevated surf
-of 3 to 5 feet with sets to 7 feet for Monday and Tuesday. While
-surf and rip currents will be elevated, high tides will not be
-particularly high, and the threat of coastal flooding is minimal.
+of 3 to 6 feet for Sunday through Tuesday. Sets to 7 feet along
+south and southwest-facing beaches. While surf and rip currents will
+be elevated, high tides will not be particularly high, and the
+threat of coastal flooding is minimal.
 
 &&
 
-.FIRE WEATHER...
-Elevated to near-critical fire weather conditions will continue
-through Saturday, though relative humidity values will increase on
-Saturday. Some influx of moisture from the south will keep relative
-humidity values above 15% through the remainder of the event. In
-fact, there is a slight chance of light showers for southern San
-Diego County Saturday morning, though there is an even lower chance
-(5-10%) for any wetting rainfall.
-
-
-&&
-
-.PREV DISCUSSION... /issued 1231 PM PDT Sat Sep 26 2026/
-
-SYNOPSIS...
-A little warmer today under mostly sunny skies then cooler through
-Monday. Mid and high level moisture from the tropics brings more
-clouds along with a slight chance of light showers for our
-southeastern regions for Sunday and Monday. Weak high pressure
-will bring dry and warmer weather for Tuesday into next weekend.
-
-DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
-SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
-COUNTIES...
-
-This afternoon...Temperatures are near or a few degrees higher
-than at this time yesterday. Today will likely be warmer than
-yesterday, with high temperatures anywhere from a few degrees
-above normal in the deserts to as much as 10-15 degrees above
-normal in the inland valleys of San Diego County. There were
-patchy marine layer low clouds this morning which have cleared
-out. Southwest flow aloft ahead of a low pressure system to the
-northwest has brought a few high clouds today.
-
-Through Monday...The low to the northwest will move southeastward into
-SoCal by Monday while hurricane Odalys (currently about 950 miles
-southwest of San Diego) slowly moves north and weakens, becoming
-a remnant low about 500 miles southwest of San Diego by Monday.
-The flow aloft will draw mid and high level moisture from Odalys
-into SoCal, resulting in slight chances for mostly light
-precipitation Sunday and Monday. The best chances for rainfall
-accumulations will be in the mountains during the afternoons. This
-scenario will bring lower temperatures, and Monday is expected to
-be the coolest day with temperatures near normal in the coastal
-areas to as much as 10-15 degrees below normal in the mountains.
-The increasing mid and high clouds could disrupt the marine layer
-and hinder the formation of low clouds tonight through Monday
-night.
-
-For Tuesday through the end of next week...The low pressure system
-begins to move eastward into AZ on Tuesday and high pressure aloft
-moves into SoCal. This will bring dry and warmer weather with the
-potential for weak offshore flow on Tuesday and Wednesday. The
-warming begins on Tuesday and peaks next Saturday with daytime
-high temperatures up to 7 degrees above normal in the deserts and
-as much as 10-15 degrees above normal in the low elevations west
-of the mountains. The lack of mid and high clouds with high
-pressure aloft could allow the low clouds of a shallow marine
-layer to return to the coastal areas.
-
-AVIATION...
-261800Z...Coast/Valleys...Clouds struggled to push ashore overnight,
-with only a few intermittent patches of near IFR CIGs observed. All
-clouds have cleared out or linger well offshore this morning, with
-VFR conditions expected to prevail into this evening with SCT-BKN
-clouds filtering in AOA 20k ft. Clouds are expected to be very
-patchy once again tonight as the marine layer will be inhibited by
-the cirrus cloud cover. There is a window for intermittent CIGs
-across San Diego County around 7-11z Sunday before weak offshore
-winds likely keep clouds over the waters, with a window for
-intermittent CIGs across Orange County around 10-14z Sunday. Should
-any CIGs develop, bases will generally 800-1200 ft MSL, with VIS 1-
-5SM in BR/FG for elevated coastal terrain.
-
-Mountains/Deserts...VFR prevails with increasing SCT-BKN clouds AOA
-20 kft through the period.
-
-MARINE...
-Increasing confidence in northwest wind gusts of 20-25 knots in the
-outer waters Monday afternoon and evening. Otherwise, no hazardous
-marine conditions are expected through Thursday.
-
-BEACHES...
-Southwesterly swell (3-4 ft at 13 seconds from ~200 degrees) from
-Hurricane Odalys persists through this weekend, bringing surf of 3-5
-feet with sets up to 6 feet, highest along south and southwest
-facing beaches. The swell from Hurricane Polo (3 ft at 14 seconds
-from ~170 degrees) increases on Monday. Given this direction, most
-of San Diego County beaches will be largely sheltered from this
-swell, but Orange County beaches (especially in north OC) should be
-impacted. Meanwhile, a northwesterly swell (3-4 ft at 7 seconds from
-~290 degrees) arrives late Sunday and Monday. Between these two
-swells, surf of 3-5 feet with sets to 6 feet looks probable along
-south/southwest facing beaches with surf 3-5 feet along west-facing
-beaches through Tuesday. With this elevated surf, there is a high
-risk for rip currents through Tuesday.
-
-Tides are already observed over 6.2 feet and are expected to
-gradually increase into early next week, peaking around 6.9-7.0ft
-for the late-morning high tides on Monday-Wednesday. A Beach Hazard
-Statement remains is in effect through Sunday night for due to the
-risk of minor tidal overflow and minor coastal erosion. A Coastal
-Flood Advisory has been issued, in effect from early Monday morning
-through Wednesday afternoon to account for the highest tides
-combining with the expected elevated surf. Primary impacts during
-the morning high tides Monday-Wednesday will be minor coastal
-flooding in low lying areas in addition to coastal erosion.
-
-Please note - listed tide predictions have been adjusted to reflect
-actual measured tide observations.
-
-SKYWARN...
+.SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT Saturday for Orange County Coastal
-     Areas-Orange County Inland Areas-San Diego County Coastal
-     Areas.
-
-     High Wind Warning until 8 PM PDT Saturday for San Bernardino and
-     Riverside County Valleys-The Inland Empire-San Diego County
-     Valleys.
+CA...Heat Advisory until 8 PM PDT this evening for Orange County
+     Coastal Areas-Orange County Inland Areas-San Diego County
+     Coastal Areas.
 
      High Wind Warning until 8 PM PDT this evening for San Bernardino
-     County Mountains.
+     and Riverside County Valleys-The Inland Empire-San Diego
+     County Valleys.
 
-     High Wind Warning until midnight PDT Saturday night for
-     Riverside County Mountains-San Diego County Mountains-San
-     Gorgonio Pass near Banning.
+     High Wind Warning until midnight PDT tonight for Riverside
+     County Mountains-San Diego County Mountains-San Gorgonio
+     Pass near Banning.
 
-     High Wind Warning until noon PDT Saturday for Santa Ana
-     Mountains and Foothills.
+     High Wind Warning until noon PDT today for Santa Ana Mountains
+     and Foothills.
 
-     Wind Advisory until noon PDT Saturday for Orange County Inland
+     Wind Advisory until noon PDT today for Orange County Inland
      Areas.
 
 PZ...None.
@@ -578,8 +506,8 @@ PZ...None.
 
 $$
 
-PUBLIC/FIRE WEATHER...CO
-AVIATION/MARINE...Castro
+PUBLIC...Stewey
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
