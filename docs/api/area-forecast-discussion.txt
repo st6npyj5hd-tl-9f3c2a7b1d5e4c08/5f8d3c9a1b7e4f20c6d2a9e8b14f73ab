@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-17T20:15:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T03:29:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-214
-FXUS66 KSGX 171907
+895
+FXUS66 KSGX 172342
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1207 PM PDT Sat Oct 17 2026
+442 PM PDT Sat Oct 17 2026
 
 .SYNOPSIS...
 Warm conditions with weak to locally moderate Santa Ana winds
@@ -367,6 +367,8 @@ Thursday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 Santa Ana winds have weakened since their peak yesterday. Over the
 past 12 hours the top 3 wind gusts were 73 mph at Hellhole Canyon,
@@ -407,13 +409,13 @@ with moderate confidence in the details.
 &&
 
 .AVIATION...
-171800Z...Easterly winds will continue to weaken through the
-afternoon, with easterly winds 20-35 kts continuing for coastal
-slopes and portions of the valleys this afternoon. Winds weaken
-further and become confined to coastal slopes after 06z Sun.
+180000Z...Stronger easterly winds (above 20kts) will continue to
+weaken through this evening, becoming confined to coastal slopes
+by 06z Sun.
 
-Otherwise...VFR conditions expected with SCT-BKN high clouds through
-today. High clouds scatter out across the area tonight.
+Otherwise...VFR conditions expected with SCT-BKN high clouds AOA
+10,000ft MSL through this evening. High clouds scatter out across
+the area tonight, with SKC thereafter.
 
 &&
 
@@ -427,20 +429,12 @@ through Wednesday.
 .BEACHES...
 Elevated surf will continue this weekend into mid-next week with
 multiple south swells moving in through this period. Surf increases
-slightly Sunday, with surf 3 to 6 feet with local sets to 7 feet
-(along south and southwest-facing beaches) through at least next
-Wednesday.
+slightly Sunday, with surf 3 to 6 feet and local sets to 7 feet
+along south and southwest-facing beaches through at least Wednesday.
 
 While surf and rip currents will be elevated, daily high tides will
 not be particularly high, and the threat of coastal flooding is
 minimal.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -464,7 +458,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
