@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T10:32:29+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T15:30:52+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-743
-FXUS66 KSGX 180829
+420
+FXUS66 KSGX 181204
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-129 AM PDT Sun Oct 18 2026
+504 AM PDT Sun Oct 18 2026
 
 .SYNOPSIS...
 Some cooling expected for the coastal basin today as onshore flow
@@ -367,6 +367,9 @@ mountains and deserts.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Santa Ana winds are finally diminishing this evening as easterly
 flow aloft and the offshore surface pressure gradient both continue
@@ -411,17 +414,13 @@ indicates mainly zonal flow with temperatures warming back to
 slightly below normal through the weekend. In the long term, there
 is some indication that the troughing pattern will continue.
 
-
 &&
 
 .AVIATION...
-180600Z...Easterly offshore winds have largely subsided at the
-surface, though elevated easterly winds remain possible near the in
-the mountains and at 4000-8000ft into the early overnight hours.
-
-Otherwise...VFR conditions expected with SCT-BKN high clouds AOA
-10,000ft MSL through this evening. High clouds scatter out across
-the area tonight, with SKC thereafter.
+181200Z......VFR conditions expected with FEW-SCT high clouds AOA
+10,000ft MSL through the early  morning, then SKC thereafter. There
+is a 20 percent chance of low clouds and patchy fog developing in
+the vicinity of KSAN and KCRQ, after 07Z and 09Z Tue., respectively.
 
 &&
 
@@ -438,7 +437,7 @@ along south and southwest-facing beaches through at least Wednesday.
 
 While surf and rip currents will be elevated, daily high tides will
 not be particularly high, and the threat of coastal flooding is
-minimal.
+minimal. Further details can be found in the Beach Hazard Statement.
 
 &&
 
@@ -461,7 +460,7 @@ PZ...None.
 $$
 
 PUBLIC...KW
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
