@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T03:29:58+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T10:32:29+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,21 +346,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-895
-FXUS66 KSGX 172342
+743
+FXUS66 KSGX 180829
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-442 PM PDT Sat Oct 17 2026
+129 AM PDT Sun Oct 18 2026
 
 .SYNOPSIS...
-Warm conditions with weak to locally moderate Santa Ana winds
-today. Cooler conditions expected Sunday through the upcoming
-week. For the middle to end of the week westerly winds are
-expected to increase over the mountains and deserts. Increasing
-chances for rain from the coast to the mountains for Wednesday and
-Thursday.
+Some cooling expected for the coastal basin today as onshore flow
+returns. Further cooling expected across the region starting Tuesday
+as a low-pressure system begins to move in from the northwest. This
+will bring widespread light to moderate rain to the region late
+Wednesday into Thursday along with elevated southwest winds for the
+mountains and deserts.
 
 &&
 
@@ -368,50 +368,56 @@ Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Santa Ana winds are finally diminishing this evening as easterly
+flow aloft and the offshore surface pressure gradient both continue
+to weaken. Easterly gusts 20-35 mph will continue along coastal
+slopes and through east-to-west passes through this morning. Return
+of weak onshore flow will allow for some cooling today, especially
+for coastal areas, though highs will remain 4 to 10 degrees above
+normal through the coastal basin.
 
-Santa Ana winds have weakened since their peak yesterday. Over the
-past 12 hours the top 3 wind gusts were 73 mph at Hellhole Canyon,
-71 mph at Rancho Heights, and 70 mph at Freemont Canyon. Lingering
-gusts in the 35 to 55 mph range can be expected through the
-afternoon mostly in places prone to easterly winds. Winds will
-become more confined to wind prone locations into the evening and
-overnight hours. Above average temperatures can be expected west
-of the mountains today, with below average temperatures in the
-deserts. Highs Sunday will run 3 to 7 degrees cooler for the coast
-and 2 to 4 degrees warmer for inland locations. That cooling will
-spread inland through Tuesday. By Tuesday, most locations will
-see below average temperatures.
+The return of onshore flow will also herald the return of the marine
+layer. HREF guidance introduces patchy low clouds and FG over
+coastal waters starting early Monday morning. Onshore flow increases
+by Monday night as a closed upper low from the northwest begins to
+influence the region. This will allow marine layer clouds and FG to
+push into coastal areas and portions of the valleys.
 
-Model guidance is in good agreement that a closed low will dig south
-along the West Coast Monday and Tuesday, before swinging east into
-Southern California Tuesday night or Wednesday. In addition to
-cooler conditions, this low will bring an increase in westerly winds
-and rain chances. Winds may begin to increase Tuesday afternoon,
-peaking Wednesday or Thursday over the mountains and into the
-deserts.
+As the upper low continues to slide southward, cooling will spread
+across the region with below normal highs expected from Tuesday
+onward. Rain chances increase from west to east on Wednesday, though
+the majority of guidance has trended a little slower with the onset
+of precipitation. Regardless, widespread light to moderate rain is
+expected with the most likely timeframe for precip being Wednesday
+night into Thursday. As the event draws closer, some details are
+beginning to emerge. NBM probabilities of storm total rainfall
+exceeding 0.5" and 1" from the coast to the mountains are about 60-
+90% and 25-55% respectively. The higher probabilities are mainly
+focused in the mountains and portions of the coastal basin north of
+San Diego County. Lower rainfall totals are expected in the deserts
+with only 30-50% and 5-25% chances of 0.5" of rainfall in the High
+Desert and low deserts, respectively.
 
-Rain chances are in the forecast as early Tuesday evening for some
-locations, but the most likely time for precipitation looks to be
-this Wednesday and Thursday. Right now, mainly light to moderate
-precipitation is expected. On Thursday as the low moves directly
-over Southern California it will bring it`s associated vorticity
-with it, increasing the instability of the atmosphere. This
-introduces a 10 to 15 percent chance of thunderstorms in the coastal
-basin. If thunderstorms develop, locally heavy rain will occur. Most
-places in and west of the mountains have a 50 to 70% chance of
-rainfall totals exceeding 0.50", with the San Bernardino Mountains
-having a higher chance and area deserts a lesser chance. The place
-with the highest chances of seeing 1" or more of rain is the San
-Bernardino Mountains. Overall, confidence in rain occurring is high
-with moderate confidence in the details.
+As the core of the low moves overhead on Thursday, temperatures will
+fall well below normal across the region. Additionally, increased
+mid-level lapse rates and vorticity will promote development of
+convective showers. There is about a 10-15% chance for thunderstorms
+from the coast to the mountains at this time. If thunderstorms
+develop, locally heavy rainfall rates will be possible.
+
+Model solutions diverge by next weekend, but there is not much
+indication of any significant weather. The mean of the guidance
+indicates mainly zonal flow with temperatures warming back to
+slightly below normal through the weekend. In the long term, there
+is some indication that the troughing pattern will continue.
+
 
 &&
 
 .AVIATION...
-180000Z...Stronger easterly winds (above 20kts) will continue to
-weaken through this evening, becoming confined to coastal slopes
-by 06z Sun.
+180600Z...Easterly offshore winds have largely subsided at the
+surface, though elevated easterly winds remain possible near the in
+the mountains and at 4000-8000ft into the early overnight hours.
 
 Otherwise...VFR conditions expected with SCT-BKN high clouds AOA
 10,000ft MSL through this evening. High clouds scatter out across
@@ -420,9 +426,7 @@ the area tonight, with SKC thereafter.
 &&
 
 .MARINE...
-Isolated northeast gusts could exceed 20 knots through this
-afternoon. Otherwise, no hazardous marine conditions are expected
-through Wednesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
@@ -438,18 +442,17 @@ minimal.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Heat Advisory until 8 PM PDT this evening for Orange County
-     Coastal Areas-Orange County Inland Areas-San Diego County
-     Coastal Areas.
-
-     High Wind Warning until 8 PM PDT this evening for San Bernardino
-     and Riverside County Valleys-The Inland Empire-San Diego
-     County Valleys.
-
-     High Wind Warning until midnight PDT tonight for Riverside
-     County Mountains-San Diego County Mountains-San Gorgonio
-     Pass near Banning.
+CA...Beach Hazards Statement from 9 AM PDT this morning through
+     Tuesday morning for Orange County Coastal Areas-San Diego
+     County Coastal Areas.
 
 PZ...None.
 
@@ -457,8 +460,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...KW
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
