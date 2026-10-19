@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-18T20:13:48+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-19T03:40:54+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-471
-FXUS66 KSGX 182009
+156
+FXUS66 KSGX 190032
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-109 PM PDT Sun Oct 18 2026
+532 PM PDT Sun Oct 18 2026
 
 .SYNOPSIS...
 The coastal basin will continue to cool a few degrees early this
@@ -372,6 +370,8 @@ thunderstorms for Thursday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM...Today Oct 18 through Tue Oct 20...Pretty big change
 in temperatures between today and yesterday; 24 hours ago
@@ -467,14 +467,13 @@ and leaning above average precipitation (50-60% chance).
 
 &&
 
-.AVIATION... 181730Z......VFR conditions expected with mostly
-SKC.
+.AVIATION...190000Z...Coast...There is a 20-30 percent chance of low
+clouds and patchy fog developing along the coastline, incl vicinity
+of KSAN and KCRQ, 11-16Z. If clouds do manage to form on land, cigs
+and vis will be very low, 200-500ft MSL and 0-3 SM respectively. Any
+cloud coverage clears 16-18Z Mon.
 
-Coast...There is a 20 percent chance of low clouds and patchy fog
-developing along San Diego Co coastline, incl vicinity of KSAN and
-KCRQ, 09-16Z. If clouds do manage to form on land, cigs and vis will
-be very low, 200-500 ft MSL and 0-3 SM respectively. Any cloud
-coverage clears 16-18Z Mon.
+Otherwise...VFR conditions expected with mostly SKC.
 
 &&
 
@@ -487,21 +486,14 @@ thunderstorms Thursday.
 &&
 
 .BEACHES...
-Elevated surf will continue through mid-next week with multiple
-south swells moving in through this period. Surf increases slightly
-today, with surf 3 to 6 feet and local sets to 7 feet along south
-and southwest-facing beaches through at least Tuesday.
+Elevated surf will continue through mid-week with multiple south
+swells moving in. Expect surf of 3 to 6 feet and local sets to 7
+feet along south and southwest-facing beaches through at least
+Tuesday.
 
 While surf and rip currents will be elevated, daily high tides will
 not be particularly high, and the threat of coastal flooding is
 minimal. Further details can be found in the Beach Hazard Statement.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -516,7 +508,7 @@ PZ...None.
 $$
 
 PUBLIC...CSP
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
