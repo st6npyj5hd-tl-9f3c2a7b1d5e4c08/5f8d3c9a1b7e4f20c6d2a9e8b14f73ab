@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-19T03:40:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-19T12:25:20+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,29 +341,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-156
-FXUS66 KSGX 190032
+559
+FXUS66 KSGX 191145
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-532 PM PDT Sun Oct 18 2026
+445 AM PDT Mon Oct 19 2026
 
 .SYNOPSIS...
-The coastal basin will continue to cool a few degrees early this
-week while mountain and desert regions warm slightly. Patchy
-coastal fog is possible Monday morning and more likely early
-Tuesday. Further cooling expected across the entire region
-starting Tuesday as a low- pressure system begins to move in from
-the northwest. This will bring widespread light to moderate rain
-to the region Wednesday into Thursday along with elevated
-southwest winds for the mountains and deserts as well as
-thunderstorms for Thursday.
+Onshore flow will begin to spread cooling inland today with a
+return of coastal low clouds and fog more likely for tonight into
+Tuesday morning. A low pressure system from the north is expected
+to bring greater cooling for Wednesday and Thursday along with
+showers and a chance of thunderstorms, most likely for Wednesday
+night through Thursday afternoon. Then warmer and drier for next
+weekend.
 
 &&
 
@@ -371,129 +367,102 @@ thunderstorms for Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Wednesday)...
+High temperatures for today will be slightly warmer for the
+mountains, deserts, and inland valleys with coastal areas into the
+western valleys a few degrees cooler. Greater cooling will spread
+inland on Tuesday and Wednesday with Wednesday high temperatures
+near average at the coast to 5 to 10 degrees below average for the
+mountains. High temperatures on Wednesday will be mostly in the
+70s for the coast and valleys and in the mid 80s for the lower
+deserts.
 
-.SHORT TERM...Today Oct 18 through Tue Oct 20...Pretty big change
-in temperatures between today and yesterday; 24 hours ago
-temperatures were 5 to 12 degrees warmer in the coastal and
-valley areas and 3 to 9 degrees cooler for the mountains and
-deserts. The difference between this morning`s and yesterday`s low
-temperatures is even more significant, with low temperatures
-across the board 5 to up to 30 degrees cooler this morning
-compared to yesterday. While offshore winds were present this
-morning, they were light enough that they had little warming
-effect, while keeping it dry and clear enough for efficient
-radiational cooling.
+Satellite imagery shows some patchy low clouds and fog off the
+Orange County coast beneath a strong and shallow marine
+inversion. There could be some very patchy dense fog near the
+Orange County coast early this morning. The more likely time for
+a return of greater coverage of low clouds and locally dense fog
+for the coastal waters into coastal areas is for tonight into
+Tuesday morning. Deepening of the marine layer and greater inland
+spread of coastal low clouds into portions of the valleys is
+expected for Tuesday night into Wednesday morning.
 
-Clear skies will continue today through most of tonight, though
-there`s a chance for at least patchy dense fog to develop early
-morning on Monday. The cooling trend present today in the coasts
-and valleys will continue for Monday`s high temperatures with
-another few degrees cooling, while the deserts and mountains warm
-a couple additional degrees.
-
-There is higher certainty in the return of the marine layer Monday
-night into Tuesday morning, which will likely start out quite
-initially low, if not leading to coastal dense fog, before likely
-rising gradually through Tuesday morning. The cooling trend that
-started in the coastal basin will continue for Tuesday, as well as
-spread into the deserts as a low pressure system from the
-northwest moves towards the area. A small handful of models are
-indicating that light showers could start late Tuesday, generally
-just for the inland mountains with increased onshore flow and
-moisture perhaps leading to weak orographic lift, but the
-majority keep Tuesday dry. Winds will be average for most areas
-but start to pick up over the upper ridges into the High Desert
-late in the afternoon Tuesday.
+A closed low pressure system centered to the west of Point
+Conception on late Tuesday will begin to move slowly toward the
+east on Wednesday. This will draw subtropical moisture and showers
+northward ahead of this low pressure system on Wednesday. Showers
+will begin to move into portions of southwestern California during
+the day on Wednesday.
 
 &&
 
-.LONG TERM...Wed Oct 21 through Sunday Oct 25...A broad closed low
-continues down the west coast Tuesday into Wednesday before
-stalling just northwest of Pt Conception Wednesday afternoon, then
-finally sweeping south towards the region late Wednesday. Onshore
-winds will pick up Wednesday afternoon for the usual mountains,
-desert slopes/deserts, and marine waters. These winds don`t look
-to be significantly strong, with gusts likely in the 25 to 35 mph
-range for the most part (to around 20 mph over the coastal
-waters).
+.LONG TERM (Wednesday night through Sunday)...
+That low pressure system will move slowly eastward and inland into
+southern California for Wednesday night and Thursday. This will
+bring showers and a chance of thunderstorms to southwestern
+California, most likely for Wednesday night through Thursday
+afternoon.
 
-Rain chances increase through the day Wednesday; the current
-forecast has widespread light to moderate rain moving through the
-area late Wednesday through Thursday morning. South-southwest flow
-as the rain band moves in will favor the San Bernardino
-Mountains, where we`re expecting the most overall rainfall. The
-front looks likely to weaken slightly as it passes through, with
-lighter rain for south and east San Diego County compared to North
-County, Orange County, and southwest San Bernardino County. Rain
-rates will likely be steadily light to locally moderate through
-this period.
+The ECMWF Extreme Forecast Index has rainfall across coastal
+portions of Orange and Los Angeles Counties in the 80th to 90th
+percentile. Cold air aloft with the low pressure system passing
+over near record warm water off the coast will increase the
+instability with the ECMWF Extreme Forecast Index having CAPE over
+the coastal waters into coastal waters in the 80th to 90th
+percentile and locally in the 90th to 95th percentile.
 
-Widespread rain gives way to scattered showers Thursday as the low
-digs south, finally sweeping right over the area Thursday morning
-into the afternoon along with the associated vort max. This will
-bring 1000-700 MB instability of 350-500 J/kg to the area in turn
-leading to widespread 15 to 25% chance for thunderstorms for the
-mountains and areas westwards. Thunderstorms will bring the threat
-for locally heavier rainfall as well as the usual dangerous
-lighting, gusty winds, etc. so this may be the most potentially
-impactful period during this event. Snow levels will drop
-Thursday-Friday, but only to about 8000 feet, so it`s unlikely
-that any area but the highest mountain peaks receive snow.
+For Orange and southwestern San Bernardino Counties, rainfall
+could range from around 1 inch for the Orange County coastal plain
+to around 1.5 inches on the coastal slopes of the mountains
+with amounts decreasing from north to south across San Diego
+County.
 
-Showers gradually end sometime between late Thursday and Friday
-morning. All in all, total rainfall for the region looks to be in
-the range of 0.7" to about an inch for North County San Diego,
-Orange County, and the northwest Inland Empire, with 1" to 1.3"
-likely for the San Bernardino Mountains. South and east county San
-Diego (including the mountains) as well as the southeast Inland
-Empire and Riverside Mountains likely to get 0.4" to 0.7", with
-0.2" to 0.5" in the High Desert and likely under 0.1" for the low
-deserts. We`ve gotten an excellent head start on the Water Year
-(which started Oct 1st), and this event will keep the trend going.
+High temperatures will be coolest on Thursday, as much as 15 to 20
+degrees below average for the mountains. High temperatures on
+Thursday will be mostly in the 60s to around 70 for the coast and
+valleys and mostly in the 40s and 50s for the mountains.
 
-Models diverge on the location of the low going into next weekend,
-with some showing the low stalling near AZ over the weekend and
-others a smooth exit eastwards. In either case, temperatures will
-start to rebound Friday through Sunday, and winds will likely turn
-offshore for Saturday-Sunday. The strength of these winds varies
-quite a bit between ensemble model members, with most of them at
-this point looking pretty weak, but confidence will increase as
-the week progresses. Looking out towards the end of the month,
-some form of troughing is likely on the far horizon. The current
-Climate Predication Center`s outlook for October 26 through
-November 1 in southern California is for near normal temperatures
-and leaning above average precipitation (50-60% chance).
+Drier and warmer weather is expected for next weekend, but with
+growing spread in just how much warming for Saturday through
+Monday. HeatRisk is forecast to remain below Moderate for next
+weekend.
 
 &&
 
-.AVIATION...190000Z...Coast...There is a 20-30 percent chance of low
-clouds and patchy fog developing along the coastline, incl vicinity
-of KSAN and KCRQ, 11-16Z. If clouds do manage to form on land, cigs
-and vis will be very low, 200-500ft MSL and 0-3 SM respectively. Any
-cloud coverage clears 16-18Z Mon.
+.AVIATION...
+191130Z...Coast...There is a 10-20 percent chance of low clouds and
+fog 10-16Z. If clouds do manage to form over land, cigs and vis will
+be very low, 400-600 feet MSL and 0-5SM respectively. Low clouds and
+fog much more likely to form after 05Z Tuesday, becoming more
+widespread by 12Z Tuesday. Bases would be around 600-900 feet MSL
+with vis 1-6SM on mesas and higher coastal terrain.
 
-Otherwise...VFR conditions expected with mostly SKC.
+Otherwise...mostly clear and VFR conditions except for SCT-BKN
+cumulus based around 10 kft over mountains 19-00Z.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday. A storm
-system moves into the region Wednesday through Thursday, bringing
-possible local gusts around 20 knots and a chance (10-15%) for
-thunderstorms Thursday.
+No hazardous marine conditions are expected through Wednesday
+morning. A storm system moves into the region later Wednesday
+through Thursday, bringing gusts at or exceeding 20 knots and
+associated choppy seas, along with a 10-15% chance of TSRA.
 
 &&
 
 .BEACHES...
-Elevated surf will continue through mid-week with multiple south
-swells moving in. Expect surf of 3 to 6 feet and local sets to 7
-feet along south and southwest-facing beaches through at least
-Tuesday.
+Southerly swells will continue to bring surf of 3 to 6 feet with
+local sets to 7 feet, highest at south and southwest-facing beaches
+through Tuesday. This will bring hazardous swimming conditions for
+most. While surf and rip currents will be elevated, daily high tides
+will not be particularly high, and the threat of coastal flooding is
+minimal. Further details can be found in the Beach Hazards Statement.
 
-While surf and rip currents will be elevated, daily high tides will
-not be particularly high, and the threat of coastal flooding is
-minimal. Further details can be found in the Beach Hazard Statement.
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
 &&
 
@@ -507,8 +476,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CSP
-AVIATION/MARINE/BEACHES...Zuber
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
