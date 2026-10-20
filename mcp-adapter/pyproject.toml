@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "weather-buddy-mcp"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["mcp>=1.26,<2", "httpx>=0.28,<1", "defusedxml>=0.7.1,<1", "beautifulsoup4>=4.14,<5", "uvicorn>=0.38,<1"]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "pytest-asyncio>=1,<2", "ruff>=0.14,<1", "jsonschema>=4.25,<5"]
+
+[project.scripts]
+weather-buddy-mcp = "weather_buddy.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/weather_buddy"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+markers = ["live: opt-in public Pages contract test"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]

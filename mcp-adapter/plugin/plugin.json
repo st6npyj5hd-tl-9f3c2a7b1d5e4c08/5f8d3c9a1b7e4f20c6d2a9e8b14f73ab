@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "weather-buddy",
+  "version": "0.1.0",
+  "description": "Read-only NWS San Diego forecast snapshots with explicit source and freshness handling.",
+  "repository": "https://github.com/st6npyj5hd-tl-9f3c2a7b1d5e4c08/5f8d3c9a1b7e4f20c6d2a9e8b14f73ab"
+}
