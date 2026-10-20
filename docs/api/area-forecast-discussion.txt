@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-20T16:29:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-20T21:20:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -343,23 +343,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-863
-FXUS66 KSGX 201150
+477
+FXUS66 KSGX 202019
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-450 AM PDT Tue Oct 20 2026
+119 PM PDT Tue Oct 20 2026
 
 .SYNOPSIS...
-A low pressure system moving southward off the California coast
-will spreading cooling inland through Thursday. It is expected to
-bring showers and slight chance of thunderstorms for late
+A low pressure system moving southward off the California coast will
+bring general cooling through Thursday. It is also expected to
+produce showers and a slight chance of thunderstorms for late
 Wednesday through Thursday is it moves inland through California
-into Nevada. Then warmer and drier for next weekend.
+into Nevada. Warmer and drier for next weekend. Offshore flow on
+Saturday could produce gusty northeast to east winds in and below
+mountain passes and canyons as well as the Inland Empire corridor
+between the Cajon Pass and the Santa Ana Mountains. The offshore
+flow weakens for Sunday into early next week.
 
 &&
 
@@ -367,16 +373,37 @@ into Nevada. Then warmer and drier for next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+This afternoon...Skies are partly cloudy with only a few low
+clouds off the coast, some mid and high clouds streaming in from
+the southwest and cumulus clouds developing over the mountains.
+Isolated showers over the mtns this afternoon can`t be ruled out
+but the chances are very low. Temperatures are generally a few
+degrees lower than at this time yesterday.
 
-.SHORT TERM (Today through Thursday)...
-The center of a closed low pressure system will move southward off
-the California coast today, then move slowly eastward to near
-Point Conception for early Thursday, then northeastward into
-Nevada for Thursday evening. Cooling of high temperatures will
-continue to spread inland for today and Wednesday. The greatest
-cooling is expected on Thursday with the mountains and inland
-valleys around 10 degrees cooler than Wednesday.
+The low pressure system west of Point Conception continues to move
+south today before turning east tomorrow. It will move through
+SoCal on Thursday and Friday. It will bring further cooling, a
+deepening marine layer with more low clouds, and widespread
+precipitation. Showers could spread into coastal areas during the
+afternoon on Wednesday. Those showers are expected to spread
+farther inland for Wednesday night into Thursday with the greatest
+chances for thunderstorms for late Wednesday night into Thursday.
+
+Between Wednesday and Thursday night, rainfall across Orange and
+southwestern San Bernardino Counties could range from around 1
+inch near the coast to as much as 2 inches in the mountains. Rainfall
+for San Diego County will range from around 1 inch in North County
+to 0.50 to 0.75 near the border. High desert areas will receive
+around 0.50 inch of rainfall and the low deserts will receive 0.25
+inch or less. Probabilities for 0.10 inch or more of rainfall
+from Wednesday morning through Thursday night exceed 90 percent
+for the coast, valleys, and mountains. Probabilities for 0.50 inch
+or more exceed 80 percent for the mountains as far south as the
+northern half of San Diego County. Probabilities for 1 inch or
+more range from 15 to 50 percent from the coast to the mountains
+for Orange and southwestern San Bernardino Counties. Probabilities
+for 2 inches or more exceed 10 percent for the mountains of
+southwestern San Bernardino County.
 
 High temperatures on Thursday will range from around 5 degrees
 below average near the coast to 15 to 20 degrees below average for
@@ -384,50 +411,17 @@ mountain elevations above 6000 feet. High temperatures on Thursday
 will be in the 60s to around 70 for the coast and valleys and in
 the 40s and 50s for the mountains.
 
-Satellite imagery and surface reports show coastal low clouds
-beginning to spread inland, but with cloud bases around 1000 feet
-near the coast as the marine layer deepens. Through sunrise this
-morning, the low clouds will increase in coverage for coastal
-areas and spread into the far western valleys. The low clouds are
-expected to spread into the far inland valleys or lower coastal
-slopes of the mountains for late tonight as the marine layer
-continues to deepen for today and tonight.
+Precip tapers off late Thu into Fri as the low pressure system
+moves eastward into AZ.
 
-Moisture being drawn northward by the low pressure system off the
-California coast could bring some mostly light showers to the
-mountains for this afternoon and early evening, mainly for the San
-Bernardino Mountains and for the Riverside County mountains.
-
-As that low pressure system off the California coast begins to
-move slowly eastward on Wednesday, showers could spread into
-coastal areas during the afternoon on Wednesday. Those showers
-are expected to spread farther inland for Wednesday night into
-Thursday with the greatest chances for thunderstorms for late
-Wednesday night into Thursday.
-
-Through Thursday night, rainfall across Orange and southwestern
-San Bernardino Counties could range from around 1 inch near the
-coast to 1.5 to 2 inches in the mountains. Rainfall for San Diego
-County will range from around 1 inch north to 0.50 to 0.75 south.
-High desert areas will receive around 0.50 inch of rainfall with
-0.25 inch or less for the lower deserts.
-
-NBM probabilities for 0.10 inch or more of rainfall from
-Wednesday morning through Thursday night exceed 90 percent for
-the coast, valleys, and mountains. Probabilities for 0.50 inch or
-more exceed 80 percent from the coast to the mountains as far
-south as the northern half of San Diego County. Probabilities for
-1 inch or more exceed 50 percent from the coast to the mountains
-for Orange and southwestern San Bernardino Counties. Probabilities
-for 2 inches or more exceed 10 percent from inland Orange County
-to the mountains of southwestern San Bernardino County.
-
-&&
-
-.LONG TERM (Friday through Monday)...
 Warming and drying is expected for the weekend into early next
-week with some weak offshore winds possible during the weekend.
-For Saturday through Monday, high temperatures for coastal areas
+week, with some weak offshore winds possible Saturday and Sunday.
+Offshore flow on Saturday could result in northeast to east winds
+gusting 30 to 40 mph in and below mountain passes and canyons as
+well as the Inland Empire corridor between the Cajon Pass and the
+Santa Ana Mountains. The offshore flow weakens on Sunday.
+
+For Saturday through Tuesday, high temperatures for coastal areas
 will range from 5 to locally 10 degrees above average with inland
 areas around 5 degrees below average to locally 10 degrees below
 average in the mountains. High temperatures for the coast and
@@ -438,37 +432,38 @@ deserts in the lower to mid 80s with the mountains in the 50s and
 &&
 
 .AVIATION...
-201130Z...Coast/Valleys...Areas of intermittent low clouds based
-around 1200-1800 feet MSL extending into western valleys through
-16Z. Low clouds based around 1800-2200 feet MSL to redevelop after
-05Z tonight, extending into parts of inland valleys by early
-Wednesday. Vis reduced 2-5SM inland.
+201700Z...Coast/Valleys...Low clouds based around 1800-2200 feet MSL
+to redevelop after 05Z tonight, extending into parts of inland
+valleys by early Wednesday. There`s a 25-35% chance for cig impacts
+vcnty KONT/KSBD. Vis reduced 2-5SM inland. Clouds may scatter out as
+early as 13-15Z with increase upper level cloud cover, but likely
+more towards 15-17Z.
 
-Otherwise...mostly clear and VFR conditions through 18Z. SCT-BKN
-clouds based around 10 kft develop over inland areas, especially
-mountains, 19-01Z. Isold SHRA over mountains 21-01Z. Random SCT
-clouds thereafter.
+Otherwise...VFR conditions through the period. SCT-BKN clouds based
+around 10 kft develop over inland areas, especially mountains, 19-
+01Z. Isold SHRA over mountains 21-01Z. Random SCT clouds thereafter.
 
 &&
 
 .MARINE...
-A storm system will move through the coastal waters late
-Wednesday through Thursday. Southerly winds Wednesday and
-Wednesday night will shift to westerly then northwest Thursday,
-with isolated and occasional wind gusts exceeding 20 knots. There
-is a 10-20% chance of TSRA Wednesday night through Thursday. No
-additional hazardous marine conditions are expected Thursday night
-through Saturday.
+A storm system that will move through the coastal waters late
+Wednesday through Thursday. Southerly winds Wednesday and Wednesday
+night will shift to westerly then northwest Thursday, with isolated
+and occasional wind gusts exceeding 20 knots. There is a 10-20%
+chance of TSRA Wednesday night through Thursday. No additional
+hazardous marine conditions are expected Thursday night through
+Saturday.
 
 &&
 
 .BEACHES...
 Southerly swells will continue to bring surf of 3 to 5 feet with
-sets to 6 feet, highest at south and southwest-facing beaches today.
-This will bring hazardous swimming conditions for most. While surf
-and rip currents will be elevated, daily high tides will not be
-particularly high, and the threat of coastal flooding is minimal.
-Details are in the Beach Hazards Statement.
+sets to 6 feet, highest at south and southwest-facing beaches today
+(locally to 7 feet at Huntington Beach/The Wedge). This will bring
+hazardous swimming conditions for most. While surf and rip currents
+will be elevated, daily high tides will not be particularly high,
+and the threat of coastal flooding is minimal. See the Beach Hazards
+Statement in effect through tonight.
 
 &&
 
@@ -479,8 +474,8 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this evening for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement until 11 PM PDT this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -488,8 +483,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
