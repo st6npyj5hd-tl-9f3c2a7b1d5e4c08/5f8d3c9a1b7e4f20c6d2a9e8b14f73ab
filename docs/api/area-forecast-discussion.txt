@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-19T22:04:30+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-20T03:51:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,16 +341,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-562
-FXUS66 KSGX 192028
+863
+FXUS66 KSGX 200046
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-128 PM PDT Mon Oct 19 2026
+546 PM PDT Mon Oct 19 2026
 
 .SYNOPSIS...
 Onshore flow will begin to spread cooling inland today with a
@@ -365,6 +367,8 @@ Thursday afternoon. Then dry and warmer for next weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 This afternoon...The inland areas, mountains and deserts are a
 few degrees warmer than at this time yesterday while the coastal
@@ -423,15 +427,16 @@ just above normal in the coastal areas.
 &&
 
 .AVIATION...
-191700Z...Coast...VFR and SKC through late this evening. Low clouds
-and fog much more likely to form after 05Z Tuesday, becoming more
-widespread by 12Z Tuesday. Bases would be around 500-800 feet MSL
-with vis 1-6SM on mesas and higher coastal terrain initially, with
-bases and vis likely rising slightly Tue morning before clouds
-scatter out 16-17Z.
+200000Z...Coast...VFR and SKC through late this evening. Low clouds
+and fog much more likely to form after 05Z, becoming more widespread
+by 12Z. Bases would be around 500-800 feet MSL with vis 1-6SM on
+mesas and higher coastal terrain initially, with bases and vis
+likely rising slightly Tue morning before clouds scatter out 16-17Z.
+Clouds will begin to reform along the coastal waters and in vicinity
+of KSAN and KCRQ by around 04-05Z Wednesday, with bases developing
+at around 2000 feet MSL.
 
-Otherwise...Mostly clear and VFR conditions except for SCT-BKN
-cumulus based around 10 kft over mountains 19-00Z.
+Otherwise...Mostly clear and VFR conditions expected.
 
 &&
 
@@ -449,13 +454,14 @@ local sets to 7 feet, highest at south and southwest-facing beaches
 through Tuesday. This will bring hazardous swimming conditions for
 most. While surf and rip currents will be elevated, daily high tides
 will not be particularly high, and the threat of coastal flooding is
-minimal. Further details can be found in the Beach Hazards Statement.
+minimal. See further details in Beach Hazard Statement.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -470,7 +476,7 @@ PZ...None.
 $$
 
 PUBLIC...PG
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
