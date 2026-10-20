@@ -22,7 +22,7 @@
 <moreWeatherInformation applicable-location="point1">https://forecast.weather.gov/MapClick.php?lat=32.8&amp;lon=-117.06</moreWeatherInformation>
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p12h-n13-1</layout-key>
-      <start-valid-time period-name="Today">2026-10-20T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Today">2026-10-20T09:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Tonight">2026-10-20T18:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Wednesday">2026-10-21T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Wednesday Night">2026-10-21T18:00:00-07:00</start-valid-time>
@@ -39,7 +39,7 @@
 
   <time-layout time-coordinate="local" summarization="12hourly">
     <layout-key>k-p24h-n7-1</layout-key>
-      <start-valid-time period-name="Today">2026-10-20T06:00:00-07:00</start-valid-time>
+      <start-valid-time period-name="Today">2026-10-20T09:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Wednesday">2026-10-21T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Thursday">2026-10-22T06:00:00-07:00</start-valid-time>
       <start-valid-time period-name="Friday">2026-10-23T06:00:00-07:00</start-valid-time>
@@ -134,7 +134,7 @@
 
     <wordedForecast time-layout="k-p12h-n13-1" dataSource="sgxNetcdf" wordGenerator="markMitchell">
       <name>Text Forecast</name>
-        <text>Patchy fog before 11am.  Otherwise, mostly cloudy, then gradually becoming sunny, with a high near 81. Light south wind becoming southwest 5 to 10 mph in the afternoon. </text>
+        <text>Patchy fog before 11am.  Otherwise, mostly sunny, with a high near 81. Southwest wind 5 to 10 mph. </text>
         <text>Increasing clouds, with a low around 62. South wind around 5 mph becoming calm  in the evening. </text>
         <text>Mostly sunny, with a high near 79. East wind 5 to 10 mph becoming southwest in the afternoon. </text>
         <text>A chance of showers, then showers and possibly a thunderstorm after 11pm. Some of the storms could produce heavy rainfall.  Low around 63. South wind 5 to 10 mph.  Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible. </text>
@@ -158,4 +158,4 @@
       <area-description>DW5256 La Mesa, CA</area-description>
       <height datum="mean sea level" height-units="feet">646.75</height>
   </location>
-  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-10-20T04:00:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>64</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>61</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>89</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>38</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.8</value>      </pressure>  </parameters></data></dwml>
+  <moreWeatherInformation applicable-location="point1">https://www.weather.gov/wrh/LocalWeather?wfo=sgx&amp;zone=CAZ050</moreWeatherInformation>  <time-layout time-coordinate="local">  <layout-key>k-p1h-n1-1</layout-key>  <start-valid-time period-name="current">2026-10-20T09:15:00</start-valid-time>  </time-layout>  <parameters applicable-location="point1">  <temperature type="apparent" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>65</value>  </temperature>  <temperature type="dew point" units="Fahrenheit" time-layout="k-p1h-n1-1">  <value>60</value>  </temperature>  <humidity type="relative" time-layout="k-p1h-n1-1">  <value>85</value>  </humidity>  <weather time-layout="k-p1h-n1-1">  <name>Weather Type, Coverage, Intensity</name>  <weather-conditions weather-summary="NA"/>  <weather-conditions>  <value>  <visibility units="statute miles">NA</visibility>  </value>  </weather-conditions>  </weather>  <conditions-icon type="forecast-NWS" time-layout="k-p1h-n1-1">  <name>Conditions Icon</name>  <icon-link>NULL</icon-link>  </conditions-icon>  <direction type="wind" units="degrees true" time-layout="k-p1h-n1-1">  <value>40</value>  </direction>  <wind-speed type="gust" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>  <wind-speed type="sustained" units="knots" time-layout="k-p1h-n1-1">  <value>NA</value>  </wind-speed>      <pressure type="barometer" units="inches of mercury" time-layout="k-p1h-n1-1">          <value>29.85</value>      </pressure>  </parameters></data></dwml>
