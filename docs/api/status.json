@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T16:47:42.589056Z",
+  "generated_at_utc": "2026-10-21T21:21:24.472534Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -16,34 +16,34 @@
       "logical_name": "area-forecast-discussion",
       "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
       "output_path": "/api/area-forecast-discussion.txt",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "38bd87b4b1952690e7b3e3c518d5b60cba15da58d4c62b5a24ead3aefc30499d",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_written": 28414,
+      "sha256": "5fc74c62dcc79072b7f8d19846fb70aa5cc934f59de37a890d1094f9a87b6ceb",
+      "error": null
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": false,
-      "http_status": null,
-      "content_type": null,
-      "bytes_written": null,
-      "sha256": "b0ed7748aaa434e03e1b9b3df1049740cf01051faa980a9edc986c44a8e8f6cc",
-      "error": "Request timed out"
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/xml;charset=UTF-8",
+      "bytes_written": 11095,
+      "sha256": "4f9b5ff2e404dd340e344f125c1a6b969498f60f6b31b80454265da03082cf5c",
+      "error": null
     },
     {
       "logical_name": "hourly-forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&FcstType=digitalDWML",
       "output_path": "/api/hourly-forecast.dwml",
-      "success": false,
-      "http_status": 500,
-      "content_type": "text/html; charset=UTF-8",
-      "bytes_written": null,
-      "sha256": "61aedf8d0ad45de8845652f9cdb8495cc3b73a881fe64fd682167a43812ea58a",
-      "error": "HTTP error: 500"
+      "success": true,
+      "http_status": 200,
+      "content_type": "application/xml",
+      "bytes_written": 62190,
+      "sha256": "43e2fa8f2f830bd30ee1bc1741706dcd4d3154fba9987971bbd6915d13a6ce15",
+      "error": null
     }
   ]
 }

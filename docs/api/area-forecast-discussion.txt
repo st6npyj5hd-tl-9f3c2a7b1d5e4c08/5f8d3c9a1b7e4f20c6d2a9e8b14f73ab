@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-21T11:19:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-21T21:21:23+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -341,29 +341,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-863
-FXUS66 KSGX 211042
+123
+FXUS66 KSGX 211949
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-342 AM PDT Wed Oct 21 2026
+1249 PM PDT Wed Oct 21 2026
 
 .SYNOPSIS...
-A low pressure system moving southward off the California coast will
-bring general cooling through Thursday. It is also expected to
-produce showers and a slight chance of thunderstorms for late
-Wednesday through Thursday is it moves inland through California
-into Nevada. Warmer and drier for next weekend. Offshore flow on
-Saturday could produce gusty northeast to east winds in and below
-mountain passes and canyons as well as the Inland Empire corridor
-between the Cajon Pass and the Santa Ana Mountains. The offshore
-flow weakens for Sunday into early next week.
+Cooler conditions with periods of rain through early Friday morning.
+There are chances of thunderstorms late Wednesday into Thursday
+morning. Warmer and drier for the weekend with offshore flow on
+Saturday. The offshore flow weakens for Sunday into early next week.
+Tides increase over the weekend, remaining elevated through much of
+next week.
 
 &&
 
@@ -371,96 +366,79 @@ flow weakens for Sunday into early next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Friday)...
-The center of a closed low pressure system will move slowly
-eastward to a position near Point Conception by Thursday morning,
-then move more rapidly northeastward into Nevada by late Thursday
-evening. This will continue the cooling trend through Thursday
-with Thursday high temperatures as much as 15 to 20 degrees below
-average for the mountains. High temperatures on Thursday for the
-coast and valleys will be mostly in the 60s to around 70 with the
-mountains in the 40s and 50s.
-
-An initial band of showers and isolated thunderstorms will move
-into coastal areas inland to the mountains during the late
-afternoon and early evening with a second round during the late
-evening and overnight. Instability will increase overnight as
-colder air aloft moves across record warm coastal waters for this
-time in October, around 7 degrees warmer than the long-term
-average. While coverage of precipitation may be less overnight,
-there is greater potential for brief higher-intensity rainfall
-from isolated thunderstorms and stronger showers.
+At 12 PM the main rainfall band was west of Los Angeles County. Rain
+is expected to continue to move south and east, reaching Orange
+County late this afternoon and San Diego County early this evening.
+Two main bands of precipitation are expected with the first one at
+the onset of precipitation and the next early Thursday morning.
+Instability will increase overnight as colder air aloft moves across
+record warm coastal waters for this time in October, around 7
+degrees warmer than the long-term average. While coverage of
+precipitation may be less overnight, there is greater potential for
+brief higher-intensity rainfall from isolated thunderstorms and
+stronger showers.
 
 Additional showers will continue on Thursday along with a slight
-chance of thunderstorms during the afternoon. The greater
-coverage is expected for Orange and southwestern San Bernardino
-Counties from the coast to the mountains. Showers will continue
-into Thursday evening, then decrease and end from the northwest
-late Thursday night and early Friday.
+chance of thunderstorms during the afternoon. The greater coverage
+is expected for Orange and southwestern San Bernardino Counties from
+the coast to the mountains. The upper level flow will turn
+northwesterly Thursday evening, with scattered showers continuing
+for San Diego County into Friday morning, with drier conditions
+further north.
 
 Through Thursday night for Orange and southwestern San Bernardino
-Counties, rainfall is expected to range from around 0.75 inch near
-the coast to 1 to 1.5 inches for the San Bernardino County
-mountains. For San Diego County, rainfall will decrease from
-north to south with 0.75 to locally 1 inch over northwestern San
-Diego County to 0.25 to 0.50 inch across far southern San Diego
-County.
+Counties, rainfall is expected to range from 0.50-0.75 inch near the
+coast to 1 to 1.5 inches for the San Bernardino County mountains.
+For San Diego County, rainfall will decrease from north to south
+with 0.75 to locally 1 inch over northwestern San Diego County to
+0.25 to 0.50 inch across far southern San Diego County. For the most
+part, rainfall rates will peak at 0.20-30 inches per hour, with the
+potential for rates 0.45-0.70 inches where thunderstorms develop.
 
-NBM probabilities for 0.10 inch or more of rainfall through
-Thursday night exceed 90 percent for the coast, valleys, and
-mountains. Probabilities for 0.50 inch or more exceed 80 percent
-from the coast to the mountains. Probabilities for 1 inch or more
-exceed 50 percent from the coast to the mountains for Orange and
-southwestern San Bernardino Counties into northwestern San Diego
-County. Probabilities for 2 inches or more exceed 10 percent from
-inland Orange County to the mountains of southwestern San
-Bernardino County and are as high as 20 to 30 percent on the
-coastal slopes of the San Bernardino County mountains.
-
-Warming and drying will begin on Friday with high temperatures a
-few to around 5 degrees warmer than Thursday.
-
-&&
-
-.LONG TERM (Saturday through Tuesday)...
-Greater warming will occur on Saturday followed by slower warming
-for Sunday and Monday. For next Monday, high temperatures for
-coastal areas will be 5 to locally 10 degrees above average with
-the mountains and deserts a few to around 5 degrees below average.
-High temperatures on Monday will be mostly in the 70s and lower
-80s for the coast and valleys, in the 50s and 60s for the
-mountains, and into the lower to mid 80s for the lower deserts.
+High temperatures will run 5 degrees below average along the coast
+Thursday and 10 to 20 degrees below average inland. Temperatures
+will gradually warm Friday onward. For next Monday, high
+temperatures for coastal areas will be 5 to locally 10 degrees above
+average with the mountains and deserts a few to around 5 degrees
+below average. Additionally, the flow will turn offshore on
+Saturday. Gusty northeast to east winds will develop in and below
+mountain passes and canyons as well as the Inland Empire corridor
+between the Cajon Pass and the Santa Ana Mountains. The offshore
+flow weakens for Sunday into early next week.
 
 &&
 
 .AVIATION...
-210530Z...
-Coast/Valleys...Areas of low clouds based around 1800-2200 feet
-MSL will increase through 10Z, then decrease after 12Z.
-
-Region-wide...A band of -SHRA/RA will move through the region
-from west to east 21-06Z Wednesday afternoon and evening. A few
-hours of cigs 2000-3000 feet and intermittent MVFR vis expected
-for each TAF site in the coastal basin. A few embedded heavier
-showers may produce local IFR conditions, mainly north of SD
-County. Winds shift from south to southwest as the precip band
-passes through.
+211900Z...SCT-BKN cumulus cloud layers around 1-8 kft feet are
+covering most of the region. The first band of +SHRA/RA with a few
+embedded TSRA are expected to reach northern Orange County around 20-
+21z, reaching SD County by 00z, and passing through the region from
+west to east into the mountains through around 08z. Cigs will drop
+to 2500-3500 feet MSL and vis 3-6SM during this band`s passage. A
+few embedded +SHRA/TSRA could produce brief and local IFR conditions
+and locally gusty winds. Winds shift from south to southwest and
+cigs lift to about 3000 feet MSL. SCT +SHRA/SHRA/TSRA are expected
+to continue through the coastal basin through the TAF period,
+bringing intermittent MVFR/IFR conditions and briefly gusty winds.
 
 &&
 
 .MARINE...
-A storm system will move through the coastal waters late today
-through Thursday. Southerly winds today will shift to
-southwesterly tonight, then westerly Thursday, with occasional
-wind gusts exceeding 20 knots. There is a 10-20% chance of TSRA
-tonight through Thursday. No additional hazardous marine
-conditions are expected Thursday night through Sunday.
+A storm system is moving through the outer waters, bringing
+widespread light to moderate rain. Southerly winds this afternoon
+will shift to southwest tonight, then westerly Thursday, with
+occasional wind gusts exceeding 20 knots. A few rumbles of thunder
+are possible within the first round of rain Thereafter, more rounds
+of showers with a 10-20% chance for a few thunderstorms at times
+through Friday. No hazardous marine conditions are expected Friday
+night through Sunday.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -472,8 +450,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE...MM
+PUBLIC...CO
+AVIATION/MARINE...Westerink
 
 
 </pre>
