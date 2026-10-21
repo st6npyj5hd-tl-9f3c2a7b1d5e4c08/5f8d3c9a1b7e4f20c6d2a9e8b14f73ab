@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T11:19:45.993021Z",
+  "generated_at_utc": "2026-10-21T16:47:42.589056Z",
   "sources": [
     {
       "logical_name": "school-calendar",
@@ -16,34 +16,34 @@
       "logical_name": "area-forecast-discussion",
       "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
       "output_path": "/api/area-forecast-discussion.txt",
-      "success": true,
-      "http_status": 200,
-      "content_type": "text/html; charset=UTF-8",
-      "bytes_written": 29217,
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
       "sha256": "38bd87b4b1952690e7b3e3c518d5b60cba15da58d4c62b5a24ead3aefc30499d",
-      "error": null
+      "error": "Request timed out"
     },
     {
       "logical_name": "forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
       "output_path": "/api/forecast.dwml",
-      "success": true,
-      "http_status": 200,
-      "content_type": "text/xml;charset=UTF-8",
-      "bytes_written": 10966,
+      "success": false,
+      "http_status": null,
+      "content_type": null,
+      "bytes_written": null,
       "sha256": "b0ed7748aaa434e03e1b9b3df1049740cf01051faa980a9edc986c44a8e8f6cc",
-      "error": null
+      "error": "Request timed out"
     },
     {
       "logical_name": "hourly-forecast-dwml",
       "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&FcstType=digitalDWML",
       "output_path": "/api/hourly-forecast.dwml",
-      "success": true,
-      "http_status": 200,
-      "content_type": "application/xml",
-      "bytes_written": 61016,
+      "success": false,
+      "http_status": 500,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_written": null,
       "sha256": "61aedf8d0ad45de8845652f9cdb8495cc3b73a881fe64fd682167a43812ea58a",
-      "error": null
+      "error": "HTTP error: 500"
     }
   ]
 }
