@@ -98,8 +98,16 @@ Settings are deployment environment variables, finite 1–168 hours. These are
 warning policies, not NWS timeliness guarantees. Adjust only with owner review.
 A recent document-generation time is weaker evidence than an issuance time.
 DWML therefore includes `issuance_unproven` even when within its age threshold.
-All forecast validity times in the past adds `forecast_expired`. A future time
-more than 15 minutes ahead triggers clock/source uncertainty.
+`forecast_expired` is emitted only when **every** forecast interval has a reliable
+explicit end at or before the adapter's clock time. A start is never substituted
+for an unknown end. If any end is missing, invalid or lacks an offset, the result
+instead includes `forecast_expiration_uncertain`; known ends in other intervals
+cannot establish that the whole forecast has expired. A future explicit end also
+prevents an overall expiration warning. This preserves uncertain applicability
+without implying indefinite validity. Source-age (`forecast_stale`) and
+collection-age (`collection_stale`) warnings are evaluated independently.
+A future generation/issuance time more than 15 minutes ahead triggers clock/source
+uncertainty.
 
 Weather calls fetch the source and then status with `Cache-Control: no-cache`.
 They compute SHA-256 over the exact fetched bytes and compare against status.

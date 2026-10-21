@@ -1,4 +1,5 @@
 import json
+from html import escape
 from xml.etree import ElementTree as ET
 
 import pytest
@@ -139,6 +140,59 @@ def test_afd_actual_html(fixture_bytes):
 def test_afd_failure(raw):
     with pytest.raises(DataError):
         parse_afd(raw)
+
+
+def test_afd_ambiguous_products(fixture_bytes):
+    product = escape(parse_afd(fixture_bytes("area-forecast-discussion.txt")).text)
+    raw = f"<html><pre>{product}</pre><pre>{product}</pre></html>".encode()
+    with pytest.raises(DataError) as exc:
+        parse_afd(raw)
+    assert exc.value.code == "afd_extraction"
+    assert "uniquely identify" in exc.value.message
+
+
+@pytest.mark.parametrize(
+    "issuance",
+    [
+        "450 AM PDT Wed Oct 20 2026",  # Wrong weekday.
+        "450 AM PST Tue Oct 20 2026",  # October is still daylight time.
+        "230 AM PST Sun Mar 8 2026",  # Nonexistent spring-forward local time.
+        "1230 AM PST Sun Nov 1 2026",  # Standard time has not started yet.
+        "450 AM PDT Sat Oct 32 2026",  # Invalid calendar date.
+    ],
+)
+def test_invalid_afd_issuance_is_preserved_as_unknown(fixture_bytes, issuance):
+    raw = fixture_bytes("area-forecast-discussion.txt").replace(
+        b"450 AM PDT Tue Oct 20 2026", issuance.encode()
+    )
+    result = parse_afd(raw)
+    assert result.issued_at is None
+    assert result.issuance_text == issuance
+    assert issuance in result.text and ".SYNOPSIS..." in result.text
+
+
+@pytest.mark.parametrize("zone,offset", [("PDT", "-07:00"), ("PST", "-08:00")])
+def test_afd_repeated_dst_hour_remains_distinct(fixture_bytes, zone, offset):
+    raw = fixture_bytes("area-forecast-discussion.txt").replace(
+        b"450 AM PDT Tue Oct 20 2026", f"130 AM {zone} Sun Nov 1 2026".encode()
+    )
+    assert parse_afd(raw).issued_at == f"2026-11-01T01:30:00{offset}"
+
+
+@pytest.mark.parametrize(
+    "payload",
+    [
+        b"<dwml>" + b"<nested>" * 21 + b"</nested>" * 21 + b"</dwml>",
+        b"<dwml>" + b"<node/>" * 30000 + b"</dwml>",
+        b'<dwml large="' + b"x" * 8192 + b'"/>',
+        b"<dwml><data><parameters>" + b"<temperature/>" * 65 + b"</parameters></data></dwml>",
+    ],
+    ids=["depth", "element-count", "attributes", "parameter-series"],
+)
+def test_xml_structural_limits(payload):
+    with pytest.raises(DataError) as exc:
+        parse_dwml(payload)
+    assert exc.value.code == "structure_limit"
 
 
 def test_status_interpretation(fixture_bytes):

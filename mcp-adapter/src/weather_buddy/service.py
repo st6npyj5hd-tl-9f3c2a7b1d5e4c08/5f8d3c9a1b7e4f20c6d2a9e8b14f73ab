@@ -203,16 +203,21 @@ class WeatherService:
                             "forecast_time_uncertain",
                             "Some validity timestamps cannot be converted reliably; retain source times and do not infer offsets.",
                         )
-                    times = [
-                        timestamp(i.end or i.start)
+                    # A start establishes when a period begins, never when it expires.
+                    # Every interval needs a reliable explicit end before we can say
+                    # the entire forecast has ended; retain uncertainty otherwise.
+                    ends = [
+                        timestamp(i.end)
                         for layout in data.layouts.values()
                         for i in layout.intervals
                     ]
-                    valid = [t for t in times if t]
-                    if valid and max(valid) < now:
+                    if any(end is None for end in ends):
                         warn(
-                            "forecast_expired", "All supplied forecast validity times have passed."
+                            "forecast_expiration_uncertain",
+                            "Some forecast interval ends are missing or cannot be interpreted reliably. Their expiration is uncertain; do not use interval starts as expiration times.",
                         )
+                    elif ends and max(ends) <= now:
+                        warn("forecast_expired", "All forecast intervals have explicitly ended.")
                     if any(v is None for p in data.parameters for v in p.values):
                         warn(
                             "missing_values",

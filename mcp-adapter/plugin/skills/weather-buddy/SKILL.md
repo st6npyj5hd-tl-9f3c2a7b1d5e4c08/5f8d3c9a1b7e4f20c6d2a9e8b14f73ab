@@ -25,6 +25,10 @@ available; reconcile tool names and capabilities with these rules.
    For errors, explain the actionable message; do not invent a substitute forecast.
    For degraded data, identify the timestamp and limitations before a qualified
    historical/snapshot summary. Do not use expired data as a current forecast.
+   `forecast_expiration_uncertain` means some intervals lack reliable explicit
+   ends. A passed start does not establish expiration; an unknown end does not
+   establish indefinite validity. Preserve that uncertainty when discussing the
+   relevant period, and still disclose source-age and collection-age warnings.
 5. `collection_attempt_at` describes the publisher's latest attempt;
    `generated_at` is DWML document generation; `issued_at` is identifiable AFD
    issuance when available. `last_success_at: null` means unknown. A successful

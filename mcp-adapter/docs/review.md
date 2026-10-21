@@ -1,7 +1,8 @@
 # Implementation review and test report
 
-Validation date: 2026-10-20. Review branch: `feat/weather-buddy-mcp`.
+Validation date: 2026-10-21 (private-review fixes). Review branch: `feat/weather-buddy-mcp`.
 Baseline: remote `main` at `f4b70f2d901cc15b4b186c8b6342ad3c6a323040`.
+Reviewed implementation baseline: `f4098266d27c9d0c1a944b2a5b5f55c447b68eee`.
 Development used a separate checkout to preserve unrelated uncommitted work in
 the original workspace. No original files were restored, edited or committed.
 
@@ -15,25 +16,24 @@ its temporary absolute uv executable and `.venv/bin/` equivalents of `uv run`.
 
 | Command | Result |
 | --- | --- |
-| `uv sync --locked` | Passed; lock and editable package build verified |
-| `.venv/bin/pytest -q` | **63 passed, 4 skipped** (opt-in live cases intentionally skipped) |
-| `WEATHER_LIVE_TESTS=1 .venv/bin/pytest -q -m live -rs` | **4 passed, 63 deselected**; all four real Pages contracts passed |
+| `uv sync --locked` | Initial baseline check passed; dependencies and lock unchanged by this review fix |
+| `.venv/bin/pytest -q` | **88 passed, 4 skipped** (opt-in live cases intentionally skipped) |
+| `WEATHER_LIVE_TESTS=1 .venv/bin/pytest -q -m live -rs` | **4 passed, 88 deselected**; all four real Pages contracts passed |
 | `.venv/bin/ruff check src tests scripts` | Passed |
 | `.venv/bin/ruff format --check src tests scripts` | Passed; 15 Python files |
-| `.venv/bin/python scripts/build_artifacts.py` | Plugin zip and four frozen fixture oracle JSON responses built |
-| `git diff --cached --check -- . ':!mcp-adapter/tests/fixtures/**'` (repository root) | Passed; exact source fixtures intentionally retain upstream whitespace |
-| `git diff --exit-code -- ../README.md ../docs ../scripts ../requirements.txt ../.github/workflows/fetch-and-deploy.yml` | Passed; no tracked production changes |
+| `.venv/bin/python scripts/build_artifacts.py` | Plugin zip and four frozen fixture oracle JSON responses rebuilt; ZIP integrity, exact packaged-file bytes and Result schema validation of all four oracles passed |
+| `git diff --check` | Passed for the review changes; original fixture whitespace is unchanged |
+| `git diff --exit-code f4b70f2d901cc15b4b186c8b6342ad3c6a323040 -- . ':!mcp-adapter/**' ':!.github/workflows/validate-weather-mcp.yml'` (repository root) | Passed; additionally compared all 18 original file blob hashes byte for byte |
 
-No outstanding test failures. During setup, an offline sync against a deliberately
-empty temporary cache could not resolve the hatchling build dependency; the final
-normal locked sync passed. Dependency installation needs registry access or a
-populated cache; **the test suite does not need live weather/network access**.
+No outstanding local test failures. Dependency installation needs registry access
+or a populated cache; **the deterministic test suite does not need live weather or
+network access**. No dependency or SDK change was needed for the review fix.
 
 The integration tests use the official MCP ClientSession and Streamable HTTP
 client against the real ASGI transport implementation with controlled upstream
 HTTP responses. They exercise initialization, discovery, every tool's schemas,
 representative calls, `isError`, read-only hints, unknown tools, input rejection,
-and host protection. This is a standards-compliant client equivalent to Inspector;
+Host/Origin protection and declared, streamed and understated request-body limits. This is a standards-compliant client equivalent to Inspector;
 no Inspector GUI or ChatGPT deployment is claimed.
 
 Parser coverage includes original general/hourly XML scalar and validity-array
@@ -49,6 +49,68 @@ schemas. `tools.json` is checked against actual registration.
 The optional live pass verifies retrieval/parsing, not correctness of NWS forecasts,
 new issuance, Plus account access or Sites deployment. CI runs only the deterministic
 suite and build; it never fetches production weather or deploys/commits anything.
+
+## Expiration review fix and reproduction
+
+The previous code substituted an interval's start for a missing end, then declared
+the whole forecast expired after the latest such timestamp. Before changing the
+implementation, the new regression reproduced `forecast_expired` at
+`2026-10-26T14:00:00Z` even though the final Monday period starts at
+`2026-10-26T06:00:00-07:00`, has `end=null`, and retains its `"82"` Fahrenheit high.
+
+The revised rule requires a reliable explicit end for **every** forecast interval
+before asserting whole-forecast expiration. All such ends must be at or before
+the check time. Any missing, invalid or offset-free end instead produces
+`forecast_expiration_uncertain`. A start never supplies an end. This warning does
+not establish indefinite applicability or freshness.
+
+The fixture replay now returns Monday's unchanged period and high with
+`forecast_expiration_uncertain`, `forecast_stale`, `collection_stale`,
+`issuance_unproven` and `missing_values`; it does **not** return `forecast_expired`.
+Thus source age, collection age and uncertain expiration remain distinct. The
+technical skill and human-readable contract explain this distinction.
+
+New committed regressions verify the exact Monday case; mixed valid/missing,
+malformed or offset-free ends; fully established ends at the expiration boundary
+and one hour later; and an explicit end still in the future. The old stale-general
+fixture assertion was corrected: stale source data does not establish expiration.
+No source fixture was edited to achieve these results.
+
+## Requirements coverage matrix
+
+“Pass locally” below applies to the Python adapter, controlled HTTP fixtures and
+local ASGI transport. It does not validate the eventual hosted integration.
+
+| Requirement | Evidence | Coverage / remaining gate |
+| --- | --- | --- |
+| Production isolation | Pinned comparison and blob hashes for all 18 original files, including original workflow, collector, OpenAPI, snapshots and calendar | Pass; only adapter review files changed |
+| Four read-only tools; strict arguments; calendar excluded | `test_streamable_http_contract`, `test_no_arbitrary_targets`, `test_exported_contract_matches_server` | Pass locally; exact tool catalog unchanged |
+| Original DWML content, units and precision | `test_general_source_fidelity`, `test_hourly_all_parameters`, missing-temperature and nested-hazard tests | Pass for committed fixtures and negative cases |
+| Final period with unknown end | `test_started_final_period_without_end_is_not_expired`, exact Monday/82 F fixture replay at 2026-10-26T14:00:00Z | Pass; uncertain expiration, separate age warnings |
+| Mixed known/unknown ends | `test_mixed_known_and_unknown_ends_preserve_uncertainty` (missing, invalid and offset-free end variants) | Pass; no whole-forecast expiration inferred |
+| Established expiration | `test_explicitly_ended_forecast_is_expired` (exact end and one hour later), `test_future_explicit_end_is_not_expired` | Pass; explicit past ends still expire; future ends do not |
+| Time alignment, timezone and DST | Layout comparisons, namespace/nil tests, `test_local_dst`, `test_dst_slots_do_not_merge` | Pass locally; offsets and repeated hours preserved |
+| AFD HTML/plain-text extraction and ambiguity | `test_afd_actual_html`, `test_afd_failure`, new `test_afd_ambiguous_products` | Pass; multiple plausible products fail explicitly |
+| AFD issuance validation | New `test_invalid_afd_issuance_is_preserved_as_unknown` (weekday, wrong seasonal offset, nonexistent spring hour, premature standard time, invalid date); valid repeated-hour control | Pass; original issuance text retained, unreliable parsed time unknown |
+| XML structural bounds | New `test_xml_structural_limits` for depth >20, >30,000 elements, >8 KiB attributes and >64 series; existing DTD/entity rejection | Pass locally; bounded explicit errors |
+| Fixed HTTP targets, redirects, timeouts and source/output limits | `test_failures`, total-deadline, fixed-target and normalized-output tests | Pass locally |
+| Host and Origin rejection | `test_transport_host_protection`, new `test_transport_rejects_untrusted_origin` (foreign, null and lookalike origin) | Pass locally; no source requests on rejection |
+| Request-body bounds | New `test_transport_rejects_oversized_request_body` with declared length, chunked data without Content-Length, and understated length | Pass locally; HTTP 413, no source requests |
+| Source age, collection age, partial failures and cache inconsistency | Stale/success, failed-fetch/hash-match, missing status and generation-mismatch tests | Pass; independent warnings preserved |
+| MCP protocol and schemas | Official SDK/client initialization, discovery, tool calls, schema checks, failure and input rejection | Pass locally; exactly four read-only tools |
+| Plugin packaging and artifact build | Vendored official manifest schemas; skill/contract checks; rebuilt ZIP and four schema-valid fixture oracles | Prepared and checked locally; no installation validated |
+| Read-only live Pages contracts | Four explicit opt-in contract checks passed on 2026-10-21 | Pass for observed responses; does not prove new issuance or hosted egress |
+| Sites runtime implementation and fixture/schema parity | Version-controlled build procedure and Python oracle only | **Pending**; runtime adaptation is not implemented or validated |
+| Hosted authentication and connectivity | Local Host/Origin tests are not hosted authentication or egress tests | **Pending** owner-authorized hosted implementation and verification |
+| Real private plugin installation and connection | Local package exists; no real connection installed by this work | **Pending** in the owner's ChatGPT account |
+| Original GPT instruction reconciliation | Technical skill explicitly requires owner-provided instructions | **Pending** original instructions, references and style comparison |
+| End-to-end ChatGPT acceptance | Six scenarios in `migration-regression.md` | **Pending** actual ChatGPT tool/skill selection and behavior testing |
+
+**The migration is not deployment-ready.** Passing local tests does not validate
+Sites implementation, hosted authentication/connectivity, private plugin
+installation, original-instruction reconciliation or ChatGPT acceptance. These
+gates require separate owner authorization and recorded validation before use.
+No merge, deployment, publication or production integration change was performed.
 
 ## Added file inventory
 

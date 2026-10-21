@@ -5,6 +5,11 @@ replaces the four weather Actions with MCP tools while leaving the scheduled
 publisher, Pages files, OpenAPI schema, calendar and original GPT untouched.
 Original GPT instructions are not included and must be supplied by the owner.
 
+The migration is **not deployment-ready**: Sites runtime implementation and parity,
+hosted authentication/connectivity, real plugin installation, original-instruction
+reconciliation and end-to-end ChatGPT acceptance remain unvalidated. Local test
+and package checks do not satisfy these gates.
+
 ```text
 ChatGPT → private Weather Buddy plugin + skill → MCP adapter
                                                     ↓ GET only

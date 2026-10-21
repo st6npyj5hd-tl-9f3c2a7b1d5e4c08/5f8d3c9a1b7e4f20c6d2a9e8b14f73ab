@@ -69,3 +69,56 @@ async def test_transport_host_protection(service_factory):
             )
             assert r.status_code == 421
     assert not requests
+
+
+@pytest.mark.parametrize(
+    "origin", ["https://evil.invalid", "null", "http://localhost.evil.invalid:8000"]
+)
+async def test_transport_rejects_untrusted_origin(service_factory, origin):
+    service, requests = service_factory()
+    app = create_app(service)
+    async with app.router.lifespan_context(app):
+        async with httpx.AsyncClient(transport=httpx.ASGITransport(app)) as http:
+            r = await http.post(
+                "http://localhost/mcp/",
+                headers={"Origin": origin},
+                json={"jsonrpc": "2.0", "id": 1, "method": "tools/list"},
+            )
+            assert r.status_code == 403
+    assert not requests
+
+
+@pytest.mark.parametrize("delivery", ["content-length", "chunked", "understated-length"])
+async def test_transport_rejects_oversized_request_body(service_factory, delivery):
+    service, requests = service_factory()
+    app = create_app(service)
+    payload = json.dumps(
+        {
+            "jsonrpc": "2.0",
+            "id": 1,
+            "method": "tools/call",
+            "params": {"name": "getDwmlForecast", "arguments": {}},
+            "_meta": {"padding": "x" * 16384},
+        }
+    ).encode()
+
+    async def chunks():
+        yield payload[:8192]
+        yield payload[8192:]
+
+    headers = {"Content-Type": "application/json", "Accept": "application/json, text/event-stream"}
+    if delivery == "understated-length":
+        headers["Content-Length"] = "1"
+    async with app.router.lifespan_context(app):
+        async with httpx.AsyncClient(transport=httpx.ASGITransport(app)) as http:
+            request = http.build_request(
+                "POST",
+                "http://localhost/mcp/",
+                headers=headers,
+                content=payload if delivery == "content-length" else chunks(),
+            )
+            if delivery == "chunked":
+                assert "content-length" not in request.headers
+            r = await http.send(request)
+            assert r.status_code == 413
+    assert not requests

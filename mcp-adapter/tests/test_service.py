@@ -1,5 +1,6 @@
 import json
-from datetime import timedelta
+from datetime import datetime, timedelta, timezone
+from xml.etree import ElementTree as ET
 
 import httpx
 import pytest
@@ -30,8 +31,64 @@ async def test_stale_despite_success(service_factory):
     service, _ = service_factory(now=NOW + timedelta(days=10))
     result = await service.call("getDwmlForecast")
     assert result.provenance.latest_attempt_success
-    assert {"forecast_stale", "collection_stale", "forecast_expired"} <= codes(result)
+    assert {"forecast_stale", "collection_stale", "forecast_expiration_uncertain"} <= codes(result)
+    assert "forecast_expired" not in codes(result)
     assert result.status == "degraded" and result.data
+
+
+async def test_started_final_period_without_end_is_not_expired(service_factory):
+    now = datetime(2026, 10, 26, 14, tzinfo=timezone.utc)
+    service, _ = service_factory(now=now)
+    result = await service.call("getDwmlForecast")
+    highs = next(
+        p
+        for p in result.data.parameters
+        if p.element == "temperature" and p.attributes.get("type") == "maximum"
+    )
+    monday = result.data.layouts[highs.time_layout].intervals[-1]
+    assert monday.period_name == "Monday"
+    assert monday.start == "2026-10-26T06:00:00-07:00"
+    assert datetime.fromisoformat(monday.start) < now
+    assert monday.end is None and highs.values[-1] == "82"
+    assert "forecast_expired" not in codes(result)
+    assert {"forecast_expiration_uncertain", "forecast_stale", "collection_stale"} <= codes(result)
+    assert result.status == "degraded"
+
+
+@pytest.mark.parametrize("unknown_end", [None, "invalid", "2026-10-20T10:00:00"])
+async def test_mixed_known_and_unknown_ends_preserve_uncertainty(
+    service_factory, fixture_bytes, unknown_end
+):
+    root = ET.fromstring(fixture_bytes("hourly-forecast.dwml"))
+    ends = root.findall("data/time-layout/end-valid-time")
+    assert len(ends) == 168
+    ends[-1].text = unknown_end
+    service, _ = service_factory(
+        {"hourly-forecast.dwml": ET.tostring(root)}, now=NOW + timedelta(days=10)
+    )
+    result = await service.call("getHourlyDwmlForecast")
+    assert "forecast_expired" not in codes(result)
+    assert {"forecast_expiration_uncertain", "forecast_stale", "collection_stale"} <= codes(result)
+    assert result.data is not None
+
+
+@pytest.mark.parametrize("after_end", [timedelta(0), timedelta(hours=1)])
+async def test_explicitly_ended_forecast_is_expired(service_factory, fixture_bytes, after_end):
+    root = ET.fromstring(fixture_bytes("hourly-forecast.dwml"))
+    last_end = max(
+        datetime.fromisoformat(e.text) for e in root.findall("data/time-layout/end-valid-time")
+    )
+    service, _ = service_factory(now=last_end + after_end)
+    result = await service.call("getHourlyDwmlForecast")
+    assert {"forecast_expired", "forecast_stale", "collection_stale"} <= codes(result)
+    assert "forecast_expiration_uncertain" not in codes(result)
+
+
+async def test_future_explicit_end_is_not_expired(service_factory):
+    service, _ = service_factory()
+    result = await service.call("getHourlyDwmlForecast")
+    assert "forecast_expired" not in codes(result)
+    assert "forecast_expiration_uncertain" not in codes(result)
 
 
 async def test_failed_hash_matches_is_not_fresh(service_factory, fixture_bytes):
