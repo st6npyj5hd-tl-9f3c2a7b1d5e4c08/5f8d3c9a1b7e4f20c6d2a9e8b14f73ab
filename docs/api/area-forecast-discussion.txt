@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-22T11:19:09+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-22T16:46:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-162
-FXUS66 KSGX 220916
+852
+FXUS66 KSGX 221149
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-216 AM PDT Thu Oct 22 2026
+449 AM PDT Thu Oct 22 2026
 
 .SYNOPSIS...
 Showers and a slight chance of thunderstorms will continue
@@ -368,6 +368,8 @@ elevated through much of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Saturday)...
 Rainfall that has occurred across southwestern California since
@@ -435,31 +437,32 @@ temperatures a few degrees cooler.
 &&
 
 .AVIATION...
-220530Z...SCT SHRA and isolated TSRA will move through the region
-overnight through Thursday. Cigs down to 1500-2500 feet MSL and vis
-3-5SM at times, such as in heavier SHRA or TSRA, otherwise bases
-will be 3000-4000 feet MSL. Partial obscuration of mountains, but
-improving vis there overnight. Onshore winds over higher terrain 25-
-30 kts, creating MOD up/downdrafts in lee of ridges.
+221130Z...SCT SHRA and isolated TSRA this morning, decreasing in
+frequency after 15Z, but continuing through about 22Z. Cigs down to
+1500-2500 feet MSL and vis 3-5SM at times through 16Z, such as in
+heavier SHRA or TSRA, otherwise bases will be 3500-4500 feet MSL.
+Partial obscuration of mountains this morning, but improving vis
+during the day. Isolated -SHRA after 22Z. Onshore winds in mountains
+into deserts 25-30 kts, creating MOD up/downdrafts in lee of ridges.
 
 &&
 
 .MARINE...
-Occasional southwest wind gusts to exceed 20 knots through Thursday.
-Isolated thunderstorms are probable through Thursday. Any
-thunderstorm will produce lightning and intense rain, along with
-gusty winds and choppy seas. An isolated waterspout or two cannot be
-ruled out. No hazardous marine conditions are expected late Friday
-through Monday.
+A storm system will slowly move through the coastal waters today
+through Friday. There is a slight chance of thunderstorms today. Any
+thunderstorm is capable of producing gusty, erratic winds, choppy
+seas, lightning, briefly heavy rainfall with reduced visibility, and
+waterspouts. Isolated northwest wind gusts will occasionally exceed
+20 knots Friday. No hazardous marine conditions are expected Friday
+night through Monday.
 
 &&
 
 .BEACHES...
 Astronomical high tides will create minor to moderate coastal
-flooding once again starting Saturday. Tides are currently running
-1.4-1.6 feet above predictions. Morning high tides could reach 7
-feet Saturday morning and are likely to exceed 7.5 feet by Monday
-morning.
+flooding starting Saturday. Tides are 1.4-1.6 feet above
+predictions. Morning high tides could reach 7 feet Saturday morning
+and are likely to exceed 7.5 feet by Monday morning.
 
 &&
 
@@ -473,9 +476,9 @@ encouraged to report significant weather conditions.
 CA...Wind Advisory until 6 PM PDT this evening for San Bernardino
      County Mountains.
 
-     Wind Advisory from 6 AM this morning to 6 PM PDT this evening
-     for Riverside County Mountains-San Diego County Deserts-San
-     Diego County Mountains-San Gorgonio Pass near Banning.
+     Wind Advisory until 6 PM PDT this evening for Riverside County
+     Mountains-San Diego County Deserts-San Diego County
+     Mountains-San Gorgonio Pass near Banning.
 
      Wind Advisory until 6 AM PDT early this morning for Apple and
      Lucerne Valleys.
