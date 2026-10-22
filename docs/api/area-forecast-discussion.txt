@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-21T21:21:23+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-22T03:41:53+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-123
-FXUS66 KSGX 211949
+129
+FXUS66 KSGX 220020
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1249 PM PDT Wed Oct 21 2026
+520 PM PDT Wed Oct 21 2026
 
 .SYNOPSIS...
 Cooler conditions with periods of rain through early Friday morning.
@@ -365,6 +365,9 @@ next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 At 12 PM the main rainfall band was west of Los Angeles County. Rain
 is expected to continue to move south and east, reaching Orange
@@ -409,29 +412,45 @@ flow weakens for Sunday into early next week.
 &&
 
 .AVIATION...
-211900Z...SCT-BKN cumulus cloud layers around 1-8 kft feet are
-covering most of the region. The first band of +SHRA/RA with a few
-embedded TSRA are expected to reach northern Orange County around 20-
-21z, reaching SD County by 00z, and passing through the region from
-west to east into the mountains through around 08z. Cigs will drop
-to 2500-3500 feet MSL and vis 3-6SM during this band`s passage. A
-few embedded +SHRA/TSRA could produce brief and local IFR conditions
-and locally gusty winds. Winds shift from south to southwest and
-cigs lift to about 3000 feet MSL. SCT +SHRA/SHRA/TSRA are expected
-to continue through the coastal basin through the TAF period,
-bringing intermittent MVFR/IFR conditions and briefly gusty winds.
+220015Z...SCT-BKN low clouds around 3-5 kft will increase in
+coverage over the next few hours as precipitation moves in. The
+first band of +SHRA/RA is currently pushing into Orange County and
+will pass through the coastal basin and mountains, exiting to the
+east by around 08z. Cigs will drop to 2500-3500 feet MSL and vis
+3- 6SM during this band`s passage. A few embedded +SHRA/TSRA could
+produce brief and local IFR conditions and locally gusty winds.
+Thereafter, winds shift from south to southwest and cigs lift to
+about 3000-4000 feet MSL. Another round of +SHRA/SHRA is expected
+for the coastal basin (mainly SD County) around 10-14z with
+intermittent MVFR conditions once again. Slight chance TSRA with
+this round as well. Widely SCT +SHRA/SHRA/TSRA will continue for
+the coastal basin and mtns through the Thursday evening, bringing
+intermittent MVFR/IFR conditions and briefly gusty winds.
 
 &&
 
 .MARINE...
-A storm system is moving through the outer waters, bringing
-widespread light to moderate rain. Southerly winds this afternoon
-will shift to southwest tonight, then westerly Thursday, with
-occasional wind gusts exceeding 20 knots. A few rumbles of thunder
-are possible within the first round of rain Thereafter, more rounds
-of showers with a 10-20% chance for a few thunderstorms at times
-through Friday. No hazardous marine conditions are expected Friday
-night through Sunday.
+A storm system is moving through the outer waters, bringing rounds
+of light to moderate rain showers. Southerly winds currently will
+shift to southwest tonight, then westerly Thursday, with occasional
+wind gusts exceeding 20 knots. The first round of showers is
+currently passing over the waters. A rumble of thunder or two may
+occur in the next few hours. Thereafter, more rounds of showers will
+develop tonight into Thursday with a 15-20% chance for a few
+thunderstorms through Friday morning. Any storms that develop may
+produce lightning, gusty winds, and choppy seas. An isolated
+waterspout or two cannot be ruled out. No hazardous marine
+conditions are expected late Friday through Monday.
+
+.BEACHES...
+Astronomical high tides will create minor to moderate coastal
+flooding once again starting Saturday. Tides are currently running
+1.4-1.6 feet above predictions. Morning high tides could reach 7
+feet Saturday morning and may exceed 7.5 feet by next Monday morning.
+
+&&
+
+W
 
 &&
 
@@ -451,7 +470,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE...Westerink
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
