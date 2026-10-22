@@ -1,0 +1,2772 @@
+{
+  "tools": [
+    {
+      "name": "getDwmlForecast",
+      "description": "Read the NWS San Diego general forecast snapshot for 32.8007,-117.0497, with validity layouts, units and freshness warnings. Not live observations.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "outputSchema": {
+        "$defs": {
+          "Discussion": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "discussion",
+                "default": "discussion",
+                "title": "Kind",
+                "type": "string"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issued At"
+              },
+              "issuance_text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issuance Text"
+              },
+              "text": {
+                "title": "Text",
+                "type": "string"
+              }
+            },
+            "required": [
+              "issued_at",
+              "issuance_text",
+              "text"
+            ],
+            "title": "Discussion",
+            "type": "object"
+          },
+          "Failure": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              },
+              "retryable": {
+                "default": false,
+                "title": "Retryable",
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Failure",
+            "type": "object"
+          },
+          "Forecast": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "forecast",
+                "default": "forecast",
+                "title": "Kind",
+                "type": "string"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Node"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locations": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Locations",
+                "type": "array"
+              },
+              "layouts": {
+                "additionalProperties": {
+                  "$ref": "#/$defs/Layout"
+                },
+                "title": "Layouts",
+                "type": "object"
+              },
+              "parameters": {
+                "items": {
+                  "$ref": "#/$defs/Parameter"
+                },
+                "title": "Parameters",
+                "type": "array"
+              },
+              "excluded_observation_blocks": {
+                "title": "Excluded Observation Blocks",
+                "type": "integer"
+              }
+            },
+            "required": [
+              "generated_at",
+              "source",
+              "locations",
+              "layouts",
+              "parameters",
+              "excluded_observation_blocks"
+            ],
+            "title": "Forecast",
+            "type": "object"
+          },
+          "Interval": {
+            "additionalProperties": false,
+            "properties": {
+              "start": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start"
+              },
+              "end": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End"
+              },
+              "start_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start Local"
+              },
+              "end_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End Local"
+              },
+              "period_name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Period Name"
+              }
+            },
+            "required": [
+              "start",
+              "end",
+              "start_local",
+              "end_local"
+            ],
+            "title": "Interval",
+            "type": "object"
+          },
+          "Layout": {
+            "additionalProperties": false,
+            "properties": {
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "intervals": {
+                "items": {
+                  "$ref": "#/$defs/Interval"
+                },
+                "title": "Intervals",
+                "type": "array"
+              }
+            },
+            "required": [
+              "attributes",
+              "intervals"
+            ],
+            "title": "Layout",
+            "type": "object"
+          },
+          "Node": {
+            "additionalProperties": false,
+            "properties": {
+              "tag": {
+                "title": "Tag",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text"
+              },
+              "children": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Children",
+                "type": "array"
+              }
+            },
+            "required": [
+              "tag"
+            ],
+            "title": "Node",
+            "type": "object"
+          },
+          "Parameter": {
+            "additionalProperties": false,
+            "properties": {
+              "element": {
+                "title": "Element",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Name"
+              },
+              "time_layout": {
+                "title": "Time Layout",
+                "type": "string"
+              },
+              "values": {
+                "items": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "$ref": "#/$defs/Node"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "title": "Values",
+                "type": "array"
+              }
+            },
+            "required": [
+              "element",
+              "attributes",
+              "name",
+              "time_layout",
+              "values"
+            ],
+            "title": "Parameter",
+            "type": "object"
+          },
+          "Provenance": {
+            "additionalProperties": false,
+            "properties": {
+              "provider": {
+                "default": "NWS San Diego",
+                "title": "Provider",
+                "type": "string"
+              },
+              "source_url": {
+                "title": "Source Url",
+                "type": "string"
+              },
+              "retrieved_at": {
+                "title": "Retrieved At",
+                "type": "string"
+              },
+              "configured_latitude": {
+                "default": 32.8007,
+                "title": "Configured Latitude",
+                "type": "number"
+              },
+              "configured_longitude": {
+                "default": -117.0497,
+                "title": "Configured Longitude",
+                "type": "number"
+              },
+              "timezone": {
+                "default": "America/Los_Angeles",
+                "title": "Timezone",
+                "type": "string"
+              },
+              "snapshot_not_live": {
+                "default": true,
+                "title": "Snapshot Not Live",
+                "type": "boolean"
+              },
+              "collection_attempt_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Collection Attempt At"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              },
+              "latest_attempt_success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Latest Attempt Success"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "hash_status": {
+                "default": "unavailable",
+                "enum": [
+                  "match",
+                  "mismatch",
+                  "unavailable",
+                  "not_applicable"
+                ],
+                "title": "Hash Status",
+                "type": "string"
+              },
+              "freshness_basis": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Freshness Basis"
+              },
+              "age_hours": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Age Hours"
+              },
+              "threshold_hours": {
+                "title": "Threshold Hours",
+                "type": "number"
+              },
+              "cache_headers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Cache Headers",
+                "type": "object"
+              }
+            },
+            "required": [
+              "source_url",
+              "retrieved_at",
+              "threshold_hours"
+            ],
+            "title": "Provenance",
+            "type": "object"
+          },
+          "SnapshotStatus": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "status",
+                "default": "status",
+                "title": "Kind",
+                "type": "string"
+              },
+              "collection_attempt_at": {
+                "title": "Collection Attempt At",
+                "type": "string"
+              },
+              "sources": {
+                "items": {
+                  "$ref": "#/$defs/SourceAttempt"
+                },
+                "title": "Sources",
+                "type": "array"
+              }
+            },
+            "required": [
+              "collection_attempt_at",
+              "sources"
+            ],
+            "title": "SnapshotStatus",
+            "type": "object"
+          },
+          "SourceAttempt": {
+            "additionalProperties": false,
+            "properties": {
+              "output_path": {
+                "title": "Output Path",
+                "type": "string"
+              },
+              "success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Success"
+              },
+              "http_status": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Http Status"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              }
+            },
+            "required": [
+              "output_path"
+            ],
+            "title": "SourceAttempt",
+            "type": "object"
+          },
+          "Warning": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Warning",
+            "type": "object"
+          }
+        },
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Schema Version",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ok",
+              "degraded",
+              "error"
+            ],
+            "title": "Status",
+            "type": "string"
+          },
+          "provenance": {
+            "$ref": "#/$defs/Provenance"
+          },
+          "warnings": {
+            "items": {
+              "$ref": "#/$defs/Warning"
+            },
+            "title": "Warnings",
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Forecast"
+              },
+              {
+                "$ref": "#/$defs/Discussion"
+              },
+              {
+                "$ref": "#/$defs/SnapshotStatus"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Data"
+          },
+          "error": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Failure"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "provenance"
+        ],
+        "title": "Result",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "getHourlyDwmlForecast",
+      "description": "Read the local NWS hourly forecast snapshot for precise timing. Preserve time-layout alignment, missing values and freshness warnings. Not live observations.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "outputSchema": {
+        "$defs": {
+          "Discussion": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "discussion",
+                "default": "discussion",
+                "title": "Kind",
+                "type": "string"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issued At"
+              },
+              "issuance_text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issuance Text"
+              },
+              "text": {
+                "title": "Text",
+                "type": "string"
+              }
+            },
+            "required": [
+              "issued_at",
+              "issuance_text",
+              "text"
+            ],
+            "title": "Discussion",
+            "type": "object"
+          },
+          "Failure": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              },
+              "retryable": {
+                "default": false,
+                "title": "Retryable",
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Failure",
+            "type": "object"
+          },
+          "Forecast": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "forecast",
+                "default": "forecast",
+                "title": "Kind",
+                "type": "string"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Node"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locations": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Locations",
+                "type": "array"
+              },
+              "layouts": {
+                "additionalProperties": {
+                  "$ref": "#/$defs/Layout"
+                },
+                "title": "Layouts",
+                "type": "object"
+              },
+              "parameters": {
+                "items": {
+                  "$ref": "#/$defs/Parameter"
+                },
+                "title": "Parameters",
+                "type": "array"
+              },
+              "excluded_observation_blocks": {
+                "title": "Excluded Observation Blocks",
+                "type": "integer"
+              }
+            },
+            "required": [
+              "generated_at",
+              "source",
+              "locations",
+              "layouts",
+              "parameters",
+              "excluded_observation_blocks"
+            ],
+            "title": "Forecast",
+            "type": "object"
+          },
+          "Interval": {
+            "additionalProperties": false,
+            "properties": {
+              "start": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start"
+              },
+              "end": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End"
+              },
+              "start_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start Local"
+              },
+              "end_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End Local"
+              },
+              "period_name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Period Name"
+              }
+            },
+            "required": [
+              "start",
+              "end",
+              "start_local",
+              "end_local"
+            ],
+            "title": "Interval",
+            "type": "object"
+          },
+          "Layout": {
+            "additionalProperties": false,
+            "properties": {
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "intervals": {
+                "items": {
+                  "$ref": "#/$defs/Interval"
+                },
+                "title": "Intervals",
+                "type": "array"
+              }
+            },
+            "required": [
+              "attributes",
+              "intervals"
+            ],
+            "title": "Layout",
+            "type": "object"
+          },
+          "Node": {
+            "additionalProperties": false,
+            "properties": {
+              "tag": {
+                "title": "Tag",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text"
+              },
+              "children": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Children",
+                "type": "array"
+              }
+            },
+            "required": [
+              "tag"
+            ],
+            "title": "Node",
+            "type": "object"
+          },
+          "Parameter": {
+            "additionalProperties": false,
+            "properties": {
+              "element": {
+                "title": "Element",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Name"
+              },
+              "time_layout": {
+                "title": "Time Layout",
+                "type": "string"
+              },
+              "values": {
+                "items": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "$ref": "#/$defs/Node"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "title": "Values",
+                "type": "array"
+              }
+            },
+            "required": [
+              "element",
+              "attributes",
+              "name",
+              "time_layout",
+              "values"
+            ],
+            "title": "Parameter",
+            "type": "object"
+          },
+          "Provenance": {
+            "additionalProperties": false,
+            "properties": {
+              "provider": {
+                "default": "NWS San Diego",
+                "title": "Provider",
+                "type": "string"
+              },
+              "source_url": {
+                "title": "Source Url",
+                "type": "string"
+              },
+              "retrieved_at": {
+                "title": "Retrieved At",
+                "type": "string"
+              },
+              "configured_latitude": {
+                "default": 32.8007,
+                "title": "Configured Latitude",
+                "type": "number"
+              },
+              "configured_longitude": {
+                "default": -117.0497,
+                "title": "Configured Longitude",
+                "type": "number"
+              },
+              "timezone": {
+                "default": "America/Los_Angeles",
+                "title": "Timezone",
+                "type": "string"
+              },
+              "snapshot_not_live": {
+                "default": true,
+                "title": "Snapshot Not Live",
+                "type": "boolean"
+              },
+              "collection_attempt_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Collection Attempt At"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              },
+              "latest_attempt_success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Latest Attempt Success"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "hash_status": {
+                "default": "unavailable",
+                "enum": [
+                  "match",
+                  "mismatch",
+                  "unavailable",
+                  "not_applicable"
+                ],
+                "title": "Hash Status",
+                "type": "string"
+              },
+              "freshness_basis": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Freshness Basis"
+              },
+              "age_hours": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Age Hours"
+              },
+              "threshold_hours": {
+                "title": "Threshold Hours",
+                "type": "number"
+              },
+              "cache_headers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Cache Headers",
+                "type": "object"
+              }
+            },
+            "required": [
+              "source_url",
+              "retrieved_at",
+              "threshold_hours"
+            ],
+            "title": "Provenance",
+            "type": "object"
+          },
+          "SnapshotStatus": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "status",
+                "default": "status",
+                "title": "Kind",
+                "type": "string"
+              },
+              "collection_attempt_at": {
+                "title": "Collection Attempt At",
+                "type": "string"
+              },
+              "sources": {
+                "items": {
+                  "$ref": "#/$defs/SourceAttempt"
+                },
+                "title": "Sources",
+                "type": "array"
+              }
+            },
+            "required": [
+              "collection_attempt_at",
+              "sources"
+            ],
+            "title": "SnapshotStatus",
+            "type": "object"
+          },
+          "SourceAttempt": {
+            "additionalProperties": false,
+            "properties": {
+              "output_path": {
+                "title": "Output Path",
+                "type": "string"
+              },
+              "success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Success"
+              },
+              "http_status": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Http Status"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              }
+            },
+            "required": [
+              "output_path"
+            ],
+            "title": "SourceAttempt",
+            "type": "object"
+          },
+          "Warning": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Warning",
+            "type": "object"
+          }
+        },
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Schema Version",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ok",
+              "degraded",
+              "error"
+            ],
+            "title": "Status",
+            "type": "string"
+          },
+          "provenance": {
+            "$ref": "#/$defs/Provenance"
+          },
+          "warnings": {
+            "items": {
+              "$ref": "#/$defs/Warning"
+            },
+            "title": "Warnings",
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Forecast"
+              },
+              {
+                "$ref": "#/$defs/Discussion"
+              },
+              {
+                "$ref": "#/$defs/SnapshotStatus"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Data"
+          },
+          "error": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Failure"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "provenance"
+        ],
+        "title": "Result",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "getAreaForecastDiscussion",
+      "description": "Read the NWS San Diego Area Forecast Discussion extracted from the published HTML snapshot, with issuance and freshness warnings.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "outputSchema": {
+        "$defs": {
+          "Discussion": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "discussion",
+                "default": "discussion",
+                "title": "Kind",
+                "type": "string"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issued At"
+              },
+              "issuance_text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issuance Text"
+              },
+              "text": {
+                "title": "Text",
+                "type": "string"
+              }
+            },
+            "required": [
+              "issued_at",
+              "issuance_text",
+              "text"
+            ],
+            "title": "Discussion",
+            "type": "object"
+          },
+          "Failure": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              },
+              "retryable": {
+                "default": false,
+                "title": "Retryable",
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Failure",
+            "type": "object"
+          },
+          "Forecast": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "forecast",
+                "default": "forecast",
+                "title": "Kind",
+                "type": "string"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Node"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locations": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Locations",
+                "type": "array"
+              },
+              "layouts": {
+                "additionalProperties": {
+                  "$ref": "#/$defs/Layout"
+                },
+                "title": "Layouts",
+                "type": "object"
+              },
+              "parameters": {
+                "items": {
+                  "$ref": "#/$defs/Parameter"
+                },
+                "title": "Parameters",
+                "type": "array"
+              },
+              "excluded_observation_blocks": {
+                "title": "Excluded Observation Blocks",
+                "type": "integer"
+              }
+            },
+            "required": [
+              "generated_at",
+              "source",
+              "locations",
+              "layouts",
+              "parameters",
+              "excluded_observation_blocks"
+            ],
+            "title": "Forecast",
+            "type": "object"
+          },
+          "Interval": {
+            "additionalProperties": false,
+            "properties": {
+              "start": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start"
+              },
+              "end": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End"
+              },
+              "start_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start Local"
+              },
+              "end_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End Local"
+              },
+              "period_name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Period Name"
+              }
+            },
+            "required": [
+              "start",
+              "end",
+              "start_local",
+              "end_local"
+            ],
+            "title": "Interval",
+            "type": "object"
+          },
+          "Layout": {
+            "additionalProperties": false,
+            "properties": {
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "intervals": {
+                "items": {
+                  "$ref": "#/$defs/Interval"
+                },
+                "title": "Intervals",
+                "type": "array"
+              }
+            },
+            "required": [
+              "attributes",
+              "intervals"
+            ],
+            "title": "Layout",
+            "type": "object"
+          },
+          "Node": {
+            "additionalProperties": false,
+            "properties": {
+              "tag": {
+                "title": "Tag",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text"
+              },
+              "children": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Children",
+                "type": "array"
+              }
+            },
+            "required": [
+              "tag"
+            ],
+            "title": "Node",
+            "type": "object"
+          },
+          "Parameter": {
+            "additionalProperties": false,
+            "properties": {
+              "element": {
+                "title": "Element",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Name"
+              },
+              "time_layout": {
+                "title": "Time Layout",
+                "type": "string"
+              },
+              "values": {
+                "items": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "$ref": "#/$defs/Node"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "title": "Values",
+                "type": "array"
+              }
+            },
+            "required": [
+              "element",
+              "attributes",
+              "name",
+              "time_layout",
+              "values"
+            ],
+            "title": "Parameter",
+            "type": "object"
+          },
+          "Provenance": {
+            "additionalProperties": false,
+            "properties": {
+              "provider": {
+                "default": "NWS San Diego",
+                "title": "Provider",
+                "type": "string"
+              },
+              "source_url": {
+                "title": "Source Url",
+                "type": "string"
+              },
+              "retrieved_at": {
+                "title": "Retrieved At",
+                "type": "string"
+              },
+              "configured_latitude": {
+                "default": 32.8007,
+                "title": "Configured Latitude",
+                "type": "number"
+              },
+              "configured_longitude": {
+                "default": -117.0497,
+                "title": "Configured Longitude",
+                "type": "number"
+              },
+              "timezone": {
+                "default": "America/Los_Angeles",
+                "title": "Timezone",
+                "type": "string"
+              },
+              "snapshot_not_live": {
+                "default": true,
+                "title": "Snapshot Not Live",
+                "type": "boolean"
+              },
+              "collection_attempt_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Collection Attempt At"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              },
+              "latest_attempt_success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Latest Attempt Success"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "hash_status": {
+                "default": "unavailable",
+                "enum": [
+                  "match",
+                  "mismatch",
+                  "unavailable",
+                  "not_applicable"
+                ],
+                "title": "Hash Status",
+                "type": "string"
+              },
+              "freshness_basis": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Freshness Basis"
+              },
+              "age_hours": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Age Hours"
+              },
+              "threshold_hours": {
+                "title": "Threshold Hours",
+                "type": "number"
+              },
+              "cache_headers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Cache Headers",
+                "type": "object"
+              }
+            },
+            "required": [
+              "source_url",
+              "retrieved_at",
+              "threshold_hours"
+            ],
+            "title": "Provenance",
+            "type": "object"
+          },
+          "SnapshotStatus": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "status",
+                "default": "status",
+                "title": "Kind",
+                "type": "string"
+              },
+              "collection_attempt_at": {
+                "title": "Collection Attempt At",
+                "type": "string"
+              },
+              "sources": {
+                "items": {
+                  "$ref": "#/$defs/SourceAttempt"
+                },
+                "title": "Sources",
+                "type": "array"
+              }
+            },
+            "required": [
+              "collection_attempt_at",
+              "sources"
+            ],
+            "title": "SnapshotStatus",
+            "type": "object"
+          },
+          "SourceAttempt": {
+            "additionalProperties": false,
+            "properties": {
+              "output_path": {
+                "title": "Output Path",
+                "type": "string"
+              },
+              "success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Success"
+              },
+              "http_status": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Http Status"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              }
+            },
+            "required": [
+              "output_path"
+            ],
+            "title": "SourceAttempt",
+            "type": "object"
+          },
+          "Warning": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Warning",
+            "type": "object"
+          }
+        },
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Schema Version",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ok",
+              "degraded",
+              "error"
+            ],
+            "title": "Status",
+            "type": "string"
+          },
+          "provenance": {
+            "$ref": "#/$defs/Provenance"
+          },
+          "warnings": {
+            "items": {
+              "$ref": "#/$defs/Warning"
+            },
+            "title": "Warnings",
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Forecast"
+              },
+              {
+                "$ref": "#/$defs/Discussion"
+              },
+              {
+                "$ref": "#/$defs/SnapshotStatus"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Data"
+          },
+          "error": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Failure"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "provenance"
+        ],
+        "title": "Result",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "getSnapshotStatus",
+      "description": "Read latest collection attempt metadata for the three weather sources. Success does not prove forecast freshness; no school calendar is exposed.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      },
+      "outputSchema": {
+        "$defs": {
+          "Discussion": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "discussion",
+                "default": "discussion",
+                "title": "Kind",
+                "type": "string"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issued At"
+              },
+              "issuance_text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Issuance Text"
+              },
+              "text": {
+                "title": "Text",
+                "type": "string"
+              }
+            },
+            "required": [
+              "issued_at",
+              "issuance_text",
+              "text"
+            ],
+            "title": "Discussion",
+            "type": "object"
+          },
+          "Failure": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              },
+              "retryable": {
+                "default": false,
+                "title": "Retryable",
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Failure",
+            "type": "object"
+          },
+          "Forecast": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "forecast",
+                "default": "forecast",
+                "title": "Kind",
+                "type": "string"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "source": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/Node"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "locations": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Locations",
+                "type": "array"
+              },
+              "layouts": {
+                "additionalProperties": {
+                  "$ref": "#/$defs/Layout"
+                },
+                "title": "Layouts",
+                "type": "object"
+              },
+              "parameters": {
+                "items": {
+                  "$ref": "#/$defs/Parameter"
+                },
+                "title": "Parameters",
+                "type": "array"
+              },
+              "excluded_observation_blocks": {
+                "title": "Excluded Observation Blocks",
+                "type": "integer"
+              }
+            },
+            "required": [
+              "generated_at",
+              "source",
+              "locations",
+              "layouts",
+              "parameters",
+              "excluded_observation_blocks"
+            ],
+            "title": "Forecast",
+            "type": "object"
+          },
+          "Interval": {
+            "additionalProperties": false,
+            "properties": {
+              "start": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start"
+              },
+              "end": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End"
+              },
+              "start_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Start Local"
+              },
+              "end_local": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "End Local"
+              },
+              "period_name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Period Name"
+              }
+            },
+            "required": [
+              "start",
+              "end",
+              "start_local",
+              "end_local"
+            ],
+            "title": "Interval",
+            "type": "object"
+          },
+          "Layout": {
+            "additionalProperties": false,
+            "properties": {
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "intervals": {
+                "items": {
+                  "$ref": "#/$defs/Interval"
+                },
+                "title": "Intervals",
+                "type": "array"
+              }
+            },
+            "required": [
+              "attributes",
+              "intervals"
+            ],
+            "title": "Layout",
+            "type": "object"
+          },
+          "Node": {
+            "additionalProperties": false,
+            "properties": {
+              "tag": {
+                "title": "Tag",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "text": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Text"
+              },
+              "children": {
+                "items": {
+                  "$ref": "#/$defs/Node"
+                },
+                "title": "Children",
+                "type": "array"
+              }
+            },
+            "required": [
+              "tag"
+            ],
+            "title": "Node",
+            "type": "object"
+          },
+          "Parameter": {
+            "additionalProperties": false,
+            "properties": {
+              "element": {
+                "title": "Element",
+                "type": "string"
+              },
+              "attributes": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Attributes",
+                "type": "object"
+              },
+              "name": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Name"
+              },
+              "time_layout": {
+                "title": "Time Layout",
+                "type": "string"
+              },
+              "values": {
+                "items": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "$ref": "#/$defs/Node"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "title": "Values",
+                "type": "array"
+              }
+            },
+            "required": [
+              "element",
+              "attributes",
+              "name",
+              "time_layout",
+              "values"
+            ],
+            "title": "Parameter",
+            "type": "object"
+          },
+          "Provenance": {
+            "additionalProperties": false,
+            "properties": {
+              "provider": {
+                "default": "NWS San Diego",
+                "title": "Provider",
+                "type": "string"
+              },
+              "source_url": {
+                "title": "Source Url",
+                "type": "string"
+              },
+              "retrieved_at": {
+                "title": "Retrieved At",
+                "type": "string"
+              },
+              "configured_latitude": {
+                "default": 32.8007,
+                "title": "Configured Latitude",
+                "type": "number"
+              },
+              "configured_longitude": {
+                "default": -117.0497,
+                "title": "Configured Longitude",
+                "type": "number"
+              },
+              "timezone": {
+                "default": "America/Los_Angeles",
+                "title": "Timezone",
+                "type": "string"
+              },
+              "snapshot_not_live": {
+                "default": true,
+                "title": "Snapshot Not Live",
+                "type": "boolean"
+              },
+              "collection_attempt_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Collection Attempt At"
+              },
+              "generated_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Generated At"
+              },
+              "issued_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Issued At"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              },
+              "latest_attempt_success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Latest Attempt Success"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "hash_status": {
+                "default": "unavailable",
+                "enum": [
+                  "match",
+                  "mismatch",
+                  "unavailable",
+                  "not_applicable"
+                ],
+                "title": "Hash Status",
+                "type": "string"
+              },
+              "freshness_basis": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Freshness Basis"
+              },
+              "age_hours": {
+                "anyOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Age Hours"
+              },
+              "threshold_hours": {
+                "title": "Threshold Hours",
+                "type": "number"
+              },
+              "cache_headers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "title": "Cache Headers",
+                "type": "object"
+              }
+            },
+            "required": [
+              "source_url",
+              "retrieved_at",
+              "threshold_hours"
+            ],
+            "title": "Provenance",
+            "type": "object"
+          },
+          "SnapshotStatus": {
+            "additionalProperties": false,
+            "properties": {
+              "kind": {
+                "const": "status",
+                "default": "status",
+                "title": "Kind",
+                "type": "string"
+              },
+              "collection_attempt_at": {
+                "title": "Collection Attempt At",
+                "type": "string"
+              },
+              "sources": {
+                "items": {
+                  "$ref": "#/$defs/SourceAttempt"
+                },
+                "title": "Sources",
+                "type": "array"
+              }
+            },
+            "required": [
+              "collection_attempt_at",
+              "sources"
+            ],
+            "title": "SnapshotStatus",
+            "type": "object"
+          },
+          "SourceAttempt": {
+            "additionalProperties": false,
+            "properties": {
+              "output_path": {
+                "title": "Output Path",
+                "type": "string"
+              },
+              "success": {
+                "anyOf": [
+                  {
+                    "type": "boolean"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Success"
+              },
+              "http_status": {
+                "anyOf": [
+                  {
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Http Status"
+              },
+              "sha256": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Sha256"
+              },
+              "last_success_at": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Last Success At"
+              }
+            },
+            "required": [
+              "output_path"
+            ],
+            "title": "SourceAttempt",
+            "type": "object"
+          },
+          "Warning": {
+            "additionalProperties": false,
+            "properties": {
+              "code": {
+                "title": "Code",
+                "type": "string"
+              },
+              "message": {
+                "title": "Message",
+                "type": "string"
+              }
+            },
+            "required": [
+              "code",
+              "message"
+            ],
+            "title": "Warning",
+            "type": "object"
+          }
+        },
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "title": "Schema Version",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ok",
+              "degraded",
+              "error"
+            ],
+            "title": "Status",
+            "type": "string"
+          },
+          "provenance": {
+            "$ref": "#/$defs/Provenance"
+          },
+          "warnings": {
+            "items": {
+              "$ref": "#/$defs/Warning"
+            },
+            "title": "Warnings",
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Forecast"
+              },
+              {
+                "$ref": "#/$defs/Discussion"
+              },
+              {
+                "$ref": "#/$defs/SnapshotStatus"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Data"
+          },
+          "error": {
+            "anyOf": [
+              {
+                "$ref": "#/$defs/Failure"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "provenance"
+        ],
+        "title": "Result",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    }
+  ]
+}

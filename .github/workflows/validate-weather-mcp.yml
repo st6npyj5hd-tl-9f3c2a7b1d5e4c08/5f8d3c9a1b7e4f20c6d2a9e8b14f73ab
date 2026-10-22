@@ -1,0 +1,37 @@
+name: Validate Weather Buddy MCP
+
+on:
+  pull_request:
+    paths:
+      - 'mcp-adapter/**'
+      - '.github/workflows/validate-weather-mcp.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: mcp-adapter
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install isolated dependencies
+        run: |
+          python -m pip install uv==0.13.4
+          uv sync --locked
+      - name: Lint and format
+        run: |
+          uv run --frozen ruff check src tests scripts
+          uv run --frozen ruff format --check src tests scripts
+      - name: Offline parser, package, and MCP contract tests
+        run: uv run --frozen pytest -q
+      - name: Build review artifacts without publishing
+        run: uv run --frozen python scripts/build_artifacts.py
