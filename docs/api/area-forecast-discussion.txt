@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T16:37:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T21:05:59+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,20 +346,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-463
-FXUS66 KSGX 231131
+170
+FXUS66 KSGX 231930
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-431 AM PDT Fri Oct 23 2026
+1230 PM PDT Fri Oct 23 2026
 
 .SYNOPSIS...
-Scattered mostly light showers will continue through this morning,
-decrease this afternoon, and end from the northwest tonight. Then
-dry and warmer for the weekend through Monday with high
-temperatures warming to around average. Then gradually cooler for
-next Tuesday through Thursday.
+Lingering scattered showers will bring light rain to areas west of
+the mountains today, becoming more confined to San Diego County this
+evening. Weak offshore flow expected Saturday and Sunday. Dry and
+warmer for the weekend through Monday, then gradually cooler for the
+middle of next week with a chance of precipitation for late next
+week. Tides will increase over the weekend, remaining elevated
+through much of next week.
 
 &&
 
@@ -367,69 +369,49 @@ next Tuesday through Thursday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Radar imagery at 12 PM was showing scattered showers moving from
+north to south mainly across coastal areas. Over the past 6 hours,
+places north of San Diego County have received mainly less than
+0.05", with totals ranging from 0.05 to 0.30" in San Diego County.
+Additional showers will continue at times through the day, most
+likely in San Diego County, eventually tapering off overnight.
 
-.SHORT TERM (Today through Sunday)...
-The area of showers over the coastal waters moving into southern
-Los Angeles County, Orange County, and northern San Diego County
-will continue to move slowly southward along the San Diego County
-Coast through this morning. That area will clear southwestern San
-Diego County during the afternoon with some additional showers
-over the mountains of southwestern San Bernardino, Riverside, and
-and San Diego Counties during this afternoon. For this evening,
-there will be some additional showers from the coast to the
-mountains with those showers ending from the northwest late
-tonight. Additional rainfall through tonight from the coast to
-the mountains will be mostly 0.10 to 0.33 inch with locally
-greater amounts near the coast.
+By tonight, models are showing a closed upper level low moving south
+and east towards the border of California and Arizona. This will
+turn the pressure gradient weakly offshore, increasing north to
+northeasterly winds in wind prone locations. Peak wind gusts will be
+in the 30 to 45 mph range, strongest on the foothills of the San
+Bernardino mountains and just below the Cajon Pass. Given the
+unsettled weather quickly turning to offshore flow, marine layer low
+clouds and fog will largely be absent from the coast into early next
+week.
 
-High temperatures will begin to warm today for the mountains and
-inland valleys, but with high temperatures as much as 10 to 15
-degrees below average for the mountains. High temperatures for
-today will be mostly in the 60s and lower 70s for the coast and
-valleys and in the 40s and 50s for the mountains.
+High temperatures over the weekend will warm. Highs Saturday are
+expected to be 5 to 10 degrees warmer than today, with additional
+warming along the coast on Sunday and a few degrees of cooling or no
+change further inland. By Monday, high temperatures in coastal areas
+will be 5 to 10 degrees above average, with temperatures closer to
+average further inland. Cooler conditions expected for the middle to
+end of next week.
 
-There will be weak northerly offshore flow on Saturday. North
-winds will gust to 30 to 40 mph along the coastal slopes of the
-San Bernardino County mountains and below the Cajon Pass from late
-tonight into early Saturday afternoon.
-
-High temperatures on Saturday will warm around 5 degrees near the
-coast and in the deserts to 5 to 10 degrees for the valleys and
-mountains with high temperatures on Sunday warming another few to
-around 5 degrees. Sunday high temperatures will still be around 5
-degrees below average for the mountains. High temperatures on
-Sunday will be mostly in the mid 70s to lower 80s for the coast
-and valleys, in the 50s and 60s for the mountains, and in the mid
-80s for the lower deserts.
-
-&&
-
-.LONG TERM (Monday through Thursday)...
-High temperatures on Monday will warm a few more degrees. This
-will be followed by a cooling trend for Tuesday through Thursday
-with Thursday high temperatures in the upper 60s to mid 70s for
-the coast and valleys, in the 50s to mid 60s for the mountains,
-and in the lower 80s for the lower deserts.
-
-There could be some light showers as early as Thursday as a lower
-latitude low pressure system moving across the eastern Pacific
-moves closer to the West Coast.
-
-NBM chances for 0.01 inch or more of rainfall for the coast to the
-mountains increases from 10 to 20 percent for next Friday to 35
-to 45 percent on Saturday the 31st to 40 to 50 percent on Sunday
-November 1st.
+Global ensembles are indicating the potential for unsettled weather
+for the end of next week. There remains a lot of spread in solutions
+and uncertainty in the details. Rain chances are in the forecast as
+early as Friday. NBM chances for 0.01 inch or more of rainfall for
+the coast to the mountains increases from 10 to 20 percent for next
+Friday to 35 to 45 percent on Saturday the 31st to 40 to 50 percent
+on Sunday November 1st. In addition to precipitation, cooler,
+cloudier, and windier conditions may develop.
 
 &&
 
 .AVIATION...
-231130Z...SCT -SHRA will continue mainly in San Diego County this
-morning. Cloud bases generally above 3000 feet MSL, except briefly
-down to 2500 feet and vis 5-6SM in SHRA. Partial obscuration of
-mountains will continue this morning. -SHRA will gradually taper off
-from north to south this afternoon, but at the same time increase in
-mountains. Clearing all areas from north to south after 03Z.
+231800Z...SHRA coming to an end, with most locations VFR. VCSH may
+continue through the evening, especially for San Diego County. VIS 5-
+6SM with any SHRA. Generally SCT-BKN 4000-6000ft MSL, clearing after
+24/03z. Generally no widespread low clouds tonight or Saturday
+morning, with VFR prevailing. Weak northeasterly winds overnight for
+inland airports.
 
 &&
 
@@ -441,11 +423,12 @@ are expected through Tuesday.
 &&
 
 .BEACHES...
-Astronomical high tides will create minor to moderate coastal
-flooding starting Saturday. Tides are 1.4-1.6 feet above
-predictions. Morning high tides could reach 7 feet Saturday morning
-and are likely to exceed 7.5 feet by Monday morning. Locally
-significant impacts expected from Monday to Wednesday.
+Astronomical high tides will create significant coastal flooding
+starting Sunday. Tides will be anywhere from 1 to 1.7 feet above
+predictions. Morning high tides could reach near 7 feet Saturday
+morning and are likely to exceed 7.5 or 8 feet by Monday morning. A
+Coastal Flood Warning is in effect for the entire Orange and San
+Diego coastline Sunday morning through Thursday morning.
 
 &&
 
@@ -453,18 +436,21 @@ significant impacts expected from Monday to Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Coastal Flood Warning from 5 AM Sunday to 1 PM PDT Thursday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
