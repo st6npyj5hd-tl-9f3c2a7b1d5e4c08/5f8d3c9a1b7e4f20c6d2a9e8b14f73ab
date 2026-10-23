@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T03:46:21+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T11:09:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,26 +341,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-680
-FXUS66 KSGX 230012
+791
+FXUS66 KSGX 230828
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-512 PM PDT Thu Oct 22 2026
+128 AM PDT Fri Oct 23 2026
 
 .SYNOPSIS...
-Showers and a slight chance of thunderstorms will continue today,
-with highest thunderstorm chances this afternoon. Showers will end
-from the northwest late Friday afternoon.  Southwest to west winds
-along the desert slopes of the mountains will gust to 40 to 50 mph
-through tonight. Dry and warmer for the weekend through Monday, then
-gradually cooler for next week with a chance of precipitation for
-late next week. Tides will increase over the weekend, remaining
-elevated through much of next week.
+Scattered mostly light showers will continue through this morning,
+decrease this afternoon, and end from the northwest tonight. Then
+dry and warmer for the weekend through Monday with high
+temperatures warming to around average. Then gradually cooler for
+next Tuesday through Thursday.
 
 &&
 
@@ -368,66 +367,78 @@ elevated through much of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+.SHORT TERM (Today through Sunday)...
+The area of showers over the coastal waters moving into southern
+Los Angeles County, Orange County, and northern San Diego County
+will continue to move slowly southward along the San Diego County
+Coast through this morning. That area will clear southwestern San
+Diego County during the afternoon with some additional showers
+over the mountains of southwestern San Bernardino, Riverside, and
+and San Diego Counties during this afternoon. For this evening,
+there will be some additional showers from the coast to the
+mountains with those showers ending from the northwest late
+tonight. Additional rainfall through tonight from the coast to
+the mountains will be mostly 0.10 to 0.33 inch with locally
+greater amounts near the coast.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures will begin to warm today for the mountains and
+inland valleys, but with high temperatures as much as 10 to 15
+degrees below average for the mountains. High temperatures for
+today will be mostly in the 60s and lower 70s for the coast and
+valleys and in the 40s and 50s for the mountains.
 
-At noon, scattered showers were being observed especially north of
-San Diego County. Rainfall totals over the past 6 hours have seen
-quite the range with accumulations of 0.01 to 0.10" and up to
-0.60 to 1". Highest totals have been observed near mountain
-foothills and in the mountains. Isolated thunderstorms are
-expected to continue through the afternoon. Rainfall activity is
-expected move south more into San Diego County through this
-afternoon and evening, but will remain scattered in coverage. For
-this evening and overnight peak rainfall rates of 0.25 to 0.35
-inches per hour are expected. An additional 0.25 to 0.75 inch of
-rain may accumulate in some locations. In addition to periods of
-rain, gusty winds can be expected over the mountains, locally into
-the deserts. Peak gusts of 45 to 55 mph are expected through this
-evening.
+There will be weak northerly offshore flow on Saturday. North
+winds will gust to 30 to 40 mph along the coastal slopes of the
+San Bernardino County mountains and below the Cajon Pass from late
+tonight into early Saturday afternoon.
 
-High temperatures on Friday will be a few degrees warmer than today
-for the coast to the mountains with greater warming of 5 to 10
-degrees on Saturday. High temperatures on Saturday will be as much
-as 5 to 10 degrees below average for the mountains. Conditions will
-continue to warm Sunday and Monday. By Monday, high temperatures in
-coastal areas will be 5 to 10 degrees above average, with
-temperatures closer to average further inland.
+High temperatures on Saturday will warm around 5 degrees near the
+coast and in the deserts to 5 to 10 degrees for the valleys and
+mountains with high temperatures on Sunday warming another few to
+around 5 degrees. Sunday high temperatures will still be around 5
+degrees below average for the mountains. High temperatures on
+Sunday will be mostly in the mid 70s to lower 80s for the coast
+and valleys, in the 50s and 60s for the mountains, and in the mid
+80s for the lower deserts.
 
-The flow will turn offshore for the weekend, with periods of north
-to northeasterly winds in the mornings. Strongest winds will be on
-the mountain foothills and below passes and canyons. Right now it
-looks like peak wind gusts will be in the 30 to 45 mph range. Given
-the unsettled weather quickly turning to offshore flow, marine layer
-low clouds and fog will largely be absent from the coast into early
-next week.
+&&
+
+.LONG TERM (Monday through Thursday)...
+High temperatures on Monday will warm a few more degrees. This
+will be followed by a cooling trend for Tuesday through Thursday
+with Thursday high temperatures in the upper 60s to mid 70s for
+the coast and valleys, in the 50s to mid 60s for the mountains,
+and in the lower 80s for the lower deserts.
+
+There could be some light showers as early as Thursday as a lower
+latitude low pressure system moving across the eastern Pacific
+moves closer to the West Coast.
+
+NBM chances for 0.01 inch or more of rainfall for the coast to the
+mountains increases from 10 to 20 percent for next Friday to 35
+to 45 percent on Saturday the 31st to 40 to 50 percent on Sunday
+November 1st.
 
 &&
 
 .AVIATION...
-230000Z...Widely SCT SHRA and ISO TSRA continue through Friday
-morning. There is some model agreement that SHRA activity increases
-for Orange/San Diego Counties from 10-18z Fri. Cigs down to 2000
-feet MSL and vis 3-5SM at times in heavier SHRA/TSRA, otherwise
-bases will be 3500-6000 feet MSL. Partial obscuration of mountains
-will continue through tonight. SHRA chances taper off from north to
-south during the day Friday. Low clouds also become more SCT in
-coverage.
-
-Onshore winds currently gusting 30-45 kts along desert
-slopes and locally into deserts. MOD up/downdrafts in lee of ridges.
-Winds slowly taper off from 03-09z Fri.
+230530Z...SCT -SHRA mountains westward will continue through
+Friday morning. Cloud bases generally above 3500 feet MSL, except
+briefly down to 2500 feet and vis 4-6SM in SHRA. Partial
+obscuration of mountains will continue through tonight. Onshore
+wind gusts 25-30 kts along desert slopes and locally into deserts
+will gradually taper off overnight. -SHRA will gradually taper off
+from north to south Friday afternoon, but at the same time
+increase in mountains. Clearing all areas after 02Z Friday
+evening.
 
 &&
 
 .MARINE...
 A storm system will slowly move through the coastal waters through
-Friday. There is a slight chance of thunderstorms through tonight.
-Any thunderstorm is capable of producing gusty, erratic winds,
-choppy seas, lightning, briefly heavy rainfall with reduced
-visibility, and waterspouts. Isolated northwest wind gusts will
-occasionally reach 20 knots Friday. No hazardous marine conditions
-are expected Friday night through Tuesday.
+Friday. Isolated northwest wind gusts will occasionally reach 20
+knots Friday. No hazardous marine conditions are expected Friday
+night through Tuesday.
 
 &&
 
@@ -444,23 +455,18 @@ significant impacts expected from Monday to Wednesday.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 6 PM PDT this evening for Riverside County
-     Mountains-San Bernardino County Mountains-San Diego County
-     Deserts-San Diego County Mountains-San Gorgonio Pass near
-     Banning.
-
+CA...None.
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
