@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-22T21:16:57+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T03:46:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -344,13 +344,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-984
-FXUS66 KSGX 222036
+680
+FXUS66 KSGX 230012
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-136 PM PDT Thu Oct 22 2026
+512 PM PDT Thu Oct 22 2026
 
 .SYNOPSIS...
 Showers and a slight chance of thunderstorms will continue today,
@@ -367,6 +367,9 @@ elevated through much of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 At noon, scattered showers were being observed especially north of
 San Diego County. Rainfall totals over the past 6 hours have seen
@@ -402,26 +405,29 @@ next week.
 &&
 
 .AVIATION...
-221830Z...SCT SHRA and ISO TSRA this morning, mostly north of SD
-County, continuing through around 03z. Cigs down to 1500-2500 feet
-MSL and vis 3-5SM at times in heavier SHRA/TSRA, otherwise bases
-will be 3500-4500 feet MSL. Partial obscuration of mountains this
-morning, but improving vis later today. More SCT SHRA expected after
-07z through Friday morning for coastal areas and ISO SHRA inland.
-SHRA taper off everywhere from north to south during the day Friday.
-Onshore winds in mountains into deserts 25-30 kts, creating MOD
-up/downdrafts in lee of ridges.
+230000Z...Widely SCT SHRA and ISO TSRA continue through Friday
+morning. There is some model agreement that SHRA activity increases
+for Orange/San Diego Counties from 10-18z Fri. Cigs down to 2000
+feet MSL and vis 3-5SM at times in heavier SHRA/TSRA, otherwise
+bases will be 3500-6000 feet MSL. Partial obscuration of mountains
+will continue through tonight. SHRA chances taper off from north to
+south during the day Friday. Low clouds also become more SCT in
+coverage.
+
+Onshore winds currently gusting 30-45 kts along desert
+slopes and locally into deserts. MOD up/downdrafts in lee of ridges.
+Winds slowly taper off from 03-09z Fri.
 
 &&
 
 .MARINE...
-A storm system will slowly move through the coastal waters today
-through Friday. There is a slight chance of thunderstorms today. Any
-thunderstorm is capable of producing gusty, erratic winds, choppy
-seas, lightning, briefly heavy rainfall with reduced visibility, and
-waterspouts. Isolated northwest wind gusts will occasionally exceed
-20 knots Friday. No hazardous marine conditions are expected Friday
-night through Monday.
+A storm system will slowly move through the coastal waters through
+Friday. There is a slight chance of thunderstorms through tonight.
+Any thunderstorm is capable of producing gusty, erratic winds,
+choppy seas, lightning, briefly heavy rainfall with reduced
+visibility, and waterspouts. Isolated northwest wind gusts will
+occasionally reach 20 knots Friday. No hazardous marine conditions
+are expected Friday night through Tuesday.
 
 &&
 
@@ -429,7 +435,8 @@ night through Monday.
 Astronomical high tides will create minor to moderate coastal
 flooding starting Saturday. Tides are 1.4-1.6 feet above
 predictions. Morning high tides could reach 7 feet Saturday morning
-and are likely to exceed 7.5 feet by Monday morning.
+and are likely to exceed 7.5 feet by Monday morning. Locally
+significant impacts expected from Monday to Wednesday.
 
 &&
 
@@ -453,7 +460,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
