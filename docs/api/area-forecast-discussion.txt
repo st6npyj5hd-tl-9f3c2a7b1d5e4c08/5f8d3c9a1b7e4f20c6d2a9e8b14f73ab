@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T11:09:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T16:37:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-791
-FXUS66 KSGX 230828
+463
+FXUS66 KSGX 231131
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-128 AM PDT Fri Oct 23 2026
+431 AM PDT Fri Oct 23 2026
 
 .SYNOPSIS...
 Scattered mostly light showers will continue through this morning,
@@ -366,6 +366,8 @@ next Tuesday through Thursday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 .SHORT TERM (Today through Sunday)...
 The area of showers over the coastal waters moving into southern
@@ -422,23 +424,19 @@ November 1st.
 &&
 
 .AVIATION...
-230530Z...SCT -SHRA mountains westward will continue through
-Friday morning. Cloud bases generally above 3500 feet MSL, except
-briefly down to 2500 feet and vis 4-6SM in SHRA. Partial
-obscuration of mountains will continue through tonight. Onshore
-wind gusts 25-30 kts along desert slopes and locally into deserts
-will gradually taper off overnight. -SHRA will gradually taper off
-from north to south Friday afternoon, but at the same time
-increase in mountains. Clearing all areas after 02Z Friday
-evening.
+231130Z...SCT -SHRA will continue mainly in San Diego County this
+morning. Cloud bases generally above 3000 feet MSL, except briefly
+down to 2500 feet and vis 5-6SM in SHRA. Partial obscuration of
+mountains will continue this morning. -SHRA will gradually taper off
+from north to south this afternoon, but at the same time increase in
+mountains. Clearing all areas from north to south after 03Z.
 
 &&
 
 .MARINE...
-A storm system will slowly move through the coastal waters through
-Friday. Isolated northwest wind gusts will occasionally reach 20
-knots Friday. No hazardous marine conditions are expected Friday
-night through Tuesday.
+Isolated northwest wind gusts will occasionally exceed 20 knots
+today in the outer waters. Otherwise, no hazardous marine conditions
+are expected through Tuesday.
 
 &&
 
