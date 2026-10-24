@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T15:32:11+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T20:23:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,22 +350,19 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-823
-FXUS66 KSGX 241141
+869
+FXUS66 KSGX 241830
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-441 AM PDT Sat Oct 24 2026
+1130 AM PDT Sat Oct 24 2026
 
 .SYNOPSIS...
-Clearer skies with warmer weather will occur this weekend with
-locally gusty Santa Ana winds along the slopes of the northern
-coastal basin. Fair and benign weather will be expected through the
-middle of next week with temperatures near normal. A larger
-troughing pattern will develop by the end of next week, bringing
-cooler weather with uncertainty in timing and specific amounts of
-any precipitation.
+Weak offshore flow will continue into Sunday. Gradual warming
+expected into Monday, then gradually cooler for the middle of next
+week with a chance of precipitation for late next week. Tides will
+remain elevated through much of next week.
 
 &&
 
@@ -373,67 +370,69 @@ any precipitation.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+At 11 AM, the pressure gradient from San Diego to
+Tonopah, NV was running 5.6 mb offshore. Winds had come down from
+their peak with only place with wind gusts over 30 mph was
+directly below the Cajon Pass. Earlier today gusts to 45 mph were
+observed near the Cajon Pass. Weak offshore flow will continue
+into Sunday, becoming weakly onshore by Monday. Given the
+unsettled weather quickly turning to offshore flow, marine layer
+low clouds and fog will be absent from the coast this weekend.
+It`s possible low clouds could return to some locations Monday
+morning, with higher confidence for low clouds returning by
+Tuesday morning.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures on Sunday are expected to be 3 to 5 degrees warmer
+than today with another degree or two of warming expected on Monday.
+By Monday, high temperatures in coastal areas will be 5 to 10
+degrees above average, with temperatures closer to average further
+inland. Temperatures will begin to trend below average by the end of
+the week.
 
-The area of low pressure that has been giving us clouds and showers
-will begin to move out of the region, bringing clearer and drier
-weather today. Behind it, northerly flow aloft will allow for weaker
-Santa Ana winds to funnel through the mountains and valleys of San
-Bernardino and Riverside Counties this morning and afternoon. Most
-areas will be 5-10 degrees warmer than yesterday. These winds die
-off by Sunday, as a weak troughing pattern prevails over the region
-into the middle of next week. High temperatures creep up a bit more
-on Sunday with a better chance to see highs reach 80 degrees across
-the western valleys. Little day to day changes can be expected
-Sunday through about Wednesday with mostly clear skies and minimal
-changes in temperatures with highs within 5 degrees of average.
-
-The weather across SoCal becomes more interesting for the latter
-half of next week as a troughing pattern develops over the West
-Coast. An area of low pressure is expected to develop around
-Wednesday across the Pacific Northwest. Models show larger scale
-troughing starting to develop over the West Coast by Thursday into
-next weekend, but to what magnitude and location is still yet to be
-determined. Confidence is starting to increase on seeing
-temperatures cool back to below average during this period. Ensemble
-model guidance begins to show increasing chances for precipitation
-around next Friday into the weekend. NBM rain chances match with
-this general idea for the official forecast. Since we are one week
-out, timing and exact precipitation amounts are greatly uncertain.
-Please be prepared for more wet weather impacts, especially as you
-start to make those Halloween weekend plans.
+Global ensembles are indicating the potential for unsettled weather
+for the end of next week. There remains a lot of spread in solutions
+and uncertainty in the details. Rain chances are in the forecast as
+early as Friday. In addition to precipitation, cooler, cloudier, and
+windier conditions may develop. Please be prepared for more wet
+weather impacts, especially as you start to make those Halloween
+weekend plans.
 
 &&
 
 .AVIATION...
-241100Z...Generally VFR conditions across the region through the
-period. Lingering areas of low clouds over mtns will scatter out by
-sunrise. N/NE winds strengthen through (and south of) the Cajon Pass
-and along south-facing mountain slopes over the next few hours with
-gusts 20-35 kts through early this afternoon. Winds weaken and
-eventually diminish late this afternoon and evening.
+241730Z...Generally VFR conditions across the region through the
+period. N/NE winds strengthen through (and south of) the Cajon Pass
+and along south-facing mountain slopes with gusts 20-35 kts through
+early this afternoon. Winds weaken and eventually diminish late this
+afternoon and evening, but will remain weakly offshore, enough to
+keep most if not all low clouds from forming. 10% or less chance for
+cigs vcnty KSAN.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+Winds gusts near 20 knots possible in the outer coastal waters
+Monday afternoon and evening. Otherwise, no hazardous marine
+conditions are expected through Wednesday.
 
 &&
 
 .BEACHES...
-Astronomical high tides will create significant coastal flooding
-starting Sunday. Tides will be anywhere from 1 to 1.7 feet above
-predictions. Morning high tides will reach near 7 feet starting
-today and are likely to exceed 7.5 or even 8 feet starting Monday
-morning. A Coastal Flood Warning is in effect for the entire Orange
-and San Diego coastline Sunday morning through Thursday morning.
+Daily high tides will create significant coastal flooding starting
+Sunday. Tides will be anywhere from 1 to 1.7 feet above astronomical
+predictions. Morning high tides were just over 7 feet this morning,
+and are likely to exceed 7.5 or even 8 feet starting Monday morning.
+While surf will not be elevated, these will be near if not record-
+breaking tides. A Coastal Flood Warning is in effect for the entire
+Orange and San Diego coastline Sunday morning through Thursday
+morning.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -447,8 +446,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
