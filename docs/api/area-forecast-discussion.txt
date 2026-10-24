@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T10:27:27+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T15:32:11+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,16 +345,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-918
-FXUS66 KSGX 240856
+823
+FXUS66 KSGX 241141
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-156 AM PDT Sat Oct 24 2026
+441 AM PDT Sat Oct 24 2026
 
 .SYNOPSIS...
 Clearer skies with warmer weather will occur this weekend with
@@ -370,6 +372,9 @@ any precipitation.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 The area of low pressure that has been giving us clouds and showers
 will begin to move out of the region, bringing clearer and drier
@@ -402,29 +407,27 @@ start to make those Halloween weekend plans.
 &&
 
 .AVIATION...
-240530Z...Generally VFR conditions across the region, though
--SHRA/SHRA will continue off and on for the next few hours in
-portions of San Diego County and in the Coachella Valley. Low clouds
-based 3-7 kft will slowly SCT overnight with SKC expected across the
-region by sunrise Sat. N/NE winds gusting 25-35 kts develop starting
-06-09z through (and south of) the Cajon Pass and along south-facing
-mountain slopes. Winds weaken and eventually diminish Saturday
-afternoon and evening.
+241100Z...Generally VFR conditions across the region through the
+period. Lingering areas of low clouds over mtns will scatter out by
+sunrise. N/NE winds strengthen through (and south of) the Cajon Pass
+and along south-facing mountain slopes over the next few hours with
+gusts 20-35 kts through early this afternoon. Winds weaken and
+eventually diminish late this afternoon and evening.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Tuesday.
+No hazardous marine conditions are expected through Wednesday.
 
 &&
 
 .BEACHES...
 Astronomical high tides will create significant coastal flooding
 starting Sunday. Tides will be anywhere from 1 to 1.7 feet above
-predictions. Morning high tides could reach near 7 feet Saturday
-morning and are likely to exceed 7.5 or 8 feet by Monday morning.
-A Coastal Flood Warning is in effect for the entire Orange and
-San Diego coastline Sunday morning through Thursday morning.
+predictions. Morning high tides will reach near 7 feet starting
+today and are likely to exceed 7.5 or even 8 feet starting Monday
+morning. A Coastal Flood Warning is in effect for the entire Orange
+and San Diego coastline Sunday morning through Thursday morning.
 
 &&
 
