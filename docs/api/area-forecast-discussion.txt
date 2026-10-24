@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-23T21:05:59+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T03:40:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-170
-FXUS66 KSGX 231930
+402
+FXUS66 KSGX 240026
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1230 PM PDT Fri Oct 23 2026
+526 PM PDT Fri Oct 23 2026
 
 .SYNOPSIS...
 Lingering scattered showers will bring light rain to areas west of
@@ -368,6 +368,9 @@ through much of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Radar imagery at 12 PM was showing scattered showers moving from
 north to south mainly across coastal areas. Over the past 6 hours,
@@ -406,19 +409,23 @@ cloudier, and windier conditions may develop.
 &&
 
 .AVIATION...
-231800Z...SHRA coming to an end, with most locations VFR. VCSH may
-continue through the evening, especially for San Diego County. VIS 5-
-6SM with any SHRA. Generally SCT-BKN 4000-6000ft MSL, clearing after
-24/03z. Generally no widespread low clouds tonight or Saturday
-morning, with VFR prevailing. Weak northeasterly winds overnight for
-inland airports.
+240015Z...SHRA are moving though the high desert and IE this
+evening, slowly pushing south across the region (west of mtns), then
+sweeping through San Diego county through ~06z. VCSH for coastal
+southern SD County through 10z. Bases generally 4-9 kft through the
+evening; SHRA to bring briefly MVFR (locally IFR) vis/cigs. As SHRA
+departs, BKN/OVC clouds scatter out in the lowlands from north to
+south this evening through tonight. Mostly VFR and clear by sunrise
+Sat with N/NE winds (gusting up to 30 kts) developing overnight
+through the morning around (and south of) the Cajon Pass and along
+coast facing slopes.
 
 &&
 
 .MARINE...
-Isolated northwest wind gusts will occasionally exceed 20 knots
-today in the outer waters. Otherwise, no hazardous marine conditions
-are expected through Tuesday.
+Isolated northwest wind gusts will occasionally exceed 20 knots in
+the outer waters through this evening. Otherwise, no hazardous
+marine conditions are expected through Tuesday.
 
 &&
 
@@ -450,7 +457,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
