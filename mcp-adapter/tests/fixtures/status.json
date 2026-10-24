@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-10-20T16:29:03.198307Z",
+  "sources": [
+    {
+      "logical_name": "school-calendar",
+      "source_url": "https://cdnsm5-ss18.sharpschool.com/UserFiles/Servers/Server_27732394/File/Academics/Academic%20Calendars/Traditional/Final%202025-26%20Academic%20Calendar%202025-26.pdf",
+      "output_path": "/api/school-calendar.pdf",
+      "success": true,
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes_written": 78475,
+      "sha256": "9d7dfe1d6c9e3effe3589b04aa5730e4a33de4f4a27a0e5ab97a889f9c595ea5",
+      "error": null
+    },
+    {
+      "logical_name": "area-forecast-discussion",
+      "source_url": "https://forecast.weather.gov/product.php?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=1&glossary=0",
+      "output_path": "/api/area-forecast-discussion.txt",
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_written": 29834,
+      "sha256": "1acd93d8ef47e1e0b195c06978fcf29bdb3c04c6913b92618f516dfbabe312ed",
+      "error": null
+    },
+    {
+      "logical_name": "forecast-dwml",
+      "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&unit=0&lg=english&FcstType=dwml",
+      "output_path": "/api/forecast.dwml",
+      "success": true,
+      "http_status": 200,
+      "content_type": "text/xml;charset=UTF-8",
+      "bytes_written": 10855,
+      "sha256": "baa299232626d477823b95a1c318b920d486a161c5d1916632237f9126bbd9f2",
+      "error": null
+    },
+    {
+      "logical_name": "hourly-forecast-dwml",
+      "source_url": "https://forecast.weather.gov/MapClick.php?lat=32.8007&lon=-117.0497&FcstType=digitalDWML",
+      "output_path": "/api/hourly-forecast.dwml",
+      "success": true,
+      "http_status": 200,
+      "content_type": "application/xml",
+      "bytes_written": 62229,
+      "sha256": "e25f8822e01a83dcd3a354521f8b2ff1b0fdfc13cf74b1dab4ecc7a39925bb63",
+      "error": null
+    }
+  ]
+}
