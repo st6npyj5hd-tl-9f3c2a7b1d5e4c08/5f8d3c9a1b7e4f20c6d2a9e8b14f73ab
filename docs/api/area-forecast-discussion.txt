@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T03:38:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T10:54:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,19 +350,20 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-899
-FXUS66 KSGX 250024
+145
+FXUS66 KSGX 250900
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-524 PM PDT Sat Oct 24 2026
+200 AM PDT Sun Oct 25 2026
 
 .SYNOPSIS...
-Weak offshore flow will continue into Sunday. Gradual warming
-expected into Monday, then gradually cooler for the middle of next
-week with a chance of precipitation for late next week. Tides will
-remain elevated through much of next week.
+Calm and warmer weather will occur through Wednesday. The warmest
+days of the week will be today and Monday with marine layer clouds
+returning by Tuesday or Wednesday morning near the coast. Cooler
+and breezier with increased chances for precipitation entering
+the picture by later in the week.
 
 &&
 
@@ -370,49 +371,59 @@ remain elevated through much of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Mostly clear skies are seen on satellite this morning with
+increasing mid-level clouds to our west over the Pacific. Models
+show these clouds moving over the region late this afternoon through
+the night, bringing a nice sunset for some.  High temperatures will
+be slightly warmer today than yesterday. NBM chances are moderate to
+high in seeing temperatures eclipse the 80 degree mark across inland
+Orange County, the northern Inland Empire and inland valleys of SD
+County. Temperatures in these areas cool a few degrees by Tuesday
+and Wednesday, with other regions staying fairly similar from day to
+day over the next few days. As pressure heights subtly lower, this
+will increase the depth of the marine layer. Low clouds and patchy
+fog may form offshore and near coastal areas as early as Tuesday
+morning, with higher confidence on this occurring by Tuesday night
+into Wednesday morning.
 
-...UPDATED AVIATION DISCUSSION...
+The weather pattern begins to shift by Thursday into next weekend.
+Like yesterday, models continue to show an area of low pressure
+entering the Pacific Northwest around Wednesday into Thursday, where
+a large troughing pattern begins to set up across the West Coast.
+This will bring a deeper marine layer and a cooling trend to the
+region starting Thursday into next weekend. Increased cloud cover
+with chances for precipitation may begin as early as late Thursday
+night, though some model solutions have begun to push back rain
+chances later in time. The broad troughing pattern will bring
+temperatures back below normal with breezier conditions across the
+mountains and deserts. This pattern may also bring little to no
+rainfall at first, where Thursday night into Friday may be mostly
+dry with only isolated light showers for some.
 
-At 11 AM, the pressure gradient from San Diego to
-Tonopah, NV was running 5.6 mb offshore. Winds had come down from
-their peak with only place with wind gusts over 30 mph was
-directly below the Cajon Pass. Earlier today gusts to 45 mph were
-observed near the Cajon Pass. Weak offshore flow will continue
-into Sunday, becoming weakly onshore by Monday. Given the
-unsettled weather quickly turning to offshore flow, marine layer
-low clouds and fog will be absent from the coast this weekend.
-It`s possible low clouds could return to some locations Monday
-morning, with higher confidence for low clouds returning by
-Tuesday morning.
-
-High temperatures on Sunday are expected to be 3 to 5 degrees warmer
-than today with another degree or two of warming expected on Monday.
-By Monday, high temperatures in coastal areas will be 5 to 10
-degrees above average, with temperatures closer to average further
-inland. Temperatures will begin to trend below average by the end of
-the week.
-
-Global ensembles are indicating the potential for unsettled weather
-for the end of next week. There remains a lot of spread in solutions
-and uncertainty in the details. Rain chances are in the forecast as
-early as Friday. In addition to precipitation, cooler, cloudier, and
-windier conditions may develop. Please be prepared for more wet
-weather impacts, especially as you start to make those Halloween
-weekend plans.
+During this time period, model guidance begins to diverge on how the
+direction/strength of the Pac NW low interacts with the possibility
+of a shortwave with increased subtropical moisture that may poise
+itself somewhere to our south or west over the Pacific.  Details in
+where these systems develop and trek will be key in determining how
+much precipitation falls across the region. Does the Pac NW low stay
+further north and the potential subtropical shortwave stays further
+to the south, giving us minimal rainfall? Do they combine forces,
+giving us a wetter scenario? Something in between? Whatever occurs,
+confidence continues to increase for wetter and cooler conditions
+for the Halloween weekend, so make sure to continue to monitor the
+latest forecast.
 
 &&
 
 .AVIATION...
-250000Z...SCT cumulus clouds based 5-10 kft MSL over mountains,
-scattering out this evening. Otherwise, generally VFR conditions
-across the region through the period.
+250500Z...VFR conditions across the region through the period.
 
 &&
 
 .MARINE...
 Winds gusts near 20 knots possible in the outer coastal waters
 Monday afternoon and evening. Otherwise, no hazardous marine
-conditions are expected through Wednesday.
+conditions are expected through Thursday.
 
 &&
 
@@ -432,12 +443,12 @@ morning.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning from 5 AM Sunday to 1 PM PDT Thursday for
-     Orange County Coastal Areas-San Diego County Coastal Areas.
+CA...Coastal Flood Warning from 5 AM early this morning to 1 PM PDT
+     Thursday for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
 
 PZ...None.
 
@@ -445,8 +456,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...APR
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
