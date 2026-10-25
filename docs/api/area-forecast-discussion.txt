@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T15:41:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T20:29:56+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -347,23 +347,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-160
-FXUS66 KSGX 251134
+162
+FXUS66 KSGX 251822
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-434 AM PDT Sun Oct 25 2026
+1122 AM PDT Sun Oct 25 2026
 
 .SYNOPSIS...
-Calm and warmer weather will occur through Wednesday. The warmest
-days of the week will be today and Monday with marine layer clouds
-returning by Tuesday or Wednesday morning near the coast. Cooler
-and breezier with increased chances for precipitation entering
-the picture by later in the week.
+Near to slightly above average temperatures through Monday, then
+gradually cooler for the middle to end of the week. Unsettled
+weather expected for the end of the week with increased winds and
+chance of precipitation. Tides will remain elevated through much
+of this week.
 
 &&
 
@@ -371,55 +373,37 @@ the picture by later in the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Visible satellite at 11 AM was showing clear skies across Southern
+California. Highs today are expected to be in the upper 70s to upper
+80s for most locations, with spots in the mountains in the 50 to 60
+degree range. The pressure gradient between San Diego and Tonopah,
+NV was still weakly offshore this morning. Onshore flow is expected
+to return Monday as an upper level low pressure system moves into
+the Pacific Northwest. Marine layer low clouds have a small
+chance of returning to some coastal locations Monday morning, with
+higher confidence for low clouds returning by Tuesday morning.
+Once marine layer low clouds and areas of fog return, they will be
+present each night and morning through the week.
 
-...UPDATED AVIATION DISCUSSION...
+High temperatures Monday will be similar to today`s. High
+temperatures in coastal areas will be 5 to 10 degrees above average,
+with temperatures closer to average further inland. By Wednesday,
+forecast has widespread below average temperatures. Temperatures are
+forecast to remain below average through the remainder of the
+week.
 
-Mostly clear skies are seen on satellite this morning with
-increasing mid-level clouds to our west over the Pacific. Models
-show these clouds moving over the region late this afternoon through
-the night, bringing a nice sunset for some.  High temperatures will
-be slightly warmer today than yesterday. NBM chances are moderate to
-high in seeing temperatures eclipse the 80 degree mark across inland
-Orange County, the northern Inland Empire and inland valleys of SD
-County. Temperatures in these areas cool a few degrees by Tuesday
-and Wednesday, with other regions staying fairly similar from day to
-day over the next few days. As pressure heights subtly lower, this
-will increase the depth of the marine layer. Low clouds and patchy
-fog may form offshore and near coastal areas as early as Tuesday
-morning, with higher confidence on this occurring by Tuesday night
-into Wednesday morning.
-
-The weather pattern begins to shift by Thursday into next weekend.
-Like yesterday, models continue to show an area of low pressure
-entering the Pacific Northwest around Wednesday into Thursday, where
-a large troughing pattern begins to set up across the West Coast.
-This will bring a deeper marine layer and a cooling trend to the
-region starting Thursday into next weekend. Increased cloud cover
-with chances for precipitation may begin as early as late Thursday
-night, though some model solutions have begun to push back rain
-chances later in time. The broad troughing pattern will bring
-temperatures back below normal with breezier conditions across the
-mountains and deserts. This pattern may also bring little to no
-rainfall at first, where Thursday night into Friday may be mostly
-dry with only isolated light showers for some.
-
-During this time period, model guidance begins to diverge on how the
-direction/strength of the Pac NW low interacts with the possibility
-of a shortwave with increased subtropical moisture that may poise
-itself somewhere to our south or west over the Pacific.  Details in
-where these systems develop and trek will be key in determining how
-much precipitation falls across the region. Does the Pac NW low stay
-further north and the potential subtropical shortwave stays further
-to the south, giving us minimal rainfall? Do they combine forces,
-giving us a wetter scenario? Something in between? Whatever occurs,
-confidence continues to increase for wetter and cooler conditions
-for the Halloween weekend, so make sure to continue to monitor the
-latest forecast.
+Global ensembles continue to indicate unsettled weather for
+the end of the week into the first days of November. There
+remains a lot of uncertainty in the details, which will ultimately
+be dictated by how far south the upper level low off the coast of
+the Pacific Northwest tracks. Rain chances are in the forecast as
+early as Friday. In addition to precipitation, cooler, cloudier,
+and windier conditions are expected.
 
 &&
 
 .AVIATION...
-251100Z...Generally VFR conditions across the region through the
+251700Z...Most likely VFR conditions across the region through the
 period. 20% chance for very patchy low clouds based 500-1000 ft MSL
 over nearshore waters and along the coastline tonight. No impacts
 expected for coastal TAF sites at this time.
@@ -427,20 +411,20 @@ expected for coastal TAF sites at this time.
 &&
 
 .MARINE...
-Winds gusts near 20 knots possible in the outer coastal waters
+Winds gusts near 20 knots expected in the outer coastal waters
 Monday afternoon and evening. Otherwise, no hazardous marine
 conditions are expected through Thursday.
 
 &&
 
 .BEACHES...
-Morning high tides will create significant coastal flooding starting
-today. Tides will be anywhere from 1 to 1.7 feet above astronomical
-predictions. Morning high tides may exceed 7.5 feet this morning and
-will approach and potentially exceed 8 feet starting Monday morning.
-While surf will not be elevated, these will be near if not record-
-breaking tides. A Coastal Flood Warning is in effect for the entire
-Orange and San Diego coastline this morning through Thursday morning.
+Morning high tides will create significant coastal flooding through
+Thursday afternoon. Tides will be anywhere from 1 to 1.7 feet above
+astronomical predictions, with morning high tides approaching and potentially
+exceeding 8 feet starting Monday morning. While surf will not be
+elevated, these will be near if not record-breaking tides. A Coastal
+Flood Warning is in effect for the entire Orange and San Diego
+coastline through Thursday morning.
 
 &&
 
@@ -461,8 +445,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
