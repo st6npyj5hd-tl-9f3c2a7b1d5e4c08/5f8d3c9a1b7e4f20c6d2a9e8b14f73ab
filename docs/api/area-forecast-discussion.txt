@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T10:54:45+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T15:41:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-145
-FXUS66 KSGX 250900
+160
+FXUS66 KSGX 251134
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-200 AM PDT Sun Oct 25 2026
+434 AM PDT Sun Oct 25 2026
 
 .SYNOPSIS...
 Calm and warmer weather will occur through Wednesday. The warmest
@@ -370,6 +370,9 @@ the picture by later in the week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Mostly clear skies are seen on satellite this morning with
 increasing mid-level clouds to our west over the Pacific. Models
@@ -416,7 +419,10 @@ latest forecast.
 &&
 
 .AVIATION...
-250500Z...VFR conditions across the region through the period.
+251100Z...Generally VFR conditions across the region through the
+period. 20% chance for very patchy low clouds based 500-1000 ft MSL
+over nearshore waters and along the coastline tonight. No impacts
+expected for coastal TAF sites at this time.
 
 &&
 
@@ -428,14 +434,13 @@ conditions are expected through Thursday.
 &&
 
 .BEACHES...
-Daily high tides will create significant coastal flooding starting
-Sunday. Tides will be anywhere from 1 to 1.7 feet above astronomical
-predictions. Morning high tides were just over 7 feet this morning,
-and are likely to exceed 7.5 or even 8 feet starting Monday morning.
+Morning high tides will create significant coastal flooding starting
+today. Tides will be anywhere from 1 to 1.7 feet above astronomical
+predictions. Morning high tides may exceed 7.5 feet this morning and
+will approach and potentially exceed 8 feet starting Monday morning.
 While surf will not be elevated, these will be near if not record-
 breaking tides. A Coastal Flood Warning is in effect for the entire
-Orange and San Diego coastline Sunday morning through Thursday
-morning.
+Orange and San Diego coastline this morning through Thursday morning.
 
 &&
 
@@ -443,12 +448,12 @@ morning.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning from 5 AM early this morning to 1 PM PDT
-     Thursday for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
+CA...Coastal Flood Warning until 1 PM PDT Thursday for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
