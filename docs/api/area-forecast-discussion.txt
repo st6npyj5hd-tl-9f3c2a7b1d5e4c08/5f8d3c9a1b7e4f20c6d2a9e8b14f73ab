@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-24T20:23:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T03:38:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-869
-FXUS66 KSGX 241830
+899
+FXUS66 KSGX 250024
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1130 AM PDT Sat Oct 24 2026
+524 PM PDT Sat Oct 24 2026
 
 .SYNOPSIS...
 Weak offshore flow will continue into Sunday. Gradual warming
@@ -369,6 +369,9 @@ remain elevated through much of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 At 11 AM, the pressure gradient from San Diego to
 Tonopah, NV was running 5.6 mb offshore. Winds had come down from
@@ -400,13 +403,9 @@ weekend plans.
 &&
 
 .AVIATION...
-241730Z...Generally VFR conditions across the region through the
-period. N/NE winds strengthen through (and south of) the Cajon Pass
-and along south-facing mountain slopes with gusts 20-35 kts through
-early this afternoon. Winds weaken and eventually diminish late this
-afternoon and evening, but will remain weakly offshore, enough to
-keep most if not all low clouds from forming. 10% or less chance for
-cigs vcnty KSAN.
+250000Z...SCT cumulus clouds based 5-10 kft MSL over mountains,
+scattering out this evening. Otherwise, generally VFR conditions
+across the region through the period.
 
 &&
 
@@ -447,7 +446,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
