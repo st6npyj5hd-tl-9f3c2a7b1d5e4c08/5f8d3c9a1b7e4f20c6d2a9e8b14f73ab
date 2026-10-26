@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-25T20:29:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-26T03:41:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-162
-FXUS66 KSGX 251822
+216
+FXUS66 KSGX 260011
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1122 AM PDT Sun Oct 25 2026
+511 PM PDT Sun Oct 25 2026
 
 .SYNOPSIS...
 Near to slightly above average temperatures through Monday, then
@@ -372,6 +370,9 @@ of this week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Visible satellite at 11 AM was showing clear skies across Southern
 California. Highs today are expected to be in the upper 70s to upper
@@ -403,10 +404,11 @@ and windier conditions are expected.
 &&
 
 .AVIATION...
-251700Z...Most likely VFR conditions across the region through the
-period. 20% chance for very patchy low clouds based 500-1000 ft MSL
-over nearshore waters and along the coastline tonight. No impacts
-expected for coastal TAF sites at this time.
+260000Z...Mostly VFR conditions across the region through the
+period. SCT cumulus over mts through this evening. 20% chance for
+very patchy low clouds based 500-1000 ft MSL over nearshore waters
+and along the coastline tonight. No impacts expected for coastal TAF
+sites at this time.
 
 &&
 
@@ -446,7 +448,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...CSP
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
