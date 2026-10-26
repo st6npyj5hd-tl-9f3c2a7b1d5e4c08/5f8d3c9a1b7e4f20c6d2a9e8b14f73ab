@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-26T03:41:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-26T12:25:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,23 +347,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-216
-FXUS66 KSGX 260011
+221
+FXUS66 KSGX 261131
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-511 PM PDT Sun Oct 25 2026
+431 AM PDT Mon Oct 26 2026
 
 .SYNOPSIS...
-Near to slightly above average temperatures through Monday, then
-gradually cooler for the middle to end of the week. Unsettled
-weather expected for the end of the week with increased winds and
-chance of precipitation. Tides will remain elevated through much
-of this week.
+Not much change in high temperatures is expected for today
+followed by a gradual cooling trend through next weekend. Chances
+for showers will increase each day for Thursday through Sunday
+with chances for heavier rainfall increasing during next weekend.
+There could also be stronger and gusty wind for late Saturday
+through Sunday. Tides will remain elevated through much of this
+week.
 
 &&
 
@@ -371,69 +375,83 @@ of this week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
 ...UPDATED AVIATION DISCUSSION...
 
-Visible satellite at 11 AM was showing clear skies across Southern
-California. Highs today are expected to be in the upper 70s to upper
-80s for most locations, with spots in the mountains in the 50 to 60
-degree range. The pressure gradient between San Diego and Tonopah,
-NV was still weakly offshore this morning. Onshore flow is expected
-to return Monday as an upper level low pressure system moves into
-the Pacific Northwest. Marine layer low clouds have a small
-chance of returning to some coastal locations Monday morning, with
-higher confidence for low clouds returning by Tuesday morning.
-Once marine layer low clouds and areas of fog return, they will be
-present each night and morning through the week.
+.SHORT TERM (Today through Wednesday)...
+High temperatures for the deserts into the mountains will warm a
+few degrees today with not much change for the coast and valleys.
+High temperatures for today for the coast and valleys will be
+mostly in the mid 70s to lower 80s and for the mountains in the
+50s and 60s.
 
-High temperatures Monday will be similar to today`s. High
-temperatures in coastal areas will be 5 to 10 degrees above average,
-with temperatures closer to average further inland. By Wednesday,
-forecast has widespread below average temperatures. Temperatures are
-forecast to remain below average through the remainder of the
-week.
+A gradual cooling trend will begin on Tuesday and continue through
+next weekend. High temperatures on Wednesday will be a few
+degrees below average near the coast and in the lower deserts to 4
+to 8 degrees below average for the mountains and inland valleys.
+High temperatures on Wednesday for the coast and valleys will be
+mostly in the 70s and for the mountains in the mid 40s to mid 60s.
 
-Global ensembles continue to indicate unsettled weather for
-the end of the week into the first days of November. There
-remains a lot of uncertainty in the details, which will ultimately
-be dictated by how far south the upper level low off the coast of
-the Pacific Northwest tracks. Rain chances are in the forecast as
-early as Friday. In addition to precipitation, cooler, cloudier,
-and windier conditions are expected.
+Coastal low clouds may return for tonight into Tuesday morning
+with greater spread into the valleys for Tuesday night into
+Wednesday morning. There will be increasing high clouds beginning
+around Wednesday.
+
+&&
+
+.LONG TERM (Thursday through Sunday)...
+The cooling trend will continue through Sunday with high
+temperatures for inland areas next Sunday mostly 10 to 15 degrees
+below average. High temperatures for next Sunday will be mostly
+in the 60s to around 70 for the coast and valleys and for the
+mountains in the mid 30s to mid 50s.
+
+The center of a closed low pressure center will be near the
+Pacific Northwest coast for Thursday through Sunday. A nearly
+zonal subtropical jet stream from the central and eastern Pacific
+into northern Baja will strengthen for Friday and Saturday,
+possibly transporting a low pressure into northern Baja into far
+southern California some time around late Saturday into Sunday.
+ECMWF ensemble output increases precipitable water values in far
+southern California to 1.2 to 1.4 inches on Saturday afternoon and
+evening, around 200 to 250 percent of normal.
+
+For Thursday through Sunday, the chance for measurable rainfall
+will increase each day with chances for greater amounts increasing
+during next weekend. For Saturday morning through Sunday night,
+The chance of 1 inch or more of rainfall for the coast to the
+mountains is greater than 40 percent, and for San Diego County
+and the Riverside County mountains 50 to 60 percent. Chances for
+2 inches or more is mostly 25 to 35 percent for the coast to the
+mountains with chances for 3 inches or more 15 to 25 percent.
 
 &&
 
 .AVIATION...
-260000Z...Mostly VFR conditions across the region through the
-period. SCT cumulus over mts through this evening. 20% chance for
-very patchy low clouds based 500-1000 ft MSL over nearshore waters
-and along the coastline tonight. No impacts expected for coastal TAF
-sites at this time.
+261130Z...Mostly clear and VFR conditions today and tonight across
+the region. Except for patchy coastal low clouds based 700-1200 feet
+MSL after 08Z Tuesday, leading to a 20-40% chance of cigs at coastal
+airports Tuesday morning.
 
 &&
 
 .MARINE...
-Winds gusts near 20 knots expected in the outer coastal waters
-Monday afternoon and evening. Otherwise, no hazardous marine
-conditions are expected through Thursday.
+No hazardous marine conditions are expected through Friday. Except
+for a few wind gusts exceeding 20 knots in the outer coastal waters
+late this afternoon and evening.
 
 &&
 
 .BEACHES...
-Morning high tides will create significant coastal flooding through
-Thursday afternoon. Tides will be anywhere from 1 to 1.7 feet above
-astronomical predictions, with morning high tides approaching and potentially
-exceeding 8 feet starting Monday morning. While surf will not be
-elevated, these will be near if not record-breaking tides. A Coastal
-Flood Warning is in effect for the entire Orange and San Diego
-coastline through Thursday morning.
+High tides during the late mornings will generate significant
+coastal flooding this week. Tides will be anywhere from 1.5 to 1.7
+feet above astronomical predictions, likely raising high tides above
+8 feet. A Coastal Flood Warning contains the details.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -447,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
