@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-28T04:32:22+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-28T12:17:32+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,24 +348,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-938
-FXUS66 KSGX 272337
+297
+FXUS66 KSGX 281134
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-437 PM PDT Tue Oct 27 2026
+434 AM PDT Wed Oct 28 2026
 
 .SYNOPSIS...
-Cooling will spread inland as we approach the weekend, with high
-temperatures on Sunday around 10 to 15 degrees below average for
-inland areas. Chances for showers will begin increasing on Friday
-and be highest late Saturday into early Sunday. Chances for
-rainfall will be around 45 to 55 percent for 0.50 inch or more
-from the coast to the mountains, with a 35 to 40 percent chance
-for 1 inches or more. Tides will remain elevated through much of
-this week with near record water levels resulting in coastal
-flooding.
+The cooling trend will continue into the weekend with increasing
+clouds. Some lighter rain could occur for late Thursday night
+into Friday from the coast to the mountains. There are greater
+chances for heavier rainfall for Saturday night into Sunday with
+the most likely time for the heaviest rainfall late Saturday
+night. Then warmer and drier for next week. Tides will remain
+elevated through much of this week with near record water levels
+resulting in coastal flooding.
 
 &&
 
@@ -373,65 +372,60 @@ flooding.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Friday)...
+The cooling trend will continue into the weekend with high
+temperatures on Friday as much as 10 to 15 degrees below average
+for the mountains. High temperatures on Friday for the coast and
+valleys will be mostly in the mid 60s to lower 70s with the
+mountains in the mid 40s to mid 60s. Clouds will increase with a
+slight chance for lighter showers from the coast to the mountains
+for late Thursday night into Friday morning. The chance for more
+than 0.10 inch is highest for San Diego County from the coast to
+the mountains, but still only 10 to 20 percent.
 
-Sunny this afternoon, with temperatures near or a little lower
-than at this time yesterday except in the mountains where
-temperatures are generally a few degrees higher.
+&&
 
-A gradual cooling trend will continue through Thursday under zonal
-flow aloft ahead of low pressure systems approaching from the west
-and northwest. Daytime high temperatures will be mostly 5 to 10
-degrees below normal. High temperatures on Thursday for the coast and
-valleys will be mostly in the low to mid 70s, for the mountains
-in the mid 40s to mid 60s, and for the lower deserts in the low
-to mid 80s.
+.LONG TERM (Saturday through Tuesday)...
+A subtropical low pressure system will move inland into
+southwestern California for late Saturday into Sunday.
+The trend is for greater rainfall for much of southwestern
+California from the coast to the mountains. Some lighter showers
+could develop for Saturday afternoon into Saturday evening. The
+greatest potential for heavier rainfall is for late Saturday
+night.
 
-Clouds will begin increasing from the west tonight becoming
-widespread by mid-morning on Wednesday as a closed upper low to
-our west becomes an open wave as it gets absorbed into the flow
-on the south side of a stronger low near the coast of Washington
-state.
+Through Sunday, the ECMWF AIFS ensemble output only has 15 percent
+of members with less than 1 inch of rainfall for San Diego with
+the greatest rainfall for the east-west mountain ranges from
+Ventura County to southwestern San Bernardino County. For Saturday
+night through Sunday afternoon, the ECMWF Extreme Forecast index
+has increased rainfall across San Diego County to between the 80th
+and 90th percentile.
 
-The cooling trend will continue into the weekend as extensive
-troughing develops off the coast south of the parent low near the
-WA coast. Saturday and Sunday will likely be the coolest days,
-with high temperatures 10 to 15 degrees below average for inland
-areas and 15 to 20 degrees below average for the mountains above
-6000 feet. High temperatures on Sunday for the coast and valleys
-will be mostly in the 60s, for the mountains in the mid 30s to mid
-50s, and for the lower deserts in the lower to mid 70s.
-
-The low pressure systems will also bring chances for
-precipitation, starting as early as Friday evening. Rainfall
-chances will be greatest for Saturday night into Sunday morning.
-There remains a wide range in rainfall estimates. For the 24 hour
-period ending Sunday afternoon, chances for rainfall will be
-around 45 to 55 percent for 0.50 inch or more from the coast to
-the mountains, with a 35 to 40 percent chance for 1 inches or
-more. Snow levels will remain high enough so that any
-accumulations will only occur on at the highest elevations.
-
-Precip will taper off early next Monday and temperatures will
-begin to rise as the low pressure moves east. High temperatures on
-Monday and Tuesday will still be a few degrees below normal for
-inland areas under a ridge of high pressure.
+It will be dry with warming for next week with high temperatures
+for next Tuesday a few degrees above average for coastal areas
+with inland areas around 5 degrees below average. High
+temperatures for next Tuesday for the coast and valleys would be
+mostly in the 70s, for the mountains in the mid 40s to mid 60s,
+and in the lower deserts around 80.
 
 &&
 
 .AVIATION...
-272330Z...VFR conditions prevail through this evening, with
-increasing high clouds above 10 kft expected tonight. Intermittent
-areas of low clouds based around 1500-2000 ft MSL expected Sunday
-morning from 08-15z, mainly for coastal areas. Very patchy coverage
-of low clouds for inland valleys. Clouds scatter out by 15-16z with
-VFR conditions expected through Wednesday afternoon.
+281130Z...SCT-BKN high clouds above 20 kft today and tonight. Patchy
+and intermittent low clouds based around 1500-2000 feet MSL most
+likely around KSNA through 16Z. A greater chance of cigs based at
+1800-2000 feet MSL, but still random and intermittent, after 04Z
+tonight, extending inland overnight into Thursday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through Saturday. A
+storm system arriving Saturday night and Sunday could generate
+hazardous wind and sea conditions.
 
 &&
 
@@ -440,16 +434,33 @@ High tides during the late mornings will generate significant
 coastal flooding this week. Tides will be anywhere from 1.4 to 1.6
 feet above astronomical predictions, bringing high tides to 7.7-7.9
 feet through Thursday. A Coastal Flood Warning remains in effect
-through Thursday afternoon and contains more details. Otherwise,
-surf will become elevated (potential for high surf) on Sunday with
-the passage of a storm system. More details in the coming days.
+through Thursday afternoon and contains more details. A storm system
+will bring increased surf on Sunday. Stay tuned for updates.
+
+&&
+
+.CLIMATE...
+The water level at San Diego during the peak of the high tide
+Tuesday morning of 2.80 feet MHHW (8.52 feet MLLW) is the new
+highest water level recorded at San Diego, exceeding by 0.8
+feet the previous record set on Monday. Four of the 10 highest
+water levels observed at San Diego have occurred in 2026 since
+mid July.
+
+Predicted astronomical high tides for king tides in November,
+December, and January will be higher than for the astronomical
+high tides of this week.
+
+Change relative to October 27th (Tuesday):
+ November 25th: + 0.35 feet
+ December 24th: + 0.46 feet
+ January  22nd: + 0.31 feet
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -463,8 +474,8 @@ PZ...None.
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...KW
+PUBLIC/CLIMATE...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
