@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-28T22:17:40+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-29T04:47:33+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,16 +347,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-245
-FXUS66 KSGX 281936
+045
+FXUS66 KSGX 290224
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1236 PM PDT Wed Oct 28 2026
+724 PM PDT Wed Oct 28 2026
 
 .SYNOPSIS...
 A subtle cooling trend with cloudier skies and a rainier outlook is
@@ -370,8 +372,7 @@ and dry weather is expected by Monday into the middle of next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
+...UPDATED AVIATION DISCUSSION...
 
 A weak troughing pattern will continue across the region today into
 Thursday. This will bring temperatures near to slightly below normal
@@ -421,16 +422,17 @@ weather later next week.
 &&
 
 .AVIATION...
-281800Z...SCT-BKN high clouds above 20 kft throughout the TAF
-period. VFR conditions prevail into this evening, with deep marine
-layer clouds expected to filter in after 04z Thursday. Marine layer
-clouds will likely be based around 1500-2000ft. Coverage of these
-marine layer clouds will likely stretch into inland valleys and the
-Inland Empire, but is also expected to be very patchy with
-intermittent CIG coverage. There is higher confidence for more
-uniform CIG coverage along the coasts between 12-16z Thursday. Any
-CIGs will likely scatter out by 16-18z, with SCT marine layer clouds
-likely lingering into the afternoon hours.
+290230Z...SCT-BKN marine layer clouds based 2500-3000 ft MSL are
+currently filling in for coasts and valleys up to 20 miles inland. A
+lower layer may develop near 2000 ft MSL sometime 04-08z Thu.
+Coverage of low clouds should become more uniform near the coast
+overnight, but remain intermittent for inland valleys with
+occasional scattering. Low clouds push into the Inland Empire after
+06z, but coverage in this zone should remain patchy. Low clouds
+scatter back to the coast 15-18z, though SCT low clouds may hang
+over coastal areas all day, especially in San Diego County. Low
+clouds based 2500-3500 ft MSL rush back inland early Thursday
+evening.
 
 &&
 
@@ -463,6 +465,13 @@ details become more clear.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Warning until 1 PM PDT Thursday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -477,7 +486,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
