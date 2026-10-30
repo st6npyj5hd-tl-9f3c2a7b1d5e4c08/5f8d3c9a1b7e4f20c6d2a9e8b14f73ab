@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-30T12:18:16+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-30T21:59:38+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -349,29 +349,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=44&glossary=0">44</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-934
-FXUS66 KSGX 300859
+966
+FXUS66 KSGX 302041
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-159 AM PDT Fri Oct 30 2026
+141 PM PDT Fri Oct 30 2026
 
 .SYNOPSIS...
-Scattered, mostly light showers will continue for the coast and
-valleys onto the coastal slopes of the mountains into this
-morning with more widely scattered showers possible at times for
-this afternoon into Saturday morning. More widespread showers
-will return Saturday afternoon or evening with showers possibly
-becoming heavy at times for late Saturday night into Sunday
+Widely scattered light showers will continue for the coastal basin
+through tonight, lingering at the coast through early Saturday.
+More widespread light rain will return Saturday evening with short
+periods of moderate to heavy rain late Saturday night into Sunday
 morning. Showers are expected to decrease on Sunday afternoon and
 end by Monday morning. Dry and warmer for Monday and Tuesday with
-high temperatures warming to around average on Tuesday. Around 5
-degrees cooler for Wednesday and Thursday with a chance of
-showers.
+high temperatures warming to around average on Tuesday.
 
 &&
 
@@ -379,120 +377,115 @@ showers.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-.SHORT TERM (Today through Sunday)...
-Scattered showers across the coast and valleys onto the coastal
-slopes of the mountains have mostly produced 0.10 inch or less of
-rainfall for Thursday evening through 2 AM today with isolated
-totals to 0.25 to 0.35 inch.
 
-Scattered, mostly light showers will continue for the coast and
-valleys onto the coastal slopes of the mountains into this
-morning with more widely scattered showers possible at times for
-this afternoon into Saturday with additional rainfall mostly 0.10
-inch to locally 0.25 inch into Saturday morning.
+Last night, light rain moved through the coastal basin, tapering off
+early this morning. Overnight accumulations generally totaled less
+than 0.15" with up to 0.5" in foothill and mountain locations.
 
-More widespread showers will return Saturday afternoon or evening
-with showers possibly becoming heavy at times for late Saturday
-night into Sunday morning. Showers are expected to decrease on
-Sunday afternoon and end by Monday morning.
+Expect mostly cloudy skies across the region for the rest of the
+day, with a few light, widely scattered showers and a few peeks of
+sunshine. Showers taper off everywhere overnight except for
+coastal areas, which could continue to see light showers through
+Saturday morning.
 
-For Saturday morning through Sunday night from the coast to the
-mountains, the chance for 0.10 inch or more of rainfall is mostly
-80 to 90 percent.
+Saturday will remain overcast across the region, though uncertainty
+remains regarding the onset of widespread precipitation.
 
-For Saturday morning through Sunday night from the coast to the
-mountains, the chance for 1 inch or more of rainfall ranges from
-30 percent for eastern Los Angeles County to 65 to 70 percent for
-southern San Diego County.
+Current high-resolution guidance generally delays widespread
+rainfall until late Saturday night, potentially near or after
+midnight. However, the 00z Sunday GFS soundings off the coast depict
+an already saturated mid and upper level atmosphere with a classic
+mid-level warm frontal inversion. This suggests showers could
+develop as early as late Saturday afternoon, with more widespread
+rainfall spreading across the coastal basin by Halloween evening.
+Meanwhile, confidence still remain high that precipitation across
+the Coachella Valley and lower deserts will hold off until the
+overnight hours of Saturday into Sunday.
 
-For Saturday morning through Sunday night from the coast to the
-mountains, the chance for 2 inches or more of rainfall ranges
-from 10 percent for Orange and southwestern San Bernardino
-Counties to 35 to 45 percent over far southern San Diego County.
+Precipitation Saturday night will start off light and steady, with
+embedded pockets of moderate to locally heavy rain during the early
+hours of Sunday. Later Sunday morning, widespread rainfall is
+expected to transition to scattered showers across the coastal
+basin, with precipitation ending in the deserts. Showers become
+increasingly isolated through Sunday afternoon, except along the San
+Diego County foothills and mountains, where more persistent activity
+will continue. Most precipitation should come to an end by Sunday
+night with mostly sunny skies returning region-wide by Monday.
 
-&&
+The first few hours of precipitation will feature mainly consistent
+light rain region-wide with perhaps a few pockets of moderate,
+locally heavy rain in the very early hours of Sunday. Sunday
+morning, widespread rain scatters out to showers for the coastal
+basin (no more desert rain), becoming widely scattered by the
+afternoon except along the San Diego county foothills and mountains.
+Most rainfall will be wrapped up by Sunday night with mostly sunny
+skies expected region-wide by Monday.
 
-.LONG TERM (Monday through Thursday)...
-Dry and warmer for Monday and Tuesday with high temperatures on
-Tuesday warming to around average. High temperatures on Tuesday
-for the coast and valleys will be mostly in the 70s, for the
-mountains in the mid 40s to mid 60s, and in the lower deserts
-around 80.
+As the storm is tracking to intersect over Northern Baja California,
+the higher precipitation totals will be focused over San Diego
+County (0.4-0.7"), notably near the US/Mexico Border. Elsewhere,
+totals are more likely to range between 0.25-0.50" (including
+deserts) with locally higher totals in the mountains.
 
-Around 5 degrees cooler for Wednesday and Thursday with a chance
-of showers as a pair of low pressure systems move inland into
-California.
+As the storm clear the region, low temperatures will drop
+Monday/Tuesday morning to the upper-40s inland and down into the low
+30s and 20s in elevated mountain valleys.
+
+Next week, a series of weak, fast-moving ridges and troughs will
+keep temperatures fluctuation slightly - highs will range from
+the low to mid-70s daily in the coastal basin and mid-70s to
+low-80s in the Coachella Valley (and other low desert valleys).
+
 
 &&
 
 .AVIATION...
-300630Z...BKN clouds based 3000-5000 ft from the coast to the mtns
-with SCT-BKN high clouds near 8000-1000 ft regionwide through Friday
-afternoon. Patchy -DZ and ISO/SCT -SHRA will continue through the
-night with the greatest coverage of -SHRA over coastal areas. CIGs
-will locally fall to 2500 feet MSL in -SHRA along with local minor
-vis reductions especially near the coast. -SHRA diminishes and low
-clouds become more FEW-SCT in coverage 14-18z. ISO-SCT -SHRA
-redevelop Friday afternoon for the coastal basin with highest
-coverage in Orange County. Coverage of BKN low clouds increases
-again after 00z Sat, particularly for coastal areas with ISO -SHRA
-becoming more confined to coastal areas as well.
+301730Z...Multiple cloud layers across the coastal basin with the
+lowest layer around 1500 ft and the highest layer above 10000 ft
+MSL. ISO-SCT -SHRA is expected this afternoon for the coastal basin
+with highest coverage in Orange County. Coverage of BKN low clouds
+based near 3000-4500 ft MSL increases again after 00z Sat,
+particularly for coastal areas. ISO -SHRA becomes more confined to
+coastal areas by late Friday evening. Where -SHRA develops, cigs
+will likely fall to around 2500 ft. Cigs look unlikely to fall below
+2000 ft overnight into Sat AM. -SHRA tapers off Sat AM, with more
+widespread SHRA Sat afternoon and evening.
+
+Desert Mountain Slopes/Deserts...High clouds with bases AOA 10000 ft
+MSL will continue into Sat AM. Southwest to west winds will increase
+after 00Z Sat with peak gusts 30-45 kt, decreasing around 14Z Sat.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Saturday. As a
-storm system moves through the coastal waters this weekend, shifting
-winds and seas are likely to increase by Sunday morning, possibly to
-hazardous levels, lingering into Monday. There is also a slight
-chance of thunderstorms Saturday night and Sunday morning. Stay
-tuned for updates.
+Westerly winds will increase Saturday afternoon into Sunday, but
+strongest wind gusts will likely stay below 21 kt. There is a 5%
+chance of isolated thunderstorms Sunday morning.
 
 &&
 
 .BEACHES...
-A Coastal Flood Advisory is in effect until 2 PM Friday. Friday`s
-high tide is expected to peak around 7.25 feet near noon Friday
-which could produce minor coastal flooding as surf is expected to be
-around 3-5 feet.
+High tide today is expected to peak around 7.1 feet around noon
+which could produce minor coastal flooding in areas where surf is
+exceeding 3 ft.
 
 The southwesterly swell (3 ft at 15 seconds from 200 degrees)
 responsible for the marginally elevated surf through the weekend
-will persist into Monday. As a storm system moves into the area for
-Sunday/Monday, increased winds could help bolster localized wave
-sets to 6 feet. While high tides will continue to wane into the
-weekend, tides will remain over 6 feet which could still lead to
-minor tidal overflow if breaking waves approach 4-6 feet.
+will persist into Monday. Surf up to 6 feet is possible
+Sunday/Monday. While high tides will continue to wane into the
+weekend, tides will remain just above 6 feet which could still lead
+to minor tidal overflow during high tides if breaking waves approach
+5-6 feet.
 
-Reported forecast tides have been corrected up by 1.4-1.6ft based on
+Reported forecast tides have been corrected up by 1.3 ft based on
 recent trends in tidal observations.
-
-&&
-
-.CLIMATE...
-For San Diego, 5 of the 9 highest water levels ever recorded have
-occurred on Sunday through Thursday of this week with the highest
-on Tuesday. The water level at the peak of the highest tide on
-Saturday near midday will be around 1 foot lower than the highest
-water level on Thursday.
-
-Highest water levels at San Diego:
-
-1)  Oct 27, 2026:  2.80 feet MHHW (8.52 feet MLLW)
-2)  Oct 26, 2026:  2.72 feet MHHW (8.44 feet MLLW)
-3)  Oct 28, 2026:  2.71 feet MHHW (8.43 feet MLLW)
-4t) Jul 14, 2026:  2.54 feet MHHW (8.26 feet MLLW)
-4t) Nov 25, 2015:  2.54 feet MHHW (8.26 feet MLLW)
-6)  Aug 02, 2023:  2.53 feet MHHW (8.25 feet MLLW)
-7)  Oct 29, 2026:  2.49 feet MHHW (8.21 feet MLLW)
-8)  Dec 13, 2012:  2.45 feet MHHW (8.17 feet MLLW)
-9)  Oct 25, 2026:  2.40 feet MHHW (8.12 feet MLLW)
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -506,8 +499,8 @@ PZ...None.
 
 $$
 
-PUBLIC/CLIMATE...17
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
