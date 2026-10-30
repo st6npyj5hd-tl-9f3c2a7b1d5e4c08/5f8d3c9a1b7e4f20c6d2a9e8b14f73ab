@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-29T22:30:54+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-30T04:47:06+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -354,13 +354,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-433
-FXUS66 KSGX 291943
+169
+FXUS66 KSGX 300110
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1243 PM PDT Thu Oct 29 2026
+610 PM PDT Thu Oct 29 2026
 
 .SYNOPSIS...
 Cloudier and cooler weather will continue into the weekend. A
@@ -374,6 +374,9 @@ is expected by Monday into at least the middle of next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 A low pressure system currently off the coast of the Pacific
 Northwest will lead to a greater troughing pattern over the West
@@ -433,14 +436,15 @@ dry for the rest of the week.
 &&
 
 .AVIATION...
-291800Z...While clouds scattered out briefly earlier today, BKN-SCT
-4000-5000 ft MSL have redeveloped, with much patchier clouds near
-2500-3000 ft along the coasts. More BKN low clouds near 3000ft
-develop and spread across the basin after 01-03z Friday with VCSH
-more along the coastal areas. Areas of -SHRA with CIGs locally down
-to 2500 feet MSL expected near the coast after between 08-13z. VCSH
-chances decreases by 16-19z Friday with lower clouds become more FEW-
-SCT into the afternoon hours.
+300045Z...SCT-BKN clouds based 4000-6000 ft currently from the coast
+to the mtns with SCT-BKN high clouds near 8000-1000 ft regionwide.
+FEW-SCT low clouds based 2500-3500 ft MSL over coastal areas will
+spread over the coastal basin through this evening. Clouds will
+slowly rise through the night with bases mostly above 3000 ft MSL by
+early morning. However, ISO-SCT -SHRA will bring CIGs locally down
+to 2500 feet MSL between 08-15z, especially near the coast. Low
+clouds become more FEW-SCT in coverage 15-18z. ISO-SCT -SHRA
+redevelop Friday afternoon with highest coverage in Orange County.
 
 &&
 
@@ -455,14 +459,10 @@ tuned for updates.
 &&
 
 .BEACHES...
-Today`s high tide has already peaked earlier this morning at 7.64
-feet at La Jolla tidal gauge. The Coastal Flood Warning remains in
-effect through 1 PM this afternoon to due lingering minor coastal
-flooding concerns following the high tide. A Coastal Flood Advisory
-will replace the warning at 1 PM, in effect until 2 PM Friday.
-Friday`s high tide is expected to peak around 7.25 feet near noon
-Friday which could produce minor coastal flooding as surf is
-expected to be around 3-5 feet.
+A Coastal Flood Advisory is in effect until 2 PM Friday. Friday`s
+high tide is expected to peak around 7.25 feet near noon Friday
+which could produce minor coastal flooding as surf is expected to be
+around 3-5 feet.
 
 The southwesterly swell (3 ft at 15 seconds from 200 degrees)
 responsible for the marginally elevated surf through the weekend
@@ -470,7 +470,7 @@ will persist into Monday. As a storm system moves into the area for
 Sunday/Monday, increased winds could help bolster localized wave
 sets to 6 feet. While high tides will continue to wane into the
 weekend, tides will remain over 6 feet which could still lead to
-minor tidal overflow if breaking waves near 4-6 feet.
+minor tidal overflow if breaking waves approach 4-6 feet.
 
 Reported forecast tides have been corrected up by 1.4-1.6ft based on
 recent trends in tidal observations.
@@ -478,47 +478,7 @@ recent trends in tidal observations.
 &&
 
 .CLIMATE...
-The water temperature at Scripps Pier on Wednesday was another
-record warm temperature for the date at 73.6 F, 10 degrees above
-the long-term average for the date. Water temperatures at Scripps
-Pier have largely plateaued for the past month, though were a
-little cooler for the middle of October, at a time of year when
-water temperatures would normally be declining. Hence, the recent
-stretch of new daily record warm water temperatures day after day
-after day. The ensemble mean of the ECMWF seasonal forecast from
-October was for water temperatures along the southern California
-coast to average 10 degrees F above normal for December through
-February.
 
-The water level at San Diego during the peak of the highest high
-tide on Wednesday was the third highest on record for San Diego.
-The highest water level for today is expected to be around 0.28
-feet lower than on Wednesday, which would place it as the 8th
-highest water level recorded at San Diego. This recent 5-day
-stretch from Sunday through Thursday of this week will likely
-include 5 of the 10 highest water levels ever recorded at
-San Diego.
-
-The record high water levels of this week have been the result
-of the combination of higher astronomical high tides during
-the full moon combined with sea levels that are around 17 inches
-higher than a year ago as a result of thermal expansion of
-the record warm water from the strengthening El Nino.
-
-Highest water levels at San Diego:
-
-1)  Oct 27, 2026:  2.80 feet MHHW (8.52 feet MLLW)
-2)  Oct 26, 2026:  2.72 feet MHHW (8.44 feet MLLW)
-3)  Oct 28, 2026:  2.71 feet MHHW (8.43 feet MLLW)
-4t) Jul 14, 2026:  2.54 feet MHHW (8.26 feet MLLW)
-4t) Nov 25, 2015:  2.54 feet MHHW (8.26 feet MLLW)
-6)  Aug 02, 2023:  2.53 feet MHHW (8.25 feet MLLW)
-7)  Dec 13, 2012:  2.45 feet MHHW (8.17 feet MLLW)
-8)  Oct 25, 2026:  2.40 feet MHHW (8.12 feet MLLW)
-
-Water levels will likely be at least a few inches
-higher during king tides the week of Thanksgiving and the
-week of Christmas.
 
 &&
 
@@ -526,13 +486,11 @@ week of Christmas.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning until 1 PM PDT this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     Coastal Flood Advisory until 2 PM PDT Friday for Orange County
+CA...Coastal Flood Advisory until 2 PM PDT Friday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
@@ -542,7 +500,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE...Munyan
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
