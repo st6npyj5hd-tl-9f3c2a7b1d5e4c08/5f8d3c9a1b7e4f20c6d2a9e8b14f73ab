@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-31T16:56:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-31T21:00:31+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-522
-FXUS66 KSGX 310941
+664
+FXUS66 KSGX 312052
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-241 AM PDT Sat Oct 31 2026
+152 PM PDT Sat Oct 31 2026
 
 .SYNOPSIS...
 Isolated light showers will continue for the coastal basin
@@ -374,72 +374,69 @@ degrees below normal each day.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Satellite this afternoon depicts a broad region of clouds west of
+northern Baja streaming through a branch of the subtropical jet
+stream toward Socal. Radar is beginning to pick up on light rain
+west of San Clemente Island, set to arrive at the coast during the
+later afternoon hours, moving inland through the evening. High
+resolution models now agree that tonight`s rainfall will be
+widespread and light region-wide, perhaps more intermittent in the
+high desert, with some brief pockets of moderate to heavy rainfall,
+especially for coastal areas and for San Diego County. Widespread
+rain turns into scattered showers and wrap up in the desert valleys
+Sunday morning. Showers become increasingly more isolated through
+the afternoon, tapering off for northern areas by Sunday evening,
+leaving behind a few isolated showers in San Diego County through
+Sunday night.
 
-...UPDATED AVIATION DISCUSSION...
+Rain totals for this system will generally be higher for southern
+areas; SD County up to the mountains is expecting 0.75-1" of rain
+with locally high end amounts above 1.5". Orange County and the
+Inland Empire can expect 0.3-0.6" (more south and along foothills),
+with slightly higher totals in adjacent mountains. The deserts can
+generally expect 0.10-0.40" (more south) of generally light rain.
+Given that the system is bringing along subtropical moisture, the
+warm sector will bring snow levels above 10,000 feet tonight before
+dropping back to 7,500-8,000 ft. A dusting is possible above 8,000
+feet over the highest passes and peaks, otherwise, no snow is
+expected for any mountain communities.
 
-Morning water vapor imagery shows an upper level low near the Pacific
-NW coast with a trough extending south well off the coast of
-central Baja. The base of this trough is tapping some tropical
-moisture with PW in excess of 2" currently observed on satellite.
-The bulk of this moisture is forecast to remain to our south, but
-a weak and brief Atmospheric River is poised to move into far
-Southern CA this evening into Sunday morning. Ensemble mean IVT
-from the GEFS and EPS are on the order of 300-400 kg/m/s across
-San Diego County, and closer to 250 kg/m/s further north. A few
-light showers are possible this morning ahead of the trough, but
-the bulk of the precipitation from this system is expected to
-occur late this evening into Sunday morning. The majority of the
-high-res guidance is holding off on the heavier/more widespread
-precipitation until after 8 PM, so most will likely luck out on
-dry candy collecting conditions this evening. For the most part
-rainfall rates will be around a third-inch per hour or less, with
-isolated rates of half-inch per hour or more mainly in San Diego
-County. Showers will become more scattered and lighter by mid-
-morning Sunday, then tapering off from north to south Sunday
-afternoon, ending by Sunday evening.
+As the upper level trough passes to our north Sunday afternoon,
+there will be a brief uptick in west/northwest winds over the
+waters, mountain ridges and desert slopes, with gusts 25-40 mph,
+weakening overnight into Monday.
 
-Current rainfall forecast is for around 0.35-0.70" for the coastal
-areas and valleys, 0.50-1" in the mountains, and around 0.10-0.30"
-in the deserts, with the highest accumulations in San Diego
-County. Snow levels will be over 10,000 ft during the heaviest
-precipitation, falling to around 9,000 ft as precipitation tapers
-off this evening, leaving only trace amounts on the highest peaks
-of the San Bernardino and San Jacinto Mountains.
 
-Transitory ridging and weak offshore flow builds in for Monday
-and Tuesday for relatively warmer weather, though highs will be a
-few degrees below normal inland - generally low to mid 70s for the
-coasts and valleys, low 50s to low 60s in the mountains, upper
-60s in the high desert, and mid 70s to low 80s in the low desert.
-Another trough is forecast to move inland across the West Coast
-towards the middle of the week, though there is a lot of spread in
-the ensembles on the timing of this trough. For now forecast
-remains dry with this system with just some minor cooling. Weak
-troughing remains in place through Friday with little change in
-high temperatures each day.
+As the storm exits the region, low temperatures will drop
+Monday/Tuesday morning to the upper-40s inland, upper 30s in the
+high desert and down into the low 30s and 20s in elevated mountain
+valleys. Patchy frost is possible in the high desert.
 
-&&
+Next week, a series of weak, fast-moving ridges and troughs will
+keep temperatures fluctuating, though gradually increasing by late
+week to the low to mid-80s regionwide for lower elevations. These
+are near average temperatures inland but above average for coastal
+areas. Generally expecting sunny skies with a few passing clouds
+Tuesday and Wednesday.&&
 
 .AVIATION...
-310940Z...Multiple cloud layers across the coastal basin between
-3000-6000 ft MSL with widespread BKN high-lvl clouds AOA 10,000 ft
-MSL. ISO -SHRA possible through this morning mostly along the coast,
-bringing intermittent and brief MVFR cigs 2500-3500 ft MSL as they
-pass. Heavier/more widespread precip moves into the coastal basin
-after 03Z Sun, bringing vis reductions as well as cig reductions
-under heavier rain, especially in SD County where rain is likely to
-be heavier overall. Low to moderate confidence on timing of heavier
-rain occurrence in TAFs.
+311730...Multiple cloud layers across the coastal basin today with
+mid to high clouds in the deserts. Widespread precip moves into the
+coastal basin after 03Z Sun, bringing vis reductions (3-5SM) as well
+as cig reductions (2000-3000 ft MSL) under heavier rain. The highest
+confidence in heavier rain leading to the aforementioned
+restrictions is in San Diego County. -SHRA possible in the desrts 10-
+16Z Sun. Low to moderate confidence on timing of heavier rain
+occurrence in TAFs. Showers will become scattered after 18Z.
 
 &&
 
 .MARINE...
-Westerly winds increase late tonight into Sunday afternoon, but
-strongest wind gusts will likely stay below 21 knots. There is a 5%
-chance of isolated thunderstorms Sunday morning. Weaker winds
-expected Monday, followed by more elevated onshore winds Tuesday
-afternoon and evening, with gusts in the outer coastal waters
-potentially exceeding 20 knots.
+Westerly winds increase for Sunday afternoon and evening with gusts
+20-25 kt. There is a 5% chance of isolated thunderstorms Sunday
+morning. Weaker winds expected Monday, followed by more elevated
+onshore winds Tuesday afternoon and evening, with gusts in the outer
+coastal waters potentially exceeding 20 knots.
 
 &&
 
@@ -463,14 +460,17 @@ encouraged to report significant weather conditions.
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...None.
+PZ...Small Craft Advisory from 11 AM to 9 PM PDT Sunday for Waters
+     from San Mateo Point to the Mexican Border Extending 10 to
+     60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
