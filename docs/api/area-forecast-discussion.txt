@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-01T12:48:56+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-01T21:46:44+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-173
-FXUS66 KSGX 011129
+489
+FXUS66 KSGX 011852
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-329 AM PST Sun Nov 1 2026
+1052 AM PST Sun Nov 1 2026
 
 .SYNOPSIS...
 Widespread light rain will continue this morning, becoming more
@@ -372,64 +370,56 @@ near to a few degrees below normal each day.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION & AREA FORECAST DISCUSSIONS...
 
-...UPDATED AVIATION DISCUSSION...
+As of 10 AM, the warm sector of the storm has pushed east and we
+are now advecting relatively colder air aloft. Looking at GFS 18z
+forecast soundings, there is some background instability only up to
+700 mbs. The axis of the trough to the north is passing east of the
+coastal basin, making showers increasingly more isolated this
+afternoon through this evening throughout the coastal basin, with
+perhaps a few leftover showers in SD County tonight before
+completely drying out region-wide overnight into Monday. Given the
+relatively shallow instability profiles, any showers that do develop
+will be mainly light, with only a few brief showers of moderate
+intensity.
 
-Morning water vapor imagery shows the upper level trough beginning
-to move across the California Bight with a weak Atmospheric River
-feeding into far southern CA. Widespread light rainfall continues
-this morning with rainfall rates generally 0.10 inch/hour or less.
-Isolated heavier showers with rates near 0.30-0.50 inch/hour are
-possible later this morning as colder air aloft moves overhead.
-Rain will transition to more scattered showers around sunrise,
-then taper off from north to south this afternoon, ending by late
-evening.
+Monday will begin with cold morning temperatures, especially in the
+inland valleys (40s), high desert (mid/upper 30s) and mountain
+valleys (20s/30s). Otherwise, expect sunny skies across the region
+with light N/NE offshore flow over the mountains and deserts during
+the day, then increasing mid and high level clouds during the
+evening as another trough moves north of the region.
 
-Additional rainfall totals will range anywhere from 0.25-0.75"
-for the coasts to the mountains, locally 1" or more in the San
-Diego County Mountains, and 0.05-0.30" in the deserts, highest in
-San Diego County. Snow levels near 9500-11000 ft this morning will
-gradually fall to 7000-7500 ft this evening as precipitation
-ends, with only a light dusting on the highest peaks of the San
-Bernardino and San Jacinto Mountains. Otherwise cool today with
-high temperatures 10-15 degrees below normal.
+With the weak trough moving through Tuesday, some light rain or
+drizzle cannot be ruled out for coastal and inland SD County though
+the one model (ECMWF ENS) picking up on this possibility seems to
+be backing off.
 
-An upper level ridge of high pressure moves in from the west on
-Monday and Tuesday. This ridge, aided by weak offshore flow, will
-provide warmer and drier weather Monday and Tuesday, though highs
-will still be a few degrees below normal - generally low to mid
-70s across the coastal basin, mid 60s to mid 60s in the mountains,
-upper 60s to low 70s in the high desert, and upper 70s to low 80s
-in the low desert.
+As a result of this trough and another trough Thursday, high
+temperatures will remain rather steady Tue-Thu: mid- 70s across
+the coastal basin (including the IE), upper 60s in the high
+desert, 50s in the mountains and around 80F in the low deserts.
 
-Another upper trough moves through California late Tuesday into
-Wednesday morning, but at this time chances of measurable
-precipitation are less than 10%. Another round of weak offshore
-flow follows for the remainder of the day Wednesday into Thursday
-under weakly cyclonic flow, bringing minor warming. Ensembles
-begin to diverge a bit more Friday and Saturday with the potential
-development of another low digging into the Desert Southwest.
-Around 23% of the ensemble members have a deeper low for cooler
-weather but slightly stronger offshore flow, while the remaining
-members have a much weaker trough Friday and ridging by Saturday
-for weaker offshore flow and warmer weather.
+Friday through the weekend, an upper ridge builds over the Western
+US. While the intensity of the ridge over SoCal remains uncertain,
+the thermal trough likely sets up at the coast or a few miles
+inland, increasing high temperatures to the low to mid-80s in the
+coastal basin and lower deserts, while the mountains and high
+deserts remain cool.
+
 
 &&
 
 .AVIATION...
-011130...Widespread rain has mostly moved out of the region this
-morning, but plenty of showers still moving northeast over the
-region. With multiple cloud layers 1500 to 6000 ft MSL, expect
-frequent cat changes throughout the coastal basin, especially when -
-SHRA pass over a site. Iso brief IFR continues to be possible this
-morning, mostly for inland valleys. Cigs around 3000 ft in the
-deserts expected to scatter out by 16Z.
-
-Conditions start to improve 14-18Z this morning as showers become
-more isolated, though intermittent MVFR conditions with passing -SHRA
-continues to be possible. ISO -SHRA will linger through Sunday
+011830...Multiple cloud layers 1500 to 10000 ft MSL this morning,
+expect frequent cat changes throughout the coastal basin, especially
+when -SHRA pass over a site. ISO -SHRA will linger through Sunday
 evening in San Diego County and in the mtns but taper off elsewhere
-this afternoon.
+after 22Z. As SHRA tapers off VFR conditions will become more
+widespread. Increased W winds around 20 kt near the coast and 40-50
+kt on desert mountain slopes, locally into the deserts 20Z Sun-03Z
+Mon. Weak NE winds expected overnight into Mon AM.
 
 &&
 
@@ -437,8 +427,8 @@ this afternoon.
 Westerly winds increase this afternoon and evening with widespread
 gusts 20-25 knots and rough, choppy seas through the outer coastal
 waters, and gusts just under 20 knots in the inner coastal waters. A
-Small Craft Advisory is in effect for the outer coastal waters from
-11AM - 9PM today. Weaker winds expected Monday, followed by more
+Small Craft Advisory is in effect for the outer coastal waters
+through 9PM today. Weaker winds expected Monday, followed by more
 elevated onshore winds Tuesday afternoon and evening, with gusts in
 the outer coastal waters potentially exceeding 20 knots.
 
@@ -447,9 +437,19 @@ the outer coastal waters potentially exceeding 20 knots.
 .BEACHES...
 Southwesterly swell (3 ft at 15 seconds from 200 degrees) will bring
 elevated surf through Monday, with breaking wave heights 3 to 6
-feet. High tides just above 6 feet will potentially lead to local
-tidal overflow during high tides in areas where breaking waves
-approach 5-6 feet, mostly on southwest facing beaches today.
+feet. High tides near 6.5 ft today combined with elevated surf and
+westerly winds gusting 20-25 mph will result in tidal overflow
+during the 2 PM high tide. Winds will subside but surf will remain
+elevated into Monday. Those factors combined with a high tide near 6
+ft will continue the potential for minor tidal overflow during the
+Monday afternoon high tide around 3:30 PM.
+
+Tides are expected to increase for the end of the week, with tides
+reaching 7 ft as early as Friday. Tides will peak over the weekend
+into early next week around 7.5 ft.
+
+Reminder, tides mentioned have been corrected to reflect the current
+trends in actual tide observations.
 
 &&
 
@@ -461,19 +461,20 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
-PZ...Small Craft Advisory from 11 AM this morning to 9 PM PST this
-     evening for Waters from San Mateo Point to the Mexican
-     Border Extending 10 to 60 nm out including San Clemente
-     Island.
+CA...Beach Hazards Statement through Monday afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+PZ...Small Craft Advisory until 9 PM PST this evening for Waters from
+     San Mateo Point to the Mexican Border Extending 10 to 60 nm
+     out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Westerink
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
