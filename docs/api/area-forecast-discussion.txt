@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-10-31T21:00:31+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-01T04:52:24+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-664
-FXUS66 KSGX 312052
+259
+FXUS66 KSGX 312349
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-152 PM PDT Sat Oct 31 2026
+449 PM PDT Sat Oct 31 2026
 
 .SYNOPSIS...
 Isolated light showers will continue for the coastal basin
@@ -373,6 +373,9 @@ degrees below normal each day.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Satellite this afternoon depicts a broad region of clouds west of
 northern Baja streaming through a branch of the subtropical jet
@@ -417,37 +420,45 @@ keep temperatures fluctuating, though gradually increasing by late
 week to the low to mid-80s regionwide for lower elevations. These
 are near average temperatures inland but above average for coastal
 areas. Generally expecting sunny skies with a few passing clouds
-Tuesday and Wednesday.&&
+Tuesday and Wednesday.
+
+&&
 
 .AVIATION...
-311730...Multiple cloud layers across the coastal basin today with
-mid to high clouds in the deserts. Widespread precip moves into the
-coastal basin after 03Z Sun, bringing vis reductions (3-5SM) as well
-as cig reductions (2000-3000 ft MSL) under heavier rain. The highest
-confidence in heavier rain leading to the aforementioned
-restrictions is in San Diego County. -SHRA possible in the desrts 10-
-16Z Sun. Low to moderate confidence on timing of heavier rain
-occurrence in TAFs. Showers will become scattered after 18Z.
+010000...Unbroken OVC mid-high level clouds region-wide through
+Sunday morning. FEW-SCT low clouds in the coastal basin will
+increase in coverage as widespread -RA moves into the region this
+evening. Intermittent MVFR cigs (2000-3000 ft) and vis (3-5SM)
+expected 03-15z Sun from the coast to the mtns. Most persistent MVFR
+conditions will be in San Diego County. Also, localized +SHRA in San
+Diego County and along the coastline may produce brief IFR
+conditions. -SHRA possible in the desrts 10-16Z Sun, but little to
+no cig/vis reductions expected. -RA will become more SCT from west
+to east 15-18z Sun with mid-high level clouds also clearing.
+Thereafter, ISO/SCT -SHRA will linger through Sunday evening in San
+Diego County and in the mtns.
 
 &&
 
 .MARINE...
+There is a 5% chance of isolated thunderstorms Sunday morning.
 Westerly winds increase for Sunday afternoon and evening with gusts
-20-25 kt. There is a 5% chance of isolated thunderstorms Sunday
-morning. Weaker winds expected Monday, followed by more elevated
-onshore winds Tuesday afternoon and evening, with gusts in the outer
-coastal waters potentially exceeding 20 knots.
+20-25 kt. A Small Craft Advisory has been issued for the outer
+coastal waters from 11AM - 9PM Sunday. Weaker winds expected Monday,
+followed by more elevated onshore winds Tuesday afternoon and
+evening, with gusts in the outer coastal waters potentially
+exceeding 20 knots.
 
 &&
 
 .BEACHES...
 An increasing southwesterly swell (3 ft at 15 seconds from 200
 degrees) will bring elevated surf this weekend into Monday, with
-breaking wave heights 3 to 6 feet Sunday/Monday. While high tides
+breaking wave heights 3 to 6 feet through Monday. While high tides
 will continue to wane through the weekend, tides will remain just
 above 6 feet which could still lead to local minor tidal overflow
 during high tides where breaking waves approach 5-6 feet, mostly on
-southwest facing beaches Sun/Mon.
+southwest facing beaches Sun.
 
 &&
 
@@ -470,7 +481,7 @@ PZ...Small Craft Advisory from 11 AM to 9 PM PDT Sunday for Waters
 $$
 
 PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
