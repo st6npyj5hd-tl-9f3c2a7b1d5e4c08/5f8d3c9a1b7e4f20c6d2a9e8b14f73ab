@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-01T21:46:44+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-02T04:53:43+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-489
-FXUS66 KSGX 011852
+726
+FXUS66 KSGX 020133
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1052 AM PST Sun Nov 1 2026
+533 PM PST Sun Nov 1 2026
 
 .SYNOPSIS...
 Widespread light rain will continue this morning, becoming more
@@ -370,7 +370,8 @@ near to a few degrees below normal each day.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION & AREA FORECAST DISCUSSIONS...
+
+...UPDATED AVIATION DISCUSSION...
 
 As of 10 AM, the warm sector of the storm has pushed east and we
 are now advecting relatively colder air aloft. Looking at GFS 18z
@@ -408,7 +409,6 @@ inland, increasing high temperatures to the low to mid-80s in the
 coastal basin and lower deserts, while the mountains and high
 deserts remain cool.
 
-
 &&
 
 .AVIATION...
@@ -434,25 +434,6 @@ the outer coastal waters potentially exceeding 20 knots.
 
 &&
 
-.BEACHES...
-Southwesterly swell (3 ft at 15 seconds from 200 degrees) will bring
-elevated surf through Monday, with breaking wave heights 3 to 6
-feet. High tides near 6.5 ft today combined with elevated surf and
-westerly winds gusting 20-25 mph will result in tidal overflow
-during the 2 PM high tide. Winds will subside but surf will remain
-elevated into Monday. Those factors combined with a high tide near 6
-ft will continue the potential for minor tidal overflow during the
-Monday afternoon high tide around 3:30 PM.
-
-Tides are expected to increase for the end of the week, with tides
-reaching 7 ft as early as Friday. Tides will peak over the weekend
-into early next week around 7.5 ft.
-
-Reminder, tides mentioned have been corrected to reflect the current
-trends in actual tide observations.
-
-&&
-
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
@@ -473,8 +454,8 @@ PZ...Small Craft Advisory until 9 PM PST this evening for Waters from
 
 $$
 
-PUBLIC...Westerink
-AVIATION/MARINE/BEACHES...CO
+PUBLIC...CO
+AVIATION/MARINE...Stewey
 
 
 </pre>
