@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-02T14:58:28+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-03T00:39:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,23 +347,24 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-122
-FXUS66 KSGX 021040
+139
+FXUS66 KSGX 030026
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-240 AM PST Mon Nov 2 2026
+426 PM PST Mon Nov 2 2026
 
 .SYNOPSIS...
-Fair and dry weather is expected this week. It will be a little
-breezier late Tuesday into Wednesday, with some coastal clouds.
-Stronger high pressure and weak offshore flow will bring dry and
-warmer weather Thursday and Friday. It looks much warmer with
-stronger offshore breezes this weekend.
+Quiet weather with slightly below normal temperatures through
+Wednesday and a lackluster marine layer. Warmer and drier weather
+returns late week, with well-above-normal temperatures and Santa
+Ana winds for the weekend.
 
 &&
 
@@ -374,62 +375,83 @@ COUNTIES...
 
 ...UPDATED AVIATION DISCUSSION...
 
-The showers ended last evening and skies have cleared out quite
-cleanly early this morning. With clear skies in the valleys
-allowing for maximum radiational cooling, there should be some
-patches of ground fog early this morning to go with the chilly
-temps, dipping into the 40s for many valleys. Skies today will be
-quite sunny, but with increasing high clouds late today and
-tonight. A trough of low pressure will move west to east to the
-north of SoCal Tuesday into Wednesday. This will enhance onshore
-breezes, especially for the mountains, deserts, and coastal waters
-during this time, but only to around 25-30 mph. It will also
-regenerate some marine layer low clouds for the coast and valleys.
-Later Wednesday into Friday, high pressure aloft amplifies more
-meaningfully, producing a noticeable warming trend for Thursday
-into the weekend. With colder air occupying the interior West at
-the same time, some offshore flow will develop for SoCal, but at
-this time offshore winds do not appear strong or otherwise
-problematic, especially through Friday. However, right now it
-looks like the weekend could have stronger offshore winds, but
-for now that is a low confidence idea. High temperatures through
-Wednesday will continue several degrees below average for this
-time of year, mostly in the 70s at lower elevations, low 80s for
-the low deserts. Lows will be mild, actually a few degrees above
-seasonal averages in the mid 40s and 50s. Highs and lows will
-increase by the weekend, and the offshore flow will change the
-distribution of the highest temperatures. That means lots of 80s
-west of the mountains, even close to the coast. Some upper 80s
-even look probable for inland coastal areas and western valleys,
-if all goes to plan.
+The deep trough responsible for our rainy and cold Halloween weekend
+has moved into the Great Basin, evident on mid-level water vapor
+satellite imagery. On the back side, a thermal ridge axis sets up
+over California as temperatures warm today around 5-10 degrees
+over Sunday with clear skies. This upper level ridge is somewhat
+compressed, situated between the aforementioned trough over the
+Great Basin and a deepening low off the coast of Oregon. This
+ridge will likely be pushed out before it can be too helpful,
+with the Oregon low moving into Northern California by Tuesday
+night. Despite the significant warm up today, temperatures will
+hold steady with a lackluster marine layer into Wednesday given
+the quick changes in the upper level pattern.
+
+Gusty onshore winds accompany the Oregon low on Tuesday as the
+gradient tightens over SoCal. Winds will pick up over the coastal
+waters as early as late morning on Tuesday, with inland spread
+through the afternoon. Gusts will reach up to 25-30 mph over the
+waters and as high as 20 mph for coastal and valley areas. Winds
+will decrease a bit as the low moves inland, likely calming by
+sunrise Wednesday morning. Some models continue to support light
+rainfall Wednesday morning for far southern San Diego County as
+this trough moves across, but chances only sit around 15-25% at
+this point. Still, it wouldn`t be surprising if some light wetting
+rain was observed early Wednesday morning, primarily for SD
+County south of the 56.
+
+As previously mentioned, temperatures won`t be impacted much by the
+low as it swings across, likely out of California by peak heating
+Wednesday afternoon. As the low moves off, a positively tilted
+ridge will move ashore, bringing subsidence for Thursday/Friday as
+areas west of the mountains finally warm back above normal. Late
+week into early weekend, another significant pattern change will
+affect much of the western United States, with a very large ridge
+stretching from northern Canada down into the Desert Southwest. As
+high pressure moves over the Four Corners Saturday, offshore
+winds will increase for most of California, bringing about well-
+above-normal temperatures for areas west of the mountains. These
+dry, downsloping winds will push temperatures to the 80s for even
+coastal communities, around 10-15 degrees above normal, and minor
+to moderate Heatrisk will return for the western portions of the
+area. Current forecast indicates that by Saturday, temperatures
+near the coast may be even hotter than the Coachella Valley.
+Humidity will plummet, potentially as low as 15% for Saturday and
+Sunday afternoons. While there is still some disagreement in the
+placement of the ridge for the weekend, which will drastically
+influence the Santa Ana wind strength, most models remain in favor
+of the significant warming and stronger easterly winds this
+weekend. Should this pan out, it will be quite the contrast to the
+past gloomy Halloween weekend.
 
 &&
 
 .AVIATION...
-011030...VFR conditions expected through the period with mostly
-clear skies through this morning followed by increasing clouds AOA
-20kft this afternoon and evening. Weakly offshore winds will very
-likely keep any low clouds offshore this evening and tonight.
+030000...VFR conditions expected through the period with increasing
+clouds AOA 20kft this evening. Weakly offshore winds will very
+likely keep any low clouds offshore into Tue AM. High-level clouds
+return Tue PM, then eventually low level clouds above 2,000 ft MSL
+develop over SD County.
 
 &&
 
 .MARINE...
-Weak winds expected through Tuesday morning, followed by more
-elevated onshore winds Tuesday afternoon and evening, with gusts in
-the outer coastal waters potentially exceeding 20 knots.
+Weak winds expected tonight through Tuesday morning, followed by
+more elevated onshore winds Tuesday afternoon and evening, with
+gusts in the outer coastal waters potentially exceeding 20 knots.
 
 &&
 
 .BEACHES...
-Southwesterly swell (3 ft at 15 seconds from 200 degrees) will bring
-elevated surf through today, with breaking wave heights 3 to 6 feet.
-Surf combined with a high tide near 6 ft will continue the potential
-for minor tidal overflow during today`s high tide around 3:30 PM.
-
-Tides are expected to increase for the end of the week, with tides
-reaching 7 ft as early as Friday, bringing the potential for at
-least minor tidal overflow even with little contribution from surf.
-Tides will peak over the weekend into early next week around 7.5 ft.
+Tides are expected to increase for the end of the week, reaching 7
+ft as early as Thursday in Orange County and Friday in San Diego
+County. Tides will peak over the weekend into early next week at 7.5-
+7.7 ft. Minor coastal flooding is possible. We`re monitoring the
+potential for an incoming west swell of 3 ft from 290 with a 14-16
+second period. If this swell materializes, max surf of 6 to 7 feet
+are possible, which would increase the flood potential on west
+facing beaches.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
@@ -444,17 +466,20 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through this afternoon for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Beach Hazards Statement until 6 PM PST this evening for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
 
-PZ...None.
+PZ...Small Craft Advisory from 1 PM Tuesday to 4 AM PST Wednesday for
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...MM
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
