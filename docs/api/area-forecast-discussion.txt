@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-03T13:46:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-03T22:58:27+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,26 +345,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-895
-FXUS66 KSGX 031032
+558
+FXUS66 KSGX 032022
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-232 AM PST Tue Nov 3 2026
+1222 PM PST Tue Nov 3 2026
 
 .SYNOPSIS...
-Fair and cool weather will continue through Thursday. Except
-there is a slight chance of showers mainly in southwest San Diego
-County tonight. High pressure aloft and offshore flow will bring
-gradually warmer and dry weather Thursday into the weekend. For
-this weekend, temperatures will climb well above normal,
-especially near the coast, and offshore breezes and locally
-stronger Santa Ana winds are likely for foothills and some inland
-valleys.
+Quiet weather with slightly below normal temperatures through
+Wednesday and gusty winds over the coastal waters. Warmer and
+drier weather returns late week, with well-above-normal
+temperatures and weak to moderate Santa Ana winds for the
+weekend.
 
 &&
 
@@ -372,93 +371,109 @@ valleys.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-It`s a mostly clear and tranquil morning, with a few high clouds
-floating by and a few low clouds off the coast. A low pressure
-trough zipping west to east through northern CA will bring more
-high clouds today and more low clouds tonight into Wednesday. In
-fact, the low clouds could generate a few light showers in
-southwest San Diego County this evening through about sunrise
-Wednesday. This trough will also enhance onshore winds in the
-coastal waters, the mountains, and the deserts mainly this
-evening. Isolated strongest gusts should reach around 35-40 mph in
-the mountains and deserts. The trough exits to the east but it is
-followed by only timid high pressure and some very weak offshore
-flow. A high pressure ridge over the West Coast amplifies on
-Friday and Saturday. This will boost temperatures by virtue of the
-higher pressure, but also from stronger offshore flow, which will
-favor the warming closer to the coast. That offshore flow will
-produce some winds, maybe some legit Santa Ana winds, in foothills
-and some adjacent valleys. Offshore winds right now look most
-likely and strongest on Saturday and Sunday mornings, when top
-gusts could reach 40 mph. This is a rough estimate for now, and
-the wind picture will become clearer in coming days. High
-temperatures Saturday and Sunday near the coast and in western
-valleys will soar well into the 80s, about 5-15 degrees above
-normal. That will produce a moderate HeatRisk in those areas.
-However, the air will be dry, allowing for efficient cooling
-during the long nights, especially where winds calm. All this will
-mitigate the heat risks. The ridge aloft and the offshore flow
-begin to weaken by Monday as a strong jet drives a longwave trough
-eastward across the Pacific.
+
+...UPDATED AVIATION DISCUSSION...
+
+Current visible satellite shows high clouds streaming in from the
+north while low clouds 30 miles off the coastline continue to
+scatter out. The thermal ridge axis remains over SoCal today, but
+high clouds will inhibit some of the afternoon peak heating. As
+such, today will mimic Monday with highs generally in the low to mid
+70s for the coast and valleys, 50s for the mountains, 60s for the
+High Desert and low 80s for the low desert. The ridge axis slides
+eastward quickly today as a deepening low off the coast advances
+towards Northern California. As this system moves inland this
+evening and the gradient tightens, gusty onshore winds will develop
+over the coastal waters, with a Small Craft Advisory currently in
+place. Additional details can be found in the Marine Discussion
+section below.
+
+Tonight as this low moves in, an deepening marine layer across much
+of San Diego County will support some localized light rainfall early
+Wednesday morning for far southern SD County. While chances continue
+to be 15% or less for any given area, a lucky few may experience
+some wetting rain before sunrise. Otherwise, the general pattern
+this week remains dry.
+
+The low will move into Nevada on Wednesday, providing one final day
+of below-normal temperatures before a warming trend returns for late
+week. With the departure of the low, subsidence builds over CA with
+temperatures quickly warming to well-above-normal by Friday.
+Global models continue to set up high pressure over the Four
+Corners with a substantial ridge stretching from Canada down to
+Mexico, expected to usher in offshore flow for the majority of
+California. While the exact set up remains in flux, especially on
+Saturday, by Sunday, alignment is better on weak to moderate Santa
+Anas bringing exceptionally warm temperatures and gusty winds to
+inland valleys and coastal regions. For now, have maintained Santa
+Ana winds for both Saturday and Sunday, with highs for coastal
+cities in the upper 80s, quite a bit warmer than even some of the
+deserts, and minor to Moderate HeatRisk will return for areas west
+of the mountains. Should the system pan out with a robust high
+over the Four Corners, easterly wind gusts could reach or exceed
+30-40 mph in some of the more wind-prone spots, especially the
+Inland Empire and coastal Orange County. With these winds,
+humidity may plummet both days to the teens, even for areas west
+of the mountains. We are still a bit far out to be nailing out the
+details, but prepare for a windy, dry, and abnormally hot
+weekend.
 
 &&
 
 .AVIATION...
-031030...Widespread VFR conditions expected through late this
+031800...Widespread VFR conditions expected through late this
 afternoon, with SCT to BKN clouds AOA 20kft at times through late
 Tue. SCT-BKN clouds around 3000 to 5000 ft MSL move into San Diego
-Co and south Orange/Riverside counties after 00Z Wed. Likely (60+%
-chance) these will be above 3000 ft for the most part, but dips to
-2500-3000 ft MSL are possible, especially in southern SD County.
-Areas of -DZ/-RA are likely for coastal San Diego Co after 06Z Wed,
-most likely in south county, but aren`t expected to lead to any
-decrease in vis. Clouds start to scatter out around 15Z Wed.
+Co and south Orange/Riverside counties after 00z Wednesday. Areas of
+-DZ/-RA are possible (15-25% chance) for coastal San Diego Co 06z-
+15z Wednesday, most likely in south county, but aren`t expected to
+lead to any decrease in VIS. There is a relatively high likelihood
+(60+% chance) that CIGs stay above 3000ft for the most part, but
+dips to 2500-3000 ft MSL are possible, especially in southern SD
+County where the -DZ/-RA may occur. Lower clouds start to scatter
+out around 15z Wednesday, with VFR conditions prevailing into the
+afternoon.
 
 &&
 
 .MARINE...
-Weak winds expected tonight through this morning, before onshore
-winds strengthen into this afternoon and evening, with gusts in the
-outer coastal waters 20 to 25 knots through early Wednesday morning.
-Winds will lead to rough, choppy seas. A Small Craft Advisory for
-this hazard is in effect this afternoon through early morning
-Wednesday.
+Northwesterly winds strengthen this afternoon and evening, with
+gusts in the outer coastal waters 20 to 25 knots through early
+Wednesday morning. Strongest gusts will be found near San Clemente
+Island and these winds will likely lead to rough, choppy seas. A
+Small Craft Advisory for this hazard remains through 4 AM Wednesday.
 
 &&
 
 .BEACHES...
 Tides will increase at the end of the week, reaching 7 ft as early
 as Thursday in Orange County and Friday in San Diego County. Tides
-will peak over the weekend into early next week at 7.5-7.7 ft. Minor
-coastal flooding is possible. We`re monitoring the potential for an
-incoming west swell of 3 ft from 290 with a 14-16 second period. If
-this swell materializes, max surf of 6 to 7 feet are possible, which
-would increase the flood potential on west facing beaches.
+will peak on Sunday/Monday at 7.4-7.6 ft. A northwest swell (from
+~300 degrees) of 2-3 ft with a 14-16 second period is predicted to
+arrive on Friday, likely to persist into next week. If this swell
+materializes per the current forecast, max surf of 6-7 feet would
+occur. Between the high tides near 7-7.5 feet and the elevated surf,
+at least minor coastal flooding is expected during high tides
+Saturday-Tuesday, especially for more west-facing coastlines.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 1 PM this afternoon to 4 AM PST
-     Wednesday for Waters from San Mateo Point to the Mexican
-     Border Extending 10 to 60 nm out including San Clemente
-     Island.
+PZ...Small Craft Advisory until 4 AM PST Wednesday for Waters from
+     San Mateo Point to the Mexican Border Extending 10 to 60 nm
+     out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...MM
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
