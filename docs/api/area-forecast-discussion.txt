@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-04T13:54:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-04T23:18:37+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,23 +347,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-865
-FXUS66 KSGX 041212
+788
+FXUS66 KSGX 042156
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-412 AM PST Wed Nov 4 2026
+156 PM PST Wed Nov 4 2026
 
 .SYNOPSIS...
-Isolated light showers near the coast this morning, otherwise cool
-today with highs a few degrees below normal. Warmer and drier
-weather returns late week, with high temperatures increasing to 5
-to 15 degrees above normal and weak to moderate Santa Ana winds,
-strongest on Saturday.
+Slightly below normal temperatures today with clearing skies.
+Warmer and drier weather late this week into the weekend with
+weak to moderate Santa Anas winds and highs 5-15 degrees above
+normal through Sunday. Temperatures begin to cool Monday as
+flow switches to onshore and troughing returns.
 
 &&
 
@@ -371,55 +373,50 @@ strongest on Saturday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-Isolated light showers have developed over the coastal waters this
-morning as an upper level trough continues to progress inland
-across the Western US. Latest hi-res guidance suggests most of
-these showers will move south and remain off the coast, with only
-around a 10% chance of these showers moving into the coastal
-areas. Any accumulation from these showers will be a couple
-hundredths of an inch or less. Otherwise cool today with highs
-around 3 to 7 degrees below normal.
+Showers have come to an end this morning with skies quickly
+clearing. Mid-level water vapor satellite imagery shows the low
+that passed through California this morning is already over
+Nevada, with drier air filtering in on the back side of the low.
+Zonal flow today transitions to weak ridging by Thursday, allowing
+for one final morning of marine layer clouds along the coastline
+Thursday morning. Still, drier air will begin to mix in as
+offshore flow returns, and any clouds on Thursday will likely
+clear quickly after sunrise. Temperatures warm tomorrow by around
+5 degrees over today for areas west of the mountains, staying
+steady for eastern areas as the weak ridge sets up. By Friday,
+offshore flow intensifies with a more robust high as global models
+hone in on a weak to moderate Santa Ana event for Friday through
+Sunday. With these northeasterly winds, warmer temperatures and
+drier conditions are in store of the weekend and highs for areas
+west of the mountains soar to the mid to upper 80s. Minor HeatRisk
+returns for the western regions as early as Friday, with
+localized areas of moderate HeatRisk for Saturday and Sunday.
+Humidity will fall to the teens this weekend for valleys and
+coastal mountains, with poor overnight recovery 35-50%.
 
-Weak Santa Ana winds will develop tonight behind the departing
-trough. A second short wave trough is forecast to dig south across
-the Great Basin into Arizona Friday and Saturday, driving
-relatively stronger Santa Ana winds. Despite only being a few days
-away, there remains a sizable difference in the forecast pressure
-gradients between the GEFS and EC Ensemble, with the EC
-forecasting a stronger event. The CW3E ensemble currently shows a
-40% chance of a weak-to-moderate event on Saturday (gusts around
-25-40 mph in the wind prone areas), but only a 10% chance of a
-moderate event (gusts around 35-50 mph). For now winds do not
-appear to be much of a concern, but this offshore flow combined
-with an upper level ridge building in from the west will bring
-considerable warming. By Friday, highs will be anywhere from 5 to
-10 degrees above normal west of the mountains with temps in the
-low to mid 80s for the coastal areas and valleys.
-
-Warming continues into Sunday under upper level ridging and weak
-offshore flow with highs reaching the upper 80s for the inland
-coastal areas/western valleys and in general 5-15 degrees above
-normal for the coasts/valleys, but only a couple degrees above
-normal for the mountains and deserts. HeatRisk is forecast to
-reach Moderate for the coastal areas Saturday through Monday.
-Gradual cooling Tuesday and Wednesday as offshore flow weakens and
-eventually turns back onshore.
+Temperatures remain abnormally warm on Monday with high pressure
+over the region, despite a decrease in the offshore flow. Things
+cooldown a bit by Tuesday as the high shifts eastward and onshore
+flow resumes. The pattern mid to late next week remains chaotic,
+with both the GFS and ECMWF indicating a return to cooler weather
+and precipitation, but with very different outcomes. At this
+point confidence is high for a pattern shift, but as to what that
+will mean for SoCal remains to be seen.
 
 &&
 
 .AVIATION...
-041200...SCT-BKN clouds 3000-4000 feet MSL with isolated cigs to
-2500 feet through 17Z, along with -SHRA just offshore or possibly
-touching the coast in San Diego County. Clearing from north to south
-by 13-17Z. VFR conditions into Thursday, but with high clouds above
-15 kft increasing after 01Z.
+042200...VFR conditions through Thursday morning, but with high
+clouds above 15 kft increasing after 06Z Thu.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Sunday.
+No hazardous marine conditions are expected through next Monday
+morning.
 
 &&
 
@@ -427,12 +424,14 @@ No hazardous marine conditions are expected through Sunday.
 Tides will increase at the end of the week, reaching 7 ft as early
 as Thursday in Orange County and Friday in San Diego County. Tides
 will peak on Sunday/Monday at 7.4-7.6 ft. A northwest swell (from
-~300 degrees) of 2-3 ft with a 14-16 second period is predicted to
-arrive on Friday, likely to persist into next week. If this swell
-materializes per the current forecast, max surf of 6-7 feet would
-occur. Between the high tides near 7-7.5 feet and the elevated surf,
-at least minor coastal flooding is expected during high tides
-Saturday-Tuesday, especially for more west-facing coastlines.
+~290 degrees) of 2-3 ft with a 14-16 second period is predicted to
+arrive on Friday, likely to persist through early next week. This
+will bring elevated surf 3-5 feet with sets to 6 feet along west-
+facing beaches. Between the high tides near 7-7.5 feet and the
+elevated surf, minor to moderate coastal flooding is expected during
+high tides Saturday-Tuesday, especially for more west-facing
+coastlines. A Coastal Flood Advisory has been issued and will be in
+effect from 4 AM Friday to 12 PM Tuesday.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
@@ -443,18 +442,21 @@ trends in actual tide observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...None.
+CA...Coastal Flood Advisory from 4 AM Friday to noon PST Tuesday for
+     Orange County Coastal Areas-San Diego County Coastal Areas.
+
 PZ...None.
 
 &&
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
