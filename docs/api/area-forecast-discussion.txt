@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-04T23:18:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-05T05:30:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -347,18 +347,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=43&glossary=0">43</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-788
-FXUS66 KSGX 042156
+737
+FXUS66 KSGX 050047
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-156 PM PST Wed Nov 4 2026
+447 PM PST Wed Nov 4 2026
 
 .SYNOPSIS...
 Slightly below normal temperatures today with clearing skies.
@@ -373,8 +371,7 @@ flow switches to onshore and troughing returns.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION DISCUSSION FOR 00Z TAF CYCLE...
 
 Showers have come to an end this morning with skies quickly
 clearing. Mid-level water vapor satellite imagery shows the low
@@ -409,29 +406,29 @@ will mean for SoCal remains to be seen.
 &&
 
 .AVIATION...
-042200...VFR conditions through Thursday morning, but with high
-clouds above 15 kft increasing after 06Z Thu.
+050025...Coastal Areas...FEW clouds with bases 3500 ft MSL
+dissipating overnight. Otherwise...FEW-SCT clouds at or abv 20000 ft
+with unrestricted VIS Thursday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through next Monday
-morning.
+No hazardous marine conditions are expected through next Monday.
 
 &&
 
 .BEACHES...
-Tides will increase at the end of the week, reaching 7 ft as early
-as Thursday in Orange County and Friday in San Diego County. Tides
-will peak on Sunday/Monday at 7.4-7.6 ft. A northwest swell (from
-~290 degrees) of 2-3 ft with a 14-16 second period is predicted to
-arrive on Friday, likely to persist through early next week. This
-will bring elevated surf 3-5 feet with sets to 6 feet along west-
-facing beaches. Between the high tides near 7-7.5 feet and the
-elevated surf, minor to moderate coastal flooding is expected during
-high tides Saturday-Tuesday, especially for more west-facing
-coastlines. A Coastal Flood Advisory has been issued and will be in
-effect from 4 AM Friday to 12 PM Tuesday.
+High tides will rise at the end of the week, reaching 7 ft as early
+as Thursday in Orange County, and Friday in San Diego County. Tides
+will peak Sunday/Monday at 7.4-7.6 ft. A northwest swell of 2-3 ft
+with a 14-16 second period is predicted to arrive on Friday, likely
+to persist through early next week. This will likely bring surf of 3-
+5 feet with sets to 6 feet along west-facing beaches. The
+combination of high tides near 7-7.5 feet and the elevated surf,
+minor to moderate coastal flooding is expected during high tides
+Saturday-Tuesday, especially for the west-facing coastlines. A
+Coastal Flood Advisory has been issued and will be in effect from 4
+AM Friday to 12 PM Tuesday.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
@@ -441,7 +438,6 @@ trends in actual tide observations.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -456,7 +452,7 @@ PZ...None.
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...PG
 
 
 </pre>
