@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-06T05:32:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-06T13:45:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,20 +350,19 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-724
-FXUS66 KSGX 060528
+932
+FXUS66 KSGX 061227
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-928 PM PST Thu Nov 5 2026
+427 AM PST Fri Nov 6 2026
 
 .SYNOPSIS...
-Above-normal temperatures and dry conditions Friday through early
-next week as offshore flow develops, strongest Friday and
-Saturday. A slow cooling trend starts beginning Monday, with more
-substantial cooling and increasing precipitation chances late next
-week.
+Warm and dry through early next week. Weak to moderate offshore
+flow today and Saturday will weaken for Sunday through Wednesday.
+A slow cooling trend begins Monday, with more substantial cooling
+and increasing precipitation chances late next week.
 
 &&
 
@@ -371,96 +370,75 @@ week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
 
-There haven`t been many significant changes to the forecast in the
-past 24 hours. Mid-level water vapor places a high over the Rockies
-with a shortwave trough over Nevada, and weak riding building in
-behind the trough over California. Offshore flow was observed this
-morning through typical windy passes, but remains light elsewhere
-at or below 15 mph. Still, the drier air has already begun to
-push to the coastline, evident by the scattering out of low clouds
-early this morning pre-sunrise. Various weather stations in the
-Inland Empire show humidity at 10AM around 26-32%, much less than
-the 55-70% observed at the same time yesterday. Down into San
-Diego County and even inland Orange County, RH is around 45%
-whereas yesterday at the same time, values were closer to 65-70%.
+Skies are clear this morning under weak offshore flow. Satellite
+water vapor imagery shows a vort max digging south into the lower
+Colorado River Valley with some weak mountain waves becoming
+evident in the lee of the San Bernardino Mountains. So far
+offshore winds remain fairly weak with isolated gusts 25-30 mph in
+the Cajon Pass. Surface pressure gradients are trending stronger
+offshore to the Great Basin, but are weak to the Mojave Desert
+(-1.8 mb SAN-DAG). Expect gradients and winds to strengthen as
+the upper trough continues to dig south - peaking at around 25-35
+mph with local gusts to 40 mph in the wind-prone passes, canyons,
+and coastal mountain slopes later this morning into the afternoon.
 
-Temperatures warm a bit today under the weak upper level ridging and
-clear skies, around 5 degrees above Wednesday`s highs. Offshore flow
-will continue to increase into Saturday as robust high pressure
-develops and a low deepens over Arizona. With substantial
-influence from the high and warm downsloping winds, temperatures
-will reach the low to mid 80s for nearly every location west of
-the mountains, around 10 degrees above normal. The Santa Ana winds
-will be strongest from Friday afternoon through Saturday
-afternoon, ushering in low humidity around 15-25% for all
-locations west of the mountains. Despite the drier weather, only
-weak to locally moderate Santa Ana winds are expected (CW3E) with
-the upper level pattern not as conducive for a stronger event.
-Winds may gust as high as 25-30 mph for foothills and Inland
-Empire, with up to 40-45 mph for wind-prone passes. With recent
-rainfall and currently sitting at above-normal precipitation for
-the water year for SoCal, there aren`t major fire weather concerns
-with this event. Still, make sure to do your part and avoid
-activities that could cause a spark this weekend.
+Pressure gradients strengthen slightly on Saturday, especially to
+the east, though we begin to lose some of the upper level support
+from the nearby trough. Not much change in wind strength for the
+northern areas expected, though they will be stronger below the
+San Gorgonio Pass and the coastal slopes of the San Diego County
+mountains as winds turn more easterly. Offshore winds weaken on
+Sunday. Otherwise warmer and drier this weekend with highs around
+5-15 degrees above normal for the coastal areas and valleys, and
+near to around 5 degrees above normal elsewhere. Sunday is
+forecast to be the hottest day, when highs for inland coastal
+areas and the western valleys will be in the upper 80s to around
+90 degrees.
 
-Sunday looks to be the hottest day as the high elongates into SoCal
-and offshore winds prevail, though weakening significantly Sunday
-afternoon. Widespread minor to locally moderate HeatRisk will exist
-for all areas west of the mountains on Sunday as highs hit upper
-80s, around 10-20 degrees above normal. While the afternoons will be
-hot, moderate overnight lows will help offset the heat, limiting
-HeatRisk.
-
-By Monday, an approaching shortwave trough will help squish the
-high a bit and a cooling trend will begin. Zonal flow settles over
-the area and highs drop 2-3 degrees day over day through Tuesday.
-Latest model guidance shows the high attempting to take hold
-again mid week, spreading into the Four Corners region which
-could help keep temperatures above-normal through Wednesday.
-Regardless, the next system in the form of a massive trough is
-expected to swing into the region Thursday/Friday. Surprisingly,
-global model guidance is decently aligned on this next system and
-the potential for a split off low to form Friday, surging down
-into Baja. Should this occur, some substantial precipitation would
-be possible for SoCal, but confidence at this point remains low.
-For now, the GFS remains the wetter model while the ECMWF attempts
-to provide precipitation with more tempered expectations.
+Subtle cooling takes place Monday and Tuesday as the upper ridge
+begins to weaken and a cut-off low moves by to the south. Weak
+ridging builds in ahead of a digging trough off the coast on
+Wednesday, maintaining temperatures around 5-10 degrees above
+normal. Forecast for later in the week remain highly uncertain.
+For Thursday, around 52% of the ensemble space maintains ridging
+over the Southwest for continued warm and dry weather, while the
+remaining 48% show at least weak troughing across the West Coast
+for cooler weather and a slight chance of precipitation in So Cal.
+Differences in the upper pattern continue into Friday, with around
+20% of the ensemble members still showing a ridge and dry weather.
+Even amongst the clusters with some form of troughing, the
+position of the jet and moisture/heavier precipitation has a lot
+of north-south variation, though general consensus is for light
+(if any) precipitation here.
 
 &&
 
 .AVIATION...
-060530...VFR conditions under FEW-SCT clouds around 20 kft. Weak
-offshore winds below mountain passes in the Inland Empire and
-Coachella Valley today and tonight look to strengthen by 15-18z Fri.
-North to northeast winds will gust 30-45 kts for coastal slopes,
-adjacent foothills, and through mountain passes. Gusts 20-30 kts for
-portions of the valleys (KONT, KSBD, KPSP, KTRM), mainly after 18z
-and through the rest of the forecast period.
+061130...Clear and VFR conditions today and tonight. Offshore
+northeast winds will strengthen by late morning (after 17Z) with
+gusts 30-45 kts for coastal slopes, adjacent foothills, and through
+mountain passes. Pockets of LLWS before the stronger winds surface.
+Gusts 15-30 kts for portions of the valleys (KONT, KSBD) and lower
+deserts (KPSP, KTRM). Some decrease after 02Z and overnight,
+increasing the LLWS where sfc winds taper off. Winds increase again
+after 10Z Saturday.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Monday.
+No hazardous marine conditions are expected through Tuesday.
 
 &&
 
 .BEACHES...
-Increasing high tides will exceed 7 feet tomorrow, peaking Sunday
-and Monday at 7.4-7.6 feet. A NW swell today driving surf near 3-5
-feet briefly fades tonight. However, a fresh northwest swell
-arriving later in the morning tomorrow will be 2-3 feet from 290
-degrees with a period of 14-15 seconds. This will keep surf elevated
-to 3-6 feet along west-facing beaches through Tuesday, with 3 foot
-waves more likely along south-facing beaches. This NW swell may even
-see an increase to 3-4 feet on Monday, which could bring breaking
-waves up to 7 feet.
-
-The combination of high tides and elevated surf will likely generate
-minor coastal flooding, with chances for moderate coastal flooding
-along more west-facing beaches where surf will be higher. A Coastal
-Flood Advisory remains in effect from 4 AM Friday through noon
+High tides will exceed 7 feet early each morning through Tuesday,
+peaking Sunday and Monday at 7.4-7.6 feet. Elevated surf will also
+continue. High tides and elevated surf arriving Monday will combine
+to generate minor coastal flooding, with chances for moderate
+coastal flooding along more west-facing beaches where surf will be
+higher. A Coastal Flood Advisory remains in effect through noon
 Tuesday and contains more details.
 
 Reminder, tides mentioned have been corrected to reflect the current
@@ -472,12 +450,11 @@ trends in actual tide observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Advisory from 4 AM Friday to noon PST Tuesday for
-     Orange County Coastal Areas-San Diego County Coastal Areas.
+CA...Coastal Flood Advisory until noon PST Tuesday for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -485,8 +462,8 @@ PZ...None.
 
 $$
 
-PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...Stewey
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
