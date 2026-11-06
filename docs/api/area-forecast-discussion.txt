@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-05T14:10:13+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-06T05:32:55+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,23 +343,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-858
-FXUS66 KSGX 051124
+724
+FXUS66 KSGX 060528
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-324 AM PST Thu Nov 5 2026
+928 PM PST Thu Nov 5 2026
 
 .SYNOPSIS...
-Gradual warming through Sunday with periods of weak to moderate
-Santa Anas winds. Temperatures will be as high as 5-15 degrees
-above normal by Saturday when offshore winds peak. Gradual cooling
-Monday through Wednesday as offshore winds weaken and eventually
-turn back onshore.
+Above-normal temperatures and dry conditions Friday through early
+next week as offshore flow develops, strongest Friday and
+Saturday. A slow cooling trend starts beginning Monday, with more
+substantial cooling and increasing precipitation chances late next
+week.
 
 &&
 
@@ -367,70 +371,73 @@ turn back onshore.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
+...UPDATED AVIATION DISCUSSION...
 
-Patchy stratus has developed across San Diego County this morning
-and a band of scattered high clouds is beginning to move in from
-the northwest. At the surface, pressure gradients are trending
-offshore - currently around -5.3 mb SAN-TPH and -1.6 mb SAN-DAG.
-Winds are gusting 20-30 mph in the Cajon Pass but remain weak
-elsewhere. Weak offshore flow will persist through the late
-morning followed by a weak sea breeze this afternoon. Otherwise
-warmer today with highs near normal and scattered high clouds
-through the day.
+There haven`t been many significant changes to the forecast in the
+past 24 hours. Mid-level water vapor places a high over the Rockies
+with a shortwave trough over Nevada, and weak riding building in
+behind the trough over California. Offshore flow was observed this
+morning through typical windy passes, but remains light elsewhere
+at or below 15 mph. Still, the drier air has already begun to
+push to the coastline, evident by the scattering out of low clouds
+early this morning pre-sunrise. Various weather stations in the
+Inland Empire show humidity at 10AM around 26-32%, much less than
+the 55-70% observed at the same time yesterday. Down into San
+Diego County and even inland Orange County, RH is around 45%
+whereas yesterday at the same time, values were closer to 65-70%.
 
-An upper level short-wave trough moving inland across the Pac NW
-this morning will dig southeast into the Great Basin later today
-before a closed low develops in the base of the trough over
-Arizona on Friday. This will drive stronger offshore pressure
-gradients and provide a bit of upper level support as
-northeasterly mid-level flow develops over the region on the back
-side of the low. The EC ensemble remains stronger with forecast
-gradients than the GEFS, however the GEFS mean is much closer to
-observed gradients this morning. Expect Santa Ana winds to
-increase on Friday but generally be confined to the wind-prone
-passes, canyons, and coastal slopes/foothills. Gradients continue
-to strengthen on Saturday, especially to the east, though we lose
-some of the upper level support as the upper low shifts south and
-east. Winds both days are forecast to gust to around 25-40 mph,
-first focused in the Cajon Pass/Santa Ana Mountains on Friday as
-winds are northeasterly, then the San Gorgonio Pass/San Diego
-County Mountains on Saturday as winds turn more easterly.
-Gradients and winds weaken for Sunday and Monday, eventually
-turning back onshore towards the middle of next week.
+Temperatures warm a bit today under the weak upper level ridging and
+clear skies, around 5 degrees above Wednesday`s highs. Offshore flow
+will continue to increase into Saturday as robust high pressure
+develops and a low deepens over Arizona. With substantial
+influence from the high and warm downsloping winds, temperatures
+will reach the low to mid 80s for nearly every location west of
+the mountains, around 10 degrees above normal. The Santa Ana winds
+will be strongest from Friday afternoon through Saturday
+afternoon, ushering in low humidity around 15-25% for all
+locations west of the mountains. Despite the drier weather, only
+weak to locally moderate Santa Ana winds are expected (CW3E) with
+the upper level pattern not as conducive for a stronger event.
+Winds may gust as high as 25-30 mph for foothills and Inland
+Empire, with up to 40-45 mph for wind-prone passes. With recent
+rainfall and currently sitting at above-normal precipitation for
+the water year for SoCal, there aren`t major fire weather concerns
+with this event. Still, make sure to do your part and avoid
+activities that could cause a spark this weekend.
 
-With offshore winds and high pressure building in from the west,
-expect much warmer weather into Sunday, especially west of the
-mountains. By Friday, highs will be as much as 5-10 degrees above
-normal for the western valleys and coastal areas (highs in the low
-to mid 80s), but remain near to slightly below normal for the
-mountains and deserts due to cold air advection from the north.
-For this weekend, highs will be closer to 7-15 degrees above
-normal for the coastal areas and valleys, and near to around 3
-degrees above normal elsewhere. Highs could push the 90 degree
-mark on Sunday.
+Sunday looks to be the hottest day as the high elongates into SoCal
+and offshore winds prevail, though weakening significantly Sunday
+afternoon. Widespread minor to locally moderate HeatRisk will exist
+for all areas west of the mountains on Sunday as highs hit upper
+80s, around 10-20 degrees above normal. While the afternoons will be
+hot, moderate overnight lows will help offset the heat, limiting
+HeatRisk.
 
-The upper level ridge weakens and a cut-off low passes by to the
-south Monday and Tuesday allowing for slow cooling. An upper level
-low moves towards the West Coast on Wednesday, though depending on
-its position we could see more cooling (further east position), or
-still be under a ridge with little cooling (further west
-position). The progression of this trough will have a larger
-influence on the weather late in the week, not only in terms of
-how much cooling, but precipitation chances as well. For now there
-is a slight (15-20%) chance beginning on Thursday, though
-significant spread exists in the ensembles regarding the timing
-and amounts for late in the week. It looks like that will also
-begin a fairly active weather pattern, and the CPC 8-14 day
-outlook is showing a 60-70% chance of above normal rainfall along
-the entire CA coast.
+By Monday, an approaching shortwave trough will help squish the
+high a bit and a cooling trend will begin. Zonal flow settles over
+the area and highs drop 2-3 degrees day over day through Tuesday.
+Latest model guidance shows the high attempting to take hold
+again mid week, spreading into the Four Corners region which
+could help keep temperatures above-normal through Wednesday.
+Regardless, the next system in the form of a massive trough is
+expected to swing into the region Thursday/Friday. Surprisingly,
+global model guidance is decently aligned on this next system and
+the potential for a split off low to form Friday, surging down
+into Baja. Should this occur, some substantial precipitation would
+be possible for SoCal, but confidence at this point remains low.
+For now, the GFS remains the wetter model while the ECMWF attempts
+to provide precipitation with more tempered expectations.
 
 &&
 
 .AVIATION...
-051130...SCT or locally and briefly BKN cigs 2500 feet MSL in San
-Diego County through 16Z. Otherwise...VFR conditions under SCT to
-occasionally BKN clouds around 20 kft today and tonight.
+060530...VFR conditions under FEW-SCT clouds around 20 kft. Weak
+offshore winds below mountain passes in the Inland Empire and
+Coachella Valley today and tonight look to strengthen by 15-18z Fri.
+North to northeast winds will gust 30-45 kts for coastal slopes,
+adjacent foothills, and through mountain passes. Gusts 20-30 kts for
+portions of the valleys (KONT, KSBD, KPSP, KTRM), mainly after 18z
+and through the rest of the forecast period.
 
 &&
 
@@ -440,11 +447,21 @@ No hazardous marine conditions are expected through Monday.
 &&
 
 .BEACHES...
-High tides will peak Sunday and Monday at 7.4-7.6 feet. Surf will be
-somewhat elevated at 3-5 feet today and again Monday into Tuesday.
-The combination of high tides and surf will likely generate minor to
-moderate coastal flooding. The Coastal Flood Advisory contains the
-details.
+Increasing high tides will exceed 7 feet tomorrow, peaking Sunday
+and Monday at 7.4-7.6 feet. A NW swell today driving surf near 3-5
+feet briefly fades tonight. However, a fresh northwest swell
+arriving later in the morning tomorrow will be 2-3 feet from 290
+degrees with a period of 14-15 seconds. This will keep surf elevated
+to 3-6 feet along west-facing beaches through Tuesday, with 3 foot
+waves more likely along south-facing beaches. This NW swell may even
+see an increase to 3-4 feet on Monday, which could bring breaking
+waves up to 7 feet.
+
+The combination of high tides and elevated surf will likely generate
+minor coastal flooding, with chances for moderate coastal flooding
+along more west-facing beaches where surf will be higher. A Coastal
+Flood Advisory remains in effect from 4 AM Friday through noon
+Tuesday and contains more details.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
@@ -454,6 +471,7 @@ trends in actual tide observations.
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
+
 
 &&
 
@@ -467,8 +485,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
