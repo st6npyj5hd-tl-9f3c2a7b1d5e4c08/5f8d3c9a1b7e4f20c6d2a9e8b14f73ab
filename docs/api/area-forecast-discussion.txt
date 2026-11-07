@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-07T12:36:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-07T21:32:19+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-691
-FXUS66 KSGX 071024
+750
+FXUS66 KSGX 072055
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-224 AM PST Sat Nov 7 2026
+1255 PM PST Sat Nov 7 2026
 
 .SYNOPSIS...
 Weak to moderate Santa Ana winds will continue through the
@@ -370,54 +370,64 @@ later next week, bringing cooler weather with a chance for rain.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION...
+Today through Monday...
 
-Skies are mostly clear this morning. Surface pressure gradients
-are trending stronger offshore, currently around -9.4 mb SAN-TPH
-and -3.3 mb SAN-DAG. Breezy northeast winds gusting 25-35 mph
-continue below the passes and canyons and on the coastal mountain
-slopes. Winds will strengthen slightly through the morning with
-isolated gusts to 45 mph, then weaken during the afternoon and
-evening. Winds turn more easterly on Sunday with breezy conditions
-continuing along the San Diego and Riverside County coastal
-mountain slopes and passes. Warming trend continues into Sunday
-when highs will be anywhere from 5-15 degrees above normal, with
-the greatest departure from normal in the coastal areas. Highs
-will generally be in the mid 80s to around 90 for the coastal
-areas and valleys, 60s to low 70s in the mountains, low to mid 70s
-in the high desert, and mid 80s in the low desert.
+Current 500mb analysis plots an upper low swinging through northern
+Mexico this afternoon, with a ridge axis extending from central
+CA into the Great Basin. This is providing northerly flow aloft,
+with the surface high placed in the Great Basin. Surface pressure
+gradients look to have peaked earlier this morning, with -10.7 mb
+SAN-TPH at 15z (7AM) and -4.6 mb SAN-DAG at 17z (9AM), and are now
+beginning to relax. The offshore winds also look to have peaked
+compared to earlier this morning, but will still remain breezy
+into this afternoon. North-northeast gusts 15-20 mph across the
+inland valleys will continue this afternoon, with gusts up to
+35-40+ mph within mountain passes and adjacent foothills.
+Temperatures are quite mild as a result of the offshore flow, with
+many coastal/valley locations in the mid to upper 80s, about
+10-15 degrees above seasonal averages. As the upper level pattern
+progresses and the surface high slides southeastward toward the
+Four Corners into Sunday, the offshore pressure gradient will
+continue to gradually weaken and offshore winds turn more
+easterly. Stronger wind gusts will favor east-west passes in
+Riverside/San Diego counties as a result, with top gusts 30-40 mph
+in the mountains/passes. Occasional 15-20 mph gusts may stretch
+into the foothills and inland valleys Sunday afternoon. Persistent
+offshore flow will keep the temperatures unseasonably warm, with
+similar high temperatures to today, perhaps even a few degrees
+warmer. While offshore flow looks to stay in place into Monday,
+the weakening trend will continue, with elevated breezes (near
+20-25 mph) remain restricted to the mountains/passes. The heat
+will stick around though, with highs on Monday being a few degrees
+cooler than Sunday.
 
-The upper level ridge weakens Monday and Tuesday with much weaker
-offshore flow, allowing for a couple degrees of cooling each day
-and otherwise benign weather. An upper level ridge amplifies
-across the Southwest on Wednesday ahead of a digging trough off
-the West Coast, bringing minor warming.
+Tuesday into the end of next week...
 
-Solutions diverge around Thursday as about 58% of the global
-ensemble members maintain upper level ridging and warm/dry weather
-in Southern California, while 19% have a trough far enough south
-along the coast for some light precipitation and much cooler
-weather, and the remaining 21% with a less amplified trough for
-less cooling but still dry weather. As we head into Friday, there
-is better agreement for weak troughing over So Cal for more
-cooling and a 15% chance of light precipitation. Saturday becomes
-questionable again as ensemble members differ on the evolution of
-the short wave in the southern stream of the jet, which will
-dictate how much if any additional precipitation occurs, though
-the general consensus shows at least light precipitation (20-30%
-chance). High confidence that any Atmospheric Rivers will remain
-to the north late next week, so chances of at least moderate
-precipitation (0.50" or more) is 20% or less for the mountains
-westward.
+Come midweek, global ensembles are consistent with an upper ridge
+spreading into south-central California and the Southwest. This
+keeps our weather relatively quiet, with the main story being the
+persistence of mild conditions, high temperatures on Tuesday-
+Wednesday stay in the low to mid 80s for the coasts/valleys,
+maintaining the 10-15 degree departure from average.
+
+Global ensemble cluster then feature an upper low to follow the
+ridge some time late week, but clusters diverge on the progression
+of this low. The clusters favor a pretty far south storm, with the
+GFS cluster being too far south to bring precipitation chances, and
+the Euro cluster being slightly less south, bringing slight
+precipitation chances. Timeframe would be late week, but uncertainty
+in any rainfall occurring remains quite high at this time. For
+now, rainfall chances would increase the further south you go.
 
 &&
 
 .AVIATION...
-071025...Clear with unrestricted VIS today and tongiht. Northeast
-winds with gusts 30-45 kts for coastal slopes, adjacent foothills,
-and through mountain passes will continue into this morning. Pockets
-of LLWS through early this morning before winds decrease inland and
-turn onshore for coastal regions this afternoon.
+071800...SKC and VFR regionwide. This afternoon, W/NW winds for
+coastal areas; E/NE winds gusting 25-35 kts to continue for coastal
+facing slopes and downslope of wind corridors, weakening gradually
+this evening. E/NE winds increase once again (gusts 25-35 kts)
+Sunday after 12z west of the Banning Pass and along west facing
+slopes, down to inland SD County and reaching the coast locally.
 
 &&
 
@@ -445,13 +455,6 @@ trends in actual tide observations.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory until noon PST Tuesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -462,8 +465,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...Munyan
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
