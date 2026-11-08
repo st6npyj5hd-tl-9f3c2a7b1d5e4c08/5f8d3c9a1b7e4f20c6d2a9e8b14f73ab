@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-08T12:53:55+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-08T21:47:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,23 +345,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-654
-FXUS66 KSGX 081034
+934
+FXUS66 KSGX 081931
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-234 AM PST Sun Nov 8 2026
+1131 AM PST Sun Nov 8 2026
 
 .SYNOPSIS...
-Weak to moderate Santa Ana winds will continue today. High
-temperatures 5-15 degrees above normal for the coastal areas and
-valleys today. Winds weaken into next week as high pressure moves
-into the area, keeping temperatures above normal. Gradual cooling
-with a 15-25% chance of precipitation late in the week.
+Warm conditions and weak Santa Ana winds can be expected today.
+Winds weaken into Monday, but above average temperatures are
+expected to continue through the middle of the week. Gradual cooling
+is expected for the second half of the week with precipitation
+chances next weekend.
 
 &&
 
@@ -369,65 +371,50 @@ with a 15-25% chance of precipitation late in the week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Visible satellite imagery was showing clear skies across Southern
+California this morning. Easterly winds this morning peaked at 45
+mph in the San Diego mountains. The combination of weak offshore
+flow and a building ridge of high pressure will keep high
+temperatures today 10 to locally up to 20 degrees above average,
+with the greatest departure from average along the coast.
 
-...UPDATED AVIATION DISCUSSION...
+An upper level ridge will continue to build over Southern California
+for the first half of the week. This will maintain well above
+average temperatures for coastal areas, even further inland in the
+deserts high temperatures will remain up to 5 degrees above average.
+The weak offshore flow is expected to continue through the middle of
+the week as well although wind gusts are expected to be 35 mph or
+less. The building ridge and offshore flow will keep marine layer
+low clouds and fog mostly absent from the coast through at least the
+middle of the week.
 
-Skies are mostly clear this morning under weak offshore flow.
-Surface pressure gradients to the Great Basin have weakened
-significantly over the past 24 hr, though not much change has
-occurred to the Mojave Desert. Northeast to east winds are gusting
-20-30 mph, mainly in the Cajon Pass and along the coastal slopes
-of the San Diego County mountains and Santa Ana Mountains. Winds
-are forecast to strengthen slightly through the morning, then
-weaken again this afternoon. Otherwise dry and warm today with
-highs 7-15 degrees above normal west of the mountains and around
-3-5 degrees above normal elsewhere. High temperatures for inland
-coastal areas and the western valleys could reach 90 degrees in
-spots.
-
-Offshore flow continues to weaken on Monday, then remains weak
-through at least Thursday. Weak upper level ridging remains in
-place through Tuesday, then the ridge amplifies across the
-Southwest on Wednesday ahead of a trough developing off the coast,
-both of which shift east on Thursday. This will maintain warm and
-dry weather for much of the week with widespread high temperatures
-5-10 degrees above normal: mid to upper 80s for the coastal areas
-and valleys, low 60s to low 70s in the mountains, mid to upper 70s
-in the high desert, and mid to upper 80s in the low desert.
-
-Global ensembles have trended slower with the onset of
-precipitation late in the week, with slight chances now beginning
-late Friday. Significant differences remain in the evolution of
-the upper level pattern as the jet tries to split. Around 47% of
-the ensemble members (as well as the deterministic EC and GFS) for
-a deep closed low in the southern stream and digs it south off the
-coast of CA and potentially into northern Mexico late Friday into
-Saturday. Models are notoriously poor at forecasting the
-track/timing of such systems, so if this pattern holds the
-precipitation forecast will likely change - potentially
-significantly - over the next few days. Around 31% of the members
-show a weaker open wave developing in the southern stream, which
-would be more progressive (precipitation starting and ending
-earlier with less accumulation). The remaining 22% does not
-produce any split flow with zonal winds across So Cal Friday and
-Saturday. Current NBM forecast favors the further south closed low
-scenario with higher precipitation probabilities over San Diego
-County on Saturday (20-30%), decreasing to the north (15-20%). NBM
-chances of moderate precipitation (48 hr total of at least 0.50")
-remains around 20% for the mountains westward. The only certain
-thing for Friday and Saturday is cooling with increasing cloud
-cover.
+Global ensembles have trended slower with the onset of precipitation
+late in the week, with slight chances now beginning late Friday.
+Significant differences remain in the evolution of the upper level
+pattern as the jet tries to split. Around 60% of the ensemble
+members (as well as the deterministic EC and GFS) show a deep closed
+low in the southern stream and digs it south off the coast of CA and
+potentially into northern Mexico Saturday. Models are notoriously
+poor at forecasting the track/timing of such systems, so if this
+pattern holds the precipitation forecast will likely change -
+potentially significantly - over the next few days. Around 20% of
+the members show a weaker open wave developing in the southern
+stream, which would be more progressive (precipitation starting and
+ending earlier with less accumulation). The remaining 20% does not
+produce any split flow with zonal winds across SoCal. Current NBM
+forecast favors the further south closed low scenario with higher
+precipitation probabilities over San Diego County on Sunday (60-
+70%), decreasing to the north (45-60%). The only certain thing for
+Friday and Saturday is cooling with increasing cloud cover.
 
 &&
 
 .AVIATION...
-081030...SKC and VFR regionwide. E/NE winds strengthen and become
-more widespread once more after 17Z, primarily in San Diego County
-and in the Inland Empire downwind of the Banning Pass. Gusts 25-35
-kts for coastal slopes/foothills and downwind of passes and
-corridors of gusts 15-25 kts into the valleys through this
-afternoon, before winds become isolated to the foothills again this
-evening.
+081800...SKC and VFR regionwide. E/NE winds gusting locally 20-35
+kts in the San Diego County foothill slopes and in the Inland Empire
+downwind of the Banning Pass diminish this afternoon, increasing
+once again Mon after 16z. Otherwise, light W/NW winds around the
+coast during the day, becoming light E/NE at night.
 
 &&
 
@@ -452,7 +439,7 @@ coastal flooding, with chances for moderate coastal flooding along
 west-facing beaches where surf will be higher. A Coastal Flood
 Advisory remains in effect through noon Tuesday for both the San
 Diego and Orange County coastlines. A Beach Hazards Statement is in
-effect as well for San Diego County through late Tuesday fro
+effect as well for San Diego County through late Tuesday for
 elevated surf and strong rip currents.
 
 Reminder, tides mentioned have been corrected to reflect the current
@@ -480,8 +467,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...CSP
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
