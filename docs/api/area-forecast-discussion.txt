@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-07T21:32:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-08T04:56:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-750
-FXUS66 KSGX 072055
+826
+FXUS66 KSGX 072350
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1255 PM PST Sat Nov 7 2026
+350 PM PST Sat Nov 7 2026
 
 .SYNOPSIS...
 Weak to moderate Santa Ana winds will continue through the
@@ -369,6 +369,9 @@ later next week, bringing cooler weather with a chance for rain.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Today through Monday...
 
@@ -422,27 +425,29 @@ now, rainfall chances would increase the further south you go.
 &&
 
 .AVIATION...
-071800...SKC and VFR regionwide. This afternoon, W/NW winds for
-coastal areas; E/NE winds gusting 25-35 kts to continue for coastal
-facing slopes and downslope of wind corridors, weakening gradually
-this evening. E/NE winds increase once again (gusts 25-35 kts)
-Sunday after 12z west of the Banning Pass and along west facing
-slopes, down to inland SD County and reaching the coast locally.
+072330...SKC and VFR regionwide. E/NE winds will remain mostly along
+coastal slopes and through mountain passes with gusts 20-25 kts
+through 12z Sun. Winds strengthen once more late Sunday morning,
+primarily in San Diego County and in the Inland Empire downwind of
+the Banning Pass. Gusts 25-35 kts for coastal slopes/foothills and
+downwind of passes and corridors of gusts 15-25 kts into the valleys
+through Sunday afternoon.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Wednesday.
+No hazardous marine conditions are expected through Thursday.
 
 &&
 
 .BEACHES...
 High tides will exceed 7 feet each morning through Tuesday, peaking
 Sunday and Monday at 7.4-7.6 feet. A northwest swell at 2-3 feet
-with a period of 14-15 seconds will keep surf at 3-6 feet along west-
-facing beaches through Tuesday, with 3 foot waves more likely along
-south-facing beaches. This NW swell will increase to 3-4 feet on
-Monday, which will bring sets to 7 feet on west-facing beaches.
+with a period of 14-15 seconds will keep surf at 3-5 feet with sets
+to 6 feet along west-facing beaches through Tuesday, with 3-4 foot
+waves more likely along south-facing beaches. This NW swell will
+increase to 3-4 feet on Monday, which will bring sets to 7 feet on
+west-facing beaches.
 
 The combination of high tides and elevated surf will generate minor
 coastal flooding, with chances for moderate coastal flooding along
@@ -452,6 +457,13 @@ details.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
@@ -466,7 +478,7 @@ PZ...None.
 $$
 
 PUBLIC...Munyan
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
