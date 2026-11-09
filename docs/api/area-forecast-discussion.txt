@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-09T05:04:26+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-09T15:28:15+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,20 +350,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-975
-FXUS66 KSGX 082319
+727
+FXUS66 KSGX 091129
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-319 PM PST Sun Nov 8 2026
+329 AM PST Mon Nov 9 2026
 
 .SYNOPSIS...
-Warm conditions and weak Santa Ana winds can be expected today.
-Winds weaken into Monday, but above average temperatures are
-expected to continue through the middle of the week. Gradual cooling
-is expected for the second half of the week with precipitation
-chances next weekend.
+High pressure aloft and weak offshore lower-level flow will
+prevail through Wednesday with high temperatures as much as 10 to
+15 degrees above average for coastal areas into the western
+valleys. A cooling trend will follow for Thursday into early next
+week with a chance of mostly light showers some time for Friday
+into Saturday and additional chances of precipitation into next
+week.
 
 &&
 
@@ -371,51 +373,51 @@ chances next weekend.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
 
-...UPDATED AVIATION DISCUSSION...
+.SHORT TERM (Today through Wednesday)...
+High pressure aloft and weak offshore lower-level flow will
+prevail through Wednesday with high temperatures 5 to 10 degrees
+above average for the mountains and deserts to 10 to 15 degrees
+above average for the coast and western valleys. High temperatures
+for the coast and valleys will be mostly in the upper 70s to upper
+80s with the warmest high temperatures, in the mid to upper 80s,
+for inland coastal areas into the western valleys.
 
-Visible satellite imagery was showing clear skies across Southern
-California this morning. Easterly winds this morning peaked at 45
-mph in the San Diego mountains. The combination of weak offshore
-flow and a building ridge of high pressure will keep high
-temperatures today 10 to locally up to 20 degrees above average,
-with the greatest departure from average along the coast.
+&&
 
-An upper level ridge will continue to build over Southern California
-for the first half of the week. This will maintain well above
-average temperatures for coastal areas, even further inland in the
-deserts high temperatures will remain up to 5 degrees above average.
-The weak offshore flow is expected to continue through the middle of
-the week as well although wind gusts are expected to be 35 mph or
-less. The building ridge and offshore flow will keep marine layer
-low clouds and fog mostly absent from the coast through at least the
-middle of the week.
+.LONG TERM (Thursday through Sunday)...
+On Thursday, A low pressure system moving toward the California
+coast will weaken high pressure aloft with lower-level flow
+becoming onshore and strengthening. High temperatures on Thursday
+will cool a few degrees for the deserts to around 5 degrees for
+the coast into the valleys. High temperatures on Thursday for the
+coast and valleys will be mostly in the mid 70s to mid 80s with
+the warmest high temperatures, in the lower to mid 80s, for
+inland coastal areas into the western valleys.
 
-Global ensembles have trended slower with the onset of precipitation
-late in the week, with slight chances now beginning late Friday.
-Significant differences remain in the evolution of the upper level
-pattern as the jet tries to split. Around 60% of the ensemble
-members (as well as the deterministic EC and GFS) show a deep closed
-low in the southern stream and digs it south off the coast of CA and
-potentially into northern Mexico Saturday. Models are notoriously
-poor at forecasting the track/timing of such systems, so if this
-pattern holds the precipitation forecast will likely change -
-potentially significantly - over the next few days. Around 20% of
-the members show a weaker open wave developing in the southern
-stream, which would be more progressive (precipitation starting and
-ending earlier with less accumulation). The remaining 20% does not
-produce any split flow with zonal winds across SoCal. Current NBM
-forecast favors the further south closed low scenario with higher
-precipitation probabilities over San Diego County on Sunday (60-
-70%), decreasing to the north (45-60%). The only certain thing for
-Friday and Saturday is cooling with increasing cloud cover.
+That low pressure system approaching the California coast on
+Thursday has both model timing and track differences as it moves
+toward the southeast, and then inland across northern and central
+Baja on Friday and Friday night. This will bring additional
+cooling for Friday and Saturday with high temperatures on Saturday
+for the coast and valleys mostly in the 70s, in the lower deserts
+around 80, and for the mountains in the 50s and 60s. This will
+also bring a chance of showers with uncertain timing for some time
+for Friday into Saturday. The greater amounts are expected
+somewhere across central Baja with lighter rainfall possibly
+extending into portions of southwestern California.
+
+Additional low pressure systems could bring precipitation at times
+for late in the weekend into next week, but with even greater
+timing and track differences.
 
 &&
 
 .AVIATION...
-082330...SKC and VFR regionwide. E/NE winds gusting 15-25 kts will
-continue through Monday afternoon for coastal slopes and foothills
-of San Diego/Riverside Counties and downwind of the Banning Pass.
+091130...Mostly clear and VFR conditions today and tonight. Local
+E/NE winds gusting to 25 kts will continue in parts of the foothills
+and locally into eastern valleys through 21Z.
 
 &&
 
@@ -425,32 +427,24 @@ No hazardous marine conditions are expected through Thursday.
 &&
 
 .BEACHES...
-High tides will exceed 7 feet each morning through Tuesday.
-Additionally, a northwest swell at 2-3 feet with a period of 14-15
-seconds will lead to surf of 3-6 feet with sets to along west-facing
-beaches today, with 3-4 foot waves more likely along south-facing
-beaches. This NW swell will increase to 3-4 feet Monday, which will
-increase surf to 4-7 feet for west-facing beaches through Tuesday.
-Surf on the San Diego Co coast will lead to hazardous swimming
-conditions and very strong rip currents through Tuesday night. A
-Beach Hazards Statement is in effect as well for San Diego County
-through late Tuesday.
+A rise in westerly swell will generate surf of 3-7 feet, leading to
+strong rip currents and hazardous swimming conditions through
+Tuesday night. A Beach Hazards Statement is in effect for San Diego
+County beaches through late Tuesday.
 
-The combination of high tides and elevated surf will generate minor
-coastal flooding, with local areas of moderate coastal flooding
+High tides will exceed 7 feet this morning and Tuesday morning
+(tides corrected to reflect current trends in actual tide
+observations). High tides and elevated surf will combine to generate
+minor coastal flooding, with areas of moderate coastal flooding
 along west-facing beaches where surf will be higher. A Coastal Flood
-Advisory remains in effect through noon Tuesday for both the San
-Diego and Orange County coastlines.
-
-Reminder, tides mentioned have been corrected to reflect the current
-trends in actual tide observations.
+Advisory remains in effect through noon Tuesday for beaches in San
+Diego and Orange Counties.
 
 &&
 
 .SKYWARN...
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
-
 
 &&
 
@@ -467,8 +461,8 @@ PZ...None.
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...17
+AVIATION/MARINE/BEACHES...MM
 
 
 </pre>
