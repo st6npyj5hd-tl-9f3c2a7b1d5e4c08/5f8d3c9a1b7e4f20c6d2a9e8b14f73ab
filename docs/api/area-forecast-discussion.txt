@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-08T21:47:08+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-09T05:04:26+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-934
-FXUS66 KSGX 081931
+975
+FXUS66 KSGX 082319
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1131 AM PST Sun Nov 8 2026
+319 PM PST Sun Nov 8 2026
 
 .SYNOPSIS...
 Warm conditions and weak Santa Ana winds can be expected today.
@@ -370,6 +370,9 @@ chances next weekend.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Visible satellite imagery was showing clear skies across Southern
 California this morning. Easterly winds this morning peaked at 45
@@ -410,11 +413,9 @@ Friday and Saturday is cooling with increasing cloud cover.
 &&
 
 .AVIATION...
-081800...SKC and VFR regionwide. E/NE winds gusting locally 20-35
-kts in the San Diego County foothill slopes and in the Inland Empire
-downwind of the Banning Pass diminish this afternoon, increasing
-once again Mon after 16z. Otherwise, light W/NW winds around the
-coast during the day, becoming light E/NE at night.
+082330...SKC and VFR regionwide. E/NE winds gusting 15-25 kts will
+continue through Monday afternoon for coastal slopes and foothills
+of San Diego/Riverside Counties and downwind of the Banning Pass.
 
 &&
 
@@ -424,23 +425,22 @@ No hazardous marine conditions are expected through Thursday.
 &&
 
 .BEACHES...
-High tides will exceed 7 feet each morning through Tuesday, peaking
-today and Monday at 7.4-7.6 feet. A northwest swell at 2-3 feet with
-a period of 14-15 seconds will lead to surf of 3-6 feet with sets to
-along west-facing beaches today, with 3-4 foot waves more likely
-along south-facing beaches. This NW swell will increase to 3-4 feet
-Monday, which will increase surf to 4-7 feet for west-facing beaches
-through Tuesday. Surf on the San Diego Co coast will lead to
-hazardous swimming conditions and very strong rip currents through
-Tuesday night.
+High tides will exceed 7 feet each morning through Tuesday.
+Additionally, a northwest swell at 2-3 feet with a period of 14-15
+seconds will lead to surf of 3-6 feet with sets to along west-facing
+beaches today, with 3-4 foot waves more likely along south-facing
+beaches. This NW swell will increase to 3-4 feet Monday, which will
+increase surf to 4-7 feet for west-facing beaches through Tuesday.
+Surf on the San Diego Co coast will lead to hazardous swimming
+conditions and very strong rip currents through Tuesday night. A
+Beach Hazards Statement is in effect as well for San Diego County
+through late Tuesday.
 
 The combination of high tides and elevated surf will generate minor
-coastal flooding, with chances for moderate coastal flooding along
-west-facing beaches where surf will be higher. A Coastal Flood
+coastal flooding, with local areas of moderate coastal flooding
+along west-facing beaches where surf will be higher. A Coastal Flood
 Advisory remains in effect through noon Tuesday for both the San
-Diego and Orange County coastlines. A Beach Hazards Statement is in
-effect as well for San Diego County through late Tuesday for
-elevated surf and strong rip currents.
+Diego and Orange County coastlines.
 
 Reminder, tides mentioned have been corrected to reflect the current
 trends in actual tide observations.
@@ -468,7 +468,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
