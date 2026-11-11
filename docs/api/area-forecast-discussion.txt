@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-10T22:55:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-11T05:06:08+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-184
-FXUS66 KSGX 101935
+167
+FXUS66 KSGX 102328
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1135 AM PST Tue Nov 10 2026
+328 PM PST Tue Nov 10 2026
 
 .SYNOPSIS...
 Above average conditions will continue through Wednesday. Cooler
@@ -369,6 +369,9 @@ expected starting Friday through next Tuesday.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Highs today are expected to be within a few degrees of yesterday.
 Weak ridging aloft and weak offshore flow will continue to keep
@@ -412,8 +415,9 @@ trough passage.
 &&
 
 .AVIATION...
-101830Z...Mostly clear skies and VFR conditions through early Wed.
-Light E/NE winds west of mountain passes and foothill slopes.
+102330Z...Mostly clear skies and VFR conditions through early Wed.
+Light E/NE winds west of mountain passes and foothill slopes under
+20 knots.
 
 &&
 
@@ -436,15 +440,11 @@ contains the details.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...Beach Hazards Statement until 10 PM PST this evening for San
      Diego County Coastal Areas.
-
-     Coastal Flood Advisory until noon PST today for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
 
 PZ...None.
 
@@ -453,7 +453,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+AVIATION/MARINE...APR
 
 
 </pre>
