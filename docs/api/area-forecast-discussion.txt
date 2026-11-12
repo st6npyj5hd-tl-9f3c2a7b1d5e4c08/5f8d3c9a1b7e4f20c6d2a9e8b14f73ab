@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-11T13:30:32+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-12T00:10:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,24 +350,25 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-635
-FXUS66 KSGX 111052
+464
+FXUS66 KSGX 120007
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-252 AM PST Wed Nov 11 2026
+407 PM PST Wed Nov 11 2026
 
 .SYNOPSIS...
-Above average high temperatures will begin to cool on Thursday.
-For late Thursday night into Friday, a low pressure system moving
-inland through Baja will bring showers, some with locally heavy
-rainfall near the coast. A second low pressure system will bring
-increasing showers for Friday night into Saturday morning along
-with stronger and gusty winds for the coastal waters and for the
-mountains and deserts. Saturday night through Sunday afternoon
-will be relatively drier with the next low pressure system moving
-inland into California Sunday night and Monday.
+Cooler conditions with increased cloud coverage is expected for
+Thursday through early next week. Periods of rain are expected
+Friday through early next week. The first round is expected Friday
+morning, with chances of isolated thunderstorms over the coastal
+waters locally into the beaches. The next chance will be Friday
+evening into Saturday, with more widespread light to locally
+moderate showers. In addition to periods of rain, winds are
+expected to increase over the mountains and deserts. Sunday could
+see mostly dry conditions with our next chances of precipitation
+and increased winds Monday and Tuesday.
 
 &&
 
@@ -376,94 +377,96 @@ SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
 
-...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
+...UPDATED AVIATION DISCUSSION...
 
-.SHORT TERM (Today through Friday)...
-Not much change in temperatures is expected for today with high
-temperatures as much as 10 to locally 15 degrees above average for
-the coast and western valleys in San Diego County. High
-temperatures for the coast and valleys will be in the upper 70s to
-upper 80s with inland coastal areas into the western valleys in
-the mid to upper 80s.
+Another day of high temperatures 10 to 15 degrees above average for
+coastal areas and 5 to 7 degrees above average elsewhere. An
+incoming upper level low will push the ridge over the Southwest US
+further east by Thursday, bringing cooler conditions and increased
+onshore flow. Highs on Thursday are expected to be 3 to 5 degrees
+cooler than today for areas west of the mountains with more
+noticeable cooling for Friday. Below average temperatures are
+expected for Saturday through next Wednesday.
 
-Cooling will begin to spread inland on Thursday with high
-temperatures for the coast and valleys in the mid 70s to mid 80s,
-in the lower deserts in the lower to mid 80s, and in the mountains
-in the 50s and 60s. Some patchy low clouds could return to coastal
-areas for late tonight into Thursday morning.
+The aforementioned upper level low will dig south and move east into
+Northern Baja on Friday. This will bring periods of rain to the area
+by early Friday morning. The highest chances of rain for this first
+period of rain are along the coast. Additionally, there is potential
+for isolated thunderstorms to develop over the waters, locally into
+some coastal communities. The thunderstorm chances are largely
+focused to coastal waters and the coast due to the temperature
+difference between sea surface temperatures (running well above
+average for this time of year) and the cold temperatures associated
+with the passing low pressure system. High resolution guidance is
+picking up on an increase in instability with CAPE values increasing
+to 500-1000 J/kg early Friday morning. There is some potential for
+thunderstorms to locally reach coastal communities but atmospheric
+instability drops drastically the further inland you go, which will
+limit thunderstorm potential. Where thunderstorms develop, expect
+erratic winds and locally heavy rain that may lead to localized
+flooding. Rainfall Friday morning is generally expected to be on
+the lighter side for inland areas. Isolated rainfall rates of 0.40-
+0.60 inches per hour are most likely to develop along the coast
+where thunderstorms or heavier rain develops.
 
-A low pressure system moving inland through northern and central
-Baja on Friday will bring showers to southwestern California for
-late Thursday night into Friday morning. Showers will continue
-into Friday afternoon with the greater coverage for the valleys
-into the mountains. Through Friday afternoon, rainfall could range
-from 0.10 inch or less in the mountains to 0.1 to 0.25 inch in
-the valleys to locally 0.50 to 1 inch near the coast.
+Chances of rain decrease during the day Friday, but isolated light
+showers at times cannot be ruled out. Rainfall chances increase
+again later in the day Friday as another upper level low moves east
+through Central California. This will bring another round of rain
+Friday evening into Saturday, which is expected to be more
+widespread across the coast, valleys, and mountains. Peak rainfall
+rates of 0.20-0.30 inches per hour are expected during this time.
+Rainfall is expected to taper off from north to south late Saturday
+morning through the early afternoon. Dry conditions look likely for
+Saturday evening into Sunday.
 
-Water temperatures over the inner coastal waters have plateaued in
-the mid 70s F since late October. That`s now around 12 degrees F
-above the long-term average for this time in November. Records
-for daily warmest water temperature at Scripps Pier are now
-routinely broken by 5+ degrees F. Prior to this year, the latest
-water temperatures near coast have been as warm as they are now
-was in late September.
+Another low pressure system is expected to dig south along the West
+Coast sometime around Monday and Tuesday. Ensemble guidance is in
+good agreement that precipitation will develop but there is low
+confidence in exact timing of rainfall and amounts. This system also
+looks like it has enough cold air associated with it to drop the
+snow levels below 8000 ft, although there are model differences in
+just how low the snow level will get.
 
-As cold air aloft moves across southern California for late
-Thursday night into Friday, most unstable CAPE values will
-over the coastal waters near the coast from northern Baja into
-southern Los Angeles County will increase to 500 to locally 1000
-J/kg. The RRFS and REFS show the potential for intense showers to
-develop over the coastal waters just off the coast from after
-midnight Thursday night into Friday morning with those showers
-with locally heavy rainfall moving inland into adjacent coastal
-areas.
+Winds are expected to increase over the mountains and deserts with
+each passing system. Expect a slight increase in winds late
+Thursday, with a more noticeable increases Friday evening into
+Saturday. Peak gusts Friday evening into Saturday will be mainly 35
+to 45 mph, with gusts up to 55 mph through wind prone passes. Winds
+are expected to increase again early next week with the next trough
+passage, with the track of the low the main determining factor in
+expected wind speeds.
 
-NBM probabilities for 1 inch or more of rainfall from Thursday
-night through Friday afternoon are highest along the coast of San
-Diego into southern Orange County at 25 to 35 percent with the
-chance for 2 inches or more around 10 percent along the coast from
-northern San Diego County into far southern Orange County.
-
-&&
-
-.LONG TERM (Friday night through Tuesday)...
-A second low pressure system to the north will move quickly into
-California for Friday night and Saturday. Showers will increase
-for Friday night into Saturday morning, then decrease Saturday
-afternoon. Additional rainfall from Friday night through Saturday
-afternoon could range from around 0.50 near the coast to 0.50 to 1
-inch on the coastal slopes of the mountains. That system for
-Saturday could also bring stronger winds to the coastal waters for
-Friday night and for the mountains and deserts for late Friday
-night through Saturday.
-
-Saturday night through Sunday afternoon should be relatively
-drier. But the next low pressure moving into California will
-arrive on Sunday night and Monday. Still more low pressure systems
-moving inland along the West Coast next week will bring
-additional chances for precipitation, but with greater model
-spread on the track and timing.
+Additional precipitation and winds are possible for the latter half
+of next week, but there is low confidence in details. Continue to
+monitor the forecast for more information.
 
 &&
 
 .AVIATION...
-111100Z...Mostly clear and VFR conditions today and tonight, except
-for patchy fog near the coast after 08Z Thursday.
+120000Z...Mostly SKC and VFR conditions through tomorrow. Localized
+patchy FG near the coastline (15-25% chance) between 10z-16z.
+Increasing low/mid-level cloud cover across the coastal basin after
+22z Thu.
 
 &&
 
 .MARINE...
-No hazardous marine conditions are expected through Friday. Onshore
-winds increase late Friday and seas build Saturday, which are likely
-to generate hazardous boating conditions. Winds diminish late
-Saturday and seas diminish late Sunday.
+Isolated thunderstorms possible over the marine waters early Friday
+morning, beginning before sunrise with decreasing chances by Friday
+afternoon. Onshore winds increase late Friday and seas build
+Saturday, which are likely to generate hazardous boating conditions.
+Winds diminish late Saturday and seas diminish late Sunday.
 
 &&
 
 .BEACHES...
-A series of swells from the west-northwest will generate higher surf
-starting Friday, likely producing hazardous surf conditions that
-will last into next week. Stay tuned for updates.
+A series of swells (14-15 seconds) from the west-northwest (270-280
+degrees) will generate elevated surf starting Friday, with higher
+surf and sets to 7-8 feet by Saturday. Surf begins to wane on Sunday
+but may remain elevated for west-facing beaches into Monday.
+Additionally, isolated thunderstorms will be possible at the beaches
+early Friday to late Friday morning.
 
 &&
 
@@ -482,8 +485,8 @@ PZ...None.
 
 $$
 
-PUBLIC...17
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
