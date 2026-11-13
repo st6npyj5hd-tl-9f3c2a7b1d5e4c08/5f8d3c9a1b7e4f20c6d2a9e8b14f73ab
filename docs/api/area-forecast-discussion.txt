@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-13T14:04:53+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-13T23:19:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,23 +350,22 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-820
-FXUS66 KSGX 131139
+801
+FXUS66 KSGX 132021
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-339 AM PST Fri Nov 13 2026
+1221 PM PST Fri Nov 13 2026
 
 .SYNOPSIS...
-Cooler wit periods of precipitation today through late next week.
-Light to moderate showers will continue this morning with chances
-of isolated thunderstorms over the coastal waters locally into
-the beaches. More widespread light to moderate showers tonight
-into Saturday. In addition to periods of rain, winds are expected
-to increase over the mountains, deserts, and coastal waters.
-Sunday will be dry with our next chance of precipitation and
-gusty winds Monday through Wednesday.
+Well-below-normal temperatures for the entirety of the forecast
+period. Additional precipitation and stronger winds expected
+through Saturday, with hazards for both the marine waters and the
+beaches prevailing through the weekend. Additional wind and
+rain/snow possible with another system Monday/Tuesday. A third
+system late next week may bring similar impacts but with lower
+confidence.
 
 &&
 
@@ -374,101 +373,97 @@ gusty winds Monday through Wednesday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
+This morning`s sounding showed a decent amount of CAPE over coastal
+Southern California, evident with the line of thunderstorms that
+made its way across the marine waters early this morning, fizzling
+out once they moved ashore. Generally 0.25-0.50" fell this morning,
+but some thunderstorms that reached coastal communities were able to
+provide closer to 0.75" before sunrise. Radar currently has a few
+piddly showers over parts of the coastal and valley zones, with
+very little in terms of accumulation. In a lower-CAPE environment,
+chances of thunderstorms for the remainder of the day are very
+low, generally 5% or less, but on-and-off showers could continue
+at times through this evening.
 
-Isolated moderate showers have developed this morning ahead of the
-upper level low. So far the only detected lightning strikes have
-been closer to the center of the low, west-southwest of San Diego.
-Showers will become more widespread in the early morning as the
-upper low moves overhead, along with a 10-15% chance of
-thunderstorms over the coastal waters and coastal areas. Rainfall
-rates may briefly exceed 0.50"/hr in heavier showers, but this
-will be highly localized as storm cores are quite small. Lighter,
-more widely scattered showers persist into the afternoon with
-residual moisture and weakly cyclonic flow in place. Through this
-afternoon, rainfall totals will range from about 0.25-0.50" for
-the coasts and valleys with local amounts to 0.75", and a few
-hundredths to around 0.30" in the mountains. A few light showers
-could spread into the high desert with accumulations generally
-0.10" or less. Snow levels will be near 8,000-8,500 ft today with
-only trace amounts on the higher peaks.
+The low responsible for our morning convection has transitioned to
+an open trough, currently positioned over Southern California
+according to mid-level water vapor satellite. With a tighter
+gradient, winds increase this afternoon and evening over the marine
+waters, mountains, and deserts, with intermittent gusts to 30 mph
+over the waters and 45 mph for the wind-prone spots in the
+mountains. Winds will be strongest tonight as the shortwave on the
+backside of the trough moves through, with winds slowly weakening
+through Saturday morning. Additional rain/shower activity will
+accompany this shortwave, although the very low thunderstorm
+chances point to lighter accumulation through Saturday morning
+compared to this morning. Expect up to an addition 0.25" through
+Saturday morning for most spots west of the mountains (and up to
+0.50" of additional rainfall for the mountains and foothills).
+Marine and beaches will see impacts as well through Saturday...please
+see these sections below.
 
-The next short-wave trough will move through tonight into Saturday
-morning, though models have trended a bit further north with the
-track of this wave and weaker forcing across Southern California.
-Still, there is a well-defined front that is forecast to sweep
-through, generating more widespread but lighter showers with peak
-rainfall rates closer to 0.25"/hr and only around a 5% chance of
-thunderstorms. Showers will end for most areas by late Saturday
-morning, but scattered showers could persist into Saturday
-afternoon for San Diego County, ending by Saturday evening.
-Rainfall totals for this second system range from around
-0.10-0.30" for the coast to the mountains with locally higher
-amounts on the west facing coastal mountain slopes, less than
-0.05" in the high desert, and no accumulations in the low desert.
-The snow level remains around 8,500 ft during the bulk of the
-precipitation, falling to around 7,000 ft behind the front as
-precipitation tapers off. Any accumulation at the resort levels
-will be less than an inch.
+Any rainfall should quickly come to an end Saturday afternoon, with
+drier air filtering in behind the trough. Weak upper level ridging
+will build in late Saturday and early Sunday, with less cloud
+coverage. Sunday will be a nice break in between systems, as the
+next trough is poised to move through Monday/Tuesday. Models
+continue to struggle to resolve the next system, especially timing
+and strength, with the GFS a bit faster compared to the ECMWF. The
+timing of this system will dictate marine and beaches impacts with
+another round of strong winds and high seas. For the inland side, a
+front associated with the trough will bring gusty winds and
+additional precipitation, as well as isolated thunderstorm chances.
+While this next system will be cooler than the previous, trying to
+nail out snow levels with such mismatch in the global models is
+difficult, especially with the heavier precipitation likely to be
+pushing through on Tuesday. For now, snow levels are generally at
+or above 6000ft during the precipitation window on Tuesday, which
+could allow for some of the higher elevations and mountain roads
+to see low snow impacts. Depending on the track and strength, snow
+levels could range anywhere from 5300-7000ft+. Regardless of how
+this system shakes out, guidance has been trending drier with each
+model run, and the latest guidance indicates less than 0.25" for
+most locations Mon-Tue (0.50" for the mountains). Additionally,
+temperatures will fall Mon-Tue to around 8-17 degrees below
+normal.
 
-In addition to the precipitation, gusty southwest to west winds
-develop across the coastal waters, mountains, and deserts this
-afternoon and continuing into late Saturday morning, weakening
-behind the front Saturday afternoon. Wind gusts in the mountains
-and deserts will be between 30-40 mph with isolated higher gusts
-in the passes. Winds may briefly gust to around 20-30 mph near the
-immediate coast in the vicinity of the cold front Saturday
-morning.
+Further on in the week, another system could bring additional wind
+and rain to SoCal Thurs/Fri, but there is low confidence in any
+discernible impacts as global models are displaced with the core
+of the low by well over 100 miles. It is possible that the low
+swings too far north for us to benefit from, but NBM persists with
+around a 50% chance for rainfall on Thursday and 20% for Friday.
 
-A brief break in the weather is expected on Sunday under weak
-upper level ridging. High temperatures today and Saturday will be
-around 5-10 degrees below normal, warming by about 3-6 degrees on
-Sunday. Ensembles remain in good agreement with the timing of the
-next trough, sweeping through California Monday into Tuesday.
-Differences remain in the depth of the trough, resulting in more
-spread in precipitation amounts and snow levels. Around 52% of
-the members have a less amplified trough (less precipitation and
-snow levels closer to 7,000 ft), while the remaining 48% have a
-deeper trough (more precipitation and snow levels as low as 5,500
-ft). Chances of at least 0.25" with this system range from 40-70%
-from the coast to the mountains, around 30% in the high desert,
-and 10% in the low desert. Chances of at least 0.50" range from
-25-60% for the coast to the mountains, 10-20% in the high desert,
-and less than 10% in the low desert. Another break it the weather
-is expect on Wednesday, but another system follows quickly for
-Thursday into Friday. Ensemble solutions really begin to diverge
-on the track of this low - 58% have a more western/wetter track
-similar to the deterministic GFS, while while the other 42% have
-a drier/inland track similar to the deterministic EC. For now
-precipitation chances are between 40-60% on Thursday, lowering to
-15-20% by Friday afternoon.
+Much of this weeks forecast depends greatly on how these lows
+move across and how far south they make it. As is typical, models
+are struggling with these shoulder season systems, even in the
+shorter 3-4 day window. Close eyes will be kept on how the Mon/Tue
+system develops, with the possibility of some snowfall for the
+higher terrain.
 
 &&
 
 .AVIATION...
-131130Z...Coast/Valleys...A band of SHRA/TSRA will move west to east
-reducing vis 2-5SM and cigs down to 2500 feet MSL. After 16Z the
-band will dissipate and ISO to SCT -SHRA will remain with cloud
-bases closer to 3000-4000 feet MSL. After 08Z Saturday, more
-widespread low clouds and a band of -RA will move northwest to
-southeast through the region Saturday morning.
+131800Z...Coast/Valleys...ISO to SCT -SHRA expected through this
+evening with SCT-BKN low clouds based 3-6 kft. Low clouds become
+more BKN-OVC after 06z Sat as a band of -RA pushes in from the
+northwest. This precip band will pass through the coastal basin from
+NW to SE from 08-16z, producing occasional MVFR cigs/vis. Wind
+direction shifts from SW to NW with the passage of this band.
 
-Mountains/Deserts...-SHRA in mountains with cloud bases occasionally
-obscuring higher terrain. Winds increase after 20Z, with W/SW gusts
-increasing to 25-35 knots (locally 40-45 kts) over typically windy
-ridges, desert foothills, and through passes. Winds will gradually
-taper off early Saturday.
+Mountains/Deserts...SCT -SHRA through this evening in mountains with
+cloud bases 3-6 kft occasionally obscuring higher terrain. More
+steady -RA and vis reductions expected with the passage of the
+precip band mentioned in the section above (08-16z Sat). W/SW winds
+increase through this afternoon with widespread gusts to 25-35 knots
+(locally 40-45 kts over typically windy ridges, desert foothills,
+and through passes). Winds will gradually taper off through Saturday
+morning.
 
 &&
 
 .MARINE...
-At 2 AM, a band of showers and isolated thunderstorms was tracking
-west to east through the coastal waters. Any thunderstorm that forms
-will be capable of producing gusty, erratic winds, choppy seas,
-lightning, and briefly heavy rainfall with reduced visibility. The
-chance of thunderstorms and any associated hazards will diminish
-after 8 AM. There is a Marine Weather Statement in effect through 8
-AM. Southerly winds will increase today, turning westerly and
+Southerly winds will increase today, turning westerly and
 strengthening late this afternoon and continuing through Saturday
 morning. Swell and wind waves will increase considerably at the same
 time. A Small Craft Advisory is in effect through Saturday
@@ -478,47 +473,38 @@ increasing again on Monday as the next weather system arrives.
 &&
 
 .BEACHES...
-A series of swells (14-15 seconds) from the west-northwest (270-280
+A series of swells (15-17 seconds) from the west-northwest (280-290
 degrees) will generate elevated surf starting this afternoon, which
-will increase to a peak of 5 to 9 feet for west and northwest facing
-beaches Saturday and Sunday. A High Surf Advisory is in effect for
-these two days with dangerous conditions for both swimming and
-surfing. Surf begins to wane Sunday afternoon but will remain
-elevated for west-facing beaches into Monday morning. Another
-northwesterly swell will arrive late Monday, extending the threat
-for high surf and strong rip currents.
-
-Additionally, there is a threat for lightning at the beaches through
-8 AM and a Beach Hazards Statement contains the details.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
+will increase to a peak of 6 to 10 feet for west and northwest
+facing beaches Saturday and Sunday. A High Surf Advisory is in
+effect for these two days with dangerous conditions for both
+swimming and surfing. Surf begins to wane Sunday afternoon but will
+remain elevated for west-facing beaches into Monday morning. Another
+northwesterly swell will arrive on Monday, extending the threat for
+high surf and strong rip currents.
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 8 AM PST this morning for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-     High Surf Advisory from 4 PM this afternoon to 10 AM PST Sunday
+CA...High Surf Advisory from 4 PM this afternoon to 10 AM PST Sunday
      for Orange County Coastal Areas-San Diego County Coastal
      Areas.
 
-PZ...Small Craft Advisory from 10 AM this morning to 4 PM PST
-     Saturday for Coastal Waters from San Mateo Point to the
-     Mexican Border and out to 10 nm-Waters from San Mateo Point
-     to the Mexican Border Extending 10 to 60 nm out including
-     San Clemente Island.
+     Coastal Flood Advisory from 7 AM to 4 PM PST Saturday for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+PZ...Small Craft Advisory until 4 PM PST Saturday for Coastal Waters
+     from San Mateo Point to the Mexican Border and out to 10 nm-
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...MM
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
