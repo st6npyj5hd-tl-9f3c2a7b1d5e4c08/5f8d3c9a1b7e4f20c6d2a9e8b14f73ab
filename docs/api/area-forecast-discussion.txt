@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-13T23:19:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-14T05:23:28+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-801
-FXUS66 KSGX 132021
+972
+FXUS66 KSGX 140055
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1221 PM PST Fri Nov 13 2026
+455 PM PST Fri Nov 13 2026
 
 .SYNOPSIS...
 Well-below-normal temperatures for the entirety of the forecast
@@ -372,6 +372,9 @@ confidence.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 This morning`s sounding showed a decent amount of CAPE over coastal
 Southern California, evident with the line of thunderstorms that
@@ -444,51 +447,55 @@ higher terrain.
 &&
 
 .AVIATION...
-131800Z...Coast/Valleys...ISO to SCT -SHRA expected through this
-evening with SCT-BKN low clouds based 3-6 kft. Low clouds become
-more BKN-OVC after 06z Sat as a band of -RA pushes in from the
-northwest. This precip band will pass through the coastal basin from
-NW to SE from 08-16z, producing occasional MVFR cigs/vis. Wind
-direction shifts from SW to NW with the passage of this band.
+140030Z...Coast/Valleys...This evening, expect layers of clouds: FEW-
+BKN at 2-3 kft MSL, SCT-OVC at 3-6 kft MSL. SCT SHRA tonight with
+a line of -RA/RA sweeping through the region from NW to SE from
+06-13z Sat. Periods of MVFR vis and cigs during RA. Clouds scatter
+out in the morning, becoming VFR and SKC by Sat afternoon.
 
 Mountains/Deserts...SCT -SHRA through this evening in mountains with
-cloud bases 3-6 kft occasionally obscuring higher terrain. More
-steady -RA and vis reductions expected with the passage of the
-precip band mentioned in the section above (08-16z Sat). W/SW winds
-increase through this afternoon with widespread gusts to 25-35 knots
-(locally 40-45 kts over typically windy ridges, desert foothills,
-and through passes). Winds will gradually taper off through Saturday
-morning.
+cloud bases 3-6 kft MSL obscuring higher terrain. More steady -RA
+and vis reductions expected with the passage of the precip band (06-
+14z Sat). Gusty W/SW winds this evening and tonight with widespread
+gusts to 25-35 knots (locally 40-45 kts over typically windy ridges,
+desert slopes, and through passes). Winds will gradually taper off
+through Saturday morning.
 
 &&
 
 .MARINE...
-Southerly winds will increase today, turning westerly and
-strengthening late this afternoon and continuing through Saturday
-morning. Swell and wind waves will increase considerably at the same
-time. A Small Craft Advisory is in effect through Saturday
-afternoon. Winds and seas diminish late Saturday and Sunday, before
-increasing again on Monday as the next weather system arrives.
+Southwesterly winds gusting to 25 kts and seas 5 to 9 feet continue
+through tonight into Saturday morning. A Small Craft Advisory is in
+effect through Saturday afternoon. Winds and seas diminish late
+Saturday and Sunday, before increasing again Monday afternoon, with
+gusts up to 30 kts and seas 8-12 feet through Wednesday morning.
 
 &&
 
 .BEACHES...
 A series of swells (15-17 seconds) from the west-northwest (280-290
-degrees) will generate elevated surf starting this afternoon, which
-will increase to a peak of 6 to 10 feet for west and northwest
-facing beaches Saturday and Sunday. A High Surf Advisory is in
-effect for these two days with dangerous conditions for both
-swimming and surfing. Surf begins to wane Sunday afternoon but will
-remain elevated for west-facing beaches into Monday morning. Another
-northwesterly swell will arrive on Monday, extending the threat for
-high surf and strong rip currents.
+degrees) will generate periods of elevated and high surf through
+next week. The current northwest swell is causing surf 3 to 6 feet
+with high sets, increasing overnight to a peak of 6 to 10 feet
+Saturday and Sunday. A High Surf Advisory is in effect for these two
+days with dangerous conditions for both swimming and surfing. Surf
+begins to wane Sunday afternoon but will remain elevated for west-
+facing beaches into Monday morning. Another northwesterly swell will
+arrive on Monday, extending the threat for high surf and strong rip
+currents.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
 
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...High Surf Advisory from 4 PM this afternoon to 10 AM PST Sunday
-     for Orange County Coastal Areas-San Diego County Coastal
-     Areas.
+CA...High Surf Advisory until 10 AM PST Sunday for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
      Coastal Flood Advisory from 7 AM to 4 PM PST Saturday for Orange
      County Coastal Areas-San Diego County Coastal Areas.
@@ -504,7 +511,7 @@ PZ...Small Craft Advisory until 4 PM PST Saturday for Coastal Waters
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
