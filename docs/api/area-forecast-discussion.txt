@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-15T13:36:00+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-15T22:33:36+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,22 +352,21 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-784
-FXUS66 KSGX 151049
+694
+FXUS66 KSGX 151953
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-249 AM PST Sun Nov 15 2026
+1153 AM PST Sun Nov 15 2026
 
 .SYNOPSIS...
-A series of low pressure systems will keep temperatures near or
-below normal throughout the next 7 days. The first of these will
-impact southern California primarily on Monday and Tuesday. It will
-bring another round of precipitation and gusty onshore winds,
-along with a slight chance of thunderstorms over the coastal
-waters and beach hazards. Another system late in the week will
-likely bring similar impacts but may have stronger onshore winds.
+Below-normal temperatures prevailing this week with multiple
+rounds of precipitation. Gusty winds, marine and beaches hazards,
+and rain/snow showers with an isolated thunderstorm threat for
+Monday into early Tuesday morning. A stronger system
+Thursday/Friday could bring all of the above as well as heavier
+rainfall and a localized flooding threat.
 
 &&
 
@@ -375,91 +374,87 @@ likely bring similar impacts but may have stronger onshore winds.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+Visible satellite shows clear skies for inland locations with the
+exception of some lingering high cu over the desert mountain slopes.
+Radar maintains light echos over the coastal waters, likely piddly
+showers stuck along a stalled boundary over the abnormally warm sea
+surface temperatures. These showers may hang just offshore through
+Monday morning before being pushed eastward as a elongated upper
+level trough approaches tomorrow, bringing spotty showers to much of
+the region during the day on Monday. Low and mid-level moisture will
+be a bit lackluster with this trough, but decent energy and the
+ongoing instability associated with the warmer sea surface
+temperatures could allow for isolated thunderstorms to develop on
+the back end of an associated front as it pushes across Monday
+evening. While the threat will be highest over the coastal waters,
+guidance continues to spill higher CAPE values into the valleys and
+even parts of the Inland Empire, where a few thunderstorms may hold
+together into early Tuesday morning. The HRRR emphasizes Orange
+County for thunderstorms on Tuesday, while the RRFS prioritizes San
+Diego County. It`s worth mentioning that the HRRR has been resolving
+this system better the past two days.
 
-...UPDATED AVIATION DISCUSSION...
+As the trough moves over CA on Tuesday, snow levels are expected to
+fall from around 8500ft Monday afternoon to around 6000-6500ft.
+While model guidance has trended slightly warmer with this upcoming
+system, a light rain/snow mix may be observed down to 6000ft Tuesday
+morning as the last of the precipitation comes to an end. With the
+warmer trend, snow accumulation totals have decreased as well, and
+only a dusting is expected for the highest terrain. Either way,
+cooler surface temperatures and gusty winds will accompany this
+trough, with highs falling to the 60s for most locations west of the
+mountains, 30s to 40 for the mountains, 50s for the High Desert, and
+60s to 70s for the low deserts. Winds will gust to around 25-30 mph
+in the deserts, 35-40 in the mountains, and up to 45-50 mph in wind-
+prone mountain passes. Strong winds over the water will create
+hazardous marine conditions on Tuesday as well, discussed below in
+the marine section.
 
-This morning...Satellite imagery shows low clouds extending from
-the coastal waters to the low deserts. A weak wave undercutting
-the dynamic ridge currently over SoCal is likely producing a low-
-level circulation which is bringing low clouds from the south into
-the Borrego Desert and the Coachella valley. Radar shows a cluster
-of weak echoes nearly stationary over the coastal waters. These
-are light showers. High-resolution short-range models show these
-echoes (light showers) remaining nearly stationary until Monday
-when a low pressure system moves in from the northwest.
-
-Ahead of this system a transient (dynamic) ridge will bring fair
-weather and slight warming for today, although scattered low
-clouds will persist. Daytime highs today will be mostly about 5
-degrees higher than yesterday.
-
-The first low pressure system will bring another round of widespread
-and organized precipitation. Ahead of the main band of rain and
-showers, light precipitation could begin as early as Monday morning.
-The main band of precipitation will move through SoCal from northwest
-to southeast Monday night/Tuesday Morning, moving off to the east
-by late Tuesday afternoon. As the upper level trough axis
-approaches, enhanced instability and dynamic forcing could produce
-some isolated thunderstorms late Monday/early Tuesday. Snow
-levels will likely remain above 7,000 ft through Tue morning
-before dropping to around 6,500 ft Tuesday afternoon. By then,
-most of the precip will have moved east. This system will not have
-access to large amounts of precipitable moisture. As a result,
-current rainfall estimates range from 0.10-0.25 inch in the
-coastal areas and valleys to between 0.25 and 0.40 inch on the
-coastal mtn slopes. Most of the snowfall will remain above 7,000
-ft and accumulations are unlikely to exceed about 1 inch. Onshore
-flow begins to strengthen on Monday then peaks late Tuesday
-morning, with southwest to west winds gusting 35-40 mph in the
-mtns and adjacent desert slopes. This will not be a particularly
-cold system and daytime high temperatures on Tue will be similar
-to what they were yesterday...remaining in the 60s west of the
-mtns, the 50s in the high desert and the 70s in the lower desert.
-Temperatures in the mtns will range from the 40s in San Diego
-County to the 20s in the higher elevations of the San Bernardino
-and San Jacinto Mtns.
-
-Another brief period of fair and (slightly) warmer weather on Wed
-under a weak transient ridge sandwiched between low pressure
-systems. Daytime high temps will likely still be 5-10 degrees
-below normal in the inland valleys and as much as 10-15 degrees
-below normal in the mtns.
-
-Although the timing and track of the next system are still
-somewhat uncertain, it does seem likely that we will get more
-unsettled weather for Thursday into Saturday. Colder conditions
-with widespread precipitation is likely for late Thursday and
-Friday. This system does seem to have tighter pressure gradients
-so is likely to produce stronger westerly winds than the
-preceding event. Winds will likely peak Thu night/Fri morning.
-The system will move east on Sat with precip tapering off Saturday
-morning.
+Drier air pushes in behind the aforementioned trough as it moves
+into the Great Basin on Wednesday, and zonal flow aloft sets up over
+California ahead of the next system. Temperatures won`t rebound much
+if at all on Wednesday, staying 5-15 degrees below normal. The next
+system, a deepening low, approaches the Oregon coastline on
+Thursday. Unfortunately, much of the consensus between the global
+models yesterday has fallen off, with less confidence today on how
+far north the system will stay as it moves through. The trends the
+past 24 hours have pushed for a warmer and wetter system, which
+could potentially bring very heavy rainfall for our region,
+especially the mountains. This would also mean that there is a lower
+chance for snow accumulations in the higher terrain, with snow
+levels on Thursday/Friday now closer to 5500-6000ft instead of the
+4500-5000ft forecasted previously. While we keep a close eye on this
+next larger system, confidence is slowly increasing in at least some
+decent rainfall, along with an isolated to scattered thunderstorm
+threat. Similar to the first system, expect winds to gust as the
+low comes across and the gradient tightens, with the strongest
+winds currently expected Thursday night into early Friday morning.
 
 &&
 
 .AVIATION...
-151200Z...Coast/Valleys...ISO-SCT -SHRA is lingering off the San
-Diego County coast this morning and will continue to do so into the
-afternoon, though the showers will gradually drift further offshore.
-In addition to patches of low clouds based near 1000 ft MSL along
-the immediate coasts this morning, FEW-SCT clouds based 3000-5000 ft
-MSL will also linger into the afternoon. With this, VFR conditions
-are expected to persist through Sunday morning. VCSH (and locally
-lower CIGs/VIS) will spread back towards the coast around 10z
-Monday, with more widespread -SHRA expected after 12z.
+151800Z...Coast/Valleys...VFR conditions through this evening with
+FEW-SCT low clouds based 3-6 kft. SCT-BKN high clouds move into the
+region late this evening followed by an increase in low to mid level
+clouds based 3-7 kft for the coastal basin overnight. ISO-SCT -SHRA
+over coastal waters may begin to push ashore as early as 14z Mon.
+-SHRA chances increase for San Diego/Orange Counties through the
+late morning into the early afternoon. Best chances for -SHRA will
+be in San Diego County. Intermittent MVFR cigs/vis may occur with
+any passing -SHRA for coastal TAF sites.
 
-Mountains/Deserts...SCT-BKN cloud bases 3-6 kft MSL in place across
-the coastal mountain foothills obscuring higher terrain will
-gradually decrease in coverage throughout the morning. Otherwise,
-VFR conditions prevail throughout the period.
+Mountains/Deserts...VFR conditions through early Monday morning
+with SCT-BKN high clouds moving into the region late this evening.
+Mid-level clouds begin to obscure higher terrain once again
+starting 12-18z Monday ahead of the next low-pressure system.
 
 &&
 
 .MARINE...
-Conditions have improved over the waters this morning, and will
-remain sub-hazardous until Monday. Scattered light rain showers are
-lingering off the coasts, and will continue through much of the day
-today.
+Isolated light showers will continue over coastal waters through
+early Monday. Shower activity increases again on Monday ahead of a
+low pressure system with a slight chance (10%) of a thunderstorm or
+two Monday afternoon and evening.
 
 Winds and seas ramp back up Monday afternoon with 25-30 knot gusts
 expected in addition to steep, high seas of 8-11 feet with an
@@ -468,13 +463,12 @@ Clemente Island, where near-gale conditions are possible. With this,
 a Small Craft Advisory has been issued for both the near-shore and
 outer waters zones due to the hazardous conditions expected from the
 gusty winds and high seas. This Small Craft Advisory in effect from
-4 PM Monday until 4 AM Wednesday. These conditions will persist into
-early Wednesday morning with improving conditions by Wednesday
-afternoon.
+4 PM Monday until 4 AM Wednesday. Winds and seas will slowly
+diminish Wednesday morning.
 
-Conditions look to deteriorate once again come Thursday afternoon as
-the next storm system approaches. Steep, high seas of 7-9 ft are
-expected with wind gusts near 25 kts for Thursday into Friday.
+Conditions look to deteriorate once again Thursday as the next storm
+system approaches. Steep, high seas of 7-9 ft are expected with wind
+gusts peaking near 25-30 knots for Thursday into Friday morning.
 
 &&
 
@@ -490,8 +484,8 @@ sets to 7-8 feet for west-facing beaches.
 The next surge of northwesterly swells arrives Monday afternoon,
 ramping surf back up to 6 to 8 feet, with sets to 10 feet along west-
 facing beaches. This will extend the threat for high surf and strong
-rip currents into mid-week. As a result, the High Surf Advisory
-currently in effect has been extended through 4 AM Wednesday.
+rip currents into mid-week. A High Surf Advisory remains in effect
+through 4 AM Wednesday.
 
 &&
 
@@ -510,8 +504,8 @@ PZ...Small Craft Advisory from 4 PM Monday to 4 AM PST Wednesday for
 
 $$
 
-PUBLIC...PG
-AVIATION/MARINE/BEACHES...Munyan
+PUBLIC...Zuber
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
