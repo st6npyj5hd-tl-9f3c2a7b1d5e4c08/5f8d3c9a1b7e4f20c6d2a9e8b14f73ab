@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-14T22:00:07+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-15T05:19:18+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -350,13 +350,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-399
-FXUS66 KSGX 141903
+134
+FXUS66 KSGX 150028
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1103 AM PST Sat Nov 14 2026
+428 PM PST Sat Nov 14 2026
 
 .SYNOPSIS...
 Below-normal temperatures prevail for the entirety of the
@@ -370,6 +370,9 @@ week may bring similar impacts but with lower confidence.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Another round of rainfall occurred early this morning, albeit
 significantly lighter than what occurred on Friday. Most locations
@@ -435,47 +438,35 @@ Please read these below.
 &&
 
 .AVIATION...
-141800Z...Coast/Valleys...ISO-SCT -SHRA will linger through the
-afternoon in San Diego County. VIS may be reduced 3-5 SM at times
-with CIGS 1000-2500 ft MSL. FEW-SCT low clouds based 3-5 kft through
-the coastal basin this afternoon will likely become BKN in coverage
-tonight in San Diego County with SCT -SHRA just offshore. By late
-Sunday morning, any lingering low clouds should scatter out with
-mostly SKC and VFR for Sunday afternoon.
+150000Z...Coast/Valleys...ISO-SCT -SHRA will be in the vcty of the
+San Diego County coastal sites through tomorrow morning. VIS may be
+reduced 3-5 SM at times with CIGS 1000-2500 ft MSL. FEW-SCT low
+clouds based 3-5 kft through the coastal basin this evening will
+likely become BKN in coverage tonight in San Diego County with SCT
+-SHRA just offshore. By late Sunday morning, any lingering low
+clouds should scatter out with mostly SKC and VFR for Sunday
+afternoon. VCSH will begin to return in the vcty of KSAN towards the
+end of the forecast period.
 
-Mountains/Deserts...ISO -SHRA will continue into the afternoon in
-San Diego County with cloud bases 3-6 kft MSL obscuring higher
-terrain. Remaining low clouds over San Diego County mtns this
-evening will slowly scatter out overnight with mostly VFR
-conditions by Sunday morning.
+Mountains/Deserts...Cloud bases 3-6 kft MSL obscuring higher terrain
+will be in place through this evening, with ISO -SHRA possible
+through then. Remaining low clouds over San Diego County mtns this
+evening will slowly scatter out overnight with mostly VFR conditions
+by tomorrow morning.
 
 &&
 
 .MARINE...
-Westerly winds gusting to 20 kts and seas 5 to 9 feet continue this
-morning. A Small Craft Advisory is in effect through 4 PM this
-afternoon. Winds and seas diminish late today into Sunday, before
+Winds and seas diminish this evening into tomorrow, before
 increasing again Monday afternoon, with gusts up to 30 kts and seas
 8-12 feet for Monday evening through Wednesday morning.
 
 &&
 
-.BEACHES...
-A series of swells (15-17 seconds) from the west-northwest (280-290
-degrees) will generate periods of elevated and high surf through
-next week. The current northwest swell is producing surf of 4 to 7
-feet with higher sets. Surf could peak around 6 to 10 feet later
-today into Sunday. A High Surf Advisory is in effect until 10 AM
-Sunday, with dangerous conditions for both swimming and surfing.
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
 
-High surf will coincide with high tides peaking 6.2-6.5 feet around
-noon today to produce minor coastal flooding, particularly along
-west-facing beaches where surf is highest. A Coastal Flood Advisory
-is in effect until 4 PM this afternoon. Surf begins to subside
-Sunday afternoon but will remain elevated for west-facing beaches
-into Monday morning. Another northwesterly swell will arrive on
-Monday, extending the threat for high surf and strong rip currents
-into mid-week.
 
 &&
 
@@ -483,21 +474,14 @@ into mid-week.
 CA...High Surf Advisory until 10 AM PST Sunday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-     Coastal Flood Advisory until 4 PM PST this afternoon for Orange
-     County Coastal Areas-San Diego County Coastal Areas.
-
-PZ...Small Craft Advisory until 4 PM PST this afternoon for Coastal
-     Waters from San Mateo Point to the Mexican Border and out
-     to 10 nm-Waters from San Mateo Point to the Mexican Border
-     Extending 10 to 60 nm out including San Clemente Island.
-
+PZ...None.
 
 &&
 
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE...Stewey
 
 
 </pre>
