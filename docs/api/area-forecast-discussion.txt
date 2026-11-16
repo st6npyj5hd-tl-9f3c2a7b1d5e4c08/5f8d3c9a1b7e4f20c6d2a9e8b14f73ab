@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-15T22:33:36+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-16T05:17:09+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -352,13 +352,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-694
-FXUS66 KSGX 151953
+325
+FXUS66 KSGX 160029
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1153 AM PST Sun Nov 15 2026
+429 PM PST Sun Nov 15 2026
 
 .SYNOPSIS...
 Below-normal temperatures prevailing this week with multiple
@@ -373,6 +373,9 @@ rainfall and a localized flooding threat.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+
+...UPDATED AVIATION DISCUSSION...
 
 Visible satellite shows clear skies for inland locations with the
 exception of some lingering high cu over the desert mountain slopes.
@@ -433,7 +436,7 @@ winds currently expected Thursday night into early Friday morning.
 &&
 
 .AVIATION...
-151800Z...Coast/Valleys...VFR conditions through this evening with
+160000Z...Coast/Valleys...VFR conditions through this evening with
 FEW-SCT low clouds based 3-6 kft. SCT-BKN high clouds move into the
 region late this evening followed by an increase in low to mid level
 clouds based 3-7 kft for the coastal basin overnight. ISO-SCT -SHRA
@@ -441,12 +444,17 @@ over coastal waters may begin to push ashore as early as 14z Mon.
 -SHRA chances increase for San Diego/Orange Counties through the
 late morning into the early afternoon. Best chances for -SHRA will
 be in San Diego County. Intermittent MVFR cigs/vis may occur with
-any passing -SHRA for coastal TAF sites.
+any passing -SHRA for coastal TAF sites. Between 21 Mon-01z Tue
+there will be a developing line which may produce heavier SHRA
+bands, and possibly some embedded TSRA, which may temporarily reduce
+VIS down to 1SM, and lower cigs down to FL010 for the coastal sites,
+and down to 3SM, cigs down to FL015 for the inland basis/TAF sites,
+or locally lower if +SHRA/TSRA occurs.
 
-Mountains/Deserts...VFR conditions through early Monday morning
+Mountains/Deserts...VFR coniditions through early Monday morning
 with SCT-BKN high clouds moving into the region late this evening.
-Mid-level clouds begin to obscure higher terrain once again
-starting 12-18z Monday ahead of the next low-pressure system.
+Mid-level clouds begin to obscure higher terrain once again starting
+12-18z Monday ahead of the next low-pressure system.
 
 &&
 
@@ -454,7 +462,7 @@ starting 12-18z Monday ahead of the next low-pressure system.
 Isolated light showers will continue over coastal waters through
 early Monday. Shower activity increases again on Monday ahead of a
 low pressure system with a slight chance (10%) of a thunderstorm or
-two Monday afternoon and evening.
+two Monday afternoon.
 
 Winds and seas ramp back up Monday afternoon with 25-30 knot gusts
 expected in addition to steep, high seas of 8-11 feet with an
@@ -489,6 +497,13 @@ through 4 AM Wednesday.
 
 &&
 
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...High Surf Advisory until 4 AM PST Wednesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
@@ -505,7 +520,7 @@ PZ...Small Craft Advisory from 4 PM Monday to 4 AM PST Wednesday for
 $$
 
 PUBLIC...Zuber
-AVIATION/MARINE/BEACHES...KW
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
