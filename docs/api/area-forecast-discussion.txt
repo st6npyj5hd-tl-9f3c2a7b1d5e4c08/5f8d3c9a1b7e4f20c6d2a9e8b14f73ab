@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-16T15:05:03+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-17T01:40:51+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -345,27 +345,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-594
-FXUS66 KSGX 161026
+406
+FXUS66 KSGX 162323
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-226 AM PST Mon Nov 16 2026
+323 PM PST Mon Nov 16 2026
 
 .SYNOPSIS...
-Cool and sometimes wet, breezy weather will continue this
-upcoming week. The first weather system will move through Southern
-California today and tonight, bringing rain and a chance of
-thunderstorms. A more potent system appears to bring greater
-rainfall and stronger winds Thursday, moving out early Friday. Dry
-and slightly warmer weather is expected late Friday through
-Saturday, followed by the next chance of rain Sunday.
+Below average temperatures with periods of rain, isolated
+thunderstorms, mountain snow, and wind this week. The first round of
+unsettled weather is today into Tuesday morning. Dry conditions
+expected for much of the day Tuesday into Wednesday, with additional
+rain, snow, and wind late Wednesday night into Thursday. Friday and
+Saturday are expected to be mostly dry, with additional chances of
+precipitation on Sunday or Monday. Additionally, unsettled weather
+will lead to periods of dangerous boating conditions, high surf, and
+periods of coastal flooding.
 
 &&
 
@@ -373,91 +373,108 @@ Saturday, followed by the next chance of rain Sunday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-A mix of high, middle and low clouds are gradually filling
-Southern California skies this morning. There is a band of light
-showers over the coastal waters. This band will get a boost of
-energy from an incoming low-pressure trough, which will enhance
-the showers and spread them ashore late this morning and inland
-this afternoon, before heading out of the region late tonight.
-Rainfall will range from about 0.10 inch in northern Orange County
-and the northern Inland Empire, up to about 0.70 inch in top
-mountain spots. Light measurable snow is expected above 7,500 feet
-or so. It appears San Diego County will get a greater share of
-rain from this storm. Winds will increase too, mainly over the
-coastal waters, mountains, and deserts. Widespread gusts in the
-mountains and deserts should exceed 30 mph, with isolated spots
-exceeding 40 mph. As the system exits stage right, drier but not
-warmer weather will follow Tuesday through Wednesday night. High
-temperatures will range from 2-12 degrees below seasonal averages,
-with highs only in the 60s in the coastal basin, lower 70s in
-lower deserts, 50s in the High Desert, and 40s and 50s (yes, for
-highs) in the mountains. The next system arriving early Thursday
-is driven by a stronger jet so it will have more energy to make
-rain from the moisture and propel stronger winds than today`s
-system has. Thursday`s system tracks a little more to the north,
-so there is some uncertainty in its strength for SoCal`s latitude,
-but we`ll gain greater focus on the intensity and impact in the
-next couple days. For now we are fairly certain it will bring
-greater rainfall and stronger winds than today`s system.
-Preliminary precipitation estimates range from a half inch around
-San Diego, 1 inch in Orange County, up to 2.5 inches in the San
-Bernardino Mountains, one-third to one-half inch in the High
-Desert, and less than one quarter inch in the lower deserts.
-Isolated wind gusts are likely to top 60 mph in the favored wind
-corridors, 35-55 mph across the rest of the mountains and deserts,
-and 25-30 mph for coast and valleys. Snow levels will come down
-to around 6,500 feet (Big Bear Lake level), and a few inches could
-accumulate above 7,000 feet. Yet another system appears on the
-horizon, arriving Sunday and/or Monday. This one looks weaker, so
-not as wet or windy as the Thursday system. Its projected
-location, timing, and character is all over the place among
-ensemble solutions. The most certain thing we can say is that our
-weather will remain unsettled and cool.
+
+...UPDATED AVIATION DISCUSSION...
+
+Periods of showers lingering offshore will continue to slowly move
+inland through the early afternoon, with increased coverage of
+scattered showers later this afternoon into tonight. Light to
+moderate rain is expected with rainfall rates peaking at 0.30-0.40
+inches per hour. Overall, rainfall totals will be 0.05-0.20 inches
+for Orange County and the Inland Empire; 0.10-0.50 inches for San
+Diego coast and valleys; 0.50-1 inch for the mountains; less than
+0.20 inch in the High Desert; and little to no rain is expected in
+the lower deserts. Additionally, there is a chance of thunderstorms
+(10%) over the coastal waters and locally along the coast this
+afternoon through 10 PM. Where thunderstorms develop, expected
+erratic, gusty winds and localized flooding. Showers will taper off
+from northwest to southeast Tuesday morning. Snow levels are
+expected to stay above 8000 ft during much of the precipitation
+leading to 2-4 inches of snow above 8000 ft. Snow levels will drop
+to 5500-6000 ft as precipitation tapers off, with only a dusting
+possible below 8000 ft. Winds will increase over the mountains and
+into the deserts this evening into Tuesday morning. Peak gusts of 40
+to 50 mph expected.
+
+Mostly dry conditions expected Tuesday and Wednesday, with below
+average temperatures. High temperatures will range from 2-12 degrees
+below seasonal averages. Wednesday will be a few degrees warmer than
+Tuesday, but the "warming trend" will be brief with Thursday
+expected to see widespread cooler conditions. For Thursday through
+Saturday highs will be 7-12 degrees below average for inland
+locations.
+
+In addition to cooler conditions on Thursday, another round of
+precipitation and gusty winds can be expected. The system arriving
+late Wednesday night/early Thursday will be driven by a stronger jet
+and will have enough IVT associated with it to be considered a weak
+Atmospheric River. While there still remains some uncertainty in the
+system`s track, we are expecting more rain, stronger winds, and snow
+at lower elevations compared to tonight/Tuesday`s system. NBM
+chances of exceeding 1 inch of rain from early Thursday to early
+Friday are 70-90 percent for areas north of San Diego County
+(highest chances in the San Bernardino mountains), 20-50 percent for
+San Diego County, and less than 15 percent for the deserts. The
+influence from the jet stream will help increase instability,
+allowing for chances of isolated thunderstorms across the coastal
+basin Thursday afternoon. This is expected to be a colder system
+with snow levels expected to start out around 7500 ft Wednesday
+night and fall to 6500 ft by Thursday evening. Some accumulating
+snow looks possible around 6500 ft, with the majority of the
+accumulations above 7000 ft. The last hazard to mention for the
+Wednesday night into Thursday time frame is the increase in westerly
+winds over the mountains and deserts. First look at the wind
+forecast indicates peak gusts 40 to 55 mph, locally up to 60 mph
+through wind prone passes and canyons. It looks like precipitation
+and gusty winds will taper off Thursday into Friday morning with
+dry conditions expected Friday afternoon through Saturday.
+
+Another system appears on the horizon, arriving Sunday and/or
+Monday. This one looks weaker, so not as wet or windy as the
+Thursday system. Its projected location, timing, and character is
+all over the place among ensemble solutions. The most certain thing
+we can say is that our weather will remain unsettled and cool.
 
 &&
 
 .AVIATION...
-161200Z...Coast/Valleys...VFR conditions prevail this morning with
-SCT-BKN clouds based around 4500-6000 ft MSL. ISO-SCT -SHRA over
-coastal waters will begin to increase in coverage and push ashore
-later this morning, some as early as 14z Mon into Orange County.
-However, a bulk of the rain will spread into coastal San Diego and
-Orange counties by 21-00z Tue. As the -SHRA moves in, intermittent
-MVFR CIGs/VIS may occur across any TAF sites in the coastal basin.
-Pockets of +SHRA or even a stray thunderstorm are possible,
-primarily between 00-06z Tuesday, of which could briefly bring IFR
-conditions (VIS down to near 1SM and CIGs down below 1000 ft MSL).
-Precipitation largely moves out of the coastal basin and into the
-coastal mountain slopes by 09z Tuesday.
+172330Z...Coast/Valleys...ISO-SCT -SHRA will continue through this
+afternoon and evening with MVFR conditions expected with any passing
+-SHRA. Greatest coverage of -SHRA in San Diego County. A few
+embedded +SHRA will introduce a low chance of brief IFR conditions,
+particularly at coastal TAF sites. Slight chance (10%) of a TSRA
+near the coast. Precipitation largely moves out of the coastal basin
+and into the mountains by 09z Tuesday with low to mid level clouds
+clearing through Tuesday morning. Westerly winds increasing along
+the coast after 04z with wind gusts 20-25 kts at times. Winds
+decrease again from north to south 12-18z, but intermittent gusts to
+20 knots continue through the afternoon for San Diego County coastal
+areas.
 
-
-Mountains/Deserts...VFR conditions prevail with FEW-SCT mid-level
-clouds. Lower clouds will develop across the coastal slopes after
-12z Monday, which will obscure higher terrain. -SHRA will spread
-into the coastal slopes by 21 Mon - 00z Tues, eventually tapering
-off by 09-12z Tuesday.
+Mountains/Deserts...VFR conditions will become MVFR intermittently
+for the mountains this afternoon and evening as SCT -SHRA moves
+through the region. Higher terrain occasionally shrouded in FG.
+-SHRA eventually tapers off by 09-11z Tuesday. Clouds scattering
+Tuesday morning. S/W winds increasing across the desert slopes after
+03Z Tue with gusts 30-45 kts at times.
 
 &&
 
 .MARINE...
-Isolated light showers continue over the coastal waters this
-morning. Coverage of these showers will increase through the late
-morning and into the afternoon as a front approaches. Pockets of
-heavier showers is expected along with a slight chance (10%) of
-embedded thunderstorms.
+Pockets of heavier showers expected along with a slight chance (10%)
+of embedded thunderstorms through 10 PM this evening.
 
-As the cold front pushes into the region, winds and seas ramp back
-up this afternoon with 25-30 knot gusts expected in addition to
-steep, high seas of 8-11 feet with an average period of 8 seconds.
-Wind gusts will be strongest near San Clemente Island, where near-
-gale conditions are possible. A Small Craft Advisory remains in
-effect from 4 PM this afternoon through 4 AM Wednesday due to the
-hazardous conditions expected from the gusty winds and high seas.
-Winds and seas will slowly diminish Wednesday morning.
+Winds and seas will ramp back up through this afternoon and evening
+with 25-30 knot gusts expected in addition to steep, high seas of 7-
+10 feet with a period of 8-15 seconds. Wind gusts will be strongest
+near San Clemente Island, where near-gale conditions are possible. A
+Small Craft Advisory remains in effect through 4 AM Wednesday due to
+the hazardous conditions expected from the gusty winds and high
+seas. Winds and seas will slowly diminish Wednesday morning.
 
 Conditions look to deteriorate once again Thursday as the next storm
-system approaches. Steep, high seas of 8-11 ft are expected with
-wind gusts peaking near 25-30 knots for Thursday into Friday morning.
+system approaches. Steep, high seas of 7-10 ft along with wind gusts
+peaking 20-30 knots for Thursday into Friday morning.
 
 &&
 
@@ -466,17 +483,22 @@ A series of a mixture of long-period (3-5 feet at 15-17 seconds) and
 short period (6-8 feet at 7-8 seconds) swells, both from the west-
 northwest (280-290 degrees), will generate periods of elevated and
 high surf through much of this week. The next surge of northwesterly
-swells arrives this afternoon, keeping surf very elevated up to 6 to
-8 feet, with sets to 10 feet along west-facing beaches. This
-maintains the threat for high surf and strong rip currents through
-mid-week. A High Surf Advisory remains in effect through 4 AM
-Wednesday.
+swells arriving now will elevate surf to 6 to 9 feet, with sets to
+11 feet along west-facing beaches. This maintains the threat for
+high surf and strong rip currents through mid-week. A High Surf
+Advisory remains in effect through 4 AM Wednesday.
 
-This next surge of the northwesterly swell will gradually wane
-Wednesday afternoon into Thursday, bringing a brief decrease in wave
-heights. However, the next northwesterly swell is set to arrive
-Thursday afternoon, likely to bolster the dangerous surf conditions
-into the weekend.
+The shorter period northwest swell will wane Tuesday afternoon,
+leaving a 3-5 ft swell with a 13-14 second period for Wednesday.
+This will result in a brief decrease in surf, down to 3-5 feet with
+sets to 6 feet. However, northwesterly swell builds again Thursday,
+elevating surf once again through Friday.
+
+Coastal flooding is expected at times through the week. High surf
+will contribute to increased coastal flood chances even though tides
+will be under 6.5 ft through Friday. King Tides are expected to peak
+next week, but chances of tides exceeding 7 ft start as early as
+Saturday Nov 21.
 
 &&
 
@@ -484,24 +506,25 @@ into the weekend.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
 CA...High Surf Advisory until 4 AM PST Wednesday for Orange County
      Coastal Areas-San Diego County Coastal Areas.
 
-PZ...Small Craft Advisory from 4 PM this afternoon to 4 AM PST
-     Wednesday for Coastal Waters from San Mateo Point to the
-     Mexican Border and out to 10 nm-Waters from San Mateo Point
-     to the Mexican Border Extending 10 to 60 nm out including
-     San Clemente Island.
+PZ...Small Craft Advisory until 4 AM PST Wednesday for Coastal Waters
+     from San Mateo Point to the Mexican Border and out to 10 nm-
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
-PUBLIC...MM
-AVIATION/MARINE/BEACHES...Munyan
+PUBLIC...CO
+AVIATION/MARINE/BEACHES...KW
 
 
 </pre>
