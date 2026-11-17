@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-17T01:40:51+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-17T15:38:01+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,29 +343,26 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-406
-FXUS66 KSGX 162323
+529
+FXUS66 KSGX 171057
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-323 PM PST Mon Nov 16 2026
+257 AM PST Tue Nov 17 2026
 
 .SYNOPSIS...
-Below average temperatures with periods of rain, isolated
-thunderstorms, mountain snow, and wind this week. The first round of
-unsettled weather is today into Tuesday morning. Dry conditions
-expected for much of the day Tuesday into Wednesday, with additional
-rain, snow, and wind late Wednesday night into Thursday. Friday and
+Cool and unsettled weather will continue this coming week. A
+weather system will move out this morning with showers ending, but
+strong winds lingering today. Fair weather Wednesday will be
+followed by the next storm system arriving Thursday with rain, a
+slight chance of thunderstorms, and strong winds. Friday and
 Saturday are expected to be mostly dry, with additional chances of
-precipitation on Sunday or Monday. Additionally, unsettled weather
-will lead to periods of dangerous boating conditions, high surf, and
-periods of coastal flooding.
+precipitation on Sunday or Monday. High surf will lead to periods
+of minor coastal flooding during high tides.
 
 &&
 
@@ -373,104 +370,73 @@ periods of coastal flooding.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-
-...UPDATED AVIATION DISCUSSION...
-
-Periods of showers lingering offshore will continue to slowly move
-inland through the early afternoon, with increased coverage of
-scattered showers later this afternoon into tonight. Light to
-moderate rain is expected with rainfall rates peaking at 0.30-0.40
-inches per hour. Overall, rainfall totals will be 0.05-0.20 inches
-for Orange County and the Inland Empire; 0.10-0.50 inches for San
-Diego coast and valleys; 0.50-1 inch for the mountains; less than
-0.20 inch in the High Desert; and little to no rain is expected in
-the lower deserts. Additionally, there is a chance of thunderstorms
-(10%) over the coastal waters and locally along the coast this
-afternoon through 10 PM. Where thunderstorms develop, expected
-erratic, gusty winds and localized flooding. Showers will taper off
-from northwest to southeast Tuesday morning. Snow levels are
-expected to stay above 8000 ft during much of the precipitation
-leading to 2-4 inches of snow above 8000 ft. Snow levels will drop
-to 5500-6000 ft as precipitation tapers off, with only a dusting
-possible below 8000 ft. Winds will increase over the mountains and
-into the deserts this evening into Tuesday morning. Peak gusts of 40
-to 50 mph expected.
-
-Mostly dry conditions expected Tuesday and Wednesday, with below
-average temperatures. High temperatures will range from 2-12 degrees
-below seasonal averages. Wednesday will be a few degrees warmer than
-Tuesday, but the "warming trend" will be brief with Thursday
-expected to see widespread cooler conditions. For Thursday through
-Saturday highs will be 7-12 degrees below average for inland
-locations.
-
-In addition to cooler conditions on Thursday, another round of
-precipitation and gusty winds can be expected. The system arriving
-late Wednesday night/early Thursday will be driven by a stronger jet
-and will have enough IVT associated with it to be considered a weak
-Atmospheric River. While there still remains some uncertainty in the
-system`s track, we are expecting more rain, stronger winds, and snow
-at lower elevations compared to tonight/Tuesday`s system. NBM
-chances of exceeding 1 inch of rain from early Thursday to early
-Friday are 70-90 percent for areas north of San Diego County
-(highest chances in the San Bernardino mountains), 20-50 percent for
-San Diego County, and less than 15 percent for the deserts. The
-influence from the jet stream will help increase instability,
-allowing for chances of isolated thunderstorms across the coastal
-basin Thursday afternoon. This is expected to be a colder system
-with snow levels expected to start out around 7500 ft Wednesday
-night and fall to 6500 ft by Thursday evening. Some accumulating
-snow looks possible around 6500 ft, with the majority of the
-accumulations above 7000 ft. The last hazard to mention for the
-Wednesday night into Thursday time frame is the increase in westerly
-winds over the mountains and deserts. First look at the wind
-forecast indicates peak gusts 40 to 55 mph, locally up to 60 mph
-through wind prone passes and canyons. It looks like precipitation
-and gusty winds will taper off Thursday into Friday morning with
-dry conditions expected Friday afternoon through Saturday.
-
-Another system appears on the horizon, arriving Sunday and/or
-Monday. This one looks weaker, so not as wet or windy as the
-Thursday system. Its projected location, timing, and character is
-all over the place among ensemble solutions. The most certain thing
-we can say is that our weather will remain unsettled and cool.
+Showers will continue to track eastward across mountains, deserts,
+and funky little island bands of showers moving through southwest
+San Diego County. All showers will end soon and few if any
+showers should linger after sunrise. Stronger winds especially in
+the coastal waters, mountains, and deserts will increase this
+morning and peak around midday before gradually diminishing late
+this afternoon and evening. Wind gusts in mountains and deserts
+will be 25-40 mph. Top gusts on mountain ridges and through
+mountain passes will exceed 40 mph, with very isolated gusts
+around 50 mph. It will turn mostly sunny today, but cool and
+breezy, with highs in upper 60s at lower elevations, lower 70s in
+the low desert, 50s in the High Desert, and upper 30s to lower 50s
+in the mountains. These max temps are roughly 2-12 degrees below
+average. Wednesday looks mostly sunny and dry and not windy but
+only a couple degrees warmer as high pressure does a poor job of
+building. The next weather system with rain and wind arrives
+Thursday morning in Orange and western San Bern Counties,
+gradually moving southeast across the region during the day. The
+details are becoming better resolved, so we can say with greater
+confidence our most likely scenario. By the time the storm wraps
+up and moves east early Friday, rainfall should total a little
+over 1 inch in the mountains and areas in the L.A. Basin. Amounts
+drop off to the south and east with San Diego and Riverside
+Counties receiving less than 0.75 inch. The area around San Diego
+may get only 0.25 inch. Snow levels will drop to around 6,500 feet
+by the time the precip ends, which should give Big Bear light
+snowfall, but a few inches could accumulate above 7,500 feet, such
+as on the higher ski slopes. Winds Thursday will be similar to
+today`s winds, with top gusts in mountains and deserts around
+35-50 mph. Friday and Saturday look fair and dry as the jet stream
+pauses the parade of systems crossing the Pacific. By Sunday and
+Monday, things get really uncertain. It could continue dry, but
+most ensemble solutions bring in a weak system that would bring
+light rain either Sunday, Sunday night, or Monday. After that,
+there are some solutions building an anomalously strong ridge over
+the West that would bring dry and very warm pre- Thanksgiving
+weather. Other solutions keep us in this unsettled, cool, and
+sometimes wet and windy pattern.
 
 &&
 
 .AVIATION...
-172330Z...Coast/Valleys...ISO-SCT -SHRA will continue through this
-afternoon and evening with MVFR conditions expected with any passing
--SHRA. Greatest coverage of -SHRA in San Diego County. A few
-embedded +SHRA will introduce a low chance of brief IFR conditions,
-particularly at coastal TAF sites. Slight chance (10%) of a TSRA
-near the coast. Precipitation largely moves out of the coastal basin
-and into the mountains by 09z Tuesday with low to mid level clouds
-clearing through Tuesday morning. Westerly winds increasing along
-the coast after 04z with wind gusts 20-25 kts at times. Winds
-decrease again from north to south 12-18z, but intermittent gusts to
-20 knots continue through the afternoon for San Diego County coastal
-areas.
+181100Z...Coast/Valleys...ISO-SCT -SHRA continues to move out of the
+region with MVFR conditions expected only with any passing
+-SHRA. Gusty Winds decrease again from north to south through 18z,
+but intermittent gusts to 20 knots continue through the afternoon
+for San Diego County coastal areas. Clouds will regather later this
+evening along the coastal areas of bases around 3000-4000 ft MSL,
+with a low (10-20%) chance of going BKN intermittently (mainly from
+10-14z Wed) along the coastal areas, and possibly at KSAN.
 
 Mountains/Deserts...VFR conditions will become MVFR intermittently
-for the mountains this afternoon and evening as SCT -SHRA moves
-through the region. Higher terrain occasionally shrouded in FG.
--SHRA eventually tapers off by 09-11z Tuesday. Clouds scattering
-Tuesday morning. S/W winds increasing across the desert slopes after
-03Z Tue with gusts 30-45 kts at times.
+for the mountains this early morning with -SHRA eventually tapering
+off. Clouds scattering later this morning. S/W winds increasing
+across the desert slopes after 03Z Tue with gusts 30-45 kts at times
+by later this afternoon, then decreasing through the evening.
 
 &&
 
 .MARINE...
-Pockets of heavier showers expected along with a slight chance (10%)
-of embedded thunderstorms through 10 PM this evening.
-
-Winds and seas will ramp back up through this afternoon and evening
-with 25-30 knot gusts expected in addition to steep, high seas of 7-
-10 feet with a period of 8-15 seconds. Wind gusts will be strongest
-near San Clemente Island, where near-gale conditions are possible. A
-Small Craft Advisory remains in effect through 4 AM Wednesday due to
-the hazardous conditions expected from the gusty winds and high
-seas. Winds and seas will slowly diminish Wednesday morning.
+Winds and seas with 25-30 knot gusts expected in addition to steep,
+high seas of 7-10 feet with a period of 8-15 seconds. Wind gusts
+will be strongest near San Clemente Island, where near-gale
+conditions are possible. A Small Craft Advisory remains in effect
+through 4 AM Wednesday due to the hazardous conditions expected from
+the gusty winds and high seas. Winds and seas will slowly diminish
+Wednesday morning.
 
 Conditions look to deteriorate once again Thursday as the next storm
 system approaches. Steep, high seas of 7-10 ft along with wind gusts
@@ -506,7 +472,6 @@ Saturday Nov 21.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
-
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -518,13 +483,12 @@ PZ...Small Craft Advisory until 4 AM PST Wednesday for Coastal Waters
      Waters from San Mateo Point to the Mexican Border Extending
      10 to 60 nm out including San Clemente Island.
 
-
 &&
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...KW
+PUBLIC...MM
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
