@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-18T23:58:42+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-19T07:09:12+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -348,13 +348,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-591
-FXUS66 KSGX 182259
+484
+FXUS66 KSGX 190517
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-259 PM PST Wed Nov 18 2026
+917 PM PST Wed Nov 18 2026
 
 .SYNOPSIS...
 Cool weather will continue for the next week. Rain, isolated
@@ -369,6 +369,8 @@ Monday, potentially followed by another one mid to late next week.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION/BEACHES/MARINE DISCUSSION...
 
 .SHORT TERM...Wed Nov 18 through Thu Nov 19...Broad cyclonic flow
 is currently present over the region, leading to weak onshore
@@ -451,47 +453,49 @@ next week.
 &&
 
 .AVIATION...
-181800Z...Coast/Valleys...SCT clouds with bases around 3000-4000 ft
-MSL, with intermittent low clouds going BKN this morning up to 20
-miles inland. Otherwise, SCT-BKN high clouds will build into the
-region into the afternoon and evening as a cold front approaches the
-area. BKN low clouds (2000-3000 ft MSL) increase and thicken going
-into the early morning hours Thursday. A band of rain will move
-through the region from north to south starting at KSNA around 16-
-18Z down to KSAN closer to 19-21Z. This will bring areas of -RA and
-MVFR, locally IFR cigs/vis. Rain ending north to south Thursday
-afternoon / evening with slowly clearing cigs.
+190515Z...Coast/Valleys...Multiple FEW-SCT cloud layers with bases
+3000-5000 ft and AOA 20000 ft MSL. BKN mid-level clouds (3000-5000
+ft MSL) expected to increase into early Thursday AM. A band of rain
+will move through the region from north to south starting at KSNA
+around 17-20Z down to KSAN closer to 21-23Z. When the main rain band
+is passing +RA and IVR cigs/vis expected, especially for locations
+north of San Diego County, otherwise periods of -RA and MVFR
+cigs/vis can be expected. Rain ending north to south Thursday
+afternoon/evening with slowly clearing cigs. South winds gusting 20-
+25 kt expected with the passage of the rain band, weakening and
+becoming westerly after the band passes.
 
-Mountains/Deserts...VFR conditions will prevail this morning.
-Building mid/high level clouds SCT-BKN AOA 15k feet MSL level clouds
-will build into the region after 00Z Thu. A band of rain will move
-through the region from north to south starting around 15-18Z in
-northern mountains, closer to 18-20Z in San Diego county. This will
-bring areas of -RA and MVFR, locally IFR cigs/vis. Rain ending north
-to south Thursday afternoon / evening with slowly clearing cigs.
+Mountains/Deserts...High level clouds SCT-BKN AOA 10000 feet MSL
+will continue into Thursday. A band of rain will move through the
+region from north to south starting around 16-18Z in northern
+mountains, closer to 19-22Z in San Diego county. When the main rain
+band is passing +RA and IVR cigs/vis expected, especially for
+locations north of San Diego County, otherwise periods of -RA and
+MVFR cigs/vis can be expected. Rain ending north to south Thursday
+afternoon/evening with slowly clearing cigs. Southwest winds will
+increase after 10Z with peak gusts 40-55 kt on the mountain slopes,
+with gusts 30-40 kt in the High Desert. Winds will become westerly
+after 00Z Friday and weaken after 12Z Friday.
 
 &&
 
 .MARINE...
 A Small Craft Advisory has been issued for 12z Thursday through 18z
-Friday, as conditions look to deteriorate once again on Thursday as
-the next storm system approaches. Steep, high seas of 7-10 ft, along
-with wind gusts peaking 20-30 knots, are expected for Thursday into
-Friday morning. Wind direction initially south-southwest on Thursday
-will turn westerly by late afternoon and continue through early
-morning on Friday. Conditions will begin to improve by later in the
-day on Friday with much calmer seas expected by the weekend.
+Friday. Steep seas of 5 to 8 ft, along with wind gusts peaking 20-30
+knots, are expected for Thursday into Friday morning. Wind direction
+initially south-southwest on Thursday will turn westerly by late
+afternoon and continue through early morning on Friday. Conditions
+will begin to improve by later in the day on Friday with much calmer
+seas expected by the weekend.
 
 &&
 
 .BEACHES...
-The shorter period northwest swell will wane through this evening,
-leaving a 3-5 ft swell with a 13-14 second period for today. This
-will result in a brief decrease in surf, down to 3-5 feet. However,
-northwesterly swell builds again tomorrow, elevating surf once again
-by later in the evening and into early Friday.
+Northwesterly swell builds Thursday, elevating surf once again
+through early Friday. Surf of 4 to 6 ft with sets to 8 ft are
+expected on west facing beaches. Strong rip currents and minor
+coastal flooding during high tide are expected.
 
-Coastal flooding is expected at times through the rest of the week.
 King Tides are expected to peak next week, but chances of tides
 exceeding 7 ft start as early as Saturday Nov 21.
 
@@ -505,14 +509,10 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from Thursday morning through Friday
-     morning for Orange County Coastal Areas-San Diego County
-     Coastal Areas.
-
-     Wind Advisory from 11 PM this evening to 4 PM PST Thursday for
-     Apple and Lucerne Valleys-Riverside County Mountains-San
-     Bernardino County Mountains-San Diego County Mountains-San
-     Gorgonio Pass near Banning.
+CA...Wind Advisory until 4 PM PST Thursday for Apple and Lucerne
+     Valleys-Riverside County Mountains-San Bernardino County
+     Mountains-San Diego County Mountains-San Gorgonio Pass near
+     Banning.
 
 PZ...Small Craft Advisory from 4 AM Thursday to 10 AM PST Friday for
      Coastal Waters from San Mateo Point to the Mexican Border
@@ -526,7 +526,7 @@ PZ...Small Craft Advisory from 4 AM Thursday to 10 AM PST Friday for
 $$
 
 PUBLIC...CSP
-AVIATION/MARINE/BEACHES...APR
+AVIATION/MARINE/BEACHES...CO
 
 
 </pre>
