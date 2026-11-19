@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-19T07:09:12+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-19T20:05:21+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -345,24 +345,27 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=42&glossary=0">42</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-484
-FXUS66 KSGX 190517
+603
+FXUS66 KSGX 191929
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-917 PM PST Wed Nov 18 2026
+1129 AM PST Thu Nov 19 2026
 
 .SYNOPSIS...
 Cool weather will continue for the next week. Rain, isolated
-thunderstorms, high mountain snow, and stronger winds are
-expected Thursday as a storm system moves through California. Dry
-but cool weather will follow Friday through Sunday. The next
+thunderstorms, high elevation mountain snow, and stronger winds
+are expected today as a storm system moves through California.
+Dry but cool weather will follow Friday through Sunday. The next
 system looks weaker and could bring light rain Sunday night and
-Monday, potentially followed by another one mid to late next week.
+Monday, potentially followed by another system mid to late next
+week.
 
 &&
 
@@ -370,134 +373,120 @@ Monday, potentially followed by another one mid to late next week.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/BEACHES/MARINE DISCUSSION...
 
-.SHORT TERM...Wed Nov 18 through Thu Nov 19...Broad cyclonic flow
-is currently present over the region, leading to weak onshore
-winds and cool temperatures this afternoon. Skinny cumulus clouds
-around 5000 feet this afternoon are indicative of a little bit of
-moisture in the mid-levels; meanwhile, upper level clouds above
-20k feet are starting to stream into the region ahead of a robust
-cold front that will move through the region Thursday.
+...UPDATED AVIATION, MARINE, AND BEACHES DISCUSSIONS...
 
-A mid-level low pressure center currently offshore of northern
-California/Oregon will move slightly southwest to cover the CA/OR
-border, sending a quick-moving, well-defined cold front through
-southwest California with the southeast edge of the low. As this
-approaches, winds will increase over the mountain ridges late
-tonight into early Thursday morning. These winds will become more
-widespread across the mountains into parts of the desert late
-Thursday morning into the early afternoon with the main frontal
-band, with peak gusts 45 to 60 mph over the mountain ridges into
-the deserts foothills as well as through the mountain passes.
-Winds will also become breezy for the valleys and coast as the
-front passes, with peak gusts 15 to 30 mph.
+Very light precipitation has begun to develop well ahead of the
+main precipitation band/Atmospheric River, which is currently
+moving through Central CA. The latest (07Z) run of the HRRR seems
+to have a decent handle on the timing of the front, bringing
+heavier rain to Orange/San Bernardino Counties beginning around
+10 AM, then into central Riverside and NW San Diego County by
+around 1 PM and continuing to move southeast through the
+afternoon. While isolated rainfall rates over 1"/hr have been
+observed in Santa Barbara County (similar to HRRR/REFS mean
+maxima), rainfall intensity is forecast to weaken by the time it
+reaches our forecast area, with max rates near 0.50-0.75"/hr north
+of San Diego County, and around 0.30"/hr by the time the band
+reaches San Diego County. This is still enough to produce roadway
+flooding, especially in poor drainage areas, and rockslides in the
+mountains. So far the only lightning has been observed in the Bay
+Area, closer to the mid-level cold core. While this much colder
+air never moves over So Cal, maintained slight thunderstorm
+chances for the coastal waters east into the western valleys as
+weak destabilization occurs this afternoon, especially with SSTs
+still in the low to mid 70s.
 
-As for rain, the vast majority of rain associated with this front
-will fall Thursday morning and afternoon. While light, pre-
-frontal rain is possible for northern Orange County/IE as early as
-about 7 AM, the main impactful band looks to hit the far northern
-reach of our region (northern OC and IE) around 10 AM, then
-far northwest San Diego County around 1 PM. This will bring
-widespread moderate to heavy rain as it passes through. Warm ocean
-water will add to the slight instability associated with the
-system, bringing a convective element with embedded thunderstorms
-to the rain. For this reason, rainfall rates of 0.5 to 0.65" an
-hour are possible, especially for the northwest part of the
-region, which could produce urban flooding, small stream rises,
-and small rockfalls to the mountain regions. The front will lose
-energy as it moves inland and gets farther from the ocean, so
-rates are expected to diminish as it moves in southern OC/IE and
-into San Diego Co.
+Latest storm total rainfall calls for around 0.40-0.75" for Orange
+County and the Inland Empire, locally up to 1" near the LA County
+border, 0.25-0.50" for the San Diego County coastal areas/valleys,
+0.50-1.50" in the mountains, highest on the south facing slopes,
+0.10-0.30" in the high desert, and 0.10" or less in the low
+desert. Snow levels will be 8,000 ft or higher during the heaviest
+precipitation, falling to around 6,500 ft behind the cold front as
+precipitation begins to taper off. While the highest peaks of the
+San Gabriel/San Bernardino/San Jacinto Mountains will receive
+around 3-5" of snow, mountain communities such as Big Bear will
+likely see less than 1".
 
-Rainfall will taper off quite quickly behind the main band, which
-will move out of OC and the IE around 3-4 PM and out of San Diego
-County by about 6 PM. Another wave or so of off-and-on rain will
-follow behind, but rain will be much lighter with very little
-chance for any thunderstorms. Snow levels start fairly high with
-the main precipitation at above 7500 feet, though heavier
-precipitation could locally drive this down to about 7000 feet.
-Snow levels drop behind the front to about 7000 feet late Thursday
-afternoon, then to about 6000 feet late Thursday night. The
-majority of snow is expected above the communities/main roads on
-the ridges, though a few inches at the resort level and on the
-high mountain passes is expected. Rain will likely transition to
-snow later Thursday in Big Bear, but with wet, heavy snow we`re
-not expecting a lot in the way of accumulation, around 0.1" to
-about an inch.
+In addition to the precipitation, gusty southwest to west winds
+are expected today for the desert mountain slopes into the
+deserts, coastal waters, and briefly for the coastal areas as the
+front passes this afternoon. For the mountains and deserts, peak
+gusts of 45-55 mph are expected, with gusts closer to 25-35 mph
+along the coast. A Wind Advisory remains in effect for the
+mountains, high desert, and San Gorgonio Pass through 4 PM this
+afternoon.
 
-&&
+Cool but drier weather follows for Friday. A second short wave
+digging down but passing to the northeast will produce a brief
+round of weak offshore flow Saturday morning. Cool weather
+persists on Sunday under weak troughing, then a weak short wave
+moves through sometime late Sunday into Monday. Ensembles are
+trending towards a weaker wave/further north path, and some
+several members of the EPS, GEFS, and GEPS are completely dry, and
+the AI versions of the EPS and GEFS are even drier. Overall it
+looks like if we get any precipitation out of this system, it`ll
+be very light. Weak offshore flow and ridging aloft on Tuesday
+will produce minor warming and dry weather, though highs will
+still be several degrees below normal.
 
-.LONG TERM...Fri Nov 20 to Wed Nov 25...A few showers will linger
-in southwest San Diego County through Friday morning, before the
-weather dries and skies clear. Another shortwave trough rotates
-through the region on the east side of the larger trough Friday,
-but this will mostly just keep us cooler than average. This is
-followed by a brief period of ridging Saturday, though this will
-be weak and transient enough that temperatures will only bump up a
-few degrees for Saturday afternoon.
-
-Another weak shortwave follows late Sunday into Monday. This has a
-moderate chance (~40% chance) of bringing some more precipitation
-to the region, though this would be much, much lighter. A handful
-of global ensemble members are still showing mostly dry weather,
-so confidence in the forecast for next week is moderate. Another
-brief ridge is likely late Monday into Tuesday, before another low
-pressure system looms towards late Tuesday-Wednesday. This latter
-system has trended slightly wetter, with more ensemble members
-showing precipitation than previous runs, but there are large
-differences in strength, timing, and depth of troughing that will
-make huge differences in the temperature, rain, etc. forecast for
-next week.
+There is the potential for another system towards the middle of
+next week (including Thanksgiving), but there is huge model spread
+on the evolution of that low. The 00Z GFS develops a deep low
+which closes off and digs through NV/AZ, but this is not supported
+by any of the ensemble clusters. The ensemble solutions range
+anywhere from zonal flow or weak troughing (light to moderate
+precipitation depending on if/how far south any short wave
+develops) to weak ridging/drier weather. By Thanksgiving, around
+half of the ensemble members have a slightly inside
+trough/potential for light precipitation while the other half have
+weak ridging for warmer and dry weather. Either way the weather
+should be fairly well-behaved for the holiday.
 
 &&
 
 .AVIATION...
-190515Z...Coast/Valleys...Multiple FEW-SCT cloud layers with bases
-3000-5000 ft and AOA 20000 ft MSL. BKN mid-level clouds (3000-5000
-ft MSL) expected to increase into early Thursday AM. A band of rain
-will move through the region from north to south starting at KSNA
-around 17-20Z down to KSAN closer to 21-23Z. When the main rain band
-is passing +RA and IVR cigs/vis expected, especially for locations
-north of San Diego County, otherwise periods of -RA and MVFR
-cigs/vis can be expected. Rain ending north to south Thursday
-afternoon/evening with slowly clearing cigs. South winds gusting 20-
-25 kt expected with the passage of the rain band, weakening and
-becoming westerly after the band passes.
+191915Z...BKN-OVC skies are covering the area as a narrow weak cold
+front is moving through the region. RA/+RA from the narrow front is
+sweeping through OC and the IE, having just moved south of KSAN and
+passing over KONT/KSBD through the next half hour. By 21z, the main
+front will likely be passing through northern SD County and the
+eastern valleys of the IE (and VCSH through the lower deserts),
+clearing through all of SD County by 01z Fri. Brief IFR vis/cigs
+(~20-40 mins) during the frontal passage. Otherwise, mostly down to
+MVFR cigs for SHRA.
 
-Mountains/Deserts...High level clouds SCT-BKN AOA 10000 feet MSL
-will continue into Thursday. A band of rain will move through the
-region from north to south starting around 16-18Z in northern
-mountains, closer to 19-22Z in San Diego county. When the main rain
-band is passing +RA and IVR cigs/vis expected, especially for
-locations north of San Diego County, otherwise periods of -RA and
-MVFR cigs/vis can be expected. Rain ending north to south Thursday
-afternoon/evening with slowly clearing cigs. Southwest winds will
-increase after 10Z with peak gusts 40-55 kt on the mountain slopes,
-with gusts 30-40 kt in the High Desert. Winds will become westerly
-after 00Z Friday and weaken after 12Z Friday.
+-SHRA/SHRA to continue regionwide after the passage of the front,
+tapering off through the evening for northern areas and tapering off
+at night through SD County.
+
+Gusty west winds expected at the coast and desert slopes through
+tonight, weakening overnight.
 
 &&
 
 .MARINE...
-A Small Craft Advisory has been issued for 12z Thursday through 18z
-Friday. Steep seas of 5 to 8 ft, along with wind gusts peaking 20-30
-knots, are expected for Thursday into Friday morning. Wind direction
-initially south-southwest on Thursday will turn westerly by late
-afternoon and continue through early morning on Friday. Conditions
-will begin to improve by later in the day on Friday with much calmer
-seas expected by the weekend.
+Hazardous boating conditions to continue through Friday afternoon.
+Strongest winds and choppy seas are moving through the waters this
+afternoon, from northwest to southeast. A Small Craft Advisory is in
+effect and contains more details. There is a 10-15 percent chance of
+thunderstorms with the front. If any thunderstorms occur, they will
+be capable of producing gusty/erratic winds and lightning, with a
+slim chance of an isolated waterspout. No additional marine hazards
+are expected late Friday through the weekend.
 
 &&
 
 .BEACHES...
-Northwesterly swell builds Thursday, elevating surf once again
-through early Friday. Surf of 4 to 6 ft with sets to 8 ft are
-expected on west facing beaches. Strong rip currents and minor
-coastal flooding during high tide are expected.
+A northwesterly swell is building today, elevating surf through
+early Friday. Surf of 3 to 6 feet with sets to 7 feet are expected
+on west facing beaches. Strong rip currents and minor coastal
+flooding during high tides are expected. A Beach Hazards Statement
+contains more details.
 
 King Tides are expected to peak next week, but chances of tides
-exceeding 7 ft start as early as Saturday Nov 21.
+exceeding 7 feet start as early as Saturday Nov 21.
 
 &&
 
@@ -509,24 +498,26 @@ encouraged to report significant weather conditions.
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Wind Advisory until 4 PM PST Thursday for Apple and Lucerne
-     Valleys-Riverside County Mountains-San Bernardino County
-     Mountains-San Diego County Mountains-San Gorgonio Pass near
-     Banning.
+CA...Beach Hazards Statement through Friday morning for Orange County
+     Coastal Areas-San Diego County Coastal Areas.
 
-PZ...Small Craft Advisory from 4 AM Thursday to 10 AM PST Friday for
-     Coastal Waters from San Mateo Point to the Mexican Border
-     and out to 10 nm-Waters from San Mateo Point to the Mexican
-     Border Extending 10 to 60 nm out including San Clemente
-     Island.
+     Wind Advisory until 4 PM PST this afternoon for Apple and
+     Lucerne Valleys-Riverside County Mountains-San Bernardino
+     County Mountains-San Diego County Mountains-San Gorgonio
+     Pass near Banning.
+
+PZ...Small Craft Advisory until 10 AM PST Friday for Coastal Waters
+     from San Mateo Point to the Mexican Border and out to 10 nm-
+     Waters from San Mateo Point to the Mexican Border Extending
+     10 to 60 nm out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...CSP
-AVIATION/MARINE/BEACHES...CO
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
