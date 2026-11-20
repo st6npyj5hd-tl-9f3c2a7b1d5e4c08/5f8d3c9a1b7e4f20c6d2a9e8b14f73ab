@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-20T06:07:37+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-20T19:41:45+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,23 +346,23 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-554
-FXUS66 KSGX 200546
+350
+FXUS66 KSGX 201755
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-946 PM PST Thu Nov 19 2026
+955 AM PST Fri Nov 20 2026
 
 .SYNOPSIS...
-Intermittent showers and locally heavy rain will push through
-southern areas through early evening with mostly dry conditions by
-Friday. Cooler weather remains across the region through early next
-week. A weak weather system will bring a slight chance of light
-showers closer to the coast by Sunday night into Monday morning. Dry
-and cooler weather prevails for the early part of the week with
-another system moving closer to the area by the middle of next week
-as we head toward the Thanksgiving holiday.
+Isolated light showers across San Diego County ending by mid-
+morning. Cool but dry weather through this weekend. A weak
+weather system will bring a slight chance of light showers along
+and west of the mountains Sunday night through Monday morning.
+Brief warming Tuesday before another potential system on
+Wednesday through early Thursday, though confidence in the track
+and intensity remains low. Warmer and drier towards the end of the
+week under weak offshore flow.
 
 &&
 
@@ -370,87 +370,83 @@ as we head toward the Thanksgiving holiday.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION FOR 06Z TAF ISSUANCE...
 
-A cold frontal band will continue to push through the county warning
-area this afternoon, dissipating by early evening. Areas of heavy
-rain associated with this system have have been observed over the LA
-basin. Hourly rain rates have generally been between 0.40-0.60
-inches per hour with rain totals nearing one inch in some spots over
-the coastal slopes and near the LA County line. The cold front will
-continue to weaken, pushing south and east through the afternoon,
-pushing through the San Diego metro around 2-5 PM.  Hourly rain
-rates will lower near one half inch across this area at times. Snow
-levels around 7,000 feet early this afternoon will continue to drop
-near 6,000 feet by the late afternoon hours. As the weather system
-moves out of the area, light snow may fall in places like Big Bear
-Lake near one half inch or so in total. Isolated light showers may
-linger into parts of the San Diego metro on Friday as the system
-moves out with clearing skies.
+...UPDATED AVIATION DISCUSSION...
 
-Cooler weather will stick around Friday into the weekend as another
-low pressure system moves closer to the Pacific Northwest. Friday
-will be mostly sunny but highs will be 5 to almost 15 degrees below
-normal with temperatures only topping out in the 30s and 40s across
-the mountains, only in the 50s in the high desert. As the low moves
-closer to the Pacific Northwest, a weak shortwave moves into
-Northern California. This will bring cloudier conditions to our area
-with continued cooler weather. A portion of this shortwave may drift
-far enough south and even become a closed low over the desert
-southwest. This will bring the chance for ever so light
-showers/drizzle closer to the coast by Sunday night into Monday
-morning. If anything falls, it will be light in nature.
+Morning water vapor imagery shows an upper level low moving into
+northern Nevada and a trough extending south into Southern
+California. While the main band of precipitation has moved out,
+residual showers continue over the coastal waters and into San
+Diego County. Expect these showers to come to an end by mid-
+morning as the trough departs and drier air filters in. The
+remainder of the day will be cool and dry with highs in the 60s
+across the coastal basin, 40s in the mountains, mid 50s in the
+high desert, and low 70s in the low desert.
 
-Models are in fair agreement about another large area of low
-pressure moving over the NE Pac by early next week. There still
-remains a lot of uncertainty on where this system goes and what parts
-of it make it far enough to impact Southern California. Some
-possible scenarios as we head toward the Thanksgiving holiday
-include: the system staying to the north as high pressure to the
-south expands over our region. This would bring dry and warmer
-weather. The GFS handles this a bit differently, where the system
-splits in two, and a potential trough moves closer to our region
-which would bring potentially wetter weather by around next
-Wednesday. We are still close to a week away form this, so please
-keep updated with the forecast.
+A short wave on the back side of the low, currently along the
+coast near the OR/CA border, will rotate down through interior CA
+later today, passing by to our north and east. Surface high
+pressure building over the Great Basin behind this wave will drive
+very weak offshore flow here on Saturday morning. This will lead
+to slightly warmer and drier weather. Onshore flow returns on
+Sunday with little change in temperatures. Overall fair weather
+this weekend with some high clouds at times.
+
+Another upper level trough quickly moves through California Sunday
+night into Monday morning. Several members of each of the global
+ensembles remain dry with this trough (about 26% of the total
+ensemble space). Most of the members have at least light
+precipitation, so have a slight chance for the mountains westward
+Sunday night into Monday morning, though any accumulation will
+likely be limited to a few hundredths. Snow levels will be near
+6500 ft, but given the lack of moisture expect only a few
+flurries. Upper level ridging moves over late Monday and Tuesday
+for drier and warmer weather with another brief round of weak
+offshore flow Tuesday morning.
+
+Differences in the upper level pattern really begin to emerge as
+we head into Wednesday. The deterministic GFS still becomes highly
+amplified, bringing a deep trough into So Cal (and another deep
+closed low over the Southeast US) by late Wednesday. This
+solution, which would result in much colder and wetter weather,
+remains an outlier and isn`t supported by the EC/Canadian
+ensembles or even most of the GEFS ensemble members. Most of the
+solutions point to more of a zonal flow pattern with the
+moisture/precipitation aimed at Northern California. For now the
+official forecast has a 15-20% chance of precipitation on
+Wednesday. Once this trough passes, upper level high pressure
+begins to build in from the west. Weak offshore flow could develop
+as early as Thanksgiving morning, strengthening into Friday. For
+Thanksgiving Day, high temperatures are forecast to be anywhere
+from 2 to 7 degrees above normal, warming to around 5 to 10
+degrees above normal by Friday.
 
 &&
 
 .AVIATION...
-200545Z...Currently, a band of light to moderate showers is moving
-across southeastern San Diego County. MVFR and intermittent IFR
-cigs/vis will continue in this area for a few more hours. BKN-OVC
-low clouds with bases 3-5 kft west of the mtns will scatter out from
-west to east through this evening as this precipitation band exits
-the area to the east. Mostly SCT clouds with unrestricted VIS after
-12Z Sat.
-
-ISO-SCT -SHRA/SHRA will taper off this evening for northern areas
-and Friday morning in SD County. SCT low to mid level clouds will
-linger through Friday morning (mostly in SD County). Mostly SKC
-expected regionwide by Friday afternoon.
-
-Gusty west winds on the desert slopes of the mountains will weaken
-overnight. Moderate up/downdrafts over and east of mtns (including
-Inland Empire) through 12Z.
+201800Z...SCT-BKN clouds around 3500-5000 feet MSL prevails across
+coastal San Diego County today with VFR conditions expected across
+the board. A stray shower is possible along the coastal areas into
+the early afternoon, but there is less than a 5% chance. Westerly
+winds gusting 25-30 kts through mountain gaps into adjacent deserts
+through 23Z.
 
 &&
 
 .MARINE...
-Hazardous boating conditions will continue through Friday morning.
-West winds gusting to 25 knots with steep, choppy seas 5 to 8 feet
-this evening will slowly come down Friday morning. A Small Craft
-Advisory is in effect and contains more details. No additional
-marine hazards are expected through Tuesday.
+Winds and seas remain elevated in the outer waters into this
+evening. Wind gusts 25-30 kts are expected with choppy, locally
+steep, seas of 6-8 feet. A Small Craft Advisory remains in effect
+until 9 PM this evening for the outer waters and contains more
+details. No additional marine hazards are expected thereafter
+through Tuesday.
 
 &&
 
 .BEACHES...
-A northwest swell will continue building, elevating surf through
-early Friday. Surf of 3 to 6 feet with sets to 7 feet are expected
-on west facing beaches. Strong rip currents and minor coastal
-flooding during high tides are expected. A Beach Hazards Statement
-contains more details.
+Marginally elevated surf has come down a little bit, with highest
+sets up to 5-6 feet lingering today. The Beach Hazard Statement has
+been allowed to expire as a result.
 
 King Tides are expected to peak next week, but chances of tides
 exceeding 7 feet start as early as Saturday Nov 21. Morning high
@@ -459,29 +455,22 @@ widespread moderate impacts.
 
 &&
 
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
-
-&&
-
 .SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement until 9 AM PST Friday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+CA...Coastal Flood Watch from late Sunday night through Friday
+     afternoon for Orange County Coastal Areas-San Diego County
+     Coastal Areas.
 
-PZ...Small Craft Advisory until 10 AM PST Friday for Coastal Waters
-     from San Mateo Point to the Mexican Border and out to 10 nm-
-     Waters from San Mateo Point to the Mexican Border Extending
-     10 to 60 nm out including San Clemente Island.
+PZ...Small Craft Advisory until 9 PM PST this evening for Waters from
+     San Mateo Point to the Mexican Border Extending 10 to 60 nm
+     out including San Clemente Island.
 
 
 &&
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...PG
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...Munyan
 
 
 </pre>
