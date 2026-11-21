@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-21T05:59:15+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-21T14:31:17+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,28 +343,25 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-765
-FXUS66 KSGX 210529
+120
+FXUS66 KSGX 211156
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-929 PM PST Fri Nov 20 2026
+356 AM PST Sat Nov 21 2026
 
 .SYNOPSIS...
-Cooler weather remains across the region through early next week. A
-weak weather system will bring a slight chance of light showers
-closer for parts of Southern California on Sunday night into Monday
-morning. Cooler and drier weather will continue for Tuesday before
-another weather system nears the region, which may bring a chance
-for light showers closer to the coast sometime around Wednesday into
-the early part of Thanksgiving Day. High pressure will move into the
-region later next week, bringing drier and warmer weather.
+Cooler and dry weather this weekend. A weak weather system will
+bring a 25-50% chance of light showers for the mountains westward
+Sunday evening into early Monday morning. Cooler and drier
+weather on Tuesday before another weather system nears the
+region, which may bring a slight chance for light showers on
+Wednesday. High pressure will move into the region on Thanksgiving
+into the end of the week, bringing drier and warmer weather.
 
 &&
 
@@ -372,65 +369,81 @@ region later next week, bringing drier and warmer weather.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION DISCUSSION FOR THE 06Z TAF ISSUANCE...
 
-The area of low pressure that impacted the region yesterday will
-continue to move eastward, bringing drier weather through the
-afternoon with decreasing clouds expected from the coast to the
-foothills into the evening. Relatively zonal/weakly offshore flow
-takes over for the weekend, with temperatures remaining 5 to 10
-degrees below normal for areas away from the coast. This will
-include some chilly mornings across parts of the Inland Empire
-lowering into the 30s, high desert regions dipping below freezing,
-and areas around Big Bear Lake dropping into the teens. Winds will
-be breeziest along the coastal slopes tonight out of the north and
-east with gusts mainly below 35 MPH.
+...UPDATED AVIATION DISCUSSION...
 
-A stronger low pressure system is expected to churn off the Pacific
-Northwest coastline over the weekend. A shortwave will break away,
-pushing over SoCal by Sunday into early Monday. There has been a
-slight uptick in trends regarding precipitation amounts with this
-system; an increase in PWAT is also noted, though the atmosphere
-still looks to be on the drier side. Chances for light precipitation
-are now in the forecast from Sunday evening/night for all areas
-except the lower deserts; some showers may linger into southern San
-Diego County (including the metro area) into Monday morning. The
-rain will be light, with general amounts near one tenth of inch,
-locally higher in the mountains. Snow levels will be near 5,000
-feet, with communities in the San Bernardino Mts having the best
-chance to see accumulating snowfall. Snow amounts look to be
-generally under one inch for places like Big Bear Lake.
+A few island band showers developed downwind of San Clemente
+Island but remained over the coastal waters. These showers are now
+shifting south off the coast of Baja as flow turns more northerly.
+Pressure gradients are trending offshore, currently around -1 mb
+LAX-DAG. Isolated gusts of 25-30 mph are being reported in the
+Cajon Pass and northern Santa Ana Mountains. Pressure gradients
+and winds will strengthen through the morning with peak gusts
+around 30-40 mph in the wind-prone passes and canyons. Otherwise a
+sunny but cool day is in store with high temperatures around 5-10
+degrees below normal away from the coast, and near normal at the
+coast. Onshore flow returns on Sunday as another low pressure
+system begins to move in.
 
-Models are in fair agreement regarding another area of low pressure
-moving closer to the Pacific Northwest by early next week. There
-still remains some uncertainty in model guidance if a shortwave
-breaks off from the system, similar to what the Sunday/Monday system
-will do...or if the ridge to our south keeps the system north of our
-region. If the system is able to move over our area, we will see a
-chance for light showers sometime Wednesday into Thursday morning
-closer to the coast. Otherwise, dry weather will continue for many
-by the middle and end of next week as the ridge from the south
-amplifies. This will bring a warming trend with highs 5 to 10
-degrees above normal.
+Ensembles have trended faster with the arrival of the next short-
+wave trough, which is now expected to move in by Sunday evening.
+Ensembles have also trended wetter - at least in terms of the
+number of members showing precipitation. PoPs have increased to
+25-50% for the mountains westward Sunday evening into Sunday
+night, with showers tapering off by Monday morning. Overall
+rainfall amounts remain light: NBM probabilities of at least 0.10"
+are around 25-40%, and probabilities of at least 0.25" are around
+10-25%. Snow levels will be near 5500-6000 ft, but given the lack
+of liquid equivalent, so totals will generally be less than 1".
+
+Weak transitory ridging builds in behind this wave for the
+remainder of the day Monday and Tuesday for dry weather. A touch
+of weak offshore flow develops again Tuesday morning to bring some
+additional warming west of the mountains and high temperatures
+near to a couple degrees below normal across the region.
+
+Wednesday`s weather remains questionable as the evolution of a
+short wave moving through the mean flow continues to differ
+amongst the models. The GFS and about 50% of the GEFS members
+begin to dig this wave much further west and is more amplified for
+cooler weather and a better chance of precipitation. However,
+this remains the minority solution and only accounts for 18% of
+the total ensemble space. The remaining 82% have a lower amplitude
+and more inside track, maintaining dry weather with less cooling.
+Overall trend has been towards a drier solution as less ensemble
+members are showing precipitation now.
+
+As we head into Thanksgiving, upper level high pressure begins to
+build in from the west and surface high pressure settles into the
+Great Basin, driving another round of offshore flow. Depending on
+how the upper wave evolves, we may get some upper level support
+for stronger winds, but again this is the outlier GFS-like
+solution. The CW3E West-WRF has a 50% chance of weak Santa Ana
+winds on Thanksgiving, and a 10% of weak to moderate winds. For
+Thanksgiving, high temperatures are forecast to be around 2-5
+degrees above normal, increasing to 5-10 degrees above normal on
+Friday as the upper ridge strengthens and offshore flow continues.
+The ridge weakens and shifts east on Saturday as another waves
+moves inland to our north, bringing cooling but otherwise dry
+weather. The pattern remains active with potential for more
+precipitation the following week.
 
 &&
 
 .AVIATION...
-210600Z...SCT clouds with bases 4-6 kft MSL over the foothills are
-will decrease overnight. Brief N/NW winds gusting 20-30 kts locally
-through 15Z on the San Bernardino County mountain foothills and
-through the Cajon Pass. Slightly weaker E/NE winds during this time
-downwind of the Santa Ana Mountain peaks and Peninsular Range west
-facing foothills.
+211200Z...VFR conds. FEW-SCT clouds with bases 4-6 kft MSL over the
+foothills are will diminish through the morning. Brief N/NW winds
+gusting 20-30 kts locally through 15Z on the San Bernardino County
+mountain foothills and through the Cajon Pass. Slightly weaker E/NE
+winds during this time downwind of the Santa Ana Mountain peaks and
+Peninsular Range west facing foothills. Clouds will regather towards
+the end of the forecast period, with -SHRA arriving in the vicinity
+of KSAN after 15Z Sunday.
 
 &&
 
 .MARINE...
-Winds and seas remain elevated in the outer waters this evening.
-Wind gusts 25-30 kts are expected with combined seas of 5-7 feet,
-steep waves and choppy conditions. The Small Craft Advisory expired
-at 9 PM this evening as winds and seas steadily diminish. No
-additional marine hazards are expected thereafter through Tuesday.
+No marine hazards are expected through Tuesday.
 
 The next system and associated swell is forecast to move into the
 region for Wednesday into Thursday, which could increase wind and
@@ -478,8 +491,8 @@ PZ...None.
 
 $$
 
-PUBLIC...APR
-AVIATION/MARINE/BEACHES...PG
+PUBLIC...SS
+AVIATION/MARINE/BEACHES...Stewey
 
 
 </pre>
