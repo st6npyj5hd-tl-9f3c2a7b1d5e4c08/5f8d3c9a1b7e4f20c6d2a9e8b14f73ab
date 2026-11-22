@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-21T22:51:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-22T05:34:58+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,16 +343,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-786
-FXUS66 KSGX 211931
+972
+FXUS66 KSGX 220444
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1131 AM PST Sat Nov 21 2026
+844 PM PST Sat Nov 21 2026
 
 .SYNOPSIS...
 Dry weather prevails through Sunday morning. A weak weather system
@@ -367,6 +369,8 @@ by Thanksgiving Day into later next week, bringing warmer weather.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION FOR THE 06Z TAF ISSUANCE...
 
 Light offshore flow has been observed late this morning, with
 highest gusts across the San Diego County mts with gusts up to 35
@@ -418,21 +422,21 @@ to our region is still uncertain.
 &&
 
 .AVIATION...
-211800Z...VFR prevails with gradually increasing high clouds
-throughout the day. Lower clouds near 5000ft MSL increase near the
-coasts Sunday afternoon, with VCSH arriving in the vicinity of KSAN
-closer to 00z Monday.
+220500Z...SCT-BKN clouds at or abv 20000 ft MSL through Sunday
+morning. Low clouds with bases 4-7 kft increase in coverage across
+the coastal basin after 18Z Sunday. ISOLD-SGT -RA/-SHRA develop over
+the coastal waters, VCNTY KSAN/KCRQ around 23Z Sunday.
 
 &&
 
 .MARINE...
 No marine hazards are expected through Tuesday.
 
-The next storm system and associated swell is forecast to move into
-the region Wednesday afternoon into Thursday, which could increase
-wind and wave heights back to hazardous levels. There remains
-uncertainty in the forecast track/strength of this storm, but at
-this time, winds may gust up to 25 kts with seas of 8-12 feet.
+The next system and associated swell is likely to move into the
+region Wednesday afternoon into Thursday, which could increase wind
+and wave heights to hazardous levels. There remains uncertainty in
+the forecast track/strength of this storm, but at this time, winds
+may gust up to 25 kts with combined seas of 8-12 feet.
 
 &&
 
@@ -460,6 +464,7 @@ predictions accordingly, based on trends in recent observations.
 Skywarn activation is not requested. However weather spotters are
 encouraged to report significant weather conditions.
 
+
 &&
 
 .SGX WATCHES/WARNINGS/ADVISORIES...
@@ -477,7 +482,7 @@ PZ...None.
 $$
 
 PUBLIC...APR
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...PG
 
 
 </pre>
