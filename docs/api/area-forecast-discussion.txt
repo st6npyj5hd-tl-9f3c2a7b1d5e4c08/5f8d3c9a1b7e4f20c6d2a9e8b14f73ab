@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-23T06:16:04+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-23T23:30:46+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -341,26 +341,29 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-783
-FXUS66 KSGX 230603
+006
+FXUS66 KSGX 232321
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1003 PM PST Sun Nov 22 2026
+321 PM PST Mon Nov 23 2026
 
 .SYNOPSIS...
-Increasing clouds and rain chances tonight into early Monday
-morning. Warm and dry conditions expected for Tuesday and Wednesday.
-Weak to locally moderate Santa Ana winds are expected for
-Thursday and Friday which will continue dry and warm conditions
-for the end of the week. Precipitation chances could return early
-next week, with low confidence in details. Widespread coastal
-flooding is expected this week due to King Tides and increased
-surf.
+Dry conditions expected through Saturday. Today and Tuesday will see
+a few degrees of warming, Wednesday could see a minor cool down west
+of the mountains, before a more noticeable warm up for Thursday and
+Friday. Weak to locally moderate Santa Ana winds are expected for
+Thursday and Friday. Precipitation chances could return early next
+week, with low confidence in details. Widespread coastal flooding is
+expected this week due to King Tides and increased surf.
 
 &&
 
@@ -368,105 +371,107 @@ surf.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
+
 ...UPDATED AVIATION DISCUSSION...
 
-A weakening trough will move across Southern California tonight into
-early Monday. This will bring periods of light rain showers to the
-coastal basin with the potential for a dusting of mountain snow
-above 6000-6500 ft. Overall shower coverage will be scattered
-with rainfall rates mostly 0.10" per hour or less. Rainfall totals
-will be 0.20" or less. Highs today are expected to be similar to
-highs yesterday.
+A few showers occurred overnight and early this morning mostly over
+San Diego and Orange County. North Island and Point Loma saw the
+highest rainfall totals at 0.14", further north and inland totals
+were 0.10" or less. Dry conditions are expected for the rest of the
+day through the rest of the week. Highs today will be a few degrees
+warmer than Sunday, with an additional 3-5 degrees of warming into
+Tuesday.
 
-In the wake of the passing trough, weak transitory upper level
-ridging will set up over Southern California, bringing a few degrees
-of warming. A shortwave trough will move across California
-Wednesday. Forecast continues to trend dry for this shortwave
-passage with only a subtle change in the temperature forecast
-between Tuesday and Wednesday west of the mountains.
+The transient ridge that is currently over the Western United States
+will get pushed east Tuesday evening into Wednesday morning by an
+upper level low pressure system. This upper level low is not
+expected to bring impactful weather to the area. Conditions will
+stay dry with just a minor cooling west of the mountains.
 
-For Thursday, guidance has a ridge over California and the
-aforementioned trough to our east, with 60 percent of ensemble
-guidance showing the trough more over Texas and weaker with 22
-percent showing the low over the Arizona/New Mexico border, and 18
-percent showing the low in northern Mexico. All of these
-solutions indicate offshore flow, with the solution showing the
-low over northern Mexico the most likely solution for stronger
-winds with the low more set up for weaker winds in the other
-solutions. Guidance from the CW3E West-WRF shows a 60-75% chance
-of a weak Santa Ana wind event, with a 25-30% chance of weak to
-moderate Santa Ana winds. One thing we can say with confidence is
-conditions will be warmer and drier. Highs Thursday and Friday
-will be 5 to 15 degrees above average. Friday looks to be the
-warmest day with NBM chances of high temperatures of 80 or higher
-across the coastal basin and low deserts at 70-90%. Chances of
-high temperatures of 90 or more are zero at this time.
+For Thursday, guidance has a ridge building back over California and
+the aforementioned trough to our east. There still remains some
+uncertainty in the position of the upper level low, but guidance
+continues to indicate the pressure gradient will turn offshore. The
+projected offshore surface gradient has trended slightly weaker
+compared to yesterday, increasing the chances for mainly weak
+Santa Ana winds to develop. Guidance from the CW3E West-WRF has
+trended slightly higher chances for weak Santa Ana winds and
+slightly lower chances for weak to moderate Santa Ana winds. Wind
+gusts look to peak in the mountains, foothills, and passes at 35
+to 45 mph, with gusts to 45 mph confined to wind prone locations.
+The pressure gradient is most offshore on Thursday, which is when
+the strongest winds will be. In addition to winds, temperatures
+will peak Thursday and Friday. High temperatures will be 5 to 15
+degrees above average, with the warmest conditions on Friday. West
+of the mountains, highs will be in the mid to upper 70s to
+mid-80s.
 
-By Saturday, it looks likely the upper level ridge will get pushed
-east by an incoming upper level trough. 60% of ensemble members
-indicate the trough moving into Northern California with the
-other 40% showing more zonal flow. The troughing solutions are
-the ones most likely to bring us light precipitation in Southern
-California. The current forecast follows the NBM with slight
-chances of precipitation as early as Sunday with gradual cooling
-Saturday into Sunday.
+By Saturday, most ensemble solutions have a trough of low pressure
+starting to push the ridge to our east. This will bring a few
+degrees of cooling for Saturday compared to Friday. By Sunday, there
+remains a spread of solutions of where the low will be but 60% of
+ensemble members continue to indicate the trough moving into
+Northern California with the other 40% showing more zonal flow. The
+troughing solutions are the ones most likely to bring us light
+precipitation in Southern California. The current forecast follows
+the NBM with chances of precipitation Sunday. A general troughing
+pattern looks to prevail for much of next week, which has the
+potential to bring periods of additional precipitation, cooler
+conditions, and westerly winds for the first week of December.
 
 &&
 
 .AVIATION...
-230600Z...FEW-BKN clouds with bases 5000-8000 ft MSL increase in
-coverage across the coastal basin this evening. Isolated to
-scattered light showers over the coastal areas and valleys through
-10Z, continuing in San Diego County through 18Z. Isolated light
-showers may persist over the coastal waters through 00Z. CIGS may
-briefly lower to 2500-3000 ft in heavier showers, but otherwise VFR
-conditions will prevail. FEW-SCT clouds at/above 5000 ft after 14Z
-clearing in the evening, then FEW clouds at/above 25,000 ft Monday
-evening into Tuesday.
+232315Z...FEW-SCT clouds over foothills through 02z. East winds
+gusting locally to 30 kts expected Tuesday morning over the coastal
+facing foothill slopes. SCT high clouds move through the region
+tonight moving through the region during the day Tuesday.
+
+Otherwise, VFR conditions prevail regionwide.
 
 &&
 
 .MARINE...
-No marine hazards are expected through Tuesday.
+No hazardous marine conditions are expected through Tuesday.
 
-A large west swell is likely to move into the region Wednesday
-afternoon into Thursday. Combined seas rise 8-12 feet, locally up to
-14 feet in the outer waters. Northwest winds briefly reach 20-25 kt
-in the outer coastal waters near San Clemente Island Wednesday
-afternoon and evening. The combination of large seas and breezy
-winds will create conditions hazardous to small craft. Seas begin to
-lower Thursday afternoon.
+A large, long period west swell will arrive Wednesday afternoon
+and build into Thursday, bringing combined seas of 8-12 feet.
+Northwest winds briefly reach 20-25 kt in the outer coastal waters
+near San Clemente Island Wednesday afternoon and evening. The
+combination of large seas and breezy winds will create conditions
+hazardous to small craft. With this, a Small Craft Advisory has been
+issued for the outer waters from late Wednesday morning through late
+Thursday morning. Seas begin to wane Thursday afternoon, falling
+below 10 ft by Thursday evening.
 
 &&
 
 .BEACHES...
 Morning high tides will increase this week, and have already reached
-7.35 feet (MLLW) today at La Jolla. Highest tides will occur Tuesday
-through Thursday, with the King Tides peaking on Wednesday. High
-tides each morning on Tuesday through Thursday will reach 7.9-8.3
-feet. These forecast tides have been adjusted 1.1-1.2 feet above
-baseline astronomical predictions based on trends in recent
+7.73 feet (MLLW) on Monday morning at La Jolla. Highest tides will
+occur Tuesday through Thursday at 7.9-8.3 feet, peaking on
+Wednesday. These forecast tides have been adjusted 1.1-1.2 feet
+above baseline astronomical predictions based on trends in recent
 observations, and will likely break the all time tidal records
 recently set in late October.
 
-Background surf on top of the tides will remain around 3-5 feet
-through Wednesday afternoon, but an incoming swell late Wednesday
-into Thursday will bring a sharp increase in surf late. Breaking
-waves of 6-8 feet are expected on Thursday, with sets of 10+ feet on
-west-facing beaches. Surf will lower on Fr Friday looks to be the
-warmest day with NBM chances of high temperatures of 80 or higher
-across the coastal basin and low deserts at 70-90%. Chances of
-high temperatures of 90 or more are zero at this time.
-iday, but remain elevated at 5-8 feet.
+Background surf on top of the tides will remain around 2-5 feet
+through Wednesday morning, but an incoming west swell of 8-9 ft at
+18-19 seconds arrives late Wednesday into Thursday. This
+will generate large breaking waves of 6-8 feet on Thursday, with
+sets of 10-12 feet on exposed west-facing beaches. Surf lowers to 3-
+6 feet on Friday. With this, a High Surf Advisory has been issued
+for San Diego County as the west-northwest swell will focus the
+higher surf on the west-facing beaches.
 
-The combination of forecast record high tides and elevated surf
-will likely lead to moderate to locally major coastal flooding
-through Tuesday. A Coastal Flood Advisory remains in effect through
-early Tuesday morning. With King Tides peaking Tue-Thu and the
-notable swell arriving late Wednesday, major coastal flooding is
-expected, with locally extreme flooding expected on Thursday. A
-Coastal Flood Warning remains in effect from Tuesday morning
-through early Friday afternoon.
+The combination of forecast record high tides and elevated surf will
+bring moderate to locally major coastal flooding during Tuesday
+morning`s high tide. A Coastal Flood Advisory remains in effect
+through early Tuesday morning. King Tides Tue-Thu combined with
+elevated to high surf bring major coastal flooding, with locally
+extreme flooding expected during Thursday morning`s high tide. A
+Coastal Flood Warning remains in effect from Tuesday morning through
+early Friday afternoon.
 
 &&
 
@@ -484,14 +489,20 @@ CA...Coastal Flood Advisory until 4 AM PST Tuesday for Orange County
      Coastal Flood Warning from 4 AM Tuesday to 1 PM PST Friday for
      Orange County Coastal Areas-San Diego County Coastal Areas.
 
-PZ...None.
+     High Surf Advisory from 1 PM Wednesday to 4 AM PST Friday for
+     San Diego County Coastal Areas.
+
+PZ...Small Craft Advisory from 10 AM Wednesday to 10 AM PST Thursday
+     for Waters from San Mateo Point to the Mexican Border
+     Extending 10 to 60 nm out including San Clemente Island.
+
 
 &&
 
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...SS
+AVIATION/MARINE/BEACHES...Westerink
 
 
 </pre>
