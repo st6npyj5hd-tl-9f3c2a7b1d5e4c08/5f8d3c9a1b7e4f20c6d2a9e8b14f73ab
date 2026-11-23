@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-22T23:20:14+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-23T06:16:04+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -339,16 +339,18 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=37&glossary=0">37</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=38&glossary=0">38</a> 
+                            
+<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-390
-FXUS66 KSGX 222022
+783
+FXUS66 KSGX 230603
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1222 PM PST Sun Nov 22 2026
+1003 PM PST Sun Nov 22 2026
 
 .SYNOPSIS...
 Increasing clouds and rain chances tonight into early Monday
@@ -365,6 +367,8 @@ surf.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
+
+...UPDATED AVIATION DISCUSSION...
 
 A weakening trough will move across Southern California tonight into
 early Monday. This will bring periods of light rain showers to the
@@ -410,53 +414,59 @@ Saturday into Sunday.
 &&
 
 .AVIATION...
-221800Z...SCT-BKN clouds AOA 20000 ft MSL the VFR conditions
-prevailing through the day today. Low clouds with bases 3500-5000 ft
-MSL increase in coverage across the coastal basin after 18z Sunday
-as some disturbed weather moves into the region. VCSH across the
-nearshore waters and coasts develops as early as 02-03z. Heavier
-pockets of more defined -SHRA become favored for the 08-12z period.
-VCSH will generally taper off between 14-18z Monday morning.
+230600Z...FEW-BKN clouds with bases 5000-8000 ft MSL increase in
+coverage across the coastal basin this evening. Isolated to
+scattered light showers over the coastal areas and valleys through
+10Z, continuing in San Diego County through 18Z. Isolated light
+showers may persist over the coastal waters through 00Z. CIGS may
+briefly lower to 2500-3000 ft in heavier showers, but otherwise VFR
+conditions will prevail. FEW-SCT clouds at/above 5000 ft after 14Z
+clearing in the evening, then FEW clouds at/above 25,000 ft Monday
+evening into Tuesday.
 
 &&
 
 .MARINE...
 No marine hazards are expected through Tuesday.
 
-The next storm system and associated swell is likely to move into
-the region Wednesday afternoon into Thursday, which would to
-increase winds and seas to hazardous levels. Winds in the outer
-waters look to gust 20-25 knots with seas 8-12 feet, locally up to
-14 feet in the outer waters. Winds and seas diminish Thursday into
-Friday.
+A large west swell is likely to move into the region Wednesday
+afternoon into Thursday. Combined seas rise 8-12 feet, locally up to
+14 feet in the outer waters. Northwest winds briefly reach 20-25 kt
+in the outer coastal waters near San Clemente Island Wednesday
+afternoon and evening. The combination of large seas and breezy
+winds will create conditions hazardous to small craft. Seas begin to
+lower Thursday afternoon.
 
 &&
 
 .BEACHES...
-Morning high tides will be on the increase this week, and has
-already been observed at 7.35 feet (MLLW) today at La Jolla. Highest
-tides will be Tuesday through Thursday, with the King Tides peaking
-on Wednesday. Daily high tides each morning on Tuesday through
-Thursday will reach 7.9-8.3 feet. These expected tides will likely
-re-break the all time tidal records recently set in late October.
-Forecast tides have been adjusted 1.1-1.2 feet above baseline
-astronomical predictions based on trends in recent observations.
+Morning high tides will increase this week, and have already reached
+7.35 feet (MLLW) today at La Jolla. Highest tides will occur Tuesday
+through Thursday, with the King Tides peaking on Wednesday. High
+tides each morning on Tuesday through Thursday will reach 7.9-8.3
+feet. These forecast tides have been adjusted 1.1-1.2 feet above
+baseline astronomical predictions based on trends in recent
+observations, and will likely break the all time tidal records
+recently set in late October.
 
 Background surf on top of the tides will remain around 3-5 feet
-through Wednesday, but an incoming swell Wednesday afternoon into
-Thursday will bring a sharp increase to surf late Wednesday into
-Thursday. Breaking waves of 6-8 feet are expected on Thursday, with
-sets of 10+ feet on west-facing beaches. Surf will come down a bit
-for Friday, but should still remain elevated to 5-8 feet.
+through Wednesday afternoon, but an incoming swell late Wednesday
+into Thursday will bring a sharp increase in surf late. Breaking
+waves of 6-8 feet are expected on Thursday, with sets of 10+ feet on
+west-facing beaches. Surf will lower on Fr Friday looks to be the
+warmest day with NBM chances of high temperatures of 80 or higher
+across the coastal basin and low deserts at 70-90%. Chances of
+high temperatures of 90 or more are zero at this time.
+iday, but remain elevated at 5-8 feet.
 
-The combination of forecast record high tides and the elevated surf
-through Wednesday will likely lead to moderate to locally major
-coastal flooding through Tuesday. A Coastal Flood Advisory remains
-in effect through early Tuesday morning. With King Tides peaking Tue-
-Thu and the notable swell arriving late Wednesday, major coastal
-flooding is expected, with locally extreme flooding expected on
-Thursday. The Coastal Flood Watch has been upgraded to a Coastal
-Flood Warning and has been extended into Friday`s period.
+The combination of forecast record high tides and elevated surf
+will likely lead to moderate to locally major coastal flooding
+through Tuesday. A Coastal Flood Advisory remains in effect through
+early Tuesday morning. With King Tides peaking Tue-Thu and the
+notable swell arriving late Wednesday, major coastal flooding is
+expected, with locally extreme flooding expected on Thursday. A
+Coastal Flood Warning remains in effect from Tuesday morning
+through early Friday afternoon.
 
 &&
 
@@ -481,7 +491,7 @@ PZ...None.
 $$
 
 PUBLIC...CO
-AVIATION/MARINE/BEACHES...Munyan
+AVIATION/MARINE/BEACHES...SS
 
 
 </pre>
