@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-23T23:30:46+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-24T08:45:10+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -343,18 +343,16 @@
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=39&glossary=0">39</a> 
                             
 <a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=40&glossary=0">40</a> 
-                            
-<a href="?site=SGX&issuedby=SGX&product=AFD&format=TXT&version=41&glossary=0">41</a> 
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-006
-FXUS66 KSGX 232321
+427
+FXUS66 KSGX 240613
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-321 PM PST Mon Nov 23 2026
+1013 PM PST Mon Nov 23 2026
 
 .SYNOPSIS...
 Dry conditions expected through Saturday. Today and Tuesday will see
@@ -370,7 +368,6 @@ expected this week due to King Tides and increased surf.
 .DISCUSSION...FOR EXTREME SOUTHWESTERN CALIFORNIA INCLUDING ORANGE...
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
-
 
 ...UPDATED AVIATION DISCUSSION...
 
@@ -422,10 +419,10 @@ conditions, and westerly winds for the first week of December.
 &&
 
 .AVIATION...
-232315Z...FEW-SCT clouds over foothills through 02z. East winds
-gusting locally to 30 kts expected Tuesday morning over the coastal
-facing foothill slopes. SCT high clouds move through the region
-tonight moving through the region during the day Tuesday.
+240600Z...SCT-BKN high clouds will move across tonight/early Tuesday
+morning, AOA 20,000ft MSL, clearing out late Tuesday morning. East
+winds gusting locally to 30 kts expected Tuesday morning over the
+coastal facing foothill slopes, weakening around 18z.
 
 Otherwise, VFR conditions prevail regionwide.
 
@@ -439,30 +436,29 @@ and build into Thursday, bringing combined seas of 8-12 feet.
 Northwest winds briefly reach 20-25 kt in the outer coastal waters
 near San Clemente Island Wednesday afternoon and evening. The
 combination of large seas and breezy winds will create conditions
-hazardous to small craft. With this, a Small Craft Advisory has been
-issued for the outer waters from late Wednesday morning through late
+hazardous to small craft. A Small Craft Advisory will be in effect
+for the outer waters from late Wednesday morning through late
 Thursday morning. Seas begin to wane Thursday afternoon, falling
-below 10 ft by Thursday evening.
+below 10 feet by Thursday evening.
 
 &&
 
 .BEACHES...
-Morning high tides will increase this week, and have already reached
-7.73 feet (MLLW) on Monday morning at La Jolla. Highest tides will
-occur Tuesday through Thursday at 7.9-8.3 feet, peaking on
-Wednesday. These forecast tides have been adjusted 1.1-1.2 feet
-above baseline astronomical predictions based on trends in recent
-observations, and will likely break the all time tidal records
-recently set in late October.
+Morning high tides will increase this week, and already reached 7.73
+feet (MLLW) at La Jolla. Highest tides will occur Tuesday through
+Thursday at 7.9-8.3 feet, peaking on Wednesday. These forecast tides
+have been adjusted 1.1-1.2 feet above baseline astronomical
+predictions based on trends in recent observations, and will likely
+break the all time tidal records just recently set in late October.
 
 Background surf on top of the tides will remain around 2-5 feet
 through Wednesday morning, but an incoming west swell of 8-9 ft at
 18-19 seconds arrives late Wednesday into Thursday. This
 will generate large breaking waves of 6-8 feet on Thursday, with
 sets of 10-12 feet on exposed west-facing beaches. Surf lowers to 3-
-6 feet on Friday. With this, a High Surf Advisory has been issued
-for San Diego County as the west-northwest swell will focus the
-higher surf on the west-facing beaches.
+6 feet on Friday. A High Surf Advisory has been issued for San Diego
+County as the west-northwest swell will focus the higher surf on the
+west-facing beaches.
 
 The combination of forecast record high tides and elevated surf will
 bring moderate to locally major coastal flooding during Tuesday
@@ -472,13 +468,6 @@ elevated to high surf bring major coastal flooding, with locally
 extreme flooding expected during Thursday morning`s high tide. A
 Coastal Flood Warning remains in effect from Tuesday morning through
 early Friday afternoon.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
 
 &&
 
@@ -501,8 +490,8 @@ PZ...Small Craft Advisory from 10 AM Wednesday to 10 AM PST Thursday
 
 $$
 
-PUBLIC...CO
-AVIATION/MARINE/BEACHES...Westerink
+PUBLIC...PG
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
