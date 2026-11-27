@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-27T07:12:02+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-27T20:47:16+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -346,24 +346,24 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-570
-FXUS66 KSGX 270556
+549
+FXUS66 KSGX 271743
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-956 PM PST Thu Nov 26 2026
+943 AM PST Fri Nov 27 2026
 
 .SYNOPSIS...
-Coastal flooding is expected to continue into Friday due to King
-Tides and elevated to high surf. Warmer today and Friday with
-highs 10 to 15 degrees above normal and breezy offshore winds.
-Cooling will spread inland Saturday through Wednesday. There is a
-50 percent chance for showers from the coast to the mountains
-Sunday night and Monday. Chances for moderate to heavy rainfall
-and high elevation mountain snow increase significantly Tuesday
-and Wednesday as a strong Pacific storm moves inland into
-California.
+Coastal flooding is expected to continue today due to King
+Tides and elevated to high surf. Warming will continue today
+with high temperatures mostly in the 80s for the valleys and
+inland coastal areas. A cooling trend will begin on Saturday
+and continue into the middle of next week. There is a chance
+of showers for late Sunday night and Monday. A strong Pacific
+storm for Tuesday into Wednesday will bring heavy
+precipitation, strong winds, and a chance of thunderstorms.
+Precipitation will decrease for Wednesday night and Thursday.
 
 &&
 
@@ -371,95 +371,113 @@ California.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+...UPDATED AVIATION, BEACHES, AND MARINE DISCUSSION...
 
-Northeast Winds will gradually weaken through the afternoon with
-light offshore flow continuing into Friday morning, transitioning
-to a sea breeze in the afternoon. The upper level ridge moving
-overhead into Friday combined with weak offshore flow will
-generate warm conditions across the region. Widespread highs in
-the low to mid 80s are expected across the coastal areas, valleys,
-and low deserts both days, warmest on Friday. Highs in the
-mountains will be in the low 60s to low 70s, and mid 60s to low
-70s in the high desert.
+.SHORT TERM (Today through Sunday)...
+High pressure aloft will continue the warming trend today with high
+temperatures 12 to 18 degrees above average from the coast to the
+coastal slopes of the mountains. High temperatures near the coast
+will be around 80 with high temperatures for the valleys and inland
+coastal areas in the 80s. High temperatures in the lower deserts
+will be in the 80s and for the mountains in the lower 60s to lower 80s.
 
-The upper level ridge breaks down in response to an upper low
-moving across the top of it and into the Pac NW this weekend,
-allowing for gradual cooling and a return of onshore flow, though
-high temperatures remain several degrees above normal. Otherwise
-just expect some scattered to broken high clouds at times this
-weekend.
+High pressure aloft will weaken during the weekend and onshore
+lower-level flow will return and strengthen. High temperatures will
+cool during the weekend, but remain above average on Sunday. On Sunday,
+high temperatures for the coast and valleys will be mostly in the 70s,
+for the lower deserts around 80, and for the mountains in the lower 50s
+to lower 70s.
 
-Precipitable water increases to around 0.8" on Monday as upper
-level zonal flow ushers in some subtropical moisture. However,
-only weak, very subtle short waves will be moving through the mean
-flow, providing little if any forcing for precipitation. Current
-forecast has a 25-45% chance of precipitation for the mountains
-westward on Monday, but any accumulation will likely be limited to
-one-tenth inch or less.
+High clouds for late Friday night into Saturday morning will decrease
+for Saturday afternoon into Sunday.
 
-A deep long wave trough is then forecast to move through
-California Tuesday into Wednesday, bringing gusty southwest to
-west winds and widespread precipitation to the region. There
-remains differences in the ensembles with regards to how far south
-this trough will dig, as well as the timing. The more significant
-spread lies in the forecast Integrated Vapor Transport (IVT). The
-GEFS and EPS 10th to 90th percentiles of IVT range from about 150
-to over 600 kg/m/s, so anywhere from too low to be considered an
-Atmospheric River to a moderate AR. This is likely the main cause
-of the large spread in forecast rainfall from this system. The NBM
-25th percentile 48 hr precipitation currently ranges from about
-1.5-2" for the mountains westward, up to 2.5" on the coastal
-slopes of the mountains, while the 75th percentile is around
-2.3-3" for the mountains westward, and 3.5-4" on the coastal
-mountain slopes. While it is far too early to nail down specific
-rainfall totals, this is leaning towards a moderate to heavy rain
-event. Potential snow levels range from around 6500 ft in a colder
-scenario event to as high as 8000 ft on the warmer end. Weak
-instability (surface based CAPE of 100-200 J/kg) will produce a
-slight chance of thunderstorms Tue-Wed as well, mainly over the
-coastal waters into the valleys. Light showers could persist into
-Thursday (10-20% chance).
+&&
+
+.LONG TERM (Sunday night through Thursday)...
+Clouds will increase for Sunday night and Monday with a chance of showers
+for late Sunday night and Monday. Through Monday afternoon, the chance
+for 0.25 inch or more of rainfall remains below 25 percent.
+
+Chances for rain will increase for Monday night as a strong Pacific storm
+moves into southern California on Tuesday. It could bring heavy
+precipitation, strong winds, high surf, and a chance of thunderstorms.
+
+Through Wednesday night, the chance of 1 inch or more of rainfall
+exceeds 90 percent from the coast to the mountains. For Orange and
+southwestern San Bernardino Counties, the chance of 3 inches or more
+of rainfall ranges from 35 to 45 percent near the coast to 60 to 70
+percent in the mountains. For San Diego County, the chance for 3 inches
+or more of rainfall ranges from 40 to 50 percent over far northern
+portions of the county to 25 to 35 percent for far southern portions
+of the county. Through Tuesday, snow levels will mostly remain above
+8000 feet. Winds could strengthen to gale force over the coastal
+waters on Tuesday.
+
+Current model timing would bring the most significant impacts into
+southwestern California around Tuesday morning. Precipitation
+will continue through Tuesday night into Wednesday, then decrease
+for Wednesday night and Thursday as the low pressure system moves
+eastward and farther inland.
 
 &&
 
 .AVIATION...
-270600Z...VFR prevailing with SKC-SCT250 through the forecast
-period.
+271700Z...VFR prevailing with SKC-SCT250 through this evening.
+Increasing amounts of high-level clouds this evening will likely
+prevent any widespread low-level cloud cover for coastal regions,
+but patchy, intermittently impactful cigs are possible tonight (40%
+chance vcnty KSAN 06-12Z, 25% vcnty chance KSNA 03-14Z).
 
 &&
 
 .MARINE...
-No hazardous marine conditions expected through Monday.
-
-&&
-
-.BEACHES...
-High tide 10 AM Friday is forecast to be around 7.57-7.7 ft MLLW.
-High tides will continue to decrease through the weekend, with high
-tide around 7 ft MLLW Saturday, falling below 7 ft on Sunday.
-Forecast tides have been adjusted 1.01 to 1.07 feet above baseline
-astronomical predictions based on trends in recent observations.
-
-A long period west swell of 7-9 ft at 16-18 seconds will continue to
-generate large breaking waves of 6-8 feet, with local sets of 10-12
-feet on exposed west-facing beaches this evening. Surf lowers Friday
-morning with surf of 3-5 feet Friday with sets to 7 feet on Saturday.
-
-The combination King Tides and elevated surf will result in moderate
-coastal flooding during the Friday morning high tide. Minor coastal
-flooding is possible on Saturday morning where surf is elevated. A
-Coastal Flood Warning remains in effect through early Friday
+No hazardous marine conditions expected through Monday. Winds become
+southwesterly early Tuesday morning, increasing through the day.
+While there is some uncertainty when it comes to exact wind speeds,
+widespread gusts 30 to 35 knots are likely Tuesday morning through
+Wednesday morning, along with steep, choppy, high seas. There is a
+40-50% chance for storm-force wind gusts Tuesday morning and
 afternoon.
 
 &&
 
-.SGX WATCHES/WARNINGS/ADVISORIES...
-CA...Coastal Flood Warning until 1 PM PST Friday for Orange County
-     Coastal Areas-San Diego County Coastal Areas.
+.BEACHES...
+High tide peaks this morning at 10 AM around 7.57-7.7 ft MLLW. High
+tides will continue to decrease through the weekend, with high tide
+around 7 ft MLLW Saturday, falling below 7 ft on Sunday. Forecast
+tides have been adjusted 1.01 to 1.07 feet above baseline
+astronomical predictions based on trends in recent observations.
 
-     High Surf Advisory until 4 AM PST Friday for San Diego County
-     Coastal Areas.
+A long period west swell of 3-4 ft at 14-15 seconds continues to
+generate breaking waves of 3-5 feet, with local sets up to 6 feet on
+exposed west-facing beaches today. The period increases to 16-17
+seconds Saturday, increasing breaking waves to 4-7 ft with sets up
+to 8 feet on exposed west-facing beaches and near piers for
+Saturday, highest in the morning and early afternoon.
+
+The combination tides above 7 feet and elevated surf will result in
+moderate coastal flooding during the this morning high tide, with
+minor to locally moderate coastal flooding on Saturday morning. A
+Coastal Flood Warning remains in effect through early this
+afternoon, with a Beach Hazards Statement in effect early this
+afternoon into Saturday afternoon.
+
+&&
+
+.SKYWARN...
+Skywarn activation is not requested. However weather spotters are
+encouraged to report significant weather conditions.
+
+
+&&
+
+.SGX WATCHES/WARNINGS/ADVISORIES...
+CA...Coastal Flood Warning until 1 PM PST this afternoon for Orange
+     County Coastal Areas-San Diego County Coastal Areas.
+
+     Beach Hazards Statement from 1 PM PST this afternoon through
+     Saturday afternoon for Orange County Coastal Areas-San
+     Diego County Coastal Areas.
 
 PZ...None.
 
@@ -468,7 +486,7 @@ PZ...None.
 $$
 
 PUBLIC...17
-AVIATION/MARINE/BEACHES...Zuber
+AVIATION/MARINE/BEACHES...CSP
 
 
 </pre>
