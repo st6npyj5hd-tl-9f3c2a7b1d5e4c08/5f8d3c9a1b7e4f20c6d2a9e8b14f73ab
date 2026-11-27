@@ -7,7 +7,7 @@
         <meta name="DC.title" content="National Weather Service" />
         <meta name="DC.description" content="NOAA National Weather Service" />
         <meta name="DC.creator" content="US Department of Commerce, NOAA, National Weather Service" />
-        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-26T21:02:19+00:00" />
+        <meta name="DC.date.created" scheme="ISO8601" content="2026-11-27T07:12:02+00:00" />
         <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
         <meta name="DC.keywords" content="weather" />
         <meta name="DC.publisher" content="NOAA's National Weather Service" />
@@ -131,10 +131,10 @@
                                     <a href="https://www.weather.gov/wrn/wea">Wireless Emergency Alerts</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
+                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
                                 </li>
                                                             <li>
-                                    <a href="https://www.weather.gov/owlie/publication_brochures">Brochures</a>
+                                    <a href="https://www.weather.gov/wrn/">Weather-Ready Nation</a>
                                 </li>
                                                             <li>
                                     <a href="https://www.weather.gov/coop/">Cooperative Observers</a>
@@ -346,13 +346,13 @@
                     <hr size="1" width="520" noshade="noshade" align="left" />
         </div>
         <pre class="glossaryProduct">
-254
-FXUS66 KSGX 261949
+570
+FXUS66 KSGX 270556
 AFDSGX
 
 Area Forecast Discussion
 National Weather Service San Diego CA
-1149 AM PST Thu Nov 26 2026
+956 PM PST Thu Nov 26 2026
 
 .SYNOPSIS...
 Coastal flooding is expected to continue into Friday due to King
@@ -371,20 +371,17 @@ California.
 SAN DIEGO...WESTERN RIVERSIDE AND SOUTHWESTERN SAN BERNARDINO
 COUNTIES...
 
-Morning water vapor imagery shows an upper level ridge of high
-pressure building in from the west. At the surface, pressure
-gradioents peaked earlier this morning at -6.2 mb SAN-DAG,
-currently down to -5.6 mb SAN-DAG. This is producing northeast to
-east winds gusting to 25-40 mph below the passes, canyons, and
-coastal mountain slopes. Winds will gradually weaken through the
-afternoon with light offshore flow continuing into Friday morning,
-transitioning to a sea breeze in the afternoon. The upper level
-ridge moving overhead into Friday combined with weak offshore flow
-will generate warm conditions across the region. Widespread highs
-in the low to mid 80s are expected across the coastal areas,
-valleys, and low deserts both days, warmest on Friday. Highs in
-the mountains will be in the low 60s to low 70s, and mid 60s to
-low 70s in the high desert.
+...UPDATED AVIATION/MARINE/BEACHES DISCUSSION...
+
+Northeast Winds will gradually weaken through the afternoon with
+light offshore flow continuing into Friday morning, transitioning
+to a sea breeze in the afternoon. The upper level ridge moving
+overhead into Friday combined with weak offshore flow will
+generate warm conditions across the region. Widespread highs in
+the low to mid 80s are expected across the coastal areas, valleys,
+and low deserts both days, warmest on Friday. Highs in the
+mountains will be in the low 60s to low 70s, and mid 60s to low
+70s in the high desert.
 
 The upper level ridge breaks down in response to an upper low
 moving across the top of it and into the Pac NW this weekend,
@@ -427,46 +424,33 @@ Thursday (10-20% chance).
 &&
 
 .AVIATION...
-261800Z...VFR prevailing with SKC. Northeast winds with gusts 25-35
-kts along coastal slopes and through passes, decreasing around 22z.
-SCT-BKN high clouds AOA 20kft moves in this evening/early Friday
-morning with lighter winds.
+270600Z...VFR prevailing with SKC-SCT250 through the forecast
+period.
 
 &&
 
 .MARINE...
-Combined seas of 7 to 10 feet in the outer coastal waters south of
-San Clemente Island will continue through the morning. Seas lower
-this afternoon, falling below 8 feet by this evening.
+No hazardous marine conditions expected through Monday.
 
 &&
 
 .BEACHES...
-The La Jolla tide gauge recorded a high tide of 8.11 ft MLLW
-Wednesday morning, preliminarily breaking the all-time record just
-recently set on October 27th. King Tides continue today, and have
-peaked just below 8 ft this morning. Forecast tides have been
-adjusted 1.1-1.2 feet above baseline astronomical predictions based
-on trends in recent observations.
+High tide 10 AM Friday is forecast to be around 7.57-7.7 ft MLLW.
+High tides will continue to decrease through the weekend, with high
+tide around 7 ft MLLW Saturday, falling below 7 ft on Sunday.
+Forecast tides have been adjusted 1.01 to 1.07 feet above baseline
+astronomical predictions based on trends in recent observations.
 
-A long period west swell of 7-9 ft at 16-18 seconds is generating
-large breaking waves of 6-8 feet, with sets of 10-12 feet on exposed
-west-facing beaches. Surf lowers to 3-5 feet with local sets to 7
-feet on Friday. A High Surf Advisory is in effect for San Diego
-County through 4 AM Friday with the swell focusing the higher surf
-on the west-facing beaches.
+A long period west swell of 7-9 ft at 16-18 seconds will continue to
+generate large breaking waves of 6-8 feet, with local sets of 10-12
+feet on exposed west-facing beaches this evening. Surf lowers Friday
+morning with surf of 3-5 feet Friday with sets to 7 feet on Saturday.
 
-The combination of forecast record King Tides and elevated to high
-surf will bring moderate to major coastal flooding, with locally
-extreme flooding expected during this morning`s high tide. A Coastal
-Flood Warning remains in effect through early Friday afternoon.
-
-&&
-
-.SKYWARN...
-Skywarn activation is not requested. However weather spotters are
-encouraged to report significant weather conditions.
-
+The combination King Tides and elevated surf will result in moderate
+coastal flooding during the Friday morning high tide. Minor coastal
+flooding is possible on Saturday morning where surf is elevated. A
+Coastal Flood Warning remains in effect through early Friday
+afternoon.
 
 &&
 
@@ -483,8 +467,8 @@ PZ...None.
 
 $$
 
-PUBLIC...SS
-AVIATION/MARINE/BEACHES...APR
+PUBLIC...17
+AVIATION/MARINE/BEACHES...Zuber
 
 
 </pre>
